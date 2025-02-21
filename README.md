@@ -11,7 +11,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/IrvanFza/api-wilayah.svg)](https://github.com/IrvanFza/api-wilayah/stargazers)
 
 ## Overview
-Another Wilayah API in Indonesia! But what makes this API project different?
+
+Another API Wilayah in Indonesia! But what makes this API project different?
+
 - **Regular Data Update**: This project utilize GitHub Actions to regularly scrape data (once in a week) from Kemendagri.
 - **Data Availability**: This project is hosted on GitHub Pages so you don't have to worry about the availability (but you might worry about the scalability, see more in the [GitHub Pages Bandwidth Restrictions](#github-pages-bandwidth-restrictions) section)
 - **Population and Demography**: This API includes population and demography data that you may want to use!
