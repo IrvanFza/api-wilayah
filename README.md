@@ -405,6 +405,7 @@ Contributions are welcome! To contribute to this project, please follow these st
 
 ## TODO
 
+- [ ] Add postal code (kode pos) to the Desa/Kecamatan data
 - [ ] Add more population data scraper
 - [ ] Reformat the population data response to be cleaner
 - [ ] Add unit test and integration test
