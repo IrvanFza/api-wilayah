@@ -12,6 +12,13 @@
 
 This project provides a comprehensive RESTful API for detailed Indonesian administrative regions and demographic information. The data is sourced from the Ministry of Home Affairs of Indonesia (Kemendagri) and is regularly updated using automated data scraping.
 
+Here are some quick links to example endpoints for accessing the data:
+
+- **Provinsi**: https://irvanfza.github.io/api-wilayah/api/provinsi.json
+- **Kabupaten/Kota**: https://irvanfza.github.io/api-wilayah/api/kabupaten_kota/11.json
+- **Kecamatan**: https://irvanfza.github.io/api-wilayah/api/kecamatan/11.01.json
+- **Desa/Kelurahan**: https://irvanfza.github.io/api-wilayah/api/desa_kelurahan/11.01.01.json
+
 ## Table of Contents
 
 - [Data Wilayah Indonesia API](#data-wilayah-indonesia-api)
