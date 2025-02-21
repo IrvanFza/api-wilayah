@@ -4,7 +4,14 @@
 [![Express](https://img.shields.io/badge/Express.js-4.x-blue)](https://expressjs.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-An API service providing detailed data about Indonesian administrative regions and demographic information.
+[![Build Status](https://github.com/IrvanFza/api-wilayah/actions/workflows/scraper.yml/badge.svg)](https://github.com/IrvanFza/api-wilayah/actions/workflows/scraper.yml)
+[![GitHub issues](https://img.shields.io/github/issues/IrvanFza/api-wilayah.svg)](https://github.com/IrvanFza/api-wilayah/issues)
+[![GitHub contributors](https://img.shields.io/github/contributors/IrvanFza/api-wilayah.svg)](https://github.com/IrvanFza/api-wilayah/graphs/contributors)
+
+[![GitHub forks](https://img.shields.io/github/forks/IrvanFza/api-wilayah.svg)](https://github.com/IrvanFza/api-wilayah/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/IrvanFza/api-wilayah.svg)](https://github.com/IrvanFza/api-wilayah/stargazers)
+
+This project provides a comprehensive RESTful API for detailed Indonesian administrative regions and demographic information. The data is sourced from the Ministry of Home Affairs of Indonesia (Kemendagri) and is regularly updated using automated data scraping.
 
 ## Table of Contents
 
@@ -15,37 +22,42 @@ An API service providing detailed data about Indonesian administrative regions a
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Running the Project](#running-the-project)
-    - [Development Mode](#development-mode)
-    - [Production Mode](#production-mode)
+    - [Default: GitHub Pages API Access](#default-github-pages-api-access)
+    - [Optional: Local Node \& Express.js Server](#optional-local-node--expressjs-server)
   - [API Endpoints](#api-endpoints)
     - [Provinces (Provinsi)](#provinces-provinsi)
     - [Regencies/Cities (Kabupaten/Kota)](#regenciescities-kabupatenkota)
     - [Districts (Kecamatan)](#districts-kecamatan)
     - [Villages/Sub-districts (Desa/Kelurahan)](#villagessub-districts-desakelurahan)
+  - [Docker Deployment](#docker-deployment)
+  - [GitHub Pages Bandwidth Restrictions](#github-pages-bandwidth-restrictions)
   - [Data Scraping](#data-scraping)
     - [Manual Data Update](#manual-data-update)
     - [Automated Data Update](#automated-data-update)
   - [Project Structure](#project-structure)
   - [Contributing](#contributing)
+  - [TODO](#todo)
   - [License](#license)
 
 ## Introduction
 
-This project provides a RESTful API that serves comprehensive data on Indonesian administrative regions, including provinces, regencies/cities, districts, and villages/sub-districts, along with demographic information such as population by age groups. The data is sourced from the Ministry of Home Affairs of Indonesia and is regularly updated.
+This project provides a RESTful API that serves detailed data on Indonesian administrative regions (provinces, regencies/cities, districts, and villages/sub-districts) along with demographic details such as population segmented by various age groups. The data is maintained and updated automatically via scraping scripts.
 
 ## Features
 
-- **Detailed Regional Data**: Access information on all levels of Indonesian administrative regions.
-- **Demographic Information**: Get population data segmented by various age groups.
-- **Regular Updates**: Automated data scraping ensures the data is current.
-- **Easy Integration**: Simple RESTful endpoints for seamless integration into other applications.
-- **CORS Enabled**: Cross-Origin Resource Sharing is enabled to allow API access from different domains.
+- **Default GitHub Pages API Access**: By default, API access is provided via GitHub Pages. Endpoints are served as static JSON files (with a `.json` extension).
+- **Optional Local API Access**: You can also run a Node.js/Express server locally or in your own server if you prefer dynamic API routing.
+- **Detailed Regional Data**: Access comprehensive data on all administrative levels.
+- **Demographic Information**: Population data segmented by age groups.
+- **Automated Data Updates**: Regular scraping ensures the data remains current.
+- **Docker Deployment**: Easily deploy the application using Docker.
 
 ## Prerequisites
 
 - **Node.js**: Version 14 or higher.
 - **npm**: Comes with Node.js.
 - **Git**: For cloning the repository.
+- **Docker** (optional): For containerized deployment.
 
 ## Installation
 
@@ -64,19 +76,33 @@ This project provides a RESTful API that serves comprehensive data on Indonesian
 
 ## Running the Project
 
-### Development Mode
+### Default: GitHub Pages API Access
 
-To run the project in development mode with live reloading using `nodemon`:
+In the default setup, the API is generated as static JSON files and hosted via GitHub Pages. The endpoints follow the pattern below:
+
+- **Provinces**:  
+  `https://irvanfza.github.io/api-wilayah/api/provinsi.json`
+
+- **Regencies/Cities**:  
+  `https://irvanfza.github.io/api-wilayah/api/kabupaten-kota/<kode_provinsi>.json`
+
+- **Districts**:  
+  `https://irvanfza.github.io/api-wilayah/api/kecamatan/<kode_kabupaten_kota>.json`
+
+- **Villages/Sub-districts**:  
+  `https://irvanfza.github.io/api-wilayah/api/desa-kelurahan/<kode_kecamatan>.json`
+
+### Optional: Local Node & Express.js Server
+
+If you prefer to serve the API locally using Node.js and Express, you can run the server as follows:
+
+- **Development Mode with Live Reloading**
 
 ```bash
 npm run dev
 ```
 
-This will start the server on the default port **3000**. You can change the port by setting the `PORT` environment variable.
-
-### Production Mode
-
-To run the project in production mode:
+This starts the server on `http://localhost:3000` with endpoints such as `/api/provinsi` (without the `.json` suffix).
 
 ```bash
 npm start
@@ -84,17 +110,17 @@ npm start
 
 ## API Endpoints
 
-The API provides the following endpoints:
+The API provides the following endpoints (access format depends on your deployment):
 
 ### Provinces (Provinsi)
 
 - **Get All Provinces**
 
   ```http
-  GET /api/provinsi
+  GET /api/provinsi (.json for GitHub Pages)
   ```
 
-- **Response**
+  **Response**
 
   ```json
   {
@@ -111,8 +137,8 @@ The API provides the following endpoints:
           // ... other age groups
           "tahun": "2021"
         }
-      },
-      // ... other provinces
+      }
+      // ... additional provinces
     ]
   }
   ```
@@ -122,14 +148,14 @@ The API provides the following endpoints:
 - **Get Regencies/Cities by Province Code**
 
   ```http
-  GET /api/kabupaten-kota/:kode_provinsi
+  GET /api/kabupaten-kota/:kode_provinsi (.json for GitHub Pages)
   ```
 
   **Parameter**
 
   - `kode_provinsi` (string): Province code (e.g., `11` for Aceh).
 
-- **Response**
+  **Response**
 
   ```json
   {
@@ -147,8 +173,8 @@ The API provides the following endpoints:
           // ... other age groups
           "tahun": "2021"
         }
-      },
-      // ... other regencies/cities
+      }
+      // ... additional regencies/cities
     ]
   }
   ```
@@ -158,14 +184,14 @@ The API provides the following endpoints:
 - **Get Districts by Regency/City Code**
 
   ```http
-  GET /api/kecamatan/:kode_kabupaten_kota
+  GET /api/kecamatan/:kode_kabupaten_kota (.json for GitHub Pages)
   ```
 
   **Parameter**
 
   - `kode_kabupaten_kota` (string): Regency/City code (e.g., `11.01` for Kab. Aceh Selatan).
 
-- **Response**
+  **Response**
 
   ```json
   {
@@ -178,8 +204,8 @@ The API provides the following endpoints:
         "level_wilayah": "kecamatan",
         "kode_kabupaten_kota": "11.01",
         "kode_provinsi": "11"
-      },
-      // ... other districts
+      }
+      // ... additional districts
     ]
   }
   ```
@@ -189,14 +215,14 @@ The API provides the following endpoints:
 - **Get Villages/Sub-districts by District Code**
 
   ```http
-  GET /api/desa-kelurahan/:kode_kecamatan
+  GET /api/desa-kelurahan/:kode_kecamatan (.json for GitHub Pages)
   ```
 
   **Parameter**
 
   - `kode_kecamatan` (string): District code (e.g., `11.01.01` for Bakongan).
 
-- **Response**
+  **Response**
 
   ```json
   {
@@ -210,52 +236,94 @@ The API provides the following endpoints:
         "kode_kecamatan": "11.01.01",
         "kode_kabupaten_kota": "11.01",
         "kode_provinsi": "11"
-      },
-      // ... other villages/sub-districts
+      }
+      // ... additional villages/sub-districts
     ]
   }
   ```
 
+## Docker Deployment
+
+You can deploy the API using Docker. Follow these steps:
+
+1. **Build the Docker Image**
+
+```bash
+docker build -t api-wilayah .
+```
+
+2. **Run the Docker Container**
+
+```bash
+docker run -p 3000:3000 api-wilayah
+```
+
+Alternatively, use Docker Compose:
+
+```bash
+docker-compose up -d
+```
+
+The container will expose the API on port 3000.
+
+## GitHub Pages Bandwidth Restrictions
+
+By default, this project is served through GitHub Pages for easier deployment, but it has some limitations.
+
+GitHub Pages is primarily designed for hosting static content and may not be optimal for very high-volume API traffic. Although GitHub does not officially publish a fixed bandwidth quota for GitHub Pages, practical estimates and community experience can provide some guidance:
+
+- **Estimated Bandwidth Capacity**:  
+  If an average API response (served as a static JSON file) is roughly 10 KB in size, and assuming a conservative monthly bandwidth allocation of about 100 GB, you can estimate the number of requests as follows:
+  
+  \[
+  \text{Estimated requests per month} = \frac{100\,\text{GB} \times 10^9\,\text{bytes/GB}}{10\,\text{KB/request} \times 10^3\,\text{bytes/KB}} \approx 10,\!000,\!000 \text{ requests}
+  \]
+  
+  This rough calculation suggests that under ideal conditions, the service might handle up to 10 million requests per month.
+
+- **Factors Affecting Bandwidth**:
+  - **Response Size**: Larger JSON payloads will naturally consume more bandwidth per request.
+  - **CDN Caching**: GitHub Pages benefits from a Content Delivery Network (CDN) that caches static files. Effective caching can greatly reduce the bandwidth consumed by repetitive requests.
+  - **Traffic Patterns**: Burst or spiky traffic may temporarily exceed the cache's ability to offload requests, potentially leading to throttled responses even when the overall monthly consumption remains moderate.
+  
+- **Usage Considerations**:
+  - GitHub Pages is optimized for static sites rather than dynamic, high-frequency API calls. Heavy, sustained traffic might trigger rate limits or result in slower response times.
+  - If you want higher traffic volumes, you should consider deploying the API on a dedicated server manually or using provided Docker configuration to ensure better performance and reliability.
+
+**Note**: These estimations are based on simplified calculations and current user experiences. Actual capacity can vary depending on file sizes, real-world traffic patterns, caching efficiency, and GitHub’s internal policies. It is advised to monitor your API’s traffic and performance regularly.
+
 ## Data Scraping
 
-The data for this project is scraped using custom scripts located in the `scraper/` directory. The scraping process collects regional and demographic data from the official API provided by the Ministry of Home Affairs (Kemendagri).
+Data is scraped with custom scripts located in the `scraper/` directory. These scripts fetch regional and demographic data from the official Ministry of Home Affairs (Kemendagri) API.
 
 ### Manual Data Update
 
-To manually update the data, follow these steps:
-
 1. **Run the Regional Data Scraper**
 
-   ```bash
-   node scraper/regionalDataScraper.js
-   ```
-
-   This script fetches the latest regional data and saves it to the `data/` directory.
+```bash
+node scraper/regionalDataScraper.js
+```
 
 2. **Run the Population Data Scraper**
 
-   ```bash
-   node scraper/populationDataScraper.js
-   ```
-
-   This script fetches the latest population demographic data.
+```bash
+node scraper/populationDataScraper.js
+```
 
 3. **Merge the Data**
 
-   ```bash
-   node scraper/mergeData.js
-   ```
-
-   This script merges the regional and demographic data into comprehensive JSON files.
+```bash
+node scraper/mergeData.js
+```
 
 ### Automated Data Update
 
-Data updates are automated using GitHub Actions. The workflow is defined in `.github/workflows/scraper.yml` and is scheduled to run every Sunday at midnight. It performs the following steps:
+Automated updates are set up using GitHub Actions. The workflow defined in `.github/workflows/scraper.yml` performs the following steps:
 
 - Checks out the repository.
 - Installs dependencies.
-- Runs the data scraping scripts.
-- Commits and pushes any changes to the data files.
+- Runs the scraping scripts.
+- Commits and pushes updates to the data files.
 
 ## Project Structure
 
@@ -264,31 +332,26 @@ api-wilayah/
 ├── .github/
 │   └── workflows/
 │       └── scraper.yml          # GitHub Actions workflow for automated data scraping
-├── data/                        # Directory for JSON data files
-│   ├── provinsi.json
-│   ├── kabupaten_kota.json
-│   ├── kecamatan.json
-│   ├── desa_kelurahan.json
-│   ├── demografi_kabkot.json
-│   └── jenis_kelamin_prov.json
+├── api/                         # Generated JSON API for GitHub Pages
+├── data/
+│   └── json/                    # JSON data files scraped by the scripts
 ├── scraper/                     # Data scraping scripts
 │   ├── mergeData.js
 │   ├── populationDataScraper.js
-│   └── regionalDataScraper.js
-├── src/
-│   ├── app.js                   # Express app setup
-│   ├── server.js                # Server entry point
-│   ├── routes/                  # API route handlers
-│   │   ├── index.js
-│   │   ├── provinsi.js
-│   │   ├── kabupatenKota.js
-│   │   ├── kecamatan.js
-│   │   └── desaKelurahan.js
-│   └── utils/
-│       └── createFilteredRoute.js
-├── .gitignore
+│   ├── regionalDataScraper.js
+│   └── splitData.js
+├── src/                         # Node.js/Express server code (optional for local API access)
+│   ├── app.js
+│   ├── server.js
+│   └── routes/
+│       ├── index.js
+│       ├── provinsi.js
+│       ├── kabupatenKota.js
+│       ├── kecamatan.js
+│       └── desaKelurahan.js
+├── Dockerfile                   # Dockerfile for containerized deployment
+├── docker-compose.yml           # Docker Compose configuration
 ├── package.json
-├── package-lock.json
 └── README.md
 ```
 
@@ -332,6 +395,12 @@ Contributions are welcome! To contribute to this project, please follow these st
 7. **Submit a Pull Request**
 
    Go to the original repository and click on **Pull Requests**, then click on **New Pull Request**.
+
+## TODO
+
+- [ ] Add more population data scraper
+- [ ] Reformat the population data response to be cleaner
+- [ ] Add unit test and integration test
 
 ## License
 
