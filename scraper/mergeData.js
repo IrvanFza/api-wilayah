@@ -27,7 +27,7 @@ function mergeData() {
   // Merge population data into provinsi
   const mergedProvinsiData = provinsi.map((province) => {
     const populationData = jenisKelaminProv.find(
-      (pop) => pop.prov.toUpperCase() === province.nama_provinsi.toUpperCase()
+      (pop) => pop.prov.toUpperCase() === province.nama_wilayah.toUpperCase()
     );
     const { prov, ...rest } = populationData || {};
     return {
@@ -43,7 +43,7 @@ function mergeData() {
   const mergedKabupatenKotaData = kabupatenKota.map((city) => {
     demografiKabkot = demografiKabkot.filter(demografi => demografi.kabkot);
     const demografiKabkotData = demografiKabkot.find(
-      (demografi) => demografi.kabkot.toUpperCase() === city.nama_kabkota.toUpperCase()
+      (demografi) => demografi.kabkot.toUpperCase() === city.nama_wilayah.toUpperCase()
     );
     const { prov, kabkot, ...rest } = demografiKabkotData || {};
     return {
