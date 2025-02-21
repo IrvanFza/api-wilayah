@@ -54,6 +54,7 @@ Here are some quick links to example endpoints for accessing the data:
   - [Contributing](#contributing)
   - [TODO](#todo)
   - [License](#license)
+  - [Sponsorship](#sponsorship)
 
 ## Introduction
 
@@ -423,3 +424,10 @@ Contributions are welcome! To contribute to this project, please follow these st
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+
+## Sponsorship
+
+If you find this project useful and would like to support its ongoing development, please consider donating or sponsoring through the following platforms:
+
+- [Support via Trakteer](https://trakteer.id/irvanfza/tip?quantity=5)
+- [Support via GitHub Sponsors](https://github.com/sponsors/IrvanFza?frequency=one-time&sponsor=IrvanFza)
