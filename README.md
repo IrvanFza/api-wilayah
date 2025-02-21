@@ -21,10 +21,10 @@ Another API Wilayah in Indonesia! But what makes this API project different?
 
 Here are some quick links to example endpoints for accessing the data:
 
-- **Provinsi**: <a href="https://irvanfza.github.io/api-wilayah/api/provinsi.json" target="_blank">https://irvanfza.github.io/api-wilayah/api/provinsi.json</a>
-- **Kabupaten/Kota**: <a href="https://irvanfza.github.io/api-wilayah/api/kabupaten_kota/11.json" target="_blank">https://irvanfza.github.io/api-wilayah/api/kabupaten_kota/11.json</a>
-- **Kecamatan**: <a href="https://irvanfza.github.io/api-wilayah/api/kecamatan/11.01.json" target="_blank">https://irvanfza.github.io/api-wilayah/api/kecamatan/11.01.json</a>
-- **Desa/Kelurahan**: <a href="https://irvanfza.github.io/api-wilayah/api/desa_kelurahan/11.01.01.json" target="_blank">https://irvanfza.github.io/api-wilayah/api/desa_kelurahan/11.01.01.json</a>
+- **Provinsi**: <a href="https://api.datawilayah.com/api/provinsi.json" target="_blank">https://api.datawilayah.com/api/provinsi.json</a>
+- **Kabupaten/Kota**: <a href="https://api.datawilayah.com/api/kabupaten_kota/11.json" target="_blank">https://api.datawilayah.com/api/kabupaten_kota/11.json</a>
+- **Kecamatan**: <a href="https://api.datawilayah.com/api/kecamatan/11.01.json" target="_blank">https://api.datawilayah.com/api/kecamatan/11.01.json</a>
+- **Desa/Kelurahan**: <a href="https://api.datawilayah.com/api/desa_kelurahan/11.01.01.json" target="_blank">https://api.datawilayah.com/api/desa_kelurahan/11.01.01.json</a>
 
 > **Data Source**: The data provided by this API is obtained from the official Indonesian government repository at <a href="https://katalog.satudata.go.id/organization/kementerian-dalam-negeri" target="_blank">https://katalog.satudata.go.id/organization/kementerian-dalam-negeri</a>. While every effort has been made to ensure the accuracy and reliability of the data, it is provided on an "AS IS" basis without any warranties—either express or implied—regarding its completeness or suitability for any particular purpose. By using this API, you agree to verify and adhere to the data usage terms of the original source.
 
@@ -98,16 +98,16 @@ This project provides a RESTful API that serves detailed data on Indonesian admi
 In the default setup, the API is generated as static JSON files and hosted via GitHub Pages. The endpoints follow the pattern below:
 
 - **Provinces**:  
-  `https://irvanfza.github.io/api-wilayah/api/provinsi.json`
+  `https://api.datawilayah.com/api/provinsi.json`
 
 - **Regencies/Cities**:  
-  `https://irvanfza.github.io/api-wilayah/api/kabupaten-kota/<kode_provinsi>.json`
+  `https://api.datawilayah.com/api/kabupaten-kota/<kode_provinsi>.json`
 
 - **Districts**:  
-  `https://irvanfza.github.io/api-wilayah/api/kecamatan/<kode_kabupaten_kota>.json`
+  `https://api.datawilayah.com/api/kecamatan/<kode_kabupaten_kota>.json`
 
 - **Villages/Sub-districts**:  
-  `https://irvanfza.github.io/api-wilayah/api/desa-kelurahan/<kode_kecamatan>.json`
+  `https://api.datawilayah.com/api/desa-kelurahan/<kode_kecamatan>.json`
 
 ### Optional: Local Node & Express.js Server
 
