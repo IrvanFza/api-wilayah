@@ -1,4 +1,4 @@
-# Data Wilayah Indonesia API
+# API Wilayah Indonesia
 
 [![Node.js](https://img.shields.io/badge/Node.js-v14%2B-brightgreen)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express.js-4.x-blue)](https://expressjs.com/)
@@ -10,18 +10,26 @@
 [![GitHub forks](https://img.shields.io/github/forks/IrvanFza/api-wilayah.svg)](https://github.com/IrvanFza/api-wilayah/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/IrvanFza/api-wilayah.svg)](https://github.com/IrvanFza/api-wilayah/stargazers)
 
-This project provides a comprehensive RESTful API for detailed Indonesian administrative regions and demographic information. The data is sourced from the Ministry of Home Affairs of Indonesia (Kemendagri) and is regularly updated using automated data scraping.
+## Overview
+Another Wilayah API in Indonesia! But what makes this API project different?
+- **Regular Data Update**: This project utilize GitHub Actions to regularly scrape data (once in a week) from Kemendagri.
+- **Data Availability**: This project is hosted on GitHub Pages so you don't have to worry about the availability (but you might worry about the scalability, see more in the [GitHub Pages Bandwidth Restrictions](#github-pages-bandwidth-restrictions) section)
+- **Population and Demography**: This API includes population and demography data that you may want to use!
+- **Open Source!**: This project is open source! Any contributions are welcome, and of course you may serve this API in your own server!
 
 Here are some quick links to example endpoints for accessing the data:
 
-- **Provinsi**: https://irvanfza.github.io/api-wilayah/api/provinsi.json
-- **Kabupaten/Kota**: https://irvanfza.github.io/api-wilayah/api/kabupaten_kota/11.json
-- **Kecamatan**: https://irvanfza.github.io/api-wilayah/api/kecamatan/11.01.json
-- **Desa/Kelurahan**: https://irvanfza.github.io/api-wilayah/api/desa_kelurahan/11.01.01.json
+- **Provinsi**: <a href="https://irvanfza.github.io/api-wilayah/api/provinsi.json" target="_blank">https://irvanfza.github.io/api-wilayah/api/provinsi.json</a>
+- **Kabupaten/Kota**: <a href="https://irvanfza.github.io/api-wilayah/api/kabupaten_kota/11.json" target="_blank">https://irvanfza.github.io/api-wilayah/api/kabupaten_kota/11.json</a>
+- **Kecamatan**: <a href="https://irvanfza.github.io/api-wilayah/api/kecamatan/11.01.json" target="_blank">https://irvanfza.github.io/api-wilayah/api/kecamatan/11.01.json</a>
+- **Desa/Kelurahan**: <a href="https://irvanfza.github.io/api-wilayah/api/desa_kelurahan/11.01.01.json" target="_blank">https://irvanfza.github.io/api-wilayah/api/desa_kelurahan/11.01.01.json</a>
+
+> **Data Source**: The data provided by this API is obtained from the official Indonesian government repository at <a href="https://katalog.satudata.go.id/organization/kementerian-dalam-negeri" target="_blank">https://katalog.satudata.go.id/organization/kementerian-dalam-negeri</a>. While every effort has been made to ensure the accuracy and reliability of the data, it is provided on an "AS IS" basis without any warranties—either express or implied—regarding its completeness or suitability for any particular purpose. By using this API, you agree to verify and adhere to the data usage terms of the original source.
 
 ## Table of Contents
 
-- [Data Wilayah Indonesia API](#data-wilayah-indonesia-api)
+- [API Wilayah Indonesia](#api-wilayah-indonesia)
+  - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Features](#features)
