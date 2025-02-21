@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Ranai Kota",
+      "kode_wilayah": "21.03.07.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.07"
+    },
+    {
+      "nama_wilayah": "Ranai Darat",
+      "kode_wilayah": "21.03.07.1016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.07"
+    },
+    {
+      "nama_wilayah": "Bandarsyah",
+      "kode_wilayah": "21.03.07.1017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.07"
+    },
+    {
+      "nama_wilayah": "Batu Hitam",
+      "kode_wilayah": "21.03.07.1019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.07"
+    },
+    {
+      "nama_wilayah": "Sungai Ulu",
+      "kode_wilayah": "21.03.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.07"
+    },
+    {
+      "nama_wilayah": "Sepempang",
+      "kode_wilayah": "21.03.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.07"
+    },
+    {
+      "nama_wilayah": "Batu Gajah",
+      "kode_wilayah": "21.03.07.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.07"
+    }
+  ]
+}

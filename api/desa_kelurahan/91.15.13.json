@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Urato",
+      "kode_wilayah": "91.15.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.13"
+    },
+    {
+      "nama_wilayah": "Mayaghaido",
+      "kode_wilayah": "91.15.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.13"
+    },
+    {
+      "nama_wilayah": "Aniboi",
+      "kode_wilayah": "91.15.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.13"
+    },
+    {
+      "nama_wilayah": "Tetui",
+      "kode_wilayah": "91.15.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.13"
+    },
+    {
+      "nama_wilayah": "Demba",
+      "kode_wilayah": "91.15.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.13"
+    },
+    {
+      "nama_wilayah": "Fafai",
+      "kode_wilayah": "91.15.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.13"
+    },
+    {
+      "nama_wilayah": "Wudokuri",
+      "kode_wilayah": "91.15.13.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.13"
+    },
+    {
+      "nama_wilayah": "Aiwa",
+      "kode_wilayah": "91.15.13.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.13"
+    },
+    {
+      "nama_wilayah": "Biati",
+      "kode_wilayah": "91.15.13.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.13"
+    },
+    {
+      "nama_wilayah": "Ronarai",
+      "kode_wilayah": "91.15.13.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.13"
+    }
+  ]
+}

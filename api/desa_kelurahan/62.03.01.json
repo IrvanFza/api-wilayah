@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Murung Keramat",
+      "kode_wilayah": "62.03.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.01"
+    },
+    {
+      "nama_wilayah": "Selat Hilir",
+      "kode_wilayah": "62.03.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.01"
+    },
+    {
+      "nama_wilayah": "Selat Tengah",
+      "kode_wilayah": "62.03.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.01"
+    },
+    {
+      "nama_wilayah": "Selat Hulu",
+      "kode_wilayah": "62.03.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.01"
+    },
+    {
+      "nama_wilayah": "Selat Dalam",
+      "kode_wilayah": "62.03.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.01"
+    },
+    {
+      "nama_wilayah": "Selat Utara",
+      "kode_wilayah": "62.03.01.1021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.01"
+    },
+    {
+      "nama_wilayah": "Selat Barat",
+      "kode_wilayah": "62.03.01.1022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.01"
+    },
+    {
+      "nama_wilayah": "Panamas",
+      "kode_wilayah": "62.03.01.1023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.01"
+    },
+    {
+      "nama_wilayah": "Pulau Telo",
+      "kode_wilayah": "62.03.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.01"
+    },
+    {
+      "nama_wilayah": "Pulau Telo Baru",
+      "kode_wilayah": "62.03.01.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.01"
+    }
+  ]
+}

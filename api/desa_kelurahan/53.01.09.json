@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Nonbes",
+      "kode_wilayah": "53.01.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.09"
+    },
+    {
+      "nama_wilayah": "Oesena",
+      "kode_wilayah": "53.01.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.09"
+    },
+    {
+      "nama_wilayah": "Ponain",
+      "kode_wilayah": "53.01.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.09"
+    },
+    {
+      "nama_wilayah": "Kotabes",
+      "kode_wilayah": "53.01.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.09"
+    },
+    {
+      "nama_wilayah": "Tesbatan",
+      "kode_wilayah": "53.01.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.09"
+    },
+    {
+      "nama_wilayah": "Oenoni",
+      "kode_wilayah": "53.01.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.09"
+    },
+    {
+      "nama_wilayah": "Apren",
+      "kode_wilayah": "53.01.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.09"
+    },
+    {
+      "nama_wilayah": "Oenoni II",
+      "kode_wilayah": "53.01.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.09"
+    },
+    {
+      "nama_wilayah": "Tesbatan II",
+      "kode_wilayah": "53.01.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.09"
+    }
+  ]
+}

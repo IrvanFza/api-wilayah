@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Alak",
+      "kode_wilayah": "53.71.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.71",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Maulafa",
+      "kode_wilayah": "53.71.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.71",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Kelapa Lima",
+      "kode_wilayah": "53.71.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.71",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Oebobo",
+      "kode_wilayah": "53.71.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.71",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Kota Raja",
+      "kode_wilayah": "53.71.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.71",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Kota Lama",
+      "kode_wilayah": "53.71.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.71",
+      "kode_provinsi": "53"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Malakaji",
+      "kode_wilayah": "73.06.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.03"
+    },
+    {
+      "nama_wilayah": "Cikoro",
+      "kode_wilayah": "73.06.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.03"
+    },
+    {
+      "nama_wilayah": "Garing",
+      "kode_wilayah": "73.06.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.03"
+    },
+    {
+      "nama_wilayah": "Datara",
+      "kode_wilayah": "73.06.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.03"
+    },
+    {
+      "nama_wilayah": "Rappolemba",
+      "kode_wilayah": "73.06.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.03"
+    },
+    {
+      "nama_wilayah": "Rappoala",
+      "kode_wilayah": "73.06.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.03"
+    },
+    {
+      "nama_wilayah": "Tanete",
+      "kode_wilayah": "73.06.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.03"
+    },
+    {
+      "nama_wilayah": "Bontobuddung",
+      "kode_wilayah": "73.06.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.03"
+    }
+  ]
+}

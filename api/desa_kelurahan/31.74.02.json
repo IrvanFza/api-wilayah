@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Setia Budi",
+      "kode_wilayah": "31.74.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.02"
+    },
+    {
+      "nama_wilayah": "Karet Semanggi",
+      "kode_wilayah": "31.74.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.02"
+    },
+    {
+      "nama_wilayah": "Karet Kuningan",
+      "kode_wilayah": "31.74.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.02"
+    },
+    {
+      "nama_wilayah": "Karet",
+      "kode_wilayah": "31.74.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.02"
+    },
+    {
+      "nama_wilayah": "Menteng Atas",
+      "kode_wilayah": "31.74.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.02"
+    },
+    {
+      "nama_wilayah": "Pasar Manggis",
+      "kode_wilayah": "31.74.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.02"
+    },
+    {
+      "nama_wilayah": "Guntur",
+      "kode_wilayah": "31.74.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.02"
+    },
+    {
+      "nama_wilayah": "Kuningan Timur",
+      "kode_wilayah": "31.74.02.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.02"
+    }
+  ]
+}

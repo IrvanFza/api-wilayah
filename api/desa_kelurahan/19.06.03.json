@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Dendang",
+      "kode_wilayah": "19.06.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.03"
+    },
+    {
+      "nama_wilayah": "Jangkang",
+      "kode_wilayah": "19.06.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.03"
+    },
+    {
+      "nama_wilayah": "Nyuruk",
+      "kode_wilayah": "19.06.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.03"
+    },
+    {
+      "nama_wilayah": "Balok",
+      "kode_wilayah": "19.06.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.03"
+    }
+  ]
+}

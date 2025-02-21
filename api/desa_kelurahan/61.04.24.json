@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pebihingan",
+      "kode_wilayah": "61.04.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.04",
+      "kode_kecamatan": "61.04.24"
+    },
+    {
+      "nama_wilayah": "Lalang Panjang",
+      "kode_wilayah": "61.04.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.04",
+      "kode_kecamatan": "61.04.24"
+    },
+    {
+      "nama_wilayah": "Semayok Baru",
+      "kode_wilayah": "61.04.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.04",
+      "kode_kecamatan": "61.04.24"
+    },
+    {
+      "nama_wilayah": "Muara Gerunggang",
+      "kode_wilayah": "61.04.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.04",
+      "kode_kecamatan": "61.04.24"
+    },
+    {
+      "nama_wilayah": "Usaha Baru",
+      "kode_wilayah": "61.04.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.04",
+      "kode_kecamatan": "61.04.24"
+    },
+    {
+      "nama_wilayah": "Kerta Baru",
+      "kode_wilayah": "61.04.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.04",
+      "kode_kecamatan": "61.04.24"
+    },
+    {
+      "nama_wilayah": "Muara Semayok",
+      "kode_wilayah": "61.04.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.04",
+      "kode_kecamatan": "61.04.24"
+    }
+  ]
+}

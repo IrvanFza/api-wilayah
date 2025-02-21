@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Parauna",
+      "kode_wilayah": "74.02.24.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.24"
+    },
+    {
+      "nama_wilayah": "Anggaberi",
+      "kode_wilayah": "74.02.24.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.24"
+    },
+    {
+      "nama_wilayah": "Lawulo",
+      "kode_wilayah": "74.02.24.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.24"
+    },
+    {
+      "nama_wilayah": "Andabia",
+      "kode_wilayah": "74.02.24.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.24"
+    },
+    {
+      "nama_wilayah": "Unaasi",
+      "kode_wilayah": "74.02.24.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.24"
+    },
+    {
+      "nama_wilayah": "Toriki",
+      "kode_wilayah": "74.02.24.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.24"
+    },
+    {
+      "nama_wilayah": "Lerehoma",
+      "kode_wilayah": "74.02.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.24"
+    },
+    {
+      "nama_wilayah": "Wunduongohi",
+      "kode_wilayah": "74.02.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.24"
+    }
+  ]
+}

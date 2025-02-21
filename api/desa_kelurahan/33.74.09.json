@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Karangrejo",
+      "kode_wilayah": "33.74.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.09"
+    },
+    {
+      "nama_wilayah": "Bendan Dhuwur",
+      "kode_wilayah": "33.74.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.09"
+    },
+    {
+      "nama_wilayah": "Bendan Ngisor",
+      "kode_wilayah": "33.74.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.09"
+    },
+    {
+      "nama_wilayah": "Sampangan",
+      "kode_wilayah": "33.74.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.09"
+    },
+    {
+      "nama_wilayah": "Gajahmungkur",
+      "kode_wilayah": "33.74.09.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.09"
+    },
+    {
+      "nama_wilayah": "Lempongsari",
+      "kode_wilayah": "33.74.09.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.09"
+    },
+    {
+      "nama_wilayah": "Petompon",
+      "kode_wilayah": "33.74.09.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.09"
+    },
+    {
+      "nama_wilayah": "Bendungan",
+      "kode_wilayah": "33.74.09.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.09"
+    }
+  ]
+}

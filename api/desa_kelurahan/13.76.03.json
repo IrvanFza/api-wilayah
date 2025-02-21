@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Balai Jaring",
+      "kode_wilayah": "13.76.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.76",
+      "kode_kecamatan": "13.76.03"
+    },
+    {
+      "nama_wilayah": "Padang Alai Bodi",
+      "kode_wilayah": "13.76.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.76",
+      "kode_kecamatan": "13.76.03"
+    },
+    {
+      "nama_wilayah": "Padang Tangah Payobadar",
+      "kode_wilayah": "13.76.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.76",
+      "kode_kecamatan": "13.76.03"
+    },
+    {
+      "nama_wilayah": "Sicincin",
+      "kode_wilayah": "13.76.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.76",
+      "kode_kecamatan": "13.76.03"
+    },
+    {
+      "nama_wilayah": "Padang Tiakar",
+      "kode_wilayah": "13.76.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.76",
+      "kode_kecamatan": "13.76.03"
+    },
+    {
+      "nama_wilayah": "Payobasung",
+      "kode_wilayah": "13.76.03.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.76",
+      "kode_kecamatan": "13.76.03"
+    },
+    {
+      "nama_wilayah": "Koto Panjang",
+      "kode_wilayah": "13.76.03.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.76",
+      "kode_kecamatan": "13.76.03"
+    },
+    {
+      "nama_wilayah": "Koto Baru",
+      "kode_wilayah": "13.76.03.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.76",
+      "kode_kecamatan": "13.76.03"
+    },
+    {
+      "nama_wilayah": "Tiakar",
+      "kode_wilayah": "13.76.03.1015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.76",
+      "kode_kecamatan": "13.76.03"
+    }
+  ]
+}

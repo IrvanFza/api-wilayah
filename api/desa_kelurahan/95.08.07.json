@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Mbuwa",
+      "kode_wilayah": "95.08.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.07"
+    },
+    {
+      "nama_wilayah": "Otalama",
+      "kode_wilayah": "95.08.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.07"
+    },
+    {
+      "nama_wilayah": "Arugia",
+      "kode_wilayah": "95.08.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.07"
+    },
+    {
+      "nama_wilayah": "Opmu",
+      "kode_wilayah": "95.08.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.07"
+    },
+    {
+      "nama_wilayah": "Digilimu",
+      "kode_wilayah": "95.08.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.07"
+    },
+    {
+      "nama_wilayah": "Kogomaru",
+      "kode_wilayah": "95.08.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.07"
+    }
+  ]
+}

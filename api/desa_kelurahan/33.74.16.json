@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Jerakah",
+      "kode_wilayah": "33.74.16.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.16"
+    },
+    {
+      "nama_wilayah": "Tugurejo",
+      "kode_wilayah": "33.74.16.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.16"
+    },
+    {
+      "nama_wilayah": "Karanganyar",
+      "kode_wilayah": "33.74.16.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.16"
+    },
+    {
+      "nama_wilayah": "Randugarut",
+      "kode_wilayah": "33.74.16.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.16"
+    },
+    {
+      "nama_wilayah": "Mangkang Wetan",
+      "kode_wilayah": "33.74.16.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.16"
+    },
+    {
+      "nama_wilayah": "Mangkang Kulon",
+      "kode_wilayah": "33.74.16.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.16"
+    },
+    {
+      "nama_wilayah": "Mangunharjo",
+      "kode_wilayah": "33.74.16.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.16"
+    }
+  ]
+}

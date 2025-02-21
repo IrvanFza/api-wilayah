@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Padang Karambia",
+      "kode_wilayah": "13.76.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.76",
+      "kode_kecamatan": "13.76.05"
+    },
+    {
+      "nama_wilayah": "Kototuo Limokampuang",
+      "kode_wilayah": "13.76.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.76",
+      "kode_kecamatan": "13.76.05"
+    },
+    {
+      "nama_wilayah": "Limbukan",
+      "kode_wilayah": "13.76.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.76",
+      "kode_kecamatan": "13.76.05"
+    },
+    {
+      "nama_wilayah": "Balai Panjang",
+      "kode_wilayah": "13.76.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.76",
+      "kode_kecamatan": "13.76.05"
+    },
+    {
+      "nama_wilayah": "Kapalo Koto Ampangan",
+      "kode_wilayah": "13.76.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.76",
+      "kode_kecamatan": "13.76.05"
+    },
+    {
+      "nama_wilayah": "Sawahpadang Aua Kuniang",
+      "kode_wilayah": "13.76.05.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.76",
+      "kode_kecamatan": "13.76.05"
+    }
+  ]
+}

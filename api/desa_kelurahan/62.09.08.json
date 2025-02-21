@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Batu Tambun",
+      "kode_wilayah": "62.09.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.09",
+      "kode_kecamatan": "62.09.08"
+    },
+    {
+      "nama_wilayah": "Kinipan",
+      "kode_wilayah": "62.09.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.09",
+      "kode_kecamatan": "62.09.08"
+    },
+    {
+      "nama_wilayah": "Ginih",
+      "kode_wilayah": "62.09.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.09",
+      "kode_kecamatan": "62.09.08"
+    },
+    {
+      "nama_wilayah": "Benakitan",
+      "kode_wilayah": "62.09.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.09",
+      "kode_kecamatan": "62.09.08"
+    },
+    {
+      "nama_wilayah": "Liku",
+      "kode_wilayah": "62.09.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.09",
+      "kode_kecamatan": "62.09.08"
+    },
+    {
+      "nama_wilayah": "Mengkalang",
+      "kode_wilayah": "62.09.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.09",
+      "kode_kecamatan": "62.09.08"
+    },
+    {
+      "nama_wilayah": "Karang Mas",
+      "kode_wilayah": "62.09.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.09",
+      "kode_kecamatan": "62.09.08"
+    },
+    {
+      "nama_wilayah": "Kina",
+      "kode_wilayah": "62.09.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.09",
+      "kode_kecamatan": "62.09.08"
+    },
+    {
+      "nama_wilayah": "Jamuat",
+      "kode_wilayah": "62.09.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.09",
+      "kode_kecamatan": "62.09.08"
+    }
+  ]
+}

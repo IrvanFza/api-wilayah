@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Indari",
+      "kode_wilayah": "82.04.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.09"
+    },
+    {
+      "nama_wilayah": "Tawabi",
+      "kode_wilayah": "82.04.09.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.09"
+    },
+    {
+      "nama_wilayah": "Wiring",
+      "kode_wilayah": "82.04.09.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.09"
+    },
+    {
+      "nama_wilayah": "Nondang",
+      "kode_wilayah": "82.04.09.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.09"
+    },
+    {
+      "nama_wilayah": "Kusubibi",
+      "kode_wilayah": "82.04.09.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.09"
+    },
+    {
+      "nama_wilayah": "Nang",
+      "kode_wilayah": "82.04.09.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.09"
+    },
+    {
+      "nama_wilayah": "Kokotu",
+      "kode_wilayah": "82.04.09.2030",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.09"
+    }
+  ]
+}

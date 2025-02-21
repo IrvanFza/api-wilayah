@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Laiya",
+      "kode_wilayah": "73.09.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.10"
+    },
+    {
+      "nama_wilayah": "Labuaja",
+      "kode_wilayah": "73.09.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.10"
+    },
+    {
+      "nama_wilayah": "Limampoccoe",
+      "kode_wilayah": "73.09.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.10"
+    },
+    {
+      "nama_wilayah": "Lebbo Tengae",
+      "kode_wilayah": "73.09.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.10"
+    },
+    {
+      "nama_wilayah": "Rompegading",
+      "kode_wilayah": "73.09.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.10"
+    },
+    {
+      "nama_wilayah": "Baji pa-mai",
+      "kode_wilayah": "73.09.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.10"
+    },
+    {
+      "nama_wilayah": "Cenrana Baru",
+      "kode_wilayah": "73.09.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.10"
+    }
+  ]
+}

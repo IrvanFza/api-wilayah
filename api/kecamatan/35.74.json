@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Kademangan",
+      "kode_wilayah": "35.74.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "35.74",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama_wilayah": "Wonoasih",
+      "kode_wilayah": "35.74.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "35.74",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama_wilayah": "Mayangan",
+      "kode_wilayah": "35.74.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "35.74",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama_wilayah": "Kanigaran",
+      "kode_wilayah": "35.74.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "35.74",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama_wilayah": "Kedopok",
+      "kode_wilayah": "35.74.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "35.74",
+      "kode_provinsi": "35"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Daik",
+      "kode_wilayah": "21.04.02.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.02"
+    },
+    {
+      "nama_wilayah": "Daik Sepincan",
+      "kode_wilayah": "21.04.02.1020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.02"
+    },
+    {
+      "nama_wilayah": "Pekajang",
+      "kode_wilayah": "21.04.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.02"
+    },
+    {
+      "nama_wilayah": "Kelombok",
+      "kode_wilayah": "21.04.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.02"
+    },
+    {
+      "nama_wilayah": "Mepar",
+      "kode_wilayah": "21.04.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.02"
+    },
+    {
+      "nama_wilayah": "Kelumu",
+      "kode_wilayah": "21.04.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.02"
+    },
+    {
+      "nama_wilayah": "Mentuda",
+      "kode_wilayah": "21.04.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.02"
+    },
+    {
+      "nama_wilayah": "Merawang",
+      "kode_wilayah": "21.04.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.02"
+    },
+    {
+      "nama_wilayah": "Panggak Darat",
+      "kode_wilayah": "21.04.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.02"
+    },
+    {
+      "nama_wilayah": "Panggak Laut",
+      "kode_wilayah": "21.04.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.02"
+    },
+    {
+      "nama_wilayah": "Musai",
+      "kode_wilayah": "21.04.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.02"
+    },
+    {
+      "nama_wilayah": "Nerekeh",
+      "kode_wilayah": "21.04.02.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.02"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Karasak",
+      "kode_wilayah": "32.73.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.10"
+    },
+    {
+      "nama_wilayah": "Nyengseret",
+      "kode_wilayah": "32.73.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.10"
+    },
+    {
+      "nama_wilayah": "Karang Anyar",
+      "kode_wilayah": "32.73.10.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.10"
+    },
+    {
+      "nama_wilayah": "Panjunan",
+      "kode_wilayah": "32.73.10.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.10"
+    },
+    {
+      "nama_wilayah": "Cibadak",
+      "kode_wilayah": "32.73.10.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.10"
+    },
+    {
+      "nama_wilayah": "Pelindung Hewan",
+      "kode_wilayah": "32.73.10.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.10"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Teba",
+      "kode_wilayah": "53.03.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.22"
+    },
+    {
+      "nama_wilayah": "Oerinbesi",
+      "kode_wilayah": "53.03.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.22"
+    },
+    {
+      "nama_wilayah": "Oekopa",
+      "kode_wilayah": "53.03.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.22"
+    },
+    {
+      "nama_wilayah": "T-Eba Timur",
+      "kode_wilayah": "53.03.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.22"
+    }
+  ]
+}

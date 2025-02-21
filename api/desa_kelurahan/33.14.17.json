@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Newung",
+      "kode_wilayah": "33.14.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.17"
+    },
+    {
+      "nama_wilayah": "Jatitengah",
+      "kode_wilayah": "33.14.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.17"
+    },
+    {
+      "nama_wilayah": "Bendo",
+      "kode_wilayah": "33.14.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.17"
+    },
+    {
+      "nama_wilayah": "Juwok",
+      "kode_wilayah": "33.14.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.17"
+    },
+    {
+      "nama_wilayah": "Pantirejo",
+      "kode_wilayah": "33.14.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.17"
+    },
+    {
+      "nama_wilayah": "Majenang",
+      "kode_wilayah": "33.14.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.17"
+    },
+    {
+      "nama_wilayah": "Karanganom",
+      "kode_wilayah": "33.14.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.17"
+    },
+    {
+      "nama_wilayah": "Gebang",
+      "kode_wilayah": "33.14.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.17"
+    },
+    {
+      "nama_wilayah": "Baleharjo",
+      "kode_wilayah": "33.14.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.17"
+    }
+  ]
+}

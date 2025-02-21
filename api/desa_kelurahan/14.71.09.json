@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tangkerang  Barat",
+      "kode_wilayah": "14.71.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.09"
+    },
+    {
+      "nama_wilayah": "Tangkerang Tengah",
+      "kode_wilayah": "14.71.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.09"
+    },
+    {
+      "nama_wilayah": "Sidomulyo Timur",
+      "kode_wilayah": "14.71.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.09"
+    },
+    {
+      "nama_wilayah": "Wonorejo",
+      "kode_wilayah": "14.71.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.09"
+    },
+    {
+      "nama_wilayah": "Maharatu",
+      "kode_wilayah": "14.71.09.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.09"
+    },
+    {
+      "nama_wilayah": "Perhentianmarpoyan",
+      "kode_wilayah": "14.71.09.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.09"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Babulu Darat",
+      "kode_wilayah": "64.09.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.09",
+      "kode_kecamatan": "64.09.03"
+    },
+    {
+      "nama_wilayah": "Labangka",
+      "kode_wilayah": "64.09.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.09",
+      "kode_kecamatan": "64.09.03"
+    },
+    {
+      "nama_wilayah": "Babulu Laut",
+      "kode_wilayah": "64.09.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.09",
+      "kode_kecamatan": "64.09.03"
+    },
+    {
+      "nama_wilayah": "Gunung Intan",
+      "kode_wilayah": "64.09.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.09",
+      "kode_kecamatan": "64.09.03"
+    },
+    {
+      "nama_wilayah": "Gunung Makmur",
+      "kode_wilayah": "64.09.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.09",
+      "kode_kecamatan": "64.09.03"
+    },
+    {
+      "nama_wilayah": "Sebakung Jaya",
+      "kode_wilayah": "64.09.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.09",
+      "kode_kecamatan": "64.09.03"
+    },
+    {
+      "nama_wilayah": "Rawa Mulia",
+      "kode_wilayah": "64.09.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.09",
+      "kode_kecamatan": "64.09.03"
+    },
+    {
+      "nama_wilayah": "Sri Raharja",
+      "kode_wilayah": "64.09.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.09",
+      "kode_kecamatan": "64.09.03"
+    },
+    {
+      "nama_wilayah": "Sumber Sari",
+      "kode_wilayah": "64.09.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.09",
+      "kode_kecamatan": "64.09.03"
+    },
+    {
+      "nama_wilayah": "Rintik",
+      "kode_wilayah": "64.09.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.09",
+      "kode_kecamatan": "64.09.03"
+    },
+    {
+      "nama_wilayah": "Gunung Mulia",
+      "kode_wilayah": "64.09.03.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.09",
+      "kode_kecamatan": "64.09.03"
+    },
+    {
+      "nama_wilayah": "Labangka Barat",
+      "kode_wilayah": "64.09.03.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.09",
+      "kode_kecamatan": "64.09.03"
+    }
+  ]
+}

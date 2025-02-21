@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Muara Pinang",
+      "kode_wilayah": "16.11.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.11",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Pendopo",
+      "kode_wilayah": "16.11.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.11",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Ulu Musi",
+      "kode_wilayah": "16.11.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.11",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Tebing Tinggi",
+      "kode_wilayah": "16.11.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.11",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Lintang Kanan",
+      "kode_wilayah": "16.11.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.11",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Talang Padang",
+      "kode_wilayah": "16.11.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.11",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Pasemah Air Keruh",
+      "kode_wilayah": "16.11.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.11",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Sikap Dalam",
+      "kode_wilayah": "16.11.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.11",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Saling",
+      "kode_wilayah": "16.11.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.11",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Pendopo Barat",
+      "kode_wilayah": "16.11.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.11",
+      "kode_provinsi": "16"
+    }
+  ]
+}

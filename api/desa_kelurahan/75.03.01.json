@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Talumopatu",
+      "kode_wilayah": "75.03.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.01"
+    },
+    {
+      "nama_wilayah": "Talulobutu",
+      "kode_wilayah": "75.03.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.01"
+    },
+    {
+      "nama_wilayah": "Dunggala",
+      "kode_wilayah": "75.03.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.01"
+    },
+    {
+      "nama_wilayah": "Langge",
+      "kode_wilayah": "75.03.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.01"
+    },
+    {
+      "nama_wilayah": "Talulobutu Selatan",
+      "kode_wilayah": "75.03.01.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.01"
+    },
+    {
+      "nama_wilayah": "Keramat",
+      "kode_wilayah": "75.03.01.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.01"
+    },
+    {
+      "nama_wilayah": "Meranti",
+      "kode_wilayah": "75.03.01.2029",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.01"
+    }
+  ]
+}

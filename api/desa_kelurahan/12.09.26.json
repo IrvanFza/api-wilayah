@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tinggi Raja",
+      "kode_wilayah": "12.09.26.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.26"
+    },
+    {
+      "nama_wilayah": "Sumber Harapan",
+      "kode_wilayah": "12.09.26.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.26"
+    },
+    {
+      "nama_wilayah": "Terusan Tengah",
+      "kode_wilayah": "12.09.26.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.26"
+    },
+    {
+      "nama_wilayah": "Piasa Ulu",
+      "kode_wilayah": "12.09.26.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.26"
+    },
+    {
+      "nama_wilayah": "Sidomulyo",
+      "kode_wilayah": "12.09.26.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.26"
+    },
+    {
+      "nama_wilayah": "Teladan",
+      "kode_wilayah": "12.09.26.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.26"
+    },
+    {
+      "nama_wilayah": "Padang Sari",
+      "kode_wilayah": "12.09.26.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.26"
+    }
+  ]
+}

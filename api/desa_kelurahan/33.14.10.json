@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sine",
+      "kode_wilayah": "33.14.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.10"
+    },
+    {
+      "nama_wilayah": "Sragen Kulon",
+      "kode_wilayah": "33.14.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.10"
+    },
+    {
+      "nama_wilayah": "Sragen Tengah",
+      "kode_wilayah": "33.14.10.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.10"
+    },
+    {
+      "nama_wilayah": "Sragen Wetan",
+      "kode_wilayah": "33.14.10.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.10"
+    },
+    {
+      "nama_wilayah": "Nglorog",
+      "kode_wilayah": "33.14.10.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.10"
+    },
+    {
+      "nama_wilayah": "Karang Tengah",
+      "kode_wilayah": "33.14.10.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.10"
+    },
+    {
+      "nama_wilayah": "Tangkil",
+      "kode_wilayah": "33.14.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.10"
+    },
+    {
+      "nama_wilayah": "Kedungupit",
+      "kode_wilayah": "33.14.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.10"
+    }
+  ]
+}

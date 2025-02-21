@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sei Kepayang Tengah",
+      "kode_wilayah": "12.09.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.11"
+    },
+    {
+      "nama_wilayah": "Sei Kepayang Kanan",
+      "kode_wilayah": "12.09.11.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.11"
+    },
+    {
+      "nama_wilayah": "Sei Paham",
+      "kode_wilayah": "12.09.11.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.11"
+    },
+    {
+      "nama_wilayah": "Pertahanan",
+      "kode_wilayah": "12.09.11.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.11"
+    },
+    {
+      "nama_wilayah": "Perbangunan",
+      "kode_wilayah": "12.09.11.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.11"
+    },
+    {
+      "nama_wilayah": "Bangun Baru",
+      "kode_wilayah": "12.09.11.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.11"
+    }
+  ]
+}

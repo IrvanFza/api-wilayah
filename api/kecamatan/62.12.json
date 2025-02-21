@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Murung",
+      "kode_wilayah": "62.12.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.12",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Tanah Siang",
+      "kode_wilayah": "62.12.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.12",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Laung Tuhup",
+      "kode_wilayah": "62.12.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.12",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Permata Intan",
+      "kode_wilayah": "62.12.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.12",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Sumber Barito",
+      "kode_wilayah": "62.12.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.12",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Barito Tuhup Raya",
+      "kode_wilayah": "62.12.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.12",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Tanah Siang Selatan",
+      "kode_wilayah": "62.12.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.12",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Sungai Babuat",
+      "kode_wilayah": "62.12.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.12",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Seribu Riam",
+      "kode_wilayah": "62.12.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.12",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Uut Murung",
+      "kode_wilayah": "62.12.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.12",
+      "kode_provinsi": "62"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Lamandau",
+      "kode_wilayah": "62.09.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.09",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Delang",
+      "kode_wilayah": "62.09.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.09",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Bulik",
+      "kode_wilayah": "62.09.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.09",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Bulik Timur",
+      "kode_wilayah": "62.09.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.09",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Menthobi Raya",
+      "kode_wilayah": "62.09.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.09",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Sematu Jaya",
+      "kode_wilayah": "62.09.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.09",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Belantikan Raya",
+      "kode_wilayah": "62.09.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.09",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Batang Kawa",
+      "kode_wilayah": "62.09.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.09",
+      "kode_provinsi": "62"
+    }
+  ]
+}

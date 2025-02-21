@@ -1,0 +1,90 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Bonjol",
+      "kode_wilayah": "13.08.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.08",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Lubuk Sikaping",
+      "kode_wilayah": "13.08.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.08",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Panti",
+      "kode_wilayah": "13.08.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.08",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Mapat Tunggul",
+      "kode_wilayah": "13.08.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.08",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Duo Koto",
+      "kode_wilayah": "13.08.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.08",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Tigo Nagari",
+      "kode_wilayah": "13.08.13",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.08",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Rao",
+      "kode_wilayah": "13.08.14",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.08",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Mapat Tunggul Selatan",
+      "kode_wilayah": "13.08.15",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.08",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Simpang Alahan Mati",
+      "kode_wilayah": "13.08.16",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.08",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Padang Gelugur",
+      "kode_wilayah": "13.08.17",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.08",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Rao Utara",
+      "kode_wilayah": "13.08.18",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.08",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Rao Selatan",
+      "kode_wilayah": "13.08.19",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.08",
+      "kode_provinsi": "13"
+    }
+  ]
+}

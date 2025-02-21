@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Lima Ilir",
+      "kode_wilayah": "16.71.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.06"
+    },
+    {
+      "nama_wilayah": "Tiga Ilir",
+      "kode_wilayah": "16.71.06.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.06"
+    },
+    {
+      "nama_wilayah": "Satu Ilir",
+      "kode_wilayah": "16.71.06.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.06"
+    },
+    {
+      "nama_wilayah": "Dua Ilir",
+      "kode_wilayah": "16.71.06.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.06"
+    },
+    {
+      "nama_wilayah": "Lawangkidul",
+      "kode_wilayah": "16.71.06.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.06"
+    },
+    {
+      "nama_wilayah": "Sungaibuah",
+      "kode_wilayah": "16.71.06.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.06"
+    }
+  ]
+}

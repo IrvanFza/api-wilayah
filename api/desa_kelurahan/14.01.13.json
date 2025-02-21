@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Salo",
+      "kode_wilayah": "14.01.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.13"
+    },
+    {
+      "nama_wilayah": "Siabu",
+      "kode_wilayah": "14.01.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.13"
+    },
+    {
+      "nama_wilayah": "Salo Timur",
+      "kode_wilayah": "14.01.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.13"
+    },
+    {
+      "nama_wilayah": "Sipungguk",
+      "kode_wilayah": "14.01.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.13"
+    },
+    {
+      "nama_wilayah": "Ganting Damai",
+      "kode_wilayah": "14.01.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.13"
+    },
+    {
+      "nama_wilayah": "Ganting",
+      "kode_wilayah": "14.01.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.13"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kerobokan Kelod",
+      "kode_wilayah": "51.03.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.03",
+      "kode_kecamatan": "51.03.06"
+    },
+    {
+      "nama_wilayah": "Kerobokan",
+      "kode_wilayah": "51.03.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.03",
+      "kode_kecamatan": "51.03.06"
+    },
+    {
+      "nama_wilayah": "Kerobokan Kaja",
+      "kode_wilayah": "51.03.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.03",
+      "kode_kecamatan": "51.03.06"
+    },
+    {
+      "nama_wilayah": "Tibubeneng",
+      "kode_wilayah": "51.03.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.03",
+      "kode_kecamatan": "51.03.06"
+    },
+    {
+      "nama_wilayah": "Canggu",
+      "kode_wilayah": "51.03.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.03",
+      "kode_kecamatan": "51.03.06"
+    },
+    {
+      "nama_wilayah": "Dalung",
+      "kode_wilayah": "51.03.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.03",
+      "kode_kecamatan": "51.03.06"
+    }
+  ]
+}

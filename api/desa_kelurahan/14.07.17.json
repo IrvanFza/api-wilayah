@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bagan Sinembah Kota",
+      "kode_wilayah": "14.07.17.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.17"
+    },
+    {
+      "nama_wilayah": "Bagan Sinembah",
+      "kode_wilayah": "14.07.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.17"
+    },
+    {
+      "nama_wilayah": "Harapan Makmur Selatan",
+      "kode_wilayah": "14.07.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.17"
+    },
+    {
+      "nama_wilayah": "Harapan Makmur",
+      "kode_wilayah": "14.07.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.17"
+    },
+    {
+      "nama_wilayah": "Makmur Jaya",
+      "kode_wilayah": "14.07.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.17"
+    },
+    {
+      "nama_wilayah": "Salak",
+      "kode_wilayah": "14.07.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.17"
+    },
+    {
+      "nama_wilayah": "Panca Mukti",
+      "kode_wilayah": "14.07.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.17"
+    },
+    {
+      "nama_wilayah": "Bagansinembah Timur",
+      "kode_wilayah": "14.07.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.17"
+    },
+    {
+      "nama_wilayah": "Bagansinembah Utara",
+      "kode_wilayah": "14.07.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.17"
+    },
+    {
+      "nama_wilayah": "Bagansinembah Barat",
+      "kode_wilayah": "14.07.17.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.17"
+    }
+  ]
+}

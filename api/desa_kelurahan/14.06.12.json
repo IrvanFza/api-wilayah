@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kabun",
+      "kode_wilayah": "14.06.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.12"
+    },
+    {
+      "nama_wilayah": "Aliantan",
+      "kode_wilayah": "14.06.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.12"
+    },
+    {
+      "nama_wilayah": "Koto Ranah",
+      "kode_wilayah": "14.06.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.12"
+    },
+    {
+      "nama_wilayah": "Boncah Kesuma",
+      "kode_wilayah": "14.06.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.12"
+    },
+    {
+      "nama_wilayah": "Batu Langkah Besar",
+      "kode_wilayah": "14.06.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.12"
+    },
+    {
+      "nama_wilayah": "Giti",
+      "kode_wilayah": "14.06.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.12"
+    }
+  ]
+}

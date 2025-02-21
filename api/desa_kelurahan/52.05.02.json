@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Kempo",
+      "kode_wilayah": "52.05.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.05",
+      "kode_kecamatan": "52.05.02"
+    },
+    {
+      "nama_wilayah": "Ta-a",
+      "kode_wilayah": "52.05.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.05",
+      "kode_kecamatan": "52.05.02"
+    },
+    {
+      "nama_wilayah": "Soro",
+      "kode_wilayah": "52.05.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.05",
+      "kode_kecamatan": "52.05.02"
+    },
+    {
+      "nama_wilayah": "Konte",
+      "kode_wilayah": "52.05.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.05",
+      "kode_kecamatan": "52.05.02"
+    },
+    {
+      "nama_wilayah": "Tolo Kalo",
+      "kode_wilayah": "52.05.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.05",
+      "kode_kecamatan": "52.05.02"
+    },
+    {
+      "nama_wilayah": "Songgaja",
+      "kode_wilayah": "52.05.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.05",
+      "kode_kecamatan": "52.05.02"
+    },
+    {
+      "nama_wilayah": "Doro Kobo",
+      "kode_wilayah": "52.05.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.05",
+      "kode_kecamatan": "52.05.02"
+    },
+    {
+      "nama_wilayah": "Soro Barat",
+      "kode_wilayah": "52.05.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.05",
+      "kode_kecamatan": "52.05.02"
+    }
+  ]
+}

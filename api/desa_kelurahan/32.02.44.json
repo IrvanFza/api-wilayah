@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Padasenang",
+      "kode_wilayah": "32.02.44.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.44"
+    },
+    {
+      "nama_wilayah": "Cidadap",
+      "kode_wilayah": "32.02.44.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.44"
+    },
+    {
+      "nama_wilayah": "Banjarsari",
+      "kode_wilayah": "32.02.44.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.44"
+    },
+    {
+      "nama_wilayah": "Hegarmulya",
+      "kode_wilayah": "32.02.44.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.44"
+    },
+    {
+      "nama_wilayah": "Tenjolaut",
+      "kode_wilayah": "32.02.44.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.44"
+    },
+    {
+      "nama_wilayah": "Mekartani",
+      "kode_wilayah": "32.02.44.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.44"
+    }
+  ]
+}

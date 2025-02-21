@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Krapyak",
+      "kode_wilayah": "33.75.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.03"
+    },
+    {
+      "nama_wilayah": "Kandang Panjang",
+      "kode_wilayah": "33.75.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.03"
+    },
+    {
+      "nama_wilayah": "Panjang Wetan",
+      "kode_wilayah": "33.75.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.03"
+    },
+    {
+      "nama_wilayah": "Padukuhan Kraton",
+      "kode_wilayah": "33.75.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.03"
+    },
+    {
+      "nama_wilayah": "Degayu",
+      "kode_wilayah": "33.75.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.03"
+    },
+    {
+      "nama_wilayah": "Bandengan",
+      "kode_wilayah": "33.75.03.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.03"
+    },
+    {
+      "nama_wilayah": "Panjang Baru",
+      "kode_wilayah": "33.75.03.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.03"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Masaha",
+      "kode_wilayah": "62.03.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.15"
+    },
+    {
+      "nama_wilayah": "Sei Pinang",
+      "kode_wilayah": "62.03.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.15"
+    },
+    {
+      "nama_wilayah": "Lawang Tamang",
+      "kode_wilayah": "62.03.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.15"
+    },
+    {
+      "nama_wilayah": "Karetau Manta-a",
+      "kode_wilayah": "62.03.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.15"
+    },
+    {
+      "nama_wilayah": "Tumbang Bukoi",
+      "kode_wilayah": "62.03.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.15"
+    },
+    {
+      "nama_wilayah": "Tumbang Tihis",
+      "kode_wilayah": "62.03.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.15"
+    },
+    {
+      "nama_wilayah": "Tumbang Manyarung",
+      "kode_wilayah": "62.03.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.15"
+    },
+    {
+      "nama_wilayah": "Tanjung Rendan",
+      "kode_wilayah": "62.03.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.15"
+    },
+    {
+      "nama_wilayah": "Jakatan Masaha",
+      "kode_wilayah": "62.03.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.15"
+    },
+    {
+      "nama_wilayah": "Masupa Ria",
+      "kode_wilayah": "62.03.15.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.15"
+    }
+  ]
+}

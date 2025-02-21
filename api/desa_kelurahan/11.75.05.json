@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Longkib",
+      "kode_wilayah": "11.75.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.75",
+      "kode_kecamatan": "11.75.05"
+    },
+    {
+      "nama_wilayah": "Sepang",
+      "kode_wilayah": "11.75.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.75",
+      "kode_kecamatan": "11.75.05"
+    },
+    {
+      "nama_wilayah": "Panji",
+      "kode_wilayah": "11.75.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.75",
+      "kode_kecamatan": "11.75.05"
+    },
+    {
+      "nama_wilayah": "Lae Saga",
+      "kode_wilayah": "11.75.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.75",
+      "kode_kecamatan": "11.75.05"
+    },
+    {
+      "nama_wilayah": "Sikerabang",
+      "kode_wilayah": "11.75.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.75",
+      "kode_kecamatan": "11.75.05"
+    },
+    {
+      "nama_wilayah": "Rantau Panjang",
+      "kode_wilayah": "11.75.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.75",
+      "kode_kecamatan": "11.75.05"
+    },
+    {
+      "nama_wilayah": "Bukit Alim",
+      "kode_wilayah": "11.75.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.75",
+      "kode_kecamatan": "11.75.05"
+    },
+    {
+      "nama_wilayah": "Darul Aman",
+      "kode_wilayah": "11.75.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.75",
+      "kode_kecamatan": "11.75.05"
+    },
+    {
+      "nama_wilayah": "Bangun Sari",
+      "kode_wilayah": "11.75.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.75",
+      "kode_kecamatan": "11.75.05"
+    },
+    {
+      "nama_wilayah": "Darussalam",
+      "kode_wilayah": "11.75.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.75",
+      "kode_kecamatan": "11.75.05"
+    }
+  ]
+}

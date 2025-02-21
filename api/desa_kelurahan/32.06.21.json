@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Sirnajaya",
+      "kode_wilayah": "32.06.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.21"
+    },
+    {
+      "nama_wilayah": "Karangjaya",
+      "kode_wilayah": "32.06.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.21"
+    },
+    {
+      "nama_wilayah": "Karang Layung",
+      "kode_wilayah": "32.06.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.21"
+    },
+    {
+      "nama_wilayah": "Citalahab",
+      "kode_wilayah": "32.06.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.21"
+    }
+  ]
+}

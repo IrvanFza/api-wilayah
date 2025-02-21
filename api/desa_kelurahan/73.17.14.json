@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sabe",
+      "kode_wilayah": "73.17.14.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.14"
+    },
+    {
+      "nama_wilayah": "Pammanu",
+      "kode_wilayah": "73.17.14.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.14"
+    },
+    {
+      "nama_wilayah": "Lamunre",
+      "kode_wilayah": "73.17.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.14"
+    },
+    {
+      "nama_wilayah": "Lauwa",
+      "kode_wilayah": "73.17.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.14"
+    },
+    {
+      "nama_wilayah": "Seppong",
+      "kode_wilayah": "73.17.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.14"
+    },
+    {
+      "nama_wilayah": "Paconne",
+      "kode_wilayah": "73.17.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.14"
+    },
+    {
+      "nama_wilayah": "Lebani",
+      "kode_wilayah": "73.17.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.14"
+    },
+    {
+      "nama_wilayah": "Lamunre Tengah",
+      "kode_wilayah": "73.17.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.14"
+    }
+  ]
+}

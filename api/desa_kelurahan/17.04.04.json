@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Iman",
+      "kode_wilayah": "17.04.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.04"
+    },
+    {
+      "nama_wilayah": "Sukarami",
+      "kode_wilayah": "17.04.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.04"
+    },
+    {
+      "nama_wilayah": "Pajar Bulan",
+      "kode_wilayah": "17.04.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.04"
+    },
+    {
+      "nama_wilayah": "Padang Hangat",
+      "kode_wilayah": "17.04.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.04"
+    },
+    {
+      "nama_wilayah": "Kemang Manis",
+      "kode_wilayah": "17.04.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.04"
+    },
+    {
+      "nama_wilayah": "Penyandingan",
+      "kode_wilayah": "17.04.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.04"
+    },
+    {
+      "nama_wilayah": "Sinar Jaya",
+      "kode_wilayah": "17.04.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.04"
+    },
+    {
+      "nama_wilayah": "Tanjung Pandan",
+      "kode_wilayah": "17.04.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.04"
+    },
+    {
+      "nama_wilayah": "Padang Baru",
+      "kode_wilayah": "17.04.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.04"
+    }
+  ]
+}

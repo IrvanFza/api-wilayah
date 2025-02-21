@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Katobengke",
+      "kode_wilayah": "74.72.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.01"
+    },
+    {
+      "nama_wilayah": "Waborobo",
+      "kode_wilayah": "74.72.01.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.01"
+    },
+    {
+      "nama_wilayah": "Sulaa",
+      "kode_wilayah": "74.72.01.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.01"
+    },
+    {
+      "nama_wilayah": "Lipu",
+      "kode_wilayah": "74.72.01.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.01"
+    },
+    {
+      "nama_wilayah": "Labalawa",
+      "kode_wilayah": "74.72.01.1016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.01"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Merah",
+      "kode_wilayah": "71.72.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.05"
+    },
+    {
+      "nama_wilayah": "Sagerat",
+      "kode_wilayah": "71.72.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.05"
+    },
+    {
+      "nama_wilayah": "Manembo-nembo Atas",
+      "kode_wilayah": "71.72.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.05"
+    },
+    {
+      "nama_wilayah": "Manembo-nembo",
+      "kode_wilayah": "71.72.05.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.05"
+    },
+    {
+      "nama_wilayah": "Sagerat Weru Satu",
+      "kode_wilayah": "71.72.05.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.05"
+    },
+    {
+      "nama_wilayah": "Sagerat Weru Dua",
+      "kode_wilayah": "71.72.05.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.05"
+    },
+    {
+      "nama_wilayah": "Manembo-nembo Tengah",
+      "kode_wilayah": "71.72.05.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.05"
+    },
+    {
+      "nama_wilayah": "Tendeki",
+      "kode_wilayah": "71.72.05.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.05"
+    }
+  ]
+}

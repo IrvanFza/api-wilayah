@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Atinggola",
+      "kode_wilayah": "75.05.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.05",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Kwandang",
+      "kode_wilayah": "75.05.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.05",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Anggrek",
+      "kode_wilayah": "75.05.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.05",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Sumalata",
+      "kode_wilayah": "75.05.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.05",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Tolinggula",
+      "kode_wilayah": "75.05.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.05",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Gentuma Raya",
+      "kode_wilayah": "75.05.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.05",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Tomilito",
+      "kode_wilayah": "75.05.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.05",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Ponelo Kepulauan",
+      "kode_wilayah": "75.05.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.05",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Monano",
+      "kode_wilayah": "75.05.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.05",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Biau",
+      "kode_wilayah": "75.05.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.05",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Sumalata Timur",
+      "kode_wilayah": "75.05.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.05",
+      "kode_provinsi": "75"
+    }
+  ]
+}

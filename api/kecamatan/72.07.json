@@ -1,0 +1,90 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Totikum",
+      "kode_wilayah": "72.07.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.07",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Tinangkung",
+      "kode_wilayah": "72.07.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.07",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Liang",
+      "kode_wilayah": "72.07.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.07",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Bulagi",
+      "kode_wilayah": "72.07.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.07",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Buko",
+      "kode_wilayah": "72.07.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.07",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Bulagi Selatan",
+      "kode_wilayah": "72.07.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.07",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Tinangkung Selatan",
+      "kode_wilayah": "72.07.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.07",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Totikum Selatan",
+      "kode_wilayah": "72.07.15",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.07",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Peling Tengah",
+      "kode_wilayah": "72.07.16",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.07",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Bulagi Utara",
+      "kode_wilayah": "72.07.17",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.07",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Buko Selatan",
+      "kode_wilayah": "72.07.18",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.07",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Tinangkung Utara",
+      "kode_wilayah": "72.07.19",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.07",
+      "kode_provinsi": "72"
+    }
+  ]
+}

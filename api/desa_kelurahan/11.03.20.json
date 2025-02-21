@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Simpang Jernih",
+      "kode_wilayah": "11.03.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.03",
+      "kode_kecamatan": "11.03.20"
+    },
+    {
+      "nama_wilayah": "Batu Sumbang",
+      "kode_wilayah": "11.03.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.03",
+      "kode_kecamatan": "11.03.20"
+    },
+    {
+      "nama_wilayah": "Pante Kera",
+      "kode_wilayah": "11.03.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.03",
+      "kode_kecamatan": "11.03.20"
+    },
+    {
+      "nama_wilayah": "Rantau Panjang",
+      "kode_wilayah": "11.03.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.03",
+      "kode_kecamatan": "11.03.20"
+    },
+    {
+      "nama_wilayah": "Melidi",
+      "kode_wilayah": "11.03.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.03",
+      "kode_kecamatan": "11.03.20"
+    },
+    {
+      "nama_wilayah": "Tampur Paloh",
+      "kode_wilayah": "11.03.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.03",
+      "kode_kecamatan": "11.03.20"
+    },
+    {
+      "nama_wilayah": "Tampur Boor",
+      "kode_wilayah": "11.03.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.03",
+      "kode_kecamatan": "11.03.20"
+    },
+    {
+      "nama_wilayah": "HTI Rantau Naro",
+      "kode_wilayah": "11.03.20.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.03",
+      "kode_kecamatan": "11.03.20"
+    }
+  ]
+}

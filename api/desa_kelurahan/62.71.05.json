@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Petuk Bukit",
+      "kode_wilayah": "62.71.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.05"
+    },
+    {
+      "nama_wilayah": "Panjehang",
+      "kode_wilayah": "62.71.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.05"
+    },
+    {
+      "nama_wilayah": "Petuk Barunai",
+      "kode_wilayah": "62.71.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.05"
+    },
+    {
+      "nama_wilayah": "Mungku Baru",
+      "kode_wilayah": "62.71.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.05"
+    },
+    {
+      "nama_wilayah": "Pager",
+      "kode_wilayah": "62.71.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.05"
+    },
+    {
+      "nama_wilayah": "Gaung Baru",
+      "kode_wilayah": "62.71.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.05"
+    },
+    {
+      "nama_wilayah": "Bukit Sua",
+      "kode_wilayah": "62.71.05.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.05"
+    }
+  ]
+}

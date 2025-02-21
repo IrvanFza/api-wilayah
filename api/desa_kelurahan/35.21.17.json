@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Karanganyar",
+      "kode_wilayah": "35.21.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.17"
+    },
+    {
+      "nama_wilayah": "Mengger",
+      "kode_wilayah": "35.21.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.17"
+    },
+    {
+      "nama_wilayah": "Gembol",
+      "kode_wilayah": "35.21.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.17"
+    },
+    {
+      "nama_wilayah": "Sriwedari",
+      "kode_wilayah": "35.21.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.17"
+    },
+    {
+      "nama_wilayah": "Bangunrejo",
+      "kode_wilayah": "35.21.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.17"
+    },
+    {
+      "nama_wilayah": "Pandean",
+      "kode_wilayah": "35.21.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.17"
+    },
+    {
+      "nama_wilayah": "Sekarjati",
+      "kode_wilayah": "35.21.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.17"
+    }
+  ]
+}

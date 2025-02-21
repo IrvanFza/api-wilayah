@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Darawolong",
+      "kode_wilayah": "32.15.29.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.29"
+    },
+    {
+      "nama_wilayah": "Tegalsari",
+      "kode_wilayah": "32.15.29.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.29"
+    },
+    {
+      "nama_wilayah": "Purwasari",
+      "kode_wilayah": "32.15.29.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.29"
+    },
+    {
+      "nama_wilayah": "Mekarjaya",
+      "kode_wilayah": "32.15.29.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.29"
+    },
+    {
+      "nama_wilayah": "Tamelang",
+      "kode_wilayah": "32.15.29.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.29"
+    },
+    {
+      "nama_wilayah": "Cengkong",
+      "kode_wilayah": "32.15.29.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.29"
+    },
+    {
+      "nama_wilayah": "Sukasari",
+      "kode_wilayah": "32.15.29.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.29"
+    },
+    {
+      "nama_wilayah": "Karangsari",
+      "kode_wilayah": "32.15.29.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.29"
+    }
+  ]
+}

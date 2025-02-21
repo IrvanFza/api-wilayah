@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Pahlawan",
+      "kode_wilayah": "12.75.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.01"
+    },
+    {
+      "nama_wilayah": "Jati Negara",
+      "kode_wilayah": "12.75.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.01"
+    },
+    {
+      "nama_wilayah": "Nangka",
+      "kode_wilayah": "12.75.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.01"
+    },
+    {
+      "nama_wilayah": "Damai",
+      "kode_wilayah": "12.75.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.01"
+    },
+    {
+      "nama_wilayah": "Kebun Lada",
+      "kode_wilayah": "12.75.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.01"
+    },
+    {
+      "nama_wilayah": "Cengkeh Turi",
+      "kode_wilayah": "12.75.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.01"
+    },
+    {
+      "nama_wilayah": "Jati Utomo",
+      "kode_wilayah": "12.75.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.01"
+    },
+    {
+      "nama_wilayah": "Jati Makmur",
+      "kode_wilayah": "12.75.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.01"
+    },
+    {
+      "nama_wilayah": "Jati Karya",
+      "kode_wilayah": "12.75.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.01"
+    }
+  ]
+}

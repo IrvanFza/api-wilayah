@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tanru Tedong",
+      "kode_wilayah": "73.14.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.09"
+    },
+    {
+      "nama_wilayah": "Salomalori",
+      "kode_wilayah": "73.14.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.09"
+    },
+    {
+      "nama_wilayah": "Kalosi",
+      "kode_wilayah": "73.14.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.09"
+    },
+    {
+      "nama_wilayah": "Padangloang",
+      "kode_wilayah": "73.14.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.09"
+    },
+    {
+      "nama_wilayah": "Kalosi Alau",
+      "kode_wilayah": "73.14.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.09"
+    },
+    {
+      "nama_wilayah": "Bila",
+      "kode_wilayah": "73.14.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.09"
+    },
+    {
+      "nama_wilayah": "Padangloang Alau",
+      "kode_wilayah": "73.14.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.09"
+    },
+    {
+      "nama_wilayah": "Salobukkang",
+      "kode_wilayah": "73.14.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.09"
+    },
+    {
+      "nama_wilayah": "Taccimpo",
+      "kode_wilayah": "73.14.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.09"
+    },
+    {
+      "nama_wilayah": "Kampale",
+      "kode_wilayah": "73.14.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.09"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sapaya",
+      "kode_wilayah": "73.06.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.09"
+    },
+    {
+      "nama_wilayah": "Je-nebatu",
+      "kode_wilayah": "73.06.09.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.09"
+    },
+    {
+      "nama_wilayah": "Bontomanai",
+      "kode_wilayah": "73.06.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.09"
+    },
+    {
+      "nama_wilayah": "Buakkang",
+      "kode_wilayah": "73.06.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.09"
+    },
+    {
+      "nama_wilayah": "Bissoloro",
+      "kode_wilayah": "73.06.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.09"
+    },
+    {
+      "nama_wilayah": "Rannaloe",
+      "kode_wilayah": "73.06.09.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.09"
+    },
+    {
+      "nama_wilayah": "Mangempang",
+      "kode_wilayah": "73.06.09.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.09"
+    }
+  ]
+}

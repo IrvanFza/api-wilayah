@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Rancagoong",
+      "kode_wilayah": "32.03.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.04"
+    },
+    {
+      "nama_wilayah": "Sukasari",
+      "kode_wilayah": "32.03.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.04"
+    },
+    {
+      "nama_wilayah": "Sirnagalih",
+      "kode_wilayah": "32.03.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.04"
+    },
+    {
+      "nama_wilayah": "Sukakerta",
+      "kode_wilayah": "32.03.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.04"
+    },
+    {
+      "nama_wilayah": "Cibinonghilir",
+      "kode_wilayah": "32.03.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.04"
+    },
+    {
+      "nama_wilayah": "Rahong",
+      "kode_wilayah": "32.03.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.04"
+    },
+    {
+      "nama_wilayah": "Munjul",
+      "kode_wilayah": "32.03.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.04"
+    },
+    {
+      "nama_wilayah": "Sindangsari",
+      "kode_wilayah": "32.03.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.04"
+    },
+    {
+      "nama_wilayah": "Ciharashas",
+      "kode_wilayah": "32.03.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.04"
+    },
+    {
+      "nama_wilayah": "Mulyasari",
+      "kode_wilayah": "32.03.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.04"
+    }
+  ]
+}

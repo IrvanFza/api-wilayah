@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Nambo Padang",
+      "kode_wilayah": "72.01.23.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.23"
+    },
+    {
+      "nama_wilayah": "Nambo Bosaa",
+      "kode_wilayah": "72.01.23.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.23"
+    },
+    {
+      "nama_wilayah": "Nambo Lempek",
+      "kode_wilayah": "72.01.23.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.23"
+    },
+    {
+      "nama_wilayah": "Nambo Lempek Baru",
+      "kode_wilayah": "72.01.23.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.23"
+    },
+    {
+      "nama_wilayah": "Lontio",
+      "kode_wilayah": "72.01.23.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.23"
+    },
+    {
+      "nama_wilayah": "Lontio Baru",
+      "kode_wilayah": "72.01.23.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.23"
+    },
+    {
+      "nama_wilayah": "Koyoan",
+      "kode_wilayah": "72.01.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.23"
+    },
+    {
+      "nama_wilayah": "Koyoan Permai",
+      "kode_wilayah": "72.01.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.23"
+    },
+    {
+      "nama_wilayah": "Padungnyo",
+      "kode_wilayah": "72.01.23.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.23"
+    },
+    {
+      "nama_wilayah": "Sayambongin",
+      "kode_wilayah": "72.01.23.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.23"
+    },
+    {
+      "nama_wilayah": "Lumbe",
+      "kode_wilayah": "72.01.23.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.23"
+    }
+  ]
+}

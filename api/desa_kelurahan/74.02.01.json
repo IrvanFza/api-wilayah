@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lambuya",
+      "kode_wilayah": "74.02.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.01"
+    },
+    {
+      "nama_wilayah": "Awuliti",
+      "kode_wilayah": "74.02.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.01"
+    },
+    {
+      "nama_wilayah": "Asaki",
+      "kode_wilayah": "74.02.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.01"
+    },
+    {
+      "nama_wilayah": "Amberi",
+      "kode_wilayah": "74.02.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.01"
+    },
+    {
+      "nama_wilayah": "Waworaha",
+      "kode_wilayah": "74.02.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.01"
+    },
+    {
+      "nama_wilayah": "Tanggobu",
+      "kode_wilayah": "74.02.01.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.01"
+    },
+    {
+      "nama_wilayah": "Meraka",
+      "kode_wilayah": "74.02.01.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.01"
+    },
+    {
+      "nama_wilayah": "Wanua Hoa",
+      "kode_wilayah": "74.02.01.2035",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.01"
+    },
+    {
+      "nama_wilayah": "Watarema",
+      "kode_wilayah": "74.02.01.2036",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.01"
+    },
+    {
+      "nama_wilayah": "Tetembomua",
+      "kode_wilayah": "74.02.01.2037",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.01"
+    }
+  ]
+}

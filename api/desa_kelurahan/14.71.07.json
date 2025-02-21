@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Simpang Tiga",
+      "kode_wilayah": "14.71.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.07"
+    },
+    {
+      "nama_wilayah": "Tangkerang Selatan",
+      "kode_wilayah": "14.71.07.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.07"
+    },
+    {
+      "nama_wilayah": "Tangkerang Utara",
+      "kode_wilayah": "14.71.07.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.07"
+    },
+    {
+      "nama_wilayah": "Tangkerang Labuai",
+      "kode_wilayah": "14.71.07.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.07"
+    },
+    {
+      "nama_wilayah": "Airdingin",
+      "kode_wilayah": "14.71.07.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.07"
+    }
+  ]
+}

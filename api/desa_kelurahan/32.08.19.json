@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Padabeunghar",
+      "kode_wilayah": "32.08.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.19"
+    },
+    {
+      "nama_wilayah": "Kaduela",
+      "kode_wilayah": "32.08.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.19"
+    },
+    {
+      "nama_wilayah": "Pasawahan",
+      "kode_wilayah": "32.08.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.19"
+    },
+    {
+      "nama_wilayah": "Ciwiru",
+      "kode_wilayah": "32.08.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.19"
+    },
+    {
+      "nama_wilayah": "Cidahu",
+      "kode_wilayah": "32.08.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.19"
+    },
+    {
+      "nama_wilayah": "Cimara",
+      "kode_wilayah": "32.08.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.19"
+    },
+    {
+      "nama_wilayah": "Paniis",
+      "kode_wilayah": "32.08.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.19"
+    },
+    {
+      "nama_wilayah": "Cibuntu",
+      "kode_wilayah": "32.08.19.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.19"
+    },
+    {
+      "nama_wilayah": "Singkup",
+      "kode_wilayah": "32.08.19.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.19"
+    },
+    {
+      "nama_wilayah": "Padamatang",
+      "kode_wilayah": "32.08.19.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.19"
+    }
+  ]
+}

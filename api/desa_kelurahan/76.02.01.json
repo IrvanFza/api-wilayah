@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Binanga",
+      "kode_wilayah": "76.02.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.01"
+    },
+    {
+      "nama_wilayah": "Mamunyu",
+      "kode_wilayah": "76.02.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.01"
+    },
+    {
+      "nama_wilayah": "Karema",
+      "kode_wilayah": "76.02.01.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.01"
+    },
+    {
+      "nama_wilayah": "Rimuku",
+      "kode_wilayah": "76.02.01.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.01"
+    },
+    {
+      "nama_wilayah": "Bambu",
+      "kode_wilayah": "76.02.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.01"
+    },
+    {
+      "nama_wilayah": "Karampuang",
+      "kode_wilayah": "76.02.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.01"
+    },
+    {
+      "nama_wilayah": "Tadui",
+      "kode_wilayah": "76.02.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.01"
+    },
+    {
+      "nama_wilayah": "Batu Pannu",
+      "kode_wilayah": "76.02.01.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.01"
+    }
+  ]
+}

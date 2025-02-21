@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Naob",
+      "kode_wilayah": "53.03.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.10"
+    },
+    {
+      "nama_wilayah": "Haekto",
+      "kode_wilayah": "53.03.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.10"
+    },
+    {
+      "nama_wilayah": "Manikin",
+      "kode_wilayah": "53.03.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.10"
+    },
+    {
+      "nama_wilayah": "Kuaken",
+      "kode_wilayah": "53.03.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.10"
+    }
+  ]
+}

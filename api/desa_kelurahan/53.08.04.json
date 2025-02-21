@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Mbongawani",
+      "kode_wilayah": "53.08.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.08",
+      "kode_kecamatan": "53.08.04"
+    },
+    {
+      "nama_wilayah": "Rukun Lima",
+      "kode_wilayah": "53.08.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.08",
+      "kode_kecamatan": "53.08.04"
+    },
+    {
+      "nama_wilayah": "Paupanda",
+      "kode_wilayah": "53.08.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.08",
+      "kode_kecamatan": "53.08.04"
+    },
+    {
+      "nama_wilayah": "Tetandara",
+      "kode_wilayah": "53.08.04.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.08",
+      "kode_kecamatan": "53.08.04"
+    },
+    {
+      "nama_wilayah": "Tanjung",
+      "kode_wilayah": "53.08.04.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.08",
+      "kode_kecamatan": "53.08.04"
+    }
+  ]
+}

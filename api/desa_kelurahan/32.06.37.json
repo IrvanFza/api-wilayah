@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kadipaten",
+      "kode_wilayah": "32.06.37.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.37"
+    },
+    {
+      "nama_wilayah": "Dirgahayu",
+      "kode_wilayah": "32.06.37.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.37"
+    },
+    {
+      "nama_wilayah": "Cibahayu",
+      "kode_wilayah": "32.06.37.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.37"
+    },
+    {
+      "nama_wilayah": "Mekarsari",
+      "kode_wilayah": "32.06.37.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.37"
+    },
+    {
+      "nama_wilayah": "Buniasih",
+      "kode_wilayah": "32.06.37.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.37"
+    },
+    {
+      "nama_wilayah": "Pamoyanan",
+      "kode_wilayah": "32.06.37.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.37"
+    }
+  ]
+}

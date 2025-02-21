@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Kemayoran",
+      "kode_wilayah": "31.71.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.03"
+    },
+    {
+      "nama_wilayah": "Kebon Kosong",
+      "kode_wilayah": "31.71.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.03"
+    },
+    {
+      "nama_wilayah": "Harapan Mulia",
+      "kode_wilayah": "31.71.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.03"
+    },
+    {
+      "nama_wilayah": "Serdang",
+      "kode_wilayah": "31.71.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.03"
+    },
+    {
+      "nama_wilayah": "Gunung Sahari Selatan",
+      "kode_wilayah": "31.71.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.03"
+    },
+    {
+      "nama_wilayah": "Cempaka Baru",
+      "kode_wilayah": "31.71.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.03"
+    },
+    {
+      "nama_wilayah": "Sumur Batu",
+      "kode_wilayah": "31.71.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.03"
+    },
+    {
+      "nama_wilayah": "Utan Panjang",
+      "kode_wilayah": "31.71.03.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.03"
+    }
+  ]
+}

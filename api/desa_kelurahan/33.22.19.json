@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sidomulyo",
+      "kode_wilayah": "33.22.19.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.19"
+    },
+    {
+      "nama_wilayah": "Kalirejo",
+      "kode_wilayah": "33.22.19.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.19"
+    },
+    {
+      "nama_wilayah": "Susukan",
+      "kode_wilayah": "33.22.19.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.19"
+    },
+    {
+      "nama_wilayah": "Gedanganak",
+      "kode_wilayah": "33.22.19.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.19"
+    },
+    {
+      "nama_wilayah": "Beji",
+      "kode_wilayah": "33.22.19.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.19"
+    },
+    {
+      "nama_wilayah": "Mluweh",
+      "kode_wilayah": "33.22.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.19"
+    },
+    {
+      "nama_wilayah": "Kawengen",
+      "kode_wilayah": "33.22.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.19"
+    },
+    {
+      "nama_wilayah": "Kalikayen",
+      "kode_wilayah": "33.22.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.19"
+    },
+    {
+      "nama_wilayah": "Leyangan",
+      "kode_wilayah": "33.22.19.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.19"
+    },
+    {
+      "nama_wilayah": "Kalongan",
+      "kode_wilayah": "33.22.19.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.19"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Karyamekar",
+      "kode_wilayah": "32.01.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.08"
+    },
+    {
+      "nama_wilayah": "Babakanraden",
+      "kode_wilayah": "32.01.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.08"
+    },
+    {
+      "nama_wilayah": "Cikutamahi",
+      "kode_wilayah": "32.01.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.08"
+    },
+    {
+      "nama_wilayah": "Kutamekar",
+      "kode_wilayah": "32.01.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.08"
+    },
+    {
+      "nama_wilayah": "Cariu",
+      "kode_wilayah": "32.01.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.08"
+    },
+    {
+      "nama_wilayah": "Mekarwangi",
+      "kode_wilayah": "32.01.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.08"
+    },
+    {
+      "nama_wilayah": "Bantarkuning",
+      "kode_wilayah": "32.01.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.08"
+    },
+    {
+      "nama_wilayah": "Sukajadi",
+      "kode_wilayah": "32.01.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.08"
+    },
+    {
+      "nama_wilayah": "Tegalpanjang",
+      "kode_wilayah": "32.01.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.08"
+    },
+    {
+      "nama_wilayah": "Cibatutiga",
+      "kode_wilayah": "32.01.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.08"
+    }
+  ]
+}

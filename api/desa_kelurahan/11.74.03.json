@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Teungoh",
+      "kode_wilayah": "11.74.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.74",
+      "kode_kecamatan": "11.74.03"
+    },
+    {
+      "nama_wilayah": "Peukan Langsa",
+      "kode_wilayah": "11.74.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.74",
+      "kode_kecamatan": "11.74.03"
+    },
+    {
+      "nama_wilayah": "Jawa",
+      "kode_wilayah": "11.74.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.74",
+      "kode_kecamatan": "11.74.03"
+    },
+    {
+      "nama_wilayah": "Paya Bujok Blang Pase",
+      "kode_wilayah": "11.74.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.74",
+      "kode_kecamatan": "11.74.03"
+    },
+    {
+      "nama_wilayah": "Blang",
+      "kode_wilayah": "11.74.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.74",
+      "kode_kecamatan": "11.74.03"
+    },
+    {
+      "nama_wilayah": "Alue Beurawe",
+      "kode_wilayah": "11.74.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.74",
+      "kode_kecamatan": "11.74.03"
+    },
+    {
+      "nama_wilayah": "Daulat",
+      "kode_wilayah": "11.74.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.74",
+      "kode_kecamatan": "11.74.03"
+    },
+    {
+      "nama_wilayah": "Meutia",
+      "kode_wilayah": "11.74.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.74",
+      "kode_kecamatan": "11.74.03"
+    },
+    {
+      "nama_wilayah": "Blang Seunibong",
+      "kode_wilayah": "11.74.03.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.74",
+      "kode_kecamatan": "11.74.03"
+    },
+    {
+      "nama_wilayah": "Tualang Teungoh",
+      "kode_wilayah": "11.74.03.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.74",
+      "kode_kecamatan": "11.74.03"
+    }
+  ]
+}

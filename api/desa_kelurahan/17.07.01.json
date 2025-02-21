@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Kampung Jawa",
+      "kode_wilayah": "17.07.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.01"
+    },
+    {
+      "nama_wilayah": "Pasar Muara Aman",
+      "kode_wilayah": "17.07.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.01"
+    },
+    {
+      "nama_wilayah": "Gandung",
+      "kode_wilayah": "17.07.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.01"
+    },
+    {
+      "nama_wilayah": "Tunggang",
+      "kode_wilayah": "17.07.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.01"
+    },
+    {
+      "nama_wilayah": "Talang Ulu",
+      "kode_wilayah": "17.07.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.01"
+    },
+    {
+      "nama_wilayah": "Nangai Amen",
+      "kode_wilayah": "17.07.01.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.01"
+    },
+    {
+      "nama_wilayah": "Lebong Tambang",
+      "kode_wilayah": "17.07.01.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.01"
+    },
+    {
+      "nama_wilayah": "Ladang Palembang",
+      "kode_wilayah": "17.07.01.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.01"
+    },
+    {
+      "nama_wilayah": "Kampung Dalam",
+      "kode_wilayah": "17.07.01.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.01"
+    },
+    {
+      "nama_wilayah": "Kampung Muara Aman",
+      "kode_wilayah": "17.07.01.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.01"
+    },
+    {
+      "nama_wilayah": "Lokasari",
+      "kode_wilayah": "17.07.01.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.01"
+    },
+    {
+      "nama_wilayah": "Gandung Baru",
+      "kode_wilayah": "17.07.01.2033",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.01"
+    }
+  ]
+}

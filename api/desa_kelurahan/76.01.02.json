@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Pasangkayu",
+      "kode_wilayah": "76.01.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.02"
+    },
+    {
+      "nama_wilayah": "Martajaya",
+      "kode_wilayah": "76.01.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.02"
+    },
+    {
+      "nama_wilayah": "Pakava",
+      "kode_wilayah": "76.01.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.02"
+    },
+    {
+      "nama_wilayah": "Karya Bersama",
+      "kode_wilayah": "76.01.02.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.02"
+    },
+    {
+      "nama_wilayah": "Ako",
+      "kode_wilayah": "76.01.02.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.02"
+    },
+    {
+      "nama_wilayah": "Gunung Sari",
+      "kode_wilayah": "76.01.02.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.02"
+    }
+  ]
+}

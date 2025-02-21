@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Muli",
+      "kode_wilayah": "95.08.29.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.29"
+    },
+    {
+      "nama_wilayah": "Tinigele",
+      "kode_wilayah": "95.08.29.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.29"
+    },
+    {
+      "nama_wilayah": "Wuone",
+      "kode_wilayah": "95.08.29.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.29"
+    },
+    {
+      "nama_wilayah": "Luaren",
+      "kode_wilayah": "95.08.29.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.29"
+    },
+    {
+      "nama_wilayah": "Wangun",
+      "kode_wilayah": "95.08.29.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.29"
+    },
+    {
+      "nama_wilayah": "Wutpaga",
+      "kode_wilayah": "95.08.29.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.29"
+    }
+  ]
+}

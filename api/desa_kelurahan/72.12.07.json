@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lembah Sumara",
+      "kode_wilayah": "72.12.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.12",
+      "kode_kecamatan": "72.12.07"
+    },
+    {
+      "nama_wilayah": "Sumara Jaya",
+      "kode_wilayah": "72.12.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.12",
+      "kode_kecamatan": "72.12.07"
+    },
+    {
+      "nama_wilayah": "Tambayoli",
+      "kode_wilayah": "72.12.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.12",
+      "kode_kecamatan": "72.12.07"
+    },
+    {
+      "nama_wilayah": "Malino",
+      "kode_wilayah": "72.12.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.12",
+      "kode_kecamatan": "72.12.07"
+    },
+    {
+      "nama_wilayah": "Panca Makmur",
+      "kode_wilayah": "72.12.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.12",
+      "kode_kecamatan": "72.12.07"
+    },
+    {
+      "nama_wilayah": "Tamainusi",
+      "kode_wilayah": "72.12.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.12",
+      "kode_kecamatan": "72.12.07"
+    },
+    {
+      "nama_wilayah": "Bau",
+      "kode_wilayah": "72.12.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.12",
+      "kode_kecamatan": "72.12.07"
+    },
+    {
+      "nama_wilayah": "Malino Jaya",
+      "kode_wilayah": "72.12.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.12",
+      "kode_kecamatan": "72.12.07"
+    },
+    {
+      "nama_wilayah": "Toddopoli Uebangke",
+      "kode_wilayah": "72.12.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.12",
+      "kode_kecamatan": "72.12.07"
+    },
+    {
+      "nama_wilayah": "Tandoyondo",
+      "kode_wilayah": "72.12.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.12",
+      "kode_kecamatan": "72.12.07"
+    }
+  ]
+}

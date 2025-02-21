@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tanjungmekar",
+      "kode_wilayah": "32.15.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.12"
+    },
+    {
+      "nama_wilayah": "Telagajaya",
+      "kode_wilayah": "32.15.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.12"
+    },
+    {
+      "nama_wilayah": "Telukbuyung",
+      "kode_wilayah": "32.15.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.12"
+    },
+    {
+      "nama_wilayah": "Tanahbaru",
+      "kode_wilayah": "32.15.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.12"
+    },
+    {
+      "nama_wilayah": "Solokan",
+      "kode_wilayah": "32.15.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.12"
+    },
+    {
+      "nama_wilayah": "Tanjungbungin",
+      "kode_wilayah": "32.15.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.12"
+    },
+    {
+      "nama_wilayah": "Telukjaya",
+      "kode_wilayah": "32.15.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.12"
+    },
+    {
+      "nama_wilayah": "Tanjungpakis",
+      "kode_wilayah": "32.15.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.12"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Pancor",
+      "kode_wilayah": "52.03.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.07"
+    },
+    {
+      "nama_wilayah": "Selong",
+      "kode_wilayah": "52.03.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.07"
+    },
+    {
+      "nama_wilayah": "Kelayu Selatan",
+      "kode_wilayah": "52.03.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.07"
+    },
+    {
+      "nama_wilayah": "Denggen",
+      "kode_wilayah": "52.03.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.07"
+    },
+    {
+      "nama_wilayah": "Sekarteja",
+      "kode_wilayah": "52.03.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.07"
+    },
+    {
+      "nama_wilayah": "Majidi",
+      "kode_wilayah": "52.03.07.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.07"
+    },
+    {
+      "nama_wilayah": "Rakam",
+      "kode_wilayah": "52.03.07.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.07"
+    },
+    {
+      "nama_wilayah": "Sandu Baya",
+      "kode_wilayah": "52.03.07.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.07"
+    },
+    {
+      "nama_wilayah": "Kembang Sari",
+      "kode_wilayah": "52.03.07.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.07"
+    },
+    {
+      "nama_wilayah": "Kelayu Utara",
+      "kode_wilayah": "52.03.07.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.07"
+    },
+    {
+      "nama_wilayah": "Kelaju Jorong",
+      "kode_wilayah": "52.03.07.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.07"
+    },
+    {
+      "nama_wilayah": "Danggen Timur",
+      "kode_wilayah": "52.03.07.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.07"
+    }
+  ]
+}

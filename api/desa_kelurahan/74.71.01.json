@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Mandonga",
+      "kode_wilayah": "74.71.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.01"
+    },
+    {
+      "nama_wilayah": "Korumba",
+      "kode_wilayah": "74.71.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.01"
+    },
+    {
+      "nama_wilayah": "Labibia",
+      "kode_wilayah": "74.71.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.01"
+    },
+    {
+      "nama_wilayah": "Wawombalata",
+      "kode_wilayah": "74.71.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.01"
+    },
+    {
+      "nama_wilayah": "Alolama",
+      "kode_wilayah": "74.71.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.01"
+    },
+    {
+      "nama_wilayah": "Anggilowu",
+      "kode_wilayah": "74.71.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.01"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Waesala",
+      "kode_wilayah": "81.06.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.04"
+    },
+    {
+      "nama_wilayah": "Allang Asaude",
+      "kode_wilayah": "81.06.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.04"
+    },
+    {
+      "nama_wilayah": "Sole",
+      "kode_wilayah": "81.06.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.04"
+    },
+    {
+      "nama_wilayah": "Tonu Jaya",
+      "kode_wilayah": "81.06.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.04"
+    },
+    {
+      "nama_wilayah": "Tahalupu",
+      "kode_wilayah": "81.06.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.04"
+    },
+    {
+      "nama_wilayah": "Buano Utara",
+      "kode_wilayah": "81.06.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.04"
+    },
+    {
+      "nama_wilayah": "Buano Selatan",
+      "kode_wilayah": "81.06.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.04"
+    }
+  ]
+}

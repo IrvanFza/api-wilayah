@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tebet",
+      "kode_wilayah": "31.74.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.74",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Setiabudi",
+      "kode_wilayah": "31.74.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.74",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Mampang Prapatan",
+      "kode_wilayah": "31.74.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.74",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Pasar Minggu",
+      "kode_wilayah": "31.74.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.74",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Kebayoran Lama",
+      "kode_wilayah": "31.74.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.74",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Cilandak",
+      "kode_wilayah": "31.74.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.74",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Kebayoran Baru",
+      "kode_wilayah": "31.74.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.74",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Pancoran",
+      "kode_wilayah": "31.74.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.74",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Jagakarsa",
+      "kode_wilayah": "31.74.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.74",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Pesanggrahan",
+      "kode_wilayah": "31.74.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.74",
+      "kode_provinsi": "31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kota Karang",
+      "kode_wilayah": "18.71.19.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.19"
+    },
+    {
+      "nama_wilayah": "Kota Karang Raya",
+      "kode_wilayah": "18.71.19.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.19"
+    },
+    {
+      "nama_wilayah": "Parwata",
+      "kode_wilayah": "18.71.19.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.19"
+    },
+    {
+      "nama_wilayah": "Keteguhan",
+      "kode_wilayah": "18.71.19.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.19"
+    },
+    {
+      "nama_wilayah": "Sukamaju",
+      "kode_wilayah": "18.71.19.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.19"
+    },
+    {
+      "nama_wilayah": "Way Tataan",
+      "kode_wilayah": "18.71.19.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.19"
+    }
+  ]
+}

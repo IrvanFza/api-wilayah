@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Ngasem",
+      "kode_wilayah": "33.13.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.12"
+    },
+    {
+      "nama_wilayah": "Bolon",
+      "kode_wilayah": "33.13.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.12"
+    },
+    {
+      "nama_wilayah": "Malangjiwan",
+      "kode_wilayah": "33.13.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.12"
+    },
+    {
+      "nama_wilayah": "Paulan",
+      "kode_wilayah": "33.13.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.12"
+    },
+    {
+      "nama_wilayah": "Gajahan",
+      "kode_wilayah": "33.13.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.12"
+    },
+    {
+      "nama_wilayah": "Blulukan",
+      "kode_wilayah": "33.13.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.12"
+    },
+    {
+      "nama_wilayah": "Gawanan",
+      "kode_wilayah": "33.13.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.12"
+    },
+    {
+      "nama_wilayah": "Gedongan",
+      "kode_wilayah": "33.13.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.12"
+    },
+    {
+      "nama_wilayah": "Tohudan",
+      "kode_wilayah": "33.13.12.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.12"
+    },
+    {
+      "nama_wilayah": "Baturan",
+      "kode_wilayah": "33.13.12.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.12"
+    },
+    {
+      "nama_wilayah": "Klodran",
+      "kode_wilayah": "33.13.12.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.12"
+    }
+  ]
+}

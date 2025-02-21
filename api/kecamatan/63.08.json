@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Danau Panggang",
+      "kode_wilayah": "63.08.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.08",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Babirik",
+      "kode_wilayah": "63.08.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.08",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Sungai Pandan",
+      "kode_wilayah": "63.08.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.08",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Amuntai Selatan",
+      "kode_wilayah": "63.08.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.08",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Amuntai Tengah",
+      "kode_wilayah": "63.08.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.08",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Amuntai Utara",
+      "kode_wilayah": "63.08.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.08",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Banjang",
+      "kode_wilayah": "63.08.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.08",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Haur Gading",
+      "kode_wilayah": "63.08.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.08",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Paminggir",
+      "kode_wilayah": "63.08.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.08",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Sungai Tabukan",
+      "kode_wilayah": "63.08.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.08",
+      "kode_provinsi": "63"
+    }
+  ]
+}

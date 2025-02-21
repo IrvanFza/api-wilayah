@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Seki",
+      "kode_wilayah": "82.03.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.16"
+    },
+    {
+      "nama_wilayah": "Togawa",
+      "kode_wilayah": "82.03.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.16"
+    },
+    {
+      "nama_wilayah": "Soakonora",
+      "kode_wilayah": "82.03.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.16"
+    },
+    {
+      "nama_wilayah": "Igobula",
+      "kode_wilayah": "82.03.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.16"
+    },
+    {
+      "nama_wilayah": "Bale",
+      "kode_wilayah": "82.03.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.16"
+    },
+    {
+      "nama_wilayah": "Togawabesi",
+      "kode_wilayah": "82.03.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.16"
+    },
+    {
+      "nama_wilayah": "Ori",
+      "kode_wilayah": "82.03.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.16"
+    }
+  ]
+}

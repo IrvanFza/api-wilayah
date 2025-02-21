@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Biga",
+      "kode_wilayah": "71.74.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.01"
+    },
+    {
+      "nama_wilayah": "Upai",
+      "kode_wilayah": "71.74.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.01"
+    },
+    {
+      "nama_wilayah": "Genggulang",
+      "kode_wilayah": "71.74.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.01"
+    },
+    {
+      "nama_wilayah": "Bilalang Satu",
+      "kode_wilayah": "71.74.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.01"
+    },
+    {
+      "nama_wilayah": "Bilalang Dua",
+      "kode_wilayah": "71.74.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.01"
+    },
+    {
+      "nama_wilayah": "Pontodon",
+      "kode_wilayah": "71.74.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.01"
+    },
+    {
+      "nama_wilayah": "Sia",
+      "kode_wilayah": "71.74.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.01"
+    },
+    {
+      "nama_wilayah": "Pontodon Timur",
+      "kode_wilayah": "71.74.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.01"
+    }
+  ]
+}

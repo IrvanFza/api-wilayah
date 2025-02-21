@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Montallat",
+      "kode_wilayah": "62.05.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.05",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Gunung Timang",
+      "kode_wilayah": "62.05.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.05",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Gunung Purei",
+      "kode_wilayah": "62.05.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.05",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Teweh Timur",
+      "kode_wilayah": "62.05.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.05",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Teweh Tengah",
+      "kode_wilayah": "62.05.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.05",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Lahei",
+      "kode_wilayah": "62.05.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.05",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Teweh Baru",
+      "kode_wilayah": "62.05.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.05",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Teweh Selatan",
+      "kode_wilayah": "62.05.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.05",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Lahei Barat",
+      "kode_wilayah": "62.05.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.05",
+      "kode_provinsi": "62"
+    }
+  ]
+}

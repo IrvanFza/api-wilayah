@@ -1,0 +1,160 @@
+{
+  "status": "success",
+  "total": 22,
+  "data": [
+    {
+      "nama_wilayah": "Pulau Sembilan",
+      "kode_wilayah": "63.02.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Pulau Laut Barat",
+      "kode_wilayah": "63.02.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Pulau Laut Selatan",
+      "kode_wilayah": "63.02.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Pulau Laut Timur",
+      "kode_wilayah": "63.02.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Pulau Sebuku",
+      "kode_wilayah": "63.02.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Pulaulaut Utara",
+      "kode_wilayah": "63.02.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Kelumpang Selatan",
+      "kode_wilayah": "63.02.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Kelumpang Hulu",
+      "kode_wilayah": "63.02.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Kelumpang Tengah",
+      "kode_wilayah": "63.02.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Kelumpang Utara",
+      "kode_wilayah": "63.02.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Pamukan Selatan",
+      "kode_wilayah": "63.02.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Sampanahan",
+      "kode_wilayah": "63.02.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Pamukan Utara",
+      "kode_wilayah": "63.02.13",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Hampang",
+      "kode_wilayah": "63.02.14",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Sungai Durian",
+      "kode_wilayah": "63.02.15",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Pulau Laut Tengah",
+      "kode_wilayah": "63.02.16",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Kelumpang Hilir",
+      "kode_wilayah": "63.02.17",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Kelumpang Barat",
+      "kode_wilayah": "63.02.18",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Pamukan Barat",
+      "kode_wilayah": "63.02.19",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Pulau Laut Kepulauan",
+      "kode_wilayah": "63.02.20",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Pulau Laut Tanjung Selayar",
+      "kode_wilayah": "63.02.21",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Pulaulaut Sigam",
+      "kode_wilayah": "63.02.22",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.02",
+      "kode_provinsi": "63"
+    }
+  ]
+}

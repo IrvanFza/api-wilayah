@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bunga Raya",
+      "kode_wilayah": "14.08.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.08"
+    },
+    {
+      "nama_wilayah": "Jati Baru",
+      "kode_wilayah": "14.08.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.08"
+    },
+    {
+      "nama_wilayah": "Jayapura",
+      "kode_wilayah": "14.08.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.08"
+    },
+    {
+      "nama_wilayah": "Kemuning Muda",
+      "kode_wilayah": "14.08.08.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.08"
+    },
+    {
+      "nama_wilayah": "Buatan Lestari",
+      "kode_wilayah": "14.08.08.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.08"
+    },
+    {
+      "nama_wilayah": "Tuah Indrapura",
+      "kode_wilayah": "14.08.08.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.08"
+    },
+    {
+      "nama_wilayah": "Langsat Permai",
+      "kode_wilayah": "14.08.08.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.08"
+    },
+    {
+      "nama_wilayah": "Temusai",
+      "kode_wilayah": "14.08.08.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.08"
+    },
+    {
+      "nama_wilayah": "Dayang Suri",
+      "kode_wilayah": "14.08.08.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.08"
+    },
+    {
+      "nama_wilayah": "Suak Merambai",
+      "kode_wilayah": "14.08.08.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.08"
+    }
+  ]
+}

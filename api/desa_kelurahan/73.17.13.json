@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Cilallang",
+      "kode_wilayah": "73.17.13.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.13"
+    },
+    {
+      "nama_wilayah": "Kamanre",
+      "kode_wilayah": "73.17.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.13"
+    },
+    {
+      "nama_wilayah": "Tabbaja",
+      "kode_wilayah": "73.17.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.13"
+    },
+    {
+      "nama_wilayah": "Libukang",
+      "kode_wilayah": "73.17.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.13"
+    },
+    {
+      "nama_wilayah": "Wara",
+      "kode_wilayah": "73.17.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.13"
+    },
+    {
+      "nama_wilayah": "Salu Paremang",
+      "kode_wilayah": "73.17.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.13"
+    },
+    {
+      "nama_wilayah": "Salu Paremang Selatan",
+      "kode_wilayah": "73.17.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.13"
+    },
+    {
+      "nama_wilayah": "Bunga Eja",
+      "kode_wilayah": "73.17.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.13"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Waikadai",
+      "kode_wilayah": "82.08.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.08",
+      "kode_kecamatan": "82.08.06"
+    },
+    {
+      "nama_wilayah": "Losseng",
+      "kode_wilayah": "82.08.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.08",
+      "kode_kecamatan": "82.08.06"
+    },
+    {
+      "nama_wilayah": "Kawadang",
+      "kode_wilayah": "82.08.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.08",
+      "kode_kecamatan": "82.08.06"
+    },
+    {
+      "nama_wilayah": "Sofan",
+      "kode_wilayah": "82.08.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.08",
+      "kode_kecamatan": "82.08.06"
+    },
+    {
+      "nama_wilayah": "Mantarara",
+      "kode_wilayah": "82.08.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.08",
+      "kode_kecamatan": "82.08.06"
+    },
+    {
+      "nama_wilayah": "Belo",
+      "kode_wilayah": "82.08.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.08",
+      "kode_kecamatan": "82.08.06"
+    },
+    {
+      "nama_wilayah": "Kamaya",
+      "kode_wilayah": "82.08.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.08",
+      "kode_kecamatan": "82.08.06"
+    },
+    {
+      "nama_wilayah": "Waikoka",
+      "kode_wilayah": "82.08.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.08",
+      "kode_kecamatan": "82.08.06"
+    },
+    {
+      "nama_wilayah": "Waikadai Sula",
+      "kode_wilayah": "82.08.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.08",
+      "kode_kecamatan": "82.08.06"
+    }
+  ]
+}

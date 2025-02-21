@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Taman Bunga",
+      "kode_wilayah": "19.71.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.05"
+    },
+    {
+      "nama_wilayah": "Bukit Merapen",
+      "kode_wilayah": "19.71.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.05"
+    },
+    {
+      "nama_wilayah": "Bukit Sari",
+      "kode_wilayah": "19.71.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.05"
+    },
+    {
+      "nama_wilayah": "Tua Tunu Indah",
+      "kode_wilayah": "19.71.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.05"
+    },
+    {
+      "nama_wilayah": "Kacang Pedang",
+      "kode_wilayah": "19.71.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.05"
+    },
+    {
+      "nama_wilayah": "Air Kepala Tujuh",
+      "kode_wilayah": "19.71.05.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.05"
+    }
+  ]
+}

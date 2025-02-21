@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Parakansalak",
+      "kode_wilayah": "32.02.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.15"
+    },
+    {
+      "nama_wilayah": "Bojonglongok",
+      "kode_wilayah": "32.02.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.15"
+    },
+    {
+      "nama_wilayah": "Sukakersa",
+      "kode_wilayah": "32.02.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.15"
+    },
+    {
+      "nama_wilayah": "Sukatani",
+      "kode_wilayah": "32.02.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.15"
+    },
+    {
+      "nama_wilayah": "Bojongasih",
+      "kode_wilayah": "32.02.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.15"
+    },
+    {
+      "nama_wilayah": "Lebaksari",
+      "kode_wilayah": "32.02.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.15"
+    }
+  ]
+}

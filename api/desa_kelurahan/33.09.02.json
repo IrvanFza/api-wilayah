@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tanduk",
+      "kode_wilayah": "33.09.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.02"
+    },
+    {
+      "nama_wilayah": "Banyuanyar",
+      "kode_wilayah": "33.09.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.02"
+    },
+    {
+      "nama_wilayah": "Sidomulyo",
+      "kode_wilayah": "33.09.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.02"
+    },
+    {
+      "nama_wilayah": "Ngargosari",
+      "kode_wilayah": "33.09.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.02"
+    },
+    {
+      "nama_wilayah": "Selodoko",
+      "kode_wilayah": "33.09.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.02"
+    },
+    {
+      "nama_wilayah": "Ngenden",
+      "kode_wilayah": "33.09.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.02"
+    },
+    {
+      "nama_wilayah": "Ngampon",
+      "kode_wilayah": "33.09.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.02"
+    },
+    {
+      "nama_wilayah": "Gondangslamet",
+      "kode_wilayah": "33.09.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.02"
+    },
+    {
+      "nama_wilayah": "Candi",
+      "kode_wilayah": "33.09.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.02"
+    },
+    {
+      "nama_wilayah": "Urutsewu",
+      "kode_wilayah": "33.09.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.02"
+    }
+  ]
+}

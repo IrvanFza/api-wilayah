@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Plumbungan",
+      "kode_wilayah": "33.14.09.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.09"
+    },
+    {
+      "nama_wilayah": "Kroyo",
+      "kode_wilayah": "33.14.09.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.09"
+    },
+    {
+      "nama_wilayah": "Kedungwaduk",
+      "kode_wilayah": "33.14.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.09"
+    },
+    {
+      "nama_wilayah": "Jurangjero",
+      "kode_wilayah": "33.14.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.09"
+    },
+    {
+      "nama_wilayah": "Saradan",
+      "kode_wilayah": "33.14.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.09"
+    },
+    {
+      "nama_wilayah": "Plosokerep",
+      "kode_wilayah": "33.14.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.09"
+    },
+    {
+      "nama_wilayah": "Guworejo",
+      "kode_wilayah": "33.14.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.09"
+    },
+    {
+      "nama_wilayah": "Puro",
+      "kode_wilayah": "33.14.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.09"
+    },
+    {
+      "nama_wilayah": "Mojorejo",
+      "kode_wilayah": "33.14.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.09"
+    },
+    {
+      "nama_wilayah": "Pelemgadung",
+      "kode_wilayah": "33.14.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.09"
+    }
+  ]
+}

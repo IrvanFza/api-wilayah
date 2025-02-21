@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Asahan Mati",
+      "kode_wilayah": "12.09.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.10"
+    },
+    {
+      "nama_wilayah": "Bagan Asahan",
+      "kode_wilayah": "12.09.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.10"
+    },
+    {
+      "nama_wilayah": "Bagan Asahan Baru",
+      "kode_wilayah": "12.09.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.10"
+    },
+    {
+      "nama_wilayah": "Bagan Asahan Pekan",
+      "kode_wilayah": "12.09.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.10"
+    },
+    {
+      "nama_wilayah": "Kapias Batu VIII",
+      "kode_wilayah": "12.09.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.10"
+    },
+    {
+      "nama_wilayah": "Pematang Sei Baru",
+      "kode_wilayah": "12.09.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.10"
+    },
+    {
+      "nama_wilayah": "Sei Apung",
+      "kode_wilayah": "12.09.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.10"
+    },
+    {
+      "nama_wilayah": "Sei Apung Jaya",
+      "kode_wilayah": "12.09.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.10"
+    }
+  ]
+}

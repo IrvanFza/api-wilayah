@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Manguharjo",
+      "kode_wilayah": "35.77.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.77",
+      "kode_kecamatan": "35.77.02"
+    },
+    {
+      "nama_wilayah": "Sogaten",
+      "kode_wilayah": "35.77.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.77",
+      "kode_kecamatan": "35.77.02"
+    },
+    {
+      "nama_wilayah": "Patihan",
+      "kode_wilayah": "35.77.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.77",
+      "kode_kecamatan": "35.77.02"
+    },
+    {
+      "nama_wilayah": "Ngegong",
+      "kode_wilayah": "35.77.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.77",
+      "kode_kecamatan": "35.77.02"
+    },
+    {
+      "nama_wilayah": "Winongo",
+      "kode_wilayah": "35.77.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.77",
+      "kode_kecamatan": "35.77.02"
+    },
+    {
+      "nama_wilayah": "Madiun Lor",
+      "kode_wilayah": "35.77.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.77",
+      "kode_kecamatan": "35.77.02"
+    },
+    {
+      "nama_wilayah": "Pangongangan",
+      "kode_wilayah": "35.77.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.77",
+      "kode_kecamatan": "35.77.02"
+    },
+    {
+      "nama_wilayah": "Nambangan Lor",
+      "kode_wilayah": "35.77.02.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.77",
+      "kode_kecamatan": "35.77.02"
+    },
+    {
+      "nama_wilayah": "Nambangan Kidul",
+      "kode_wilayah": "35.77.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.77",
+      "kode_kecamatan": "35.77.02"
+    }
+  ]
+}

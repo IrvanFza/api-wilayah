@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Kulim",
+      "kode_wilayah": "14.71.14.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.14"
+    },
+    {
+      "nama_wilayah": "Mentangor",
+      "kode_wilayah": "14.71.14.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.14"
+    },
+    {
+      "nama_wilayah": "Sialangrampai",
+      "kode_wilayah": "14.71.14.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.14"
+    },
+    {
+      "nama_wilayah": "Pebatuan",
+      "kode_wilayah": "14.71.14.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.14"
+    },
+    {
+      "nama_wilayah": "Pematangkapau",
+      "kode_wilayah": "14.71.14.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.14"
+    }
+  ]
+}

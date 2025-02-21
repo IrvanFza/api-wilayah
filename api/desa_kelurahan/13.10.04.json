@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Sitiung",
+      "kode_wilayah": "13.10.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.04"
+    },
+    {
+      "nama_wilayah": "Siguntur",
+      "kode_wilayah": "13.10.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.04"
+    },
+    {
+      "nama_wilayah": "Gunung Medan",
+      "kode_wilayah": "13.10.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.04"
+    },
+    {
+      "nama_wilayah": "Sungai Duo",
+      "kode_wilayah": "13.10.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.04"
+    }
+  ]
+}

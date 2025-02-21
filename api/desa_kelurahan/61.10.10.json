@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tiong Keranjik",
+      "kode_wilayah": "61.10.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.10",
+      "kode_kecamatan": "61.10.10"
+    },
+    {
+      "nama_wilayah": "Nanga Tikan",
+      "kode_wilayah": "61.10.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.10",
+      "kode_kecamatan": "61.10.10"
+    },
+    {
+      "nama_wilayah": "Beloyang",
+      "kode_wilayah": "61.10.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.10",
+      "kode_kecamatan": "61.10.10"
+    },
+    {
+      "nama_wilayah": "Nanga Raya",
+      "kode_wilayah": "61.10.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.10",
+      "kode_kecamatan": "61.10.10"
+    },
+    {
+      "nama_wilayah": "Junjung Permai",
+      "kode_wilayah": "61.10.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.10",
+      "kode_kecamatan": "61.10.10"
+    },
+    {
+      "nama_wilayah": "Nanga Keberak",
+      "kode_wilayah": "61.10.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.10",
+      "kode_kecamatan": "61.10.10"
+    },
+    {
+      "nama_wilayah": "Piawas",
+      "kode_wilayah": "61.10.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.10",
+      "kode_kecamatan": "61.10.10"
+    },
+    {
+      "nama_wilayah": "Kayu Bunga",
+      "kode_wilayah": "61.10.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.10",
+      "kode_kecamatan": "61.10.10"
+    }
+  ]
+}

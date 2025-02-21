@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Baloi Permai",
+      "kode_wilayah": "21.71.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.10"
+    },
+    {
+      "nama_wilayah": "Taman Baloi",
+      "kode_wilayah": "21.71.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.10"
+    },
+    {
+      "nama_wilayah": "Teluk Tering",
+      "kode_wilayah": "21.71.10.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.10"
+    },
+    {
+      "nama_wilayah": "Belian",
+      "kode_wilayah": "21.71.10.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.10"
+    },
+    {
+      "nama_wilayah": "Sukajadi",
+      "kode_wilayah": "21.71.10.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.10"
+    },
+    {
+      "nama_wilayah": "Sungai Panas",
+      "kode_wilayah": "21.71.10.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.10"
+    }
+  ]
+}

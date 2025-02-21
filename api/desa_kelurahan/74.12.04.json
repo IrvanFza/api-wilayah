@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Munse",
+      "kode_wilayah": "74.12.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.04"
+    },
+    {
+      "nama_wilayah": "Lebo",
+      "kode_wilayah": "74.12.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.04"
+    },
+    {
+      "nama_wilayah": "Tekonea",
+      "kode_wilayah": "74.12.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.04"
+    },
+    {
+      "nama_wilayah": "Wakadawu",
+      "kode_wilayah": "74.12.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.04"
+    },
+    {
+      "nama_wilayah": "Munse Indah",
+      "kode_wilayah": "74.12.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.04"
+    },
+    {
+      "nama_wilayah": "Lapulu",
+      "kode_wilayah": "74.12.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.04"
+    },
+    {
+      "nama_wilayah": "Laywo Jaya",
+      "kode_wilayah": "74.12.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.04"
+    },
+    {
+      "nama_wilayah": "Nanga",
+      "kode_wilayah": "74.12.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.04"
+    },
+    {
+      "nama_wilayah": "Butuea",
+      "kode_wilayah": "74.12.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.04"
+    },
+    {
+      "nama_wilayah": "Lembono",
+      "kode_wilayah": "74.12.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.04"
+    },
+    {
+      "nama_wilayah": "Saburano",
+      "kode_wilayah": "74.12.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.04"
+    }
+  ]
+}

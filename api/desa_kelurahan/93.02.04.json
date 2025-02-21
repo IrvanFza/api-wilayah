@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Kouh",
+      "kode_wilayah": "93.02.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.04"
+    },
+    {
+      "nama_wilayah": "Jair",
+      "kode_wilayah": "93.02.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.04"
+    },
+    {
+      "nama_wilayah": "Mandobo",
+      "kode_wilayah": "93.02.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.04"
+    }
+  ]
+}

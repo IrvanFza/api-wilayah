@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pamarayan",
+      "kode_wilayah": "36.04.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.24"
+    },
+    {
+      "nama_wilayah": "Damping",
+      "kode_wilayah": "36.04.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.24"
+    },
+    {
+      "nama_wilayah": "Wirana",
+      "kode_wilayah": "36.04.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.24"
+    },
+    {
+      "nama_wilayah": "Keboncau",
+      "kode_wilayah": "36.04.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.24"
+    },
+    {
+      "nama_wilayah": "Pudar",
+      "kode_wilayah": "36.04.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.24"
+    },
+    {
+      "nama_wilayah": "Binong",
+      "kode_wilayah": "36.04.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.24"
+    },
+    {
+      "nama_wilayah": "Sangiang",
+      "kode_wilayah": "36.04.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.24"
+    },
+    {
+      "nama_wilayah": "Kampungbaru",
+      "kode_wilayah": "36.04.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.24"
+    },
+    {
+      "nama_wilayah": "Pasirlimus",
+      "kode_wilayah": "36.04.24.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.24"
+    },
+    {
+      "nama_wilayah": "Pasir Kembang",
+      "kode_wilayah": "36.04.24.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.24"
+    }
+  ]
+}

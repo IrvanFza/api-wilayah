@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Grajagan",
+      "kode_wilayah": "35.10.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.03"
+    },
+    {
+      "nama_wilayah": "Sumberasri",
+      "kode_wilayah": "35.10.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.03"
+    },
+    {
+      "nama_wilayah": "Glagahagung",
+      "kode_wilayah": "35.10.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.03"
+    },
+    {
+      "nama_wilayah": "Sidorejo",
+      "kode_wilayah": "35.10.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.03"
+    },
+    {
+      "nama_wilayah": "Purwoharjo",
+      "kode_wilayah": "35.10.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.03"
+    },
+    {
+      "nama_wilayah": "Bulurejo",
+      "kode_wilayah": "35.10.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.03"
+    },
+    {
+      "nama_wilayah": "Kradenan",
+      "kode_wilayah": "35.10.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.03"
+    },
+    {
+      "nama_wilayah": "Karetan",
+      "kode_wilayah": "35.10.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.03"
+    }
+  ]
+}

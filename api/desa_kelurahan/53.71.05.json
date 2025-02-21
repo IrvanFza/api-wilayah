@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Bakunase",
+      "kode_wilayah": "53.71.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.71",
+      "kode_kecamatan": "53.71.05"
+    },
+    {
+      "nama_wilayah": "Bakunase Dua",
+      "kode_wilayah": "53.71.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.71",
+      "kode_kecamatan": "53.71.05"
+    },
+    {
+      "nama_wilayah": "Airnona",
+      "kode_wilayah": "53.71.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.71",
+      "kode_kecamatan": "53.71.05"
+    },
+    {
+      "nama_wilayah": "Naikoten Satu",
+      "kode_wilayah": "53.71.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.71",
+      "kode_kecamatan": "53.71.05"
+    },
+    {
+      "nama_wilayah": "Naikoten Dua",
+      "kode_wilayah": "53.71.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.71",
+      "kode_kecamatan": "53.71.05"
+    },
+    {
+      "nama_wilayah": "Kuanino",
+      "kode_wilayah": "53.71.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.71",
+      "kode_kecamatan": "53.71.05"
+    },
+    {
+      "nama_wilayah": "Nunleu",
+      "kode_wilayah": "53.71.05.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.71",
+      "kode_kecamatan": "53.71.05"
+    },
+    {
+      "nama_wilayah": "Fontein",
+      "kode_wilayah": "53.71.05.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.71",
+      "kode_kecamatan": "53.71.05"
+    }
+  ]
+}

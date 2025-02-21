@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Hedam",
+      "kode_wilayah": "91.71.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.05"
+    },
+    {
+      "nama_wilayah": "Waena",
+      "kode_wilayah": "91.71.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.05"
+    },
+    {
+      "nama_wilayah": "Yabansai",
+      "kode_wilayah": "91.71.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.05"
+    },
+    {
+      "nama_wilayah": "Yoka",
+      "kode_wilayah": "91.71.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.05"
+    },
+    {
+      "nama_wilayah": "Waena",
+      "kode_wilayah": "91.71.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.05"
+    }
+  ]
+}

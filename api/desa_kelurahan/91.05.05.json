@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Poom I",
+      "kode_wilayah": "91.05.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.05"
+    },
+    {
+      "nama_wilayah": "Serewen",
+      "kode_wilayah": "91.05.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.05"
+    },
+    {
+      "nama_wilayah": "Poom II",
+      "kode_wilayah": "91.05.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.05"
+    },
+    {
+      "nama_wilayah": "Mokiroan",
+      "kode_wilayah": "91.05.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.05"
+    },
+    {
+      "nama_wilayah": "Rarisi",
+      "kode_wilayah": "91.05.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.05"
+    },
+    {
+      "nama_wilayah": "Warioi",
+      "kode_wilayah": "91.05.05.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.05"
+    },
+    {
+      "nama_wilayah": "Humbe Awai",
+      "kode_wilayah": "91.05.05.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.05"
+    },
+    {
+      "nama_wilayah": "Nurawi",
+      "kode_wilayah": "91.05.05.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.05"
+    }
+  ]
+}

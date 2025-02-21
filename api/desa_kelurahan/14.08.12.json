@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Bandar Sungai",
+      "kode_wilayah": "14.08.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.12"
+    },
+    {
+      "nama_wilayah": "Rempak",
+      "kode_wilayah": "14.08.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.12"
+    },
+    {
+      "nama_wilayah": "Belading",
+      "kode_wilayah": "14.08.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.12"
+    },
+    {
+      "nama_wilayah": "Sungai Tengah",
+      "kode_wilayah": "14.08.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.12"
+    },
+    {
+      "nama_wilayah": "Laksamana",
+      "kode_wilayah": "14.08.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.12"
+    },
+    {
+      "nama_wilayah": "Sabak Permai",
+      "kode_wilayah": "14.08.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.12"
+    },
+    {
+      "nama_wilayah": "Bandar Pedada",
+      "kode_wilayah": "14.08.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.12"
+    },
+    {
+      "nama_wilayah": "Selat Guntung",
+      "kode_wilayah": "14.08.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.12"
+    }
+  ]
+}

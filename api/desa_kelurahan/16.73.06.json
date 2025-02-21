@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sidorejo",
+      "kode_wilayah": "16.73.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.06"
+    },
+    {
+      "nama_wilayah": "Ulak Lebar",
+      "kode_wilayah": "16.73.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.06"
+    },
+    {
+      "nama_wilayah": "Tapak Lebar",
+      "kode_wilayah": "16.73.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.06"
+    },
+    {
+      "nama_wilayah": "Bandung Kanan",
+      "kode_wilayah": "16.73.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.06"
+    },
+    {
+      "nama_wilayah": "Keputraan",
+      "kode_wilayah": "16.73.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.06"
+    },
+    {
+      "nama_wilayah": "Lubuklinggau Ilir",
+      "kode_wilayah": "16.73.06.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.06"
+    },
+    {
+      "nama_wilayah": "Lubuklinggau Ulu",
+      "kode_wilayah": "16.73.06.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.06"
+    },
+    {
+      "nama_wilayah": "Pasar Permiri",
+      "kode_wilayah": "16.73.06.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.06"
+    }
+  ]
+}

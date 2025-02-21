@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Jatirahayu",
+      "kode_wilayah": "32.75.12.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.12"
+    },
+    {
+      "nama_wilayah": "Jatiwarna",
+      "kode_wilayah": "32.75.12.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.12"
+    },
+    {
+      "nama_wilayah": "Jatimelati",
+      "kode_wilayah": "32.75.12.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.12"
+    },
+    {
+      "nama_wilayah": "Jatimurni",
+      "kode_wilayah": "32.75.12.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.12"
+    }
+  ]
+}

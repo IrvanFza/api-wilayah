@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Durian Payung",
+      "kode_wilayah": "18.71.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.06"
+    },
+    {
+      "nama_wilayah": "Gotong Royong",
+      "kode_wilayah": "18.71.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.06"
+    },
+    {
+      "nama_wilayah": "Palapa",
+      "kode_wilayah": "18.71.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.06"
+    },
+    {
+      "nama_wilayah": "Kaliawi",
+      "kode_wilayah": "18.71.06.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.06"
+    },
+    {
+      "nama_wilayah": "Kelapa Tiga",
+      "kode_wilayah": "18.71.06.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.06"
+    },
+    {
+      "nama_wilayah": "Pasir Gintung",
+      "kode_wilayah": "18.71.06.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.06"
+    },
+    {
+      "nama_wilayah": "Kaliawi Persada",
+      "kode_wilayah": "18.71.06.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.06"
+    }
+  ]
+}

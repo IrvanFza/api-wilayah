@@ -1,0 +1,90 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Lebong Utara",
+      "kode_wilayah": "17.07.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.07",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Lebong Atas",
+      "kode_wilayah": "17.07.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.07",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Lebong Tengah",
+      "kode_wilayah": "17.07.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.07",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Lebong Selatan",
+      "kode_wilayah": "17.07.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.07",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Rimbo Pengadang",
+      "kode_wilayah": "17.07.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.07",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Topos",
+      "kode_wilayah": "17.07.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.07",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Bingin Kuning",
+      "kode_wilayah": "17.07.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.07",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Lebong Sakti",
+      "kode_wilayah": "17.07.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.07",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Tubei",
+      "kode_wilayah": "17.07.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.07",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Amen",
+      "kode_wilayah": "17.07.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.07",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Uram Jaya",
+      "kode_wilayah": "17.07.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.07",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Pinang Belapis",
+      "kode_wilayah": "17.07.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.07",
+      "kode_provinsi": "17"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Bunglai",
+      "kode_wilayah": "16.01.32.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.32"
+    },
+    {
+      "nama_wilayah": "Kedaton",
+      "kode_wilayah": "16.01.32.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.32"
+    },
+    {
+      "nama_wilayah": "Kampai",
+      "kode_wilayah": "16.01.32.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.32"
+    },
+    {
+      "nama_wilayah": "Rantau Panjang",
+      "kode_wilayah": "16.01.32.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.32"
+    },
+    {
+      "nama_wilayah": "Kedaton Timur",
+      "kode_wilayah": "16.01.32.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.32"
+    },
+    {
+      "nama_wilayah": "Suka Pindah",
+      "kode_wilayah": "16.01.32.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.32"
+    },
+    {
+      "nama_wilayah": "Sinar Kedaton",
+      "kode_wilayah": "16.01.32.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.32"
+    },
+    {
+      "nama_wilayah": "Lubuk Kemiling",
+      "kode_wilayah": "16.01.32.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.32"
+    }
+  ]
+}

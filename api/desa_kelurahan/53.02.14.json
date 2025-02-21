@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Benlutu",
+      "kode_wilayah": "53.02.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.14"
+    },
+    {
+      "nama_wilayah": "Boentuka",
+      "kode_wilayah": "53.02.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.14"
+    },
+    {
+      "nama_wilayah": "Hane",
+      "kode_wilayah": "53.02.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.14"
+    },
+    {
+      "nama_wilayah": "Oebobo",
+      "kode_wilayah": "53.02.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.14"
+    },
+    {
+      "nama_wilayah": "Tupan",
+      "kode_wilayah": "53.02.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.14"
+    },
+    {
+      "nama_wilayah": "Tuakole",
+      "kode_wilayah": "53.02.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.14"
+    },
+    {
+      "nama_wilayah": "Oehela",
+      "kode_wilayah": "53.02.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.14"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tambaksari",
+      "kode_wilayah": "35.78.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.10"
+    },
+    {
+      "nama_wilayah": "Ploso",
+      "kode_wilayah": "35.78.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.10"
+    },
+    {
+      "nama_wilayah": "Gading",
+      "kode_wilayah": "35.78.10.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.10"
+    },
+    {
+      "nama_wilayah": "Pacarkembang",
+      "kode_wilayah": "35.78.10.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.10"
+    },
+    {
+      "nama_wilayah": "Rangkah",
+      "kode_wilayah": "35.78.10.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.10"
+    },
+    {
+      "nama_wilayah": "Pacarkeling",
+      "kode_wilayah": "35.78.10.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.10"
+    },
+    {
+      "nama_wilayah": "Kapasmadya Baru",
+      "kode_wilayah": "35.78.10.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.10"
+    },
+    {
+      "nama_wilayah": "Dukuh Setro",
+      "kode_wilayah": "35.78.10.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.10"
+    }
+  ]
+}

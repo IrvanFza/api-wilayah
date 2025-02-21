@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sadar",
+      "kode_wilayah": "93.02.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.10"
+    },
+    {
+      "nama_wilayah": "Bangun",
+      "kode_wilayah": "93.02.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.10"
+    },
+    {
+      "nama_wilayah": "Makmur",
+      "kode_wilayah": "93.02.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.10"
+    },
+    {
+      "nama_wilayah": "Sohokanggo",
+      "kode_wilayah": "93.02.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.10"
+    },
+    {
+      "nama_wilayah": "Domo",
+      "kode_wilayah": "93.02.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.10"
+    },
+    {
+      "nama_wilayah": "Hamkhu",
+      "kode_wilayah": "93.02.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.10"
+    },
+    {
+      "nama_wilayah": "Hello",
+      "kode_wilayah": "93.02.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.10"
+    },
+    {
+      "nama_wilayah": "Navini",
+      "kode_wilayah": "93.02.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.10"
+    }
+  ]
+}

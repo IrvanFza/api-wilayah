@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung",
+      "kode_wilayah": "52.08.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.08",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Gangga",
+      "kode_wilayah": "52.08.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.08",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Kayangan",
+      "kode_wilayah": "52.08.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.08",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Bayan",
+      "kode_wilayah": "52.08.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.08",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Pemenang",
+      "kode_wilayah": "52.08.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.08",
+      "kode_provinsi": "52"
+    }
+  ]
+}

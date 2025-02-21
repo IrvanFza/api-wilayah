@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Sambau",
+      "kode_wilayah": "21.71.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.04"
+    },
+    {
+      "nama_wilayah": "Batu Besar",
+      "kode_wilayah": "21.71.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.04"
+    },
+    {
+      "nama_wilayah": "Kabil",
+      "kode_wilayah": "21.71.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.04"
+    },
+    {
+      "nama_wilayah": "Ngenang",
+      "kode_wilayah": "21.71.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.04"
+    }
+  ]
+}

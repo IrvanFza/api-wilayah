@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Panggarangan",
+      "kode_wilayah": "36.02.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.02"
+    },
+    {
+      "nama_wilayah": "Jatake",
+      "kode_wilayah": "36.02.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.02"
+    },
+    {
+      "nama_wilayah": "Sogong",
+      "kode_wilayah": "36.02.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.02"
+    },
+    {
+      "nama_wilayah": "Cimandiri",
+      "kode_wilayah": "36.02.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.02"
+    },
+    {
+      "nama_wilayah": "Gununggede",
+      "kode_wilayah": "36.02.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.02"
+    },
+    {
+      "nama_wilayah": "Situregen",
+      "kode_wilayah": "36.02.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.02"
+    },
+    {
+      "nama_wilayah": "Mekarjaya",
+      "kode_wilayah": "36.02.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.02"
+    },
+    {
+      "nama_wilayah": "Sindangratu",
+      "kode_wilayah": "36.02.02.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.02"
+    },
+    {
+      "nama_wilayah": "Hegarmanah",
+      "kode_wilayah": "36.02.02.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.02"
+    },
+    {
+      "nama_wilayah": "Sukajadi",
+      "kode_wilayah": "36.02.02.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.02"
+    },
+    {
+      "nama_wilayah": "Cibarengkok",
+      "kode_wilayah": "36.02.02.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.02"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sidamulih",
+      "kode_wilayah": "32.18.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.18",
+      "kode_kecamatan": "32.18.10"
+    },
+    {
+      "nama_wilayah": "Cikalong",
+      "kode_wilayah": "32.18.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.18",
+      "kode_kecamatan": "32.18.10"
+    },
+    {
+      "nama_wilayah": "Sukaresik",
+      "kode_wilayah": "32.18.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.18",
+      "kode_kecamatan": "32.18.10"
+    },
+    {
+      "nama_wilayah": "Cikembulan",
+      "kode_wilayah": "32.18.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.18",
+      "kode_kecamatan": "32.18.10"
+    },
+    {
+      "nama_wilayah": "Pajaten",
+      "kode_wilayah": "32.18.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.18",
+      "kode_kecamatan": "32.18.10"
+    },
+    {
+      "nama_wilayah": "Kersaratu",
+      "kode_wilayah": "32.18.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.18",
+      "kode_kecamatan": "32.18.10"
+    },
+    {
+      "nama_wilayah": "Kalijati",
+      "kode_wilayah": "32.18.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.18",
+      "kode_kecamatan": "32.18.10"
+    }
+  ]
+}

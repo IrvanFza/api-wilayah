@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Suus",
+      "kode_wilayah": "96.01.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.21"
+    },
+    {
+      "nama_wilayah": "Masos",
+      "kode_wilayah": "96.01.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.21"
+    },
+    {
+      "nama_wilayah": "Warbo",
+      "kode_wilayah": "96.01.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.21"
+    },
+    {
+      "nama_wilayah": "Ketawas",
+      "kode_wilayah": "96.01.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.21"
+    },
+    {
+      "nama_wilayah": "Bouwoi",
+      "kode_wilayah": "96.01.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.21"
+    },
+    {
+      "nama_wilayah": "Sulya",
+      "kode_wilayah": "96.01.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.21"
+    },
+    {
+      "nama_wilayah": "Dasri",
+      "kode_wilayah": "96.01.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.21"
+    }
+  ]
+}

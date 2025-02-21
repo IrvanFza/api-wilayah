@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Puuwatu",
+      "kode_wilayah": "74.71.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.09"
+    },
+    {
+      "nama_wilayah": "Watulondo",
+      "kode_wilayah": "74.71.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.09"
+    },
+    {
+      "nama_wilayah": "Punggolaka",
+      "kode_wilayah": "74.71.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.09"
+    },
+    {
+      "nama_wilayah": "Tobuuha",
+      "kode_wilayah": "74.71.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.09"
+    },
+    {
+      "nama_wilayah": "Abeli Dalam",
+      "kode_wilayah": "74.71.09.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.09"
+    },
+    {
+      "nama_wilayah": "Lalodati",
+      "kode_wilayah": "74.71.09.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.09"
+    }
+  ]
+}

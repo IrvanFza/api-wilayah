@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Taipabu",
+      "kode_wilayah": "74.07.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.04"
+    },
+    {
+      "nama_wilayah": "Palahidu",
+      "kode_wilayah": "74.07.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.04"
+    },
+    {
+      "nama_wilayah": "Wali",
+      "kode_wilayah": "74.07.04.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.04"
+    },
+    {
+      "nama_wilayah": "Rukuwa",
+      "kode_wilayah": "74.07.04.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.04"
+    },
+    {
+      "nama_wilayah": "Makoro",
+      "kode_wilayah": "74.07.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.04"
+    },
+    {
+      "nama_wilayah": "Kampo Kampo",
+      "kode_wilayah": "74.07.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.04"
+    },
+    {
+      "nama_wilayah": "Lagongga",
+      "kode_wilayah": "74.07.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.04"
+    },
+    {
+      "nama_wilayah": "Palahidu Barat",
+      "kode_wilayah": "74.07.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.04"
+    },
+    {
+      "nama_wilayah": "Jaya Makmur",
+      "kode_wilayah": "74.07.04.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.04"
+    }
+  ]
+}

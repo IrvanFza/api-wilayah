@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Mandalasari",
+      "kode_wilayah": "32.04.27.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.27"
+    },
+    {
+      "nama_wilayah": "Cikancung",
+      "kode_wilayah": "32.04.27.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.27"
+    },
+    {
+      "nama_wilayah": "Cikasungka",
+      "kode_wilayah": "32.04.27.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.27"
+    },
+    {
+      "nama_wilayah": "Cihanyir",
+      "kode_wilayah": "32.04.27.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.27"
+    },
+    {
+      "nama_wilayah": "Ciluluk",
+      "kode_wilayah": "32.04.27.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.27"
+    },
+    {
+      "nama_wilayah": "Hegarmanah",
+      "kode_wilayah": "32.04.27.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.27"
+    },
+    {
+      "nama_wilayah": "Mekarlaksana",
+      "kode_wilayah": "32.04.27.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.27"
+    },
+    {
+      "nama_wilayah": "Tanjunglaya",
+      "kode_wilayah": "32.04.27.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.27"
+    },
+    {
+      "nama_wilayah": "Srirahayu",
+      "kode_wilayah": "32.04.27.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.27"
+    }
+  ]
+}

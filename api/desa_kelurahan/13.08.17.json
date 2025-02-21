@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Padang Gelugur",
+      "kode_wilayah": "13.08.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.17"
+    },
+    {
+      "nama_wilayah": "Sontang Cubadak",
+      "kode_wilayah": "13.08.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.17"
+    },
+    {
+      "nama_wilayah": "Sitombol Padang Gelugua",
+      "kode_wilayah": "13.08.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.17"
+    },
+    {
+      "nama_wilayah": "Bahagia Padang Gelugua",
+      "kode_wilayah": "13.08.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.17"
+    }
+  ]
+}

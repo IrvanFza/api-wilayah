@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Balong",
+      "kode_wilayah": "34.03.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.16"
+    },
+    {
+      "nama_wilayah": "Jepitu",
+      "kode_wilayah": "34.03.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.16"
+    },
+    {
+      "nama_wilayah": "Karangawen",
+      "kode_wilayah": "34.03.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.16"
+    },
+    {
+      "nama_wilayah": "Nglindur",
+      "kode_wilayah": "34.03.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.16"
+    },
+    {
+      "nama_wilayah": "Jerukwudel",
+      "kode_wilayah": "34.03.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.16"
+    },
+    {
+      "nama_wilayah": "Tileng",
+      "kode_wilayah": "34.03.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.16"
+    },
+    {
+      "nama_wilayah": "Pucung",
+      "kode_wilayah": "34.03.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.16"
+    },
+    {
+      "nama_wilayah": "Songbanyu",
+      "kode_wilayah": "34.03.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.16"
+    }
+  ]
+}

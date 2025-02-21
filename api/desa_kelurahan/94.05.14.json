@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Golu",
+      "kode_wilayah": "94.05.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.14"
+    },
+    {
+      "nama_wilayah": "Bina",
+      "kode_wilayah": "94.05.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.14"
+    },
+    {
+      "nama_wilayah": "Lumakluk",
+      "kode_wilayah": "94.05.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.14"
+    },
+    {
+      "nama_wilayah": "Wogot",
+      "kode_wilayah": "94.05.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.14"
+    },
+    {
+      "nama_wilayah": "Kabogoluk",
+      "kode_wilayah": "94.05.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.14"
+    },
+    {
+      "nama_wilayah": "Ogomegat",
+      "kode_wilayah": "94.05.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.14"
+    },
+    {
+      "nama_wilayah": "Mamaput",
+      "kode_wilayah": "94.05.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.14"
+    }
+  ]
+}

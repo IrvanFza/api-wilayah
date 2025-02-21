@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kesawan",
+      "kode_wilayah": "12.71.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.05"
+    },
+    {
+      "nama_wilayah": "Silalas",
+      "kode_wilayah": "12.71.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.05"
+    },
+    {
+      "nama_wilayah": "Glugur Kota",
+      "kode_wilayah": "12.71.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.05"
+    },
+    {
+      "nama_wilayah": "Pulo Berayan Kota",
+      "kode_wilayah": "12.71.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.05"
+    },
+    {
+      "nama_wilayah": "Sei Agul",
+      "kode_wilayah": "12.71.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.05"
+    },
+    {
+      "nama_wilayah": "Karang Berombak",
+      "kode_wilayah": "12.71.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.05"
+    }
+  ]
+}

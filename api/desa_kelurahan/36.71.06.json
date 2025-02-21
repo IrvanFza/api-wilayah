@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Paninggilan",
+      "kode_wilayah": "36.71.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.06"
+    },
+    {
+      "nama_wilayah": "Sudimara Barat",
+      "kode_wilayah": "36.71.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.06"
+    },
+    {
+      "nama_wilayah": "Sudimara Timur",
+      "kode_wilayah": "36.71.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.06"
+    },
+    {
+      "nama_wilayah": "Tajur",
+      "kode_wilayah": "36.71.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.06"
+    },
+    {
+      "nama_wilayah": "Parung Serab",
+      "kode_wilayah": "36.71.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.06"
+    },
+    {
+      "nama_wilayah": "Sudimara Jaya",
+      "kode_wilayah": "36.71.06.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.06"
+    },
+    {
+      "nama_wilayah": "Sudimara Selatan",
+      "kode_wilayah": "36.71.06.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.06"
+    },
+    {
+      "nama_wilayah": "Paninggilan Utara",
+      "kode_wilayah": "36.71.06.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.06"
+    }
+  ]
+}

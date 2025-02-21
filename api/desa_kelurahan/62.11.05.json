@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pulang Pisau",
+      "kode_wilayah": "62.11.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.11",
+      "kode_kecamatan": "62.11.05"
+    },
+    {
+      "nama_wilayah": "Kalawa",
+      "kode_wilayah": "62.11.05.1015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.11",
+      "kode_kecamatan": "62.11.05"
+    },
+    {
+      "nama_wilayah": "Bereng",
+      "kode_wilayah": "62.11.05.1016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.11",
+      "kode_kecamatan": "62.11.05"
+    },
+    {
+      "nama_wilayah": "Buntoi",
+      "kode_wilayah": "62.11.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.11",
+      "kode_kecamatan": "62.11.05"
+    },
+    {
+      "nama_wilayah": "Mintin",
+      "kode_wilayah": "62.11.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.11",
+      "kode_kecamatan": "62.11.05"
+    },
+    {
+      "nama_wilayah": "Mantaren I",
+      "kode_wilayah": "62.11.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.11",
+      "kode_kecamatan": "62.11.05"
+    },
+    {
+      "nama_wilayah": "Anjir Pulang Pisau",
+      "kode_wilayah": "62.11.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.11",
+      "kode_kecamatan": "62.11.05"
+    },
+    {
+      "nama_wilayah": "Gohong",
+      "kode_wilayah": "62.11.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.11",
+      "kode_kecamatan": "62.11.05"
+    },
+    {
+      "nama_wilayah": "Mantaren II",
+      "kode_wilayah": "62.11.05.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.11",
+      "kode_kecamatan": "62.11.05"
+    },
+    {
+      "nama_wilayah": "Hanjak Maju",
+      "kode_wilayah": "62.11.05.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.11",
+      "kode_kecamatan": "62.11.05"
+    }
+  ]
+}

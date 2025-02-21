@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Rantau Bujur",
+      "kode_wilayah": "63.03.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.18"
+    },
+    {
+      "nama_wilayah": "Lok Tanah",
+      "kode_wilayah": "63.03.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.18"
+    },
+    {
+      "nama_wilayah": "Telaga Baru",
+      "kode_wilayah": "63.03.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.18"
+    },
+    {
+      "nama_wilayah": "Rampah",
+      "kode_wilayah": "63.03.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.18"
+    }
+  ]
+}

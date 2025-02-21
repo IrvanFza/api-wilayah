@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Padengo",
+      "kode_wilayah": "75.03.02.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.02"
+    },
+    {
+      "nama_wilayah": "Olohuta",
+      "kode_wilayah": "75.03.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.02"
+    },
+    {
+      "nama_wilayah": "Tumbihe",
+      "kode_wilayah": "75.03.02.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.02"
+    },
+    {
+      "nama_wilayah": "Pauwo",
+      "kode_wilayah": "75.03.02.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.02"
+    },
+    {
+      "nama_wilayah": "Olohuta Utara",
+      "kode_wilayah": "75.03.02.1028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.02"
+    },
+    {
+      "nama_wilayah": "Dutohe",
+      "kode_wilayah": "75.03.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.02"
+    },
+    {
+      "nama_wilayah": "Tanggilingo",
+      "kode_wilayah": "75.03.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.02"
+    },
+    {
+      "nama_wilayah": "Toto Selatan",
+      "kode_wilayah": "75.03.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.02"
+    },
+    {
+      "nama_wilayah": "Poowo",
+      "kode_wilayah": "75.03.02.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.02"
+    },
+    {
+      "nama_wilayah": "Talango",
+      "kode_wilayah": "75.03.02.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.02"
+    },
+    {
+      "nama_wilayah": "Poowo Barat",
+      "kode_wilayah": "75.03.02.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.02"
+    },
+    {
+      "nama_wilayah": "Dutohe Barat",
+      "kode_wilayah": "75.03.02.2029",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.02"
+    }
+  ]
+}

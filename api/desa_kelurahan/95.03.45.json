@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Debula",
+      "kode_wilayah": "95.03.45.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.45"
+    },
+    {
+      "nama_wilayah": "Kwelamdua",
+      "kode_wilayah": "95.03.45.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.45"
+    },
+    {
+      "nama_wilayah": "Kubuk dua",
+      "kode_wilayah": "95.03.45.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.45"
+    },
+    {
+      "nama_wilayah": "Senayom",
+      "kode_wilayah": "95.03.45.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.45"
+    },
+    {
+      "nama_wilayah": "Sesepne",
+      "kode_wilayah": "95.03.45.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.45"
+    },
+    {
+      "nama_wilayah": "Baluk",
+      "kode_wilayah": "95.03.45.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.45"
+    },
+    {
+      "nama_wilayah": "Kemligin",
+      "kode_wilayah": "95.03.45.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.45"
+    },
+    {
+      "nama_wilayah": "Obis",
+      "kode_wilayah": "95.03.45.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.45"
+    },
+    {
+      "nama_wilayah": "Yalidomon",
+      "kode_wilayah": "95.03.45.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.45"
+    },
+    {
+      "nama_wilayah": "Kabulan",
+      "kode_wilayah": "95.03.45.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.45"
+    }
+  ]
+}

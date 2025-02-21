@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Yowied",
+      "kode_wilayah": "93.01.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.15"
+    },
+    {
+      "nama_wilayah": "Dokib",
+      "kode_wilayah": "93.01.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.15"
+    },
+    {
+      "nama_wilayah": "Wamal",
+      "kode_wilayah": "93.01.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.15"
+    },
+    {
+      "nama_wilayah": "Dodalim",
+      "kode_wilayah": "93.01.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.15"
+    },
+    {
+      "nama_wilayah": "Woboyo",
+      "kode_wilayah": "93.01.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.15"
+    },
+    {
+      "nama_wilayah": "Welbuti",
+      "kode_wilayah": "93.01.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.15"
+    }
+  ]
+}

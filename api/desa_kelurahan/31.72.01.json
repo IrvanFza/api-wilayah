@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Penjaringan",
+      "kode_wilayah": "31.72.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.01"
+    },
+    {
+      "nama_wilayah": "Kamal Muara",
+      "kode_wilayah": "31.72.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.01"
+    },
+    {
+      "nama_wilayah": "Kapuk Muara",
+      "kode_wilayah": "31.72.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.01"
+    },
+    {
+      "nama_wilayah": "Pejagalan",
+      "kode_wilayah": "31.72.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.01"
+    },
+    {
+      "nama_wilayah": "Pluit",
+      "kode_wilayah": "31.72.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.01"
+    }
+  ]
+}

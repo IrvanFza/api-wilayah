@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sukadana",
+      "kode_wilayah": "61.11.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.11",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Simpang Hilir",
+      "kode_wilayah": "61.11.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.11",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Teluk Batang",
+      "kode_wilayah": "61.11.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.11",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Pulau Maya",
+      "kode_wilayah": "61.11.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.11",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Seponti",
+      "kode_wilayah": "61.11.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.11",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Kepulauan Karimata",
+      "kode_wilayah": "61.11.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.11",
+      "kode_provinsi": "61"
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "status": "success",
+  "total": 45,
+  "data": [
+    {
+      "nama_wilayah": "Keude Ulee Gle",
+      "kode_wilayah": "11.18.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Ulee Gle",
+      "kode_wilayah": "11.18.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Blang Dalam",
+      "kode_wilayah": "11.18.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Pulo",
+      "kode_wilayah": "11.18.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Baro",
+      "kode_wilayah": "11.18.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Meuko Kuthang",
+      "kode_wilayah": "11.18.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Uteun Bayu",
+      "kode_wilayah": "11.18.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Alue Ketapang",
+      "kode_wilayah": "11.18.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Jaulanga Barat",
+      "kode_wilayah": "11.18.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Kumba",
+      "kode_wilayah": "11.18.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Babah Krueng",
+      "kode_wilayah": "11.18.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Pohroh",
+      "kode_wilayah": "11.18.04.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Seunong",
+      "kode_wilayah": "11.18.04.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Alue Mee",
+      "kode_wilayah": "11.18.04.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Blang Kuta",
+      "kode_wilayah": "11.18.04.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Drien Tujoh",
+      "kode_wilayah": "11.18.04.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Alue Sane",
+      "kode_wilayah": "11.18.04.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Gahru",
+      "kode_wilayah": "11.18.04.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Lhok Pusong",
+      "kode_wilayah": "11.18.04.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Paya Pisang Klat",
+      "kode_wilayah": "11.18.04.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Cot Geurefai",
+      "kode_wilayah": "11.18.04.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Muko Dayah",
+      "kode_wilayah": "11.18.04.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Meuko Buloh",
+      "kode_wilayah": "11.18.04.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Peulakan Tunong",
+      "kode_wilayah": "11.18.04.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Adan",
+      "kode_wilayah": "11.18.04.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Meugit Kayee Panyang",
+      "kode_wilayah": "11.18.04.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Meugit Sagoe",
+      "kode_wilayah": "11.18.04.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Meurandeh Alue",
+      "kode_wilayah": "11.18.04.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Reudeup Melayu",
+      "kode_wilayah": "11.18.04.2029",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Meunasah Paku",
+      "kode_wilayah": "11.18.04.2030",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Jeulanga Mata Ie",
+      "kode_wilayah": "11.18.04.2031",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Jeulanga Mesjid",
+      "kode_wilayah": "11.18.04.2032",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Pulo Gapu",
+      "kode_wilayah": "11.18.04.2033",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Blang Miroe",
+      "kode_wilayah": "11.18.04.2034",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Beurasan",
+      "kode_wilayah": "11.18.04.2035",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Cot Keng",
+      "kode_wilayah": "11.18.04.2036",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Krueng Kiran",
+      "kode_wilayah": "11.18.04.2037",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Asan Kumbang",
+      "kode_wilayah": "11.18.04.2038",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Drien Bungong",
+      "kode_wilayah": "11.18.04.2039",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Peulakan Cibrek",
+      "kode_wilayah": "11.18.04.2040",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Paya Tunong",
+      "kode_wilayah": "11.18.04.2041",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Peulakan Tambo",
+      "kode_wilayah": "11.18.04.2042",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Paya Baroh",
+      "kode_wilayah": "11.18.04.2043",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Meuko Baroh",
+      "kode_wilayah": "11.18.04.2044",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    },
+    {
+      "nama_wilayah": "Kuta Krueng",
+      "kode_wilayah": "11.18.04.2045",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.18",
+      "kode_kecamatan": "11.18.04"
+    }
+  ]
+}

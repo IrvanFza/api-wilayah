@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Sitimulyo",
+      "kode_wilayah": "34.02.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.14"
+    },
+    {
+      "nama_wilayah": "Srimulyo",
+      "kode_wilayah": "34.02.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.14"
+    },
+    {
+      "nama_wilayah": "Srimartani",
+      "kode_wilayah": "34.02.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.14"
+    }
+  ]
+}

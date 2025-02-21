@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Mabul",
+      "kode_wilayah": "93.04.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.23"
+    },
+    {
+      "nama_wilayah": "Banum",
+      "kode_wilayah": "93.04.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.23"
+    },
+    {
+      "nama_wilayah": "Ayak",
+      "kode_wilayah": "93.04.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.23"
+    },
+    {
+      "nama_wilayah": "Amakot",
+      "kode_wilayah": "93.04.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.23"
+    },
+    {
+      "nama_wilayah": "Nagatun",
+      "kode_wilayah": "93.04.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.23"
+    },
+    {
+      "nama_wilayah": "Ujung Batu",
+      "kode_wilayah": "93.04.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.23"
+    },
+    {
+      "nama_wilayah": "Kapayap Tiga",
+      "kode_wilayah": "93.04.23.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.23"
+    },
+    {
+      "nama_wilayah": "Sipanap",
+      "kode_wilayah": "93.04.23.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.23"
+    }
+  ]
+}

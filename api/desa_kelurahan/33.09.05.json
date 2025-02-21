@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Pulisen",
+      "kode_wilayah": "33.09.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.05"
+    },
+    {
+      "nama_wilayah": "Siswodipuran",
+      "kode_wilayah": "33.09.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.05"
+    },
+    {
+      "nama_wilayah": "Banaran",
+      "kode_wilayah": "33.09.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.05"
+    },
+    {
+      "nama_wilayah": "Karanggeneng",
+      "kode_wilayah": "33.09.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.05"
+    },
+    {
+      "nama_wilayah": "Winong",
+      "kode_wilayah": "33.09.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.05"
+    },
+    {
+      "nama_wilayah": "Penggung",
+      "kode_wilayah": "33.09.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.05"
+    },
+    {
+      "nama_wilayah": "Kiringan",
+      "kode_wilayah": "33.09.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.05"
+    },
+    {
+      "nama_wilayah": "Mudal",
+      "kode_wilayah": "33.09.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.05"
+    },
+    {
+      "nama_wilayah": "Kebonbimo",
+      "kode_wilayah": "33.09.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.05"
+    }
+  ]
+}

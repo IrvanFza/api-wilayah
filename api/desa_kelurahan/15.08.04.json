@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Belit",
+      "kode_wilayah": "15.08.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.04"
+    },
+    {
+      "nama_wilayah": "Rantau Ikil",
+      "kode_wilayah": "15.08.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.04"
+    },
+    {
+      "nama_wilayah": "Pulau Jelmu",
+      "kode_wilayah": "15.08.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.04"
+    },
+    {
+      "nama_wilayah": "Sirih Sekapur",
+      "kode_wilayah": "15.08.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.04"
+    },
+    {
+      "nama_wilayah": "Ujung Tanjung",
+      "kode_wilayah": "15.08.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.04"
+    },
+    {
+      "nama_wilayah": "Jumbak",
+      "kode_wilayah": "15.08.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.04"
+    },
+    {
+      "nama_wilayah": "Rantau Panjang",
+      "kode_wilayah": "15.08.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.04"
+    },
+    {
+      "nama_wilayah": "Talang Pamesun",
+      "kode_wilayah": "15.08.04.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.04"
+    },
+    {
+      "nama_wilayah": "Baru Balai Panjang",
+      "kode_wilayah": "15.08.04.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.04"
+    },
+    {
+      "nama_wilayah": "Sirih Sekapur Perkembangan",
+      "kode_wilayah": "15.08.04.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.04"
+    }
+  ]
+}

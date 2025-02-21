@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Purpura",
+      "kode_wilayah": "81.08.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.17"
+    },
+    {
+      "nama_wilayah": "Nomaha",
+      "kode_wilayah": "81.08.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.17"
+    },
+    {
+      "nama_wilayah": "Labelau",
+      "kode_wilayah": "81.08.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.17"
+    }
+  ]
+}

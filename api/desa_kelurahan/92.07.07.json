@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Wosimi",
+      "kode_wilayah": "92.07.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.07"
+    },
+    {
+      "nama_wilayah": "Sararti",
+      "kode_wilayah": "92.07.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.07"
+    },
+    {
+      "nama_wilayah": "Yabore",
+      "kode_wilayah": "92.07.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.07"
+    },
+    {
+      "nama_wilayah": "Oyaa",
+      "kode_wilayah": "92.07.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.07"
+    },
+    {
+      "nama_wilayah": "Inyora",
+      "kode_wilayah": "92.07.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.07"
+    },
+    {
+      "nama_wilayah": "Undurara",
+      "kode_wilayah": "92.07.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.07"
+    }
+  ]
+}

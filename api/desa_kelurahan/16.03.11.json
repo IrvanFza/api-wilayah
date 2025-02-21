@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Pinang Belarik",
+      "kode_wilayah": "16.03.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.11"
+    },
+    {
+      "nama_wilayah": "Ujan Mas Lama",
+      "kode_wilayah": "16.03.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.11"
+    },
+    {
+      "nama_wilayah": "Ujan Mas Baru",
+      "kode_wilayah": "16.03.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.11"
+    },
+    {
+      "nama_wilayah": "Tanjung Raman",
+      "kode_wilayah": "16.03.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.11"
+    },
+    {
+      "nama_wilayah": "Muara Gula Baru",
+      "kode_wilayah": "16.03.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.11"
+    },
+    {
+      "nama_wilayah": "Muara Gula Lama",
+      "kode_wilayah": "16.03.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.11"
+    },
+    {
+      "nama_wilayah": "Guci",
+      "kode_wilayah": "16.03.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.11"
+    },
+    {
+      "nama_wilayah": "Ulak Bandung",
+      "kode_wilayah": "16.03.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.11"
+    }
+  ]
+}

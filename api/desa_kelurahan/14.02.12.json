@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Rimpian",
+      "kode_wilayah": "14.02.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.12"
+    },
+    {
+      "nama_wilayah": "Pondok Gelugur",
+      "kode_wilayah": "14.02.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.12"
+    },
+    {
+      "nama_wilayah": "Lubuk Batu Tinggal",
+      "kode_wilayah": "14.02.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.12"
+    },
+    {
+      "nama_wilayah": "Sungai Beras Hilir",
+      "kode_wilayah": "14.02.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.12"
+    },
+    {
+      "nama_wilayah": "Kulim Jaya",
+      "kode_wilayah": "14.02.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.12"
+    },
+    {
+      "nama_wilayah": "Sungai Beras Beras",
+      "kode_wilayah": "14.02.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.12"
+    },
+    {
+      "nama_wilayah": "Tasik Juang",
+      "kode_wilayah": "14.02.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.12"
+    },
+    {
+      "nama_wilayah": "Pontian Mekar",
+      "kode_wilayah": "14.02.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.12"
+    },
+    {
+      "nama_wilayah": "Air Putih",
+      "kode_wilayah": "14.02.12.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.12"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Teluk Lobam",
+      "kode_wilayah": "21.01.15.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.15"
+    },
+    {
+      "nama_wilayah": "Tanjung Permai",
+      "kode_wilayah": "21.01.15.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.15"
+    },
+    {
+      "nama_wilayah": "Busung",
+      "kode_wilayah": "21.01.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.15"
+    },
+    {
+      "nama_wilayah": "Teluk Sasah",
+      "kode_wilayah": "21.01.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.15"
+    },
+    {
+      "nama_wilayah": "Kuala Sempang",
+      "kode_wilayah": "21.01.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.15"
+    }
+  ]
+}

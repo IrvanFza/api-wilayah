@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Moengko Lama",
+      "kode_wilayah": "72.02.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.01"
+    },
+    {
+      "nama_wilayah": "Moengko Baru",
+      "kode_wilayah": "72.02.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.01"
+    },
+    {
+      "nama_wilayah": "Kayamanya",
+      "kode_wilayah": "72.02.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.01"
+    },
+    {
+      "nama_wilayah": "Gebangrejo",
+      "kode_wilayah": "72.02.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.01"
+    },
+    {
+      "nama_wilayah": "Gebangrejo Timur",
+      "kode_wilayah": "72.02.01.1016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.01"
+    },
+    {
+      "nama_wilayah": "Gebangrejo Barat",
+      "kode_wilayah": "72.02.01.1017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.01"
+    },
+    {
+      "nama_wilayah": "Kayamanya Sentral",
+      "kode_wilayah": "72.02.01.1018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.01"
+    }
+  ]
+}

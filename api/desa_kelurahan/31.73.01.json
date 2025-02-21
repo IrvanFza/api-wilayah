@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Cengkareng Barat",
+      "kode_wilayah": "31.73.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.01"
+    },
+    {
+      "nama_wilayah": "Duri Kosambi",
+      "kode_wilayah": "31.73.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.01"
+    },
+    {
+      "nama_wilayah": "Rawa Buaya",
+      "kode_wilayah": "31.73.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.01"
+    },
+    {
+      "nama_wilayah": "Kedaung Kali Angke",
+      "kode_wilayah": "31.73.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.01"
+    },
+    {
+      "nama_wilayah": "Kapuk",
+      "kode_wilayah": "31.73.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.01"
+    },
+    {
+      "nama_wilayah": "Cengkareng Timur",
+      "kode_wilayah": "31.73.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.01"
+    }
+  ]
+}

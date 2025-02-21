@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Wuluk",
+      "kode_wilayah": "95.04.42.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.42"
+    },
+    {
+      "nama_wilayah": "Wenggun",
+      "kode_wilayah": "95.04.42.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.42"
+    },
+    {
+      "nama_wilayah": "Posman",
+      "kode_wilayah": "95.04.42.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.42"
+    },
+    {
+      "nama_wilayah": "Tiyonggi",
+      "kode_wilayah": "95.04.42.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.42"
+    },
+    {
+      "nama_wilayah": "Yelly",
+      "kode_wilayah": "95.04.42.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.42"
+    },
+    {
+      "nama_wilayah": "Agin",
+      "kode_wilayah": "95.04.42.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.42"
+    },
+    {
+      "nama_wilayah": "Kogagi",
+      "kode_wilayah": "95.04.42.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.42"
+    },
+    {
+      "nama_wilayah": "Yebena",
+      "kode_wilayah": "95.04.42.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.42"
+    },
+    {
+      "nama_wilayah": "Wamigi",
+      "kode_wilayah": "95.04.42.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.42"
+    },
+    {
+      "nama_wilayah": "Kolanggun",
+      "kode_wilayah": "95.04.42.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.42"
+    }
+  ]
+}

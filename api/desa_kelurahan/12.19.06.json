@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Tiram",
+      "kode_wilayah": "12.19.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.06"
+    },
+    {
+      "nama_wilayah": "Bagan Arya",
+      "kode_wilayah": "12.19.06.1022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.06"
+    },
+    {
+      "nama_wilayah": "Guntung",
+      "kode_wilayah": "12.19.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.06"
+    },
+    {
+      "nama_wilayah": "Bagan Dalam",
+      "kode_wilayah": "12.19.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.06"
+    },
+    {
+      "nama_wilayah": "Bogak",
+      "kode_wilayah": "12.19.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.06"
+    },
+    {
+      "nama_wilayah": "Suka Maju",
+      "kode_wilayah": "12.19.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.06"
+    },
+    {
+      "nama_wilayah": "Suka Jaya",
+      "kode_wilayah": "12.19.06.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.06"
+    },
+    {
+      "nama_wilayah": "Pahlawan",
+      "kode_wilayah": "12.19.06.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.06"
+    },
+    {
+      "nama_wilayah": "Bandar Rahmat",
+      "kode_wilayah": "12.19.06.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.06"
+    },
+    {
+      "nama_wilayah": "Kampung Lalang",
+      "kode_wilayah": "12.19.06.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.06"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Kapalo Koto",
+      "kode_wilayah": "13.05.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.03"
+    },
+    {
+      "nama_wilayah": "Pauh Kambar",
+      "kode_wilayah": "13.05.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.03"
+    },
+    {
+      "nama_wilayah": "Padang Bintungan",
+      "kode_wilayah": "13.05.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.03"
+    },
+    {
+      "nama_wilayah": "Kurai Taji",
+      "kode_wilayah": "13.05.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.03"
+    },
+    {
+      "nama_wilayah": "Sunua",
+      "kode_wilayah": "13.05.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.03"
+    },
+    {
+      "nama_wilayah": "Padang Kandang Pulau Air Padang Bintungan",
+      "kode_wilayah": "13.05.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.03"
+    },
+    {
+      "nama_wilayah": "Sunua Tengah",
+      "kode_wilayah": "13.05.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.03"
+    },
+    {
+      "nama_wilayah": "Sunua Barat",
+      "kode_wilayah": "13.05.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.03"
+    },
+    {
+      "nama_wilayah": "Kurai Taji Timur",
+      "kode_wilayah": "13.05.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.03"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Jagasatru",
+      "kode_wilayah": "32.74.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.74",
+      "kode_kecamatan": "32.74.04"
+    },
+    {
+      "nama_wilayah": "Pekalipan",
+      "kode_wilayah": "32.74.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.74",
+      "kode_kecamatan": "32.74.04"
+    },
+    {
+      "nama_wilayah": "Pulasaren",
+      "kode_wilayah": "32.74.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.74",
+      "kode_kecamatan": "32.74.04"
+    },
+    {
+      "nama_wilayah": "Pekalangan",
+      "kode_wilayah": "32.74.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.74",
+      "kode_kecamatan": "32.74.04"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Batu Mirau",
+      "kode_wilayah": "62.12.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.08"
+    },
+    {
+      "nama_wilayah": "Tambelum",
+      "kode_wilayah": "62.12.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.08"
+    },
+    {
+      "nama_wilayah": "Tumbang Bantian",
+      "kode_wilayah": "62.12.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.08"
+    },
+    {
+      "nama_wilayah": "Tumbang Saan",
+      "kode_wilayah": "62.12.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.08"
+    },
+    {
+      "nama_wilayah": "Tumbang Kolon",
+      "kode_wilayah": "62.12.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.08"
+    },
+    {
+      "nama_wilayah": "Tumbang Apat",
+      "kode_wilayah": "62.12.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.08"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tutulo",
+      "kode_wilayah": "75.02.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.06"
+    },
+    {
+      "nama_wilayah": "Hutamonu",
+      "kode_wilayah": "75.02.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.06"
+    },
+    {
+      "nama_wilayah": "Patoameme",
+      "kode_wilayah": "75.02.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.06"
+    },
+    {
+      "nama_wilayah": "Tapadaa",
+      "kode_wilayah": "75.02.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.06"
+    },
+    {
+      "nama_wilayah": "Potanga",
+      "kode_wilayah": "75.02.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.06"
+    },
+    {
+      "nama_wilayah": "Botumoito",
+      "kode_wilayah": "75.02.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.06"
+    },
+    {
+      "nama_wilayah": "Bolihutuo",
+      "kode_wilayah": "75.02.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.06"
+    },
+    {
+      "nama_wilayah": "Rumbia",
+      "kode_wilayah": "75.02.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.06"
+    },
+    {
+      "nama_wilayah": "Dulangeya",
+      "kode_wilayah": "75.02.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.06"
+    }
+  ]
+}

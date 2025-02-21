@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Talete  Satu",
+      "kode_wilayah": "71.73.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.73",
+      "kode_kecamatan": "71.73.02"
+    },
+    {
+      "nama_wilayah": "Talete Dua",
+      "kode_wilayah": "71.73.02.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.73",
+      "kode_kecamatan": "71.73.02"
+    },
+    {
+      "nama_wilayah": "Kamasi",
+      "kode_wilayah": "71.73.02.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.73",
+      "kode_kecamatan": "71.73.02"
+    },
+    {
+      "nama_wilayah": "Kolongan",
+      "kode_wilayah": "71.73.02.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.73",
+      "kode_kecamatan": "71.73.02"
+    },
+    {
+      "nama_wilayah": "Matani Satu",
+      "kode_wilayah": "71.73.02.1015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.73",
+      "kode_kecamatan": "71.73.02"
+    },
+    {
+      "nama_wilayah": "Matani Dua",
+      "kode_wilayah": "71.73.02.1016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.73",
+      "kode_kecamatan": "71.73.02"
+    },
+    {
+      "nama_wilayah": "Matani Tiga",
+      "kode_wilayah": "71.73.02.1017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.73",
+      "kode_kecamatan": "71.73.02"
+    },
+    {
+      "nama_wilayah": "Kamasi Satu",
+      "kode_wilayah": "71.73.02.1018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.73",
+      "kode_kecamatan": "71.73.02"
+    },
+    {
+      "nama_wilayah": "Kolongan Satu",
+      "kode_wilayah": "71.73.02.1019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.73",
+      "kode_kecamatan": "71.73.02"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Waluran",
+      "kode_wilayah": "32.02.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.20"
+    },
+    {
+      "nama_wilayah": "Sukamukti",
+      "kode_wilayah": "32.02.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.20"
+    },
+    {
+      "nama_wilayah": "Caringinnunggal",
+      "kode_wilayah": "32.02.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.20"
+    },
+    {
+      "nama_wilayah": "Mekarmukti",
+      "kode_wilayah": "32.02.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.20"
+    },
+    {
+      "nama_wilayah": "Mangunjaya",
+      "kode_wilayah": "32.02.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.20"
+    },
+    {
+      "nama_wilayah": "Waluran Mandiri",
+      "kode_wilayah": "32.02.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.20"
+    }
+  ]
+}

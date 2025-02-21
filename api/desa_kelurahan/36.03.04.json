@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sukamanah",
+      "kode_wilayah": "36.03.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.04"
+    },
+    {
+      "nama_wilayah": "Jambe",
+      "kode_wilayah": "36.03.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.04"
+    },
+    {
+      "nama_wilayah": "Tipar Raya",
+      "kode_wilayah": "36.03.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.04"
+    },
+    {
+      "nama_wilayah": "Taban",
+      "kode_wilayah": "36.03.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.04"
+    },
+    {
+      "nama_wilayah": "Daru",
+      "kode_wilayah": "36.03.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.04"
+    },
+    {
+      "nama_wilayah": "Kutruk",
+      "kode_wilayah": "36.03.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.04"
+    },
+    {
+      "nama_wilayah": "Ranca Buaya",
+      "kode_wilayah": "36.03.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.04"
+    },
+    {
+      "nama_wilayah": "Mekarsari",
+      "kode_wilayah": "36.03.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.04"
+    },
+    {
+      "nama_wilayah": "Ancol Pasir",
+      "kode_wilayah": "36.03.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.04"
+    },
+    {
+      "nama_wilayah": "Pasir Barat",
+      "kode_wilayah": "36.03.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.04"
+    }
+  ]
+}

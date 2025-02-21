@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Po-Epe",
+      "kode_wilayah": "93.01.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.16"
+    },
+    {
+      "nama_wilayah": "Yawimu",
+      "kode_wilayah": "93.01.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.16"
+    },
+    {
+      "nama_wilayah": "Taga Epe",
+      "kode_wilayah": "93.01.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.16"
+    },
+    {
+      "nama_wilayah": "Nakias",
+      "kode_wilayah": "93.01.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.16"
+    },
+    {
+      "nama_wilayah": "Salam Epe",
+      "kode_wilayah": "93.01.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.16"
+    },
+    {
+      "nama_wilayah": "Yomop",
+      "kode_wilayah": "93.01.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.16"
+    }
+  ]
+}

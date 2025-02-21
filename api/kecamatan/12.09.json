@@ -1,0 +1,181 @@
+{
+  "status": "success",
+  "total": 25,
+  "data": [
+    {
+      "nama_wilayah": "Meranti",
+      "kode_wilayah": "12.09.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Air Joman",
+      "kode_wilayah": "12.09.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Tanjung Balai",
+      "kode_wilayah": "12.09.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Sei Kepayang",
+      "kode_wilayah": "12.09.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Simpang Empat",
+      "kode_wilayah": "12.09.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Air Batu",
+      "kode_wilayah": "12.09.13",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Pulau Rakyat",
+      "kode_wilayah": "12.09.14",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Bandar Pulau",
+      "kode_wilayah": "12.09.15",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Buntu Pane",
+      "kode_wilayah": "12.09.16",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Bandar Pasir Mandoge",
+      "kode_wilayah": "12.09.17",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Aek Kuasan",
+      "kode_wilayah": "12.09.18",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Kota Kisaran Barat",
+      "kode_wilayah": "12.09.19",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Kota Kisaran Timur",
+      "kode_wilayah": "12.09.20",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Aek Songsongan",
+      "kode_wilayah": "12.09.21",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Rahuning",
+      "kode_wilayah": "12.09.22",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Sei Dadap",
+      "kode_wilayah": "12.09.23",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Sei Kepayang Barat",
+      "kode_wilayah": "12.09.24",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Sei Kepayang Timur",
+      "kode_wilayah": "12.09.25",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Tinggi Raja",
+      "kode_wilayah": "12.09.26",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Setia Janji",
+      "kode_wilayah": "12.09.27",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Silau Laut",
+      "kode_wilayah": "12.09.28",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Rawang Panca Arga",
+      "kode_wilayah": "12.09.29",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Pulo Bandring",
+      "kode_wilayah": "12.09.30",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Teluk Dalam",
+      "kode_wilayah": "12.09.31",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Aek Ledong",
+      "kode_wilayah": "12.09.32",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.09",
+      "kode_provinsi": "12"
+    }
+  ]
+}

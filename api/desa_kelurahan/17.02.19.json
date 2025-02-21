@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kepala Siring",
+      "kode_wilayah": "17.02.19.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.19"
+    },
+    {
+      "nama_wilayah": "Talang Rimbo Baru",
+      "kode_wilayah": "17.02.19.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.19"
+    },
+    {
+      "nama_wilayah": "Talang Rimbo Lama",
+      "kode_wilayah": "17.02.19.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.19"
+    },
+    {
+      "nama_wilayah": "Siderejo",
+      "kode_wilayah": "17.02.19.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.19"
+    },
+    {
+      "nama_wilayah": "Kampung Jawa",
+      "kode_wilayah": "17.02.19.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.19"
+    },
+    {
+      "nama_wilayah": "Air Bang",
+      "kode_wilayah": "17.02.19.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.19"
+    },
+    {
+      "nama_wilayah": "Pelabuhan Baru",
+      "kode_wilayah": "17.02.19.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.19"
+    },
+    {
+      "nama_wilayah": "Batu Galing",
+      "kode_wilayah": "17.02.19.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.19"
+    },
+    {
+      "nama_wilayah": "Banyu Mas",
+      "kode_wilayah": "17.02.19.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.19"
+    },
+    {
+      "nama_wilayah": "Air Merah",
+      "kode_wilayah": "17.02.19.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.19"
+    }
+  ]
+}

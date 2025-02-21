@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Pagar",
+      "kode_wilayah": "14.01.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.08"
+    },
+    {
+      "nama_wilayah": "Mentulik",
+      "kode_wilayah": "14.01.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.08"
+    },
+    {
+      "nama_wilayah": "Sungai Simpang Dua",
+      "kode_wilayah": "14.01.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.08"
+    },
+    {
+      "nama_wilayah": "Sungai Bungo",
+      "kode_wilayah": "14.01.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.08"
+    },
+    {
+      "nama_wilayah": "Rantau Kasih",
+      "kode_wilayah": "14.01.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.08"
+    },
+    {
+      "nama_wilayah": "Sungai Petai",
+      "kode_wilayah": "14.01.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.08"
+    },
+    {
+      "nama_wilayah": "Gading Permai",
+      "kode_wilayah": "14.01.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.08"
+    },
+    {
+      "nama_wilayah": "Bangun Sari",
+      "kode_wilayah": "14.01.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.08"
+    }
+  ]
+}

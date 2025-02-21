@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Sarjo",
+      "kode_wilayah": "76.01.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.11"
+    },
+    {
+      "nama_wilayah": "Maponu",
+      "kode_wilayah": "76.01.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.11"
+    },
+    {
+      "nama_wilayah": "Letawa",
+      "kode_wilayah": "76.01.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.11"
+    },
+    {
+      "nama_wilayah": "Sarude",
+      "kode_wilayah": "76.01.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.11"
+    }
+  ]
+}

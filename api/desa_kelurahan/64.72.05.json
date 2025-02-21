@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sempaja Selatan",
+      "kode_wilayah": "64.72.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.05"
+    },
+    {
+      "nama_wilayah": "Lempake",
+      "kode_wilayah": "64.72.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.05"
+    },
+    {
+      "nama_wilayah": "Sungai Siring",
+      "kode_wilayah": "64.72.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.05"
+    },
+    {
+      "nama_wilayah": "Sempaja Utara",
+      "kode_wilayah": "64.72.05.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.05"
+    },
+    {
+      "nama_wilayah": "Tanah Merah",
+      "kode_wilayah": "64.72.05.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.05"
+    },
+    {
+      "nama_wilayah": "Sempaja Barat",
+      "kode_wilayah": "64.72.05.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.05"
+    },
+    {
+      "nama_wilayah": "Sempaja Timur",
+      "kode_wilayah": "64.72.05.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.05"
+    },
+    {
+      "nama_wilayah": "Budaya Pampang",
+      "kode_wilayah": "64.72.05.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.05"
+    }
+  ]
+}

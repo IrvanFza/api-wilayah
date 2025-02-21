@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Ameth",
+      "kode_wilayah": "81.01.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.16"
+    },
+    {
+      "nama_wilayah": "Titawaai",
+      "kode_wilayah": "81.01.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.16"
+    },
+    {
+      "nama_wilayah": "Abubu",
+      "kode_wilayah": "81.01.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.16"
+    },
+    {
+      "nama_wilayah": "Akoon",
+      "kode_wilayah": "81.01.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.16"
+    },
+    {
+      "nama_wilayah": "Nalahia",
+      "kode_wilayah": "81.01.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.16"
+    },
+    {
+      "nama_wilayah": "Sila",
+      "kode_wilayah": "81.01.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.16"
+    },
+    {
+      "nama_wilayah": "Leinitu",
+      "kode_wilayah": "81.01.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.16"
+    }
+  ]
+}

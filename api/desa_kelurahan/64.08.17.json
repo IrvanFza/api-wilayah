@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Batu Timbau",
+      "kode_wilayah": "64.08.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.17"
+    },
+    {
+      "nama_wilayah": "Beno Harapan",
+      "kode_wilayah": "64.08.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.17"
+    },
+    {
+      "nama_wilayah": "Mugi Rahayu",
+      "kode_wilayah": "64.08.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.17"
+    },
+    {
+      "nama_wilayah": "Mawai Indah",
+      "kode_wilayah": "64.08.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.17"
+    },
+    {
+      "nama_wilayah": "Himba Lestari",
+      "kode_wilayah": "64.08.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.17"
+    },
+    {
+      "nama_wilayah": "Telaga",
+      "kode_wilayah": "64.08.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.17"
+    },
+    {
+      "nama_wilayah": "Batu Timbau Ulu",
+      "kode_wilayah": "64.08.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.17"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sugapa",
+      "kode_wilayah": "94.07.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.07",
+      "kode_provinsi": "94"
+    },
+    {
+      "nama_wilayah": "Homeyo",
+      "kode_wilayah": "94.07.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.07",
+      "kode_provinsi": "94"
+    },
+    {
+      "nama_wilayah": "Wandai",
+      "kode_wilayah": "94.07.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.07",
+      "kode_provinsi": "94"
+    },
+    {
+      "nama_wilayah": "Biandoga",
+      "kode_wilayah": "94.07.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.07",
+      "kode_provinsi": "94"
+    },
+    {
+      "nama_wilayah": "Agisiga",
+      "kode_wilayah": "94.07.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.07",
+      "kode_provinsi": "94"
+    },
+    {
+      "nama_wilayah": "Hitadipa",
+      "kode_wilayah": "94.07.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.07",
+      "kode_provinsi": "94"
+    },
+    {
+      "nama_wilayah": "Ugimba",
+      "kode_wilayah": "94.07.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.07",
+      "kode_provinsi": "94"
+    },
+    {
+      "nama_wilayah": "Tomosiga",
+      "kode_wilayah": "94.07.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.07",
+      "kode_provinsi": "94"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Takkalala",
+      "kode_wilayah": "73.73.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.03"
+    },
+    {
+      "nama_wilayah": "Songka",
+      "kode_wilayah": "73.73.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.03"
+    },
+    {
+      "nama_wilayah": "Sampoddo",
+      "kode_wilayah": "73.73.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.03"
+    },
+    {
+      "nama_wilayah": "Binturu",
+      "kode_wilayah": "73.73.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.03"
+    }
+  ]
+}

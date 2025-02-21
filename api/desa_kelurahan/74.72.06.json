@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Wajo",
+      "kode_wilayah": "74.72.06.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.06"
+    },
+    {
+      "nama_wilayah": "Lamangga",
+      "kode_wilayah": "74.72.06.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.06"
+    },
+    {
+      "nama_wilayah": "Melai",
+      "kode_wilayah": "74.72.06.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.06"
+    },
+    {
+      "nama_wilayah": "Baadia",
+      "kode_wilayah": "74.72.06.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.06"
+    },
+    {
+      "nama_wilayah": "Tanganapada",
+      "kode_wilayah": "74.72.06.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.06"
+    }
+  ]
+}

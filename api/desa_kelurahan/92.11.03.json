@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Wama",
+      "kode_wilayah": "92.11.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.11",
+      "kode_kecamatan": "92.11.03"
+    },
+    {
+      "nama_wilayah": "Disi",
+      "kode_wilayah": "92.11.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.11",
+      "kode_kecamatan": "92.11.03"
+    },
+    {
+      "nama_wilayah": "Hiyou",
+      "kode_wilayah": "92.11.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.11",
+      "kode_kecamatan": "92.11.03"
+    },
+    {
+      "nama_wilayah": "Sesum",
+      "kode_wilayah": "92.11.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.11",
+      "kode_kecamatan": "92.11.03"
+    },
+    {
+      "nama_wilayah": "Benyas",
+      "kode_wilayah": "92.11.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.11",
+      "kode_kecamatan": "92.11.03"
+    },
+    {
+      "nama_wilayah": "Aryawenmoho",
+      "kode_wilayah": "92.11.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.11",
+      "kode_kecamatan": "92.11.03"
+    },
+    {
+      "nama_wilayah": "Neney",
+      "kode_wilayah": "92.11.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.11",
+      "kode_kecamatan": "92.11.03"
+    }
+  ]
+}

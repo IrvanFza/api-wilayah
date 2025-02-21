@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Dayu",
+      "kode_wilayah": "62.13.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.10"
+    },
+    {
+      "nama_wilayah": "Wuran",
+      "kode_wilayah": "62.13.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.10"
+    },
+    {
+      "nama_wilayah": "Ipu Mea",
+      "kode_wilayah": "62.13.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.10"
+    },
+    {
+      "nama_wilayah": "Lagan",
+      "kode_wilayah": "62.13.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.10"
+    },
+    {
+      "nama_wilayah": "Putut Tawuluh",
+      "kode_wilayah": "62.13.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.10"
+    },
+    {
+      "nama_wilayah": "Simpang Naneng",
+      "kode_wilayah": "62.13.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.10"
+    },
+    {
+      "nama_wilayah": "Kandris",
+      "kode_wilayah": "62.13.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.10"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Suka Pindah",
+      "kode_wilayah": "17.06.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.01"
+    },
+    {
+      "nama_wilayah": "Lubuk Pinang",
+      "kode_wilayah": "17.06.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.01"
+    },
+    {
+      "nama_wilayah": "Arah Tiga",
+      "kode_wilayah": "17.06.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.01"
+    },
+    {
+      "nama_wilayah": "Lubuk Gedang",
+      "kode_wilayah": "17.06.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.01"
+    },
+    {
+      "nama_wilayah": "Tanjung Alai",
+      "kode_wilayah": "17.06.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.01"
+    },
+    {
+      "nama_wilayah": "Sumber Makmur",
+      "kode_wilayah": "17.06.01.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.01"
+    },
+    {
+      "nama_wilayah": "Ranah Karya",
+      "kode_wilayah": "17.06.01.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.01"
+    }
+  ]
+}

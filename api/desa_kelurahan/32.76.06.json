@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Beji",
+      "kode_wilayah": "32.76.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.06"
+    },
+    {
+      "nama_wilayah": "Kukusan",
+      "kode_wilayah": "32.76.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.06"
+    },
+    {
+      "nama_wilayah": "Tanah Baru",
+      "kode_wilayah": "32.76.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.06"
+    },
+    {
+      "nama_wilayah": "Kemiri Muka",
+      "kode_wilayah": "32.76.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.06"
+    },
+    {
+      "nama_wilayah": "Pondok Cina",
+      "kode_wilayah": "32.76.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.06"
+    },
+    {
+      "nama_wilayah": "Beji Timur",
+      "kode_wilayah": "32.76.06.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.06"
+    }
+  ]
+}

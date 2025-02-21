@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Lowu-Lowu",
+      "kode_wilayah": "74.72.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.07"
+    },
+    {
+      "nama_wilayah": "Kalia-Lia",
+      "kode_wilayah": "74.72.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.07"
+    },
+    {
+      "nama_wilayah": "Palabusa",
+      "kode_wilayah": "74.72.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.07"
+    },
+    {
+      "nama_wilayah": "Kolese",
+      "kode_wilayah": "74.72.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.07"
+    },
+    {
+      "nama_wilayah": "Kantalai",
+      "kode_wilayah": "74.72.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.07"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Jatirejo",
+      "kode_wilayah": "35.21.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.19"
+    },
+    {
+      "nama_wilayah": "Cangakan",
+      "kode_wilayah": "35.21.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.19"
+    },
+    {
+      "nama_wilayah": "Karangmalang",
+      "kode_wilayah": "35.21.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.19"
+    },
+    {
+      "nama_wilayah": "Gunungsari",
+      "kode_wilayah": "35.21.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.19"
+    },
+    {
+      "nama_wilayah": "Kasreman",
+      "kode_wilayah": "35.21.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.19"
+    },
+    {
+      "nama_wilayah": "Legokulon",
+      "kode_wilayah": "35.21.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.19"
+    },
+    {
+      "nama_wilayah": "Tawun",
+      "kode_wilayah": "35.21.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.19"
+    },
+    {
+      "nama_wilayah": "Kiyonten",
+      "kode_wilayah": "35.21.19.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.19"
+    }
+  ]
+}

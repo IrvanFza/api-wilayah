@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sukadana",
+      "kode_wilayah": "32.07.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.14"
+    },
+    {
+      "nama_wilayah": "Salakaria",
+      "kode_wilayah": "32.07.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.14"
+    },
+    {
+      "nama_wilayah": "Margaharja",
+      "kode_wilayah": "32.07.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.14"
+    },
+    {
+      "nama_wilayah": "Margajaya",
+      "kode_wilayah": "32.07.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.14"
+    },
+    {
+      "nama_wilayah": "Bunter",
+      "kode_wilayah": "32.07.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.14"
+    },
+    {
+      "nama_wilayah": "Ciparigi",
+      "kode_wilayah": "32.07.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.14"
+    }
+  ]
+}

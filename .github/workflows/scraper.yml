@@ -26,6 +26,7 @@ jobs:
           node scraper/regionalDataScraper.js
           node scraper/populationDataScraper.js
           node scraper/mergeData.js
+          node scraper/splitData.js
 
       - name: Commit and Push Changes
         run: |

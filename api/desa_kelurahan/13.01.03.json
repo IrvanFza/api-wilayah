@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Kambang",
+      "kode_wilayah": "13.01.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.03"
+    },
+    {
+      "nama_wilayah": "Lakitan",
+      "kode_wilayah": "13.01.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.03"
+    },
+    {
+      "nama_wilayah": "Kambang Utara",
+      "kode_wilayah": "13.01.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.03"
+    },
+    {
+      "nama_wilayah": "Kambang Timur",
+      "kode_wilayah": "13.01.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.03"
+    },
+    {
+      "nama_wilayah": "Kambang Barat",
+      "kode_wilayah": "13.01.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.03"
+    },
+    {
+      "nama_wilayah": "Lakitan Utara",
+      "kode_wilayah": "13.01.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.03"
+    },
+    {
+      "nama_wilayah": "Lakitan Selatan",
+      "kode_wilayah": "13.01.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.03"
+    },
+    {
+      "nama_wilayah": "Lakitan Timur",
+      "kode_wilayah": "13.01.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.03"
+    },
+    {
+      "nama_wilayah": "Lakitan Tengah",
+      "kode_wilayah": "13.01.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.03"
+    }
+  ]
+}

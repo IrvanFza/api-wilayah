@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Simanindo",
+      "kode_wilayah": "12.17.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.17",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Onan Runggu",
+      "kode_wilayah": "12.17.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.17",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Nainggolan",
+      "kode_wilayah": "12.17.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.17",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Palipi",
+      "kode_wilayah": "12.17.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.17",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Harian",
+      "kode_wilayah": "12.17.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.17",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Sianjar Mula Mula",
+      "kode_wilayah": "12.17.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.17",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Ronggur Nihuta",
+      "kode_wilayah": "12.17.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.17",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Pangururan",
+      "kode_wilayah": "12.17.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.17",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Sitio-tio",
+      "kode_wilayah": "12.17.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.17",
+      "kode_provinsi": "12"
+    }
+  ]
+}

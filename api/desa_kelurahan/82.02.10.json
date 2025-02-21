@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sakam",
+      "kode_wilayah": "82.02.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.10"
+    },
+    {
+      "nama_wilayah": "Nursifa",
+      "kode_wilayah": "82.02.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.10"
+    },
+    {
+      "nama_wilayah": "Damuli",
+      "kode_wilayah": "82.02.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.10"
+    },
+    {
+      "nama_wilayah": "Peniti",
+      "kode_wilayah": "82.02.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.10"
+    },
+    {
+      "nama_wilayah": "Masure",
+      "kode_wilayah": "82.02.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.10"
+    },
+    {
+      "nama_wilayah": "Palo",
+      "kode_wilayah": "82.02.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.10"
+    }
+  ]
+}

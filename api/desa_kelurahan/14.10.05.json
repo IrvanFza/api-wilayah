@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Teluk Belitung",
+      "kode_wilayah": "14.10.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.05"
+    },
+    {
+      "nama_wilayah": "Meranti Bunting",
+      "kode_wilayah": "14.10.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.05"
+    },
+    {
+      "nama_wilayah": "Lukit",
+      "kode_wilayah": "14.10.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.05"
+    },
+    {
+      "nama_wilayah": "Bagan Melibur",
+      "kode_wilayah": "14.10.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.05"
+    },
+    {
+      "nama_wilayah": "Pelantai",
+      "kode_wilayah": "14.10.05.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.05"
+    },
+    {
+      "nama_wilayah": "Tanjung Kulim",
+      "kode_wilayah": "14.10.05.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.05"
+    },
+    {
+      "nama_wilayah": "Mekar Sari",
+      "kode_wilayah": "14.10.05.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.05"
+    },
+    {
+      "nama_wilayah": "Mayang Sari",
+      "kode_wilayah": "14.10.05.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.05"
+    },
+    {
+      "nama_wilayah": "Sungai Anak Kamal",
+      "kode_wilayah": "14.10.05.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.05"
+    },
+    {
+      "nama_wilayah": "Sungai Tengah",
+      "kode_wilayah": "14.10.05.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.05"
+    }
+  ]
+}

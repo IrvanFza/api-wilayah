@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Mandalasari",
+      "kode_wilayah": "32.06.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.15"
+    },
+    {
+      "nama_wilayah": "Sukasari",
+      "kode_wilayah": "32.06.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.15"
+    },
+    {
+      "nama_wilayah": "Puspasari",
+      "kode_wilayah": "32.06.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.15"
+    },
+    {
+      "nama_wilayah": "Puspahiang",
+      "kode_wilayah": "32.06.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.15"
+    },
+    {
+      "nama_wilayah": "Luyubakti",
+      "kode_wilayah": "32.06.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.15"
+    },
+    {
+      "nama_wilayah": "Pusparahayu",
+      "kode_wilayah": "32.06.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.15"
+    },
+    {
+      "nama_wilayah": "Cimanggu",
+      "kode_wilayah": "32.06.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.15"
+    },
+    {
+      "nama_wilayah": "Puspajaya",
+      "kode_wilayah": "32.06.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.15"
+    }
+  ]
+}

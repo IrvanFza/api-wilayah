@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Pendowoharjo",
+      "kode_wilayah": "34.02.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.15"
+    },
+    {
+      "nama_wilayah": "Timbulharjo",
+      "kode_wilayah": "34.02.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.15"
+    },
+    {
+      "nama_wilayah": "Bangunharjo",
+      "kode_wilayah": "34.02.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.15"
+    },
+    {
+      "nama_wilayah": "Panggungharjo",
+      "kode_wilayah": "34.02.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.15"
+    }
+  ]
+}

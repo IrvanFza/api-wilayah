@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lembar",
+      "kode_wilayah": "52.01.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.13"
+    },
+    {
+      "nama_wilayah": "Jembatan Kembar",
+      "kode_wilayah": "52.01.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.13"
+    },
+    {
+      "nama_wilayah": "Mareje",
+      "kode_wilayah": "52.01.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.13"
+    },
+    {
+      "nama_wilayah": "Sekotong Timur",
+      "kode_wilayah": "52.01.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.13"
+    },
+    {
+      "nama_wilayah": "Labuan Tereng",
+      "kode_wilayah": "52.01.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.13"
+    },
+    {
+      "nama_wilayah": "Jembatan Gantung",
+      "kode_wilayah": "52.01.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.13"
+    },
+    {
+      "nama_wilayah": "Lembar Selatan",
+      "kode_wilayah": "52.01.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.13"
+    },
+    {
+      "nama_wilayah": "Mareje Timur",
+      "kode_wilayah": "52.01.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.13"
+    },
+    {
+      "nama_wilayah": "Jembatan Kembar Timur",
+      "kode_wilayah": "52.01.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.13"
+    },
+    {
+      "nama_wilayah": "Eyat Mayang",
+      "kode_wilayah": "52.01.13.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.13"
+    }
+  ]
+}

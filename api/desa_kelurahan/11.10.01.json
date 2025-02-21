@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Pulau Balai",
+      "kode_wilayah": "11.10.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.01"
+    },
+    {
+      "nama_wilayah": "Pulau Baguk",
+      "kode_wilayah": "11.10.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.01"
+    },
+    {
+      "nama_wilayah": "Teluk Nibung",
+      "kode_wilayah": "11.10.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.01"
+    }
+  ]
+}

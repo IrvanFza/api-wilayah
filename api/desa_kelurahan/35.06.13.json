@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Kalipang",
+      "kode_wilayah": "35.06.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.06",
+      "kode_kecamatan": "35.06.13"
+    },
+    {
+      "nama_wilayah": "Grogol",
+      "kode_wilayah": "35.06.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.06",
+      "kode_kecamatan": "35.06.13"
+    },
+    {
+      "nama_wilayah": "Cerme",
+      "kode_wilayah": "35.06.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.06",
+      "kode_kecamatan": "35.06.13"
+    },
+    {
+      "nama_wilayah": "Wonoasri",
+      "kode_wilayah": "35.06.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.06",
+      "kode_kecamatan": "35.06.13"
+    },
+    {
+      "nama_wilayah": "Sonorejo",
+      "kode_wilayah": "35.06.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.06",
+      "kode_kecamatan": "35.06.13"
+    },
+    {
+      "nama_wilayah": "Datengan",
+      "kode_wilayah": "35.06.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.06",
+      "kode_kecamatan": "35.06.13"
+    },
+    {
+      "nama_wilayah": "Sumberejo",
+      "kode_wilayah": "35.06.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.06",
+      "kode_kecamatan": "35.06.13"
+    },
+    {
+      "nama_wilayah": "Gambyok",
+      "kode_wilayah": "35.06.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.06",
+      "kode_kecamatan": "35.06.13"
+    },
+    {
+      "nama_wilayah": "Bakalan",
+      "kode_wilayah": "35.06.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.06",
+      "kode_kecamatan": "35.06.13"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kolana Utara",
+      "kode_wilayah": "53.05.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.05"
+    },
+    {
+      "nama_wilayah": "Tanglapui",
+      "kode_wilayah": "53.05.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.05"
+    },
+    {
+      "nama_wilayah": "Kolana Selatan",
+      "kode_wilayah": "53.05.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.05"
+    },
+    {
+      "nama_wilayah": "Padang Panjang",
+      "kode_wilayah": "53.05.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.05"
+    },
+    {
+      "nama_wilayah": "Maritaing",
+      "kode_wilayah": "53.05.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.05"
+    },
+    {
+      "nama_wilayah": "Elok",
+      "kode_wilayah": "53.05.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.05"
+    },
+    {
+      "nama_wilayah": "Tanglapui Timur",
+      "kode_wilayah": "53.05.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.05"
+    },
+    {
+      "nama_wilayah": "Mausamang",
+      "kode_wilayah": "53.05.05.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.05"
+    },
+    {
+      "nama_wilayah": "Belemana",
+      "kode_wilayah": "53.05.05.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.05"
+    },
+    {
+      "nama_wilayah": "Maukuru",
+      "kode_wilayah": "53.05.05.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.05"
+    }
+  ]
+}

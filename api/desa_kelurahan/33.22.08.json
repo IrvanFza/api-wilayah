@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Gondoriyo",
+      "kode_wilayah": "33.22.08.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.08"
+    },
+    {
+      "nama_wilayah": "Gemawang",
+      "kode_wilayah": "33.22.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.08"
+    },
+    {
+      "nama_wilayah": "Bedono",
+      "kode_wilayah": "33.22.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.08"
+    },
+    {
+      "nama_wilayah": "Kelurahan",
+      "kode_wilayah": "33.22.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.08"
+    },
+    {
+      "nama_wilayah": "Brongkol",
+      "kode_wilayah": "33.22.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.08"
+    },
+    {
+      "nama_wilayah": "Jambu",
+      "kode_wilayah": "33.22.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.08"
+    },
+    {
+      "nama_wilayah": "Kuwarasan",
+      "kode_wilayah": "33.22.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.08"
+    },
+    {
+      "nama_wilayah": "Kebondalem",
+      "kode_wilayah": "33.22.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.08"
+    },
+    {
+      "nama_wilayah": "Rejosari",
+      "kode_wilayah": "33.22.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.08"
+    },
+    {
+      "nama_wilayah": "Genting",
+      "kode_wilayah": "33.22.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.08"
+    }
+  ]
+}

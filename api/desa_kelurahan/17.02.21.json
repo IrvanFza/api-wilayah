@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Apur",
+      "kode_wilayah": "17.02.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.21"
+    },
+    {
+      "nama_wilayah": "Lawang Agung",
+      "kode_wilayah": "17.02.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.21"
+    },
+    {
+      "nama_wilayah": "Lubuk Alai",
+      "kode_wilayah": "17.02.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.21"
+    },
+    {
+      "nama_wilayah": "Karang Pinang",
+      "kode_wilayah": "17.02.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.21"
+    },
+    {
+      "nama_wilayah": "Tanjung Agung",
+      "kode_wilayah": "17.02.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.21"
+    },
+    {
+      "nama_wilayah": "Pengambang",
+      "kode_wilayah": "17.02.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.21"
+    },
+    {
+      "nama_wilayah": "Jabi",
+      "kode_wilayah": "17.02.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.21"
+    },
+    {
+      "nama_wilayah": "Tanjung Herang",
+      "kode_wilayah": "17.02.21.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.21"
+    },
+    {
+      "nama_wilayah": "Air Nau",
+      "kode_wilayah": "17.02.21.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.21"
+    }
+  ]
+}

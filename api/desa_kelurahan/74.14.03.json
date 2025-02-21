@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lakorua",
+      "kode_wilayah": "74.14.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.14",
+      "kode_kecamatan": "74.14.03"
+    },
+    {
+      "nama_wilayah": "Morikana",
+      "kode_wilayah": "74.14.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.14",
+      "kode_kecamatan": "74.14.03"
+    },
+    {
+      "nama_wilayah": "Lantongau",
+      "kode_wilayah": "74.14.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.14",
+      "kode_kecamatan": "74.14.03"
+    },
+    {
+      "nama_wilayah": "Lanto",
+      "kode_wilayah": "74.14.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.14",
+      "kode_kecamatan": "74.14.03"
+    },
+    {
+      "nama_wilayah": "Lalibo",
+      "kode_wilayah": "74.14.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.14",
+      "kode_kecamatan": "74.14.03"
+    },
+    {
+      "nama_wilayah": "Langkomu",
+      "kode_wilayah": "74.14.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.14",
+      "kode_kecamatan": "74.14.03"
+    },
+    {
+      "nama_wilayah": "Watorumbe",
+      "kode_wilayah": "74.14.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.14",
+      "kode_kecamatan": "74.14.03"
+    },
+    {
+      "nama_wilayah": "Watorumbe Bata",
+      "kode_wilayah": "74.14.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.14",
+      "kode_kecamatan": "74.14.03"
+    },
+    {
+      "nama_wilayah": "Gundu Gundu",
+      "kode_wilayah": "74.14.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.14",
+      "kode_kecamatan": "74.14.03"
+    },
+    {
+      "nama_wilayah": "Katukobari",
+      "kode_wilayah": "74.14.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.14",
+      "kode_kecamatan": "74.14.03"
+    }
+  ]
+}

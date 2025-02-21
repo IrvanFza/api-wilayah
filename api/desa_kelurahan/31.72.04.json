@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Cilincing",
+      "kode_wilayah": "31.72.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.04"
+    },
+    {
+      "nama_wilayah": "Sukapura",
+      "kode_wilayah": "31.72.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.04"
+    },
+    {
+      "nama_wilayah": "Marunda",
+      "kode_wilayah": "31.72.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.04"
+    },
+    {
+      "nama_wilayah": "Kalibaru",
+      "kode_wilayah": "31.72.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.04"
+    },
+    {
+      "nama_wilayah": "Semper Timur",
+      "kode_wilayah": "31.72.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.04"
+    },
+    {
+      "nama_wilayah": "Rorotan",
+      "kode_wilayah": "31.72.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.04"
+    },
+    {
+      "nama_wilayah": "Semper Barat",
+      "kode_wilayah": "31.72.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.04"
+    }
+  ]
+}

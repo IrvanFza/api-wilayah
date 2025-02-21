@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Bontang Utara",
+      "kode_wilayah": "64.74.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.74",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Bontang Selatan",
+      "kode_wilayah": "64.74.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.74",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Bontang Barat",
+      "kode_wilayah": "64.74.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.74",
+      "kode_provinsi": "64"
+    }
+  ]
+}

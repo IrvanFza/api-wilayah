@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Teluk Sono",
+      "kode_wilayah": "14.06.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.13"
+    },
+    {
+      "nama_wilayah": "Sontang",
+      "kode_wilayah": "14.06.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.13"
+    },
+    {
+      "nama_wilayah": "Bonai",
+      "kode_wilayah": "14.06.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.13"
+    },
+    {
+      "nama_wilayah": "Rawa Makmur",
+      "kode_wilayah": "14.06.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.13"
+    },
+    {
+      "nama_wilayah": "Pauh",
+      "kode_wilayah": "14.06.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.13"
+    },
+    {
+      "nama_wilayah": "Kasang Padang",
+      "kode_wilayah": "14.06.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.13"
+    },
+    {
+      "nama_wilayah": "Kasang Mungkal",
+      "kode_wilayah": "14.06.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.13"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Ulahahan",
+      "kode_wilayah": "81.01.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.23"
+    },
+    {
+      "nama_wilayah": "Laha Kaba",
+      "kode_wilayah": "81.01.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.23"
+    },
+    {
+      "nama_wilayah": "Lafa",
+      "kode_wilayah": "81.01.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.23"
+    },
+    {
+      "nama_wilayah": "Yamalatu",
+      "kode_wilayah": "81.01.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.23"
+    },
+    {
+      "nama_wilayah": "Hunisi",
+      "kode_wilayah": "81.01.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.23"
+    },
+    {
+      "nama_wilayah": "Laimu",
+      "kode_wilayah": "81.01.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.23"
+    },
+    {
+      "nama_wilayah": "Maneoratu",
+      "kode_wilayah": "81.01.23.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.23"
+    },
+    {
+      "nama_wilayah": "Tehua",
+      "kode_wilayah": "81.01.23.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.23"
+    },
+    {
+      "nama_wilayah": "Laha",
+      "kode_wilayah": "81.01.23.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.23"
+    },
+    {
+      "nama_wilayah": "Wolu",
+      "kode_wilayah": "81.01.23.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.23"
+    }
+  ]
+}

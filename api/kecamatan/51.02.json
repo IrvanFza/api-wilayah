@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Selemadeg",
+      "kode_wilayah": "51.02.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.02",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Selemadeg Timur",
+      "kode_wilayah": "51.02.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.02",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Selemadeg Barat",
+      "kode_wilayah": "51.02.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.02",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Kerambitan",
+      "kode_wilayah": "51.02.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.02",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Tabanan",
+      "kode_wilayah": "51.02.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.02",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Kediri",
+      "kode_wilayah": "51.02.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.02",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Marga",
+      "kode_wilayah": "51.02.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.02",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Penebel",
+      "kode_wilayah": "51.02.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.02",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Baturiti",
+      "kode_wilayah": "51.02.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.02",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Pupuan",
+      "kode_wilayah": "51.02.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.02",
+      "kode_provinsi": "51"
+    }
+  ]
+}

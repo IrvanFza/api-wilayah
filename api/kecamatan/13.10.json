@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Koto Baru",
+      "kode_wilayah": "13.10.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.10",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Pulau Punjung",
+      "kode_wilayah": "13.10.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.10",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Sungai Rumbai",
+      "kode_wilayah": "13.10.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.10",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Sitiung",
+      "kode_wilayah": "13.10.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.10",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Sembilan Koto",
+      "kode_wilayah": "13.10.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.10",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Timpeh",
+      "kode_wilayah": "13.10.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.10",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Koto Salak",
+      "kode_wilayah": "13.10.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.10",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Tiumang",
+      "kode_wilayah": "13.10.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.10",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Padang Laweh",
+      "kode_wilayah": "13.10.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.10",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Asam Jujuhan",
+      "kode_wilayah": "13.10.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.10",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Koto Besar",
+      "kode_wilayah": "13.10.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.10",
+      "kode_provinsi": "13"
+    }
+  ]
+}

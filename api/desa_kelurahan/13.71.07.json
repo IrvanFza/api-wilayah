@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Indarung",
+      "kode_wilayah": "13.71.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.71",
+      "kode_kecamatan": "13.71.07"
+    },
+    {
+      "nama_wilayah": "Padang Besi",
+      "kode_wilayah": "13.71.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.71",
+      "kode_kecamatan": "13.71.07"
+    },
+    {
+      "nama_wilayah": "Batu Gadang",
+      "kode_wilayah": "13.71.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.71",
+      "kode_kecamatan": "13.71.07"
+    },
+    {
+      "nama_wilayah": "Banda Buek",
+      "kode_wilayah": "13.71.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.71",
+      "kode_kecamatan": "13.71.07"
+    },
+    {
+      "nama_wilayah": "Koto Lalang",
+      "kode_wilayah": "13.71.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.71",
+      "kode_kecamatan": "13.71.07"
+    },
+    {
+      "nama_wilayah": "Baringin",
+      "kode_wilayah": "13.71.07.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.71",
+      "kode_kecamatan": "13.71.07"
+    },
+    {
+      "nama_wilayah": "Tarantang",
+      "kode_wilayah": "13.71.07.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.71",
+      "kode_kecamatan": "13.71.07"
+    }
+  ]
+}

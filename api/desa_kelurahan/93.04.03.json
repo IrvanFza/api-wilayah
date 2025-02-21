@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sawa",
+      "kode_wilayah": "93.04.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.03"
+    },
+    {
+      "nama_wilayah": "Erma",
+      "kode_wilayah": "93.04.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.03"
+    },
+    {
+      "nama_wilayah": "Bu",
+      "kode_wilayah": "93.04.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.03"
+    },
+    {
+      "nama_wilayah": "Er",
+      "kode_wilayah": "93.04.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.03"
+    },
+    {
+      "nama_wilayah": "Pupis",
+      "kode_wilayah": "93.04.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.03"
+    },
+    {
+      "nama_wilayah": "Sona",
+      "kode_wilayah": "93.04.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.03"
+    },
+    {
+      "nama_wilayah": "Agani",
+      "kode_wilayah": "93.04.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.03"
+    },
+    {
+      "nama_wilayah": "Mumugu",
+      "kode_wilayah": "93.04.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.03"
+    },
+    {
+      "nama_wilayah": "Sauti",
+      "kode_wilayah": "93.04.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.03"
+    },
+    {
+      "nama_wilayah": "Mumugi II",
+      "kode_wilayah": "93.04.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.03"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "status": "success",
+  "total": 32,
+  "data": [
+    {
+      "nama_wilayah": "Sayur Matinggi",
+      "kode_wilayah": "12.20.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Pangkal Dolok Lama",
+      "kode_wilayah": "12.20.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Pangkal Dolok Julu",
+      "kode_wilayah": "12.20.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Pintu Padang",
+      "kode_wilayah": "12.20.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Batang Onang Lama",
+      "kode_wilayah": "12.20.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Bonan Dolok",
+      "kode_wilayah": "12.20.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Simardona",
+      "kode_wilayah": "12.20.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Batang Onang Baru",
+      "kode_wilayah": "12.20.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Parau Sorat",
+      "kode_wilayah": "12.20.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Pasar Matanggor",
+      "kode_wilayah": "12.20.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Batu Pulut",
+      "kode_wilayah": "12.20.07.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Huta Lambung",
+      "kode_wilayah": "12.20.07.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Galanggang",
+      "kode_wilayah": "12.20.07.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Gunungtua Tumbu Jati",
+      "kode_wilayah": "12.20.07.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Gunungtua Batang Onang",
+      "kode_wilayah": "12.20.07.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Simanapang",
+      "kode_wilayah": "12.20.07.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Simaninggir",
+      "kode_wilayah": "12.20.07.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Batu Mamak",
+      "kode_wilayah": "12.20.07.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Padang Garugur",
+      "kode_wilayah": "12.20.07.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Padang Matinggi",
+      "kode_wilayah": "12.20.07.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Purba Tua",
+      "kode_wilayah": "12.20.07.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Janji Mauli",
+      "kode_wilayah": "12.20.07.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Sayur Matinggi Julu",
+      "kode_wilayah": "12.20.07.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Gunung Tua Julu",
+      "kode_wilayah": "12.20.07.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Pasir Ampolu Hopong",
+      "kode_wilayah": "12.20.07.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Pagaran Batu",
+      "kode_wilayah": "12.20.07.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Tamosu",
+      "kode_wilayah": "12.20.07.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Simangambat Dolok",
+      "kode_wilayah": "12.20.07.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Janji Manahan",
+      "kode_wilayah": "12.20.07.2029",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Padang Bujur Baru",
+      "kode_wilayah": "12.20.07.2030",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Batu Nanggar",
+      "kode_wilayah": "12.20.07.2031",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    },
+    {
+      "nama_wilayah": "Morang",
+      "kode_wilayah": "12.20.07.2032",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.07"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Mesoyi",
+      "kode_wilayah": "33.26.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.26",
+      "kode_kecamatan": "33.26.05"
+    },
+    {
+      "nama_wilayah": "Jolotigo",
+      "kode_wilayah": "33.26.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.26",
+      "kode_kecamatan": "33.26.05"
+    },
+    {
+      "nama_wilayah": "Sengare",
+      "kode_wilayah": "33.26.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.26",
+      "kode_kecamatan": "33.26.05"
+    },
+    {
+      "nama_wilayah": "Donowangun",
+      "kode_wilayah": "33.26.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.26",
+      "kode_kecamatan": "33.26.05"
+    },
+    {
+      "nama_wilayah": "Talun",
+      "kode_wilayah": "33.26.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.26",
+      "kode_kecamatan": "33.26.05"
+    },
+    {
+      "nama_wilayah": "Banjarsari",
+      "kode_wilayah": "33.26.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.26",
+      "kode_kecamatan": "33.26.05"
+    },
+    {
+      "nama_wilayah": "Kalirejo",
+      "kode_wilayah": "33.26.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.26",
+      "kode_kecamatan": "33.26.05"
+    },
+    {
+      "nama_wilayah": "Batursari",
+      "kode_wilayah": "33.26.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.26",
+      "kode_kecamatan": "33.26.05"
+    },
+    {
+      "nama_wilayah": "Karangasem",
+      "kode_wilayah": "33.26.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.26",
+      "kode_kecamatan": "33.26.05"
+    },
+    {
+      "nama_wilayah": "Krompeng",
+      "kode_wilayah": "33.26.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.26",
+      "kode_kecamatan": "33.26.05"
+    }
+  ]
+}

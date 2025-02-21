@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kenali Besar",
+      "kode_wilayah": "15.71.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.09"
+    },
+    {
+      "nama_wilayah": "Rawa Sari",
+      "kode_wilayah": "15.71.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.09"
+    },
+    {
+      "nama_wilayah": "Mayang Mangurai",
+      "kode_wilayah": "15.71.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.09"
+    },
+    {
+      "nama_wilayah": "Bagan Pete",
+      "kode_wilayah": "15.71.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.09"
+    },
+    {
+      "nama_wilayah": "Beliung",
+      "kode_wilayah": "15.71.09.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.09"
+    },
+    {
+      "nama_wilayah": "Simpang Rimbo",
+      "kode_wilayah": "15.71.09.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.09"
+    },
+    {
+      "nama_wilayah": "Pinang Merah",
+      "kode_wilayah": "15.71.09.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.09"
+    }
+  ]
+}

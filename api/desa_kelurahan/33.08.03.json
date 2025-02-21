@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Bligo",
+      "kode_wilayah": "33.08.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.08",
+      "kode_kecamatan": "33.08.03"
+    },
+    {
+      "nama_wilayah": "Pakunden",
+      "kode_wilayah": "33.08.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.08",
+      "kode_kecamatan": "33.08.03"
+    },
+    {
+      "nama_wilayah": "Somokaton",
+      "kode_wilayah": "33.08.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.08",
+      "kode_kecamatan": "33.08.03"
+    },
+    {
+      "nama_wilayah": "Ngluwar",
+      "kode_wilayah": "33.08.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.08",
+      "kode_kecamatan": "33.08.03"
+    },
+    {
+      "nama_wilayah": "Karangtalun",
+      "kode_wilayah": "33.08.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.08",
+      "kode_kecamatan": "33.08.03"
+    },
+    {
+      "nama_wilayah": "Jamuskauman",
+      "kode_wilayah": "33.08.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.08",
+      "kode_kecamatan": "33.08.03"
+    },
+    {
+      "nama_wilayah": "Plosogede",
+      "kode_wilayah": "33.08.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.08",
+      "kode_kecamatan": "33.08.03"
+    },
+    {
+      "nama_wilayah": "Blongkeng",
+      "kode_wilayah": "33.08.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.08",
+      "kode_kecamatan": "33.08.03"
+    }
+  ]
+}

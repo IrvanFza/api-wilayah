@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Wania",
+      "kode_wilayah": "94.04.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.03"
+    },
+    {
+      "nama_wilayah": "Kaugapa",
+      "kode_wilayah": "94.04.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.03"
+    },
+    {
+      "nama_wilayah": "Poumako",
+      "kode_wilayah": "94.04.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.03"
+    },
+    {
+      "nama_wilayah": "Tipuka",
+      "kode_wilayah": "94.04.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.03"
+    },
+    {
+      "nama_wilayah": "Muare",
+      "kode_wilayah": "94.04.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.03"
+    },
+    {
+      "nama_wilayah": "Hiripau",
+      "kode_wilayah": "94.04.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.03"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Selopuro",
+      "kode_wilayah": "33.12.04.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.04"
+    },
+    {
+      "nama_wilayah": "Sendangsari",
+      "kode_wilayah": "33.12.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.04"
+    },
+    {
+      "nama_wilayah": "Tegiri",
+      "kode_wilayah": "33.12.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.04"
+    },
+    {
+      "nama_wilayah": "Batuwarno",
+      "kode_wilayah": "33.12.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.04"
+    },
+    {
+      "nama_wilayah": "Sumberejo",
+      "kode_wilayah": "33.12.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.04"
+    },
+    {
+      "nama_wilayah": "Ronggojati",
+      "kode_wilayah": "33.12.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.04"
+    },
+    {
+      "nama_wilayah": "Sumberagung",
+      "kode_wilayah": "33.12.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.04"
+    },
+    {
+      "nama_wilayah": "Kudi",
+      "kode_wilayah": "33.12.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.04"
+    }
+  ]
+}

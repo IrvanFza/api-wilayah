@@ -1,0 +1,300 @@
+{
+  "status": "success",
+  "total": 42,
+  "data": [
+    {
+      "nama_wilayah": "Garut Kota",
+      "kode_wilayah": "32.05.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Karangpawitan",
+      "kode_wilayah": "32.05.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Wanaraja",
+      "kode_wilayah": "32.05.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Tarogong Kaler",
+      "kode_wilayah": "32.05.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Tarogong Kidul",
+      "kode_wilayah": "32.05.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Banyuresmi",
+      "kode_wilayah": "32.05.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Samarang",
+      "kode_wilayah": "32.05.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Pasirwangi",
+      "kode_wilayah": "32.05.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Leles",
+      "kode_wilayah": "32.05.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Kadungora",
+      "kode_wilayah": "32.05.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Leuwigoong",
+      "kode_wilayah": "32.05.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cibatu",
+      "kode_wilayah": "32.05.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Kersamanah",
+      "kode_wilayah": "32.05.13",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Malangbong",
+      "kode_wilayah": "32.05.14",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Sukawening",
+      "kode_wilayah": "32.05.15",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Karangtengah",
+      "kode_wilayah": "32.05.16",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Bayongbong",
+      "kode_wilayah": "32.05.17",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cigedug",
+      "kode_wilayah": "32.05.18",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cilawu",
+      "kode_wilayah": "32.05.19",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cisurupan",
+      "kode_wilayah": "32.05.20",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Sukaresmi",
+      "kode_wilayah": "32.05.21",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cikajang",
+      "kode_wilayah": "32.05.22",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Banjarwangi",
+      "kode_wilayah": "32.05.23",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Singajaya",
+      "kode_wilayah": "32.05.24",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cihurip",
+      "kode_wilayah": "32.05.25",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Peundeuy",
+      "kode_wilayah": "32.05.26",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Pameungpeuk",
+      "kode_wilayah": "32.05.27",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cisompet",
+      "kode_wilayah": "32.05.28",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cibalong",
+      "kode_wilayah": "32.05.29",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cikelet",
+      "kode_wilayah": "32.05.30",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Bungbulang",
+      "kode_wilayah": "32.05.31",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Mekarmukti",
+      "kode_wilayah": "32.05.32",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Pakenjeng",
+      "kode_wilayah": "32.05.33",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Pamulihan",
+      "kode_wilayah": "32.05.34",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cisewu",
+      "kode_wilayah": "32.05.35",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Caringin",
+      "kode_wilayah": "32.05.36",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Talegong",
+      "kode_wilayah": "32.05.37",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Bl. Limbangan",
+      "kode_wilayah": "32.05.38",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Selaawi",
+      "kode_wilayah": "32.05.39",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cibiuk",
+      "kode_wilayah": "32.05.40",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Pangatikan",
+      "kode_wilayah": "32.05.41",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Sucinaraja",
+      "kode_wilayah": "32.05.42",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.05",
+      "kode_provinsi": "32"
+    }
+  ]
+}

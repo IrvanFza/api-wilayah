@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Luhutuban",
+      "kode_wilayah": "81.06.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.09"
+    },
+    {
+      "nama_wilayah": "Masawoy",
+      "kode_wilayah": "81.06.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.09"
+    },
+    {
+      "nama_wilayah": "Tuniwara",
+      "kode_wilayah": "81.06.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.09"
+    },
+    {
+      "nama_wilayah": "Kelang Asaude",
+      "kode_wilayah": "81.06.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.09"
+    },
+    {
+      "nama_wilayah": "Tomalehu Barat",
+      "kode_wilayah": "81.06.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.09"
+    },
+    {
+      "nama_wilayah": "Tomalehu Timur",
+      "kode_wilayah": "81.06.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.09"
+    },
+    {
+      "nama_wilayah": "Buano Hatuputih",
+      "kode_wilayah": "81.06.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.09"
+    }
+  ]
+}

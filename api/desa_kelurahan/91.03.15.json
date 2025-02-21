@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tabbeyan",
+      "kode_wilayah": "91.03.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.15"
+    },
+    {
+      "nama_wilayah": "Kwarja",
+      "kode_wilayah": "91.03.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.15"
+    },
+    {
+      "nama_wilayah": "Ongan Jaya",
+      "kode_wilayah": "91.03.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.15"
+    },
+    {
+      "nama_wilayah": "Bumi Sahaja",
+      "kode_wilayah": "91.03.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.15"
+    },
+    {
+      "nama_wilayah": "Nawa Mulya",
+      "kode_wilayah": "91.03.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.15"
+    },
+    {
+      "nama_wilayah": "Nawa Mukti",
+      "kode_wilayah": "91.03.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.15"
+    },
+    {
+      "nama_wilayah": "Taqwa Bangun",
+      "kode_wilayah": "91.03.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.15"
+    },
+    {
+      "nama_wilayah": "Purnama Jati",
+      "kode_wilayah": "91.03.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.15"
+    },
+    {
+      "nama_wilayah": "Desa Adat Bundru",
+      "kode_wilayah": "91.03.15.3009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.15"
+    }
+  ]
+}

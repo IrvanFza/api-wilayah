@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Bori",
+      "kode_wilayah": "73.26.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.02"
+    },
+    {
+      "nama_wilayah": "Pangli",
+      "kode_wilayah": "73.26.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.02"
+    },
+    {
+      "nama_wilayah": "Palawa-",
+      "kode_wilayah": "73.26.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.02"
+    },
+    {
+      "nama_wilayah": "Deri-",
+      "kode_wilayah": "73.26.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.02"
+    },
+    {
+      "nama_wilayah": "Pangli Selatan",
+      "kode_wilayah": "73.26.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.02"
+    },
+    {
+      "nama_wilayah": "Buntu Lobo-",
+      "kode_wilayah": "73.26.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.02"
+    },
+    {
+      "nama_wilayah": "Parinding",
+      "kode_wilayah": "73.26.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.02"
+    },
+    {
+      "nama_wilayah": "Bori- Ranteletok",
+      "kode_wilayah": "73.26.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.02"
+    },
+    {
+      "nama_wilayah": "Bori- Lombongan",
+      "kode_wilayah": "73.26.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.02"
+    }
+  ]
+}

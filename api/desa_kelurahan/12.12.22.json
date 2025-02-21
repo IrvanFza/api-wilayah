@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Lintong Nihuta",
+      "kode_wilayah": "12.12.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.22"
+    },
+    {
+      "nama_wilayah": "Tarabunga",
+      "kode_wilayah": "12.12.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.22"
+    },
+    {
+      "nama_wilayah": "Meat",
+      "kode_wilayah": "12.12.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.22"
+    },
+    {
+      "nama_wilayah": "Gurgur Aek Raja",
+      "kode_wilayah": "12.12.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.22"
+    },
+    {
+      "nama_wilayah": "Tangga Batu Barat",
+      "kode_wilayah": "12.12.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.22"
+    },
+    {
+      "nama_wilayah": "Tangga Batu Timur",
+      "kode_wilayah": "12.12.22.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.22"
+    }
+  ]
+}

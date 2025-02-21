@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Meranti Pandak",
+      "kode_wilayah": "14.71.12.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.12"
+    },
+    {
+      "nama_wilayah": "Lembah Damai",
+      "kode_wilayah": "14.71.12.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.12"
+    },
+    {
+      "nama_wilayah": "Limbungan Baru",
+      "kode_wilayah": "14.71.12.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.12"
+    },
+    {
+      "nama_wilayah": "Sri Meranti",
+      "kode_wilayah": "14.71.12.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.12"
+    },
+    {
+      "nama_wilayah": "Palas",
+      "kode_wilayah": "14.71.12.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.12"
+    },
+    {
+      "nama_wilayah": "Umban Sari",
+      "kode_wilayah": "14.71.12.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.12"
+    }
+  ]
+}

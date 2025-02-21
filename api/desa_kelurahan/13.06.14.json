@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Canduang Koto Laweh",
+      "kode_wilayah": "13.06.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.14"
+    },
+    {
+      "nama_wilayah": "Lasi",
+      "kode_wilayah": "13.06.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.14"
+    },
+    {
+      "nama_wilayah": "Bukik Batabuah",
+      "kode_wilayah": "13.06.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.14"
+    }
+  ]
+}

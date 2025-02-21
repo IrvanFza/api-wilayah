@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Molas",
+      "kode_wilayah": "71.71.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.01"
+    },
+    {
+      "nama_wilayah": "Tongkaina",
+      "kode_wilayah": "71.71.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.01"
+    },
+    {
+      "nama_wilayah": "Meras",
+      "kode_wilayah": "71.71.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.01"
+    },
+    {
+      "nama_wilayah": "Bailang",
+      "kode_wilayah": "71.71.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.01"
+    },
+    {
+      "nama_wilayah": "Pandu",
+      "kode_wilayah": "71.71.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.01"
+    }
+  ]
+}

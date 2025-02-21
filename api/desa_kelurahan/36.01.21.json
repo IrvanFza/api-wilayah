@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Kadomas",
+      "kode_wilayah": "36.01.21.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.21"
+    },
+    {
+      "nama_wilayah": "Babakan Kalanganyar",
+      "kode_wilayah": "36.01.21.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.21"
+    },
+    {
+      "nama_wilayah": "Kabayan",
+      "kode_wilayah": "36.01.21.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.21"
+    },
+    {
+      "nama_wilayah": "Pandeglang",
+      "kode_wilayah": "36.01.21.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.21"
+    }
+  ]
+}

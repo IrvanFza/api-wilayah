@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Benda",
+      "kode_wilayah": "36.03.27.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.27"
+    },
+    {
+      "nama_wilayah": "Sukamulya",
+      "kode_wilayah": "36.03.27.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.27"
+    },
+    {
+      "nama_wilayah": "Kaliasin",
+      "kode_wilayah": "36.03.27.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.27"
+    },
+    {
+      "nama_wilayah": "Buniayu",
+      "kode_wilayah": "36.03.27.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.27"
+    },
+    {
+      "nama_wilayah": "Parahu",
+      "kode_wilayah": "36.03.27.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.27"
+    },
+    {
+      "nama_wilayah": "Merak",
+      "kode_wilayah": "36.03.27.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.27"
+    },
+    {
+      "nama_wilayah": "Bunar",
+      "kode_wilayah": "36.03.27.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.27"
+    },
+    {
+      "nama_wilayah": "Kubang",
+      "kode_wilayah": "36.03.27.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.27"
+    }
+  ]
+}

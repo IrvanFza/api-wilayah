@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Anatorei",
+      "kode_wilayah": "91.05.15.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.15"
+    },
+    {
+      "nama_wilayah": "Ketu Api",
+      "kode_wilayah": "91.05.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.15"
+    },
+    {
+      "nama_wilayah": "Mariaderi",
+      "kode_wilayah": "91.05.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.15"
+    },
+    {
+      "nama_wilayah": "Yapan",
+      "kode_wilayah": "91.05.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.15"
+    },
+    {
+      "nama_wilayah": "Mantembu",
+      "kode_wilayah": "91.05.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.15"
+    },
+    {
+      "nama_wilayah": "Famboaman",
+      "kode_wilayah": "91.05.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.15"
+    },
+    {
+      "nama_wilayah": "Kandowarira",
+      "kode_wilayah": "91.05.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.15"
+    },
+    {
+      "nama_wilayah": "Warari",
+      "kode_wilayah": "91.05.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.15"
+    }
+  ]
+}

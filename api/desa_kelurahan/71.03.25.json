@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Marore",
+      "kode_wilayah": "71.03.25.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.25"
+    },
+    {
+      "nama_wilayah": "Kawio",
+      "kode_wilayah": "71.03.25.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.25"
+    },
+    {
+      "nama_wilayah": "Matutuang",
+      "kode_wilayah": "71.03.25.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.25"
+    }
+  ]
+}

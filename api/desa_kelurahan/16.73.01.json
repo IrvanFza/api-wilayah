@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Air Kuti",
+      "kode_wilayah": "16.73.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.01"
+    },
+    {
+      "nama_wilayah": "Majapahit",
+      "kode_wilayah": "16.73.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.01"
+    },
+    {
+      "nama_wilayah": "Taba Jemekeh",
+      "kode_wilayah": "16.73.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.01"
+    },
+    {
+      "nama_wilayah": "Nikan Jaya",
+      "kode_wilayah": "16.73.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.01"
+    },
+    {
+      "nama_wilayah": "Taba Lestari",
+      "kode_wilayah": "16.73.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.01"
+    },
+    {
+      "nama_wilayah": "Batu Urip Taba",
+      "kode_wilayah": "16.73.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.01"
+    },
+    {
+      "nama_wilayah": "Taba Koji",
+      "kode_wilayah": "16.73.01.1015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.01"
+    },
+    {
+      "nama_wilayah": "Watervang",
+      "kode_wilayah": "16.73.01.1016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.01"
+    }
+  ]
+}

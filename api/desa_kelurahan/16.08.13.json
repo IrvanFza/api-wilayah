@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Banding Agung",
+      "kode_wilayah": "16.08.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.08",
+      "kode_kecamatan": "16.08.13"
+    },
+    {
+      "nama_wilayah": "Nikan",
+      "kode_wilayah": "16.08.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.08",
+      "kode_kecamatan": "16.08.13"
+    },
+    {
+      "nama_wilayah": "Surabaya",
+      "kode_wilayah": "16.08.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.08",
+      "kode_kecamatan": "16.08.13"
+    },
+    {
+      "nama_wilayah": "Wana Bakti",
+      "kode_wilayah": "16.08.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.08",
+      "kode_kecamatan": "16.08.13"
+    },
+    {
+      "nama_wilayah": "Batu Marta VI",
+      "kode_wilayah": "16.08.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.08",
+      "kode_kecamatan": "16.08.13"
+    },
+    {
+      "nama_wilayah": "Karya Makmur",
+      "kode_wilayah": "16.08.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.08",
+      "kode_kecamatan": "16.08.13"
+    },
+    {
+      "nama_wilayah": "Bina Amarta",
+      "kode_wilayah": "16.08.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.08",
+      "kode_kecamatan": "16.08.13"
+    },
+    {
+      "nama_wilayah": "Suka Damai",
+      "kode_wilayah": "16.08.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.08",
+      "kode_kecamatan": "16.08.13"
+    },
+    {
+      "nama_wilayah": "Batu Marta X",
+      "kode_wilayah": "16.08.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.08",
+      "kode_kecamatan": "16.08.13"
+    },
+    {
+      "nama_wilayah": "Marta V Jaya",
+      "kode_wilayah": "16.08.13.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.08",
+      "kode_kecamatan": "16.08.13"
+    }
+  ]
+}

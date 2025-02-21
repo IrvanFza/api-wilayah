@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Cijeungjing",
+      "kode_wilayah": "32.11.26.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.26"
+    },
+    {
+      "nama_wilayah": "Kadujaya",
+      "kode_wilayah": "32.11.26.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.26"
+    },
+    {
+      "nama_wilayah": "Lebaksiuh",
+      "kode_wilayah": "32.11.26.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.26"
+    },
+    {
+      "nama_wilayah": "Cintajaya",
+      "kode_wilayah": "32.11.26.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.26"
+    },
+    {
+      "nama_wilayah": "Cipicung",
+      "kode_wilayah": "32.11.26.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.26"
+    },
+    {
+      "nama_wilayah": "Mekarasih",
+      "kode_wilayah": "32.11.26.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.26"
+    },
+    {
+      "nama_wilayah": "Ciranggem",
+      "kode_wilayah": "32.11.26.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.26"
+    },
+    {
+      "nama_wilayah": "Cisampih",
+      "kode_wilayah": "32.11.26.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.26"
+    },
+    {
+      "nama_wilayah": "Jemah",
+      "kode_wilayah": "32.11.26.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.26"
+    },
+    {
+      "nama_wilayah": "Karedok",
+      "kode_wilayah": "32.11.26.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.26"
+    },
+    {
+      "nama_wilayah": "Kadu",
+      "kode_wilayah": "32.11.26.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.26"
+    }
+  ]
+}

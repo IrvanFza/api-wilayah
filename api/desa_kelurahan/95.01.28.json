@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tanahmerah",
+      "kode_wilayah": "95.01.28.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.28"
+    },
+    {
+      "nama_wilayah": "Towagame",
+      "kode_wilayah": "95.01.28.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.28"
+    },
+    {
+      "nama_wilayah": "Molagalome",
+      "kode_wilayah": "95.01.28.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.28"
+    },
+    {
+      "nama_wilayah": "Kwigiluk",
+      "kode_wilayah": "95.01.28.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.28"
+    },
+    {
+      "nama_wilayah": "Mebunukme",
+      "kode_wilayah": "95.01.28.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.28"
+    },
+    {
+      "nama_wilayah": "Okwa",
+      "kode_wilayah": "95.01.28.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.28"
+    }
+  ]
+}

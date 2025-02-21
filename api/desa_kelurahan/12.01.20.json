@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sibuluan Nalambok",
+      "kode_wilayah": "12.01.20.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.20"
+    },
+    {
+      "nama_wilayah": "Sarudik",
+      "kode_wilayah": "12.01.20.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.20"
+    },
+    {
+      "nama_wilayah": "Pasir Bidang",
+      "kode_wilayah": "12.01.20.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.20"
+    },
+    {
+      "nama_wilayah": "Pondok Batu",
+      "kode_wilayah": "12.01.20.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.20"
+    },
+    {
+      "nama_wilayah": "Sipan",
+      "kode_wilayah": "12.01.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.20"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sempu",
+      "kode_wilayah": "35.10.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.20"
+    },
+    {
+      "nama_wilayah": "Jambewangi",
+      "kode_wilayah": "35.10.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.20"
+    },
+    {
+      "nama_wilayah": "Karangsari",
+      "kode_wilayah": "35.10.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.20"
+    },
+    {
+      "nama_wilayah": "Temuguruh",
+      "kode_wilayah": "35.10.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.20"
+    },
+    {
+      "nama_wilayah": "Gendoh",
+      "kode_wilayah": "35.10.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.20"
+    },
+    {
+      "nama_wilayah": "Temuasri",
+      "kode_wilayah": "35.10.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.20"
+    },
+    {
+      "nama_wilayah": "Tegalarum",
+      "kode_wilayah": "35.10.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.20"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Cidolog",
+      "kode_wilayah": "32.07.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.05"
+    },
+    {
+      "nama_wilayah": "Janggala",
+      "kode_wilayah": "32.07.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.05"
+    },
+    {
+      "nama_wilayah": "Hegarmanah",
+      "kode_wilayah": "32.07.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.05"
+    },
+    {
+      "nama_wilayah": "Jelegong",
+      "kode_wilayah": "32.07.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.05"
+    },
+    {
+      "nama_wilayah": "Ciparay",
+      "kode_wilayah": "32.07.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.05"
+    },
+    {
+      "nama_wilayah": "Sukasari",
+      "kode_wilayah": "32.07.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.05"
+    }
+  ]
+}

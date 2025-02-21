@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sepatan",
+      "kode_wilayah": "36.03.16.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.16"
+    },
+    {
+      "nama_wilayah": "Karet",
+      "kode_wilayah": "36.03.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.16"
+    },
+    {
+      "nama_wilayah": "Kayu Agung",
+      "kode_wilayah": "36.03.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.16"
+    },
+    {
+      "nama_wilayah": "Kayu Bongkok",
+      "kode_wilayah": "36.03.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.16"
+    },
+    {
+      "nama_wilayah": "Pondok Jaya",
+      "kode_wilayah": "36.03.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.16"
+    },
+    {
+      "nama_wilayah": "Pisangan Jaya",
+      "kode_wilayah": "36.03.16.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.16"
+    },
+    {
+      "nama_wilayah": "Mekar Jaya",
+      "kode_wilayah": "36.03.16.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.16"
+    },
+    {
+      "nama_wilayah": "Sarakan",
+      "kode_wilayah": "36.03.16.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.16"
+    }
+  ]
+}

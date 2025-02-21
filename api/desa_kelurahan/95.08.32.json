@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Mandala",
+      "kode_wilayah": "95.08.32.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.32"
+    },
+    {
+      "nama_wilayah": "Trim",
+      "kode_wilayah": "95.08.32.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.32"
+    },
+    {
+      "nama_wilayah": "Benggem",
+      "kode_wilayah": "95.08.32.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.32"
+    },
+    {
+      "nama_wilayah": "Pasir Putih",
+      "kode_wilayah": "95.08.32.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.32"
+    }
+  ]
+}

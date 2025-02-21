@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Togizita",
+      "kode_wilayah": "12.14.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.11"
+    },
+    {
+      "nama_wilayah": "Soledua",
+      "kode_wilayah": "12.14.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.11"
+    },
+    {
+      "nama_wilayah": "Bawosalo-o Dao-dao",
+      "kode_wilayah": "12.14.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.11"
+    },
+    {
+      "nama_wilayah": "Tuho-owo",
+      "kode_wilayah": "12.14.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.11"
+    },
+    {
+      "nama_wilayah": "Togizita I",
+      "kode_wilayah": "12.14.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.11"
+    },
+    {
+      "nama_wilayah": "Hilitoese",
+      "kode_wilayah": "12.14.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.11"
+    },
+    {
+      "nama_wilayah": "Dao-dao Sowo",
+      "kode_wilayah": "12.14.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.11"
+    },
+    {
+      "nama_wilayah": "Hiliadulo",
+      "kode_wilayah": "12.14.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.11"
+    },
+    {
+      "nama_wilayah": "Soledua I",
+      "kode_wilayah": "12.14.11.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.11"
+    },
+    {
+      "nama_wilayah": "Soledua II",
+      "kode_wilayah": "12.14.11.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.11"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Muara Sabak Ilir",
+      "kode_wilayah": "15.07.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.01"
+    },
+    {
+      "nama_wilayah": "Muara Sabak Ulu",
+      "kode_wilayah": "15.07.01.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.01"
+    },
+    {
+      "nama_wilayah": "Alang-Alang",
+      "kode_wilayah": "15.07.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.01"
+    },
+    {
+      "nama_wilayah": "Lambur",
+      "kode_wilayah": "15.07.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.01"
+    },
+    {
+      "nama_wilayah": "Simbur Naik",
+      "kode_wilayah": "15.07.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.01"
+    },
+    {
+      "nama_wilayah": "Lambur I",
+      "kode_wilayah": "15.07.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.01"
+    },
+    {
+      "nama_wilayah": "Lambur II",
+      "kode_wilayah": "15.07.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.01"
+    },
+    {
+      "nama_wilayah": "Kota Raja",
+      "kode_wilayah": "15.07.01.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.01"
+    },
+    {
+      "nama_wilayah": "Siau Dalam",
+      "kode_wilayah": "15.07.01.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.01"
+    },
+    {
+      "nama_wilayah": "Sungai Ular",
+      "kode_wilayah": "15.07.01.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.01"
+    },
+    {
+      "nama_wilayah": "Kota Harapan",
+      "kode_wilayah": "15.07.01.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.01"
+    },
+    {
+      "nama_wilayah": "Kuala Simbur",
+      "kode_wilayah": "15.07.01.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.01"
+    }
+  ]
+}

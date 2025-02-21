@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Mangolo",
+      "kode_wilayah": "74.01.14.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.14"
+    },
+    {
+      "nama_wilayah": "Kolakaasi",
+      "kode_wilayah": "74.01.14.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.14"
+    },
+    {
+      "nama_wilayah": "Sea",
+      "kode_wilayah": "74.01.14.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.14"
+    },
+    {
+      "nama_wilayah": "Latambaga",
+      "kode_wilayah": "74.01.14.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.14"
+    },
+    {
+      "nama_wilayah": "Sakuli",
+      "kode_wilayah": "74.01.14.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.14"
+    },
+    {
+      "nama_wilayah": "Induha",
+      "kode_wilayah": "74.01.14.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.14"
+    },
+    {
+      "nama_wilayah": "Ulunggolaka",
+      "kode_wilayah": "74.01.14.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.14"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung",
+      "kode_wilayah": "61.02.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.01"
+    },
+    {
+      "nama_wilayah": "Tengah",
+      "kode_wilayah": "61.02.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.01"
+    },
+    {
+      "nama_wilayah": "Terusan",
+      "kode_wilayah": "61.02.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.01"
+    },
+    {
+      "nama_wilayah": "Sengkubang",
+      "kode_wilayah": "61.02.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.01"
+    },
+    {
+      "nama_wilayah": "Penibung",
+      "kode_wilayah": "61.02.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.01"
+    },
+    {
+      "nama_wilayah": "Pasir",
+      "kode_wilayah": "61.02.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.01"
+    },
+    {
+      "nama_wilayah": "Kuala Secapah",
+      "kode_wilayah": "61.02.01.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.01"
+    },
+    {
+      "nama_wilayah": "Malikian",
+      "kode_wilayah": "61.02.01.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.01"
+    }
+  ]
+}

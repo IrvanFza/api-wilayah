@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Cisoka",
+      "kode_wilayah": "36.03.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.05"
+    },
+    {
+      "nama_wilayah": "Caringin",
+      "kode_wilayah": "36.03.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.05"
+    },
+    {
+      "nama_wilayah": "Selapajang",
+      "kode_wilayah": "36.03.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.05"
+    },
+    {
+      "nama_wilayah": "Sukatani",
+      "kode_wilayah": "36.03.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.05"
+    },
+    {
+      "nama_wilayah": "Bojong Loa",
+      "kode_wilayah": "36.03.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.05"
+    },
+    {
+      "nama_wilayah": "Cibugel",
+      "kode_wilayah": "36.03.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.05"
+    },
+    {
+      "nama_wilayah": "Cempaka",
+      "kode_wilayah": "36.03.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.05"
+    },
+    {
+      "nama_wilayah": "Carenang",
+      "kode_wilayah": "36.03.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.05"
+    },
+    {
+      "nama_wilayah": "Karang Harja",
+      "kode_wilayah": "36.03.05.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.05"
+    },
+    {
+      "nama_wilayah": "Jeungjing",
+      "kode_wilayah": "36.03.05.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.05"
+    }
+  ]
+}

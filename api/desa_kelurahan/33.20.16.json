@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sumberrejo",
+      "kode_wilayah": "33.20.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.20",
+      "kode_kecamatan": "33.20.16"
+    },
+    {
+      "nama_wilayah": "Clering",
+      "kode_wilayah": "33.20.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.20",
+      "kode_kecamatan": "33.20.16"
+    },
+    {
+      "nama_wilayah": "Ujungwatu",
+      "kode_wilayah": "33.20.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.20",
+      "kode_kecamatan": "33.20.16"
+    },
+    {
+      "nama_wilayah": "Banyumanis",
+      "kode_wilayah": "33.20.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.20",
+      "kode_kecamatan": "33.20.16"
+    },
+    {
+      "nama_wilayah": "Tulakan",
+      "kode_wilayah": "33.20.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.20",
+      "kode_kecamatan": "33.20.16"
+    },
+    {
+      "nama_wilayah": "Bandungharjo",
+      "kode_wilayah": "33.20.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.20",
+      "kode_kecamatan": "33.20.16"
+    },
+    {
+      "nama_wilayah": "Blingoh",
+      "kode_wilayah": "33.20.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.20",
+      "kode_kecamatan": "33.20.16"
+    },
+    {
+      "nama_wilayah": "Jugo",
+      "kode_wilayah": "33.20.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.20",
+      "kode_kecamatan": "33.20.16"
+    }
+  ]
+}

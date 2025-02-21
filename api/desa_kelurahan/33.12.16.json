@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kismantoro",
+      "kode_wilayah": "33.12.16.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.16"
+    },
+    {
+      "nama_wilayah": "Gesing",
+      "kode_wilayah": "33.12.16.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.16"
+    },
+    {
+      "nama_wilayah": "Pucung",
+      "kode_wilayah": "33.12.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.16"
+    },
+    {
+      "nama_wilayah": "Plosorejo",
+      "kode_wilayah": "33.12.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.16"
+    },
+    {
+      "nama_wilayah": "Bugelan",
+      "kode_wilayah": "33.12.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.16"
+    },
+    {
+      "nama_wilayah": "Ngroto",
+      "kode_wilayah": "33.12.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.16"
+    },
+    {
+      "nama_wilayah": "Miri",
+      "kode_wilayah": "33.12.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.16"
+    },
+    {
+      "nama_wilayah": "Lemahbang",
+      "kode_wilayah": "33.12.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.16"
+    },
+    {
+      "nama_wilayah": "Gambiranom",
+      "kode_wilayah": "33.12.16.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.16"
+    },
+    {
+      "nama_wilayah": "Gedawung",
+      "kode_wilayah": "33.12.16.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.16"
+    }
+  ]
+}

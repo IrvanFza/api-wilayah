@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Kebun Durian",
+      "kode_wilayah": "14.01.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.20"
+    },
+    {
+      "nama_wilayah": "Gunung Sahilan",
+      "kode_wilayah": "14.01.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.20"
+    },
+    {
+      "nama_wilayah": "Gunung Sari",
+      "kode_wilayah": "14.01.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.20"
+    },
+    {
+      "nama_wilayah": "Suka Makmur",
+      "kode_wilayah": "14.01.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.20"
+    },
+    {
+      "nama_wilayah": "Subarak",
+      "kode_wilayah": "14.01.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.20"
+    },
+    {
+      "nama_wilayah": "Sungai Lipai",
+      "kode_wilayah": "14.01.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.20"
+    },
+    {
+      "nama_wilayah": "Sahilan Darussalam",
+      "kode_wilayah": "14.01.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.20"
+    },
+    {
+      "nama_wilayah": "Gunung Mulya",
+      "kode_wilayah": "14.01.20.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.20"
+    },
+    {
+      "nama_wilayah": "Makmur Sejahtera",
+      "kode_wilayah": "14.01.20.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.20"
+    }
+  ]
+}

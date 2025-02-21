@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Bambalamotu",
+      "kode_wilayah": "76.01.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.01"
+    },
+    {
+      "nama_wilayah": "Polewali",
+      "kode_wilayah": "76.01.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.01"
+    },
+    {
+      "nama_wilayah": "Randomayang",
+      "kode_wilayah": "76.01.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.01"
+    },
+    {
+      "nama_wilayah": "Pangiang",
+      "kode_wilayah": "76.01.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.01"
+    },
+    {
+      "nama_wilayah": "Kalola",
+      "kode_wilayah": "76.01.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.01"
+    },
+    {
+      "nama_wilayah": "Wulai",
+      "kode_wilayah": "76.01.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.01"
+    }
+  ]
+}

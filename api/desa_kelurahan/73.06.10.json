@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tamaona",
+      "kode_wilayah": "73.06.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.10"
+    },
+    {
+      "nama_wilayah": "Ta-binjai",
+      "kode_wilayah": "73.06.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.10"
+    },
+    {
+      "nama_wilayah": "Erelembang",
+      "kode_wilayah": "73.06.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.10"
+    },
+    {
+      "nama_wilayah": "Kanreapia",
+      "kode_wilayah": "73.06.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.10"
+    },
+    {
+      "nama_wilayah": "Pao",
+      "kode_wilayah": "73.06.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.10"
+    },
+    {
+      "nama_wilayah": "Balassuka",
+      "kode_wilayah": "73.06.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.10"
+    },
+    {
+      "nama_wilayah": "Mamampang",
+      "kode_wilayah": "73.06.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.10"
+    },
+    {
+      "nama_wilayah": "Tonasa",
+      "kode_wilayah": "73.06.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.10"
+    },
+    {
+      "nama_wilayah": "Bolaromang",
+      "kode_wilayah": "73.06.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.10"
+    }
+  ]
+}

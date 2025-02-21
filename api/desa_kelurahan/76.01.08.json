@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Tikke",
+      "kode_wilayah": "76.01.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.08"
+    },
+    {
+      "nama_wilayah": "Makmur Jaya",
+      "kode_wilayah": "76.01.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.08"
+    },
+    {
+      "nama_wilayah": "Lariang",
+      "kode_wilayah": "76.01.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.08"
+    },
+    {
+      "nama_wilayah": "Pajalele",
+      "kode_wilayah": "76.01.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.08"
+    },
+    {
+      "nama_wilayah": "Jengeng Raya",
+      "kode_wilayah": "76.01.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.08"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Haurkolot",
+      "kode_wilayah": "32.12.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.01"
+    },
+    {
+      "nama_wilayah": "Haurgeulis",
+      "kode_wilayah": "32.12.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.01"
+    },
+    {
+      "nama_wilayah": "Sukajati",
+      "kode_wilayah": "32.12.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.01"
+    },
+    {
+      "nama_wilayah": "Wanakaya",
+      "kode_wilayah": "32.12.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.01"
+    },
+    {
+      "nama_wilayah": "Karangtumaritis",
+      "kode_wilayah": "32.12.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.01"
+    },
+    {
+      "nama_wilayah": "Kertanegara",
+      "kode_wilayah": "32.12.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.01"
+    },
+    {
+      "nama_wilayah": "Cipancuh",
+      "kode_wilayah": "32.12.01.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.01"
+    },
+    {
+      "nama_wilayah": "Mekarjati",
+      "kode_wilayah": "32.12.01.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.01"
+    },
+    {
+      "nama_wilayah": "Sidadadi",
+      "kode_wilayah": "32.12.01.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.01"
+    },
+    {
+      "nama_wilayah": "Sumbermulya",
+      "kode_wilayah": "32.12.01.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.01"
+    }
+  ]
+}

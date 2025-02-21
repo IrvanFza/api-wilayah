@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sei Nangka",
+      "kode_wilayah": "12.09.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.24"
+    },
+    {
+      "nama_wilayah": "Sei Jawi-Jawi",
+      "kode_wilayah": "12.09.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.24"
+    },
+    {
+      "nama_wilayah": "Sei Serindan",
+      "kode_wilayah": "12.09.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.24"
+    },
+    {
+      "nama_wilayah": "Sei Tualang Pandau",
+      "kode_wilayah": "12.09.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.24"
+    },
+    {
+      "nama_wilayah": "Sei Lendir",
+      "kode_wilayah": "12.09.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.24"
+    },
+    {
+      "nama_wilayah": "Sei Kepayang Kiri",
+      "kode_wilayah": "12.09.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.24"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Mahahe",
+      "kode_wilayah": "76.06.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.06",
+      "kode_kecamatan": "76.06.01"
+    },
+    {
+      "nama_wilayah": "Salobaja",
+      "kode_wilayah": "76.06.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.06",
+      "kode_kecamatan": "76.06.01"
+    },
+    {
+      "nama_wilayah": "Tobadak",
+      "kode_wilayah": "76.06.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.06",
+      "kode_kecamatan": "76.06.01"
+    },
+    {
+      "nama_wilayah": "Palongaan",
+      "kode_wilayah": "76.06.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.06",
+      "kode_kecamatan": "76.06.01"
+    },
+    {
+      "nama_wilayah": "Batu Parigi",
+      "kode_wilayah": "76.06.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.06",
+      "kode_kecamatan": "76.06.01"
+    },
+    {
+      "nama_wilayah": "Bambadaru",
+      "kode_wilayah": "76.06.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.06",
+      "kode_kecamatan": "76.06.01"
+    },
+    {
+      "nama_wilayah": "Sejati",
+      "kode_wilayah": "76.06.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.06",
+      "kode_kecamatan": "76.06.01"
+    },
+    {
+      "nama_wilayah": "Saloadak",
+      "kode_wilayah": "76.06.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.06",
+      "kode_kecamatan": "76.06.01"
+    }
+  ]
+}

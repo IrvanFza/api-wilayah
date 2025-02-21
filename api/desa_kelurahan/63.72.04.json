@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Loktabat Utara",
+      "kode_wilayah": "63.72.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.72",
+      "kode_kecamatan": "63.72.04"
+    },
+    {
+      "nama_wilayah": "Mentaos",
+      "kode_wilayah": "63.72.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.72",
+      "kode_kecamatan": "63.72.04"
+    },
+    {
+      "nama_wilayah": "Komet",
+      "kode_wilayah": "63.72.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.72",
+      "kode_kecamatan": "63.72.04"
+    },
+    {
+      "nama_wilayah": "Sungai Ulin",
+      "kode_wilayah": "63.72.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.72",
+      "kode_kecamatan": "63.72.04"
+    }
+  ]
+}

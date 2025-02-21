@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tanggan",
+      "kode_wilayah": "33.14.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.18"
+    },
+    {
+      "nama_wilayah": "Pilangsari",
+      "kode_wilayah": "33.14.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.18"
+    },
+    {
+      "nama_wilayah": "Blangu",
+      "kode_wilayah": "33.14.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.18"
+    },
+    {
+      "nama_wilayah": "Gesi",
+      "kode_wilayah": "33.14.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.18"
+    },
+    {
+      "nama_wilayah": "Srawung",
+      "kode_wilayah": "33.14.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.18"
+    },
+    {
+      "nama_wilayah": "Poleng",
+      "kode_wilayah": "33.14.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.18"
+    },
+    {
+      "nama_wilayah": "Slendro",
+      "kode_wilayah": "33.14.18.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.18"
+    }
+  ]
+}

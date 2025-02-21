@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Lilo",
+      "kode_wilayah": "53.02.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.09"
+    },
+    {
+      "nama_wilayah": "Fotilo",
+      "kode_wilayah": "53.02.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.09"
+    },
+    {
+      "nama_wilayah": "Nasi",
+      "kode_wilayah": "53.02.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.09"
+    },
+    {
+      "nama_wilayah": "Snok",
+      "kode_wilayah": "53.02.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.09"
+    },
+    {
+      "nama_wilayah": "Tumu",
+      "kode_wilayah": "53.02.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.09"
+    },
+    {
+      "nama_wilayah": "Fatu Oni",
+      "kode_wilayah": "53.02.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.09"
+    },
+    {
+      "nama_wilayah": "Sono",
+      "kode_wilayah": "53.02.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.09"
+    },
+    {
+      "nama_wilayah": "Tauanas",
+      "kode_wilayah": "53.02.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.09"
+    },
+    {
+      "nama_wilayah": "Muna",
+      "kode_wilayah": "53.02.09.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.09"
+    }
+  ]
+}

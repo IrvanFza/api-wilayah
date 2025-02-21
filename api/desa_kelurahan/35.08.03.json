@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Jugosari",
+      "kode_wilayah": "35.08.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.08",
+      "kode_kecamatan": "35.08.03"
+    },
+    {
+      "nama_wilayah": "Jarit",
+      "kode_wilayah": "35.08.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.08",
+      "kode_kecamatan": "35.08.03"
+    },
+    {
+      "nama_wilayah": "Candipuro",
+      "kode_wilayah": "35.08.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.08",
+      "kode_kecamatan": "35.08.03"
+    },
+    {
+      "nama_wilayah": "Sumberejo",
+      "kode_wilayah": "35.08.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.08",
+      "kode_kecamatan": "35.08.03"
+    },
+    {
+      "nama_wilayah": "Sumberwuluh",
+      "kode_wilayah": "35.08.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.08",
+      "kode_kecamatan": "35.08.03"
+    },
+    {
+      "nama_wilayah": "Sumbermujur",
+      "kode_wilayah": "35.08.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.08",
+      "kode_kecamatan": "35.08.03"
+    },
+    {
+      "nama_wilayah": "Penanggal",
+      "kode_wilayah": "35.08.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.08",
+      "kode_kecamatan": "35.08.03"
+    },
+    {
+      "nama_wilayah": "Tambahrejo",
+      "kode_wilayah": "35.08.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.08",
+      "kode_kecamatan": "35.08.03"
+    },
+    {
+      "nama_wilayah": "Kloposawit",
+      "kode_wilayah": "35.08.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.08",
+      "kode_kecamatan": "35.08.03"
+    },
+    {
+      "nama_wilayah": "Tumpeng",
+      "kode_wilayah": "35.08.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.08",
+      "kode_kecamatan": "35.08.03"
+    }
+  ]
+}

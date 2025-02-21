@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Karuwisi",
+      "kode_wilayah": "73.71.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.09"
+    },
+    {
+      "nama_wilayah": "Panaikang",
+      "kode_wilayah": "73.71.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.09"
+    },
+    {
+      "nama_wilayah": "Tello Baru",
+      "kode_wilayah": "73.71.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.09"
+    },
+    {
+      "nama_wilayah": "Pampang",
+      "kode_wilayah": "73.71.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.09"
+    },
+    {
+      "nama_wilayah": "Karampuang",
+      "kode_wilayah": "73.71.09.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.09"
+    },
+    {
+      "nama_wilayah": "Tamamaung",
+      "kode_wilayah": "73.71.09.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.09"
+    },
+    {
+      "nama_wilayah": "Masale",
+      "kode_wilayah": "73.71.09.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.09"
+    },
+    {
+      "nama_wilayah": "Pandang",
+      "kode_wilayah": "73.71.09.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.09"
+    },
+    {
+      "nama_wilayah": "Karuwisi Utara",
+      "kode_wilayah": "73.71.09.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.09"
+    },
+    {
+      "nama_wilayah": "Sinrijala",
+      "kode_wilayah": "73.71.09.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.09"
+    },
+    {
+      "nama_wilayah": "Paropo",
+      "kode_wilayah": "73.71.09.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.09"
+    }
+  ]
+}

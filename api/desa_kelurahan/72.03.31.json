@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Walandano",
+      "kode_wilayah": "72.03.31.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.31"
+    },
+    {
+      "nama_wilayah": "Malei",
+      "kode_wilayah": "72.03.31.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.31"
+    },
+    {
+      "nama_wilayah": "Kamonji",
+      "kode_wilayah": "72.03.31.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.31"
+    },
+    {
+      "nama_wilayah": "Ketong",
+      "kode_wilayah": "72.03.31.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.31"
+    },
+    {
+      "nama_wilayah": "Rano",
+      "kode_wilayah": "72.03.31.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.31"
+    },
+    {
+      "nama_wilayah": "Pomolulu",
+      "kode_wilayah": "72.03.31.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.31"
+    },
+    {
+      "nama_wilayah": "Palau",
+      "kode_wilayah": "72.03.31.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.31"
+    },
+    {
+      "nama_wilayah": "Manimbaya",
+      "kode_wilayah": "72.03.31.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.31"
+    }
+  ]
+}

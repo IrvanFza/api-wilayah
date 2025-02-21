@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Ciherang",
+      "kode_wilayah": "32.03.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.10"
+    },
+    {
+      "nama_wilayah": "Cibodas",
+      "kode_wilayah": "32.03.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.10"
+    },
+    {
+      "nama_wilayah": "Sukanagalih",
+      "kode_wilayah": "32.03.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.10"
+    },
+    {
+      "nama_wilayah": "Cipendawa",
+      "kode_wilayah": "32.03.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.10"
+    },
+    {
+      "nama_wilayah": "Ciputri",
+      "kode_wilayah": "32.03.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.10"
+    },
+    {
+      "nama_wilayah": "Gadog",
+      "kode_wilayah": "32.03.10.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.10"
+    },
+    {
+      "nama_wilayah": "Sukatani",
+      "kode_wilayah": "32.03.10.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.10"
+    }
+  ]
+}

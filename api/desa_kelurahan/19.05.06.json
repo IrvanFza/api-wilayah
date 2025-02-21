@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sekar Biru",
+      "kode_wilayah": "19.05.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.05",
+      "kode_kecamatan": "19.05.06"
+    },
+    {
+      "nama_wilayah": "Telak",
+      "kode_wilayah": "19.05.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.05",
+      "kode_kecamatan": "19.05.06"
+    },
+    {
+      "nama_wilayah": "Cupat",
+      "kode_wilayah": "19.05.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.05",
+      "kode_kecamatan": "19.05.06"
+    },
+    {
+      "nama_wilayah": "Bakit",
+      "kode_wilayah": "19.05.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.05",
+      "kode_kecamatan": "19.05.06"
+    },
+    {
+      "nama_wilayah": "Puput",
+      "kode_wilayah": "19.05.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.05",
+      "kode_kecamatan": "19.05.06"
+    },
+    {
+      "nama_wilayah": "Air Gantang",
+      "kode_wilayah": "19.05.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.05",
+      "kode_kecamatan": "19.05.06"
+    },
+    {
+      "nama_wilayah": "Kelabat",
+      "kode_wilayah": "19.05.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.05",
+      "kode_kecamatan": "19.05.06"
+    },
+    {
+      "nama_wilayah": "Kapit",
+      "kode_wilayah": "19.05.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.05",
+      "kode_kecamatan": "19.05.06"
+    },
+    {
+      "nama_wilayah": "Semulut",
+      "kode_wilayah": "19.05.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.05",
+      "kode_kecamatan": "19.05.06"
+    },
+    {
+      "nama_wilayah": "Teluk Limau",
+      "kode_wilayah": "19.05.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.05",
+      "kode_kecamatan": "19.05.06"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kersamanah",
+      "kode_wilayah": "32.05.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.13"
+    },
+    {
+      "nama_wilayah": "Nanjungjaya",
+      "kode_wilayah": "32.05.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.13"
+    },
+    {
+      "nama_wilayah": "Sukamerang",
+      "kode_wilayah": "32.05.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.13"
+    },
+    {
+      "nama_wilayah": "Girijaya",
+      "kode_wilayah": "32.05.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.13"
+    },
+    {
+      "nama_wilayah": "Sukamaju",
+      "kode_wilayah": "32.05.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.13"
+    },
+    {
+      "nama_wilayah": "Mekarraya",
+      "kode_wilayah": "32.05.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.13"
+    }
+  ]
+}

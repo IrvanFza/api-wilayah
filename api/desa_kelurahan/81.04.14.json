@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Kaiely",
+      "kode_wilayah": "81.04.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.14"
+    },
+    {
+      "nama_wilayah": "Masarete",
+      "kode_wilayah": "81.04.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.14"
+    },
+    {
+      "nama_wilayah": "Waelapia",
+      "kode_wilayah": "81.04.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.14"
+    },
+    {
+      "nama_wilayah": "Kaki Air",
+      "kode_wilayah": "81.04.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.14"
+    },
+    {
+      "nama_wilayah": "Seith",
+      "kode_wilayah": "81.04.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.14"
+    }
+  ]
+}

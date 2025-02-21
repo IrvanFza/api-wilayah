@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Serang",
+      "kode_wilayah": "32.09.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.23"
+    },
+    {
+      "nama_wilayah": "Klangenan",
+      "kode_wilayah": "32.09.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.23"
+    },
+    {
+      "nama_wilayah": "Danawinangun",
+      "kode_wilayah": "32.09.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.23"
+    },
+    {
+      "nama_wilayah": "Pekantingan",
+      "kode_wilayah": "32.09.23.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.23"
+    },
+    {
+      "nama_wilayah": "Jemaras Kidul",
+      "kode_wilayah": "32.09.23.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.23"
+    },
+    {
+      "nama_wilayah": "Jemaras Lor",
+      "kode_wilayah": "32.09.23.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.23"
+    },
+    {
+      "nama_wilayah": "Slangit",
+      "kode_wilayah": "32.09.23.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.23"
+    },
+    {
+      "nama_wilayah": "Kreyo",
+      "kode_wilayah": "32.09.23.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.23"
+    },
+    {
+      "nama_wilayah": "Bangodua",
+      "kode_wilayah": "32.09.23.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.23"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pangkalan Bunut",
+      "kode_wilayah": "14.05.08.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.08"
+    },
+    {
+      "nama_wilayah": "Petani",
+      "kode_wilayah": "14.05.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.08"
+    },
+    {
+      "nama_wilayah": "Merbau",
+      "kode_wilayah": "14.05.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.08"
+    },
+    {
+      "nama_wilayah": "Sungai Buluh",
+      "kode_wilayah": "14.05.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.08"
+    },
+    {
+      "nama_wilayah": "Lubuk Mas",
+      "kode_wilayah": "14.05.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.08"
+    },
+    {
+      "nama_wilayah": "Balam Merah",
+      "kode_wilayah": "14.05.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.08"
+    },
+    {
+      "nama_wilayah": "Bagan Laguh",
+      "kode_wilayah": "14.05.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.08"
+    },
+    {
+      "nama_wilayah": "Lubuk Mandian Gajah",
+      "kode_wilayah": "14.05.08.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.08"
+    },
+    {
+      "nama_wilayah": "Keriung",
+      "kode_wilayah": "14.05.08.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.08"
+    },
+    {
+      "nama_wilayah": "Sialang Kayu Batu",
+      "kode_wilayah": "14.05.08.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.08"
+    }
+  ]
+}

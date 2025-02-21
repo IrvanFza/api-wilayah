@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sinar Harapan",
+      "kode_wilayah": "18.03.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.21"
+    },
+    {
+      "nama_wilayah": "Kubu Hitu",
+      "kode_wilayah": "18.03.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.21"
+    },
+    {
+      "nama_wilayah": "Negeri Sakti",
+      "kode_wilayah": "18.03.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.21"
+    },
+    {
+      "nama_wilayah": "Tanjung Jaya",
+      "kode_wilayah": "18.03.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.21"
+    },
+    {
+      "nama_wilayah": "Gunung Raja",
+      "kode_wilayah": "18.03.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.21"
+    },
+    {
+      "nama_wilayah": "Cahaya Mas",
+      "kode_wilayah": "18.03.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.21"
+    },
+    {
+      "nama_wilayah": "Comok Sinar Jaya",
+      "kode_wilayah": "18.03.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.21"
+    },
+    {
+      "nama_wilayah": "Way Isem",
+      "kode_wilayah": "18.03.21.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.21"
+    },
+    {
+      "nama_wilayah": "Gunung Maknibai",
+      "kode_wilayah": "18.03.21.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.21"
+    },
+    {
+      "nama_wilayah": "Negeri Batin Jaya",
+      "kode_wilayah": "18.03.21.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.21"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Lansek Kadok",
+      "kode_wilayah": "13.08.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.19"
+    },
+    {
+      "nama_wilayah": "Lubuak Layang",
+      "kode_wilayah": "13.08.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.19"
+    },
+    {
+      "nama_wilayah": "Tanjung Betung",
+      "kode_wilayah": "13.08.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.19"
+    },
+    {
+      "nama_wilayah": "Lansek Kadok Barat",
+      "kode_wilayah": "13.08.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.19"
+    },
+    {
+      "nama_wilayah": "Tanjung Betung Utara",
+      "kode_wilayah": "13.08.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.19"
+    },
+    {
+      "nama_wilayah": "Tanjung Betung Timur",
+      "kode_wilayah": "13.08.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.19"
+    }
+  ]
+}

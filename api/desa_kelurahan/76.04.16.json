@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Bulo",
+      "kode_wilayah": "76.04.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.16"
+    },
+    {
+      "nama_wilayah": "Pulliwa",
+      "kode_wilayah": "76.04.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.16"
+    },
+    {
+      "nama_wilayah": "Patambanua",
+      "kode_wilayah": "76.04.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.16"
+    },
+    {
+      "nama_wilayah": "Karombang",
+      "kode_wilayah": "76.04.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.16"
+    },
+    {
+      "nama_wilayah": "Daala Timur",
+      "kode_wilayah": "76.04.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.16"
+    },
+    {
+      "nama_wilayah": "Lenggo",
+      "kode_wilayah": "76.04.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.16"
+    },
+    {
+      "nama_wilayah": "Sabura",
+      "kode_wilayah": "76.04.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.16"
+    },
+    {
+      "nama_wilayah": "Sepporakki",
+      "kode_wilayah": "76.04.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.16"
+    },
+    {
+      "nama_wilayah": "Ihing",
+      "kode_wilayah": "76.04.16.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.16"
+    }
+  ]
+}

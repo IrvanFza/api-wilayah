@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kelapa Dua",
+      "kode_wilayah": "36.03.28.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.28"
+    },
+    {
+      "nama_wilayah": "Bencongan",
+      "kode_wilayah": "36.03.28.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.28"
+    },
+    {
+      "nama_wilayah": "Bencongan Indah",
+      "kode_wilayah": "36.03.28.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.28"
+    },
+    {
+      "nama_wilayah": "Pakulonan Barat",
+      "kode_wilayah": "36.03.28.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.28"
+    },
+    {
+      "nama_wilayah": "Bojong Nangka",
+      "kode_wilayah": "36.03.28.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.28"
+    },
+    {
+      "nama_wilayah": "Curug Sangereng",
+      "kode_wilayah": "36.03.28.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.28"
+    }
+  ]
+}

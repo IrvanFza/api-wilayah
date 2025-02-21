@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kulisusu",
+      "kode_wilayah": "74.10.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.10",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Kambowa",
+      "kode_wilayah": "74.10.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.10",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Bonegunu",
+      "kode_wilayah": "74.10.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.10",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Kulisusu Barat",
+      "kode_wilayah": "74.10.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.10",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Kulisusu Utara",
+      "kode_wilayah": "74.10.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.10",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Wakorumba Utara",
+      "kode_wilayah": "74.10.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.10",
+      "kode_provinsi": "74"
+    }
+  ]
+}

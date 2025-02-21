@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Teluk Singkawang",
+      "kode_wilayah": "15.09.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.05"
+    },
+    {
+      "nama_wilayah": "Lembak Bungur",
+      "kode_wilayah": "15.09.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.05"
+    },
+    {
+      "nama_wilayah": "Teluk Langkap",
+      "kode_wilayah": "15.09.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.05"
+    },
+    {
+      "nama_wilayah": "Tambun Arang",
+      "kode_wilayah": "15.09.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.05"
+    },
+    {
+      "nama_wilayah": "Punti Kalo",
+      "kode_wilayah": "15.09.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.05"
+    },
+    {
+      "nama_wilayah": "Jati Belarik",
+      "kode_wilayah": "15.09.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.05"
+    },
+    {
+      "nama_wilayah": "Tuo Sumay",
+      "kode_wilayah": "15.09.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.05"
+    },
+    {
+      "nama_wilayah": "Teriti",
+      "kode_wilayah": "15.09.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.05"
+    },
+    {
+      "nama_wilayah": "Suo-Suo",
+      "kode_wilayah": "15.09.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.05"
+    },
+    {
+      "nama_wilayah": "Muara Sekalo",
+      "kode_wilayah": "15.09.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.05"
+    },
+    {
+      "nama_wilayah": "Semambu",
+      "kode_wilayah": "15.09.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.05"
+    },
+    {
+      "nama_wilayah": "Pemayungan",
+      "kode_wilayah": "15.09.05.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.05"
+    }
+  ]
+}

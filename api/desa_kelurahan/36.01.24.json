@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Turus",
+      "kode_wilayah": "36.01.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.24"
+    },
+    {
+      "nama_wilayah": "Patia",
+      "kode_wilayah": "36.01.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.24"
+    },
+    {
+      "nama_wilayah": "Pasirgadung",
+      "kode_wilayah": "36.01.24.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.24"
+    },
+    {
+      "nama_wilayah": "Cimoyan",
+      "kode_wilayah": "36.01.24.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.24"
+    },
+    {
+      "nama_wilayah": "Idaman",
+      "kode_wilayah": "36.01.24.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.24"
+    },
+    {
+      "nama_wilayah": "Babakankeusik",
+      "kode_wilayah": "36.01.24.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.24"
+    },
+    {
+      "nama_wilayah": "Surianeun",
+      "kode_wilayah": "36.01.24.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.24"
+    },
+    {
+      "nama_wilayah": "Rahayu",
+      "kode_wilayah": "36.01.24.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.24"
+    },
+    {
+      "nama_wilayah": "Ciawi",
+      "kode_wilayah": "36.01.24.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.24"
+    },
+    {
+      "nama_wilayah": "Simpangtiga",
+      "kode_wilayah": "36.01.24.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.24"
+    }
+  ]
+}

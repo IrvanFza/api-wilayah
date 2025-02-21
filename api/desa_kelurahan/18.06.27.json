@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sukamara",
+      "kode_wilayah": "18.06.27.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.27"
+    },
+    {
+      "nama_wilayah": "Sukanegara",
+      "kode_wilayah": "18.06.27.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.27"
+    },
+    {
+      "nama_wilayah": "Banjarmasin",
+      "kode_wilayah": "18.06.27.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.27"
+    },
+    {
+      "nama_wilayah": "Suka Agung Barat",
+      "kode_wilayah": "18.06.27.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.27"
+    },
+    {
+      "nama_wilayah": "Suka Agung",
+      "kode_wilayah": "18.06.27.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.27"
+    },
+    {
+      "nama_wilayah": "Gunung Terang",
+      "kode_wilayah": "18.06.27.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.27"
+    },
+    {
+      "nama_wilayah": "Napal",
+      "kode_wilayah": "18.06.27.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.27"
+    },
+    {
+      "nama_wilayah": "Sinar Petir",
+      "kode_wilayah": "18.06.27.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.27"
+    },
+    {
+      "nama_wilayah": "Pematang Nebak",
+      "kode_wilayah": "18.06.27.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.27"
+    },
+    {
+      "nama_wilayah": "Tanjung Sari",
+      "kode_wilayah": "18.06.27.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.27"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Dadapan",
+      "kode_wilayah": "35.24.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.24",
+      "kode_kecamatan": "35.24.15"
+    },
+    {
+      "nama_wilayah": "Tebluru",
+      "kode_wilayah": "35.24.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.24",
+      "kode_kecamatan": "35.24.15"
+    },
+    {
+      "nama_wilayah": "Sugihan",
+      "kode_wilayah": "35.24.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.24",
+      "kode_kecamatan": "35.24.15"
+    },
+    {
+      "nama_wilayah": "Tenggulun",
+      "kode_wilayah": "35.24.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.24",
+      "kode_kecamatan": "35.24.15"
+    },
+    {
+      "nama_wilayah": "Payaman",
+      "kode_wilayah": "35.24.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.24",
+      "kode_kecamatan": "35.24.15"
+    },
+    {
+      "nama_wilayah": "Solokuro",
+      "kode_wilayah": "35.24.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.24",
+      "kode_kecamatan": "35.24.15"
+    },
+    {
+      "nama_wilayah": "Takerharjo",
+      "kode_wilayah": "35.24.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.24",
+      "kode_kecamatan": "35.24.15"
+    },
+    {
+      "nama_wilayah": "Dagan",
+      "kode_wilayah": "35.24.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.24",
+      "kode_kecamatan": "35.24.15"
+    },
+    {
+      "nama_wilayah": "Banyubang",
+      "kode_wilayah": "35.24.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.24",
+      "kode_kecamatan": "35.24.15"
+    },
+    {
+      "nama_wilayah": "Bluri",
+      "kode_wilayah": "35.24.15.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.24",
+      "kode_kecamatan": "35.24.15"
+    }
+  ]
+}

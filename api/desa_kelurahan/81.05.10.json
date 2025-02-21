@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Teor",
+      "kode_wilayah": "81.05.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.10"
+    },
+    {
+      "nama_wilayah": "Kartutin Kartenga",
+      "kode_wilayah": "81.05.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.10"
+    },
+    {
+      "nama_wilayah": "Ker Ker",
+      "kode_wilayah": "81.05.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.10"
+    },
+    {
+      "nama_wilayah": "Duryar Rumoy",
+      "kode_wilayah": "81.05.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.10"
+    },
+    {
+      "nama_wilayah": "Lapang Kampung Jawa",
+      "kode_wilayah": "81.05.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.10"
+    },
+    {
+      "nama_wilayah": "Kampung Tengah Wermaf",
+      "kode_wilayah": "81.05.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.10"
+    },
+    {
+      "nama_wilayah": "Kampung Baru",
+      "kode_wilayah": "81.05.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.10"
+    },
+    {
+      "nama_wilayah": "Mamur",
+      "kode_wilayah": "81.05.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.10"
+    },
+    {
+      "nama_wilayah": "Kiliwouw",
+      "kode_wilayah": "81.05.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.10"
+    },
+    {
+      "nama_wilayah": "Karlokin",
+      "kode_wilayah": "81.05.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.10"
+    }
+  ]
+}

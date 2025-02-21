@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Amplas",
+      "kode_wilayah": "12.71.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.09"
+    },
+    {
+      "nama_wilayah": "Sitirejo II",
+      "kode_wilayah": "12.71.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.09"
+    },
+    {
+      "nama_wilayah": "Sitirejo III",
+      "kode_wilayah": "12.71.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.09"
+    },
+    {
+      "nama_wilayah": "Harjosari I",
+      "kode_wilayah": "12.71.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.09"
+    },
+    {
+      "nama_wilayah": "Harjosari II",
+      "kode_wilayah": "12.71.09.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.09"
+    },
+    {
+      "nama_wilayah": "Timbang Deli",
+      "kode_wilayah": "12.71.09.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.09"
+    },
+    {
+      "nama_wilayah": "Bangun Mulia",
+      "kode_wilayah": "12.71.09.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.09"
+    }
+  ]
+}

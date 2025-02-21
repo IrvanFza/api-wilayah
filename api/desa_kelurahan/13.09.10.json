@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Sinaka",
+      "kode_wilayah": "13.09.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.10"
+    },
+    {
+      "nama_wilayah": "Bulasat",
+      "kode_wilayah": "13.09.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.10"
+    },
+    {
+      "nama_wilayah": "Malakopa",
+      "kode_wilayah": "13.09.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.10"
+    },
+    {
+      "nama_wilayah": "Makalo",
+      "kode_wilayah": "13.09.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.10"
+    }
+  ]
+}

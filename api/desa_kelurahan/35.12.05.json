@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Bugeman",
+      "kode_wilayah": "35.12.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.05"
+    },
+    {
+      "nama_wilayah": "Kendit",
+      "kode_wilayah": "35.12.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.05"
+    },
+    {
+      "nama_wilayah": "Balung",
+      "kode_wilayah": "35.12.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.05"
+    },
+    {
+      "nama_wilayah": "Tambak Ukir",
+      "kode_wilayah": "35.12.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.05"
+    },
+    {
+      "nama_wilayah": "Rajekwesi",
+      "kode_wilayah": "35.12.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.05"
+    },
+    {
+      "nama_wilayah": "Kukusan",
+      "kode_wilayah": "35.12.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.05"
+    },
+    {
+      "nama_wilayah": "Klatakan",
+      "kode_wilayah": "35.12.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.05"
+    }
+  ]
+}

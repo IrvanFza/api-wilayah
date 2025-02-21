@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Londalusi",
+      "kode_wilayah": "53.14.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.06"
+    },
+    {
+      "nama_wilayah": "Mukekuku",
+      "kode_wilayah": "53.14.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.06"
+    },
+    {
+      "nama_wilayah": "Faifua",
+      "kode_wilayah": "53.14.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.06"
+    },
+    {
+      "nama_wilayah": "Hundihopo",
+      "kode_wilayah": "53.14.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.06"
+    },
+    {
+      "nama_wilayah": "Serubeba",
+      "kode_wilayah": "53.14.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.06"
+    },
+    {
+      "nama_wilayah": "Lakamola",
+      "kode_wilayah": "53.14.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.06"
+    },
+    {
+      "nama_wilayah": "Matasio",
+      "kode_wilayah": "53.14.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.06"
+    },
+    {
+      "nama_wilayah": "Pengodua",
+      "kode_wilayah": "53.14.06.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.06"
+    },
+    {
+      "nama_wilayah": "Batefalu",
+      "kode_wilayah": "53.14.06.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.06"
+    },
+    {
+      "nama_wilayah": "Papela",
+      "kode_wilayah": "53.14.06.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.06"
+    },
+    {
+      "nama_wilayah": "Matanae",
+      "kode_wilayah": "53.14.06.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.06"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Moning",
+      "kode_wilayah": "81.08.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.15"
+    },
+    {
+      "nama_wilayah": "Arwala",
+      "kode_wilayah": "81.08.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.15"
+    },
+    {
+      "nama_wilayah": "Ilway",
+      "kode_wilayah": "81.08.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.15"
+    },
+    {
+      "nama_wilayah": "Kahilin",
+      "kode_wilayah": "81.08.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.15"
+    },
+    {
+      "nama_wilayah": "Ilpokil",
+      "kode_wilayah": "81.08.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.15"
+    },
+    {
+      "nama_wilayah": "Tomliapat",
+      "kode_wilayah": "81.08.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.15"
+    }
+  ]
+}

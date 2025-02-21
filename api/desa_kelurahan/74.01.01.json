@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "19 Nopember",
+      "kode_wilayah": "74.01.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.01"
+    },
+    {
+      "nama_wilayah": "Wundulako",
+      "kode_wilayah": "74.01.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.01"
+    },
+    {
+      "nama_wilayah": "Lamekongga",
+      "kode_wilayah": "74.01.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.01"
+    },
+    {
+      "nama_wilayah": "Kowioha",
+      "kode_wilayah": "74.01.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.01"
+    },
+    {
+      "nama_wilayah": "Silea",
+      "kode_wilayah": "74.01.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.01"
+    },
+    {
+      "nama_wilayah": "Ngapa",
+      "kode_wilayah": "74.01.01.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.01"
+    },
+    {
+      "nama_wilayah": "Towua",
+      "kode_wilayah": "74.01.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.01"
+    },
+    {
+      "nama_wilayah": "Bende",
+      "kode_wilayah": "74.01.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.01"
+    },
+    {
+      "nama_wilayah": "Unamendaa",
+      "kode_wilayah": "74.01.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.01"
+    },
+    {
+      "nama_wilayah": "Tikonu",
+      "kode_wilayah": "74.01.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.01"
+    },
+    {
+      "nama_wilayah": "Sabiano",
+      "kode_wilayah": "74.01.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.01"
+    }
+  ]
+}

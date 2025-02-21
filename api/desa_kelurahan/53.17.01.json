@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Makata Keri",
+      "kode_wilayah": "53.17.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.17",
+      "kode_kecamatan": "53.17.01"
+    },
+    {
+      "nama_wilayah": "Kabela Wuntu",
+      "kode_wilayah": "53.17.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.17",
+      "kode_kecamatan": "53.17.01"
+    },
+    {
+      "nama_wilayah": "Mata Woga",
+      "kode_wilayah": "53.17.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.17",
+      "kode_kecamatan": "53.17.01"
+    },
+    {
+      "nama_wilayah": "Umbu Riri",
+      "kode_wilayah": "53.17.01.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.17",
+      "kode_kecamatan": "53.17.01"
+    },
+    {
+      "nama_wilayah": "Anakalang",
+      "kode_wilayah": "53.17.01.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.17",
+      "kode_kecamatan": "53.17.01"
+    },
+    {
+      "nama_wilayah": "Dewa Jara",
+      "kode_wilayah": "53.17.01.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.17",
+      "kode_kecamatan": "53.17.01"
+    },
+    {
+      "nama_wilayah": "Mata Redi",
+      "kode_wilayah": "53.17.01.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.17",
+      "kode_kecamatan": "53.17.01"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tumbang Baraoi",
+      "kode_wilayah": "62.06.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.12"
+    },
+    {
+      "nama_wilayah": "Tumbang Jala",
+      "kode_wilayah": "62.06.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.12"
+    },
+    {
+      "nama_wilayah": "Batu Badak",
+      "kode_wilayah": "62.06.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.12"
+    },
+    {
+      "nama_wilayah": "Batu Tukan",
+      "kode_wilayah": "62.06.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.12"
+    },
+    {
+      "nama_wilayah": "Tumbang Tangoi",
+      "kode_wilayah": "62.06.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.12"
+    },
+    {
+      "nama_wilayah": "Nusa Kutau",
+      "kode_wilayah": "62.06.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.12"
+    },
+    {
+      "nama_wilayah": "Tumbang Habangoi",
+      "kode_wilayah": "62.06.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.12"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Te-olo",
+      "kode_wilayah": "12.24.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.08"
+    },
+    {
+      "nama_wilayah": "Siwawo",
+      "kode_wilayah": "12.24.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.08"
+    },
+    {
+      "nama_wilayah": "Fabaliwa Oyo",
+      "kode_wilayah": "12.24.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.08"
+    },
+    {
+      "nama_wilayah": "Ononazara",
+      "kode_wilayah": "12.24.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.08"
+    },
+    {
+      "nama_wilayah": "Humene Siheneasi",
+      "kode_wilayah": "12.24.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.08"
+    },
+    {
+      "nama_wilayah": "Gunung Tua",
+      "kode_wilayah": "12.24.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.08"
+    },
+    {
+      "nama_wilayah": "Botona-ai",
+      "kode_wilayah": "12.24.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.08"
+    },
+    {
+      "nama_wilayah": "Harefa",
+      "kode_wilayah": "12.24.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.08"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Kuala Baru Laut",
+      "kode_wilayah": "11.10.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.14"
+    },
+    {
+      "nama_wilayah": "Kuala Baru Sungai",
+      "kode_wilayah": "11.10.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.14"
+    },
+    {
+      "nama_wilayah": "Suka Jaya",
+      "kode_wilayah": "11.10.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.14"
+    },
+    {
+      "nama_wilayah": "Kayu Menang",
+      "kode_wilayah": "11.10.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.14"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Negeri Ratu Ngaras",
+      "kode_wilayah": "18.13.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.10"
+    },
+    {
+      "nama_wilayah": "Kota Batu",
+      "kode_wilayah": "18.13.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.10"
+    },
+    {
+      "nama_wilayah": "Mulang Maya",
+      "kode_wilayah": "18.13.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.10"
+    },
+    {
+      "nama_wilayah": "Raja Basa",
+      "kode_wilayah": "18.13.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.10"
+    },
+    {
+      "nama_wilayah": "Parda Suka",
+      "kode_wilayah": "18.13.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.10"
+    },
+    {
+      "nama_wilayah": "Padang Dalam",
+      "kode_wilayah": "18.13.10.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.10"
+    },
+    {
+      "nama_wilayah": "Suka Maju",
+      "kode_wilayah": "18.13.10.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.10"
+    },
+    {
+      "nama_wilayah": "Sukarame",
+      "kode_wilayah": "18.13.10.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.10"
+    },
+    {
+      "nama_wilayah": "Bandar Jaya",
+      "kode_wilayah": "18.13.10.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.10"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Grogol",
+      "kode_wilayah": "31.73.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.02"
+    },
+    {
+      "nama_wilayah": "Tanjung Duren Utara",
+      "kode_wilayah": "31.73.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.02"
+    },
+    {
+      "nama_wilayah": "Tomang",
+      "kode_wilayah": "31.73.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.02"
+    },
+    {
+      "nama_wilayah": "Jelambar",
+      "kode_wilayah": "31.73.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.02"
+    },
+    {
+      "nama_wilayah": "Tanjung Duren Selatan",
+      "kode_wilayah": "31.73.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.02"
+    },
+    {
+      "nama_wilayah": "Jelambar Baru",
+      "kode_wilayah": "31.73.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.02"
+    },
+    {
+      "nama_wilayah": "Wijaya Kusuma",
+      "kode_wilayah": "31.73.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.02"
+    }
+  ]
+}

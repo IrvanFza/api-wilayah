@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Agung",
+      "kode_wilayah": "17.07.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.09"
+    },
+    {
+      "nama_wilayah": "Sukau Datang",
+      "kode_wilayah": "17.07.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.09"
+    },
+    {
+      "nama_wilayah": "Sukau Datang I",
+      "kode_wilayah": "17.07.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.09"
+    },
+    {
+      "nama_wilayah": "Gunung Alam",
+      "kode_wilayah": "17.07.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.09"
+    },
+    {
+      "nama_wilayah": "Tabeak Blau II",
+      "kode_wilayah": "17.07.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.09"
+    },
+    {
+      "nama_wilayah": "Kota Baru Santan",
+      "kode_wilayah": "17.07.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.09"
+    },
+    {
+      "nama_wilayah": "Tik Teleu",
+      "kode_wilayah": "17.07.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.09"
+    },
+    {
+      "nama_wilayah": "Pelabai",
+      "kode_wilayah": "17.07.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.09"
+    }
+  ]
+}

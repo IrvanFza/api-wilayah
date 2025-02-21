@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Taman",
+      "kode_wilayah": "35.11.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.21"
+    },
+    {
+      "nama_wilayah": "Gentong",
+      "kode_wilayah": "35.11.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.21"
+    },
+    {
+      "nama_wilayah": "Kemuningan",
+      "kode_wilayah": "35.11.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.21"
+    },
+    {
+      "nama_wilayah": "Trebungan",
+      "kode_wilayah": "35.11.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.21"
+    },
+    {
+      "nama_wilayah": "Sumberkokap",
+      "kode_wilayah": "35.11.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.21"
+    },
+    {
+      "nama_wilayah": "Paguan",
+      "kode_wilayah": "35.11.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.21"
+    },
+    {
+      "nama_wilayah": "Kretek",
+      "kode_wilayah": "35.11.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.21"
+    }
+  ]
+}

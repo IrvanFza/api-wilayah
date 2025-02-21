@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Kedurang",
+      "kode_wilayah": "17.01.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.01",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Seginim",
+      "kode_wilayah": "17.01.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.01",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Pino",
+      "kode_wilayah": "17.01.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.01",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Manna",
+      "kode_wilayah": "17.01.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.01",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Kota Manna",
+      "kode_wilayah": "17.01.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.01",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Pino Raya",
+      "kode_wilayah": "17.01.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.01",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Kedurang Ilir",
+      "kode_wilayah": "17.01.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.01",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Air Nipis",
+      "kode_wilayah": "17.01.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.01",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Ulu Manna",
+      "kode_wilayah": "17.01.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.01",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Bunga Mas",
+      "kode_wilayah": "17.01.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.01",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Pasar Manna",
+      "kode_wilayah": "17.01.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.01",
+      "kode_provinsi": "17"
+    }
+  ]
+}

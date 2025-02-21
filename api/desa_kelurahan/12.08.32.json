@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Raya Huluan",
+      "kode_wilayah": "12.08.32.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.32"
+    },
+    {
+      "nama_wilayah": "Dolog Huluan",
+      "kode_wilayah": "12.08.32.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.32"
+    },
+    {
+      "nama_wilayah": "Bintang Mariah",
+      "kode_wilayah": "12.08.32.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.32"
+    },
+    {
+      "nama_wilayah": "Bah Bolon",
+      "kode_wilayah": "12.08.32.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.32"
+    },
+    {
+      "nama_wilayah": "Raya Usang",
+      "kode_wilayah": "12.08.32.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.32"
+    },
+    {
+      "nama_wilayah": "Bangun Pane",
+      "kode_wilayah": "12.08.32.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.32"
+    },
+    {
+      "nama_wilayah": "Parjalangan",
+      "kode_wilayah": "12.08.32.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.32"
+    },
+    {
+      "nama_wilayah": "Partuahan",
+      "kode_wilayah": "12.08.32.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.32"
+    },
+    {
+      "nama_wilayah": "Sinaman Labah",
+      "kode_wilayah": "12.08.32.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.32"
+    },
+    {
+      "nama_wilayah": "Pamatang Sinaman",
+      "kode_wilayah": "12.08.32.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.32"
+    }
+  ]
+}

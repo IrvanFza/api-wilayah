@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Sumberrahayu",
+      "kode_wilayah": "34.04.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.03"
+    },
+    {
+      "nama_wilayah": "Sumbersari",
+      "kode_wilayah": "34.04.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.03"
+    },
+    {
+      "nama_wilayah": "Sumberagung",
+      "kode_wilayah": "34.04.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.03"
+    },
+    {
+      "nama_wilayah": "Sumberarum",
+      "kode_wilayah": "34.04.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.03"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Keparakan",
+      "kode_wilayah": "34.71.12.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.71",
+      "kode_kecamatan": "34.71.12"
+    },
+    {
+      "nama_wilayah": "Wirogunan",
+      "kode_wilayah": "34.71.12.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.71",
+      "kode_kecamatan": "34.71.12"
+    },
+    {
+      "nama_wilayah": "Brontokusuman",
+      "kode_wilayah": "34.71.12.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.71",
+      "kode_kecamatan": "34.71.12"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Duri",
+      "kode_wilayah": "61.07.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.01"
+    },
+    {
+      "nama_wilayah": "Sungai Jaga A",
+      "kode_wilayah": "61.07.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.01"
+    },
+    {
+      "nama_wilayah": "Sungai Jaga B",
+      "kode_wilayah": "61.07.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.01"
+    },
+    {
+      "nama_wilayah": "Sungai Pangkalan I",
+      "kode_wilayah": "61.07.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.01"
+    },
+    {
+      "nama_wilayah": "Sungai Pangkalan II",
+      "kode_wilayah": "61.07.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.01"
+    }
+  ]
+}

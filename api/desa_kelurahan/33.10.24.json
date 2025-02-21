@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Barenglor",
+      "kode_wilayah": "33.10.24.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.10",
+      "kode_kecamatan": "33.10.24"
+    },
+    {
+      "nama_wilayah": "Gergunung",
+      "kode_wilayah": "33.10.24.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.10",
+      "kode_kecamatan": "33.10.24"
+    },
+    {
+      "nama_wilayah": "Sekarsuli",
+      "kode_wilayah": "33.10.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.10",
+      "kode_kecamatan": "33.10.24"
+    },
+    {
+      "nama_wilayah": "Karanganom",
+      "kode_wilayah": "33.10.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.10",
+      "kode_kecamatan": "33.10.24"
+    },
+    {
+      "nama_wilayah": "Ketandan",
+      "kode_wilayah": "33.10.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.10",
+      "kode_kecamatan": "33.10.24"
+    },
+    {
+      "nama_wilayah": "Belangwetan",
+      "kode_wilayah": "33.10.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.10",
+      "kode_kecamatan": "33.10.24"
+    },
+    {
+      "nama_wilayah": "Jonggrangan",
+      "kode_wilayah": "33.10.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.10",
+      "kode_kecamatan": "33.10.24"
+    },
+    {
+      "nama_wilayah": "Jebugan",
+      "kode_wilayah": "33.10.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.10",
+      "kode_kecamatan": "33.10.24"
+    }
+  ]
+}

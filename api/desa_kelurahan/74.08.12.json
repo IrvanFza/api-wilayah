@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Porehu",
+      "kode_wilayah": "74.08.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.12"
+    },
+    {
+      "nama_wilayah": "Tobela",
+      "kode_wilayah": "74.08.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.12"
+    },
+    {
+      "nama_wilayah": "Tanggaruru",
+      "kode_wilayah": "74.08.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.12"
+    },
+    {
+      "nama_wilayah": "Ponggi",
+      "kode_wilayah": "74.08.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.12"
+    },
+    {
+      "nama_wilayah": "Larui",
+      "kode_wilayah": "74.08.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.12"
+    },
+    {
+      "nama_wilayah": "Bangsala",
+      "kode_wilayah": "74.08.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.12"
+    },
+    {
+      "nama_wilayah": "Sarambu",
+      "kode_wilayah": "74.08.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.12"
+    },
+    {
+      "nama_wilayah": "Tinuna",
+      "kode_wilayah": "74.08.12.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.12"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Waraka",
+      "kode_wilayah": "81.01.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.21"
+    },
+    {
+      "nama_wilayah": "Tananahu",
+      "kode_wilayah": "81.01.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.21"
+    },
+    {
+      "nama_wilayah": "Liang",
+      "kode_wilayah": "81.01.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.21"
+    },
+    {
+      "nama_wilayah": "Sahulauw",
+      "kode_wilayah": "81.01.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.21"
+    }
+  ]
+}

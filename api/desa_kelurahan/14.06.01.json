@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Ujung Batu",
+      "kode_wilayah": "14.06.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.01"
+    },
+    {
+      "nama_wilayah": "Suka Damai",
+      "kode_wilayah": "14.06.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.01"
+    },
+    {
+      "nama_wilayah": "Ngaso",
+      "kode_wilayah": "14.06.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.01"
+    },
+    {
+      "nama_wilayah": "Ujung Batu Timur",
+      "kode_wilayah": "14.06.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.01"
+    },
+    {
+      "nama_wilayah": "Pematang Tebih",
+      "kode_wilayah": "14.06.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.01"
+    }
+  ]
+}

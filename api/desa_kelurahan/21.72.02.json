@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Melayu Kota Piring",
+      "kode_wilayah": "21.72.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.72",
+      "kode_kecamatan": "21.72.02"
+    },
+    {
+      "nama_wilayah": "Kampung Bulang",
+      "kode_wilayah": "21.72.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.72",
+      "kode_kecamatan": "21.72.02"
+    },
+    {
+      "nama_wilayah": "Air Raja",
+      "kode_wilayah": "21.72.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.72",
+      "kode_kecamatan": "21.72.02"
+    },
+    {
+      "nama_wilayah": "Batu IX",
+      "kode_wilayah": "21.72.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.72",
+      "kode_kecamatan": "21.72.02"
+    },
+    {
+      "nama_wilayah": "Pinang Kencana",
+      "kode_wilayah": "21.72.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.72",
+      "kode_kecamatan": "21.72.02"
+    }
+  ]
+}

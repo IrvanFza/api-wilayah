@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Malino",
+      "kode_wilayah": "73.06.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.04"
+    },
+    {
+      "nama_wilayah": "Buluttana",
+      "kode_wilayah": "73.06.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.04"
+    },
+    {
+      "nama_wilayah": "Gantarang",
+      "kode_wilayah": "73.06.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.04"
+    },
+    {
+      "nama_wilayah": "Pattapang",
+      "kode_wilayah": "73.06.04.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.04"
+    },
+    {
+      "nama_wilayah": "Bonto Lerung",
+      "kode_wilayah": "73.06.04.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.04"
+    },
+    {
+      "nama_wilayah": "Garassi",
+      "kode_wilayah": "73.06.04.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.04"
+    },
+    {
+      "nama_wilayah": "Parigi",
+      "kode_wilayah": "73.06.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.04"
+    }
+  ]
+}

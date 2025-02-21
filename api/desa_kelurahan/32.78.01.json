@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Yudanagara",
+      "kode_wilayah": "32.78.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.01"
+    },
+    {
+      "nama_wilayah": "Nagarawangi",
+      "kode_wilayah": "32.78.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.01"
+    },
+    {
+      "nama_wilayah": "Cilembang",
+      "kode_wilayah": "32.78.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.01"
+    },
+    {
+      "nama_wilayah": "Argasari",
+      "kode_wilayah": "32.78.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.01"
+    },
+    {
+      "nama_wilayah": "Tugujaya",
+      "kode_wilayah": "32.78.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.01"
+    },
+    {
+      "nama_wilayah": "Tuguraja",
+      "kode_wilayah": "32.78.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.01"
+    }
+  ]
+}

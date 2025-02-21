@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Silian",
+      "kode_wilayah": "71.07.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.08"
+    },
+    {
+      "nama_wilayah": "Silian Utara",
+      "kode_wilayah": "71.07.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.08"
+    },
+    {
+      "nama_wilayah": "Silian Satu",
+      "kode_wilayah": "71.07.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.08"
+    },
+    {
+      "nama_wilayah": "Silian Selatan",
+      "kode_wilayah": "71.07.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.08"
+    },
+    {
+      "nama_wilayah": "Silian Dua",
+      "kode_wilayah": "71.07.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.08"
+    },
+    {
+      "nama_wilayah": "Silian Tengah",
+      "kode_wilayah": "71.07.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.08"
+    },
+    {
+      "nama_wilayah": "Silian Tiga",
+      "kode_wilayah": "71.07.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.08"
+    },
+    {
+      "nama_wilayah": "Silian Barat",
+      "kode_wilayah": "71.07.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.08"
+    },
+    {
+      "nama_wilayah": "Silian Kota",
+      "kode_wilayah": "71.07.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.08"
+    },
+    {
+      "nama_wilayah": "Silian Timur",
+      "kode_wilayah": "71.07.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.08"
+    }
+  ]
+}

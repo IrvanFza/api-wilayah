@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Sukajeruk",
+      "kode_wilayah": "35.29.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.23"
+    },
+    {
+      "nama_wilayah": "Masalima",
+      "kode_wilayah": "35.29.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.23"
+    },
+    {
+      "nama_wilayah": "Masakambing",
+      "kode_wilayah": "35.29.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.23"
+    },
+    {
+      "nama_wilayah": "Kramian",
+      "kode_wilayah": "35.29.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.23"
+    }
+  ]
+}

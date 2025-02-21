@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Bereng Bengkel",
+      "kode_wilayah": "62.71.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.04"
+    },
+    {
+      "nama_wilayah": "Kalampangan",
+      "kode_wilayah": "62.71.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.04"
+    },
+    {
+      "nama_wilayah": "Kereng Bangkirai",
+      "kode_wilayah": "62.71.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.04"
+    },
+    {
+      "nama_wilayah": "Kameloh Baru",
+      "kode_wilayah": "62.71.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.04"
+    },
+    {
+      "nama_wilayah": "Danau Tundai",
+      "kode_wilayah": "62.71.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.04"
+    },
+    {
+      "nama_wilayah": "Sabaru",
+      "kode_wilayah": "62.71.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.04"
+    }
+  ]
+}

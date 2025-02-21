@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Fak Fak Selatan",
+      "kode_wilayah": "92.03.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.01"
+    },
+    {
+      "nama_wilayah": "Fak Fak Utara",
+      "kode_wilayah": "92.03.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.01"
+    },
+    {
+      "nama_wilayah": "Gewerpe",
+      "kode_wilayah": "92.03.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.01"
+    },
+    {
+      "nama_wilayah": "Lusi Peri",
+      "kode_wilayah": "92.03.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.01"
+    },
+    {
+      "nama_wilayah": "Wrikapal",
+      "kode_wilayah": "92.03.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.01"
+    }
+  ]
+}

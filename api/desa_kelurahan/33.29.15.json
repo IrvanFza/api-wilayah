@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Kamal",
+      "kode_wilayah": "33.29.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.15"
+    },
+    {
+      "nama_wilayah": "Karangbale",
+      "kode_wilayah": "33.29.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.15"
+    },
+    {
+      "nama_wilayah": "Kedungbokor",
+      "kode_wilayah": "33.29.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.15"
+    },
+    {
+      "nama_wilayah": "Larangan",
+      "kode_wilayah": "33.29.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.15"
+    },
+    {
+      "nama_wilayah": "Luwunggede",
+      "kode_wilayah": "33.29.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.15"
+    },
+    {
+      "nama_wilayah": "Pamulihan",
+      "kode_wilayah": "33.29.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.15"
+    },
+    {
+      "nama_wilayah": "Rengaspendawa",
+      "kode_wilayah": "33.29.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.15"
+    },
+    {
+      "nama_wilayah": "Sitanggal",
+      "kode_wilayah": "33.29.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.15"
+    },
+    {
+      "nama_wilayah": "Slatri",
+      "kode_wilayah": "33.29.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.15"
+    },
+    {
+      "nama_wilayah": "Wlahar",
+      "kode_wilayah": "33.29.15.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.15"
+    },
+    {
+      "nama_wilayah": "Siandong",
+      "kode_wilayah": "33.29.15.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.15"
+    }
+  ]
+}

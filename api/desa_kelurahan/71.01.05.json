@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Ayong",
+      "kode_wilayah": "71.01.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.05"
+    },
+    {
+      "nama_wilayah": "Babo",
+      "kode_wilayah": "71.01.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.05"
+    },
+    {
+      "nama_wilayah": "Bolangat",
+      "kode_wilayah": "71.01.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.05"
+    },
+    {
+      "nama_wilayah": "Maelang",
+      "kode_wilayah": "71.01.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.05"
+    },
+    {
+      "nama_wilayah": "Domisil Moonow",
+      "kode_wilayah": "71.01.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.05"
+    },
+    {
+      "nama_wilayah": "Pangi",
+      "kode_wilayah": "71.01.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.05"
+    },
+    {
+      "nama_wilayah": "Lolanan",
+      "kode_wilayah": "71.01.05.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.05"
+    },
+    {
+      "nama_wilayah": "Cempaka",
+      "kode_wilayah": "71.01.05.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.05"
+    },
+    {
+      "nama_wilayah": "Batu Merah",
+      "kode_wilayah": "71.01.05.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.05"
+    },
+    {
+      "nama_wilayah": "Pasir Putih",
+      "kode_wilayah": "71.01.05.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.05"
+    },
+    {
+      "nama_wilayah": "Pangi Timur",
+      "kode_wilayah": "71.01.05.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.05"
+    },
+    {
+      "nama_wilayah": "Bolangat Timur",
+      "kode_wilayah": "71.01.05.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.05"
+    }
+  ]
+}

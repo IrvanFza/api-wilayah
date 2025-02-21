@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tana Righu",
+      "kode_wilayah": "53.12.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.12",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Loli",
+      "kode_wilayah": "53.12.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.12",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Wanokaka",
+      "kode_wilayah": "53.12.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.12",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Lamboya",
+      "kode_wilayah": "53.12.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.12",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Kota Waikabubak",
+      "kode_wilayah": "53.12.15",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.12",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Laboya Barat",
+      "kode_wilayah": "53.12.18",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.12",
+      "kode_provinsi": "53"
+    }
+  ]
+}

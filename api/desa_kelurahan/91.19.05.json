@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Waryei",
+      "kode_wilayah": "91.19.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.05"
+    },
+    {
+      "nama_wilayah": "Koiryakam",
+      "kode_wilayah": "91.19.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.05"
+    },
+    {
+      "nama_wilayah": "Wayori",
+      "kode_wilayah": "91.19.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.05"
+    },
+    {
+      "nama_wilayah": "Amyas",
+      "kode_wilayah": "91.19.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.05"
+    },
+    {
+      "nama_wilayah": "Napisndi",
+      "kode_wilayah": "91.19.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.05"
+    },
+    {
+      "nama_wilayah": "Masyai",
+      "kode_wilayah": "91.19.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.05"
+    },
+    {
+      "nama_wilayah": "Mapia",
+      "kode_wilayah": "91.19.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.05"
+    }
+  ]
+}

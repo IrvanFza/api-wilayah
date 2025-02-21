@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Rowogempol",
+      "kode_wilayah": "35.14.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.14",
+      "kode_kecamatan": "35.14.22"
+    },
+    {
+      "nama_wilayah": "Gejugjati",
+      "kode_wilayah": "35.14.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.14",
+      "kode_kecamatan": "35.14.22"
+    },
+    {
+      "nama_wilayah": "Alas Tlogo",
+      "kode_wilayah": "35.14.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.14",
+      "kode_kecamatan": "35.14.22"
+    },
+    {
+      "nama_wilayah": "Balonganyar",
+      "kode_wilayah": "35.14.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.14",
+      "kode_kecamatan": "35.14.22"
+    },
+    {
+      "nama_wilayah": "Branang",
+      "kode_wilayah": "35.14.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.14",
+      "kode_kecamatan": "35.14.22"
+    },
+    {
+      "nama_wilayah": "Tampung",
+      "kode_wilayah": "35.14.22.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.14",
+      "kode_kecamatan": "35.14.22"
+    },
+    {
+      "nama_wilayah": "Tambaklekok",
+      "kode_wilayah": "35.14.22.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.14",
+      "kode_kecamatan": "35.14.22"
+    },
+    {
+      "nama_wilayah": "Jatirejo",
+      "kode_wilayah": "35.14.22.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.14",
+      "kode_kecamatan": "35.14.22"
+    },
+    {
+      "nama_wilayah": "Pasinan",
+      "kode_wilayah": "35.14.22.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.14",
+      "kode_kecamatan": "35.14.22"
+    },
+    {
+      "nama_wilayah": "Wates",
+      "kode_wilayah": "35.14.22.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.14",
+      "kode_kecamatan": "35.14.22"
+    },
+    {
+      "nama_wilayah": "Semedusari",
+      "kode_wilayah": "35.14.22.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.14",
+      "kode_kecamatan": "35.14.22"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Linawan",
+      "kode_wilayah": "71.11.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.11",
+      "kode_kecamatan": "71.11.03"
+    },
+    {
+      "nama_wilayah": "Nunuk",
+      "kode_wilayah": "71.11.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.11",
+      "kode_kecamatan": "71.11.03"
+    },
+    {
+      "nama_wilayah": "Pinolosian",
+      "kode_wilayah": "71.11.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.11",
+      "kode_kecamatan": "71.11.03"
+    },
+    {
+      "nama_wilayah": "Kombot",
+      "kode_wilayah": "71.11.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.11",
+      "kode_kecamatan": "71.11.03"
+    },
+    {
+      "nama_wilayah": "Lungkap",
+      "kode_wilayah": "71.11.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.11",
+      "kode_kecamatan": "71.11.03"
+    },
+    {
+      "nama_wilayah": "Ilomata",
+      "kode_wilayah": "71.11.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.11",
+      "kode_kecamatan": "71.11.03"
+    },
+    {
+      "nama_wilayah": "Linawan I",
+      "kode_wilayah": "71.11.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.11",
+      "kode_kecamatan": "71.11.03"
+    },
+    {
+      "nama_wilayah": "Tolotoyon",
+      "kode_wilayah": "71.11.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.11",
+      "kode_kecamatan": "71.11.03"
+    },
+    {
+      "nama_wilayah": "Pinolosian Selatan",
+      "kode_wilayah": "71.11.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.11",
+      "kode_kecamatan": "71.11.03"
+    },
+    {
+      "nama_wilayah": "Kombot Timur",
+      "kode_wilayah": "71.11.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.11",
+      "kode_kecamatan": "71.11.03"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Tiga",
+      "kode_wilayah": "16.03.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.10"
+    },
+    {
+      "nama_wilayah": "Cahaya Alam",
+      "kode_wilayah": "16.03.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.10"
+    },
+    {
+      "nama_wilayah": "Datar Lebar",
+      "kode_wilayah": "16.03.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.10"
+    },
+    {
+      "nama_wilayah": "Segamit",
+      "kode_wilayah": "16.03.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.10"
+    },
+    {
+      "nama_wilayah": "Siring Agung",
+      "kode_wilayah": "16.03.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.10"
+    },
+    {
+      "nama_wilayah": "Aremantai",
+      "kode_wilayah": "16.03.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.10"
+    },
+    {
+      "nama_wilayah": "Tanjung Agung",
+      "kode_wilayah": "16.03.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.10"
+    },
+    {
+      "nama_wilayah": "Pajar Bulan",
+      "kode_wilayah": "16.03.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.10"
+    },
+    {
+      "nama_wilayah": "Pelakat",
+      "kode_wilayah": "16.03.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.10"
+    },
+    {
+      "nama_wilayah": "Danau Gerak",
+      "kode_wilayah": "16.03.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.10"
+    }
+  ]
+}

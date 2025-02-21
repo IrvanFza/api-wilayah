@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Banyurasa",
+      "kode_wilayah": "32.06.33.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.33"
+    },
+    {
+      "nama_wilayah": "Calingcing",
+      "kode_wilayah": "32.06.33.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.33"
+    },
+    {
+      "nama_wilayah": "Sukahening",
+      "kode_wilayah": "32.06.33.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.33"
+    },
+    {
+      "nama_wilayah": "Kiarajangkung",
+      "kode_wilayah": "32.06.33.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.33"
+    },
+    {
+      "nama_wilayah": "Kudadepa",
+      "kode_wilayah": "32.06.33.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.33"
+    },
+    {
+      "nama_wilayah": "Banyuresmi",
+      "kode_wilayah": "32.06.33.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.33"
+    },
+    {
+      "nama_wilayah": "Sundakerta",
+      "kode_wilayah": "32.06.33.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.33"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Kebondalem",
+      "kode_wilayah": "35.01.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.09"
+    },
+    {
+      "nama_wilayah": "Gedangan",
+      "kode_wilayah": "35.01.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.09"
+    },
+    {
+      "nama_wilayah": "Ngreco",
+      "kode_wilayah": "35.01.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.09"
+    },
+    {
+      "nama_wilayah": "Kasihan",
+      "kode_wilayah": "35.01.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.09"
+    },
+    {
+      "nama_wilayah": "Pucangombo",
+      "kode_wilayah": "35.01.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.09"
+    },
+    {
+      "nama_wilayah": "Gemaharjo",
+      "kode_wilayah": "35.01.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.09"
+    },
+    {
+      "nama_wilayah": "Ploso",
+      "kode_wilayah": "35.01.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.09"
+    },
+    {
+      "nama_wilayah": "Tegalombo",
+      "kode_wilayah": "35.01.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.09"
+    },
+    {
+      "nama_wilayah": "Kemuning",
+      "kode_wilayah": "35.01.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.09"
+    },
+    {
+      "nama_wilayah": "Tahunan",
+      "kode_wilayah": "35.01.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.09"
+    },
+    {
+      "nama_wilayah": "Tahunan Baru",
+      "kode_wilayah": "35.01.09.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.09"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Metro",
+      "kode_wilayah": "18.72.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.72",
+      "kode_kecamatan": "18.72.01"
+    },
+    {
+      "nama_wilayah": "Hadimulyo Timur",
+      "kode_wilayah": "18.72.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.72",
+      "kode_kecamatan": "18.72.01"
+    },
+    {
+      "nama_wilayah": "Imopuro",
+      "kode_wilayah": "18.72.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.72",
+      "kode_kecamatan": "18.72.01"
+    },
+    {
+      "nama_wilayah": "Hadimulyo Barat",
+      "kode_wilayah": "18.72.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.72",
+      "kode_kecamatan": "18.72.01"
+    },
+    {
+      "nama_wilayah": "Yosomulyo",
+      "kode_wilayah": "18.72.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.72",
+      "kode_kecamatan": "18.72.01"
+    }
+  ]
+}

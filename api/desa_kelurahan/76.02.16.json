@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "total": 2,
+  "data": [
+    {
+      "nama_wilayah": "Bala Balakang",
+      "kode_wilayah": "76.02.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.16"
+    },
+    {
+      "nama_wilayah": "Bala-Balakang Timur",
+      "kode_wilayah": "76.02.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.16"
+    }
+  ]
+}

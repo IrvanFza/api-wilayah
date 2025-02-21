@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Dubu",
+      "kode_wilayah": "91.11.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.11",
+      "kode_kecamatan": "91.11.04"
+    },
+    {
+      "nama_wilayah": "Umuraf",
+      "kode_wilayah": "91.11.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.11",
+      "kode_kecamatan": "91.11.04"
+    },
+    {
+      "nama_wilayah": "Semografi",
+      "kode_wilayah": "91.11.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.11",
+      "kode_kecamatan": "91.11.04"
+    },
+    {
+      "nama_wilayah": "Embi",
+      "kode_wilayah": "91.11.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.11",
+      "kode_kecamatan": "91.11.04"
+    },
+    {
+      "nama_wilayah": "Yamraf Dua",
+      "kode_wilayah": "91.11.04.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.11",
+      "kode_kecamatan": "91.11.04"
+    },
+    {
+      "nama_wilayah": "Tatakra",
+      "kode_wilayah": "91.11.04.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.11",
+      "kode_kecamatan": "91.11.04"
+    }
+  ]
+}

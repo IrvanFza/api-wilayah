@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Air Sebakul",
+      "kode_wilayah": "17.09.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.09",
+      "kode_kecamatan": "17.09.02"
+    },
+    {
+      "nama_wilayah": "Taba Pasmah",
+      "kode_wilayah": "17.09.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.09",
+      "kode_kecamatan": "17.09.02"
+    },
+    {
+      "nama_wilayah": "Kembang Seri",
+      "kode_wilayah": "17.09.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.09",
+      "kode_kecamatan": "17.09.02"
+    },
+    {
+      "nama_wilayah": "Tengah Padang",
+      "kode_wilayah": "17.09.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.09",
+      "kode_kecamatan": "17.09.02"
+    },
+    {
+      "nama_wilayah": "Jayakarta",
+      "kode_wilayah": "17.09.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.09",
+      "kode_kecamatan": "17.09.02"
+    },
+    {
+      "nama_wilayah": "Nakau",
+      "kode_wilayah": "17.09.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.09",
+      "kode_kecamatan": "17.09.02"
+    },
+    {
+      "nama_wilayah": "Pulau Panggung",
+      "kode_wilayah": "17.09.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.09",
+      "kode_kecamatan": "17.09.02"
+    },
+    {
+      "nama_wilayah": "Jum-at",
+      "kode_wilayah": "17.09.02.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.09",
+      "kode_kecamatan": "17.09.02"
+    },
+    {
+      "nama_wilayah": "Padang Ulak Tanjung",
+      "kode_wilayah": "17.09.02.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.09",
+      "kode_kecamatan": "17.09.02"
+    },
+    {
+      "nama_wilayah": "Air Putih",
+      "kode_wilayah": "17.09.02.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.09",
+      "kode_kecamatan": "17.09.02"
+    }
+  ]
+}

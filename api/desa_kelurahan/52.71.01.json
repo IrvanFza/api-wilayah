@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Ampenan Selatan",
+      "kode_wilayah": "52.71.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.01"
+    },
+    {
+      "nama_wilayah": "Ampenan Tengah",
+      "kode_wilayah": "52.71.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.01"
+    },
+    {
+      "nama_wilayah": "Pejeruk",
+      "kode_wilayah": "52.71.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.01"
+    },
+    {
+      "nama_wilayah": "Ampenan Utara",
+      "kode_wilayah": "52.71.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.01"
+    },
+    {
+      "nama_wilayah": "Taman Sari",
+      "kode_wilayah": "52.71.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.01"
+    },
+    {
+      "nama_wilayah": "Banjar",
+      "kode_wilayah": "52.71.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.01"
+    },
+    {
+      "nama_wilayah": "Kebun Sari",
+      "kode_wilayah": "52.71.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.01"
+    },
+    {
+      "nama_wilayah": "Pajarakan Karya",
+      "kode_wilayah": "52.71.01.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.01"
+    },
+    {
+      "nama_wilayah": "Dayan Peken",
+      "kode_wilayah": "52.71.01.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.01"
+    },
+    {
+      "nama_wilayah": "Bintaro",
+      "kode_wilayah": "52.71.01.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.01"
+    }
+  ]
+}

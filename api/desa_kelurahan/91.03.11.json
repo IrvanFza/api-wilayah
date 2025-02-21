@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Lapua",
+      "kode_wilayah": "91.03.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.11"
+    },
+    {
+      "nama_wilayah": "Sebum",
+      "kode_wilayah": "91.03.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.11"
+    },
+    {
+      "nama_wilayah": "Soskotek",
+      "kode_wilayah": "91.03.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.11"
+    },
+    {
+      "nama_wilayah": "Yadauw",
+      "kode_wilayah": "91.03.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.11"
+    },
+    {
+      "nama_wilayah": "Umbron",
+      "kode_wilayah": "91.03.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.11"
+    }
+  ]
+}

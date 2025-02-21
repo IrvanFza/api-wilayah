@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Ilath",
+      "kode_wilayah": "81.04.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.10"
+    },
+    {
+      "nama_wilayah": "Batu Jungku",
+      "kode_wilayah": "81.04.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.10"
+    },
+    {
+      "nama_wilayah": "Pela",
+      "kode_wilayah": "81.04.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.10"
+    },
+    {
+      "nama_wilayah": "Waemorat",
+      "kode_wilayah": "81.04.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.10"
+    },
+    {
+      "nama_wilayah": "Namlea Ilath",
+      "kode_wilayah": "81.04.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.10"
+    }
+  ]
+}

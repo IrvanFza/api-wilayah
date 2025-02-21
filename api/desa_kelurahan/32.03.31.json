@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Haurwangi",
+      "kode_wilayah": "32.03.31.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.31"
+    },
+    {
+      "nama_wilayah": "Cihea",
+      "kode_wilayah": "32.03.31.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.31"
+    },
+    {
+      "nama_wilayah": "Ramasari",
+      "kode_wilayah": "32.03.31.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.31"
+    },
+    {
+      "nama_wilayah": "Mekarwangi/Sukatani",
+      "kode_wilayah": "32.03.31.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.31"
+    },
+    {
+      "nama_wilayah": "Mekarwangi",
+      "kode_wilayah": "32.03.31.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.31"
+    },
+    {
+      "nama_wilayah": "Kertasari",
+      "kode_wilayah": "32.03.31.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.31"
+    },
+    {
+      "nama_wilayah": "Cipeuyeum",
+      "kode_wilayah": "32.03.31.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.31"
+    },
+    {
+      "nama_wilayah": "Kertamukti",
+      "kode_wilayah": "32.03.31.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.31"
+    }
+  ]
+}

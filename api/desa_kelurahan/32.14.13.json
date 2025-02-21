@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Ciwangi",
+      "kode_wilayah": "32.14.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.13"
+    },
+    {
+      "nama_wilayah": "Cibening",
+      "kode_wilayah": "32.14.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.13"
+    },
+    {
+      "nama_wilayah": "Bungursari",
+      "kode_wilayah": "32.14.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.13"
+    },
+    {
+      "nama_wilayah": "Dangdeur",
+      "kode_wilayah": "32.14.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.13"
+    },
+    {
+      "nama_wilayah": "Cibungur",
+      "kode_wilayah": "32.14.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.13"
+    },
+    {
+      "nama_wilayah": "Wanakerta",
+      "kode_wilayah": "32.14.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.13"
+    },
+    {
+      "nama_wilayah": "Cinangka",
+      "kode_wilayah": "32.14.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.13"
+    },
+    {
+      "nama_wilayah": "Cikopo",
+      "kode_wilayah": "32.14.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.13"
+    },
+    {
+      "nama_wilayah": "Cibodas",
+      "kode_wilayah": "32.14.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.13"
+    },
+    {
+      "nama_wilayah": "Karangmukti",
+      "kode_wilayah": "32.14.13.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.13"
+    }
+  ]
+}

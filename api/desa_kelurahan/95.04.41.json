@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kaiga",
+      "kode_wilayah": "95.04.41.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.41"
+    },
+    {
+      "nama_wilayah": "Bawi",
+      "kode_wilayah": "95.04.41.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.41"
+    },
+    {
+      "nama_wilayah": "Tina",
+      "kode_wilayah": "95.04.41.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.41"
+    },
+    {
+      "nama_wilayah": "Kurbaya",
+      "kode_wilayah": "95.04.41.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.41"
+    },
+    {
+      "nama_wilayah": "Wiyangger",
+      "kode_wilayah": "95.04.41.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.41"
+    },
+    {
+      "nama_wilayah": "Again",
+      "kode_wilayah": "95.04.41.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.41"
+    },
+    {
+      "nama_wilayah": "Piraleme",
+      "kode_wilayah": "95.04.41.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.41"
+    },
+    {
+      "nama_wilayah": "Tunggunale",
+      "kode_wilayah": "95.04.41.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.41"
+    },
+    {
+      "nama_wilayah": "Kotorambur",
+      "kode_wilayah": "95.04.41.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.41"
+    },
+    {
+      "nama_wilayah": "Wolu",
+      "kode_wilayah": "95.04.41.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.41"
+    }
+  ]
+}

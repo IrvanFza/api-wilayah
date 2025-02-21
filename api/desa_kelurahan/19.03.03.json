@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Airgegas",
+      "kode_wilayah": "19.03.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.03"
+    },
+    {
+      "nama_wilayah": "Delas",
+      "kode_wilayah": "19.03.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.03"
+    },
+    {
+      "nama_wilayah": "Pergam",
+      "kode_wilayah": "19.03.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.03"
+    },
+    {
+      "nama_wilayah": "Bencah",
+      "kode_wilayah": "19.03.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.03"
+    },
+    {
+      "nama_wilayah": "Nyelanding",
+      "kode_wilayah": "19.03.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.03"
+    },
+    {
+      "nama_wilayah": "Nangka",
+      "kode_wilayah": "19.03.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.03"
+    },
+    {
+      "nama_wilayah": "Ranggas",
+      "kode_wilayah": "19.03.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.03"
+    },
+    {
+      "nama_wilayah": "Airbara",
+      "kode_wilayah": "19.03.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.03"
+    },
+    {
+      "nama_wilayah": "Sidoharjo",
+      "kode_wilayah": "19.03.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.03"
+    },
+    {
+      "nama_wilayah": "Tepus",
+      "kode_wilayah": "19.03.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.03"
+    }
+  ]
+}

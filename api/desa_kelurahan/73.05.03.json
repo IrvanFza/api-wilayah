@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Pa-bundukang",
+      "kode_wilayah": "73.05.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.03"
+    },
+    {
+      "nama_wilayah": "Pattene",
+      "kode_wilayah": "73.05.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.03"
+    },
+    {
+      "nama_wilayah": "Bontokadatto",
+      "kode_wilayah": "73.05.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.03"
+    },
+    {
+      "nama_wilayah": "Canrego",
+      "kode_wilayah": "73.05.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.03"
+    },
+    {
+      "nama_wilayah": "Bulukunyi",
+      "kode_wilayah": "73.05.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.03"
+    },
+    {
+      "nama_wilayah": "Rajaya",
+      "kode_wilayah": "73.05.03.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.03"
+    },
+    {
+      "nama_wilayah": "Moncongkomba",
+      "kode_wilayah": "73.05.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.03"
+    },
+    {
+      "nama_wilayah": "Cakura",
+      "kode_wilayah": "73.05.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.03"
+    },
+    {
+      "nama_wilayah": "Lantang",
+      "kode_wilayah": "73.05.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.03"
+    },
+    {
+      "nama_wilayah": "Su-rulangi",
+      "kode_wilayah": "73.05.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.03"
+    },
+    {
+      "nama_wilayah": "Kale Lantang",
+      "kode_wilayah": "73.05.03.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.03"
+    }
+  ]
+}

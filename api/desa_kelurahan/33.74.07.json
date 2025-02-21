@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Randusari",
+      "kode_wilayah": "33.74.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.07"
+    },
+    {
+      "nama_wilayah": "Bulustalan",
+      "kode_wilayah": "33.74.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.07"
+    },
+    {
+      "nama_wilayah": "Barusari",
+      "kode_wilayah": "33.74.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.07"
+    },
+    {
+      "nama_wilayah": "Mugasari",
+      "kode_wilayah": "33.74.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.07"
+    },
+    {
+      "nama_wilayah": "Pleburan",
+      "kode_wilayah": "33.74.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.07"
+    },
+    {
+      "nama_wilayah": "Wonodri",
+      "kode_wilayah": "33.74.07.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.07"
+    },
+    {
+      "nama_wilayah": "Peterongan",
+      "kode_wilayah": "33.74.07.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.07"
+    },
+    {
+      "nama_wilayah": "Lamper Lor",
+      "kode_wilayah": "33.74.07.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.07"
+    },
+    {
+      "nama_wilayah": "Lamper Kidul",
+      "kode_wilayah": "33.74.07.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.07"
+    },
+    {
+      "nama_wilayah": "Lamper Tengah",
+      "kode_wilayah": "33.74.07.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.07"
+    }
+  ]
+}

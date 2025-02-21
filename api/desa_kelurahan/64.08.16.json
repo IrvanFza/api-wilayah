@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Karangan Dalam",
+      "kode_wilayah": "64.08.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.16"
+    },
+    {
+      "nama_wilayah": "Batu Lepoq",
+      "kode_wilayah": "64.08.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.16"
+    },
+    {
+      "nama_wilayah": "Pengadan",
+      "kode_wilayah": "64.08.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.16"
+    },
+    {
+      "nama_wilayah": "Baay",
+      "kode_wilayah": "64.08.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.16"
+    },
+    {
+      "nama_wilayah": "Mukti Lestari",
+      "kode_wilayah": "64.08.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.16"
+    },
+    {
+      "nama_wilayah": "Karangan Seberang",
+      "kode_wilayah": "64.08.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.16"
+    },
+    {
+      "nama_wilayah": "Karangan Hilir",
+      "kode_wilayah": "64.08.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.16"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Wonoasri",
+      "kode_wilayah": "35.13.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.03"
+    },
+    {
+      "nama_wilayah": "Jatisari",
+      "kode_wilayah": "35.13.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.03"
+    },
+    {
+      "nama_wilayah": "Kedawung",
+      "kode_wilayah": "35.13.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.03"
+    },
+    {
+      "nama_wilayah": "Karangrejo",
+      "kode_wilayah": "35.13.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.03"
+    },
+    {
+      "nama_wilayah": "Resongo",
+      "kode_wilayah": "35.13.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.03"
+    },
+    {
+      "nama_wilayah": "Menyono",
+      "kode_wilayah": "35.13.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.03"
+    },
+    {
+      "nama_wilayah": "Wringinanom",
+      "kode_wilayah": "35.13.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.03"
+    }
+  ]
+}

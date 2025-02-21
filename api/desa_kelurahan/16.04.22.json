@@ -1,0 +1,166 @@
+{
+  "status": "success",
+  "total": 20,
+  "data": [
+    {
+      "nama_wilayah": "Kedaton",
+      "kode_wilayah": "16.04.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.22"
+    },
+    {
+      "nama_wilayah": "Tanjung Agung",
+      "kode_wilayah": "16.04.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.22"
+    },
+    {
+      "nama_wilayah": "Karang Agung",
+      "kode_wilayah": "16.04.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.22"
+    },
+    {
+      "nama_wilayah": "Bandung Agung",
+      "kode_wilayah": "16.04.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.22"
+    },
+    {
+      "nama_wilayah": "Lesung Batu",
+      "kode_wilayah": "16.04.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.22"
+    },
+    {
+      "nama_wilayah": "Air Lingkar",
+      "kode_wilayah": "16.04.22.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.22"
+    },
+    {
+      "nama_wilayah": "Batu Rusa",
+      "kode_wilayah": "16.04.22.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.22"
+    },
+    {
+      "nama_wilayah": "Kupang",
+      "kode_wilayah": "16.04.22.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.22"
+    },
+    {
+      "nama_wilayah": "Sawah Darat",
+      "kode_wilayah": "16.04.22.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.22"
+    },
+    {
+      "nama_wilayah": "Danau",
+      "kode_wilayah": "16.04.22.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.22"
+    },
+    {
+      "nama_wilayah": "Siring Agung",
+      "kode_wilayah": "16.04.22.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.22"
+    },
+    {
+      "nama_wilayah": "Pagar Alam",
+      "kode_wilayah": "16.04.22.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.22"
+    },
+    {
+      "nama_wilayah": "Rimba Sujud",
+      "kode_wilayah": "16.04.22.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.22"
+    },
+    {
+      "nama_wilayah": "Germidar Ilir",
+      "kode_wilayah": "16.04.22.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.22"
+    },
+    {
+      "nama_wilayah": "Pagar Gunung",
+      "kode_wilayah": "16.04.22.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.22"
+    },
+    {
+      "nama_wilayah": "Germidar Ulu",
+      "kode_wilayah": "16.04.22.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.22"
+    },
+    {
+      "nama_wilayah": "Padang Pagun",
+      "kode_wilayah": "16.04.22.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.22"
+    },
+    {
+      "nama_wilayah": "Muara Dua",
+      "kode_wilayah": "16.04.22.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.22"
+    },
+    {
+      "nama_wilayah": "Penantian",
+      "kode_wilayah": "16.04.22.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.22"
+    },
+    {
+      "nama_wilayah": "Merindu",
+      "kode_wilayah": "16.04.22.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.22"
+    }
+  ]
+}

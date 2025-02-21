@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Nagarawangi",
+      "kode_wilayah": "32.11.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.16"
+    },
+    {
+      "nama_wilayah": "Cibunar",
+      "kode_wilayah": "32.11.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.16"
+    },
+    {
+      "nama_wilayah": "Pangadegan",
+      "kode_wilayah": "32.11.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.16"
+    },
+    {
+      "nama_wilayah": "Sukahayu",
+      "kode_wilayah": "32.11.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.16"
+    },
+    {
+      "nama_wilayah": "Sukamaju",
+      "kode_wilayah": "32.11.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.16"
+    },
+    {
+      "nama_wilayah": "Pamekaran",
+      "kode_wilayah": "32.11.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.16"
+    },
+    {
+      "nama_wilayah": "Rancakalong",
+      "kode_wilayah": "32.11.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.16"
+    },
+    {
+      "nama_wilayah": "Sukasirnarasa",
+      "kode_wilayah": "32.11.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.16"
+    },
+    {
+      "nama_wilayah": "Cibungur",
+      "kode_wilayah": "32.11.16.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.16"
+    },
+    {
+      "nama_wilayah": "Pasirbiru",
+      "kode_wilayah": "32.11.16.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.16"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Dataran Tapus",
+      "kode_wilayah": "17.02.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.24"
+    },
+    {
+      "nama_wilayah": "Bandung Marga",
+      "kode_wilayah": "17.02.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.24"
+    },
+    {
+      "nama_wilayah": "Pal Seratus",
+      "kode_wilayah": "17.02.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.24"
+    },
+    {
+      "nama_wilayah": "Pal VII",
+      "kode_wilayah": "17.02.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.24"
+    },
+    {
+      "nama_wilayah": "Pal VIII",
+      "kode_wilayah": "17.02.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.24"
+    },
+    {
+      "nama_wilayah": "Tebat Tenong Luar",
+      "kode_wilayah": "17.02.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.24"
+    },
+    {
+      "nama_wilayah": "Bangun Jaya",
+      "kode_wilayah": "17.02.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.24"
+    },
+    {
+      "nama_wilayah": "Babakan Baru",
+      "kode_wilayah": "17.02.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.24"
+    },
+    {
+      "nama_wilayah": "Sumberejo Transad",
+      "kode_wilayah": "17.02.24.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.24"
+    },
+    {
+      "nama_wilayah": "Air Bening",
+      "kode_wilayah": "17.02.24.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.24"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Noling",
+      "kode_wilayah": "73.17.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.05"
+    },
+    {
+      "nama_wilayah": "Tanjong",
+      "kode_wilayah": "73.17.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.05"
+    },
+    {
+      "nama_wilayah": "Buntu Batu",
+      "kode_wilayah": "73.17.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.05"
+    },
+    {
+      "nama_wilayah": "Tampumia",
+      "kode_wilayah": "73.17.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.05"
+    },
+    {
+      "nama_wilayah": "Padang Tuju",
+      "kode_wilayah": "73.17.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.05"
+    },
+    {
+      "nama_wilayah": "Padang Kamburi",
+      "kode_wilayah": "73.17.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.05"
+    },
+    {
+      "nama_wilayah": "Malenggang",
+      "kode_wilayah": "73.17.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.05"
+    },
+    {
+      "nama_wilayah": "Balutan",
+      "kode_wilayah": "73.17.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.05"
+    },
+    {
+      "nama_wilayah": "Padang Ma-bud",
+      "kode_wilayah": "73.17.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.05"
+    },
+    {
+      "nama_wilayah": "Saluinduk",
+      "kode_wilayah": "73.17.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.05"
+    }
+  ]
+}

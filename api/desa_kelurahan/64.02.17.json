@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Sebuntal",
+      "kode_wilayah": "64.02.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.17"
+    },
+    {
+      "nama_wilayah": "Santan Ulu",
+      "kode_wilayah": "64.02.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.17"
+    },
+    {
+      "nama_wilayah": "Santan Tengah",
+      "kode_wilayah": "64.02.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.17"
+    },
+    {
+      "nama_wilayah": "Santan Ilir",
+      "kode_wilayah": "64.02.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.17"
+    },
+    {
+      "nama_wilayah": "Kersik",
+      "kode_wilayah": "64.02.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.17"
+    },
+    {
+      "nama_wilayah": "Bunga Putih",
+      "kode_wilayah": "64.02.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.17"
+    },
+    {
+      "nama_wilayah": "Makarti",
+      "kode_wilayah": "64.02.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.17"
+    },
+    {
+      "nama_wilayah": "Prangat Selatan",
+      "kode_wilayah": "64.02.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.17"
+    },
+    {
+      "nama_wilayah": "Prangat Baru",
+      "kode_wilayah": "64.02.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.17"
+    },
+    {
+      "nama_wilayah": "Semangko",
+      "kode_wilayah": "64.02.17.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.17"
+    },
+    {
+      "nama_wilayah": "Sambera Baru",
+      "kode_wilayah": "64.02.17.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.17"
+    }
+  ]
+}

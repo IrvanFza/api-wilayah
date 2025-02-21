@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Beco",
+      "kode_wilayah": "93.04.25.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.25"
+    },
+    {
+      "nama_wilayah": "Yuni",
+      "kode_wilayah": "93.04.25.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.25"
+    },
+    {
+      "nama_wilayah": "Buetkawar",
+      "kode_wilayah": "93.04.25.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.25"
+    },
+    {
+      "nama_wilayah": "Manep",
+      "kode_wilayah": "93.04.25.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.25"
+    },
+    {
+      "nama_wilayah": "Simini",
+      "kode_wilayah": "93.04.25.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.25"
+    },
+    {
+      "nama_wilayah": "Fakan/Ani",
+      "kode_wilayah": "93.04.25.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.25"
+    }
+  ]
+}

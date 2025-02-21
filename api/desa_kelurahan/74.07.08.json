@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sowa",
+      "kode_wilayah": "74.07.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.08"
+    },
+    {
+      "nama_wilayah": "Popalia",
+      "kode_wilayah": "74.07.08.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.08"
+    },
+    {
+      "nama_wilayah": "Waloindi",
+      "kode_wilayah": "74.07.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.08"
+    },
+    {
+      "nama_wilayah": "Oihu",
+      "kode_wilayah": "74.07.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.08"
+    },
+    {
+      "nama_wilayah": "Haka",
+      "kode_wilayah": "74.07.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.08"
+    }
+  ]
+}

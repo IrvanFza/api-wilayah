@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Merlung",
+      "kode_wilayah": "15.06.05.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.05"
+    },
+    {
+      "nama_wilayah": "Penyabungan",
+      "kode_wilayah": "15.06.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.05"
+    },
+    {
+      "nama_wilayah": "Lubuk Terap",
+      "kode_wilayah": "15.06.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.05"
+    },
+    {
+      "nama_wilayah": "Tanjung Paku",
+      "kode_wilayah": "15.06.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.05"
+    },
+    {
+      "nama_wilayah": "Tanjung Benanak",
+      "kode_wilayah": "15.06.05.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.05"
+    },
+    {
+      "nama_wilayah": "Bukit Harapan",
+      "kode_wilayah": "15.06.05.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.05"
+    },
+    {
+      "nama_wilayah": "Adi Purwa",
+      "kode_wilayah": "15.06.05.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.05"
+    },
+    {
+      "nama_wilayah": "Pinang Gading",
+      "kode_wilayah": "15.06.05.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.05"
+    },
+    {
+      "nama_wilayah": "Merlung",
+      "kode_wilayah": "15.06.05.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.05"
+    },
+    {
+      "nama_wilayah": "Tanjung Makmur",
+      "kode_wilayah": "15.06.05.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.05"
+    }
+  ]
+}

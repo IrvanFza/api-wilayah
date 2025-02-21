@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Wusi",
+      "kode_wilayah": "95.08.26.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.26"
+    },
+    {
+      "nama_wilayah": "Ginigit",
+      "kode_wilayah": "95.08.26.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.26"
+    },
+    {
+      "nama_wilayah": "Pijemae",
+      "kode_wilayah": "95.08.26.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.26"
+    },
+    {
+      "nama_wilayah": "Gimigip",
+      "kode_wilayah": "95.08.26.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.26"
+    }
+  ]
+}

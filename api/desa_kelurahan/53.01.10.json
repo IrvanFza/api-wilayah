@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Camplong I",
+      "kode_wilayah": "53.01.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.10"
+    },
+    {
+      "nama_wilayah": "Camplong II",
+      "kode_wilayah": "53.01.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.10"
+    },
+    {
+      "nama_wilayah": "Naunnu",
+      "kode_wilayah": "53.01.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.10"
+    },
+    {
+      "nama_wilayah": "Oebola",
+      "kode_wilayah": "53.01.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.10"
+    },
+    {
+      "nama_wilayah": "Sillu",
+      "kode_wilayah": "53.01.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.10"
+    },
+    {
+      "nama_wilayah": "Ekateta",
+      "kode_wilayah": "53.01.10.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.10"
+    },
+    {
+      "nama_wilayah": "Kuimasi",
+      "kode_wilayah": "53.01.10.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.10"
+    },
+    {
+      "nama_wilayah": "Tolnaku",
+      "kode_wilayah": "53.01.10.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.10"
+    },
+    {
+      "nama_wilayah": "Oebola Dalam",
+      "kode_wilayah": "53.01.10.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.10"
+    },
+    {
+      "nama_wilayah": "Kiuoni",
+      "kode_wilayah": "53.01.10.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.10"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Molawe",
+      "kode_wilayah": "74.09.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.04"
+    },
+    {
+      "nama_wilayah": "Bandaeha",
+      "kode_wilayah": "74.09.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.04"
+    },
+    {
+      "nama_wilayah": "Awila",
+      "kode_wilayah": "74.09.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.04"
+    },
+    {
+      "nama_wilayah": "Mowundo",
+      "kode_wilayah": "74.09.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.04"
+    },
+    {
+      "nama_wilayah": "Mandiodo",
+      "kode_wilayah": "74.09.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.04"
+    },
+    {
+      "nama_wilayah": "Tapunggaya",
+      "kode_wilayah": "74.09.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.04"
+    },
+    {
+      "nama_wilayah": "Mataiwoi",
+      "kode_wilayah": "74.09.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.04"
+    },
+    {
+      "nama_wilayah": "Awila Puncak",
+      "kode_wilayah": "74.09.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.04"
+    },
+    {
+      "nama_wilayah": "Tapuemea",
+      "kode_wilayah": "74.09.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.04"
+    }
+  ]
+}

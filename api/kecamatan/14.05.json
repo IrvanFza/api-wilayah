@@ -1,0 +1,90 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Ukui",
+      "kode_wilayah": "14.05.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "14.05",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama_wilayah": "Pangkalan Kerinci",
+      "kode_wilayah": "14.05.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "14.05",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama_wilayah": "Pangkalan Kuras",
+      "kode_wilayah": "14.05.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "14.05",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama_wilayah": "Pangkalan Lesung",
+      "kode_wilayah": "14.05.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "14.05",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama_wilayah": "Langgam",
+      "kode_wilayah": "14.05.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "14.05",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama_wilayah": "Pelalawan",
+      "kode_wilayah": "14.05.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "14.05",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama_wilayah": "Kerumutan",
+      "kode_wilayah": "14.05.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "14.05",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama_wilayah": "Bunut",
+      "kode_wilayah": "14.05.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "14.05",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama_wilayah": "Teluk Meranti",
+      "kode_wilayah": "14.05.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "14.05",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama_wilayah": "Kuala Kampar",
+      "kode_wilayah": "14.05.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "14.05",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama_wilayah": "Bandar Sei Kijang",
+      "kode_wilayah": "14.05.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "14.05",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama_wilayah": "Bandar Petalangan",
+      "kode_wilayah": "14.05.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "14.05",
+      "kode_provinsi": "14"
+    }
+  ]
+}

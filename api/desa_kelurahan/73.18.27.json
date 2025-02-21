@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Tambunan",
+      "kode_wilayah": "73.18.27.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.27"
+    },
+    {
+      "nama_wilayah": "Sarira",
+      "kode_wilayah": "73.18.27.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.27"
+    },
+    {
+      "nama_wilayah": "Bungin",
+      "kode_wilayah": "73.18.27.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.27"
+    },
+    {
+      "nama_wilayah": "Lion Tondok Iring",
+      "kode_wilayah": "73.18.27.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.27"
+    },
+    {
+      "nama_wilayah": "Lemo",
+      "kode_wilayah": "73.18.27.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.27"
+    }
+  ]
+}

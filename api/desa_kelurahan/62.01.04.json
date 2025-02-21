@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Pangkut",
+      "kode_wilayah": "62.01.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.01",
+      "kode_kecamatan": "62.01.04"
+    },
+    {
+      "nama_wilayah": "Nanga Mua",
+      "kode_wilayah": "62.01.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.01",
+      "kode_kecamatan": "62.01.04"
+    },
+    {
+      "nama_wilayah": "Sukarami",
+      "kode_wilayah": "62.01.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.01",
+      "kode_kecamatan": "62.01.04"
+    },
+    {
+      "nama_wilayah": "Gandis",
+      "kode_wilayah": "62.01.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.01",
+      "kode_kecamatan": "62.01.04"
+    },
+    {
+      "nama_wilayah": "Kerabu",
+      "kode_wilayah": "62.01.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.01",
+      "kode_kecamatan": "62.01.04"
+    },
+    {
+      "nama_wilayah": "Sambi",
+      "kode_wilayah": "62.01.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.01",
+      "kode_kecamatan": "62.01.04"
+    },
+    {
+      "nama_wilayah": "Penyombaan",
+      "kode_wilayah": "62.01.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.01",
+      "kode_kecamatan": "62.01.04"
+    },
+    {
+      "nama_wilayah": "Pandau",
+      "kode_wilayah": "62.01.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.01",
+      "kode_kecamatan": "62.01.04"
+    },
+    {
+      "nama_wilayah": "Riam",
+      "kode_wilayah": "62.01.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.01",
+      "kode_kecamatan": "62.01.04"
+    },
+    {
+      "nama_wilayah": "Panahan",
+      "kode_wilayah": "62.01.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.01",
+      "kode_kecamatan": "62.01.04"
+    },
+    {
+      "nama_wilayah": "Sungai Dau",
+      "kode_wilayah": "62.01.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.01",
+      "kode_kecamatan": "62.01.04"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Jatihandap",
+      "kode_wilayah": "32.73.30.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.30"
+    },
+    {
+      "nama_wilayah": "Karang Pamulang",
+      "kode_wilayah": "32.73.30.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.30"
+    },
+    {
+      "nama_wilayah": "Pasir Impun",
+      "kode_wilayah": "32.73.30.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.30"
+    },
+    {
+      "nama_wilayah": "Sindang Jaya",
+      "kode_wilayah": "32.73.30.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.30"
+    }
+  ]
+}

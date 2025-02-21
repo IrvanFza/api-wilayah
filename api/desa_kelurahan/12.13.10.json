@@ -1,0 +1,166 @@
+{
+  "status": "success",
+  "total": 20,
+  "data": [
+    {
+      "nama_wilayah": "Laru Lombang",
+      "kode_wilayah": "12.13.10.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.10"
+    },
+    {
+      "nama_wilayah": "Angin Barat",
+      "kode_wilayah": "12.13.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.10"
+    },
+    {
+      "nama_wilayah": "Huta Tonga AB",
+      "kode_wilayah": "12.13.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.10"
+    },
+    {
+      "nama_wilayah": "Laru Baringin",
+      "kode_wilayah": "12.13.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.10"
+    },
+    {
+      "nama_wilayah": "Laru Bolak",
+      "kode_wilayah": "12.13.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.10"
+    },
+    {
+      "nama_wilayah": "Laru Dolok",
+      "kode_wilayah": "12.13.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.10"
+    },
+    {
+      "nama_wilayah": "Lumban Pasir",
+      "kode_wilayah": "12.13.10.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.10"
+    },
+    {
+      "nama_wilayah": "Muara Mais",
+      "kode_wilayah": "12.13.10.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.10"
+    },
+    {
+      "nama_wilayah": "Muara Mais Jambur",
+      "kode_wilayah": "12.13.10.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.10"
+    },
+    {
+      "nama_wilayah": "Padang Sanggar",
+      "kode_wilayah": "12.13.10.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.10"
+    },
+    {
+      "nama_wilayah": "Panjaringan",
+      "kode_wilayah": "12.13.10.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.10"
+    },
+    {
+      "nama_wilayah": "Pasar Laru",
+      "kode_wilayah": "12.13.10.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.10"
+    },
+    {
+      "nama_wilayah": "Pastap",
+      "kode_wilayah": "12.13.10.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.10"
+    },
+    {
+      "nama_wilayah": "Pastap Julu",
+      "kode_wilayah": "12.13.10.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.10"
+    },
+    {
+      "nama_wilayah": "Rao Rao Dolok",
+      "kode_wilayah": "12.13.10.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.10"
+    },
+    {
+      "nama_wilayah": "Rao Rao Lombang",
+      "kode_wilayah": "12.13.10.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.10"
+    },
+    {
+      "nama_wilayah": "Simangambat TB",
+      "kode_wilayah": "12.13.10.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.10"
+    },
+    {
+      "nama_wilayah": "Tambangan Jae",
+      "kode_wilayah": "12.13.10.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.10"
+    },
+    {
+      "nama_wilayah": "Tambangan Pasoman",
+      "kode_wilayah": "12.13.10.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.10"
+    },
+    {
+      "nama_wilayah": "Tambangan Tonga",
+      "kode_wilayah": "12.13.10.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.10"
+    }
+  ]
+}

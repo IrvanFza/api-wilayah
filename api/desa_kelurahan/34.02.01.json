@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "total": 2,
+  "data": [
+    {
+      "nama_wilayah": "Poncosari",
+      "kode_wilayah": "34.02.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.01"
+    },
+    {
+      "nama_wilayah": "Trimurti",
+      "kode_wilayah": "34.02.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.01"
+    }
+  ]
+}

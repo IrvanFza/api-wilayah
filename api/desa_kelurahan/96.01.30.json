@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Klalwok",
+      "kode_wilayah": "96.01.30.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.30"
+    },
+    {
+      "nama_wilayah": "Klawon",
+      "kode_wilayah": "96.01.30.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.30"
+    },
+    {
+      "nama_wilayah": "Kladuk",
+      "kode_wilayah": "96.01.30.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.30"
+    },
+    {
+      "nama_wilayah": "Sailala",
+      "kode_wilayah": "96.01.30.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.30"
+    },
+    {
+      "nama_wilayah": "Klakak",
+      "kode_wilayah": "96.01.30.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.30"
+    },
+    {
+      "nama_wilayah": "Klawana",
+      "kode_wilayah": "96.01.30.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.30"
+    }
+  ]
+}

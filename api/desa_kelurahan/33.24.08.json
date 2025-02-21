@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Sumberejo",
+      "kode_wilayah": "33.24.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.24",
+      "kode_kecamatan": "33.24.08"
+    },
+    {
+      "nama_wilayah": "Nolokerto",
+      "kode_wilayah": "33.24.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.24",
+      "kode_kecamatan": "33.24.08"
+    },
+    {
+      "nama_wilayah": "Kumpulrejo",
+      "kode_wilayah": "33.24.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.24",
+      "kode_kecamatan": "33.24.08"
+    },
+    {
+      "nama_wilayah": "Karangtengah",
+      "kode_wilayah": "33.24.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.24",
+      "kode_kecamatan": "33.24.08"
+    },
+    {
+      "nama_wilayah": "Sarirejo",
+      "kode_wilayah": "33.24.08.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.24",
+      "kode_kecamatan": "33.24.08"
+    },
+    {
+      "nama_wilayah": "Krajankulon",
+      "kode_wilayah": "33.24.08.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.24",
+      "kode_kecamatan": "33.24.08"
+    },
+    {
+      "nama_wilayah": "Kutoharjo",
+      "kode_wilayah": "33.24.08.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.24",
+      "kode_kecamatan": "33.24.08"
+    },
+    {
+      "nama_wilayah": "Wonorejo",
+      "kode_wilayah": "33.24.08.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.24",
+      "kode_kecamatan": "33.24.08"
+    },
+    {
+      "nama_wilayah": "Mororejo",
+      "kode_wilayah": "33.24.08.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.24",
+      "kode_kecamatan": "33.24.08"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pagai Utara",
+      "kode_wilayah": "13.09.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.09",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Sipora Selatan",
+      "kode_wilayah": "13.09.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.09",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Siberut Selatan",
+      "kode_wilayah": "13.09.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.09",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Siberut Utara",
+      "kode_wilayah": "13.09.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.09",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Siberut Barat",
+      "kode_wilayah": "13.09.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.09",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Siberut Barat Daya",
+      "kode_wilayah": "13.09.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.09",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Siberut Tengah",
+      "kode_wilayah": "13.09.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.09",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Sipora Utara",
+      "kode_wilayah": "13.09.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.09",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Sikakap",
+      "kode_wilayah": "13.09.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.09",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Pagai Selatan",
+      "kode_wilayah": "13.09.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.09",
+      "kode_provinsi": "13"
+    }
+  ]
+}

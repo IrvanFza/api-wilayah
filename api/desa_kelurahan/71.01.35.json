@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Ibolian",
+      "kode_wilayah": "71.01.35.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.35"
+    },
+    {
+      "nama_wilayah": "Ibolian Satu",
+      "kode_wilayah": "71.01.35.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.35"
+    },
+    {
+      "nama_wilayah": "Kinomaligan",
+      "kode_wilayah": "71.01.35.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.35"
+    },
+    {
+      "nama_wilayah": "Kosio",
+      "kode_wilayah": "71.01.35.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.35"
+    },
+    {
+      "nama_wilayah": "Kosio Timur",
+      "kode_wilayah": "71.01.35.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.35"
+    },
+    {
+      "nama_wilayah": "Kasio Barat",
+      "kode_wilayah": "71.01.35.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.35"
+    },
+    {
+      "nama_wilayah": "Werdhi Agung",
+      "kode_wilayah": "71.01.35.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.35"
+    },
+    {
+      "nama_wilayah": "Werdhi Agung Selatan",
+      "kode_wilayah": "71.01.35.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.35"
+    },
+    {
+      "nama_wilayah": "Werdhi Agung Utara",
+      "kode_wilayah": "71.01.35.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.35"
+    },
+    {
+      "nama_wilayah": "Werdhi Agung Timur",
+      "kode_wilayah": "71.01.35.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.35"
+    }
+  ]
+}

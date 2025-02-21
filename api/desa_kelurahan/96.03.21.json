@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sakabu",
+      "kode_wilayah": "96.03.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.21"
+    },
+    {
+      "nama_wilayah": "Wailabu",
+      "kode_wilayah": "96.03.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.21"
+    },
+    {
+      "nama_wilayah": "Waijan",
+      "kode_wilayah": "96.03.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.21"
+    },
+    {
+      "nama_wilayah": "Wailen",
+      "kode_wilayah": "96.03.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.21"
+    },
+    {
+      "nama_wilayah": "Waibu",
+      "kode_wilayah": "96.03.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.21"
+    },
+    {
+      "nama_wilayah": "Waimeci",
+      "kode_wilayah": "96.03.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.21"
+    },
+    {
+      "nama_wilayah": "Kalobo",
+      "kode_wilayah": "96.03.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.21"
+    }
+  ]
+}

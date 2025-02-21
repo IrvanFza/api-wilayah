@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pollo",
+      "kode_wilayah": "53.02.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.06"
+    },
+    {
+      "nama_wilayah": "Oekiu",
+      "kode_wilayah": "53.02.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.06"
+    },
+    {
+      "nama_wilayah": "Oebelo",
+      "kode_wilayah": "53.02.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.06"
+    },
+    {
+      "nama_wilayah": "Noemuke",
+      "kode_wilayah": "53.02.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.06"
+    },
+    {
+      "nama_wilayah": "Kiubaat",
+      "kode_wilayah": "53.02.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.06"
+    },
+    {
+      "nama_wilayah": "Linamnutu",
+      "kode_wilayah": "53.02.06.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.06"
+    },
+    {
+      "nama_wilayah": "Mio",
+      "kode_wilayah": "53.02.06.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.06"
+    },
+    {
+      "nama_wilayah": "Batnun",
+      "kode_wilayah": "53.02.06.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.06"
+    },
+    {
+      "nama_wilayah": "Bena",
+      "kode_wilayah": "53.02.06.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.06"
+    },
+    {
+      "nama_wilayah": "Eno Neten",
+      "kode_wilayah": "53.02.06.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.06"
+    }
+  ]
+}

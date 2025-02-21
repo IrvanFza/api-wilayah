@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Koba",
+      "kode_wilayah": "19.04.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.04",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Pangkalan Baru",
+      "kode_wilayah": "19.04.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.04",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Sungai Selan",
+      "kode_wilayah": "19.04.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.04",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Simpang Katis",
+      "kode_wilayah": "19.04.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.04",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Namang",
+      "kode_wilayah": "19.04.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.04",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Lubuk Besar",
+      "kode_wilayah": "19.04.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.04",
+      "kode_provinsi": "19"
+    }
+  ]
+}

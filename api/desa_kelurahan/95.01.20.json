@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Siepkosi",
+      "kode_wilayah": "95.01.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.20"
+    },
+    {
+      "nama_wilayah": "Yumogima",
+      "kode_wilayah": "95.01.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.20"
+    },
+    {
+      "nama_wilayah": "Sekan",
+      "kode_wilayah": "95.01.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.20"
+    },
+    {
+      "nama_wilayah": "Noagalo",
+      "kode_wilayah": "95.01.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.20"
+    },
+    {
+      "nama_wilayah": "Manika",
+      "kode_wilayah": "95.01.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.20"
+    },
+    {
+      "nama_wilayah": "Sekan Dalam",
+      "kode_wilayah": "95.01.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.20"
+    },
+    {
+      "nama_wilayah": "Isawa Himan",
+      "kode_wilayah": "95.01.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.20"
+    },
+    {
+      "nama_wilayah": "Lunaima",
+      "kode_wilayah": "95.01.20.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.20"
+    },
+    {
+      "nama_wilayah": "Wekia",
+      "kode_wilayah": "95.01.20.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.20"
+    }
+  ]
+}

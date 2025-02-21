@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Waepure",
+      "kode_wilayah": "81.04.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.02"
+    },
+    {
+      "nama_wilayah": "Waemangit",
+      "kode_wilayah": "81.04.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.02"
+    },
+    {
+      "nama_wilayah": "Air Buaya",
+      "kode_wilayah": "81.04.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.02"
+    },
+    {
+      "nama_wilayah": "Tanjung Karang",
+      "kode_wilayah": "81.04.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.02"
+    },
+    {
+      "nama_wilayah": "Bara",
+      "kode_wilayah": "81.04.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.02"
+    },
+    {
+      "nama_wilayah": "Selwadu",
+      "kode_wilayah": "81.04.02.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.02"
+    },
+    {
+      "nama_wilayah": "Wasbaka",
+      "kode_wilayah": "81.04.02.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.02"
+    },
+    {
+      "nama_wilayah": "Kampung Baru",
+      "kode_wilayah": "81.04.02.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.02"
+    },
+    {
+      "nama_wilayah": "Batlale",
+      "kode_wilayah": "81.04.02.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.02"
+    },
+    {
+      "nama_wilayah": "Awilinan",
+      "kode_wilayah": "81.04.02.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.02"
+    }
+  ]
+}

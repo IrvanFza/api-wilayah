@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Bonto Tangnga",
+      "kode_wilayah": "73.04.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.02"
+    },
+    {
+      "nama_wilayah": "Tonro Kassi",
+      "kode_wilayah": "73.04.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.02"
+    },
+    {
+      "nama_wilayah": "Tonro Kassi Barat",
+      "kode_wilayah": "73.04.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.02"
+    },
+    {
+      "nama_wilayah": "Tonro Kassi Timur",
+      "kode_wilayah": "73.04.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.02"
+    },
+    {
+      "nama_wilayah": "Taman Roya",
+      "kode_wilayah": "73.04.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.02"
+    },
+    {
+      "nama_wilayah": "Manjangloe",
+      "kode_wilayah": "73.04.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.02"
+    },
+    {
+      "nama_wilayah": "Borongtala",
+      "kode_wilayah": "73.04.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.02"
+    },
+    {
+      "nama_wilayah": "Bontosunggu",
+      "kode_wilayah": "73.04.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.02"
+    },
+    {
+      "nama_wilayah": "Turatea",
+      "kode_wilayah": "73.04.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.02"
+    },
+    {
+      "nama_wilayah": "Karelayu",
+      "kode_wilayah": "73.04.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.02"
+    },
+    {
+      "nama_wilayah": "Bontojai",
+      "kode_wilayah": "73.04.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.02"
+    },
+    {
+      "nama_wilayah": "Turatea Timur",
+      "kode_wilayah": "73.04.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.02"
+    }
+  ]
+}

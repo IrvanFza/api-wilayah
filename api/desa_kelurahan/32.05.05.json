@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Pataruman",
+      "kode_wilayah": "32.05.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.05"
+    },
+    {
+      "nama_wilayah": "Sukagalih",
+      "kode_wilayah": "32.05.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.05"
+    },
+    {
+      "nama_wilayah": "Jayawaras",
+      "kode_wilayah": "32.05.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.05"
+    },
+    {
+      "nama_wilayah": "Sukakarya",
+      "kode_wilayah": "32.05.05.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.05"
+    },
+    {
+      "nama_wilayah": "Sukajaya",
+      "kode_wilayah": "32.05.05.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.05"
+    },
+    {
+      "nama_wilayah": "Jayaraga",
+      "kode_wilayah": "32.05.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.05"
+    },
+    {
+      "nama_wilayah": "Haurpanggung",
+      "kode_wilayah": "32.05.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.05"
+    },
+    {
+      "nama_wilayah": "Cibunar",
+      "kode_wilayah": "32.05.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.05"
+    },
+    {
+      "nama_wilayah": "Sukabakti",
+      "kode_wilayah": "32.05.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.05"
+    },
+    {
+      "nama_wilayah": "Tarogong",
+      "kode_wilayah": "32.05.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.05"
+    },
+    {
+      "nama_wilayah": "Mekargalih",
+      "kode_wilayah": "32.05.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.05"
+    },
+    {
+      "nama_wilayah": "Kersamenak",
+      "kode_wilayah": "32.05.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.05"
+    }
+  ]
+}

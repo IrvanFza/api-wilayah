@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Teluk Bayur",
+      "kode_wilayah": "64.03.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.09"
+    },
+    {
+      "nama_wilayah": "Rinding",
+      "kode_wilayah": "64.03.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.09"
+    },
+    {
+      "nama_wilayah": "Tumbit Melayu",
+      "kode_wilayah": "64.03.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.09"
+    },
+    {
+      "nama_wilayah": "Labanan Jaya",
+      "kode_wilayah": "64.03.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.09"
+    },
+    {
+      "nama_wilayah": "Labanan Makmur",
+      "kode_wilayah": "64.03.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.09"
+    },
+    {
+      "nama_wilayah": "Labanan Makarti",
+      "kode_wilayah": "64.03.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.09"
+    }
+  ]
+}

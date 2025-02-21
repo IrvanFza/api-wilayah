@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Togo Togo",
+      "kode_wilayah": "73.04.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.04"
+    },
+    {
+      "nama_wilayah": "Bonto Raya",
+      "kode_wilayah": "73.04.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.04"
+    },
+    {
+      "nama_wilayah": "Maccinibaji",
+      "kode_wilayah": "73.04.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.04"
+    },
+    {
+      "nama_wilayah": "Camba Camba",
+      "kode_wilayah": "73.04.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.04"
+    },
+    {
+      "nama_wilayah": "Kaluku",
+      "kode_wilayah": "73.04.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.04"
+    },
+    {
+      "nama_wilayah": "Bungeng",
+      "kode_wilayah": "73.04.04.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.04"
+    }
+  ]
+}

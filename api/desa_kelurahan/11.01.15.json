@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pasie Seubadeh",
+      "kode_wilayah": "11.01.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.15"
+    },
+    {
+      "nama_wilayah": "Ladang Rimba",
+      "kode_wilayah": "11.01.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.15"
+    },
+    {
+      "nama_wilayah": "Ujong Pulo Rayeuk",
+      "kode_wilayah": "11.01.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.15"
+    },
+    {
+      "nama_wilayah": "Sawah Tingkeum",
+      "kode_wilayah": "11.01.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.15"
+    },
+    {
+      "nama_wilayah": "Simpang",
+      "kode_wilayah": "11.01.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.15"
+    },
+    {
+      "nama_wilayah": "Ujong Pulo Cut",
+      "kode_wilayah": "11.01.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.15"
+    },
+    {
+      "nama_wilayah": "Seuleukat",
+      "kode_wilayah": "11.01.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.15"
+    }
+  ]
+}

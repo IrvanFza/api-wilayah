@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Ngampin",
+      "kode_wilayah": "33.22.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.10"
+    },
+    {
+      "nama_wilayah": "Pojoksari",
+      "kode_wilayah": "33.22.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.10"
+    },
+    {
+      "nama_wilayah": "Tambakboyo",
+      "kode_wilayah": "33.22.10.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.10"
+    },
+    {
+      "nama_wilayah": "Lodoyong",
+      "kode_wilayah": "33.22.10.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.10"
+    },
+    {
+      "nama_wilayah": "Kupang",
+      "kode_wilayah": "33.22.10.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.10"
+    },
+    {
+      "nama_wilayah": "Kranggan",
+      "kode_wilayah": "33.22.10.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.10"
+    },
+    {
+      "nama_wilayah": "Panjang",
+      "kode_wilayah": "33.22.10.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.10"
+    },
+    {
+      "nama_wilayah": "Baran",
+      "kode_wilayah": "33.22.10.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.10"
+    },
+    {
+      "nama_wilayah": "Bejalen",
+      "kode_wilayah": "33.22.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.10"
+    },
+    {
+      "nama_wilayah": "Pasekan",
+      "kode_wilayah": "33.22.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.10"
+    }
+  ]
+}

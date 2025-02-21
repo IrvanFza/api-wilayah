@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Cipedang",
+      "kode_wilayah": "32.12.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.22"
+    },
+    {
+      "nama_wilayah": "Sidamulya",
+      "kode_wilayah": "32.12.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.22"
+    },
+    {
+      "nama_wilayah": "Margamulya",
+      "kode_wilayah": "32.12.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.22"
+    },
+    {
+      "nama_wilayah": "Kertajaya",
+      "kode_wilayah": "32.12.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.22"
+    },
+    {
+      "nama_wilayah": "Bongas",
+      "kode_wilayah": "32.12.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.22"
+    },
+    {
+      "nama_wilayah": "Cipaat",
+      "kode_wilayah": "32.12.22.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.22"
+    },
+    {
+      "nama_wilayah": "Kertamulya",
+      "kode_wilayah": "32.12.22.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.22"
+    },
+    {
+      "nama_wilayah": "Plawangan",
+      "kode_wilayah": "32.12.22.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.22"
+    }
+  ]
+}

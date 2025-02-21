@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Samapuin",
+      "kode_wilayah": "52.04.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.08"
+    },
+    {
+      "nama_wilayah": "Brang Bara",
+      "kode_wilayah": "52.04.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.08"
+    },
+    {
+      "nama_wilayah": "Pekat",
+      "kode_wilayah": "52.04.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.08"
+    },
+    {
+      "nama_wilayah": "Seketeng",
+      "kode_wilayah": "52.04.08.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.08"
+    },
+    {
+      "nama_wilayah": "Bugis",
+      "kode_wilayah": "52.04.08.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.08"
+    },
+    {
+      "nama_wilayah": "Lempeh",
+      "kode_wilayah": "52.04.08.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.08"
+    },
+    {
+      "nama_wilayah": "Brang Biji",
+      "kode_wilayah": "52.04.08.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.08"
+    },
+    {
+      "nama_wilayah": "Uma Sima",
+      "kode_wilayah": "52.04.08.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.08"
+    }
+  ]
+}

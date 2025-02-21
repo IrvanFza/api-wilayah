@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Longat",
+      "kode_wilayah": "12.13.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.05"
+    },
+    {
+      "nama_wilayah": "Barbaran",
+      "kode_wilayah": "12.13.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.05"
+    },
+    {
+      "nama_wilayah": "Barbaran Jae",
+      "kode_wilayah": "12.13.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.05"
+    },
+    {
+      "nama_wilayah": "Batang Gadis",
+      "kode_wilayah": "12.13.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.05"
+    },
+    {
+      "nama_wilayah": "Huta Baringin",
+      "kode_wilayah": "12.13.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.05"
+    },
+    {
+      "nama_wilayah": "Huta Tonga BB",
+      "kode_wilayah": "12.13.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.05"
+    },
+    {
+      "nama_wilayah": "Runding",
+      "kode_wilayah": "12.13.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.05"
+    },
+    {
+      "nama_wilayah": "Sirambas",
+      "kode_wilayah": "12.13.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.05"
+    },
+    {
+      "nama_wilayah": "Saba Jior",
+      "kode_wilayah": "12.13.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.05"
+    },
+    {
+      "nama_wilayah": "Batang Gadis Jae",
+      "kode_wilayah": "12.13.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.05"
+    }
+  ]
+}

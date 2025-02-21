@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Ile Padung",
+      "kode_wilayah": "53.06.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.15"
+    },
+    {
+      "nama_wilayah": "Bantala",
+      "kode_wilayah": "53.06.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.15"
+    },
+    {
+      "nama_wilayah": "Sinar Hading",
+      "kode_wilayah": "53.06.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.15"
+    },
+    {
+      "nama_wilayah": "Paingnapang",
+      "kode_wilayah": "53.06.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.15"
+    },
+    {
+      "nama_wilayah": "Baluk Herin",
+      "kode_wilayah": "53.06.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.15"
+    },
+    {
+      "nama_wilayah": "Riangkotek",
+      "kode_wilayah": "53.06.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.15"
+    },
+    {
+      "nama_wilayah": "Lewobelen",
+      "kode_wilayah": "53.06.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.15"
+    }
+  ]
+}

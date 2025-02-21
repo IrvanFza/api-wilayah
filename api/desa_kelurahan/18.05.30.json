@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lebuh Dalem",
+      "kode_wilayah": "18.05.30.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.05",
+      "kode_kecamatan": "18.05.30"
+    },
+    {
+      "nama_wilayah": "Menggala",
+      "kode_wilayah": "18.05.30.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.05",
+      "kode_kecamatan": "18.05.30"
+    },
+    {
+      "nama_wilayah": "Lingai",
+      "kode_wilayah": "18.05.30.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.05",
+      "kode_kecamatan": "18.05.30"
+    },
+    {
+      "nama_wilayah": "Kibang Pacing",
+      "kode_wilayah": "18.05.30.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.05",
+      "kode_kecamatan": "18.05.30"
+    },
+    {
+      "nama_wilayah": "Sungai Luar",
+      "kode_wilayah": "18.05.30.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.05",
+      "kode_kecamatan": "18.05.30"
+    },
+    {
+      "nama_wilayah": "Kahuripan Dalam",
+      "kode_wilayah": "18.05.30.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.05",
+      "kode_kecamatan": "18.05.30"
+    },
+    {
+      "nama_wilayah": "Cempaka Dalem",
+      "kode_wilayah": "18.05.30.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.05",
+      "kode_kecamatan": "18.05.30"
+    },
+    {
+      "nama_wilayah": "Bedaro Indah",
+      "kode_wilayah": "18.05.30.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.05",
+      "kode_kecamatan": "18.05.30"
+    },
+    {
+      "nama_wilayah": "Tri Makmur Jaya",
+      "kode_wilayah": "18.05.30.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.05",
+      "kode_kecamatan": "18.05.30"
+    },
+    {
+      "nama_wilayah": "Cempaka Jaya",
+      "kode_wilayah": "18.05.30.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.05",
+      "kode_kecamatan": "18.05.30"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Lutueng",
+      "kode_wilayah": "11.07.27.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.27"
+    },
+    {
+      "nama_wilayah": "Blang Dalam",
+      "kode_wilayah": "11.07.27.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.27"
+    },
+    {
+      "nama_wilayah": "Mane",
+      "kode_wilayah": "11.07.27.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.27"
+    },
+    {
+      "nama_wilayah": "Turue Cut",
+      "kode_wilayah": "11.07.27.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.27"
+    }
+  ]
+}

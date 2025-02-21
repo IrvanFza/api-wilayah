@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Batur",
+      "kode_wilayah": "33.04.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.04",
+      "kode_kecamatan": "33.04.16"
+    },
+    {
+      "nama_wilayah": "Sumberejo",
+      "kode_wilayah": "33.04.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.04",
+      "kode_kecamatan": "33.04.16"
+    },
+    {
+      "nama_wilayah": "Pasurenan",
+      "kode_wilayah": "33.04.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.04",
+      "kode_kecamatan": "33.04.16"
+    },
+    {
+      "nama_wilayah": "Pekasiran",
+      "kode_wilayah": "33.04.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.04",
+      "kode_kecamatan": "33.04.16"
+    },
+    {
+      "nama_wilayah": "Kepakisan",
+      "kode_wilayah": "33.04.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.04",
+      "kode_kecamatan": "33.04.16"
+    },
+    {
+      "nama_wilayah": "Bakal",
+      "kode_wilayah": "33.04.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.04",
+      "kode_kecamatan": "33.04.16"
+    },
+    {
+      "nama_wilayah": "Karangtengah",
+      "kode_wilayah": "33.04.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.04",
+      "kode_kecamatan": "33.04.16"
+    },
+    {
+      "nama_wilayah": "Dieng Kulon",
+      "kode_wilayah": "33.04.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.04",
+      "kode_kecamatan": "33.04.16"
+    }
+  ]
+}

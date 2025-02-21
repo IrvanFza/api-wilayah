@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Montallat I",
+      "kode_wilayah": "62.05.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.01"
+    },
+    {
+      "nama_wilayah": "Montallat II",
+      "kode_wilayah": "62.05.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.01"
+    },
+    {
+      "nama_wilayah": "Tumpung Laung I",
+      "kode_wilayah": "62.05.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.01"
+    },
+    {
+      "nama_wilayah": "Tumpung Laung II",
+      "kode_wilayah": "62.05.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.01"
+    },
+    {
+      "nama_wilayah": "Sikan",
+      "kode_wilayah": "62.05.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.01"
+    },
+    {
+      "nama_wilayah": "Rubei",
+      "kode_wilayah": "62.05.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.01"
+    },
+    {
+      "nama_wilayah": "Pepas",
+      "kode_wilayah": "62.05.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.01"
+    },
+    {
+      "nama_wilayah": "Ruji",
+      "kode_wilayah": "62.05.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.01"
+    },
+    {
+      "nama_wilayah": "Paring Lahung",
+      "kode_wilayah": "62.05.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.01"
+    },
+    {
+      "nama_wilayah": "Kamawen",
+      "kode_wilayah": "62.05.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.01"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tanuntung",
+      "kode_wilayah": "73.02.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.02",
+      "kode_kecamatan": "73.02.05"
+    },
+    {
+      "nama_wilayah": "Bonto Kamase",
+      "kode_wilayah": "73.02.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.02",
+      "kode_kecamatan": "73.02.05"
+    },
+    {
+      "nama_wilayah": "Karassing",
+      "kode_wilayah": "73.02.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.02",
+      "kode_kecamatan": "73.02.05"
+    },
+    {
+      "nama_wilayah": "Singa",
+      "kode_wilayah": "73.02.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.02",
+      "kode_kecamatan": "73.02.05"
+    },
+    {
+      "nama_wilayah": "Gunturu",
+      "kode_wilayah": "73.02.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.02",
+      "kode_kecamatan": "73.02.05"
+    },
+    {
+      "nama_wilayah": "Borong",
+      "kode_wilayah": "73.02.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.02",
+      "kode_kecamatan": "73.02.05"
+    },
+    {
+      "nama_wilayah": "Tugondeng",
+      "kode_wilayah": "73.02.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.02",
+      "kode_kecamatan": "73.02.05"
+    },
+    {
+      "nama_wilayah": "Pataro",
+      "kode_wilayah": "73.02.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.02",
+      "kode_kecamatan": "73.02.05"
+    }
+  ]
+}

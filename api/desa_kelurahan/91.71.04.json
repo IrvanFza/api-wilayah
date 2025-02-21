@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Koya Barat",
+      "kode_wilayah": "91.71.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.04"
+    },
+    {
+      "nama_wilayah": "Koya Timur",
+      "kode_wilayah": "91.71.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.04"
+    },
+    {
+      "nama_wilayah": "Skouw Mabo",
+      "kode_wilayah": "91.71.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.04"
+    },
+    {
+      "nama_wilayah": "Skouw Yambe",
+      "kode_wilayah": "91.71.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.04"
+    },
+    {
+      "nama_wilayah": "Skouw Sae",
+      "kode_wilayah": "91.71.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.04"
+    },
+    {
+      "nama_wilayah": "Holtekamp",
+      "kode_wilayah": "91.71.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.04"
+    },
+    {
+      "nama_wilayah": "Koya Tengah",
+      "kode_wilayah": "91.71.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.04"
+    },
+    {
+      "nama_wilayah": "Mosso",
+      "kode_wilayah": "91.71.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.04"
+    }
+  ]
+}

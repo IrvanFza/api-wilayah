@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "III Koto Aur Malintang",
+      "kode_wilayah": "13.05.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.09"
+    },
+    {
+      "nama_wilayah": "III Koto Aur Malintang Utara",
+      "kode_wilayah": "13.05.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.09"
+    },
+    {
+      "nama_wilayah": "III Koto Aur Malintang Timur",
+      "kode_wilayah": "13.05.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.09"
+    },
+    {
+      "nama_wilayah": "III Koto Aur Malintang Selatan",
+      "kode_wilayah": "13.05.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.09"
+    },
+    {
+      "nama_wilayah": "Balai Baiak Malai III Koto",
+      "kode_wilayah": "13.05.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.09"
+    }
+  ]
+}

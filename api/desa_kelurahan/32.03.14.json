@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sukanagara",
+      "kode_wilayah": "32.03.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.14"
+    },
+    {
+      "nama_wilayah": "Sukajembar",
+      "kode_wilayah": "32.03.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.14"
+    },
+    {
+      "nama_wilayah": "Sukakarya",
+      "kode_wilayah": "32.03.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.14"
+    },
+    {
+      "nama_wilayah": "Ciguha",
+      "kode_wilayah": "32.03.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.14"
+    },
+    {
+      "nama_wilayah": "Sukamekar",
+      "kode_wilayah": "32.03.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.14"
+    },
+    {
+      "nama_wilayah": "Gunungsari",
+      "kode_wilayah": "32.03.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.14"
+    },
+    {
+      "nama_wilayah": "Sukalaksana",
+      "kode_wilayah": "32.03.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.14"
+    },
+    {
+      "nama_wilayah": "Sukarame",
+      "kode_wilayah": "32.03.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.14"
+    },
+    {
+      "nama_wilayah": "Sindangsari",
+      "kode_wilayah": "32.03.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.14"
+    },
+    {
+      "nama_wilayah": "Jayagiri",
+      "kode_wilayah": "32.03.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.14"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sukapura",
+      "kode_wilayah": "32.06.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.17"
+    },
+    {
+      "nama_wilayah": "Leuwibudah",
+      "kode_wilayah": "32.06.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.17"
+    },
+    {
+      "nama_wilayah": "Sirnajaya",
+      "kode_wilayah": "32.06.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.17"
+    },
+    {
+      "nama_wilayah": "Mekarjaya",
+      "kode_wilayah": "32.06.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.17"
+    },
+    {
+      "nama_wilayah": "Linggaraja",
+      "kode_wilayah": "32.06.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.17"
+    },
+    {
+      "nama_wilayah": "Janggala",
+      "kode_wilayah": "32.06.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.17"
+    },
+    {
+      "nama_wilayah": "Margalaksana",
+      "kode_wilayah": "32.06.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.17"
+    },
+    {
+      "nama_wilayah": "Tarunajaya",
+      "kode_wilayah": "32.06.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.17"
+    }
+  ]
+}

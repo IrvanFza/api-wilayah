@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Wekari",
+      "kode_wilayah": "96.04.26.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.26"
+    },
+    {
+      "nama_wilayah": "Arupi",
+      "kode_wilayah": "96.04.26.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.26"
+    },
+    {
+      "nama_wilayah": "Wajarek",
+      "kode_wilayah": "96.04.26.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.26"
+    },
+    {
+      "nama_wilayah": "Serayo",
+      "kode_wilayah": "96.04.26.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.26"
+    },
+    {
+      "nama_wilayah": "Araro",
+      "kode_wilayah": "96.04.26.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.26"
+    },
+    {
+      "nama_wilayah": "Mangganek",
+      "kode_wilayah": "96.04.26.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.26"
+    },
+    {
+      "nama_wilayah": "Kali An",
+      "kode_wilayah": "96.04.26.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.26"
+    }
+  ]
+}

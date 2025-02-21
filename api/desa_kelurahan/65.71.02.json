@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Kampung I Skip",
+      "kode_wilayah": "65.71.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.71",
+      "kode_kecamatan": "65.71.02"
+    },
+    {
+      "nama_wilayah": "Pamusian",
+      "kode_wilayah": "65.71.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.71",
+      "kode_kecamatan": "65.71.02"
+    },
+    {
+      "nama_wilayah": "Sebengkok",
+      "kode_wilayah": "65.71.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.71",
+      "kode_kecamatan": "65.71.02"
+    },
+    {
+      "nama_wilayah": "Selumit",
+      "kode_wilayah": "65.71.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.71",
+      "kode_kecamatan": "65.71.02"
+    },
+    {
+      "nama_wilayah": "Selumit Pantai",
+      "kode_wilayah": "65.71.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.71",
+      "kode_kecamatan": "65.71.02"
+    }
+  ]
+}

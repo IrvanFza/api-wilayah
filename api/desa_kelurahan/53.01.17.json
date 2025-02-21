@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Teunbaun",
+      "kode_wilayah": "53.01.17.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.17"
+    },
+    {
+      "nama_wilayah": "Soba",
+      "kode_wilayah": "53.01.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.17"
+    },
+    {
+      "nama_wilayah": "Toobaun",
+      "kode_wilayah": "53.01.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.17"
+    },
+    {
+      "nama_wilayah": "Niukbaun",
+      "kode_wilayah": "53.01.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.17"
+    },
+    {
+      "nama_wilayah": "Tunbaun",
+      "kode_wilayah": "53.01.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.17"
+    },
+    {
+      "nama_wilayah": "Nekbaun",
+      "kode_wilayah": "53.01.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.17"
+    },
+    {
+      "nama_wilayah": "Merbaun",
+      "kode_wilayah": "53.01.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.17"
+    },
+    {
+      "nama_wilayah": "Erbaun",
+      "kode_wilayah": "53.01.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.17"
+    }
+  ]
+}

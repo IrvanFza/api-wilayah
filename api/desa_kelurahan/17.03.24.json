@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Air Sebayur",
+      "kode_wilayah": "17.03.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.24"
+    },
+    {
+      "nama_wilayah": "Air Sekamanak",
+      "kode_wilayah": "17.03.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.24"
+    },
+    {
+      "nama_wilayah": "Air Simpang",
+      "kode_wilayah": "17.03.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.24"
+    },
+    {
+      "nama_wilayah": "Bukit Makmur",
+      "kode_wilayah": "17.03.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.24"
+    },
+    {
+      "nama_wilayah": "Marga Bhakti",
+      "kode_wilayah": "17.03.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.24"
+    },
+    {
+      "nama_wilayah": "Bumi Harjo",
+      "kode_wilayah": "17.03.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.24"
+    },
+    {
+      "nama_wilayah": "Sumber Mulya",
+      "kode_wilayah": "17.03.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.24"
+    },
+    {
+      "nama_wilayah": "Gunung Payung",
+      "kode_wilayah": "17.03.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.24"
+    },
+    {
+      "nama_wilayah": "Bukit Harapan",
+      "kode_wilayah": "17.03.24.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.24"
+    },
+    {
+      "nama_wilayah": "Tanjung Muara",
+      "kode_wilayah": "17.03.24.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.24"
+    }
+  ]
+}

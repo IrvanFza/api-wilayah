@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Bogor Selatan",
+      "kode_wilayah": "32.71.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.71",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Bogor Timur",
+      "kode_wilayah": "32.71.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.71",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Bogor Tengah",
+      "kode_wilayah": "32.71.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.71",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Bogor Barat",
+      "kode_wilayah": "32.71.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.71",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Bogor Utara",
+      "kode_wilayah": "32.71.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.71",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Tanah Sareal",
+      "kode_wilayah": "32.71.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.71",
+      "kode_provinsi": "32"
+    }
+  ]
+}

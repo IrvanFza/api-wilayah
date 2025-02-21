@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Rumbai",
+      "kode_wilayah": "13.10.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.03"
+    },
+    {
+      "nama_wilayah": "Kurnia Koto Salak",
+      "kode_wilayah": "13.10.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.03"
+    },
+    {
+      "nama_wilayah": "Sungai Rumbai Timur",
+      "kode_wilayah": "13.10.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.03"
+    },
+    {
+      "nama_wilayah": "Kurnia Selatan",
+      "kode_wilayah": "13.10.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.03"
+    }
+  ]
+}

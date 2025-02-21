@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Watuwei",
+      "kode_wilayah": "81.08.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.10"
+    },
+    {
+      "nama_wilayah": "Ilmarang",
+      "kode_wilayah": "81.08.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.10"
+    },
+    {
+      "nama_wilayah": "Letmasa",
+      "kode_wilayah": "81.08.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.10"
+    },
+    {
+      "nama_wilayah": "Welora",
+      "kode_wilayah": "81.08.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.10"
+    },
+    {
+      "nama_wilayah": "Wiratan",
+      "kode_wilayah": "81.08.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.10"
+    },
+    {
+      "nama_wilayah": "Nurnyaman",
+      "kode_wilayah": "81.08.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.10"
+    }
+  ]
+}

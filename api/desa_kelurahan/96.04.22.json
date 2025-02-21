@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Bisaud",
+      "kode_wilayah": "96.04.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.22"
+    },
+    {
+      "nama_wilayah": "Ajokwapi",
+      "kode_wilayah": "96.04.22.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.22"
+    },
+    {
+      "nama_wilayah": "Asiti",
+      "kode_wilayah": "96.04.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.22"
+    },
+    {
+      "nama_wilayah": "Wausin",
+      "kode_wilayah": "96.04.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.22"
+    },
+    {
+      "nama_wilayah": "Afrawi",
+      "kode_wilayah": "96.04.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.22"
+    },
+    {
+      "nama_wilayah": "Nisandauw",
+      "kode_wilayah": "96.04.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.22"
+    }
+  ]
+}

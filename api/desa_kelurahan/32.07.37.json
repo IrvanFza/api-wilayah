@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pasawahan",
+      "kode_wilayah": "32.07.37.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.37"
+    },
+    {
+      "nama_wilayah": "Banjaranyar",
+      "kode_wilayah": "32.07.37.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.37"
+    },
+    {
+      "nama_wilayah": "Cigayam",
+      "kode_wilayah": "32.07.37.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.37"
+    },
+    {
+      "nama_wilayah": "Langkapsari",
+      "kode_wilayah": "32.07.37.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.37"
+    },
+    {
+      "nama_wilayah": "Kalijaya",
+      "kode_wilayah": "32.07.37.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.37"
+    },
+    {
+      "nama_wilayah": "Sindangrasa",
+      "kode_wilayah": "32.07.37.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.37"
+    },
+    {
+      "nama_wilayah": "Cikaso",
+      "kode_wilayah": "32.07.37.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.37"
+    },
+    {
+      "nama_wilayah": "Cikupa",
+      "kode_wilayah": "32.07.37.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.37"
+    },
+    {
+      "nama_wilayah": "Karyamukti",
+      "kode_wilayah": "32.07.37.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.37"
+    },
+    {
+      "nama_wilayah": "Tanjungsari",
+      "kode_wilayah": "32.07.37.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.37"
+    }
+  ]
+}

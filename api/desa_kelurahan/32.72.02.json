@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Cikole",
+      "kode_wilayah": "32.72.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.72",
+      "kode_kecamatan": "32.72.02"
+    },
+    {
+      "nama_wilayah": "Selabatu",
+      "kode_wilayah": "32.72.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.72",
+      "kode_kecamatan": "32.72.02"
+    },
+    {
+      "nama_wilayah": "Gunung Parang",
+      "kode_wilayah": "32.72.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.72",
+      "kode_kecamatan": "32.72.02"
+    },
+    {
+      "nama_wilayah": "Kebonjati",
+      "kode_wilayah": "32.72.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.72",
+      "kode_kecamatan": "32.72.02"
+    },
+    {
+      "nama_wilayah": "Cisarua",
+      "kode_wilayah": "32.72.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.72",
+      "kode_kecamatan": "32.72.02"
+    },
+    {
+      "nama_wilayah": "Subangjaya",
+      "kode_wilayah": "32.72.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.72",
+      "kode_kecamatan": "32.72.02"
+    }
+  ]
+}

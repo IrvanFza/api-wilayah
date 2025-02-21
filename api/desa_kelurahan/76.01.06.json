@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Tammarunang",
+      "kode_wilayah": "76.01.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.06"
+    },
+    {
+      "nama_wilayah": "Saptanajaya",
+      "kode_wilayah": "76.01.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.06"
+    },
+    {
+      "nama_wilayah": "Taranggi",
+      "kode_wilayah": "76.01.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.06"
+    },
+    {
+      "nama_wilayah": "Sipakainga",
+      "kode_wilayah": "76.01.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.06"
+    }
+  ]
+}

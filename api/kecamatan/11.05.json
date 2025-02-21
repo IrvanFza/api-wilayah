@@ -1,0 +1,90 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Johan Pahlawan",
+      "kode_wilayah": "11.05.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.05",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Kaway XVI",
+      "kode_wilayah": "11.05.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.05",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Sungai Mas",
+      "kode_wilayah": "11.05.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.05",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Woyla",
+      "kode_wilayah": "11.05.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.05",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Samatiga",
+      "kode_wilayah": "11.05.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.05",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Bubon",
+      "kode_wilayah": "11.05.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.05",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Arongan Lambalek",
+      "kode_wilayah": "11.05.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.05",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Pante Ceureumen",
+      "kode_wilayah": "11.05.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.05",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Meureubo",
+      "kode_wilayah": "11.05.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.05",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Woyla Barat",
+      "kode_wilayah": "11.05.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.05",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Woyla Timur",
+      "kode_wilayah": "11.05.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.05",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Panton Reu",
+      "kode_wilayah": "11.05.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.05",
+      "kode_provinsi": "11"
+    }
+  ]
+}

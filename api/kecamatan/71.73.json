@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Tomohon Selatan",
+      "kode_wilayah": "71.73.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.73",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Tomohon Tengah",
+      "kode_wilayah": "71.73.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.73",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Tomohon Utara",
+      "kode_wilayah": "71.73.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.73",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Tomohon Barat",
+      "kode_wilayah": "71.73.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.73",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Tomohon Timur",
+      "kode_wilayah": "71.73.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.73",
+      "kode_provinsi": "71"
+    }
+  ]
+}

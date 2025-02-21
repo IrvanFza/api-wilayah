@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Numba",
+      "kode_wilayah": "95.04.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.21"
+    },
+    {
+      "nama_wilayah": "Baliminggi",
+      "kode_wilayah": "95.04.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.21"
+    },
+    {
+      "nama_wilayah": "Kuma",
+      "kode_wilayah": "95.04.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.21"
+    },
+    {
+      "nama_wilayah": "Yugumena",
+      "kode_wilayah": "95.04.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.21"
+    },
+    {
+      "nama_wilayah": "Yalogo",
+      "kode_wilayah": "95.04.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.21"
+    },
+    {
+      "nama_wilayah": "Yiragame",
+      "kode_wilayah": "95.04.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.21"
+    },
+    {
+      "nama_wilayah": "Tingwineri",
+      "kode_wilayah": "95.04.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.21"
+    },
+    {
+      "nama_wilayah": "Guniki",
+      "kode_wilayah": "95.04.21.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.21"
+    },
+    {
+      "nama_wilayah": "Keragigelok",
+      "kode_wilayah": "95.04.21.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.21"
+    },
+    {
+      "nama_wilayah": "Jinuwanu",
+      "kode_wilayah": "95.04.21.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.21"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Jadirejo",
+      "kode_wilayah": "14.71.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.01"
+    },
+    {
+      "nama_wilayah": "Kampung Tengah",
+      "kode_wilayah": "14.71.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.01"
+    },
+    {
+      "nama_wilayah": "Kampung Melayu",
+      "kode_wilayah": "14.71.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.01"
+    },
+    {
+      "nama_wilayah": "Kedung Sari",
+      "kode_wilayah": "14.71.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.01"
+    },
+    {
+      "nama_wilayah": "Harjosari",
+      "kode_wilayah": "14.71.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.01"
+    },
+    {
+      "nama_wilayah": "Sukajadi",
+      "kode_wilayah": "14.71.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.01"
+    },
+    {
+      "nama_wilayah": "Pulau Karomah",
+      "kode_wilayah": "14.71.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.01"
+    }
+  ]
+}

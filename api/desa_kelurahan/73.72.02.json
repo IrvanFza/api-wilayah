@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Labukkang",
+      "kode_wilayah": "73.72.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.72",
+      "kode_kecamatan": "73.72.02"
+    },
+    {
+      "nama_wilayah": "Ujung Sabbang",
+      "kode_wilayah": "73.72.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.72",
+      "kode_kecamatan": "73.72.02"
+    },
+    {
+      "nama_wilayah": "Ujung Bulu",
+      "kode_wilayah": "73.72.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.72",
+      "kode_kecamatan": "73.72.02"
+    },
+    {
+      "nama_wilayah": "Lapadde",
+      "kode_wilayah": "73.72.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.72",
+      "kode_kecamatan": "73.72.02"
+    },
+    {
+      "nama_wilayah": "Mallusetasi",
+      "kode_wilayah": "73.72.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.72",
+      "kode_kecamatan": "73.72.02"
+    }
+  ]
+}

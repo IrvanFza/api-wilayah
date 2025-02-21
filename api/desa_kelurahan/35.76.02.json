@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Gununggedangan",
+      "kode_wilayah": "35.76.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.76",
+      "kode_kecamatan": "35.76.02"
+    },
+    {
+      "nama_wilayah": "Magersari",
+      "kode_wilayah": "35.76.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.76",
+      "kode_kecamatan": "35.76.02"
+    },
+    {
+      "nama_wilayah": "Gedongan",
+      "kode_wilayah": "35.76.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.76",
+      "kode_kecamatan": "35.76.02"
+    },
+    {
+      "nama_wilayah": "Balongsari",
+      "kode_wilayah": "35.76.02.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.76",
+      "kode_kecamatan": "35.76.02"
+    },
+    {
+      "nama_wilayah": "Kedundung",
+      "kode_wilayah": "35.76.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.76",
+      "kode_kecamatan": "35.76.02"
+    },
+    {
+      "nama_wilayah": "Wates",
+      "kode_wilayah": "35.76.02.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.76",
+      "kode_kecamatan": "35.76.02"
+    }
+  ]
+}

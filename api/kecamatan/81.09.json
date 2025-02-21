@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Namrole",
+      "kode_wilayah": "81.09.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.09",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Waesama",
+      "kode_wilayah": "81.09.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.09",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Ambalau",
+      "kode_wilayah": "81.09.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.09",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Kepala Madan",
+      "kode_wilayah": "81.09.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.09",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Leksula",
+      "kode_wilayah": "81.09.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.09",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Fena Fafan",
+      "kode_wilayah": "81.09.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.09",
+      "kode_provinsi": "81"
+    }
+  ]
+}

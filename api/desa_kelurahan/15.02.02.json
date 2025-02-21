@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Pasar Atas",
+      "kode_wilayah": "15.02.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.02"
+    },
+    {
+      "nama_wilayah": "Pasar Bangko",
+      "kode_wilayah": "15.02.02.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.02"
+    },
+    {
+      "nama_wilayah": "Dusun Bangko",
+      "kode_wilayah": "15.02.02.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.02"
+    },
+    {
+      "nama_wilayah": "Pematang Kandis",
+      "kode_wilayah": "15.02.02.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.02"
+    },
+    {
+      "nama_wilayah": "Kungkai",
+      "kode_wilayah": "15.02.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.02"
+    },
+    {
+      "nama_wilayah": "Mudo",
+      "kode_wilayah": "15.02.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.02"
+    },
+    {
+      "nama_wilayah": "Langling",
+      "kode_wilayah": "15.02.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.02"
+    },
+    {
+      "nama_wilayah": "Sungai Kapas",
+      "kode_wilayah": "15.02.02.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.02"
+    }
+  ]
+}

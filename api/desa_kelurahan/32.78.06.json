@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Setiaratu",
+      "kode_wilayah": "32.78.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.06"
+    },
+    {
+      "nama_wilayah": "Kersanagara",
+      "kode_wilayah": "32.78.06.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.06"
+    },
+    {
+      "nama_wilayah": "Kota Baru",
+      "kode_wilayah": "32.78.06.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.06"
+    },
+    {
+      "nama_wilayah": "Awipari",
+      "kode_wilayah": "32.78.06.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.06"
+    },
+    {
+      "nama_wilayah": "Setianagara",
+      "kode_wilayah": "32.78.06.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.06"
+    },
+    {
+      "nama_wilayah": "Ciherang",
+      "kode_wilayah": "32.78.06.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.06"
+    },
+    {
+      "nama_wilayah": "Ciakar",
+      "kode_wilayah": "32.78.06.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.06"
+    },
+    {
+      "nama_wilayah": "Margabakti",
+      "kode_wilayah": "32.78.06.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.06"
+    },
+    {
+      "nama_wilayah": "Setiajaya",
+      "kode_wilayah": "32.78.06.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.06"
+    }
+  ]
+}

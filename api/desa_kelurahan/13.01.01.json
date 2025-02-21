@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Inderapura",
+      "kode_wilayah": "13.01.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.01"
+    },
+    {
+      "nama_wilayah": "Muaro Sakai Inderapura",
+      "kode_wilayah": "13.01.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.01"
+    },
+    {
+      "nama_wilayah": "Tiga Sepakat Inderapura",
+      "kode_wilayah": "13.01.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.01"
+    },
+    {
+      "nama_wilayah": "Inderapura Barat",
+      "kode_wilayah": "13.01.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.01"
+    },
+    {
+      "nama_wilayah": "Kudo-Kudo Inderapura",
+      "kode_wilayah": "13.01.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.01"
+    },
+    {
+      "nama_wilayah": "Inderapura Selatan",
+      "kode_wilayah": "13.01.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.01"
+    },
+    {
+      "nama_wilayah": "Simpang Lama Inderapura",
+      "kode_wilayah": "13.01.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.01"
+    },
+    {
+      "nama_wilayah": "Tigo Sungai Inderapura",
+      "kode_wilayah": "13.01.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.01"
+    },
+    {
+      "nama_wilayah": "Tluk Amplu Inderapura",
+      "kode_wilayah": "13.01.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.01"
+    },
+    {
+      "nama_wilayah": "Inderapura Tengah",
+      "kode_wilayah": "13.01.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.01"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Kluwut",
+      "kode_wilayah": "35.07.32.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.32"
+    },
+    {
+      "nama_wilayah": "Plandi",
+      "kode_wilayah": "35.07.32.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.32"
+    },
+    {
+      "nama_wilayah": "Plaosan",
+      "kode_wilayah": "35.07.32.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.32"
+    },
+    {
+      "nama_wilayah": "Kebobang",
+      "kode_wilayah": "35.07.32.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.32"
+    },
+    {
+      "nama_wilayah": "Sumbertempur",
+      "kode_wilayah": "35.07.32.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.32"
+    },
+    {
+      "nama_wilayah": "Sumberdem",
+      "kode_wilayah": "35.07.32.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.32"
+    },
+    {
+      "nama_wilayah": "Wonosari",
+      "kode_wilayah": "35.07.32.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.32"
+    },
+    {
+      "nama_wilayah": "Bangelan",
+      "kode_wilayah": "35.07.32.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.32"
+    }
+  ]
+}

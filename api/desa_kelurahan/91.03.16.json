@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Hulu Atas",
+      "kode_wilayah": "91.03.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.16"
+    },
+    {
+      "nama_wilayah": "Pagai",
+      "kode_wilayah": "91.03.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.16"
+    },
+    {
+      "nama_wilayah": "Aurina",
+      "kode_wilayah": "91.03.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.16"
+    },
+    {
+      "nama_wilayah": "Muara Nawa",
+      "kode_wilayah": "91.03.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.16"
+    },
+    {
+      "nama_wilayah": "Kamikaru",
+      "kode_wilayah": "91.03.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.16"
+    },
+    {
+      "nama_wilayah": "Naira",
+      "kode_wilayah": "91.03.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.16"
+    }
+  ]
+}

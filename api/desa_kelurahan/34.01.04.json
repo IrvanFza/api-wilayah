@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Banaran",
+      "kode_wilayah": "34.01.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.04"
+    },
+    {
+      "nama_wilayah": "Kranggan",
+      "kode_wilayah": "34.01.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.04"
+    },
+    {
+      "nama_wilayah": "Nomporejo",
+      "kode_wilayah": "34.01.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.04"
+    },
+    {
+      "nama_wilayah": "Karangsewu",
+      "kode_wilayah": "34.01.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.04"
+    },
+    {
+      "nama_wilayah": "Tirtorahayu",
+      "kode_wilayah": "34.01.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.04"
+    },
+    {
+      "nama_wilayah": "Pandowan",
+      "kode_wilayah": "34.01.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.04"
+    },
+    {
+      "nama_wilayah": "Brosot",
+      "kode_wilayah": "34.01.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.04"
+    }
+  ]
+}

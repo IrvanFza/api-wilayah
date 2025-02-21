@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Jubung",
+      "kode_wilayah": "35.09.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.15"
+    },
+    {
+      "nama_wilayah": "Dukuhmencek",
+      "kode_wilayah": "35.09.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.15"
+    },
+    {
+      "nama_wilayah": "Sukorambi",
+      "kode_wilayah": "35.09.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.15"
+    },
+    {
+      "nama_wilayah": "Karangpring",
+      "kode_wilayah": "35.09.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.15"
+    },
+    {
+      "nama_wilayah": "Klungkung",
+      "kode_wilayah": "35.09.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.15"
+    }
+  ]
+}

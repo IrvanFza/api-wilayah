@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Bilas",
+      "kode_wilayah": "63.09.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.10"
+    },
+    {
+      "nama_wilayah": "Kaong",
+      "kode_wilayah": "63.09.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.10"
+    },
+    {
+      "nama_wilayah": "Pangelak",
+      "kode_wilayah": "63.09.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.10"
+    },
+    {
+      "nama_wilayah": "Kinarum",
+      "kode_wilayah": "63.09.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.10"
+    },
+    {
+      "nama_wilayah": "Masingai II",
+      "kode_wilayah": "63.09.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.10"
+    },
+    {
+      "nama_wilayah": "Masingai I",
+      "kode_wilayah": "63.09.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.10"
+    }
+  ]
+}

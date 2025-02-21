@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Kayumas",
+      "kode_wilayah": "35.12.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.11"
+    },
+    {
+      "nama_wilayah": "Bayeman",
+      "kode_wilayah": "35.12.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.11"
+    },
+    {
+      "nama_wilayah": "Ketowan",
+      "kode_wilayah": "35.12.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.11"
+    },
+    {
+      "nama_wilayah": "Kedungdowo",
+      "kode_wilayah": "35.12.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.11"
+    },
+    {
+      "nama_wilayah": "Jatisari",
+      "kode_wilayah": "35.12.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.11"
+    },
+    {
+      "nama_wilayah": "Curah Tatal",
+      "kode_wilayah": "35.12.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.11"
+    },
+    {
+      "nama_wilayah": "Arjasa",
+      "kode_wilayah": "35.12.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.11"
+    },
+    {
+      "nama_wilayah": "Lamongan",
+      "kode_wilayah": "35.12.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.11"
+    }
+  ]
+}

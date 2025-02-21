@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Katelan",
+      "kode_wilayah": "33.14.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.19"
+    },
+    {
+      "nama_wilayah": "Dukuh",
+      "kode_wilayah": "33.14.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.19"
+    },
+    {
+      "nama_wilayah": "Jekawal",
+      "kode_wilayah": "33.14.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.19"
+    },
+    {
+      "nama_wilayah": "Galeh",
+      "kode_wilayah": "33.14.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.19"
+    },
+    {
+      "nama_wilayah": "Ngrombo",
+      "kode_wilayah": "33.14.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.19"
+    },
+    {
+      "nama_wilayah": "Sigit",
+      "kode_wilayah": "33.14.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.19"
+    },
+    {
+      "nama_wilayah": "Denanyar",
+      "kode_wilayah": "33.14.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.19"
+    }
+  ]
+}

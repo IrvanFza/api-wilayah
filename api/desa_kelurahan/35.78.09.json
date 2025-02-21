@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Keputih",
+      "kode_wilayah": "35.78.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.09"
+    },
+    {
+      "nama_wilayah": "Gebang Putih",
+      "kode_wilayah": "35.78.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.09"
+    },
+    {
+      "nama_wilayah": "Klampis Ngasem",
+      "kode_wilayah": "35.78.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.09"
+    },
+    {
+      "nama_wilayah": "Menur Pumpungan",
+      "kode_wilayah": "35.78.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.09"
+    },
+    {
+      "nama_wilayah": "Nginden Jangkungan",
+      "kode_wilayah": "35.78.09.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.09"
+    },
+    {
+      "nama_wilayah": "Semolowaru",
+      "kode_wilayah": "35.78.09.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.09"
+    },
+    {
+      "nama_wilayah": "Medokan Semampir",
+      "kode_wilayah": "35.78.09.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.09"
+    }
+  ]
+}

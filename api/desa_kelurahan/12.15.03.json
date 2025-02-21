@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Salak I",
+      "kode_wilayah": "12.15.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.03"
+    },
+    {
+      "nama_wilayah": "Salak II",
+      "kode_wilayah": "12.15.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.03"
+    },
+    {
+      "nama_wilayah": "Boangmanalu",
+      "kode_wilayah": "12.15.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.03"
+    },
+    {
+      "nama_wilayah": "Sibongkaras",
+      "kode_wilayah": "12.15.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.03"
+    },
+    {
+      "nama_wilayah": "Kuta Tinggi",
+      "kode_wilayah": "12.15.03.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.03"
+    },
+    {
+      "nama_wilayah": "Penanggalan Binanga Boang",
+      "kode_wilayah": "12.15.03.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.03"
+    }
+  ]
+}

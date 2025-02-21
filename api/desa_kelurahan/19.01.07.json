@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Riau",
+      "kode_wilayah": "19.01.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.07"
+    },
+    {
+      "nama_wilayah": "Pangkal Niur",
+      "kode_wilayah": "19.01.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.07"
+    },
+    {
+      "nama_wilayah": "Pugul",
+      "kode_wilayah": "19.01.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.07"
+    },
+    {
+      "nama_wilayah": "Cit",
+      "kode_wilayah": "19.01.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.07"
+    },
+    {
+      "nama_wilayah": "Deniang",
+      "kode_wilayah": "19.01.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.07"
+    },
+    {
+      "nama_wilayah": "Silip",
+      "kode_wilayah": "19.01.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.07"
+    },
+    {
+      "nama_wilayah": "Mapur",
+      "kode_wilayah": "19.01.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.07"
+    },
+    {
+      "nama_wilayah": "Banyu Asin",
+      "kode_wilayah": "19.01.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.07"
+    },
+    {
+      "nama_wilayah": "Berbura",
+      "kode_wilayah": "19.01.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.07"
+    }
+  ]
+}

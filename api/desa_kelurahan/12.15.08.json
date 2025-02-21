@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Siempat Rube II",
+      "kode_wilayah": "12.15.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.08"
+    },
+    {
+      "nama_wilayah": "Siempat Rube I",
+      "kode_wilayah": "12.15.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.08"
+    },
+    {
+      "nama_wilayah": "Mungkur",
+      "kode_wilayah": "12.15.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.08"
+    },
+    {
+      "nama_wilayah": "Siempat Rube IV",
+      "kode_wilayah": "12.15.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.08"
+    },
+    {
+      "nama_wilayah": "Kuta Jungak",
+      "kode_wilayah": "12.15.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.08"
+    },
+    {
+      "nama_wilayah": "Traju",
+      "kode_wilayah": "12.15.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.08"
+    }
+  ]
+}

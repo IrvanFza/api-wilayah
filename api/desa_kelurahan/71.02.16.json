@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sumalangka",
+      "kode_wilayah": "71.02.16.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.16"
+    },
+    {
+      "nama_wilayah": "Sasaran",
+      "kode_wilayah": "71.02.16.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.16"
+    },
+    {
+      "nama_wilayah": "Kampung Jawa",
+      "kode_wilayah": "71.02.16.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.16"
+    },
+    {
+      "nama_wilayah": "Wulauan",
+      "kode_wilayah": "71.02.16.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.16"
+    },
+    {
+      "nama_wilayah": "Marawas",
+      "kode_wilayah": "71.02.16.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.16"
+    },
+    {
+      "nama_wilayah": "Tonsea Lama",
+      "kode_wilayah": "71.02.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.16"
+    },
+    {
+      "nama_wilayah": "Kembuan",
+      "kode_wilayah": "71.02.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.16"
+    },
+    {
+      "nama_wilayah": "Kembuan Satu",
+      "kode_wilayah": "71.02.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.16"
+    }
+  ]
+}

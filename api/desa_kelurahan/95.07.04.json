@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Gamelia",
+      "kode_wilayah": "95.07.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.04"
+    },
+    {
+      "nama_wilayah": "Pirawun",
+      "kode_wilayah": "95.07.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.04"
+    },
+    {
+      "nama_wilayah": "Wupi",
+      "kode_wilayah": "95.07.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.04"
+    },
+    {
+      "nama_wilayah": "Gawiwarak",
+      "kode_wilayah": "95.07.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.04"
+    },
+    {
+      "nama_wilayah": "Meyagale",
+      "kode_wilayah": "95.07.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.04"
+    },
+    {
+      "nama_wilayah": "Wulaipas",
+      "kode_wilayah": "95.07.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.04"
+    },
+    {
+      "nama_wilayah": "Gunagewak",
+      "kode_wilayah": "95.07.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.04"
+    },
+    {
+      "nama_wilayah": "Wunume",
+      "kode_wilayah": "95.07.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.04"
+    }
+  ]
+}

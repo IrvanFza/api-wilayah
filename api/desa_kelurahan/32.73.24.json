@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Sukamiskin",
+      "kode_wilayah": "32.73.24.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.24"
+    },
+    {
+      "nama_wilayah": "Cisaranten Bina Harapan",
+      "kode_wilayah": "32.73.24.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.24"
+    },
+    {
+      "nama_wilayah": "Cisaranten Kulon",
+      "kode_wilayah": "32.73.24.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.24"
+    },
+    {
+      "nama_wilayah": "Cisaranten Endah",
+      "kode_wilayah": "32.73.24.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.24"
+    }
+  ]
+}

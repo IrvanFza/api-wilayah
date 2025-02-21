@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Pinto Rimba",
+      "kode_wilayah": "11.01.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.16"
+    },
+    {
+      "nama_wilayah": "Krueng Luas",
+      "kode_wilayah": "11.01.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.16"
+    },
+    {
+      "nama_wilayah": "Jambo Dalem",
+      "kode_wilayah": "11.01.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.16"
+    },
+    {
+      "nama_wilayah": "Kapa Sesak",
+      "kode_wilayah": "11.01.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.16"
+    },
+    {
+      "nama_wilayah": "Seuneubok Punto",
+      "kode_wilayah": "11.01.16.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.16"
+    },
+    {
+      "nama_wilayah": "Seuneubok Pusaka",
+      "kode_wilayah": "11.01.16.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.16"
+    },
+    {
+      "nama_wilayah": "Alur Bujok",
+      "kode_wilayah": "11.01.16.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.16"
+    },
+    {
+      "nama_wilayah": "Titi Poben",
+      "kode_wilayah": "11.01.16.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.16"
+    }
+  ]
+}

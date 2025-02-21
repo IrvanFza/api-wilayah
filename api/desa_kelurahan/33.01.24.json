@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Ujunggagak",
+      "kode_wilayah": "33.01.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.24"
+    },
+    {
+      "nama_wilayah": "Ujungalang",
+      "kode_wilayah": "33.01.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.24"
+    },
+    {
+      "nama_wilayah": "Panikel",
+      "kode_wilayah": "33.01.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.24"
+    },
+    {
+      "nama_wilayah": "Klaces",
+      "kode_wilayah": "33.01.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.24"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Landasan Ulin Timur",
+      "kode_wilayah": "63.72.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.72",
+      "kode_kecamatan": "63.72.02"
+    },
+    {
+      "nama_wilayah": "Guntung Payung",
+      "kode_wilayah": "63.72.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.72",
+      "kode_kecamatan": "63.72.02"
+    },
+    {
+      "nama_wilayah": "Guntung Manggis",
+      "kode_wilayah": "63.72.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.72",
+      "kode_kecamatan": "63.72.02"
+    },
+    {
+      "nama_wilayah": "Syamsudin Noor",
+      "kode_wilayah": "63.72.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.72",
+      "kode_kecamatan": "63.72.02"
+    }
+  ]
+}

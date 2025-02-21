@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Buru",
+      "kode_wilayah": "21.02.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.06"
+    },
+    {
+      "nama_wilayah": "Lubuk Puding",
+      "kode_wilayah": "21.02.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.06"
+    },
+    {
+      "nama_wilayah": "Tanjung Hutan",
+      "kode_wilayah": "21.02.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.06"
+    },
+    {
+      "nama_wilayah": "Tanjung Batu Kecil",
+      "kode_wilayah": "21.02.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.06"
+    }
+  ]
+}

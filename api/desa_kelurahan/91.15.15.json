@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Mambai",
+      "kode_wilayah": "91.15.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.15"
+    },
+    {
+      "nama_wilayah": "Soyoi",
+      "kode_wilayah": "91.15.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.15"
+    },
+    {
+      "nama_wilayah": "Daimboa",
+      "kode_wilayah": "91.15.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.15"
+    },
+    {
+      "nama_wilayah": "Napani",
+      "kode_wilayah": "91.15.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.15"
+    },
+    {
+      "nama_wilayah": "Segha",
+      "kode_wilayah": "91.15.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.15"
+    },
+    {
+      "nama_wilayah": "Wainarisi",
+      "kode_wilayah": "91.15.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.15"
+    },
+    {
+      "nama_wilayah": "Fafarui",
+      "kode_wilayah": "91.15.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.15"
+    },
+    {
+      "nama_wilayah": "Dawoa",
+      "kode_wilayah": "91.15.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.15"
+    },
+    {
+      "nama_wilayah": "Sinabo",
+      "kode_wilayah": "91.15.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.15"
+    },
+    {
+      "nama_wilayah": "Woinui",
+      "kode_wilayah": "91.15.15.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.15"
+    }
+  ]
+}

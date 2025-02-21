@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Mandomai",
+      "kode_wilayah": "62.03.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.05"
+    },
+    {
+      "nama_wilayah": "Sei Kayu",
+      "kode_wilayah": "62.03.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.05"
+    },
+    {
+      "nama_wilayah": "Saka Mangkahai",
+      "kode_wilayah": "62.03.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.05"
+    },
+    {
+      "nama_wilayah": "Anjir Kalampan",
+      "kode_wilayah": "62.03.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.05"
+    },
+    {
+      "nama_wilayah": "Pantai",
+      "kode_wilayah": "62.03.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.05"
+    },
+    {
+      "nama_wilayah": "Saka Tamiang",
+      "kode_wilayah": "62.03.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.05"
+    },
+    {
+      "nama_wilayah": "Penda Katapi",
+      "kode_wilayah": "62.03.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.05"
+    },
+    {
+      "nama_wilayah": "Teluk Hiri",
+      "kode_wilayah": "62.03.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.05"
+    },
+    {
+      "nama_wilayah": "Sei Dusun",
+      "kode_wilayah": "62.03.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.05"
+    },
+    {
+      "nama_wilayah": "Sei Pitung",
+      "kode_wilayah": "62.03.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.05"
+    },
+    {
+      "nama_wilayah": "Maju Bersama",
+      "kode_wilayah": "62.03.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.05"
+    },
+    {
+      "nama_wilayah": "Basuta Raya",
+      "kode_wilayah": "62.03.05.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.05"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kumai",
+      "kode_wilayah": "62.01.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.01",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Arut Selatan",
+      "kode_wilayah": "62.01.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.01",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Kotawaringin Lama",
+      "kode_wilayah": "62.01.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.01",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Arut Utara",
+      "kode_wilayah": "62.01.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.01",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Pangkalan Lada",
+      "kode_wilayah": "62.01.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.01",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Pangkalan Banteng",
+      "kode_wilayah": "62.01.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.01",
+      "kode_provinsi": "62"
+    }
+  ]
+}

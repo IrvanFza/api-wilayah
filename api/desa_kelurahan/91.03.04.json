@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Dosay",
+      "kode_wilayah": "91.03.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.04"
+    },
+    {
+      "nama_wilayah": "Maribu",
+      "kode_wilayah": "91.03.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.04"
+    },
+    {
+      "nama_wilayah": "Sabron Sari",
+      "kode_wilayah": "91.03.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.04"
+    },
+    {
+      "nama_wilayah": "Sabro Yaru",
+      "kode_wilayah": "91.03.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.04"
+    },
+    {
+      "nama_wilayah": "Desa Adat Waibron Bano",
+      "kode_wilayah": "91.03.04.3006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.04"
+    }
+  ]
+}

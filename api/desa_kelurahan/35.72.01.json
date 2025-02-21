@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kepanjenkidul",
+      "kode_wilayah": "35.72.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.72",
+      "kode_kecamatan": "35.72.01"
+    },
+    {
+      "nama_wilayah": "Ngadirejo",
+      "kode_wilayah": "35.72.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.72",
+      "kode_kecamatan": "35.72.01"
+    },
+    {
+      "nama_wilayah": "Sentul",
+      "kode_wilayah": "35.72.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.72",
+      "kode_kecamatan": "35.72.01"
+    },
+    {
+      "nama_wilayah": "Kauman",
+      "kode_wilayah": "35.72.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.72",
+      "kode_kecamatan": "35.72.01"
+    },
+    {
+      "nama_wilayah": "Tanggung",
+      "kode_wilayah": "35.72.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.72",
+      "kode_kecamatan": "35.72.01"
+    },
+    {
+      "nama_wilayah": "Bendo",
+      "kode_wilayah": "35.72.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.72",
+      "kode_kecamatan": "35.72.01"
+    },
+    {
+      "nama_wilayah": "Kepanjenlor",
+      "kode_wilayah": "35.72.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.72",
+      "kode_kecamatan": "35.72.01"
+    }
+  ]
+}

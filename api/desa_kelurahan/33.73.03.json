@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Noborejo",
+      "kode_wilayah": "33.73.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.73",
+      "kode_kecamatan": "33.73.03"
+    },
+    {
+      "nama_wilayah": "Ledok",
+      "kode_wilayah": "33.73.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.73",
+      "kode_kecamatan": "33.73.03"
+    },
+    {
+      "nama_wilayah": "Tegalrejo",
+      "kode_wilayah": "33.73.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.73",
+      "kode_kecamatan": "33.73.03"
+    },
+    {
+      "nama_wilayah": "Kumpulrejo",
+      "kode_wilayah": "33.73.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.73",
+      "kode_kecamatan": "33.73.03"
+    },
+    {
+      "nama_wilayah": "Randuacir",
+      "kode_wilayah": "33.73.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.73",
+      "kode_kecamatan": "33.73.03"
+    },
+    {
+      "nama_wilayah": "Cebongan",
+      "kode_wilayah": "33.73.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.73",
+      "kode_kecamatan": "33.73.03"
+    }
+  ]
+}

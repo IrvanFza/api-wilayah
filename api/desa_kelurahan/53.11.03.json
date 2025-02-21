@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Lewa Paku",
+      "kode_wilayah": "53.11.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.03"
+    },
+    {
+      "nama_wilayah": "Kambuhapang",
+      "kode_wilayah": "53.11.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.03"
+    },
+    {
+      "nama_wilayah": "Kambata Wundut",
+      "kode_wilayah": "53.11.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.03"
+    },
+    {
+      "nama_wilayah": "Kondamara",
+      "kode_wilayah": "53.11.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.03"
+    },
+    {
+      "nama_wilayah": "Matawai Pawali",
+      "kode_wilayah": "53.11.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.03"
+    },
+    {
+      "nama_wilayah": "Rakawatu",
+      "kode_wilayah": "53.11.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.03"
+    },
+    {
+      "nama_wilayah": "Tana Rara",
+      "kode_wilayah": "53.11.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.03"
+    },
+    {
+      "nama_wilayah": "Bidi Hunga",
+      "kode_wilayah": "53.11.03.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.03"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Keliki",
+      "kode_wilayah": "51.04.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.04",
+      "kode_kecamatan": "51.04.06"
+    },
+    {
+      "nama_wilayah": "Tegallalang",
+      "kode_wilayah": "51.04.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.04",
+      "kode_kecamatan": "51.04.06"
+    },
+    {
+      "nama_wilayah": "Kenderan",
+      "kode_wilayah": "51.04.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.04",
+      "kode_kecamatan": "51.04.06"
+    },
+    {
+      "nama_wilayah": "Kedisan",
+      "kode_wilayah": "51.04.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.04",
+      "kode_kecamatan": "51.04.06"
+    },
+    {
+      "nama_wilayah": "Pupuan",
+      "kode_wilayah": "51.04.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.04",
+      "kode_kecamatan": "51.04.06"
+    },
+    {
+      "nama_wilayah": "Sebatu",
+      "kode_wilayah": "51.04.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.04",
+      "kode_kecamatan": "51.04.06"
+    },
+    {
+      "nama_wilayah": "Taro",
+      "kode_wilayah": "51.04.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.04",
+      "kode_kecamatan": "51.04.06"
+    }
+  ]
+}

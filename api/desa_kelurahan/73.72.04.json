@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kampung Baru",
+      "kode_wilayah": "73.72.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.72",
+      "kode_kecamatan": "73.72.04"
+    },
+    {
+      "nama_wilayah": "Cappa Galung",
+      "kode_wilayah": "73.72.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.72",
+      "kode_kecamatan": "73.72.04"
+    },
+    {
+      "nama_wilayah": "Lumpue",
+      "kode_wilayah": "73.72.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.72",
+      "kode_kecamatan": "73.72.04"
+    },
+    {
+      "nama_wilayah": "Tiro Sompe",
+      "kode_wilayah": "73.72.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.72",
+      "kode_kecamatan": "73.72.04"
+    },
+    {
+      "nama_wilayah": "Sumpang Minangae",
+      "kode_wilayah": "73.72.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.72",
+      "kode_kecamatan": "73.72.04"
+    },
+    {
+      "nama_wilayah": "Bumi Harapan",
+      "kode_wilayah": "73.72.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.72",
+      "kode_kecamatan": "73.72.04"
+    }
+  ]
+}

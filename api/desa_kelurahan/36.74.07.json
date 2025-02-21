@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Muncul",
+      "kode_wilayah": "36.74.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.07"
+    },
+    {
+      "nama_wilayah": "Setu",
+      "kode_wilayah": "36.74.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.07"
+    },
+    {
+      "nama_wilayah": "Keranggan",
+      "kode_wilayah": "36.74.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.07"
+    },
+    {
+      "nama_wilayah": "Kademangan",
+      "kode_wilayah": "36.74.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.07"
+    },
+    {
+      "nama_wilayah": "Babakan",
+      "kode_wilayah": "36.74.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.07"
+    },
+    {
+      "nama_wilayah": "Bakti Jaya",
+      "kode_wilayah": "36.74.07.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.07"
+    }
+  ]
+}

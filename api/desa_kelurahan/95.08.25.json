@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Kora",
+      "kode_wilayah": "95.08.25.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.25"
+    },
+    {
+      "nama_wilayah": "Nanggoal",
+      "kode_wilayah": "95.08.25.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.25"
+    },
+    {
+      "nama_wilayah": "Wenam",
+      "kode_wilayah": "95.08.25.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.25"
+    },
+    {
+      "nama_wilayah": "Wilimi",
+      "kode_wilayah": "95.08.25.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.25"
+    },
+    {
+      "nama_wilayah": "Brutnai",
+      "kode_wilayah": "95.08.25.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.25"
+    }
+  ]
+}

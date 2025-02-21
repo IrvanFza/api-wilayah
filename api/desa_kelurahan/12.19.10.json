@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Perkebunan Tanah Itam Ulu",
+      "kode_wilayah": "12.19.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.10"
+    },
+    {
+      "nama_wilayah": "Empat Negeri",
+      "kode_wilayah": "12.19.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.10"
+    },
+    {
+      "nama_wilayah": "Sumber Rejo",
+      "kode_wilayah": "12.19.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.10"
+    },
+    {
+      "nama_wilayah": "Lubuk Hulu",
+      "kode_wilayah": "12.19.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.10"
+    },
+    {
+      "nama_wilayah": "Lubuk Besar",
+      "kode_wilayah": "12.19.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.10"
+    },
+    {
+      "nama_wilayah": "Pulau Sejuk",
+      "kode_wilayah": "12.19.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.10"
+    },
+    {
+      "nama_wilayah": "Simpang Dolok",
+      "kode_wilayah": "12.19.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.10"
+    },
+    {
+      "nama_wilayah": "Air Hitam",
+      "kode_wilayah": "12.19.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.10"
+    },
+    {
+      "nama_wilayah": "Kwala Gunung",
+      "kode_wilayah": "12.19.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.10"
+    },
+    {
+      "nama_wilayah": "Cahaya Pardomuan",
+      "kode_wilayah": "12.19.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.10"
+    }
+  ]
+}

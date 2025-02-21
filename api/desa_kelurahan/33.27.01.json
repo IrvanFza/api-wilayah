@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Plakaran",
+      "kode_wilayah": "33.27.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.27",
+      "kode_kecamatan": "33.27.01"
+    },
+    {
+      "nama_wilayah": "Mandiraja",
+      "kode_wilayah": "33.27.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.27",
+      "kode_kecamatan": "33.27.01"
+    },
+    {
+      "nama_wilayah": "Walangsanga",
+      "kode_wilayah": "33.27.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.27",
+      "kode_kecamatan": "33.27.01"
+    },
+    {
+      "nama_wilayah": "Sima",
+      "kode_wilayah": "33.27.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.27",
+      "kode_kecamatan": "33.27.01"
+    },
+    {
+      "nama_wilayah": "Moga",
+      "kode_wilayah": "33.27.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.27",
+      "kode_kecamatan": "33.27.01"
+    },
+    {
+      "nama_wilayah": "Banyumudal",
+      "kode_wilayah": "33.27.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.27",
+      "kode_kecamatan": "33.27.01"
+    },
+    {
+      "nama_wilayah": "Wangkelang",
+      "kode_wilayah": "33.27.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.27",
+      "kode_kecamatan": "33.27.01"
+    },
+    {
+      "nama_wilayah": "Kebanggan",
+      "kode_wilayah": "33.27.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.27",
+      "kode_kecamatan": "33.27.01"
+    },
+    {
+      "nama_wilayah": "Pepedan",
+      "kode_wilayah": "33.27.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.27",
+      "kode_kecamatan": "33.27.01"
+    },
+    {
+      "nama_wilayah": "Gendoang",
+      "kode_wilayah": "33.27.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.27",
+      "kode_kecamatan": "33.27.01"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Kolese",
+      "kode_wilayah": "74.03.33.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.33"
+    },
+    {
+      "nama_wilayah": "Tampunabale",
+      "kode_wilayah": "74.03.33.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.33"
+    },
+    {
+      "nama_wilayah": "Mata Indaha",
+      "kode_wilayah": "74.03.33.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.33"
+    },
+    {
+      "nama_wilayah": "Lambelu",
+      "kode_wilayah": "74.03.33.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.33"
+    }
+  ]
+}

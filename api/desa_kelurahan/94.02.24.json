@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Guna",
+      "kode_wilayah": "94.02.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.24"
+    },
+    {
+      "nama_wilayah": "Mandura",
+      "kode_wilayah": "94.02.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.24"
+    },
+    {
+      "nama_wilayah": "Lugubago",
+      "kode_wilayah": "94.02.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.24"
+    },
+    {
+      "nama_wilayah": "Andugir",
+      "kode_wilayah": "94.02.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.24"
+    },
+    {
+      "nama_wilayah": "Muara Miguni",
+      "kode_wilayah": "94.02.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.24"
+    },
+    {
+      "nama_wilayah": "Abili",
+      "kode_wilayah": "94.02.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.24"
+    },
+    {
+      "nama_wilayah": "Pereya",
+      "kode_wilayah": "94.02.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.24"
+    },
+    {
+      "nama_wilayah": "Ginimanggen",
+      "kode_wilayah": "94.02.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.24"
+    },
+    {
+      "nama_wilayah": "Laworege",
+      "kode_wilayah": "94.02.24.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.24"
+    },
+    {
+      "nama_wilayah": "Wumbiri",
+      "kode_wilayah": "94.02.24.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.24"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Sepang",
+      "kode_wilayah": "62.10.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.10",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Kurun",
+      "kode_wilayah": "62.10.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.10",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Tewah",
+      "kode_wilayah": "62.10.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.10",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Kahayan Hulu Utara",
+      "kode_wilayah": "62.10.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.10",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Rungan",
+      "kode_wilayah": "62.10.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.10",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Manuhing",
+      "kode_wilayah": "62.10.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.10",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Mihing Raya",
+      "kode_wilayah": "62.10.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.10",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Damang Batu",
+      "kode_wilayah": "62.10.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.10",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Miri Manasa",
+      "kode_wilayah": "62.10.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.10",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Rungan Hulu",
+      "kode_wilayah": "62.10.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.10",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Manuhing Raya",
+      "kode_wilayah": "62.10.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.10",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Rungan Barat",
+      "kode_wilayah": "62.10.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.10",
+      "kode_provinsi": "62"
+    }
+  ]
+}

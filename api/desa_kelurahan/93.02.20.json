@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Wanggom",
+      "kode_wilayah": "93.02.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.20"
+    },
+    {
+      "nama_wilayah": "Kawagit",
+      "kode_wilayah": "93.02.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.20"
+    },
+    {
+      "nama_wilayah": "Kombai",
+      "kode_wilayah": "93.02.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.20"
+    },
+    {
+      "nama_wilayah": "Biwage",
+      "kode_wilayah": "93.02.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.20"
+    },
+    {
+      "nama_wilayah": "Biwage Dua",
+      "kode_wilayah": "93.02.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.20"
+    },
+    {
+      "nama_wilayah": "Niop",
+      "kode_wilayah": "93.02.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.20"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Semabung Lama",
+      "kode_wilayah": "19.71.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.01"
+    },
+    {
+      "nama_wilayah": "Bacang",
+      "kode_wilayah": "19.71.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.01"
+    },
+    {
+      "nama_wilayah": "Air Itam",
+      "kode_wilayah": "19.71.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.01"
+    },
+    {
+      "nama_wilayah": "Pasir Putih",
+      "kode_wilayah": "19.71.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.01"
+    },
+    {
+      "nama_wilayah": "Temberan",
+      "kode_wilayah": "19.71.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.01"
+    },
+    {
+      "nama_wilayah": "Sinar Bulan",
+      "kode_wilayah": "19.71.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.01"
+    },
+    {
+      "nama_wilayah": "Air Mawar",
+      "kode_wilayah": "19.71.01.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.01"
+    }
+  ]
+}

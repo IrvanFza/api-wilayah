@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Singkawang Tengah",
+      "kode_wilayah": "61.72.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.72",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Singkawang Barat",
+      "kode_wilayah": "61.72.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.72",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Singkawang Timur",
+      "kode_wilayah": "61.72.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.72",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Singkawang Utara",
+      "kode_wilayah": "61.72.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.72",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Singkawang Selatan",
+      "kode_wilayah": "61.72.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.72",
+      "kode_provinsi": "61"
+    }
+  ]
+}

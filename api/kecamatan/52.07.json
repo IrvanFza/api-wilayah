@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Jereweh",
+      "kode_wilayah": "52.07.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.07",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Taliwang",
+      "kode_wilayah": "52.07.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.07",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Seteluk",
+      "kode_wilayah": "52.07.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.07",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Sekongkang",
+      "kode_wilayah": "52.07.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.07",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Brang Rea",
+      "kode_wilayah": "52.07.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.07",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Poto Tano",
+      "kode_wilayah": "52.07.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.07",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Brang Ene",
+      "kode_wilayah": "52.07.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.07",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Maluk",
+      "kode_wilayah": "52.07.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.07",
+      "kode_provinsi": "52"
+    }
+  ]
+}

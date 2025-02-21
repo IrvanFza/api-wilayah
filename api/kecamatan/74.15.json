@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Batauga",
+      "kode_wilayah": "74.15.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.15",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Sampolawa",
+      "kode_wilayah": "74.15.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.15",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Lapandewa",
+      "kode_wilayah": "74.15.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.15",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Batu Atas",
+      "kode_wilayah": "74.15.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.15",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Siompu Barat",
+      "kode_wilayah": "74.15.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.15",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Siompu",
+      "kode_wilayah": "74.15.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.15",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Kadatua",
+      "kode_wilayah": "74.15.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.15",
+      "kode_provinsi": "74"
+    }
+  ]
+}

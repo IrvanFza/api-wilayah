@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "OP",
+      "kode_wilayah": "53.02.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.17"
+    },
+    {
+      "nama_wilayah": "Sahan",
+      "kode_wilayah": "53.02.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.17"
+    },
+    {
+      "nama_wilayah": "Nenoat",
+      "kode_wilayah": "53.02.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.17"
+    },
+    {
+      "nama_wilayah": "Haineno",
+      "kode_wilayah": "53.02.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.17"
+    },
+    {
+      "nama_wilayah": "Nunkolo",
+      "kode_wilayah": "53.02.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.17"
+    },
+    {
+      "nama_wilayah": "Saenam",
+      "kode_wilayah": "53.02.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.17"
+    },
+    {
+      "nama_wilayah": "Fat",
+      "kode_wilayah": "53.02.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.17"
+    },
+    {
+      "nama_wilayah": "Haumeni",
+      "kode_wilayah": "53.02.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.17"
+    },
+    {
+      "nama_wilayah": "Putun",
+      "kode_wilayah": "53.02.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.17"
+    }
+  ]
+}

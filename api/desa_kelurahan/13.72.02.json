@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Koto Panjang",
+      "kode_wilayah": "13.72.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.72",
+      "kode_kecamatan": "13.72.02"
+    },
+    {
+      "nama_wilayah": "Pasar Pandan Air Mati",
+      "kode_wilayah": "13.72.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.72",
+      "kode_kecamatan": "13.72.02"
+    },
+    {
+      "nama_wilayah": "Tanjung Paku",
+      "kode_wilayah": "13.72.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.72",
+      "kode_kecamatan": "13.72.02"
+    },
+    {
+      "nama_wilayah": "Nan Balimo",
+      "kode_wilayah": "13.72.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.72",
+      "kode_kecamatan": "13.72.02"
+    },
+    {
+      "nama_wilayah": "Kampung Jawa",
+      "kode_wilayah": "13.72.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.72",
+      "kode_kecamatan": "13.72.02"
+    },
+    {
+      "nama_wilayah": "Laing",
+      "kode_wilayah": "13.72.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.72",
+      "kode_kecamatan": "13.72.02"
+    }
+  ]
+}

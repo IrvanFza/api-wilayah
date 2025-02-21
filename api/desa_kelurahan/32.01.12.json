@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Atang Senjaya",
+      "kode_wilayah": "32.01.12.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.12"
+    },
+    {
+      "nama_wilayah": "Bojong",
+      "kode_wilayah": "32.01.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.12"
+    },
+    {
+      "nama_wilayah": "Parakanjaya",
+      "kode_wilayah": "32.01.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.12"
+    },
+    {
+      "nama_wilayah": "Kemang",
+      "kode_wilayah": "32.01.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.12"
+    },
+    {
+      "nama_wilayah": "Pabuaran",
+      "kode_wilayah": "32.01.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.12"
+    },
+    {
+      "nama_wilayah": "Semplak Barat",
+      "kode_wilayah": "32.01.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.12"
+    },
+    {
+      "nama_wilayah": "Jampang",
+      "kode_wilayah": "32.01.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.12"
+    },
+    {
+      "nama_wilayah": "Pondok Udik",
+      "kode_wilayah": "32.01.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.12"
+    },
+    {
+      "nama_wilayah": "Tegal",
+      "kode_wilayah": "32.01.12.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.12"
+    }
+  ]
+}

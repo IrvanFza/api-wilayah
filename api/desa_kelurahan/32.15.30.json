@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kertamukti",
+      "kode_wilayah": "32.15.30.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.30"
+    },
+    {
+      "nama_wilayah": "Rawasari",
+      "kode_wilayah": "32.15.30.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.30"
+    },
+    {
+      "nama_wilayah": "Pusakajaya Selatan",
+      "kode_wilayah": "32.15.30.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.30"
+    },
+    {
+      "nama_wilayah": "Cikande",
+      "kode_wilayah": "32.15.30.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.30"
+    },
+    {
+      "nama_wilayah": "Kosambibatu",
+      "kode_wilayah": "32.15.30.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.30"
+    },
+    {
+      "nama_wilayah": "Pusakajaya Utara",
+      "kode_wilayah": "32.15.30.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.30"
+    },
+    {
+      "nama_wilayah": "Sukaratu",
+      "kode_wilayah": "32.15.30.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.30"
+    },
+    {
+      "nama_wilayah": "Ciptamargi",
+      "kode_wilayah": "32.15.30.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.30"
+    },
+    {
+      "nama_wilayah": "Mekarpohaci",
+      "kode_wilayah": "32.15.30.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.30"
+    },
+    {
+      "nama_wilayah": "Tanjungsari",
+      "kode_wilayah": "32.15.30.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.30"
+    }
+  ]
+}

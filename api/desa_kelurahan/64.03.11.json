@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Bohe Silian",
+      "kode_wilayah": "64.03.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.11"
+    },
+    {
+      "nama_wilayah": "Payung-Payung",
+      "kode_wilayah": "64.03.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.11"
+    },
+    {
+      "nama_wilayah": "Teluk Alulu",
+      "kode_wilayah": "64.03.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.11"
+    },
+    {
+      "nama_wilayah": "Teluk Harapan",
+      "kode_wilayah": "64.03.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.11"
+    }
+  ]
+}

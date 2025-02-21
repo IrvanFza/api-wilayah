@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Lamin",
+      "kode_wilayah": "15.02.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.13"
+    },
+    {
+      "nama_wilayah": "Limbur Merangin",
+      "kode_wilayah": "15.02.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.13"
+    },
+    {
+      "nama_wilayah": "Karang Anyar",
+      "kode_wilayah": "15.02.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.13"
+    },
+    {
+      "nama_wilayah": "Pinang Merah",
+      "kode_wilayah": "15.02.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.13"
+    },
+    {
+      "nama_wilayah": "Simpang L. Merangin",
+      "kode_wilayah": "15.02.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.13"
+    },
+    {
+      "nama_wilayah": "Mampun Baru",
+      "kode_wilayah": "15.02.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.13"
+    },
+    {
+      "nama_wilayah": "Papit",
+      "kode_wilayah": "15.02.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.13"
+    },
+    {
+      "nama_wilayah": "PulauTujuh",
+      "kode_wilayah": "15.02.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.13"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kroptak",
+      "kode_wilayah": "95.08.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.09"
+    },
+    {
+      "nama_wilayah": "Miniem",
+      "kode_wilayah": "95.08.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.09"
+    },
+    {
+      "nama_wilayah": "Golparek",
+      "kode_wilayah": "95.08.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.09"
+    },
+    {
+      "nama_wilayah": "Pesat",
+      "kode_wilayah": "95.08.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.09"
+    },
+    {
+      "nama_wilayah": "Komoroam",
+      "kode_wilayah": "95.08.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.09"
+    },
+    {
+      "nama_wilayah": "Gol",
+      "kode_wilayah": "95.08.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.09"
+    }
+  ]
+}

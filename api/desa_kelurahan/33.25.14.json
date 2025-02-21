@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pecalungan",
+      "kode_wilayah": "33.25.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.25",
+      "kode_kecamatan": "33.25.14"
+    },
+    {
+      "nama_wilayah": "Bandung",
+      "kode_wilayah": "33.25.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.25",
+      "kode_kecamatan": "33.25.14"
+    },
+    {
+      "nama_wilayah": "Gombong",
+      "kode_wilayah": "33.25.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.25",
+      "kode_kecamatan": "33.25.14"
+    },
+    {
+      "nama_wilayah": "Randu",
+      "kode_wilayah": "33.25.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.25",
+      "kode_kecamatan": "33.25.14"
+    },
+    {
+      "nama_wilayah": "Siguci",
+      "kode_wilayah": "33.25.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.25",
+      "kode_kecamatan": "33.25.14"
+    },
+    {
+      "nama_wilayah": "Pretek",
+      "kode_wilayah": "33.25.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.25",
+      "kode_kecamatan": "33.25.14"
+    },
+    {
+      "nama_wilayah": "Selokarto",
+      "kode_wilayah": "33.25.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.25",
+      "kode_kecamatan": "33.25.14"
+    },
+    {
+      "nama_wilayah": "Gemuh",
+      "kode_wilayah": "33.25.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.25",
+      "kode_kecamatan": "33.25.14"
+    },
+    {
+      "nama_wilayah": "Gumawang",
+      "kode_wilayah": "33.25.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.25",
+      "kode_kecamatan": "33.25.14"
+    },
+    {
+      "nama_wilayah": "Keniten",
+      "kode_wilayah": "33.25.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.25",
+      "kode_kecamatan": "33.25.14"
+    }
+  ]
+}

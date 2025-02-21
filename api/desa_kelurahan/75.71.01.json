@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Dembe I",
+      "kode_wilayah": "75.71.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.01"
+    },
+    {
+      "nama_wilayah": "Lekobalo",
+      "kode_wilayah": "75.71.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.01"
+    },
+    {
+      "nama_wilayah": "Pilolodaa",
+      "kode_wilayah": "75.71.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.01"
+    },
+    {
+      "nama_wilayah": "Buliide",
+      "kode_wilayah": "75.71.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.01"
+    },
+    {
+      "nama_wilayah": "Tenilo",
+      "kode_wilayah": "75.71.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.01"
+    },
+    {
+      "nama_wilayah": "Molosipat  W",
+      "kode_wilayah": "75.71.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.01"
+    },
+    {
+      "nama_wilayah": "Buladu",
+      "kode_wilayah": "75.71.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.01"
+    }
+  ]
+}

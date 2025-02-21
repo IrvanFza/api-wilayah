@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kubalahin",
+      "kode_wilayah": "81.04.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.11"
+    },
+    {
+      "nama_wilayah": "Waegeren",
+      "kode_wilayah": "81.04.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.11"
+    },
+    {
+      "nama_wilayah": "Grandeng",
+      "kode_wilayah": "81.04.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.11"
+    },
+    {
+      "nama_wilayah": "Lele",
+      "kode_wilayah": "81.04.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.11"
+    },
+    {
+      "nama_wilayah": "Wanakarta",
+      "kode_wilayah": "81.04.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.11"
+    },
+    {
+      "nama_wilayah": "Wabloy",
+      "kode_wilayah": "81.04.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.11"
+    },
+    {
+      "nama_wilayah": "Ohilahin",
+      "kode_wilayah": "81.04.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.11"
+    },
+    {
+      "nama_wilayah": "Tifu",
+      "kode_wilayah": "81.04.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.11"
+    },
+    {
+      "nama_wilayah": "Wapsalit",
+      "kode_wilayah": "81.04.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.11"
+    },
+    {
+      "nama_wilayah": "Nafrua",
+      "kode_wilayah": "81.04.11.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.11"
+    }
+  ]
+}

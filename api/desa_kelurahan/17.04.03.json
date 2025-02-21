@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Simpang Tiga",
+      "kode_wilayah": "17.04.03.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.03"
+    },
+    {
+      "nama_wilayah": "Tanjung Betung",
+      "kode_wilayah": "17.04.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.03"
+    },
+    {
+      "nama_wilayah": "Padang Manis",
+      "kode_wilayah": "17.04.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.03"
+    },
+    {
+      "nama_wilayah": "Guru Agung",
+      "kode_wilayah": "17.04.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.03"
+    },
+    {
+      "nama_wilayah": "Gunung Agung",
+      "kode_wilayah": "17.04.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.03"
+    },
+    {
+      "nama_wilayah": "Bandu Agung",
+      "kode_wilayah": "17.04.03.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.03"
+    },
+    {
+      "nama_wilayah": "Tanjung Betung II",
+      "kode_wilayah": "17.04.03.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.03"
+    },
+    {
+      "nama_wilayah": "Coko Enau",
+      "kode_wilayah": "17.04.03.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.03"
+    },
+    {
+      "nama_wilayah": "Pancur Negara",
+      "kode_wilayah": "17.04.03.2029",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.03"
+    },
+    {
+      "nama_wilayah": "Perugaian",
+      "kode_wilayah": "17.04.03.2030",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.03"
+    },
+    {
+      "nama_wilayah": "Guru Agung II",
+      "kode_wilayah": "17.04.03.2031",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.03"
+    }
+  ]
+}

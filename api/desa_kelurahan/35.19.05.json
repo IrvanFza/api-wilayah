@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Kare",
+      "kode_wilayah": "35.19.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.19",
+      "kode_kecamatan": "35.19.05"
+    },
+    {
+      "nama_wilayah": "Kepel",
+      "kode_wilayah": "35.19.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.19",
+      "kode_kecamatan": "35.19.05"
+    },
+    {
+      "nama_wilayah": "Bodag",
+      "kode_wilayah": "35.19.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.19",
+      "kode_kecamatan": "35.19.05"
+    },
+    {
+      "nama_wilayah": "Bolo",
+      "kode_wilayah": "35.19.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.19",
+      "kode_kecamatan": "35.19.05"
+    },
+    {
+      "nama_wilayah": "Kuwiran",
+      "kode_wilayah": "35.19.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.19",
+      "kode_kecamatan": "35.19.05"
+    },
+    {
+      "nama_wilayah": "Randualas",
+      "kode_wilayah": "35.19.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.19",
+      "kode_kecamatan": "35.19.05"
+    },
+    {
+      "nama_wilayah": "Cermo",
+      "kode_wilayah": "35.19.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.19",
+      "kode_kecamatan": "35.19.05"
+    },
+    {
+      "nama_wilayah": "Morang",
+      "kode_wilayah": "35.19.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.19",
+      "kode_kecamatan": "35.19.05"
+    }
+  ]
+}

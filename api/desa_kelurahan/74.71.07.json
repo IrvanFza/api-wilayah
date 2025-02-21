@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Wua Wua",
+      "kode_wilayah": "74.71.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.07"
+    },
+    {
+      "nama_wilayah": "Bonggoeya",
+      "kode_wilayah": "74.71.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.07"
+    },
+    {
+      "nama_wilayah": "Mataiwoi",
+      "kode_wilayah": "74.71.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.07"
+    },
+    {
+      "nama_wilayah": "Anawai",
+      "kode_wilayah": "74.71.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.07"
+    }
+  ]
+}

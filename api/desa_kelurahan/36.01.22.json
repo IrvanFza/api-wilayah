@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Kaduengang",
+      "kode_wilayah": "36.01.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.22"
+    },
+    {
+      "nama_wilayah": "Pasirpeuteuy",
+      "kode_wilayah": "36.01.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.22"
+    },
+    {
+      "nama_wilayah": "Kurungdahu",
+      "kode_wilayah": "36.01.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.22"
+    },
+    {
+      "nama_wilayah": "Kaduela",
+      "kode_wilayah": "36.01.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.22"
+    },
+    {
+      "nama_wilayah": "Koranji",
+      "kode_wilayah": "36.01.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.22"
+    },
+    {
+      "nama_wilayah": "Tapos",
+      "kode_wilayah": "36.01.22.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.22"
+    },
+    {
+      "nama_wilayah": "Cadasari",
+      "kode_wilayah": "36.01.22.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.22"
+    },
+    {
+      "nama_wilayah": "Ciinjuk",
+      "kode_wilayah": "36.01.22.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.22"
+    },
+    {
+      "nama_wilayah": "Kaungcaang",
+      "kode_wilayah": "36.01.22.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.22"
+    },
+    {
+      "nama_wilayah": "Cikentrung",
+      "kode_wilayah": "36.01.22.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.22"
+    },
+    {
+      "nama_wilayah": "Tanagara",
+      "kode_wilayah": "36.01.22.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.22"
+    }
+  ]
+}

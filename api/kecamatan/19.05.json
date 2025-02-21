@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Mentok",
+      "kode_wilayah": "19.05.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.05",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Simpang Teritip",
+      "kode_wilayah": "19.05.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.05",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Jebus",
+      "kode_wilayah": "19.05.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.05",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Kelapa",
+      "kode_wilayah": "19.05.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.05",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Tempilang",
+      "kode_wilayah": "19.05.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.05",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Parittiga",
+      "kode_wilayah": "19.05.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.05",
+      "kode_provinsi": "19"
+    }
+  ]
+}

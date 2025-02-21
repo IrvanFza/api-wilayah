@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Limo Koto",
+      "kode_wilayah": "13.03.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.03",
+      "kode_kecamatan": "13.03.08"
+    },
+    {
+      "nama_wilayah": "Palaluar",
+      "kode_wilayah": "13.03.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.03",
+      "kode_kecamatan": "13.03.08"
+    },
+    {
+      "nama_wilayah": "Guguak",
+      "kode_wilayah": "13.03.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.03",
+      "kode_kecamatan": "13.03.08"
+    },
+    {
+      "nama_wilayah": "Padang Laweh",
+      "kode_wilayah": "13.03.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.03",
+      "kode_kecamatan": "13.03.08"
+    },
+    {
+      "nama_wilayah": "Tanjung",
+      "kode_wilayah": "13.03.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.03",
+      "kode_kecamatan": "13.03.08"
+    },
+    {
+      "nama_wilayah": "Bukit Bual",
+      "kode_wilayah": "13.03.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.03",
+      "kode_kecamatan": "13.03.08"
+    },
+    {
+      "nama_wilayah": "Padang Laweh Selatan",
+      "kode_wilayah": "13.03.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.03",
+      "kode_kecamatan": "13.03.08"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Yogosem",
+      "kode_wilayah": "95.03.49.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.49"
+    },
+    {
+      "nama_wilayah": "Kiroma",
+      "kode_wilayah": "95.03.49.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.49"
+    },
+    {
+      "nama_wilayah": "Sogasio",
+      "kode_wilayah": "95.03.49.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.49"
+    },
+    {
+      "nama_wilayah": "Saikama",
+      "kode_wilayah": "95.03.49.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.49"
+    },
+    {
+      "nama_wilayah": "Hokolekma",
+      "kode_wilayah": "95.03.49.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.49"
+    },
+    {
+      "nama_wilayah": "Esahapuk",
+      "kode_wilayah": "95.03.49.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.49"
+    },
+    {
+      "nama_wilayah": "Mesahaput",
+      "kode_wilayah": "95.03.49.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.49"
+    }
+  ]
+}

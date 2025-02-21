@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Faenake",
+      "kode_wilayah": "53.03.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.17"
+    },
+    {
+      "nama_wilayah": "Banain A",
+      "kode_wilayah": "53.03.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.17"
+    },
+    {
+      "nama_wilayah": "Banain B",
+      "kode_wilayah": "53.03.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.17"
+    },
+    {
+      "nama_wilayah": "Banain C",
+      "kode_wilayah": "53.03.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.17"
+    },
+    {
+      "nama_wilayah": "Sainoni",
+      "kode_wilayah": "53.03.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.17"
+    },
+    {
+      "nama_wilayah": "Tes",
+      "kode_wilayah": "53.03.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.17"
+    },
+    {
+      "nama_wilayah": "Napan",
+      "kode_wilayah": "53.03.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.17"
+    },
+    {
+      "nama_wilayah": "Haumeni",
+      "kode_wilayah": "53.03.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.17"
+    },
+    {
+      "nama_wilayah": "Baas",
+      "kode_wilayah": "53.03.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.17"
+    }
+  ]
+}

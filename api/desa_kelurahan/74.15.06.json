@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Biwinapada",
+      "kode_wilayah": "74.15.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.06"
+    },
+    {
+      "nama_wilayah": "Kaimbulawa",
+      "kode_wilayah": "74.15.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.06"
+    },
+    {
+      "nama_wilayah": "Wakinamboro",
+      "kode_wilayah": "74.15.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.06"
+    },
+    {
+      "nama_wilayah": "Tongali",
+      "kode_wilayah": "74.15.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.06"
+    },
+    {
+      "nama_wilayah": "Lontoi",
+      "kode_wilayah": "74.15.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.06"
+    },
+    {
+      "nama_wilayah": "Karae",
+      "kode_wilayah": "74.15.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.06"
+    },
+    {
+      "nama_wilayah": "Batuawu",
+      "kode_wilayah": "74.15.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.06"
+    },
+    {
+      "nama_wilayah": "Nggulanggula",
+      "kode_wilayah": "74.15.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.06"
+    },
+    {
+      "nama_wilayah": "Waindawula",
+      "kode_wilayah": "74.15.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.06"
+    },
+    {
+      "nama_wilayah": "Lapara",
+      "kode_wilayah": "74.15.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.06"
+    }
+  ]
+}

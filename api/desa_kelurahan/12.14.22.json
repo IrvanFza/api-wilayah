@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Fadoro Ewo",
+      "kode_wilayah": "12.14.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.22"
+    },
+    {
+      "nama_wilayah": "Soroma-asi",
+      "kode_wilayah": "12.14.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.22"
+    },
+    {
+      "nama_wilayah": "Lauso",
+      "kode_wilayah": "12.14.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.22"
+    },
+    {
+      "nama_wilayah": "Sisarahili Oyo",
+      "kode_wilayah": "12.14.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.22"
+    },
+    {
+      "nama_wilayah": "Sisobahili Huruna",
+      "kode_wilayah": "12.14.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.22"
+    },
+    {
+      "nama_wilayah": "Onohazumba",
+      "kode_wilayah": "12.14.22.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.22"
+    },
+    {
+      "nama_wilayah": "Hiliweto",
+      "kode_wilayah": "12.14.22.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.22"
+    },
+    {
+      "nama_wilayah": "Orahili Huruna",
+      "kode_wilayah": "12.14.22.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.22"
+    },
+    {
+      "nama_wilayah": "Tetehosi",
+      "kode_wilayah": "12.14.22.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.22"
+    },
+    {
+      "nama_wilayah": "Helefanikha",
+      "kode_wilayah": "12.14.22.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.22"
+    }
+  ]
+}

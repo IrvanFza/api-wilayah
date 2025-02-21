@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kaimana",
+      "kode_wilayah": "92.08.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "92.08",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama_wilayah": "Buruway",
+      "kode_wilayah": "92.08.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "92.08",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama_wilayah": "Teluk Arguni Atas",
+      "kode_wilayah": "92.08.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "92.08",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama_wilayah": "Teluk Etna",
+      "kode_wilayah": "92.08.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "92.08",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama_wilayah": "Kambrau",
+      "kode_wilayah": "92.08.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "92.08",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama_wilayah": "Teluk Arguni Bawah",
+      "kode_wilayah": "92.08.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "92.08",
+      "kode_provinsi": "92"
+    },
+    {
+      "nama_wilayah": "Yamor",
+      "kode_wilayah": "92.08.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "92.08",
+      "kode_provinsi": "92"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Liabalano",
+      "kode_wilayah": "74.03.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.20"
+    },
+    {
+      "nama_wilayah": "Lapodidi",
+      "kode_wilayah": "74.03.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.20"
+    },
+    {
+      "nama_wilayah": "Bungi",
+      "kode_wilayah": "74.03.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.20"
+    },
+    {
+      "nama_wilayah": "Kontunaga",
+      "kode_wilayah": "74.03.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.20"
+    },
+    {
+      "nama_wilayah": "Madodo",
+      "kode_wilayah": "74.03.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.20"
+    },
+    {
+      "nama_wilayah": "Masalili",
+      "kode_wilayah": "74.03.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.20"
+    }
+  ]
+}

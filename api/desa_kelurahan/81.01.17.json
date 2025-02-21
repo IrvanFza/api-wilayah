@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Namaelo",
+      "kode_wilayah": "81.01.17.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.17"
+    },
+    {
+      "nama_wilayah": "Namasina",
+      "kode_wilayah": "81.01.17.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.17"
+    },
+    {
+      "nama_wilayah": "Ampera",
+      "kode_wilayah": "81.01.17.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.17"
+    },
+    {
+      "nama_wilayah": "Lesane",
+      "kode_wilayah": "81.01.17.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.17"
+    },
+    {
+      "nama_wilayah": "Letwaru",
+      "kode_wilayah": "81.01.17.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.17"
+    }
+  ]
+}

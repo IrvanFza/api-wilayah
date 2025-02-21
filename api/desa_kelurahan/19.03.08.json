@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "total": 2,
+  "data": [
+    {
+      "nama_wilayah": "Pongok",
+      "kode_wilayah": "19.03.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.08"
+    },
+    {
+      "nama_wilayah": "Celagen",
+      "kode_wilayah": "19.03.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.08"
+    }
+  ]
+}

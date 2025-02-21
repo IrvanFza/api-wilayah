@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Teluk Empening",
+      "kode_wilayah": "61.12.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.12",
+      "kode_kecamatan": "61.12.04"
+    },
+    {
+      "nama_wilayah": "Terentang Hilir",
+      "kode_wilayah": "61.12.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.12",
+      "kode_kecamatan": "61.12.04"
+    },
+    {
+      "nama_wilayah": "Terentang Hulu",
+      "kode_wilayah": "61.12.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.12",
+      "kode_kecamatan": "61.12.04"
+    },
+    {
+      "nama_wilayah": "Permata",
+      "kode_wilayah": "61.12.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.12",
+      "kode_kecamatan": "61.12.04"
+    },
+    {
+      "nama_wilayah": "Betuah",
+      "kode_wilayah": "61.12.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.12",
+      "kode_kecamatan": "61.12.04"
+    },
+    {
+      "nama_wilayah": "Sungai Radak Satu",
+      "kode_wilayah": "61.12.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.12",
+      "kode_kecamatan": "61.12.04"
+    },
+    {
+      "nama_wilayah": "Sungai Radak Dua",
+      "kode_wilayah": "61.12.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.12",
+      "kode_kecamatan": "61.12.04"
+    },
+    {
+      "nama_wilayah": "Sungai Dungun",
+      "kode_wilayah": "61.12.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.12",
+      "kode_kecamatan": "61.12.04"
+    },
+    {
+      "nama_wilayah": "Teluk Bayur",
+      "kode_wilayah": "61.12.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.12",
+      "kode_kecamatan": "61.12.04"
+    },
+    {
+      "nama_wilayah": "Radak Baru",
+      "kode_wilayah": "61.12.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.12",
+      "kode_kecamatan": "61.12.04"
+    }
+  ]
+}

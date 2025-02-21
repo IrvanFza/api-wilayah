@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Cipatik",
+      "kode_wilayah": "32.17.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.10"
+    },
+    {
+      "nama_wilayah": "Citapen",
+      "kode_wilayah": "32.17.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.10"
+    },
+    {
+      "nama_wilayah": "Cihampelas",
+      "kode_wilayah": "32.17.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.10"
+    },
+    {
+      "nama_wilayah": "Mekarjaya",
+      "kode_wilayah": "32.17.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.10"
+    },
+    {
+      "nama_wilayah": "Mekarmukti",
+      "kode_wilayah": "32.17.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.10"
+    },
+    {
+      "nama_wilayah": "Pataruman",
+      "kode_wilayah": "32.17.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.10"
+    },
+    {
+      "nama_wilayah": "Situwangi",
+      "kode_wilayah": "32.17.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.10"
+    },
+    {
+      "nama_wilayah": "Singajaya",
+      "kode_wilayah": "32.17.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.10"
+    },
+    {
+      "nama_wilayah": "Tanjungwangi",
+      "kode_wilayah": "32.17.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.10"
+    },
+    {
+      "nama_wilayah": "Tanjungjaya",
+      "kode_wilayah": "32.17.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.10"
+    }
+  ]
+}

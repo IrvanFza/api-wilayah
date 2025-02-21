@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tolo",
+      "kode_wilayah": "73.04.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.05"
+    },
+    {
+      "nama_wilayah": "Tolo Utara",
+      "kode_wilayah": "73.04.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.05"
+    },
+    {
+      "nama_wilayah": "Tolo Selatan",
+      "kode_wilayah": "73.04.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.05"
+    },
+    {
+      "nama_wilayah": "Tolo Timur",
+      "kode_wilayah": "73.04.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.05"
+    },
+    {
+      "nama_wilayah": "Tolo Barat",
+      "kode_wilayah": "73.04.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.05"
+    },
+    {
+      "nama_wilayah": "Gantarang",
+      "kode_wilayah": "73.04.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.05"
+    },
+    {
+      "nama_wilayah": "Bontolebang",
+      "kode_wilayah": "73.04.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.05"
+    },
+    {
+      "nama_wilayah": "Bontonompo",
+      "kode_wilayah": "73.04.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.05"
+    },
+    {
+      "nama_wilayah": "Samataring",
+      "kode_wilayah": "73.04.05.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.05"
+    },
+    {
+      "nama_wilayah": "Tombolo",
+      "kode_wilayah": "73.04.05.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.05"
+    }
+  ]
+}

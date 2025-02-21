@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Mertasinga",
+      "kode_wilayah": "33.01.23.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.23"
+    },
+    {
+      "nama_wilayah": "Gumilir",
+      "kode_wilayah": "33.01.23.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.23"
+    },
+    {
+      "nama_wilayah": "Karangtalun",
+      "kode_wilayah": "33.01.23.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.23"
+    },
+    {
+      "nama_wilayah": "Tritih Kulon",
+      "kode_wilayah": "33.01.23.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.23"
+    },
+    {
+      "nama_wilayah": "Kebonmanis",
+      "kode_wilayah": "33.01.23.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.23"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Magek",
+      "kode_wilayah": "13.06.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.15"
+    },
+    {
+      "nama_wilayah": "Kamang Hilia",
+      "kode_wilayah": "13.06.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.15"
+    },
+    {
+      "nama_wilayah": "Kamang Mudiak",
+      "kode_wilayah": "13.06.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.15"
+    },
+    {
+      "nama_wilayah": "Kamang Tangah Anam Suku",
+      "kode_wilayah": "13.06.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.15"
+    },
+    {
+      "nama_wilayah": "Pauh Kamang Mudiak",
+      "kode_wilayah": "13.06.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.15"
+    }
+  ]
+}

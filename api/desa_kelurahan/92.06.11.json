@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Bumi Saniari",
+      "kode_wilayah": "92.06.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.11"
+    },
+    {
+      "nama_wilayah": "Banjar Ausoy",
+      "kode_wilayah": "92.06.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.11"
+    },
+    {
+      "nama_wilayah": "Waraitama",
+      "kode_wilayah": "92.06.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.11"
+    },
+    {
+      "nama_wilayah": "Atibo Manimeri",
+      "kode_wilayah": "92.06.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.11"
+    },
+    {
+      "nama_wilayah": "Pasamai",
+      "kode_wilayah": "92.06.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.11"
+    },
+    {
+      "nama_wilayah": "Korano Jaya",
+      "kode_wilayah": "92.06.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.11"
+    }
+  ]
+}

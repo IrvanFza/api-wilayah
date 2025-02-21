@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Prabumulih",
+      "kode_wilayah": "16.74.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.01"
+    },
+    {
+      "nama_wilayah": "Patih Galung",
+      "kode_wilayah": "16.74.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.01"
+    },
+    {
+      "nama_wilayah": "Muntang Tapus",
+      "kode_wilayah": "16.74.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.01"
+    },
+    {
+      "nama_wilayah": "Gunung Kemala",
+      "kode_wilayah": "16.74.01.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.01"
+    },
+    {
+      "nama_wilayah": "Payuputat",
+      "kode_wilayah": "16.74.01.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.01"
+    },
+    {
+      "nama_wilayah": "Tebing Tanah Puteh",
+      "kode_wilayah": "16.74.01.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.01"
+    },
+    {
+      "nama_wilayah": "Tanjung Telang",
+      "kode_wilayah": "16.74.01.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.01"
+    }
+  ]
+}

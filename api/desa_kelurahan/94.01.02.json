@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Napan",
+      "kode_wilayah": "94.01.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.01",
+      "kode_kecamatan": "94.01.02"
+    },
+    {
+      "nama_wilayah": "Masipawa",
+      "kode_wilayah": "94.01.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.01",
+      "kode_kecamatan": "94.01.02"
+    },
+    {
+      "nama_wilayah": "Weinami",
+      "kode_wilayah": "94.01.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.01",
+      "kode_kecamatan": "94.01.02"
+    }
+  ]
+}

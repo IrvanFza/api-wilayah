@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Foley",
+      "kode_wilayah": "96.03.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.06"
+    },
+    {
+      "nama_wilayah": "Tomolol",
+      "kode_wilayah": "96.03.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.06"
+    },
+    {
+      "nama_wilayah": "Limalas Barat",
+      "kode_wilayah": "96.03.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.06"
+    },
+    {
+      "nama_wilayah": "Usaha Jaya",
+      "kode_wilayah": "96.03.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.06"
+    },
+    {
+      "nama_wilayah": "Limalas Timur",
+      "kode_wilayah": "96.03.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.06"
+    },
+    {
+      "nama_wilayah": "Audam",
+      "kode_wilayah": "96.03.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.06"
+    }
+  ]
+}

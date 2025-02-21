@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "IV Suko Menanti",
+      "kode_wilayah": "17.02.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.22"
+    },
+    {
+      "nama_wilayah": "Air Rusa",
+      "kode_wilayah": "17.02.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.22"
+    },
+    {
+      "nama_wilayah": "Bengko",
+      "kode_wilayah": "17.02.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.22"
+    },
+    {
+      "nama_wilayah": "Sinar Gunung",
+      "kode_wilayah": "17.02.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.22"
+    },
+    {
+      "nama_wilayah": "Warung Pojok",
+      "kode_wilayah": "17.02.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.22"
+    },
+    {
+      "nama_wilayah": "Talang Belitar",
+      "kode_wilayah": "17.02.22.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.22"
+    }
+  ]
+}

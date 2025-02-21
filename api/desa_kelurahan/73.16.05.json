@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Kambiolangi",
+      "kode_wilayah": "73.16.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.05"
+    },
+    {
+      "nama_wilayah": "Kalosi",
+      "kode_wilayah": "73.16.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.05"
+    },
+    {
+      "nama_wilayah": "Buntu Sugi",
+      "kode_wilayah": "73.16.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.05"
+    },
+    {
+      "nama_wilayah": "Mata Allo",
+      "kode_wilayah": "73.16.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.05"
+    },
+    {
+      "nama_wilayah": "Sumillan",
+      "kode_wilayah": "73.16.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.05"
+    },
+    {
+      "nama_wilayah": "Pana",
+      "kode_wilayah": "73.16.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.05"
+    },
+    {
+      "nama_wilayah": "Taulo",
+      "kode_wilayah": "73.16.05.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.05"
+    },
+    {
+      "nama_wilayah": "Bolang",
+      "kode_wilayah": "73.16.05.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.05"
+    }
+  ]
+}

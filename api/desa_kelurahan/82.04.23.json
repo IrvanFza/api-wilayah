@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Awis",
+      "kode_wilayah": "82.04.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.23"
+    },
+    {
+      "nama_wilayah": "Dowora",
+      "kode_wilayah": "82.04.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.23"
+    },
+    {
+      "nama_wilayah": "Gane Dalam",
+      "kode_wilayah": "82.04.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.23"
+    },
+    {
+      "nama_wilayah": "Jibubu",
+      "kode_wilayah": "82.04.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.23"
+    },
+    {
+      "nama_wilayah": "Pasipalele",
+      "kode_wilayah": "82.04.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.23"
+    },
+    {
+      "nama_wilayah": "Sekely",
+      "kode_wilayah": "82.04.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.23"
+    },
+    {
+      "nama_wilayah": "Tawa",
+      "kode_wilayah": "82.04.23.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.23"
+    },
+    {
+      "nama_wilayah": "Yamli",
+      "kode_wilayah": "82.04.23.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.23"
+    }
+  ]
+}

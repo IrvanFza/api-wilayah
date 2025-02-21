@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Labuhan Ratu",
+      "kode_wilayah": "18.71.14.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.14"
+    },
+    {
+      "nama_wilayah": "Labuhan Ratu Raya",
+      "kode_wilayah": "18.71.14.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.14"
+    },
+    {
+      "nama_wilayah": "Sepang Jaya",
+      "kode_wilayah": "18.71.14.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.14"
+    },
+    {
+      "nama_wilayah": "Kota Sepang",
+      "kode_wilayah": "18.71.14.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.14"
+    },
+    {
+      "nama_wilayah": "Kampung Baru Raya",
+      "kode_wilayah": "18.71.14.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.14"
+    },
+    {
+      "nama_wilayah": "Kampung Baru",
+      "kode_wilayah": "18.71.14.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.14"
+    }
+  ]
+}

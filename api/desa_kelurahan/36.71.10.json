@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Neglasari",
+      "kode_wilayah": "36.71.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.10"
+    },
+    {
+      "nama_wilayah": "Karang Sari",
+      "kode_wilayah": "36.71.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.10"
+    },
+    {
+      "nama_wilayah": "Selapajang Jaya",
+      "kode_wilayah": "36.71.10.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.10"
+    },
+    {
+      "nama_wilayah": "Kedaung Wetan",
+      "kode_wilayah": "36.71.10.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.10"
+    },
+    {
+      "nama_wilayah": "Mekar Sari",
+      "kode_wilayah": "36.71.10.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.10"
+    },
+    {
+      "nama_wilayah": "Karang Anyar",
+      "kode_wilayah": "36.71.10.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.10"
+    },
+    {
+      "nama_wilayah": "Kedaung Baru",
+      "kode_wilayah": "36.71.10.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.10"
+    }
+  ]
+}

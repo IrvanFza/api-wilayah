@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Ratte Buttu",
+      "kode_wilayah": "73.18.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.03"
+    },
+    {
+      "nama_wilayah": "Bau",
+      "kode_wilayah": "73.18.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.03"
+    },
+    {
+      "nama_wilayah": "Buakayu",
+      "kode_wilayah": "73.18.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.03"
+    },
+    {
+      "nama_wilayah": "Mappa-",
+      "kode_wilayah": "73.18.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.03"
+    },
+    {
+      "nama_wilayah": "Poton",
+      "kode_wilayah": "73.18.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.03"
+    },
+    {
+      "nama_wilayah": "Bau Selatan",
+      "kode_wilayah": "73.18.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.03"
+    }
+  ]
+}

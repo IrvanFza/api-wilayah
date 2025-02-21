@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Ketenong I",
+      "kode_wilayah": "17.07.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.12"
+    },
+    {
+      "nama_wilayah": "Ketenong II",
+      "kode_wilayah": "17.07.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.12"
+    },
+    {
+      "nama_wilayah": "Ketenong Jaya",
+      "kode_wilayah": "17.07.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.12"
+    },
+    {
+      "nama_wilayah": "Tambang Saweak",
+      "kode_wilayah": "17.07.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.12"
+    },
+    {
+      "nama_wilayah": "Air Kopras",
+      "kode_wilayah": "17.07.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.12"
+    },
+    {
+      "nama_wilayah": "Bioa Putiak",
+      "kode_wilayah": "17.07.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.12"
+    },
+    {
+      "nama_wilayah": "Sebelat",
+      "kode_wilayah": "17.07.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.12"
+    },
+    {
+      "nama_wilayah": "Sungai Lisai",
+      "kode_wilayah": "17.07.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.12"
+    }
+  ]
+}

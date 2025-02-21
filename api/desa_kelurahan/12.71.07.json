@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Selamat",
+      "kode_wilayah": "12.71.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.07"
+    },
+    {
+      "nama_wilayah": "Simpang Selayang",
+      "kode_wilayah": "12.71.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.07"
+    },
+    {
+      "nama_wilayah": "Namo Gajah",
+      "kode_wilayah": "12.71.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.07"
+    },
+    {
+      "nama_wilayah": "Kemenangan Tani",
+      "kode_wilayah": "12.71.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.07"
+    },
+    {
+      "nama_wilayah": "Laucih",
+      "kode_wilayah": "12.71.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.07"
+    },
+    {
+      "nama_wilayah": "Sidomulyo",
+      "kode_wilayah": "12.71.07.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.07"
+    },
+    {
+      "nama_wilayah": "Ladang Bambu",
+      "kode_wilayah": "12.71.07.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.07"
+    },
+    {
+      "nama_wilayah": "Simalingkar B",
+      "kode_wilayah": "12.71.07.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.07"
+    },
+    {
+      "nama_wilayah": "Mangga",
+      "kode_wilayah": "12.71.07.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.07"
+    }
+  ]
+}

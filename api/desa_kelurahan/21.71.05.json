@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Bulang Lintang",
+      "kode_wilayah": "21.71.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.05"
+    },
+    {
+      "nama_wilayah": "Pulau Buluh",
+      "kode_wilayah": "21.71.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.05"
+    },
+    {
+      "nama_wilayah": "Temoyong",
+      "kode_wilayah": "21.71.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.05"
+    },
+    {
+      "nama_wilayah": "Batu Legong",
+      "kode_wilayah": "21.71.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.05"
+    },
+    {
+      "nama_wilayah": "Pantai Gelam",
+      "kode_wilayah": "21.71.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.05"
+    },
+    {
+      "nama_wilayah": "Pulau Setokok",
+      "kode_wilayah": "21.71.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.05"
+    }
+  ]
+}

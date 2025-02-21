@@ -1,0 +1,90 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Mangoli Timur",
+      "kode_wilayah": "82.05.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.05",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Sanana",
+      "kode_wilayah": "82.05.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.05",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Sulabesi Barat",
+      "kode_wilayah": "82.05.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.05",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Mangoli Barat",
+      "kode_wilayah": "82.05.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.05",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Sulabesi Tengah",
+      "kode_wilayah": "82.05.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.05",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Sulabesi Timur",
+      "kode_wilayah": "82.05.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.05",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Sulabesi Selatan",
+      "kode_wilayah": "82.05.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.05",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Mangoli Utara Timur",
+      "kode_wilayah": "82.05.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.05",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Mangoli Tengah",
+      "kode_wilayah": "82.05.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.05",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Mangoli Selatan",
+      "kode_wilayah": "82.05.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.05",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Mangoli Utara",
+      "kode_wilayah": "82.05.13",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.05",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Sanana Utara",
+      "kode_wilayah": "82.05.18",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.05",
+      "kode_provinsi": "82"
+    }
+  ]
+}

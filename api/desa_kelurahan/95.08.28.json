@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Moba",
+      "kode_wilayah": "95.08.28.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.28"
+    },
+    {
+      "nama_wilayah": "Gunea",
+      "kode_wilayah": "95.08.28.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.28"
+    },
+    {
+      "nama_wilayah": "Kwegono",
+      "kode_wilayah": "95.08.28.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.28"
+    },
+    {
+      "nama_wilayah": "Langpang",
+      "kode_wilayah": "95.08.28.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.28"
+    },
+    {
+      "nama_wilayah": "Yeretma",
+      "kode_wilayah": "95.08.28.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.28"
+    },
+    {
+      "nama_wilayah": "Anggulpa",
+      "kode_wilayah": "95.08.28.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.28"
+    },
+    {
+      "nama_wilayah": "Moba Dua",
+      "kode_wilayah": "95.08.28.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.28"
+    },
+    {
+      "nama_wilayah": "Pijama",
+      "kode_wilayah": "95.08.28.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.28"
+    }
+  ]
+}

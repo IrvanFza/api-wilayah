@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Tofoi",
+      "kode_wilayah": "92.06.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.14"
+    },
+    {
+      "nama_wilayah": "Tanah Merah",
+      "kode_wilayah": "92.06.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.14"
+    },
+    {
+      "nama_wilayah": "Saengga",
+      "kode_wilayah": "92.06.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.14"
+    },
+    {
+      "nama_wilayah": "Forada",
+      "kode_wilayah": "92.06.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.14"
+    },
+    {
+      "nama_wilayah": "Materabu Jaya",
+      "kode_wilayah": "92.06.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.14"
+    }
+  ]
+}

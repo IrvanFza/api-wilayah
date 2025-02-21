@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Liang Bunyu",
+      "kode_wilayah": "65.03.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.08"
+    },
+    {
+      "nama_wilayah": "Binalawan",
+      "kode_wilayah": "65.03.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.08"
+    },
+    {
+      "nama_wilayah": "Setabu",
+      "kode_wilayah": "65.03.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.08"
+    },
+    {
+      "nama_wilayah": "Bambangan",
+      "kode_wilayah": "65.03.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.08"
+    }
+  ]
+}

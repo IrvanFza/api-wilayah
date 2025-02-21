@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Okelwel",
+      "kode_wilayah": "95.02.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.20"
+    },
+    {
+      "nama_wilayah": "Kotyobakon",
+      "kode_wilayah": "95.02.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.20"
+    },
+    {
+      "nama_wilayah": "Okteneng",
+      "kode_wilayah": "95.02.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.20"
+    },
+    {
+      "nama_wilayah": "Tengnong",
+      "kode_wilayah": "95.02.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.20"
+    }
+  ]
+}

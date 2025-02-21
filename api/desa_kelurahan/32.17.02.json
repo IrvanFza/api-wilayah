@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Karyawangi",
+      "kode_wilayah": "32.17.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.02"
+    },
+    {
+      "nama_wilayah": "Cihanjuang",
+      "kode_wilayah": "32.17.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.02"
+    },
+    {
+      "nama_wilayah": "Cihanjuangrahayu",
+      "kode_wilayah": "32.17.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.02"
+    },
+    {
+      "nama_wilayah": "Cihideung",
+      "kode_wilayah": "32.17.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.02"
+    },
+    {
+      "nama_wilayah": "Ciwaruga",
+      "kode_wilayah": "32.17.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.02"
+    },
+    {
+      "nama_wilayah": "Cigugurgirang",
+      "kode_wilayah": "32.17.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.02"
+    },
+    {
+      "nama_wilayah": "Sariwangi",
+      "kode_wilayah": "32.17.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.02"
+    }
+  ]
+}

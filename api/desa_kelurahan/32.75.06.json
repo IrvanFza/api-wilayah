@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Medansatria",
+      "kode_wilayah": "32.75.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.06"
+    },
+    {
+      "nama_wilayah": "Harapanmulya",
+      "kode_wilayah": "32.75.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.06"
+    },
+    {
+      "nama_wilayah": "Pejuang",
+      "kode_wilayah": "32.75.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.06"
+    },
+    {
+      "nama_wilayah": "Kalibaru",
+      "kode_wilayah": "32.75.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.06"
+    }
+  ]
+}

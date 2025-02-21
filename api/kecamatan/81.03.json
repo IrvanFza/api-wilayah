@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tanimbar Selatan",
+      "kode_wilayah": "81.03.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.03",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Selaru",
+      "kode_wilayah": "81.03.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.03",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Wertamrian",
+      "kode_wilayah": "81.03.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.03",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Wermaktian",
+      "kode_wilayah": "81.03.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.03",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Tanimbar Utara",
+      "kode_wilayah": "81.03.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.03",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Fordata",
+      "kode_wilayah": "81.03.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.03",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Wuar Labobar",
+      "kode_wilayah": "81.03.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.03",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Kormomolin",
+      "kode_wilayah": "81.03.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.03",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Nirunmas",
+      "kode_wilayah": "81.03.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.03",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Molu Maru",
+      "kode_wilayah": "81.03.18",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.03",
+      "kode_provinsi": "81"
+    }
+  ]
+}

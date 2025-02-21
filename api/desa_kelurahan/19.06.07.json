@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Simpang Pesak",
+      "kode_wilayah": "19.06.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.07"
+    },
+    {
+      "nama_wilayah": "Tanjung Batu Itam",
+      "kode_wilayah": "19.06.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.07"
+    },
+    {
+      "nama_wilayah": "Tanjung Kelumpang",
+      "kode_wilayah": "19.06.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.07"
+    },
+    {
+      "nama_wilayah": "Dukong",
+      "kode_wilayah": "19.06.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.07"
+    }
+  ]
+}

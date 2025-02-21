@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Sabang Barat",
+      "kode_wilayah": "21.03.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.04"
+    },
+    {
+      "nama_wilayah": "Sebelat",
+      "kode_wilayah": "21.03.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.04"
+    },
+    {
+      "nama_wilayah": "Air Putih",
+      "kode_wilayah": "21.03.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.04"
+    }
+  ]
+}

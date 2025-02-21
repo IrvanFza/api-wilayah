@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Sulit Air",
+      "kode_wilayah": "13.02.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.12"
+    },
+    {
+      "nama_wilayah": "Tanjung Balik",
+      "kode_wilayah": "13.02.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.12"
+    },
+    {
+      "nama_wilayah": "Paninjauan",
+      "kode_wilayah": "13.02.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.12"
+    },
+    {
+      "nama_wilayah": "Kuncir",
+      "kode_wilayah": "13.02.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.12"
+    },
+    {
+      "nama_wilayah": "Katialo",
+      "kode_wilayah": "13.02.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.12"
+    },
+    {
+      "nama_wilayah": "Pasilihan",
+      "kode_wilayah": "13.02.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.12"
+    },
+    {
+      "nama_wilayah": "Bukit Kanduang",
+      "kode_wilayah": "13.02.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.12"
+    },
+    {
+      "nama_wilayah": "Sibarambang",
+      "kode_wilayah": "13.02.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.12"
+    },
+    {
+      "nama_wilayah": "Labuh Panjang",
+      "kode_wilayah": "13.02.12.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.12"
+    }
+  ]
+}

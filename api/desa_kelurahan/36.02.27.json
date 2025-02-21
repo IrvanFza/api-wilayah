@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Datarcae",
+      "kode_wilayah": "36.02.27.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.27"
+    },
+    {
+      "nama_wilayah": "Cirinten",
+      "kode_wilayah": "36.02.27.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.27"
+    },
+    {
+      "nama_wilayah": "Karangnunggal",
+      "kode_wilayah": "36.02.27.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.27"
+    },
+    {
+      "nama_wilayah": "Kadudamas",
+      "kode_wilayah": "36.02.27.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.27"
+    },
+    {
+      "nama_wilayah": "Badur",
+      "kode_wilayah": "36.02.27.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.27"
+    },
+    {
+      "nama_wilayah": "Parakanlima",
+      "kode_wilayah": "36.02.27.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.27"
+    },
+    {
+      "nama_wilayah": "Nanggerang",
+      "kode_wilayah": "36.02.27.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.27"
+    },
+    {
+      "nama_wilayah": "Cempaka",
+      "kode_wilayah": "36.02.27.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.27"
+    },
+    {
+      "nama_wilayah": "Karoya",
+      "kode_wilayah": "36.02.27.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.27"
+    },
+    {
+      "nama_wilayah": "Cibarani",
+      "kode_wilayah": "36.02.27.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.27"
+    }
+  ]
+}

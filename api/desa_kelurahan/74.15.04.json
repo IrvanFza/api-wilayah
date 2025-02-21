@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Batuatas Liwu",
+      "kode_wilayah": "74.15.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.04"
+    },
+    {
+      "nama_wilayah": "Batuatas Barat",
+      "kode_wilayah": "74.15.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.04"
+    },
+    {
+      "nama_wilayah": "Wacuala",
+      "kode_wilayah": "74.15.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.04"
+    },
+    {
+      "nama_wilayah": "Batu Atas Timur",
+      "kode_wilayah": "74.15.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.04"
+    },
+    {
+      "nama_wilayah": "Tolando Jaya",
+      "kode_wilayah": "74.15.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.04"
+    },
+    {
+      "nama_wilayah": "Taduasa",
+      "kode_wilayah": "74.15.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.04"
+    },
+    {
+      "nama_wilayah": "Wambongi",
+      "kode_wilayah": "74.15.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.04"
+    }
+  ]
+}

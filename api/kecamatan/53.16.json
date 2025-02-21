@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Aesesa",
+      "kode_wilayah": "53.16.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.16",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Nangaroro",
+      "kode_wilayah": "53.16.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.16",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Boawae",
+      "kode_wilayah": "53.16.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.16",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Mauponggo",
+      "kode_wilayah": "53.16.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.16",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Wolowae",
+      "kode_wilayah": "53.16.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.16",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Keo Tengah",
+      "kode_wilayah": "53.16.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.16",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Aesesa Selatan",
+      "kode_wilayah": "53.16.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.16",
+      "kode_provinsi": "53"
+    }
+  ]
+}

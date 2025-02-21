@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Parak",
+      "kode_wilayah": "73.01.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.04"
+    },
+    {
+      "nama_wilayah": "Barugaiya",
+      "kode_wilayah": "73.01.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.04"
+    },
+    {
+      "nama_wilayah": "Jambuiya",
+      "kode_wilayah": "73.01.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.04"
+    },
+    {
+      "nama_wilayah": "Mare-Mare",
+      "kode_wilayah": "73.01.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.04"
+    },
+    {
+      "nama_wilayah": "Polebunging",
+      "kode_wilayah": "73.01.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.04"
+    },
+    {
+      "nama_wilayah": "Bonea Makmur",
+      "kode_wilayah": "73.01.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.04"
+    },
+    {
+      "nama_wilayah": "Bontomarannu",
+      "kode_wilayah": "73.01.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.04"
+    },
+    {
+      "nama_wilayah": "Bonea Timur",
+      "kode_wilayah": "73.01.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.04"
+    },
+    {
+      "nama_wilayah": "Bontokoraang",
+      "kode_wilayah": "73.01.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.04"
+    },
+    {
+      "nama_wilayah": "Kaburu",
+      "kode_wilayah": "73.01.04.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.04"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Pagesangan",
+      "kode_wilayah": "52.71.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.02"
+    },
+    {
+      "nama_wilayah": "Mataram Timur",
+      "kode_wilayah": "52.71.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.02"
+    },
+    {
+      "nama_wilayah": "Pagutan",
+      "kode_wilayah": "52.71.02.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.02"
+    },
+    {
+      "nama_wilayah": "Pagesangan Barat",
+      "kode_wilayah": "52.71.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.02"
+    },
+    {
+      "nama_wilayah": "Pagesangan Timur",
+      "kode_wilayah": "52.71.02.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.02"
+    },
+    {
+      "nama_wilayah": "Pejanggik",
+      "kode_wilayah": "52.71.02.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.02"
+    },
+    {
+      "nama_wilayah": "Punia",
+      "kode_wilayah": "52.71.02.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.02"
+    },
+    {
+      "nama_wilayah": "Pagutan Timur",
+      "kode_wilayah": "52.71.02.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.02"
+    },
+    {
+      "nama_wilayah": "Pagutan Barat",
+      "kode_wilayah": "52.71.02.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.02"
+    }
+  ]
+}

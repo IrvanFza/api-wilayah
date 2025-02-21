@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Panjang Selatan",
+      "kode_wilayah": "18.71.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.04"
+    },
+    {
+      "nama_wilayah": "Srengsem",
+      "kode_wilayah": "18.71.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.04"
+    },
+    {
+      "nama_wilayah": "Panjang Utara",
+      "kode_wilayah": "18.71.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.04"
+    },
+    {
+      "nama_wilayah": "Pidada",
+      "kode_wilayah": "18.71.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.04"
+    },
+    {
+      "nama_wilayah": "Karang Maritim",
+      "kode_wilayah": "18.71.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.04"
+    },
+    {
+      "nama_wilayah": "Way Lunik",
+      "kode_wilayah": "18.71.04.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.04"
+    },
+    {
+      "nama_wilayah": "Ketapang",
+      "kode_wilayah": "18.71.04.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.04"
+    },
+    {
+      "nama_wilayah": "Ketapang Kuala",
+      "kode_wilayah": "18.71.04.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.04"
+    }
+  ]
+}

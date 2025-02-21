@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Yiwili",
+      "kode_wilayah": "95.07.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.19"
+    },
+    {
+      "nama_wilayah": "Golo",
+      "kode_wilayah": "95.07.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.19"
+    },
+    {
+      "nama_wilayah": "Golomi",
+      "kode_wilayah": "95.07.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.19"
+    },
+    {
+      "nama_wilayah": "Yugumobur",
+      "kode_wilayah": "95.07.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.19"
+    },
+    {
+      "nama_wilayah": "Milidi",
+      "kode_wilayah": "95.07.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.19"
+    },
+    {
+      "nama_wilayah": "Uniwani",
+      "kode_wilayah": "95.07.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.19"
+    },
+    {
+      "nama_wilayah": "Wiringgambut",
+      "kode_wilayah": "95.07.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.19"
+    },
+    {
+      "nama_wilayah": "Wuluwebur",
+      "kode_wilayah": "95.07.19.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.19"
+    },
+    {
+      "nama_wilayah": "Kiludo",
+      "kode_wilayah": "95.07.19.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.19"
+    },
+    {
+      "nama_wilayah": "Giruwi",
+      "kode_wilayah": "95.07.19.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.19"
+    }
+  ]
+}

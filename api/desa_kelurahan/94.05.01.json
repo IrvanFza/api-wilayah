@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Kago",
+      "kode_wilayah": "94.05.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.01"
+    },
+    {
+      "nama_wilayah": "Kimak",
+      "kode_wilayah": "94.05.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.01"
+    },
+    {
+      "nama_wilayah": "Wuloni",
+      "kode_wilayah": "94.05.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.01"
+    },
+    {
+      "nama_wilayah": "Nipuralome",
+      "kode_wilayah": "94.05.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.01"
+    },
+    {
+      "nama_wilayah": "Tagaloa",
+      "kode_wilayah": "94.05.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.01"
+    },
+    {
+      "nama_wilayah": "Jenggerpaga",
+      "kode_wilayah": "94.05.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.01"
+    },
+    {
+      "nama_wilayah": "kibogolome",
+      "kode_wilayah": "94.05.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.01"
+    },
+    {
+      "nama_wilayah": "Ilambet",
+      "kode_wilayah": "94.05.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.01"
+    },
+    {
+      "nama_wilayah": "Kalebut",
+      "kode_wilayah": "94.05.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.01"
+    }
+  ]
+}

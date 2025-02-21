@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Dersalam",
+      "kode_wilayah": "33.19.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.07"
+    },
+    {
+      "nama_wilayah": "Ngembalrejo",
+      "kode_wilayah": "33.19.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.07"
+    },
+    {
+      "nama_wilayah": "Karangbener",
+      "kode_wilayah": "33.19.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.07"
+    },
+    {
+      "nama_wilayah": "Gondangmanis",
+      "kode_wilayah": "33.19.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.07"
+    },
+    {
+      "nama_wilayah": "Pedawang",
+      "kode_wilayah": "33.19.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.07"
+    },
+    {
+      "nama_wilayah": "Bacin",
+      "kode_wilayah": "33.19.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.07"
+    },
+    {
+      "nama_wilayah": "Panjang",
+      "kode_wilayah": "33.19.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.07"
+    },
+    {
+      "nama_wilayah": "Peganjaran",
+      "kode_wilayah": "33.19.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.07"
+    },
+    {
+      "nama_wilayah": "Purworejo",
+      "kode_wilayah": "33.19.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.07"
+    },
+    {
+      "nama_wilayah": "Bae",
+      "kode_wilayah": "33.19.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.07"
+    }
+  ]
+}

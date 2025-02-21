@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Batang Serangan",
+      "kode_wilayah": "12.05.19.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.19"
+    },
+    {
+      "nama_wilayah": "Sei Bamban",
+      "kode_wilayah": "12.05.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.19"
+    },
+    {
+      "nama_wilayah": "Sei Musam",
+      "kode_wilayah": "12.05.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.19"
+    },
+    {
+      "nama_wilayah": "Sei Serdang",
+      "kode_wilayah": "12.05.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.19"
+    },
+    {
+      "nama_wilayah": "Namo Sialang",
+      "kode_wilayah": "12.05.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.19"
+    },
+    {
+      "nama_wilayah": "Kwala Musam",
+      "kode_wilayah": "12.05.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.19"
+    },
+    {
+      "nama_wilayah": "Karya Jadi",
+      "kode_wilayah": "12.05.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.19"
+    },
+    {
+      "nama_wilayah": "Paluh Pakeh Babussalam",
+      "kode_wilayah": "12.05.19.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.19"
+    }
+  ]
+}

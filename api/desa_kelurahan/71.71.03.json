@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Singkil Satu",
+      "kode_wilayah": "71.71.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.03"
+    },
+    {
+      "nama_wilayah": "Singkil Dua",
+      "kode_wilayah": "71.71.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.03"
+    },
+    {
+      "nama_wilayah": "Wawonasa",
+      "kode_wilayah": "71.71.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.03"
+    },
+    {
+      "nama_wilayah": "Karame",
+      "kode_wilayah": "71.71.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.03"
+    },
+    {
+      "nama_wilayah": "Ketang Baru",
+      "kode_wilayah": "71.71.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.03"
+    },
+    {
+      "nama_wilayah": "Ternate Baru",
+      "kode_wilayah": "71.71.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.03"
+    },
+    {
+      "nama_wilayah": "Kombos Barat",
+      "kode_wilayah": "71.71.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.03"
+    },
+    {
+      "nama_wilayah": "Kombos Timur",
+      "kode_wilayah": "71.71.03.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.03"
+    },
+    {
+      "nama_wilayah": "Ternate Tanjung",
+      "kode_wilayah": "71.71.03.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.03"
+    }
+  ]
+}

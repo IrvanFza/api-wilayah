@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Lembeh Selatan",
+      "kode_wilayah": "71.72.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.72",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Madidir",
+      "kode_wilayah": "71.72.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.72",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Ranowulu",
+      "kode_wilayah": "71.72.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.72",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Aertembaga",
+      "kode_wilayah": "71.72.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.72",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Matuari",
+      "kode_wilayah": "71.72.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.72",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Girian",
+      "kode_wilayah": "71.72.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.72",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Maesa",
+      "kode_wilayah": "71.72.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.72",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Lembeh Utara",
+      "kode_wilayah": "71.72.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.72",
+      "kode_provinsi": "71"
+    }
+  ]
+}

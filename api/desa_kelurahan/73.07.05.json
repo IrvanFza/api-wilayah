@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Biringere",
+      "kode_wilayah": "73.07.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.05"
+    },
+    {
+      "nama_wilayah": "Lamatti Rilau",
+      "kode_wilayah": "73.07.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.05"
+    },
+    {
+      "nama_wilayah": "Balangnipa",
+      "kode_wilayah": "73.07.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.05"
+    },
+    {
+      "nama_wilayah": "Lappa",
+      "kode_wilayah": "73.07.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.05"
+    },
+    {
+      "nama_wilayah": "Bongki",
+      "kode_wilayah": "73.07.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.05"
+    },
+    {
+      "nama_wilayah": "Alehanuae",
+      "kode_wilayah": "73.07.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.05"
+    }
+  ]
+}

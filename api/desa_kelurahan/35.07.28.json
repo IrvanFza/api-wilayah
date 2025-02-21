@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Pondokagung",
+      "kode_wilayah": "35.07.28.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.28"
+    },
+    {
+      "nama_wilayah": "Bayem",
+      "kode_wilayah": "35.07.28.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.28"
+    },
+    {
+      "nama_wilayah": "Pait",
+      "kode_wilayah": "35.07.28.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.28"
+    },
+    {
+      "nama_wilayah": "Wonoagung",
+      "kode_wilayah": "35.07.28.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.28"
+    },
+    {
+      "nama_wilayah": "Kasembon",
+      "kode_wilayah": "35.07.28.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.28"
+    },
+    {
+      "nama_wilayah": "Sukosari",
+      "kode_wilayah": "35.07.28.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.28"
+    }
+  ]
+}

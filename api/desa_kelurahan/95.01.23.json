@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Muliama",
+      "kode_wilayah": "95.01.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.23"
+    },
+    {
+      "nama_wilayah": "Wenabubaga",
+      "kode_wilayah": "95.01.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.23"
+    },
+    {
+      "nama_wilayah": "Kilubaga",
+      "kode_wilayah": "95.01.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.23"
+    },
+    {
+      "nama_wilayah": "Musalfak",
+      "kode_wilayah": "95.01.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.23"
+    },
+    {
+      "nama_wilayah": "Punakul",
+      "kode_wilayah": "95.01.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.23"
+    }
+  ]
+}

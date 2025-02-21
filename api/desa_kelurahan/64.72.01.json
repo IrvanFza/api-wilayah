@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Rawa Makmur",
+      "kode_wilayah": "64.72.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.01"
+    },
+    {
+      "nama_wilayah": "Handil Bakti",
+      "kode_wilayah": "64.72.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.01"
+    },
+    {
+      "nama_wilayah": "Bukuan",
+      "kode_wilayah": "64.72.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.01"
+    },
+    {
+      "nama_wilayah": "Simpang Pasir",
+      "kode_wilayah": "64.72.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.01"
+    },
+    {
+      "nama_wilayah": "Bantuas",
+      "kode_wilayah": "64.72.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.01"
+    }
+  ]
+}

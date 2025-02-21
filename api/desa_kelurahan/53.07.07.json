@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Nelle Urung",
+      "kode_wilayah": "53.07.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.07"
+    },
+    {
+      "nama_wilayah": "Nelle Wutung",
+      "kode_wilayah": "53.07.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.07"
+    },
+    {
+      "nama_wilayah": "Nelle Barat",
+      "kode_wilayah": "53.07.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.07"
+    },
+    {
+      "nama_wilayah": "Nella Lorang",
+      "kode_wilayah": "53.07.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.07"
+    },
+    {
+      "nama_wilayah": "Manubura",
+      "kode_wilayah": "53.07.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.07"
+    }
+  ]
+}

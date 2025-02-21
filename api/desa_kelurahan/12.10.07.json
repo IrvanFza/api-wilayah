@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sibargot",
+      "kode_wilayah": "12.10.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.07"
+    },
+    {
+      "nama_wilayah": "Bandar Kumbul",
+      "kode_wilayah": "12.10.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.07"
+    },
+    {
+      "nama_wilayah": "Tanjung Medan",
+      "kode_wilayah": "12.10.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.07"
+    },
+    {
+      "nama_wilayah": "Janji",
+      "kode_wilayah": "12.10.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.07"
+    },
+    {
+      "nama_wilayah": "Tebing Linggahara",
+      "kode_wilayah": "12.10.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.07"
+    },
+    {
+      "nama_wilayah": "AFD.I Rantauprapat",
+      "kode_wilayah": "12.10.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.07"
+    },
+    {
+      "nama_wilayah": "AFD.II Rantauprapat",
+      "kode_wilayah": "12.10.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.07"
+    },
+    {
+      "nama_wilayah": "Aek Buru Selatan",
+      "kode_wilayah": "12.10.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.07"
+    },
+    {
+      "nama_wilayah": "Kampung Baru",
+      "kode_wilayah": "12.10.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.07"
+    },
+    {
+      "nama_wilayah": "Tebing Linggahara Baru",
+      "kode_wilayah": "12.10.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.07"
+    }
+  ]
+}

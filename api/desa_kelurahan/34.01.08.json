@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Hargomulyo",
+      "kode_wilayah": "34.01.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.08"
+    },
+    {
+      "nama_wilayah": "Hargorejo",
+      "kode_wilayah": "34.01.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.08"
+    },
+    {
+      "nama_wilayah": "Hargowilis",
+      "kode_wilayah": "34.01.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.08"
+    },
+    {
+      "nama_wilayah": "Kalirejo",
+      "kode_wilayah": "34.01.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.08"
+    },
+    {
+      "nama_wilayah": "Hargotirto",
+      "kode_wilayah": "34.01.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.08"
+    }
+  ]
+}

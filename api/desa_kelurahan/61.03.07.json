@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Balai Karangan",
+      "kode_wilayah": "61.03.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.07"
+    },
+    {
+      "nama_wilayah": "Pengadang",
+      "kode_wilayah": "61.03.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.07"
+    },
+    {
+      "nama_wilayah": "Sotok",
+      "kode_wilayah": "61.03.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.07"
+    },
+    {
+      "nama_wilayah": "Kenaman",
+      "kode_wilayah": "61.03.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.07"
+    },
+    {
+      "nama_wilayah": "Raut Muara",
+      "kode_wilayah": "61.03.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.07"
+    },
+    {
+      "nama_wilayah": "Engkahan",
+      "kode_wilayah": "61.03.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.07"
+    },
+    {
+      "nama_wilayah": "Bungkang",
+      "kode_wilayah": "61.03.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.07"
+    },
+    {
+      "nama_wilayah": "Lubuk Sabuk",
+      "kode_wilayah": "61.03.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.07"
+    },
+    {
+      "nama_wilayah": "Sungai Tekam",
+      "kode_wilayah": "61.03.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.07"
+    },
+    {
+      "nama_wilayah": "Malenggang",
+      "kode_wilayah": "61.03.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.07"
+    }
+  ]
+}

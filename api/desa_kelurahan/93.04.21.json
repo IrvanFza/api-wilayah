@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Piramat",
+      "kode_wilayah": "93.04.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.21"
+    },
+    {
+      "nama_wilayah": "Bawos",
+      "kode_wilayah": "93.04.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.21"
+    },
+    {
+      "nama_wilayah": "Akan Tapak",
+      "kode_wilayah": "93.04.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.21"
+    },
+    {
+      "nama_wilayah": "Tauro",
+      "kode_wilayah": "93.04.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.21"
+    },
+    {
+      "nama_wilayah": "Bagair",
+      "kode_wilayah": "93.04.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.21"
+    },
+    {
+      "nama_wilayah": "Wiyar",
+      "kode_wilayah": "93.04.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.21"
+    },
+    {
+      "nama_wilayah": "Kagas",
+      "kode_wilayah": "93.04.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.21"
+    },
+    {
+      "nama_wilayah": "Mapane",
+      "kode_wilayah": "93.04.21.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.21"
+    },
+    {
+      "nama_wilayah": "Ainamsato",
+      "kode_wilayah": "93.04.21.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.21"
+    },
+    {
+      "nama_wilayah": "Amaita",
+      "kode_wilayah": "93.04.21.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.21"
+    }
+  ]
+}

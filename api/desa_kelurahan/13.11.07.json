@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Kunyit",
+      "kode_wilayah": "13.11.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.11",
+      "kode_kecamatan": "13.11.07"
+    },
+    {
+      "nama_wilayah": "Talao Sungai Kunyit",
+      "kode_wilayah": "13.11.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.11",
+      "kode_kecamatan": "13.11.07"
+    },
+    {
+      "nama_wilayah": "Sungai Kunyit Barat",
+      "kode_wilayah": "13.11.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.11",
+      "kode_kecamatan": "13.11.07"
+    },
+    {
+      "nama_wilayah": "Talunan Maju",
+      "kode_wilayah": "13.11.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.11",
+      "kode_kecamatan": "13.11.07"
+    }
+  ]
+}

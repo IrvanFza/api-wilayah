@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Gamsungi",
+      "kode_wilayah": "82.03.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.05"
+    },
+    {
+      "nama_wilayah": "Gura",
+      "kode_wilayah": "82.03.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.05"
+    },
+    {
+      "nama_wilayah": "Wari",
+      "kode_wilayah": "82.03.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.05"
+    },
+    {
+      "nama_wilayah": "Kakara",
+      "kode_wilayah": "82.03.05.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.05"
+    },
+    {
+      "nama_wilayah": "Kumo",
+      "kode_wilayah": "82.03.05.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.05"
+    },
+    {
+      "nama_wilayah": "Gosoma",
+      "kode_wilayah": "82.03.05.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.05"
+    },
+    {
+      "nama_wilayah": "Rawajaya",
+      "kode_wilayah": "82.03.05.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.05"
+    },
+    {
+      "nama_wilayah": "MKCM",
+      "kode_wilayah": "82.03.05.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.05"
+    },
+    {
+      "nama_wilayah": "Tagalaya",
+      "kode_wilayah": "82.03.05.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.05"
+    },
+    {
+      "nama_wilayah": "Wari Ino",
+      "kode_wilayah": "82.03.05.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.05"
+    }
+  ]
+}

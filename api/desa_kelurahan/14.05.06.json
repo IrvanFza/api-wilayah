@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Pelalawan",
+      "kode_wilayah": "14.05.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.06"
+    },
+    {
+      "nama_wilayah": "Sungai Ara",
+      "kode_wilayah": "14.05.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.06"
+    },
+    {
+      "nama_wilayah": "Ransang",
+      "kode_wilayah": "14.05.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.06"
+    },
+    {
+      "nama_wilayah": "Kuala Tolam",
+      "kode_wilayah": "14.05.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.06"
+    },
+    {
+      "nama_wilayah": "Sering",
+      "kode_wilayah": "14.05.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.06"
+    },
+    {
+      "nama_wilayah": "Telayap",
+      "kode_wilayah": "14.05.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.06"
+    },
+    {
+      "nama_wilayah": "Batang Nilo Kecil",
+      "kode_wilayah": "14.05.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.06"
+    },
+    {
+      "nama_wilayah": "Delik",
+      "kode_wilayah": "14.05.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.06"
+    },
+    {
+      "nama_wilayah": "Lalang Kabung",
+      "kode_wilayah": "14.05.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.06"
+    }
+  ]
+}

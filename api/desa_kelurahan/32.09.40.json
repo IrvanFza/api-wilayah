@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Jamblang",
+      "kode_wilayah": "32.09.40.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.40"
+    },
+    {
+      "nama_wilayah": "Sitiwinangun",
+      "kode_wilayah": "32.09.40.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.40"
+    },
+    {
+      "nama_wilayah": "Wangunharja",
+      "kode_wilayah": "32.09.40.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.40"
+    },
+    {
+      "nama_wilayah": "Bojong Wetan",
+      "kode_wilayah": "32.09.40.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.40"
+    },
+    {
+      "nama_wilayah": "Bojong Lor",
+      "kode_wilayah": "32.09.40.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.40"
+    },
+    {
+      "nama_wilayah": "Orimalang",
+      "kode_wilayah": "32.09.40.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.40"
+    },
+    {
+      "nama_wilayah": "Bakung Kidul",
+      "kode_wilayah": "32.09.40.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.40"
+    },
+    {
+      "nama_wilayah": "Bakung Lor",
+      "kode_wilayah": "32.09.40.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.40"
+    }
+  ]
+}

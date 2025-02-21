@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Poiwai",
+      "kode_wilayah": "91.20.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.08"
+    },
+    {
+      "nama_wilayah": "Tamakuri",
+      "kode_wilayah": "91.20.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.08"
+    },
+    {
+      "nama_wilayah": "Bonoi",
+      "kode_wilayah": "91.20.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.08"
+    },
+    {
+      "nama_wilayah": "Sorabi",
+      "kode_wilayah": "91.20.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.08"
+    },
+    {
+      "nama_wilayah": "Rapamerei",
+      "kode_wilayah": "91.20.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.08"
+    },
+    {
+      "nama_wilayah": "Anasi",
+      "kode_wilayah": "91.20.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.08"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Laut",
+      "kode_wilayah": "64.74.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.74",
+      "kode_kecamatan": "64.74.02"
+    },
+    {
+      "nama_wilayah": "Berbas Tengah",
+      "kode_wilayah": "64.74.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.74",
+      "kode_kecamatan": "64.74.02"
+    },
+    {
+      "nama_wilayah": "Berbas Pantai",
+      "kode_wilayah": "64.74.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.74",
+      "kode_kecamatan": "64.74.02"
+    },
+    {
+      "nama_wilayah": "Satimpo",
+      "kode_wilayah": "64.74.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.74",
+      "kode_kecamatan": "64.74.02"
+    },
+    {
+      "nama_wilayah": "Bontang Lestari",
+      "kode_wilayah": "64.74.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.74",
+      "kode_kecamatan": "64.74.02"
+    },
+    {
+      "nama_wilayah": "Tanjung Laut Indah",
+      "kode_wilayah": "64.74.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.74",
+      "kode_kecamatan": "64.74.02"
+    }
+  ]
+}

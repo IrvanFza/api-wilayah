@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kayangan",
+      "kode_wilayah": "52.08.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.08",
+      "kode_kecamatan": "52.08.03"
+    },
+    {
+      "nama_wilayah": "Santong",
+      "kode_wilayah": "52.08.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.08",
+      "kode_kecamatan": "52.08.03"
+    },
+    {
+      "nama_wilayah": "Selengen",
+      "kode_wilayah": "52.08.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.08",
+      "kode_kecamatan": "52.08.03"
+    },
+    {
+      "nama_wilayah": "Sesait",
+      "kode_wilayah": "52.08.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.08",
+      "kode_kecamatan": "52.08.03"
+    },
+    {
+      "nama_wilayah": "Gumantar",
+      "kode_wilayah": "52.08.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.08",
+      "kode_kecamatan": "52.08.03"
+    },
+    {
+      "nama_wilayah": "Salut",
+      "kode_wilayah": "52.08.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.08",
+      "kode_kecamatan": "52.08.03"
+    },
+    {
+      "nama_wilayah": "Dangiang",
+      "kode_wilayah": "52.08.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.08",
+      "kode_kecamatan": "52.08.03"
+    },
+    {
+      "nama_wilayah": "Pendua",
+      "kode_wilayah": "52.08.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.08",
+      "kode_kecamatan": "52.08.03"
+    },
+    {
+      "nama_wilayah": "Pansor",
+      "kode_wilayah": "52.08.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.08",
+      "kode_kecamatan": "52.08.03"
+    },
+    {
+      "nama_wilayah": "Santong Mulia",
+      "kode_wilayah": "52.08.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.08",
+      "kode_kecamatan": "52.08.03"
+    }
+  ]
+}

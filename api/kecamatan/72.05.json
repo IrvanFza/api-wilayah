@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Momunu",
+      "kode_wilayah": "72.05.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.05",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Lakea",
+      "kode_wilayah": "72.05.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.05",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Bokat",
+      "kode_wilayah": "72.05.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.05",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Bunobogu",
+      "kode_wilayah": "72.05.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.05",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Paleleh",
+      "kode_wilayah": "72.05.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.05",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Biau",
+      "kode_wilayah": "72.05.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.05",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Tiloan",
+      "kode_wilayah": "72.05.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.05",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Bukal",
+      "kode_wilayah": "72.05.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.05",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Gadung",
+      "kode_wilayah": "72.05.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.05",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Karamat",
+      "kode_wilayah": "72.05.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.05",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Paleleh Barat",
+      "kode_wilayah": "72.05.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.05",
+      "kode_provinsi": "72"
+    }
+  ]
+}

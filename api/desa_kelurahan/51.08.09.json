@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sembiran",
+      "kode_wilayah": "51.08.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.08",
+      "kode_kecamatan": "51.08.09"
+    },
+    {
+      "nama_wilayah": "Pacung",
+      "kode_wilayah": "51.08.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.08",
+      "kode_kecamatan": "51.08.09"
+    },
+    {
+      "nama_wilayah": "Julah",
+      "kode_wilayah": "51.08.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.08",
+      "kode_kecamatan": "51.08.09"
+    },
+    {
+      "nama_wilayah": "Madenan",
+      "kode_wilayah": "51.08.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.08",
+      "kode_kecamatan": "51.08.09"
+    },
+    {
+      "nama_wilayah": "Bondalem",
+      "kode_wilayah": "51.08.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.08",
+      "kode_kecamatan": "51.08.09"
+    },
+    {
+      "nama_wilayah": "Tejakula",
+      "kode_wilayah": "51.08.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.08",
+      "kode_kecamatan": "51.08.09"
+    },
+    {
+      "nama_wilayah": "Les",
+      "kode_wilayah": "51.08.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.08",
+      "kode_kecamatan": "51.08.09"
+    },
+    {
+      "nama_wilayah": "Penuktukan",
+      "kode_wilayah": "51.08.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.08",
+      "kode_kecamatan": "51.08.09"
+    },
+    {
+      "nama_wilayah": "Sambirenteng",
+      "kode_wilayah": "51.08.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.08",
+      "kode_kecamatan": "51.08.09"
+    },
+    {
+      "nama_wilayah": "Tembok",
+      "kode_wilayah": "51.08.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.08",
+      "kode_kecamatan": "51.08.09"
+    }
+  ]
+}

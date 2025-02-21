@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Babang",
+      "kode_wilayah": "82.04.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.07"
+    },
+    {
+      "nama_wilayah": "Bori",
+      "kode_wilayah": "82.04.07.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.07"
+    },
+    {
+      "nama_wilayah": "Nyonyifi",
+      "kode_wilayah": "82.04.07.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.07"
+    },
+    {
+      "nama_wilayah": "Sabatang",
+      "kode_wilayah": "82.04.07.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.07"
+    },
+    {
+      "nama_wilayah": "Goro-Goro",
+      "kode_wilayah": "82.04.07.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.07"
+    },
+    {
+      "nama_wilayah": "Sali Kecil",
+      "kode_wilayah": "82.04.07.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.07"
+    },
+    {
+      "nama_wilayah": "Timlonga",
+      "kode_wilayah": "82.04.07.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.07"
+    },
+    {
+      "nama_wilayah": "Sayoang",
+      "kode_wilayah": "82.04.07.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.07"
+    },
+    {
+      "nama_wilayah": "Wayamiga",
+      "kode_wilayah": "82.04.07.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.07"
+    },
+    {
+      "nama_wilayah": "Kaireu",
+      "kode_wilayah": "82.04.07.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.07"
+    }
+  ]
+}

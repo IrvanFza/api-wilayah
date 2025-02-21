@@ -1,0 +1,406 @@
+{
+  "status": "success",
+  "total": 50,
+  "data": [
+    {
+      "nama_wilayah": "Apalapsili",
+      "kode_wilayah": "95.06.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Hubliki",
+      "kode_wilayah": "95.06.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Kulet",
+      "kode_wilayah": "95.06.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Yarema",
+      "kode_wilayah": "95.06.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Asiligma",
+      "kode_wilayah": "95.06.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Lambukmu",
+      "kode_wilayah": "95.06.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Suwewili",
+      "kode_wilayah": "95.06.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Yohul",
+      "kode_wilayah": "95.06.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Lilinsaluk",
+      "kode_wilayah": "95.06.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Natoksili",
+      "kode_wilayah": "95.06.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Hinanggoambut",
+      "kode_wilayah": "95.06.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Wiyukwilik",
+      "kode_wilayah": "95.06.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Fari",
+      "kode_wilayah": "95.06.02.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Wasalalo",
+      "kode_wilayah": "95.06.02.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Suerlihim",
+      "kode_wilayah": "95.06.02.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Orohon",
+      "kode_wilayah": "95.06.02.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Habalo",
+      "kode_wilayah": "95.06.02.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Sabilikalem",
+      "kode_wilayah": "95.06.02.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Wanamalo",
+      "kode_wilayah": "95.06.02.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Kundikele",
+      "kode_wilayah": "95.06.02.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Kelampurim",
+      "kode_wilayah": "95.06.02.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Holukalem",
+      "kode_wilayah": "95.06.02.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Yeptek",
+      "kode_wilayah": "95.06.02.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Benyam",
+      "kode_wilayah": "95.06.02.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Temput",
+      "kode_wilayah": "95.06.02.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Sabualo",
+      "kode_wilayah": "95.06.02.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Nanahoruk",
+      "kode_wilayah": "95.06.02.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Kengkenbun",
+      "kode_wilayah": "95.06.02.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Sien",
+      "kode_wilayah": "95.06.02.2029",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Kinhe",
+      "kode_wilayah": "95.06.02.2030",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Humalem",
+      "kode_wilayah": "95.06.02.2031",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Pipisim",
+      "kode_wilayah": "95.06.02.2032",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Makrig",
+      "kode_wilayah": "95.06.02.2033",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Ilirek",
+      "kode_wilayah": "95.06.02.2034",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Filiahik",
+      "kode_wilayah": "95.06.02.2035",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Kilat",
+      "kode_wilayah": "95.06.02.2036",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Baptekma",
+      "kode_wilayah": "95.06.02.2037",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Nohonil",
+      "kode_wilayah": "95.06.02.2038",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Asilikma",
+      "kode_wilayah": "95.06.02.2039",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Tikano",
+      "kode_wilayah": "95.06.02.2040",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Nasinema",
+      "kode_wilayah": "95.06.02.2041",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Eal",
+      "kode_wilayah": "95.06.02.2042",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Hukalopunu",
+      "kode_wilayah": "95.06.02.2043",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Alimuhuk",
+      "kode_wilayah": "95.06.02.2044",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Pong",
+      "kode_wilayah": "95.06.02.2045",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Molinggi",
+      "kode_wilayah": "95.06.02.2046",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Sobikambut",
+      "kode_wilayah": "95.06.02.2047",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Wiralesili",
+      "kode_wilayah": "95.06.02.2048",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Holuogalma",
+      "kode_wilayah": "95.06.02.2049",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    },
+    {
+      "nama_wilayah": "Falukwalilo",
+      "kode_wilayah": "95.06.02.2050",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.06",
+      "kode_kecamatan": "95.06.02"
+    }
+  ]
+}

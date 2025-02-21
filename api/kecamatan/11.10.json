@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Pulau Banyak",
+      "kode_wilayah": "11.10.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.10",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Simpang Kanan",
+      "kode_wilayah": "11.10.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.10",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Singkil",
+      "kode_wilayah": "11.10.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.10",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Gunung Meriah",
+      "kode_wilayah": "11.10.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.10",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Kota Baharu",
+      "kode_wilayah": "11.10.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.10",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Singkil Utara",
+      "kode_wilayah": "11.10.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.10",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Danau Paris",
+      "kode_wilayah": "11.10.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.10",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Suro Makmur",
+      "kode_wilayah": "11.10.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.10",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Singkohor",
+      "kode_wilayah": "11.10.13",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.10",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Kuala Baru",
+      "kode_wilayah": "11.10.14",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.10",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Pulau Banyak Barat",
+      "kode_wilayah": "11.10.16",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.10",
+      "kode_provinsi": "11"
+    }
+  ]
+}

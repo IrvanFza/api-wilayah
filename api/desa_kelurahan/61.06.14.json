@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Badau",
+      "kode_wilayah": "61.06.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.14"
+    },
+    {
+      "nama_wilayah": "Janting",
+      "kode_wilayah": "61.06.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.14"
+    },
+    {
+      "nama_wilayah": "Semuntik",
+      "kode_wilayah": "61.06.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.14"
+    },
+    {
+      "nama_wilayah": "Kekurak",
+      "kode_wilayah": "61.06.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.14"
+    },
+    {
+      "nama_wilayah": "Pulau Majang",
+      "kode_wilayah": "61.06.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.14"
+    },
+    {
+      "nama_wilayah": "Seriang",
+      "kode_wilayah": "61.06.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.14"
+    },
+    {
+      "nama_wilayah": "Sebindang",
+      "kode_wilayah": "61.06.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.14"
+    },
+    {
+      "nama_wilayah": "Tinting Seligi",
+      "kode_wilayah": "61.06.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.14"
+    },
+    {
+      "nama_wilayah": "Tajum",
+      "kode_wilayah": "61.06.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.14"
+    }
+  ]
+}

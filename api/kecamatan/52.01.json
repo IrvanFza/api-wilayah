@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Gerung",
+      "kode_wilayah": "52.01.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.01",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Kediri",
+      "kode_wilayah": "52.01.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.01",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Narmada",
+      "kode_wilayah": "52.01.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.01",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Sekotong",
+      "kode_wilayah": "52.01.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.01",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Labuapi",
+      "kode_wilayah": "52.01.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.01",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Gunungsari",
+      "kode_wilayah": "52.01.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.01",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Lingsar",
+      "kode_wilayah": "52.01.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.01",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Lembar",
+      "kode_wilayah": "52.01.13",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.01",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Batu Layar",
+      "kode_wilayah": "52.01.14",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.01",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Kuripan",
+      "kode_wilayah": "52.01.15",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.01",
+      "kode_provinsi": "52"
+    }
+  ]
+}

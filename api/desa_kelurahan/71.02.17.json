@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Palamba",
+      "kode_wilayah": "71.02.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.17"
+    },
+    {
+      "nama_wilayah": "Atep",
+      "kode_wilayah": "71.02.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.17"
+    },
+    {
+      "nama_wilayah": "Manembo",
+      "kode_wilayah": "71.02.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.17"
+    },
+    {
+      "nama_wilayah": "Temboan",
+      "kode_wilayah": "71.02.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.17"
+    },
+    {
+      "nama_wilayah": "Rumbia",
+      "kode_wilayah": "71.02.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.17"
+    },
+    {
+      "nama_wilayah": "Winebetan",
+      "kode_wilayah": "71.02.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.17"
+    },
+    {
+      "nama_wilayah": "Kaayuran Atas",
+      "kode_wilayah": "71.02.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.17"
+    },
+    {
+      "nama_wilayah": "Kaayuran Bawah",
+      "kode_wilayah": "71.02.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.17"
+    },
+    {
+      "nama_wilayah": "Kawatak",
+      "kode_wilayah": "71.02.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.17"
+    },
+    {
+      "nama_wilayah": "Atep Satu",
+      "kode_wilayah": "71.02.17.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.17"
+    }
+  ]
+}

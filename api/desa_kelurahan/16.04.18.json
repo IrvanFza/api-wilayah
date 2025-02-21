@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Laru",
+      "kode_wilayah": "16.04.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.18"
+    },
+    {
+      "nama_wilayah": "Muara Lingsing",
+      "kode_wilayah": "16.04.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.18"
+    },
+    {
+      "nama_wilayah": "Tanjung Baru",
+      "kode_wilayah": "16.04.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.18"
+    },
+    {
+      "nama_wilayah": "Kepala Siring",
+      "kode_wilayah": "16.04.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.18"
+    },
+    {
+      "nama_wilayah": "Maspura",
+      "kode_wilayah": "16.04.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.18"
+    },
+    {
+      "nama_wilayah": "Suka Raja",
+      "kode_wilayah": "16.04.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.18"
+    },
+    {
+      "nama_wilayah": "Tanjung Aur",
+      "kode_wilayah": "16.04.18.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.18"
+    },
+    {
+      "nama_wilayah": "Purbamas",
+      "kode_wilayah": "16.04.18.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.18"
+    },
+    {
+      "nama_wilayah": "Banyu Mas",
+      "kode_wilayah": "16.04.18.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.18"
+    }
+  ]
+}

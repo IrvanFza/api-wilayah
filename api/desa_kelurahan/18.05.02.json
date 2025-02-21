@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Menggala Selatan",
+      "kode_wilayah": "18.05.02.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.05",
+      "kode_kecamatan": "18.05.02"
+    },
+    {
+      "nama_wilayah": "Ujung Gunung",
+      "kode_wilayah": "18.05.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.05",
+      "kode_kecamatan": "18.05.02"
+    },
+    {
+      "nama_wilayah": "Menggala Tengah",
+      "kode_wilayah": "18.05.02.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.05",
+      "kode_kecamatan": "18.05.02"
+    },
+    {
+      "nama_wilayah": "Menggala Kota",
+      "kode_wilayah": "18.05.02.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.05",
+      "kode_kecamatan": "18.05.02"
+    },
+    {
+      "nama_wilayah": "Bujung Tenuk",
+      "kode_wilayah": "18.05.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.05",
+      "kode_kecamatan": "18.05.02"
+    },
+    {
+      "nama_wilayah": "Ujung Gunung Ilir",
+      "kode_wilayah": "18.05.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.05",
+      "kode_kecamatan": "18.05.02"
+    },
+    {
+      "nama_wilayah": "Astra Ksetra",
+      "kode_wilayah": "18.05.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.05",
+      "kode_kecamatan": "18.05.02"
+    },
+    {
+      "nama_wilayah": "Kagungan Rahayu",
+      "kode_wilayah": "18.05.02.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.05",
+      "kode_kecamatan": "18.05.02"
+    },
+    {
+      "nama_wilayah": "Tiuh Tohou",
+      "kode_wilayah": "18.05.02.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.05",
+      "kode_kecamatan": "18.05.02"
+    }
+  ]
+}

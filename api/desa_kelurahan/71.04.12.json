@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Kalongan",
+      "kode_wilayah": "71.04.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.12"
+    },
+    {
+      "nama_wilayah": "Kalongan Utara",
+      "kode_wilayah": "71.04.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.12"
+    },
+    {
+      "nama_wilayah": "Kalongan Selatan",
+      "kode_wilayah": "71.04.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.12"
+    },
+    {
+      "nama_wilayah": "Alude",
+      "kode_wilayah": "71.04.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.12"
+    },
+    {
+      "nama_wilayah": "Musi I",
+      "kode_wilayah": "71.04.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.12"
+    }
+  ]
+}

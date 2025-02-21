@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Tasinifu",
+      "kode_wilayah": "53.03.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.13"
+    },
+    {
+      "nama_wilayah": "Naekake A",
+      "kode_wilayah": "53.03.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.13"
+    },
+    {
+      "nama_wilayah": "Naekake B",
+      "kode_wilayah": "53.03.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.13"
+    },
+    {
+      "nama_wilayah": "Noelelo",
+      "kode_wilayah": "53.03.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.13"
+    }
+  ]
+}

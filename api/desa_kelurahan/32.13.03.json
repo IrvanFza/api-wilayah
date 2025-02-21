@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Parung",
+      "kode_wilayah": "32.13.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.03"
+    },
+    {
+      "nama_wilayah": "Cigadung",
+      "kode_wilayah": "32.13.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.03"
+    },
+    {
+      "nama_wilayah": "Pasirkareumbi",
+      "kode_wilayah": "32.13.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.03"
+    },
+    {
+      "nama_wilayah": "Karanganyar",
+      "kode_wilayah": "32.13.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.03"
+    },
+    {
+      "nama_wilayah": "Soklat",
+      "kode_wilayah": "32.13.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.03"
+    },
+    {
+      "nama_wilayah": "Sukamelang",
+      "kode_wilayah": "32.13.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.03"
+    },
+    {
+      "nama_wilayah": "Dangdeur",
+      "kode_wilayah": "32.13.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.03"
+    },
+    {
+      "nama_wilayah": "Wanareja",
+      "kode_wilayah": "32.13.03.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.03"
+    }
+  ]
+}

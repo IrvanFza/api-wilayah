@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Harap",
+      "kode_wilayah": "12.18.12.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.18",
+      "kode_kecamatan": "12.18.12"
+    },
+    {
+      "nama_wilayah": "Kuala Bali",
+      "kode_wilayah": "12.18.12.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.18",
+      "kode_kecamatan": "12.18.12"
+    },
+    {
+      "nama_wilayah": "Karang Tengah",
+      "kode_wilayah": "12.18.12.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.18",
+      "kode_kecamatan": "12.18.12"
+    },
+    {
+      "nama_wilayah": "Kelapa Bajohom",
+      "kode_wilayah": "12.18.12.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.18",
+      "kode_kecamatan": "12.18.12"
+    },
+    {
+      "nama_wilayah": "Manggis",
+      "kode_wilayah": "12.18.12.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.18",
+      "kode_kecamatan": "12.18.12"
+    },
+    {
+      "nama_wilayah": "Pulau Gambar",
+      "kode_wilayah": "12.18.12.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.18",
+      "kode_kecamatan": "12.18.12"
+    },
+    {
+      "nama_wilayah": "Pulau Tagor",
+      "kode_wilayah": "12.18.12.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.18",
+      "kode_kecamatan": "12.18.12"
+    },
+    {
+      "nama_wilayah": "Serba Jadi",
+      "kode_wilayah": "12.18.12.2032",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.18",
+      "kode_kecamatan": "12.18.12"
+    },
+    {
+      "nama_wilayah": "Tambak Cekur",
+      "kode_wilayah": "12.18.12.2033",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.18",
+      "kode_kecamatan": "12.18.12"
+    },
+    {
+      "nama_wilayah": "Bah Sidua-dua",
+      "kode_wilayah": "12.18.12.2038",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.18",
+      "kode_kecamatan": "12.18.12"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sukadamai",
+      "kode_wilayah": "32.01.30.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.30"
+    },
+    {
+      "nama_wilayah": "Ciherang",
+      "kode_wilayah": "32.01.30.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.30"
+    },
+    {
+      "nama_wilayah": "Sinarsari",
+      "kode_wilayah": "32.01.30.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.30"
+    },
+    {
+      "nama_wilayah": "Sukawening",
+      "kode_wilayah": "32.01.30.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.30"
+    },
+    {
+      "nama_wilayah": "Petir",
+      "kode_wilayah": "32.01.30.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.30"
+    },
+    {
+      "nama_wilayah": "Purwasari",
+      "kode_wilayah": "32.01.30.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.30"
+    },
+    {
+      "nama_wilayah": "Cikarawang",
+      "kode_wilayah": "32.01.30.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.30"
+    },
+    {
+      "nama_wilayah": "Babakan",
+      "kode_wilayah": "32.01.30.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.30"
+    },
+    {
+      "nama_wilayah": "Dramaga",
+      "kode_wilayah": "32.01.30.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.30"
+    },
+    {
+      "nama_wilayah": "Neglasari",
+      "kode_wilayah": "32.01.30.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.30"
+    }
+  ]
+}

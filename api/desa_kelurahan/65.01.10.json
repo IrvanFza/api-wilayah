@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Bunyu Barat",
+      "kode_wilayah": "65.01.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.10"
+    },
+    {
+      "nama_wilayah": "Bunyu Selatan",
+      "kode_wilayah": "65.01.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.10"
+    },
+    {
+      "nama_wilayah": "Bunyu Timur",
+      "kode_wilayah": "65.01.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.10"
+    }
+  ]
+}

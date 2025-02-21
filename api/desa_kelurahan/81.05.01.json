@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bula",
+      "kode_wilayah": "81.05.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.01"
+    },
+    {
+      "nama_wilayah": "Salas",
+      "kode_wilayah": "81.05.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.01"
+    },
+    {
+      "nama_wilayah": "Englas",
+      "kode_wilayah": "81.05.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.01"
+    },
+    {
+      "nama_wilayah": "Bula Air Fatolo",
+      "kode_wilayah": "81.05.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.01"
+    },
+    {
+      "nama_wilayah": "Sesar",
+      "kode_wilayah": "81.05.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.01"
+    },
+    {
+      "nama_wilayah": "Tansi Ambon",
+      "kode_wilayah": "81.05.01.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.01"
+    },
+    {
+      "nama_wilayah": "Kampung Wailola",
+      "kode_wilayah": "81.05.01.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.01"
+    },
+    {
+      "nama_wilayah": "Kampung Gorom",
+      "kode_wilayah": "81.05.01.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.01"
+    },
+    {
+      "nama_wilayah": "Limumir",
+      "kode_wilayah": "81.05.01.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.01"
+    },
+    {
+      "nama_wilayah": "Fattolo",
+      "kode_wilayah": "81.05.01.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.01"
+    }
+  ]
+}

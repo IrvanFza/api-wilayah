@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Wek V",
+      "kode_wilayah": "12.77.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.77",
+      "kode_kecamatan": "12.77.02"
+    },
+    {
+      "nama_wilayah": "Wek VI",
+      "kode_wilayah": "12.77.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.77",
+      "kode_kecamatan": "12.77.02"
+    },
+    {
+      "nama_wilayah": "Losung",
+      "kode_wilayah": "12.77.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.77",
+      "kode_kecamatan": "12.77.02"
+    },
+    {
+      "nama_wilayah": "Sitamiang",
+      "kode_wilayah": "12.77.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.77",
+      "kode_kecamatan": "12.77.02"
+    },
+    {
+      "nama_wilayah": "Ujung Padang",
+      "kode_wilayah": "12.77.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.77",
+      "kode_kecamatan": "12.77.02"
+    },
+    {
+      "nama_wilayah": "Aek Tampang",
+      "kode_wilayah": "12.77.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.77",
+      "kode_kecamatan": "12.77.02"
+    },
+    {
+      "nama_wilayah": "Padang Matinggi",
+      "kode_wilayah": "12.77.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.77",
+      "kode_kecamatan": "12.77.02"
+    },
+    {
+      "nama_wilayah": "Silandit",
+      "kode_wilayah": "12.77.02.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.77",
+      "kode_kecamatan": "12.77.02"
+    },
+    {
+      "nama_wilayah": "Sidangkal",
+      "kode_wilayah": "12.77.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.77",
+      "kode_kecamatan": "12.77.02"
+    },
+    {
+      "nama_wilayah": "Hanopan",
+      "kode_wilayah": "12.77.02.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.77",
+      "kode_kecamatan": "12.77.02"
+    },
+    {
+      "nama_wilayah": "Padang Matinggi  Lestari",
+      "kode_wilayah": "12.77.02.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.77",
+      "kode_kecamatan": "12.77.02"
+    },
+    {
+      "nama_wilayah": "Sitamiang Baru",
+      "kode_wilayah": "12.77.02.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.77",
+      "kode_kecamatan": "12.77.02"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Koto Tangah",
+      "kode_wilayah": "13.06.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.09"
+    },
+    {
+      "nama_wilayah": "Gadut",
+      "kode_wilayah": "13.06.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.09"
+    },
+    {
+      "nama_wilayah": "Kapau",
+      "kode_wilayah": "13.06.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.09"
+    }
+  ]
+}

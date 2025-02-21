@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Terusan Dalam",
+      "kode_wilayah": "16.07.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.18"
+    },
+    {
+      "nama_wilayah": "Karang Anyar",
+      "kode_wilayah": "16.07.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.18"
+    },
+    {
+      "nama_wilayah": "Muara Telang",
+      "kode_wilayah": "16.07.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.18"
+    },
+    {
+      "nama_wilayah": "Terusan Tengah",
+      "kode_wilayah": "16.07.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.18"
+    },
+    {
+      "nama_wilayah": "Sumber Jaya",
+      "kode_wilayah": "16.07.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.18"
+    },
+    {
+      "nama_wilayah": "Karang Baru",
+      "kode_wilayah": "16.07.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.18"
+    },
+    {
+      "nama_wilayah": "Muara Telang Marga",
+      "kode_wilayah": "16.07.18.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.18"
+    },
+    {
+      "nama_wilayah": "Terusan Muara",
+      "kode_wilayah": "16.07.18.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.18"
+    },
+    {
+      "nama_wilayah": "Talang Lubuk",
+      "kode_wilayah": "16.07.18.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.18"
+    },
+    {
+      "nama_wilayah": "Sri Tiga",
+      "kode_wilayah": "16.07.18.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.18"
+    }
+  ]
+}

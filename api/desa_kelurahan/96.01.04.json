@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Malabam",
+      "kode_wilayah": "96.01.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.04"
+    },
+    {
+      "nama_wilayah": "Seget",
+      "kode_wilayah": "96.01.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.04"
+    },
+    {
+      "nama_wilayah": "Wewenagu",
+      "kode_wilayah": "96.01.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.04"
+    },
+    {
+      "nama_wilayah": "Klayas",
+      "kode_wilayah": "96.01.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.04"
+    },
+    {
+      "nama_wilayah": "Kasimle",
+      "kode_wilayah": "96.01.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.04"
+    },
+    {
+      "nama_wilayah": "Wasingsan",
+      "kode_wilayah": "96.01.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.04"
+    },
+    {
+      "nama_wilayah": "Pulau Kasim",
+      "kode_wilayah": "96.01.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.04"
+    },
+    {
+      "nama_wilayah": "Wayenkede",
+      "kode_wilayah": "96.01.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.04"
+    },
+    {
+      "nama_wilayah": "Mobi",
+      "kode_wilayah": "96.01.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.04"
+    }
+  ]
+}

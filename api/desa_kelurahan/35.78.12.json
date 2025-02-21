@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Bongkaran",
+      "kode_wilayah": "35.78.12.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.12"
+    },
+    {
+      "nama_wilayah": "Nyamplungan",
+      "kode_wilayah": "35.78.12.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.12"
+    },
+    {
+      "nama_wilayah": "Krembangan Utara",
+      "kode_wilayah": "35.78.12.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.12"
+    },
+    {
+      "nama_wilayah": "Tanjung Perak",
+      "kode_wilayah": "35.78.12.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.12"
+    }
+  ]
+}

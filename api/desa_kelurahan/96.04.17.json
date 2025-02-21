@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Atafrumek",
+      "kode_wilayah": "96.04.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.17"
+    },
+    {
+      "nama_wilayah": "Miri",
+      "kode_wilayah": "96.04.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.17"
+    },
+    {
+      "nama_wilayah": "Wufmana",
+      "kode_wilayah": "96.04.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.17"
+    },
+    {
+      "nama_wilayah": "Meis",
+      "kode_wilayah": "96.04.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.17"
+    },
+    {
+      "nama_wilayah": "Aifamas",
+      "kode_wilayah": "96.04.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.17"
+    },
+    {
+      "nama_wilayah": "Meinad",
+      "kode_wilayah": "96.04.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.17"
+    },
+    {
+      "nama_wilayah": "Ifiam",
+      "kode_wilayah": "96.04.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.17"
+    }
+  ]
+}

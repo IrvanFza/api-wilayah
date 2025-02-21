@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Bonto Matene",
+      "kode_wilayah": "73.10.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.09"
+    },
+    {
+      "nama_wilayah": "Segeri",
+      "kode_wilayah": "73.10.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.09"
+    },
+    {
+      "nama_wilayah": "Bone",
+      "kode_wilayah": "73.10.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.09"
+    },
+    {
+      "nama_wilayah": "Bawasalo",
+      "kode_wilayah": "73.10.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.09"
+    },
+    {
+      "nama_wilayah": "Baring",
+      "kode_wilayah": "73.10.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.09"
+    },
+    {
+      "nama_wilayah": "Parenreng",
+      "kode_wilayah": "73.10.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.09"
+    }
+  ]
+}

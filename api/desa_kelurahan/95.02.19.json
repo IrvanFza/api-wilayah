@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tarup",
+      "kode_wilayah": "95.02.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.19"
+    },
+    {
+      "nama_wilayah": "Marang Tiking",
+      "kode_wilayah": "95.02.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.19"
+    },
+    {
+      "nama_wilayah": "Imsin",
+      "kode_wilayah": "95.02.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.19"
+    },
+    {
+      "nama_wilayah": "Bitipding",
+      "kode_wilayah": "95.02.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.19"
+    },
+    {
+      "nama_wilayah": "Onkor",
+      "kode_wilayah": "95.02.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.19"
+    },
+    {
+      "nama_wilayah": "Beten Dua",
+      "kode_wilayah": "95.02.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.19"
+    },
+    {
+      "nama_wilayah": "Omor",
+      "kode_wilayah": "95.02.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.19"
+    }
+  ]
+}

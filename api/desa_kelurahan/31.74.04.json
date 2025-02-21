@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pasar Minggu",
+      "kode_wilayah": "31.74.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.04"
+    },
+    {
+      "nama_wilayah": "Jati Padang",
+      "kode_wilayah": "31.74.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.04"
+    },
+    {
+      "nama_wilayah": "Cilandak Timur",
+      "kode_wilayah": "31.74.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.04"
+    },
+    {
+      "nama_wilayah": "Ragunan",
+      "kode_wilayah": "31.74.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.04"
+    },
+    {
+      "nama_wilayah": "Pejaten Timur",
+      "kode_wilayah": "31.74.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.04"
+    },
+    {
+      "nama_wilayah": "Pejaten Barat",
+      "kode_wilayah": "31.74.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.04"
+    },
+    {
+      "nama_wilayah": "Kebagusan",
+      "kode_wilayah": "31.74.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.04"
+    }
+  ]
+}

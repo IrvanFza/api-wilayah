@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Ngarum",
+      "kode_wilayah": "33.14.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.08"
+    },
+    {
+      "nama_wilayah": "Bener",
+      "kode_wilayah": "33.14.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.08"
+    },
+    {
+      "nama_wilayah": "Pilangsari",
+      "kode_wilayah": "33.14.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.08"
+    },
+    {
+      "nama_wilayah": "Bandung",
+      "kode_wilayah": "33.14.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.08"
+    },
+    {
+      "nama_wilayah": "Kebonromo",
+      "kode_wilayah": "33.14.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.08"
+    },
+    {
+      "nama_wilayah": "Gabus",
+      "kode_wilayah": "33.14.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.08"
+    },
+    {
+      "nama_wilayah": "Karangudi",
+      "kode_wilayah": "33.14.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.08"
+    },
+    {
+      "nama_wilayah": "Klandungan",
+      "kode_wilayah": "33.14.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.08"
+    }
+  ]
+}

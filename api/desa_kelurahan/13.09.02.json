@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Bosua",
+      "kode_wilayah": "13.09.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.02"
+    },
+    {
+      "nama_wilayah": "Beriulou",
+      "kode_wilayah": "13.09.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.02"
+    },
+    {
+      "nama_wilayah": "Nemnemleleu",
+      "kode_wilayah": "13.09.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.02"
+    },
+    {
+      "nama_wilayah": "Mara",
+      "kode_wilayah": "13.09.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.02"
+    },
+    {
+      "nama_wilayah": "Sioban",
+      "kode_wilayah": "13.09.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.02"
+    },
+    {
+      "nama_wilayah": "Matobe",
+      "kode_wilayah": "13.09.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.02"
+    },
+    {
+      "nama_wilayah": "Saureinu",
+      "kode_wilayah": "13.09.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.02"
+    }
+  ]
+}

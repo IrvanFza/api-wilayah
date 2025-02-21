@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kampung Kelawi",
+      "kode_wilayah": "17.71.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.08"
+    },
+    {
+      "nama_wilayah": "Sukamerindu",
+      "kode_wilayah": "17.71.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.08"
+    },
+    {
+      "nama_wilayah": "Semarang",
+      "kode_wilayah": "17.71.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.08"
+    },
+    {
+      "nama_wilayah": "Tanjung Agung",
+      "kode_wilayah": "17.71.08.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.08"
+    },
+    {
+      "nama_wilayah": "Tanjung Jaya",
+      "kode_wilayah": "17.71.08.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.08"
+    },
+    {
+      "nama_wilayah": "Surabaya",
+      "kode_wilayah": "17.71.08.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.08"
+    },
+    {
+      "nama_wilayah": "Pasar Bengkulu",
+      "kode_wilayah": "17.71.08.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.08"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Lirung",
+      "kode_wilayah": "71.04.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.01"
+    },
+    {
+      "nama_wilayah": "Lirung Satu",
+      "kode_wilayah": "71.04.01.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.01"
+    },
+    {
+      "nama_wilayah": "Lirung Matane",
+      "kode_wilayah": "71.04.01.1024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.01"
+    },
+    {
+      "nama_wilayah": "Sereh",
+      "kode_wilayah": "71.04.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.01"
+    },
+    {
+      "nama_wilayah": "Musi",
+      "kode_wilayah": "71.04.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.01"
+    },
+    {
+      "nama_wilayah": "Talolang",
+      "kode_wilayah": "71.04.01.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.01"
+    },
+    {
+      "nama_wilayah": "Sereh I",
+      "kode_wilayah": "71.04.01.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.01"
+    }
+  ]
+}

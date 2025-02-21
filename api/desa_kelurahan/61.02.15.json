@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Peniti Besar",
+      "kode_wilayah": "61.02.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.15"
+    },
+    {
+      "nama_wilayah": "Sungai Purun Besar",
+      "kode_wilayah": "61.02.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.15"
+    },
+    {
+      "nama_wilayah": "Parit Bugis",
+      "kode_wilayah": "61.02.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.15"
+    },
+    {
+      "nama_wilayah": "Peniti Dalam I",
+      "kode_wilayah": "61.02.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.15"
+    },
+    {
+      "nama_wilayah": "Peniti Dalam II",
+      "kode_wilayah": "61.02.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.15"
+    },
+    {
+      "nama_wilayah": "Sungai Burung",
+      "kode_wilayah": "61.02.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.15"
+    }
+  ]
+}

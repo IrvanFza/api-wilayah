@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Sikakap",
+      "kode_wilayah": "13.09.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.09"
+    },
+    {
+      "nama_wilayah": "Taikako",
+      "kode_wilayah": "13.09.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.09"
+    },
+    {
+      "nama_wilayah": "Matobe",
+      "kode_wilayah": "13.09.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.09"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Asem Rowo",
+      "kode_wilayah": "35.78.28.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.28"
+    },
+    {
+      "nama_wilayah": "Genting Kalianak",
+      "kode_wilayah": "35.78.28.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.28"
+    },
+    {
+      "nama_wilayah": "Tambak Sarioso",
+      "kode_wilayah": "35.78.28.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.28"
+    }
+  ]
+}

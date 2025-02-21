@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Palas",
+      "kode_wilayah": "65.01.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "65.01",
+      "kode_provinsi": "65"
+    },
+    {
+      "nama_wilayah": "Tanjung Palas Barat",
+      "kode_wilayah": "65.01.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "65.01",
+      "kode_provinsi": "65"
+    },
+    {
+      "nama_wilayah": "Tanjung Palas Utara",
+      "kode_wilayah": "65.01.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "65.01",
+      "kode_provinsi": "65"
+    },
+    {
+      "nama_wilayah": "Tanjung Palas Timur",
+      "kode_wilayah": "65.01.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "65.01",
+      "kode_provinsi": "65"
+    },
+    {
+      "nama_wilayah": "Tanjung Selor",
+      "kode_wilayah": "65.01.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "65.01",
+      "kode_provinsi": "65"
+    },
+    {
+      "nama_wilayah": "Tanjung Palas Tengah",
+      "kode_wilayah": "65.01.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "65.01",
+      "kode_provinsi": "65"
+    },
+    {
+      "nama_wilayah": "Peso",
+      "kode_wilayah": "65.01.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "65.01",
+      "kode_provinsi": "65"
+    },
+    {
+      "nama_wilayah": "Peso Hilir",
+      "kode_wilayah": "65.01.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "65.01",
+      "kode_provinsi": "65"
+    },
+    {
+      "nama_wilayah": "Sekatak",
+      "kode_wilayah": "65.01.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "65.01",
+      "kode_provinsi": "65"
+    },
+    {
+      "nama_wilayah": "Bunyu",
+      "kode_wilayah": "65.01.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "65.01",
+      "kode_provinsi": "65"
+    }
+  ]
+}

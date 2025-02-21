@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Yongsu Sapari",
+      "kode_wilayah": "91.03.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.17"
+    },
+    {
+      "nama_wilayah": "Yongsu Dosoyo",
+      "kode_wilayah": "91.03.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.17"
+    },
+    {
+      "nama_wilayah": "Newa",
+      "kode_wilayah": "91.03.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.17"
+    },
+    {
+      "nama_wilayah": "Desa Adat Nechive",
+      "kode_wilayah": "91.03.17.3004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.17"
+    }
+  ]
+}

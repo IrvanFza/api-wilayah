@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Melawai",
+      "kode_wilayah": "31.74.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.07"
+    },
+    {
+      "nama_wilayah": "Gunung",
+      "kode_wilayah": "31.74.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.07"
+    },
+    {
+      "nama_wilayah": "Kramat Pela",
+      "kode_wilayah": "31.74.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.07"
+    },
+    {
+      "nama_wilayah": "Selong",
+      "kode_wilayah": "31.74.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.07"
+    },
+    {
+      "nama_wilayah": "Rawa Barat",
+      "kode_wilayah": "31.74.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.07"
+    },
+    {
+      "nama_wilayah": "Senayan",
+      "kode_wilayah": "31.74.07.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.07"
+    },
+    {
+      "nama_wilayah": "Pulo",
+      "kode_wilayah": "31.74.07.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.07"
+    },
+    {
+      "nama_wilayah": "Petogogan",
+      "kode_wilayah": "31.74.07.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.07"
+    },
+    {
+      "nama_wilayah": "Gandaria Utara",
+      "kode_wilayah": "31.74.07.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.07"
+    },
+    {
+      "nama_wilayah": "Cipete Utara",
+      "kode_wilayah": "31.74.07.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.07"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Binjai Utara",
+      "kode_wilayah": "12.75.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.75",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Binjai Kota",
+      "kode_wilayah": "12.75.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.75",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Binjai Barat",
+      "kode_wilayah": "12.75.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.75",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Binjai Timur",
+      "kode_wilayah": "12.75.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.75",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Binjai Selatan",
+      "kode_wilayah": "12.75.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.75",
+      "kode_provinsi": "12"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Delapan Ilir",
+      "kode_wilayah": "16.71.18.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.18"
+    },
+    {
+      "nama_wilayah": "Sembilan Ilir",
+      "kode_wilayah": "16.71.18.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.18"
+    },
+    {
+      "nama_wilayah": "Sepuluh Ilir",
+      "kode_wilayah": "16.71.18.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.18"
+    },
+    {
+      "nama_wilayah": "Sebelas Ilir",
+      "kode_wilayah": "16.71.18.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.18"
+    },
+    {
+      "nama_wilayah": "Kutobatu",
+      "kode_wilayah": "16.71.18.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.18"
+    },
+    {
+      "nama_wilayah": "Duku",
+      "kode_wilayah": "16.71.18.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.18"
+    }
+  ]
+}

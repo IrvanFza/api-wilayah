@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Penuh",
+      "kode_wilayah": "15.72.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.72",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Pesisir Bukit",
+      "kode_wilayah": "15.72.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.72",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Hamparan Rawang",
+      "kode_wilayah": "15.72.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.72",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Tanah Kampung",
+      "kode_wilayah": "15.72.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.72",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Kumun Debai",
+      "kode_wilayah": "15.72.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.72",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Pondok Tinggi",
+      "kode_wilayah": "15.72.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.72",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Koto Baru",
+      "kode_wilayah": "15.72.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.72",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Sungai Bungkal",
+      "kode_wilayah": "15.72.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.72",
+      "kode_provinsi": "15"
+    }
+  ]
+}

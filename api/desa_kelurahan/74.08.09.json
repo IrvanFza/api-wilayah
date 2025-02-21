@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Watunohu",
+      "kode_wilayah": "74.08.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.09"
+    },
+    {
+      "nama_wilayah": "Lahabaru",
+      "kode_wilayah": "74.08.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.09"
+    },
+    {
+      "nama_wilayah": "Tambuha",
+      "kode_wilayah": "74.08.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.09"
+    },
+    {
+      "nama_wilayah": "Sarona",
+      "kode_wilayah": "74.08.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.09"
+    },
+    {
+      "nama_wilayah": "Sapoiha",
+      "kode_wilayah": "74.08.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.09"
+    },
+    {
+      "nama_wilayah": "Nyule",
+      "kode_wilayah": "74.08.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.09"
+    },
+    {
+      "nama_wilayah": "Samaturu",
+      "kode_wilayah": "74.08.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.09"
+    },
+    {
+      "nama_wilayah": "Lelehao",
+      "kode_wilayah": "74.08.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.09"
+    }
+  ]
+}

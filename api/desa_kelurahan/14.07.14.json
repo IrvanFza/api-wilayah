@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pedamaran",
+      "kode_wilayah": "14.07.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.14"
+    },
+    {
+      "nama_wilayah": "Rokan Baru",
+      "kode_wilayah": "14.07.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.14"
+    },
+    {
+      "nama_wilayah": "Sei Besar",
+      "kode_wilayah": "14.07.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.14"
+    },
+    {
+      "nama_wilayah": "Suak Temenggung",
+      "kode_wilayah": "14.07.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.14"
+    },
+    {
+      "nama_wilayah": "Teluk Bano II",
+      "kode_wilayah": "14.07.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.14"
+    },
+    {
+      "nama_wilayah": "Pekaitan",
+      "kode_wilayah": "14.07.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.14"
+    },
+    {
+      "nama_wilayah": "Suak Air Hitam",
+      "kode_wilayah": "14.07.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.14"
+    },
+    {
+      "nama_wilayah": "Kubu I",
+      "kode_wilayah": "14.07.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.14"
+    },
+    {
+      "nama_wilayah": "Karyo Mulyo Sari",
+      "kode_wilayah": "14.07.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.14"
+    },
+    {
+      "nama_wilayah": "Rokan Baru Pesisir",
+      "kode_wilayah": "14.07.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.14"
+    }
+  ]
+}

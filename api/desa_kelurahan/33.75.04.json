@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Banyurip",
+      "kode_wilayah": "33.75.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.04"
+    },
+    {
+      "nama_wilayah": "Buaran Kradenan",
+      "kode_wilayah": "33.75.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.04"
+    },
+    {
+      "nama_wilayah": "Jenggot",
+      "kode_wilayah": "33.75.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.04"
+    },
+    {
+      "nama_wilayah": "Kuripan Kertoharjo",
+      "kode_wilayah": "33.75.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.04"
+    },
+    {
+      "nama_wilayah": "Kuripan Yosorejo",
+      "kode_wilayah": "33.75.04.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.04"
+    },
+    {
+      "nama_wilayah": "Sokoduwet",
+      "kode_wilayah": "33.75.04.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.04"
+    }
+  ]
+}

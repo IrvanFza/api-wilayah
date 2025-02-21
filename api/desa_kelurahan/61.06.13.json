@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Keling Panggau",
+      "kode_wilayah": "61.06.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.13"
+    },
+    {
+      "nama_wilayah": "Nanga Kantuk",
+      "kode_wilayah": "61.06.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.13"
+    },
+    {
+      "nama_wilayah": "Tintin Peninjau",
+      "kode_wilayah": "61.06.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.13"
+    },
+    {
+      "nama_wilayah": "Bajau Andai",
+      "kode_wilayah": "61.06.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.13"
+    },
+    {
+      "nama_wilayah": "Kumang Jaya",
+      "kode_wilayah": "61.06.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.13"
+    },
+    {
+      "nama_wilayah": "Laja Sandang",
+      "kode_wilayah": "61.06.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.13"
+    }
+  ]
+}

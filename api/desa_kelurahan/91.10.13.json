@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Holmafen",
+      "kode_wilayah": "91.10.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.13"
+    },
+    {
+      "nama_wilayah": "Sewan",
+      "kode_wilayah": "91.10.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.13"
+    },
+    {
+      "nama_wilayah": "Waskey/ Tanjung Batu",
+      "kode_wilayah": "91.10.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.13"
+    },
+    {
+      "nama_wilayah": "Ebram",
+      "kode_wilayah": "91.10.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.13"
+    },
+    {
+      "nama_wilayah": "Binyer",
+      "kode_wilayah": "91.10.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.13"
+    },
+    {
+      "nama_wilayah": "Bagaiserwar Dua",
+      "kode_wilayah": "91.10.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.13"
+    },
+    {
+      "nama_wilayah": "Waskey",
+      "kode_wilayah": "91.10.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.13"
+    },
+    {
+      "nama_wilayah": "Tanjung Batu",
+      "kode_wilayah": "91.10.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.13"
+    }
+  ]
+}

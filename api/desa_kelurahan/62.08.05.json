@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kenawan",
+      "kode_wilayah": "62.08.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.08",
+      "kode_kecamatan": "62.08.05"
+    },
+    {
+      "nama_wilayah": "Laman Baru",
+      "kode_wilayah": "62.08.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.08",
+      "kode_kecamatan": "62.08.05"
+    },
+    {
+      "nama_wilayah": "Ajang",
+      "kode_wilayah": "62.08.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.08",
+      "kode_kecamatan": "62.08.05"
+    },
+    {
+      "nama_wilayah": "Semantun",
+      "kode_wilayah": "62.08.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.08",
+      "kode_kecamatan": "62.08.05"
+    },
+    {
+      "nama_wilayah": "Nibung Terjun",
+      "kode_wilayah": "62.08.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.08",
+      "kode_kecamatan": "62.08.05"
+    },
+    {
+      "nama_wilayah": "Natai Kondang",
+      "kode_wilayah": "62.08.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.08",
+      "kode_kecamatan": "62.08.05"
+    },
+    {
+      "nama_wilayah": "Sembikuan",
+      "kode_wilayah": "62.08.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.08",
+      "kode_kecamatan": "62.08.05"
+    }
+  ]
+}

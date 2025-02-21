@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Kuratao",
+      "kode_wilayah": "74.09.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.13"
+    },
+    {
+      "nama_wilayah": "Landiwo",
+      "kode_wilayah": "74.09.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.13"
+    },
+    {
+      "nama_wilayah": "Kolosua",
+      "kode_wilayah": "74.09.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.13"
+    },
+    {
+      "nama_wilayah": "Laumoso",
+      "kode_wilayah": "74.09.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.13"
+    },
+    {
+      "nama_wilayah": "Hialu Utama",
+      "kode_wilayah": "74.09.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.13"
+    },
+    {
+      "nama_wilayah": "Polo-polora",
+      "kode_wilayah": "74.09.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.13"
+    },
+    {
+      "nama_wilayah": "Tambakua",
+      "kode_wilayah": "74.09.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.13"
+    },
+    {
+      "nama_wilayah": "Matabaho",
+      "kode_wilayah": "74.09.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.13"
+    },
+    {
+      "nama_wilayah": "Landawe Utama",
+      "kode_wilayah": "74.09.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.13"
+    },
+    {
+      "nama_wilayah": "Mata Benua",
+      "kode_wilayah": "74.09.13.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.13"
+    },
+    {
+      "nama_wilayah": "Hialu",
+      "kode_wilayah": "74.09.13.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.13"
+    }
+  ]
+}

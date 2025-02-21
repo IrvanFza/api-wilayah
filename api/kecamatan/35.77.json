@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Kartoharjo",
+      "kode_wilayah": "35.77.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "35.77",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama_wilayah": "Manguharjo",
+      "kode_wilayah": "35.77.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "35.77",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama_wilayah": "Taman",
+      "kode_wilayah": "35.77.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "35.77",
+      "kode_provinsi": "35"
+    }
+  ]
+}

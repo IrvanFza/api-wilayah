@@ -1,0 +1,216 @@
+{
+  "status": "success",
+  "total": 30,
+  "data": [
+    {
+      "nama_wilayah": "Pulau Makian",
+      "kode_wilayah": "82.04.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Kayoa",
+      "kode_wilayah": "82.04.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Gane Timur",
+      "kode_wilayah": "82.04.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Gane Barat",
+      "kode_wilayah": "82.04.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Obi Selatan",
+      "kode_wilayah": "82.04.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Obi",
+      "kode_wilayah": "82.04.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Bacan Timur",
+      "kode_wilayah": "82.04.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Bacan",
+      "kode_wilayah": "82.04.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Bacan Barat",
+      "kode_wilayah": "82.04.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Makian Barat",
+      "kode_wilayah": "82.04.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Kayoa Barat",
+      "kode_wilayah": "82.04.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Kayoa Selatan",
+      "kode_wilayah": "82.04.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Kayoa Utara",
+      "kode_wilayah": "82.04.13",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Bacan Barat Utara",
+      "kode_wilayah": "82.04.14",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Kasiruta Barat",
+      "kode_wilayah": "82.04.15",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Kasiruta Timur",
+      "kode_wilayah": "82.04.16",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Bacan Selatan",
+      "kode_wilayah": "82.04.17",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Kepulauan Botanglomang",
+      "kode_wilayah": "82.04.18",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Mandioli Selatan",
+      "kode_wilayah": "82.04.19",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Mandioli Utara",
+      "kode_wilayah": "82.04.20",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Bacan Timur Selatan",
+      "kode_wilayah": "82.04.21",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Bacan Timur Tengah",
+      "kode_wilayah": "82.04.22",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Gane Barat Selatan",
+      "kode_wilayah": "82.04.23",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Gane Barat Utara",
+      "kode_wilayah": "82.04.24",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Kepulauan Joronga",
+      "kode_wilayah": "82.04.25",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Gane Timur Selatan",
+      "kode_wilayah": "82.04.26",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Gane Timur Tengah",
+      "kode_wilayah": "82.04.27",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Obi Barat",
+      "kode_wilayah": "82.04.28",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Obi Timur",
+      "kode_wilayah": "82.04.29",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Obi Utara",
+      "kode_wilayah": "82.04.30",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.04",
+      "kode_provinsi": "82"
+    }
+  ]
+}

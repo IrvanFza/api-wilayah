@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Tanggikiki",
+      "kode_wilayah": "75.71.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.07"
+    },
+    {
+      "nama_wilayah": "Tapa",
+      "kode_wilayah": "75.71.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.07"
+    },
+    {
+      "nama_wilayah": "Bulotadaa Barat",
+      "kode_wilayah": "75.71.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.07"
+    },
+    {
+      "nama_wilayah": "Bulotadaa Timur",
+      "kode_wilayah": "75.71.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.07"
+    },
+    {
+      "nama_wilayah": "Molosipat U",
+      "kode_wilayah": "75.71.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.07"
+    }
+  ]
+}

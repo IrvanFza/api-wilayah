@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tekarang",
+      "kode_wilayah": "61.01.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.12"
+    },
+    {
+      "nama_wilayah": "Merubung",
+      "kode_wilayah": "61.01.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.12"
+    },
+    {
+      "nama_wilayah": "Cepala",
+      "kode_wilayah": "61.01.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.12"
+    },
+    {
+      "nama_wilayah": "Sari Makmur",
+      "kode_wilayah": "61.01.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.12"
+    },
+    {
+      "nama_wilayah": "Rambayan",
+      "kode_wilayah": "61.01.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.12"
+    },
+    {
+      "nama_wilayah": "Sempadian",
+      "kode_wilayah": "61.01.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.12"
+    },
+    {
+      "nama_wilayah": "Matang Segarau",
+      "kode_wilayah": "61.01.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.12"
+    }
+  ]
+}

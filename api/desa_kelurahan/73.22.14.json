@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lara",
+      "kode_wilayah": "73.22.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.14"
+    },
+    {
+      "nama_wilayah": "Marannu",
+      "kode_wilayah": "73.22.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.14"
+    },
+    {
+      "nama_wilayah": "Beringin Jaya",
+      "kode_wilayah": "73.22.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.14"
+    },
+    {
+      "nama_wilayah": "Mukti Jaya",
+      "kode_wilayah": "73.22.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.14"
+    },
+    {
+      "nama_wilayah": "Mekarsari Jaya",
+      "kode_wilayah": "73.22.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.14"
+    },
+    {
+      "nama_wilayah": "Mukti Tama",
+      "kode_wilayah": "73.22.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.14"
+    },
+    {
+      "nama_wilayah": "Lembang-lembang",
+      "kode_wilayah": "73.22.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.14"
+    },
+    {
+      "nama_wilayah": "Lawewe",
+      "kode_wilayah": "73.22.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.14"
+    },
+    {
+      "nama_wilayah": "Polewali",
+      "kode_wilayah": "73.22.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.14"
+    },
+    {
+      "nama_wilayah": "Sumpira",
+      "kode_wilayah": "73.22.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.14"
+    }
+  ]
+}

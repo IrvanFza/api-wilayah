@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sirnajati",
+      "kode_wilayah": "32.16.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.22"
+    },
+    {
+      "nama_wilayah": "Ridogalih",
+      "kode_wilayah": "32.16.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.22"
+    },
+    {
+      "nama_wilayah": "Ridomanah",
+      "kode_wilayah": "32.16.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.22"
+    },
+    {
+      "nama_wilayah": "Wibawamulya",
+      "kode_wilayah": "32.16.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.22"
+    },
+    {
+      "nama_wilayah": "Cibarusah Kota",
+      "kode_wilayah": "32.16.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.22"
+    },
+    {
+      "nama_wilayah": "Cibarusah Jaya",
+      "kode_wilayah": "32.16.22.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.22"
+    },
+    {
+      "nama_wilayah": "Sindangmulya",
+      "kode_wilayah": "32.16.22.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.22"
+    }
+  ]
+}

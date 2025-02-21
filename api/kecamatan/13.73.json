@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Lembah Segar",
+      "kode_wilayah": "13.73.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.73",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Barangin",
+      "kode_wilayah": "13.73.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.73",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Silungkang",
+      "kode_wilayah": "13.73.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.73",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Talawi",
+      "kode_wilayah": "13.73.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.73",
+      "kode_provinsi": "13"
+    }
+  ]
+}

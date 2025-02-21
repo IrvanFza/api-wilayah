@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Kawe",
+      "kode_wilayah": "93.01.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.22"
+    },
+    {
+      "nama_wilayah": "Wetau",
+      "kode_wilayah": "93.01.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.22"
+    },
+    {
+      "nama_wilayah": "Pembri",
+      "kode_wilayah": "93.01.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.22"
+    },
+    {
+      "nama_wilayah": "Sibenda",
+      "kode_wilayah": "93.01.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.22"
+    },
+    {
+      "nama_wilayah": "Wantarma",
+      "kode_wilayah": "93.01.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.22"
+    }
+  ]
+}

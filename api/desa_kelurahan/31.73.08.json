@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kembangan Utara",
+      "kode_wilayah": "31.73.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.08"
+    },
+    {
+      "nama_wilayah": "Meruya Utara",
+      "kode_wilayah": "31.73.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.08"
+    },
+    {
+      "nama_wilayah": "Meruya Selatan",
+      "kode_wilayah": "31.73.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.08"
+    },
+    {
+      "nama_wilayah": "Srengseng",
+      "kode_wilayah": "31.73.08.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.08"
+    },
+    {
+      "nama_wilayah": "Joglo",
+      "kode_wilayah": "31.73.08.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.08"
+    },
+    {
+      "nama_wilayah": "Kembangan Selatan",
+      "kode_wilayah": "31.73.08.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.08"
+    }
+  ]
+}

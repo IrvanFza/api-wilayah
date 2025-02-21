@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Kopo",
+      "kode_wilayah": "32.73.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.04"
+    },
+    {
+      "nama_wilayah": "Babakan Tarogong",
+      "kode_wilayah": "32.73.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.04"
+    },
+    {
+      "nama_wilayah": "Jamika",
+      "kode_wilayah": "32.73.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.04"
+    },
+    {
+      "nama_wilayah": "Babakan Asih",
+      "kode_wilayah": "32.73.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.04"
+    },
+    {
+      "nama_wilayah": "Suka Asih",
+      "kode_wilayah": "32.73.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.04"
+    }
+  ]
+}

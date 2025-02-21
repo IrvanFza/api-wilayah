@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Puundoho",
+      "kode_wilayah": "74.01.12.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.12"
+    },
+    {
+      "nama_wilayah": "Longori",
+      "kode_wilayah": "74.01.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.12"
+    },
+    {
+      "nama_wilayah": "Puubunga",
+      "kode_wilayah": "74.01.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.12"
+    },
+    {
+      "nama_wilayah": "Puulemo",
+      "kode_wilayah": "74.01.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.12"
+    },
+    {
+      "nama_wilayah": "Puubenua",
+      "kode_wilayah": "74.01.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.12"
+    },
+    {
+      "nama_wilayah": "Baula",
+      "kode_wilayah": "74.01.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.12"
+    },
+    {
+      "nama_wilayah": "Pewutaa",
+      "kode_wilayah": "74.01.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.12"
+    },
+    {
+      "nama_wilayah": "Watalara",
+      "kode_wilayah": "74.01.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.12"
+    },
+    {
+      "nama_wilayah": "Puuroda",
+      "kode_wilayah": "74.01.12.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.12"
+    },
+    {
+      "nama_wilayah": "Ulu Baula",
+      "kode_wilayah": "74.01.12.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.12"
+    }
+  ]
+}

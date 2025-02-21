@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Jangkang",
+      "kode_wilayah": "62.03.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.14"
+    },
+    {
+      "nama_wilayah": "Tumbang Tukun",
+      "kode_wilayah": "62.03.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.14"
+    },
+    {
+      "nama_wilayah": "Sei Ringin",
+      "kode_wilayah": "62.03.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.14"
+    },
+    {
+      "nama_wilayah": "Kaburan",
+      "kode_wilayah": "62.03.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.14"
+    },
+    {
+      "nama_wilayah": "Balai Banjang",
+      "kode_wilayah": "62.03.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.14"
+    },
+    {
+      "nama_wilayah": "Tumbang Diring",
+      "kode_wilayah": "62.03.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.14"
+    },
+    {
+      "nama_wilayah": "Dandang",
+      "kode_wilayah": "62.03.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.14"
+    },
+    {
+      "nama_wilayah": "Hurung Kampin",
+      "kode_wilayah": "62.03.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.14"
+    },
+    {
+      "nama_wilayah": "Batu Sambung",
+      "kode_wilayah": "62.03.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.14"
+    },
+    {
+      "nama_wilayah": "Tumbang Nusa",
+      "kode_wilayah": "62.03.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.14"
+    }
+  ]
+}

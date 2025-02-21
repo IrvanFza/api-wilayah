@@ -1,0 +1,110 @@
+{
+  "status": "success",
+  "total": 13,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Bulan",
+      "kode_wilayah": "16.09.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.02"
+    },
+    {
+      "nama_wilayah": "Pulau Beringin",
+      "kode_wilayah": "16.09.02.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.02"
+    },
+    {
+      "nama_wilayah": "Aromantai",
+      "kode_wilayah": "16.09.02.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.02"
+    },
+    {
+      "nama_wilayah": "Tanjung Kari",
+      "kode_wilayah": "16.09.02.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.02"
+    },
+    {
+      "nama_wilayah": "Simpang Pancur",
+      "kode_wilayah": "16.09.02.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.02"
+    },
+    {
+      "nama_wilayah": "Pagar Agung",
+      "kode_wilayah": "16.09.02.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.02"
+    },
+    {
+      "nama_wilayah": "Gunung Batu",
+      "kode_wilayah": "16.09.02.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.02"
+    },
+    {
+      "nama_wilayah": "Kemu",
+      "kode_wilayah": "16.09.02.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.02"
+    },
+    {
+      "nama_wilayah": "Anugerah Kemu",
+      "kode_wilayah": "16.09.02.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.02"
+    },
+    {
+      "nama_wilayah": "Kemu Ulu",
+      "kode_wilayah": "16.09.02.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.02"
+    },
+    {
+      "nama_wilayah": "Pematang Obar",
+      "kode_wilayah": "16.09.02.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.02"
+    },
+    {
+      "nama_wilayah": "Tanjung Bulan Ulu",
+      "kode_wilayah": "16.09.02.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.02"
+    },
+    {
+      "nama_wilayah": "Pulau Beringin Utara",
+      "kode_wilayah": "16.09.02.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.02"
+    }
+  ]
+}

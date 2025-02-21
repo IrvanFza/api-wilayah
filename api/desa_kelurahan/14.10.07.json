@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lukun",
+      "kode_wilayah": "14.10.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.07"
+    },
+    {
+      "nama_wilayah": "Sungai Tohor",
+      "kode_wilayah": "14.10.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.07"
+    },
+    {
+      "nama_wilayah": "Nipah Sendanu",
+      "kode_wilayah": "14.10.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.07"
+    },
+    {
+      "nama_wilayah": "Tanjung Sari",
+      "kode_wilayah": "14.10.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.07"
+    },
+    {
+      "nama_wilayah": "Tanjung Gadai",
+      "kode_wilayah": "14.10.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.07"
+    },
+    {
+      "nama_wilayah": "Teluk Buntal",
+      "kode_wilayah": "14.10.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.07"
+    },
+    {
+      "nama_wilayah": "Kepau Baru",
+      "kode_wilayah": "14.10.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.07"
+    },
+    {
+      "nama_wilayah": "Sungai Tohor Barat",
+      "kode_wilayah": "14.10.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.07"
+    },
+    {
+      "nama_wilayah": "Sendanu Darul Ihsan",
+      "kode_wilayah": "14.10.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.07"
+    },
+    {
+      "nama_wilayah": "Batin Suir",
+      "kode_wilayah": "14.10.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.07"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tlogolele",
+      "kode_wilayah": "33.09.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.01"
+    },
+    {
+      "nama_wilayah": "Klakah",
+      "kode_wilayah": "33.09.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.01"
+    },
+    {
+      "nama_wilayah": "Jrakah",
+      "kode_wilayah": "33.09.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.01"
+    },
+    {
+      "nama_wilayah": "Lencoh",
+      "kode_wilayah": "33.09.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.01"
+    },
+    {
+      "nama_wilayah": "Suroteleng",
+      "kode_wilayah": "33.09.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.01"
+    },
+    {
+      "nama_wilayah": "Samiran",
+      "kode_wilayah": "33.09.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.01"
+    },
+    {
+      "nama_wilayah": "Selo",
+      "kode_wilayah": "33.09.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.01"
+    },
+    {
+      "nama_wilayah": "Tarubatang",
+      "kode_wilayah": "33.09.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.01"
+    },
+    {
+      "nama_wilayah": "Senden",
+      "kode_wilayah": "33.09.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.01"
+    },
+    {
+      "nama_wilayah": "Jeruk",
+      "kode_wilayah": "33.09.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.01"
+    }
+  ]
+}

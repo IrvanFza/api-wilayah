@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Lokan",
+      "kode_wilayah": "15.07.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.05"
+    },
+    {
+      "nama_wilayah": "Sungai Sayang",
+      "kode_wilayah": "15.07.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.05"
+    },
+    {
+      "nama_wilayah": "Air Hitam Laut",
+      "kode_wilayah": "15.07.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.05"
+    },
+    {
+      "nama_wilayah": "Sungai Jambat",
+      "kode_wilayah": "15.07.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.05"
+    },
+    {
+      "nama_wilayah": "Sungai Itik",
+      "kode_wilayah": "15.07.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.05"
+    },
+    {
+      "nama_wilayah": "Sungai Benuh",
+      "kode_wilayah": "15.07.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.05"
+    },
+    {
+      "nama_wilayah": "Sungai Cemara",
+      "kode_wilayah": "15.07.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.05"
+    },
+    {
+      "nama_wilayah": "Remau Baku Tuo",
+      "kode_wilayah": "15.07.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.05"
+    },
+    {
+      "nama_wilayah": "Labuhan Pering",
+      "kode_wilayah": "15.07.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.05"
+    }
+  ]
+}

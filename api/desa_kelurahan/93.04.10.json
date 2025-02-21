@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Amor",
+      "kode_wilayah": "93.04.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.10"
+    },
+    {
+      "nama_wilayah": "Yipawer",
+      "kode_wilayah": "93.04.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.10"
+    },
+    {
+      "nama_wilayah": "Berip",
+      "kode_wilayah": "93.04.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.10"
+    },
+    {
+      "nama_wilayah": "Ayir",
+      "kode_wilayah": "93.04.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.10"
+    },
+    {
+      "nama_wilayah": "Werer",
+      "kode_wilayah": "93.04.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.10"
+    },
+    {
+      "nama_wilayah": "Paar",
+      "kode_wilayah": "93.04.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.10"
+    }
+  ]
+}

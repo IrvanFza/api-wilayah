@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Sungaisalak",
+      "kode_wilayah": "14.04.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.05"
+    },
+    {
+      "nama_wilayah": "Tempuling",
+      "kode_wilayah": "14.04.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.05"
+    },
+    {
+      "nama_wilayah": "Tanjungpidada",
+      "kode_wilayah": "14.04.05.1016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.05"
+    },
+    {
+      "nama_wilayah": "Pangkalan Tujuh",
+      "kode_wilayah": "14.04.05.1017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.05"
+    },
+    {
+      "nama_wilayah": "Telukkiambang",
+      "kode_wilayah": "14.04.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.05"
+    },
+    {
+      "nama_wilayah": "Mumpa",
+      "kode_wilayah": "14.04.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.05"
+    },
+    {
+      "nama_wilayah": "Telukjira",
+      "kode_wilayah": "14.04.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.05"
+    },
+    {
+      "nama_wilayah": "Karya Tunas Jaya",
+      "kode_wilayah": "14.04.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.05"
+    },
+    {
+      "nama_wilayah": "Harapan Jaya",
+      "kode_wilayah": "14.04.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.05"
+    }
+  ]
+}

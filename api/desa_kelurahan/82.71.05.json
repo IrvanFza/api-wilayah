@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Mayau",
+      "kode_wilayah": "82.71.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.05"
+    },
+    {
+      "nama_wilayah": "Tifure",
+      "kode_wilayah": "82.71.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.05"
+    },
+    {
+      "nama_wilayah": "Lelewi",
+      "kode_wilayah": "82.71.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.05"
+    },
+    {
+      "nama_wilayah": "Bido",
+      "kode_wilayah": "82.71.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.05"
+    },
+    {
+      "nama_wilayah": "Pantai Sagu",
+      "kode_wilayah": "82.71.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.05"
+    },
+    {
+      "nama_wilayah": "Perum Bersatu",
+      "kode_wilayah": "82.71.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.05"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Pemangkat Kota",
+      "kode_wilayah": "61.01.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.05"
+    },
+    {
+      "nama_wilayah": "Harapan",
+      "kode_wilayah": "61.01.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.05"
+    },
+    {
+      "nama_wilayah": "Penjajap",
+      "kode_wilayah": "61.01.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.05"
+    },
+    {
+      "nama_wilayah": "Jelutung",
+      "kode_wilayah": "61.01.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.05"
+    },
+    {
+      "nama_wilayah": "Perapakan",
+      "kode_wilayah": "61.01.05.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.05"
+    },
+    {
+      "nama_wilayah": "Sebatuan",
+      "kode_wilayah": "61.01.05.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.05"
+    },
+    {
+      "nama_wilayah": "Gugah Sejahtera",
+      "kode_wilayah": "61.01.05.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.05"
+    },
+    {
+      "nama_wilayah": "Lonam",
+      "kode_wilayah": "61.01.05.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.05"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Rupit",
+      "kode_wilayah": "16.13.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.13",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Rawas Ulu",
+      "kode_wilayah": "16.13.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.13",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Nibung",
+      "kode_wilayah": "16.13.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.13",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Rawas Ilir",
+      "kode_wilayah": "16.13.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.13",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Karang Dapo",
+      "kode_wilayah": "16.13.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.13",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Karang Jaya",
+      "kode_wilayah": "16.13.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.13",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Ulu Rawas",
+      "kode_wilayah": "16.13.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.13",
+      "kode_provinsi": "16"
+    }
+  ]
+}

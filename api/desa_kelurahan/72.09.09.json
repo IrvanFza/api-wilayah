@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Biga",
+      "kode_wilayah": "72.09.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.09"
+    },
+    {
+      "nama_wilayah": "Salinggoha",
+      "kode_wilayah": "72.09.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.09"
+    },
+    {
+      "nama_wilayah": "Tingki",
+      "kode_wilayah": "72.09.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.09"
+    },
+    {
+      "nama_wilayah": "Malapo",
+      "kode_wilayah": "72.09.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.09"
+    },
+    {
+      "nama_wilayah": "Pasokan",
+      "kode_wilayah": "72.09.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.09"
+    },
+    {
+      "nama_wilayah": "Kondongan",
+      "kode_wilayah": "72.09.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.09"
+    },
+    {
+      "nama_wilayah": "Katogop",
+      "kode_wilayah": "72.09.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.09"
+    },
+    {
+      "nama_wilayah": "Tongidon",
+      "kode_wilayah": "72.09.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.09"
+    }
+  ]
+}

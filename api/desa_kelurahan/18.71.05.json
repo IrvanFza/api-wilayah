@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Kota Baru",
+      "kode_wilayah": "18.71.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.05"
+    },
+    {
+      "nama_wilayah": "Tanjung Agung",
+      "kode_wilayah": "18.71.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.05"
+    },
+    {
+      "nama_wilayah": "Kebon Jeruk",
+      "kode_wilayah": "18.71.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.05"
+    },
+    {
+      "nama_wilayah": "Sawah Lama",
+      "kode_wilayah": "18.71.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.05"
+    },
+    {
+      "nama_wilayah": "Sawah Brebes",
+      "kode_wilayah": "18.71.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.05"
+    }
+  ]
+}

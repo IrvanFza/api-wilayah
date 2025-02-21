@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bonder",
+      "kode_wilayah": "52.02.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.05"
+    },
+    {
+      "nama_wilayah": "Banyu Urip",
+      "kode_wilayah": "52.02.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.05"
+    },
+    {
+      "nama_wilayah": "Mangkung",
+      "kode_wilayah": "52.02.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.05"
+    },
+    {
+      "nama_wilayah": "Kateng",
+      "kode_wilayah": "52.02.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.05"
+    },
+    {
+      "nama_wilayah": "Setanggor",
+      "kode_wilayah": "52.02.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.05"
+    },
+    {
+      "nama_wilayah": "Penujak",
+      "kode_wilayah": "52.02.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.05"
+    },
+    {
+      "nama_wilayah": "Selong Belanak",
+      "kode_wilayah": "52.02.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.05"
+    },
+    {
+      "nama_wilayah": "Mekar Sari",
+      "kode_wilayah": "52.02.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.05"
+    },
+    {
+      "nama_wilayah": "Batujai",
+      "kode_wilayah": "52.02.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.05"
+    },
+    {
+      "nama_wilayah": "Tanak Rarang",
+      "kode_wilayah": "52.02.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.05"
+    }
+  ]
+}

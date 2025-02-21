@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sukmajaya",
+      "kode_wilayah": "36.72.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.05"
+    },
+    {
+      "nama_wilayah": "Jombang Wetan",
+      "kode_wilayah": "36.72.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.05"
+    },
+    {
+      "nama_wilayah": "Masigit",
+      "kode_wilayah": "36.72.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.05"
+    },
+    {
+      "nama_wilayah": "Panggung Rawi",
+      "kode_wilayah": "36.72.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.05"
+    },
+    {
+      "nama_wilayah": "Gedong Dalem",
+      "kode_wilayah": "36.72.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.05"
+    }
+  ]
+}

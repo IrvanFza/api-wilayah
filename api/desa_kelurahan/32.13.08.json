@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Cicadas",
+      "kode_wilayah": "32.13.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.08"
+    },
+    {
+      "nama_wilayah": "Kihiyang",
+      "kode_wilayah": "32.13.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.08"
+    },
+    {
+      "nama_wilayah": "Binong",
+      "kode_wilayah": "32.13.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.08"
+    },
+    {
+      "nama_wilayah": "Kediri",
+      "kode_wilayah": "32.13.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.08"
+    },
+    {
+      "nama_wilayah": "Citrajaya",
+      "kode_wilayah": "32.13.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.08"
+    },
+    {
+      "nama_wilayah": "Mulyasari",
+      "kode_wilayah": "32.13.08.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.08"
+    },
+    {
+      "nama_wilayah": "Karangsari",
+      "kode_wilayah": "32.13.08.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.08"
+    },
+    {
+      "nama_wilayah": "Karangwangi",
+      "kode_wilayah": "32.13.08.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.08"
+    },
+    {
+      "nama_wilayah": "Nanggerang",
+      "kode_wilayah": "32.13.08.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.08"
+    }
+  ]
+}

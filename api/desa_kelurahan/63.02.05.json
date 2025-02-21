@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sekapung",
+      "kode_wilayah": "63.02.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.05"
+    },
+    {
+      "nama_wilayah": "Kanibungan",
+      "kode_wilayah": "63.02.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.05"
+    },
+    {
+      "nama_wilayah": "Mandin",
+      "kode_wilayah": "63.02.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.05"
+    },
+    {
+      "nama_wilayah": "Serakaman",
+      "kode_wilayah": "63.02.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.05"
+    },
+    {
+      "nama_wilayah": "Sungai Bali",
+      "kode_wilayah": "63.02.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.05"
+    },
+    {
+      "nama_wilayah": "Balambus",
+      "kode_wilayah": "63.02.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.05"
+    },
+    {
+      "nama_wilayah": "Rampa",
+      "kode_wilayah": "63.02.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.05"
+    },
+    {
+      "nama_wilayah": "Ujung",
+      "kode_wilayah": "63.02.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.05"
+    }
+  ]
+}

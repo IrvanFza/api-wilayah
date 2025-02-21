@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Petisah Hulu",
+      "kode_wilayah": "12.71.17.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.17"
+    },
+    {
+      "nama_wilayah": "Babura",
+      "kode_wilayah": "12.71.17.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.17"
+    },
+    {
+      "nama_wilayah": "Merdeka",
+      "kode_wilayah": "12.71.17.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.17"
+    },
+    {
+      "nama_wilayah": "Darat",
+      "kode_wilayah": "12.71.17.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.17"
+    },
+    {
+      "nama_wilayah": "Padang Bulan",
+      "kode_wilayah": "12.71.17.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.17"
+    },
+    {
+      "nama_wilayah": "Titi Rante",
+      "kode_wilayah": "12.71.17.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.17"
+    }
+  ]
+}

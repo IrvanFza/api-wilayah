@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Dauh Puri",
+      "kode_wilayah": "51.71.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.03"
+    },
+    {
+      "nama_wilayah": "Pemecutan",
+      "kode_wilayah": "51.71.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.03"
+    },
+    {
+      "nama_wilayah": "Padangsambian",
+      "kode_wilayah": "51.71.03.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.03"
+    },
+    {
+      "nama_wilayah": "Padangsambian Kelod",
+      "kode_wilayah": "51.71.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.03"
+    },
+    {
+      "nama_wilayah": "Pemecutan Kelod",
+      "kode_wilayah": "51.71.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.03"
+    },
+    {
+      "nama_wilayah": "Dauh Puri Kauh",
+      "kode_wilayah": "51.71.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.03"
+    },
+    {
+      "nama_wilayah": "Dauh Puri Kelod",
+      "kode_wilayah": "51.71.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.03"
+    },
+    {
+      "nama_wilayah": "Dauh Puri Kangin",
+      "kode_wilayah": "51.71.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.03"
+    },
+    {
+      "nama_wilayah": "Tegal Harum",
+      "kode_wilayah": "51.71.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.03"
+    },
+    {
+      "nama_wilayah": "Tegal Kertha",
+      "kode_wilayah": "51.71.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.03"
+    },
+    {
+      "nama_wilayah": "Padang Sambian Kaja",
+      "kode_wilayah": "51.71.03.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.03"
+    }
+  ]
+}

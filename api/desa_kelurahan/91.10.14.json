@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Arare",
+      "kode_wilayah": "91.10.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.14"
+    },
+    {
+      "nama_wilayah": "Wakde",
+      "kode_wilayah": "91.10.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.14"
+    },
+    {
+      "nama_wilayah": "Timron/Keder",
+      "kode_wilayah": "91.10.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.14"
+    },
+    {
+      "nama_wilayah": "Dabe",
+      "kode_wilayah": "91.10.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.14"
+    },
+    {
+      "nama_wilayah": "Nengke",
+      "kode_wilayah": "91.10.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.14"
+    },
+    {
+      "nama_wilayah": "Finyabor",
+      "kode_wilayah": "91.10.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.14"
+    },
+    {
+      "nama_wilayah": "Tambrawar",
+      "kode_wilayah": "91.10.14.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.14"
+    },
+    {
+      "nama_wilayah": "Keder Lama",
+      "kode_wilayah": "91.10.14.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.14"
+    },
+    {
+      "nama_wilayah": "Finyabor Dua",
+      "kode_wilayah": "91.10.14.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.14"
+    },
+    {
+      "nama_wilayah": "Dabe Dua",
+      "kode_wilayah": "91.10.14.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.14"
+    },
+    {
+      "nama_wilayah": "Nengke Dua",
+      "kode_wilayah": "91.10.14.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.14"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Borong",
+      "kode_wilayah": "73.09.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.07"
+    },
+    {
+      "nama_wilayah": "Allaere",
+      "kode_wilayah": "73.09.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.07"
+    },
+    {
+      "nama_wilayah": "Toddopulia",
+      "kode_wilayah": "73.09.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.07"
+    },
+    {
+      "nama_wilayah": "Kurusumange",
+      "kode_wilayah": "73.09.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.07"
+    },
+    {
+      "nama_wilayah": "Lekopancing",
+      "kode_wilayah": "73.09.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.07"
+    },
+    {
+      "nama_wilayah": "Damai",
+      "kode_wilayah": "73.09.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.07"
+    },
+    {
+      "nama_wilayah": "Sudirman",
+      "kode_wilayah": "73.09.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.07"
+    },
+    {
+      "nama_wilayah": "Purnakarya",
+      "kode_wilayah": "73.09.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.07"
+    }
+  ]
+}

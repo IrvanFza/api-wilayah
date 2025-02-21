@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Muncangela",
+      "kode_wilayah": "32.08.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.21"
+    },
+    {
+      "nama_wilayah": "Karoya",
+      "kode_wilayah": "32.08.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.21"
+    },
+    {
+      "nama_wilayah": "Susukan",
+      "kode_wilayah": "32.08.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.21"
+    },
+    {
+      "nama_wilayah": "Cimaranten",
+      "kode_wilayah": "32.08.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.21"
+    },
+    {
+      "nama_wilayah": "Cipicung",
+      "kode_wilayah": "32.08.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.21"
+    },
+    {
+      "nama_wilayah": "Pamulihan",
+      "kode_wilayah": "32.08.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.21"
+    },
+    {
+      "nama_wilayah": "Salareuma",
+      "kode_wilayah": "32.08.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.21"
+    },
+    {
+      "nama_wilayah": "Suganangan",
+      "kode_wilayah": "32.08.21.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.21"
+    },
+    {
+      "nama_wilayah": "Sukamukti",
+      "kode_wilayah": "32.08.21.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.21"
+    },
+    {
+      "nama_wilayah": "Mekarsari",
+      "kode_wilayah": "32.08.21.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.21"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Srimulyo",
+      "kode_wilayah": "33.14.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.06"
+    },
+    {
+      "nama_wilayah": "Tegalrejo",
+      "kode_wilayah": "33.14.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.06"
+    },
+    {
+      "nama_wilayah": "Tunggul",
+      "kode_wilayah": "33.14.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.06"
+    },
+    {
+      "nama_wilayah": "Glonggong",
+      "kode_wilayah": "33.14.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.06"
+    },
+    {
+      "nama_wilayah": "Kaliwedi",
+      "kode_wilayah": "33.14.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.06"
+    },
+    {
+      "nama_wilayah": "Wonotolo",
+      "kode_wilayah": "33.14.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.06"
+    },
+    {
+      "nama_wilayah": "Plosorejo",
+      "kode_wilayah": "33.14.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.06"
+    },
+    {
+      "nama_wilayah": "Gondang",
+      "kode_wilayah": "33.14.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.06"
+    },
+    {
+      "nama_wilayah": "Bumiaji",
+      "kode_wilayah": "33.14.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.06"
+    }
+  ]
+}

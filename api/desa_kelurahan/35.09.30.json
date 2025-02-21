@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Sempolan",
+      "kode_wilayah": "35.09.30.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.30"
+    },
+    {
+      "nama_wilayah": "Harjomulyo",
+      "kode_wilayah": "35.09.30.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.30"
+    },
+    {
+      "nama_wilayah": "Karangharjo",
+      "kode_wilayah": "35.09.30.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.30"
+    },
+    {
+      "nama_wilayah": "Silo",
+      "kode_wilayah": "35.09.30.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.30"
+    },
+    {
+      "nama_wilayah": "Pace",
+      "kode_wilayah": "35.09.30.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.30"
+    },
+    {
+      "nama_wilayah": "Mulyorejo",
+      "kode_wilayah": "35.09.30.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.30"
+    },
+    {
+      "nama_wilayah": "Sumberjati",
+      "kode_wilayah": "35.09.30.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.30"
+    },
+    {
+      "nama_wilayah": "Garahan",
+      "kode_wilayah": "35.09.30.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.30"
+    },
+    {
+      "nama_wilayah": "Sidomulyo",
+      "kode_wilayah": "35.09.30.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.30"
+    }
+  ]
+}

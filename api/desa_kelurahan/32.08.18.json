@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Cigugur",
+      "kode_wilayah": "32.08.18.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.18"
+    },
+    {
+      "nama_wilayah": "Cigadung",
+      "kode_wilayah": "32.08.18.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.18"
+    },
+    {
+      "nama_wilayah": "Winduherang",
+      "kode_wilayah": "32.08.18.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.18"
+    },
+    {
+      "nama_wilayah": "Sukamulya",
+      "kode_wilayah": "32.08.18.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.18"
+    },
+    {
+      "nama_wilayah": "Cipari",
+      "kode_wilayah": "32.08.18.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.18"
+    },
+    {
+      "nama_wilayah": "Cileuleuy",
+      "kode_wilayah": "32.08.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.18"
+    },
+    {
+      "nama_wilayah": "Puncak",
+      "kode_wilayah": "32.08.18.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.18"
+    },
+    {
+      "nama_wilayah": "Gunungkeling",
+      "kode_wilayah": "32.08.18.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.18"
+    },
+    {
+      "nama_wilayah": "Cisantana",
+      "kode_wilayah": "32.08.18.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.18"
+    },
+    {
+      "nama_wilayah": "Babakanmulya",
+      "kode_wilayah": "32.08.18.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.18"
+    }
+  ]
+}

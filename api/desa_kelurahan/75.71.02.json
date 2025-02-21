@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Biawao",
+      "kode_wilayah": "75.71.02.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.02"
+    },
+    {
+      "nama_wilayah": "Biawu",
+      "kode_wilayah": "75.71.02.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.02"
+    },
+    {
+      "nama_wilayah": "Limba B",
+      "kode_wilayah": "75.71.02.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.02"
+    },
+    {
+      "nama_wilayah": "Limba U I",
+      "kode_wilayah": "75.71.02.1019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.02"
+    },
+    {
+      "nama_wilayah": "Limba U II",
+      "kode_wilayah": "75.71.02.1020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.02"
+    }
+  ]
+}

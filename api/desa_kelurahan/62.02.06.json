@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Mentawa Baru Hulu",
+      "kode_wilayah": "62.02.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.06"
+    },
+    {
+      "nama_wilayah": "Mentawa Baru Hilir",
+      "kode_wilayah": "62.02.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.06"
+    },
+    {
+      "nama_wilayah": "Ketapang",
+      "kode_wilayah": "62.02.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.06"
+    },
+    {
+      "nama_wilayah": "Sawahan",
+      "kode_wilayah": "62.02.06.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.06"
+    },
+    {
+      "nama_wilayah": "Pasir Putih",
+      "kode_wilayah": "62.02.06.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.06"
+    },
+    {
+      "nama_wilayah": "Pelangsian",
+      "kode_wilayah": "62.02.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.06"
+    },
+    {
+      "nama_wilayah": "Bapeang",
+      "kode_wilayah": "62.02.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.06"
+    },
+    {
+      "nama_wilayah": "Eka Bahurui",
+      "kode_wilayah": "62.02.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.06"
+    },
+    {
+      "nama_wilayah": "Telaga baru",
+      "kode_wilayah": "62.02.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.06"
+    },
+    {
+      "nama_wilayah": "Bangkuang Makmur",
+      "kode_wilayah": "62.02.06.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.06"
+    },
+    {
+      "nama_wilayah": "Bapanggang Raya",
+      "kode_wilayah": "62.02.06.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.06"
+    }
+  ]
+}

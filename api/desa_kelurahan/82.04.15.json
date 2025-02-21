@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sidanga",
+      "kode_wilayah": "82.04.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.15"
+    },
+    {
+      "nama_wilayah": "Lata Lata",
+      "kode_wilayah": "82.04.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.15"
+    },
+    {
+      "nama_wilayah": "Sengga Baru",
+      "kode_wilayah": "82.04.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.15"
+    },
+    {
+      "nama_wilayah": "Arumamang",
+      "kode_wilayah": "82.04.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.15"
+    },
+    {
+      "nama_wilayah": "Palamea",
+      "kode_wilayah": "82.04.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.15"
+    },
+    {
+      "nama_wilayah": "Doko",
+      "kode_wilayah": "82.04.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.15"
+    },
+    {
+      "nama_wilayah": "Bisori",
+      "kode_wilayah": "82.04.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.15"
+    },
+    {
+      "nama_wilayah": "Marikapal",
+      "kode_wilayah": "82.04.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.15"
+    },
+    {
+      "nama_wilayah": "Kukupang",
+      "kode_wilayah": "82.04.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.15"
+    },
+    {
+      "nama_wilayah": "Imbu Imbu",
+      "kode_wilayah": "82.04.15.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.15"
+    }
+  ]
+}

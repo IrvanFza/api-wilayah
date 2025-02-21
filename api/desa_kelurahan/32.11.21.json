@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Cikaramas",
+      "kode_wilayah": "32.11.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.21"
+    },
+    {
+      "nama_wilayah": "Wargaluyu",
+      "kode_wilayah": "32.11.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.21"
+    },
+    {
+      "nama_wilayah": "Jingkang",
+      "kode_wilayah": "32.11.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.21"
+    },
+    {
+      "nama_wilayah": "Kamal",
+      "kode_wilayah": "32.11.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.21"
+    },
+    {
+      "nama_wilayah": "Kertamukti",
+      "kode_wilayah": "32.11.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.21"
+    },
+    {
+      "nama_wilayah": "Tanjungwangi",
+      "kode_wilayah": "32.11.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.21"
+    },
+    {
+      "nama_wilayah": "Sukamukti",
+      "kode_wilayah": "32.11.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.21"
+    },
+    {
+      "nama_wilayah": "Sukatani",
+      "kode_wilayah": "32.11.21.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.21"
+    },
+    {
+      "nama_wilayah": "Tanjungmedar",
+      "kode_wilayah": "32.11.21.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.21"
+    }
+  ]
+}

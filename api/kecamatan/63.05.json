@@ -1,0 +1,90 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Binuang",
+      "kode_wilayah": "63.05.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.05",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Tapin Selatan",
+      "kode_wilayah": "63.05.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.05",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Tapin Tengah",
+      "kode_wilayah": "63.05.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.05",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Tapin Utara",
+      "kode_wilayah": "63.05.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.05",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Candi Laras Selatan",
+      "kode_wilayah": "63.05.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.05",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Candi Laras Utara",
+      "kode_wilayah": "63.05.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.05",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Bakarangan",
+      "kode_wilayah": "63.05.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.05",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Piani",
+      "kode_wilayah": "63.05.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.05",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Bungur",
+      "kode_wilayah": "63.05.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.05",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Lokpaikat",
+      "kode_wilayah": "63.05.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.05",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Salam Babaris",
+      "kode_wilayah": "63.05.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.05",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Hatungun",
+      "kode_wilayah": "63.05.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.05",
+      "kode_provinsi": "63"
+    }
+  ]
+}

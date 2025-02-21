@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Banggai",
+      "kode_wilayah": "72.11.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.11",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Banggai Utara",
+      "kode_wilayah": "72.11.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.11",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Bokan Kepulauan",
+      "kode_wilayah": "72.11.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.11",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Bangkurung",
+      "kode_wilayah": "72.11.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.11",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Labobo",
+      "kode_wilayah": "72.11.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.11",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Banggai Selatan",
+      "kode_wilayah": "72.11.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.11",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Banggai Tengah",
+      "kode_wilayah": "72.11.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.11",
+      "kode_provinsi": "72"
+    }
+  ]
+}

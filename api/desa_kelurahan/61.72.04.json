@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Garam Hilir",
+      "kode_wilayah": "61.72.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.04"
+    },
+    {
+      "nama_wilayah": "Naram",
+      "kode_wilayah": "61.72.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.04"
+    },
+    {
+      "nama_wilayah": "Sungai Bulan",
+      "kode_wilayah": "61.72.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.04"
+    },
+    {
+      "nama_wilayah": "Sungai Rasau",
+      "kode_wilayah": "61.72.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.04"
+    },
+    {
+      "nama_wilayah": "Setapuk Kecil",
+      "kode_wilayah": "61.72.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.04"
+    },
+    {
+      "nama_wilayah": "Setapuk Besar",
+      "kode_wilayah": "61.72.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.04"
+    },
+    {
+      "nama_wilayah": "Semelagi Kecil",
+      "kode_wilayah": "61.72.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.04"
+    }
+  ]
+}

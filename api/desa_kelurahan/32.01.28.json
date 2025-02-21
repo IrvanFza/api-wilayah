@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Cijeruk",
+      "kode_wilayah": "32.01.28.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.28"
+    },
+    {
+      "nama_wilayah": "Cipelang",
+      "kode_wilayah": "32.01.28.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.28"
+    },
+    {
+      "nama_wilayah": "Warung Menteng",
+      "kode_wilayah": "32.01.28.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.28"
+    },
+    {
+      "nama_wilayah": "Tajur Halang",
+      "kode_wilayah": "32.01.28.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.28"
+    },
+    {
+      "nama_wilayah": "Cipicung",
+      "kode_wilayah": "32.01.28.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.28"
+    },
+    {
+      "nama_wilayah": "Cibalung",
+      "kode_wilayah": "32.01.28.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.28"
+    },
+    {
+      "nama_wilayah": "Sukaharja",
+      "kode_wilayah": "32.01.28.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.28"
+    },
+    {
+      "nama_wilayah": "Palasari",
+      "kode_wilayah": "32.01.28.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.28"
+    },
+    {
+      "nama_wilayah": "Tanjungsari",
+      "kode_wilayah": "32.01.28.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.28"
+    }
+  ]
+}

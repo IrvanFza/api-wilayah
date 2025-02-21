@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Teluk Pandan",
+      "kode_wilayah": "64.08.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.13"
+    },
+    {
+      "nama_wilayah": "Suka Rahmat",
+      "kode_wilayah": "64.08.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.13"
+    },
+    {
+      "nama_wilayah": "Suka Damai",
+      "kode_wilayah": "64.08.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.13"
+    },
+    {
+      "nama_wilayah": "Kandolo",
+      "kode_wilayah": "64.08.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.13"
+    },
+    {
+      "nama_wilayah": "Danau Redan",
+      "kode_wilayah": "64.08.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.13"
+    },
+    {
+      "nama_wilayah": "Martadinata",
+      "kode_wilayah": "64.08.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.13"
+    }
+  ]
+}

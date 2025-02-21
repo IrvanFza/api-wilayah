@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Telukmerbau",
+      "kode_wilayah": "14.07.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.01"
+    },
+    {
+      "nama_wilayah": "Tanjungleban",
+      "kode_wilayah": "14.07.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.01"
+    },
+    {
+      "nama_wilayah": "Sungaikubu",
+      "kode_wilayah": "14.07.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.01"
+    },
+    {
+      "nama_wilayah": "Rantau Panjang Kanan",
+      "kode_wilayah": "14.07.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.01"
+    },
+    {
+      "nama_wilayah": "Telukpiyai",
+      "kode_wilayah": "14.07.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.01"
+    },
+    {
+      "nama_wilayah": "Sungaisegajah",
+      "kode_wilayah": "14.07.01.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.01"
+    },
+    {
+      "nama_wilayah": "Sei Segajah Makmur",
+      "kode_wilayah": "14.07.01.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.01"
+    },
+    {
+      "nama_wilayah": "Telukpiyai Pesisir",
+      "kode_wilayah": "14.07.01.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.01"
+    },
+    {
+      "nama_wilayah": "Sungaikubu Hulu",
+      "kode_wilayah": "14.07.01.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.01"
+    },
+    {
+      "nama_wilayah": "Sungai Segajah Jaya",
+      "kode_wilayah": "14.07.01.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.01"
+    }
+  ]
+}

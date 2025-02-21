@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Teraju",
+      "kode_wilayah": "61.03.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.13"
+    },
+    {
+      "nama_wilayah": "Belungai Dalam",
+      "kode_wilayah": "61.03.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.13"
+    },
+    {
+      "nama_wilayah": "Sansat",
+      "kode_wilayah": "61.03.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.13"
+    },
+    {
+      "nama_wilayah": "Kampung Baru",
+      "kode_wilayah": "61.03.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.13"
+    },
+    {
+      "nama_wilayah": "Bagan Asam",
+      "kode_wilayah": "61.03.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.13"
+    },
+    {
+      "nama_wilayah": "Lumut",
+      "kode_wilayah": "61.03.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.13"
+    },
+    {
+      "nama_wilayah": "Balai Belungai",
+      "kode_wilayah": "61.03.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.13"
+    }
+  ]
+}

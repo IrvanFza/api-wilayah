@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sukamaju",
+      "kode_wilayah": "32.76.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.08"
+    },
+    {
+      "nama_wilayah": "Cilodong",
+      "kode_wilayah": "32.76.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.08"
+    },
+    {
+      "nama_wilayah": "Kalibaru",
+      "kode_wilayah": "32.76.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.08"
+    },
+    {
+      "nama_wilayah": "Kalimulya",
+      "kode_wilayah": "32.76.08.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.08"
+    },
+    {
+      "nama_wilayah": "Jatimulya",
+      "kode_wilayah": "32.76.08.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.08"
+    }
+  ]
+}

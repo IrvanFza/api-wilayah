@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Bungus Timur",
+      "kode_wilayah": "13.71.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.71",
+      "kode_kecamatan": "13.71.05"
+    },
+    {
+      "nama_wilayah": "Bungus Barat",
+      "kode_wilayah": "13.71.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.71",
+      "kode_kecamatan": "13.71.05"
+    },
+    {
+      "nama_wilayah": "Bungus Selatan",
+      "kode_wilayah": "13.71.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.71",
+      "kode_kecamatan": "13.71.05"
+    },
+    {
+      "nama_wilayah": "Teluk Kabung Utara",
+      "kode_wilayah": "13.71.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.71",
+      "kode_kecamatan": "13.71.05"
+    },
+    {
+      "nama_wilayah": "Teluk Kabung Tengah",
+      "kode_wilayah": "13.71.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.71",
+      "kode_kecamatan": "13.71.05"
+    },
+    {
+      "nama_wilayah": "Teluk Kabung Selatan",
+      "kode_wilayah": "13.71.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.71",
+      "kode_kecamatan": "13.71.05"
+    }
+  ]
+}

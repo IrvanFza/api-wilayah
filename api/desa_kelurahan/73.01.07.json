@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Bonerate",
+      "kode_wilayah": "73.01.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.07"
+    },
+    {
+      "nama_wilayah": "Majapahit",
+      "kode_wilayah": "73.01.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.07"
+    },
+    {
+      "nama_wilayah": "Batu Bingkung",
+      "kode_wilayah": "73.01.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.07"
+    },
+    {
+      "nama_wilayah": "Bonea",
+      "kode_wilayah": "73.01.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.07"
+    },
+    {
+      "nama_wilayah": "Lambego",
+      "kode_wilayah": "73.01.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.07"
+    },
+    {
+      "nama_wilayah": "Komba-Komba",
+      "kode_wilayah": "73.01.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.07"
+    },
+    {
+      "nama_wilayah": "Sambali",
+      "kode_wilayah": "73.01.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.07"
+    },
+    {
+      "nama_wilayah": "Lamantu",
+      "kode_wilayah": "73.01.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.07"
+    }
+  ]
+}

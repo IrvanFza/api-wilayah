@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Weduar",
+      "kode_wilayah": "81.02.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.02",
+      "kode_kecamatan": "81.02.04"
+    },
+    {
+      "nama_wilayah": "Nerong",
+      "kode_wilayah": "81.02.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.02",
+      "kode_kecamatan": "81.02.04"
+    },
+    {
+      "nama_wilayah": "Larat",
+      "kode_wilayah": "81.02.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.02",
+      "kode_kecamatan": "81.02.04"
+    },
+    {
+      "nama_wilayah": "Tamangil Nuhuten",
+      "kode_wilayah": "81.02.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.02",
+      "kode_kecamatan": "81.02.04"
+    },
+    {
+      "nama_wilayah": "Tamangil Nuhuyanat",
+      "kode_wilayah": "81.02.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.02",
+      "kode_kecamatan": "81.02.04"
+    },
+    {
+      "nama_wilayah": "Kilwat",
+      "kode_wilayah": "81.02.04.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.02",
+      "kode_kecamatan": "81.02.04"
+    },
+    {
+      "nama_wilayah": "Sather",
+      "kode_wilayah": "81.02.04.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.02",
+      "kode_kecamatan": "81.02.04"
+    },
+    {
+      "nama_wilayah": "Tutrean",
+      "kode_wilayah": "81.02.04.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.02",
+      "kode_kecamatan": "81.02.04"
+    },
+    {
+      "nama_wilayah": "Ohoirenan",
+      "kode_wilayah": "81.02.04.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.02",
+      "kode_kecamatan": "81.02.04"
+    },
+    {
+      "nama_wilayah": "Soindat",
+      "kode_wilayah": "81.02.04.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.02",
+      "kode_kecamatan": "81.02.04"
+    }
+  ]
+}

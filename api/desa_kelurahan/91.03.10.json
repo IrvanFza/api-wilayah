@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Demta",
+      "kode_wilayah": "91.03.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.10"
+    },
+    {
+      "nama_wilayah": "Ambora",
+      "kode_wilayah": "91.03.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.10"
+    },
+    {
+      "nama_wilayah": "Yougapsa",
+      "kode_wilayah": "91.03.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.10"
+    },
+    {
+      "nama_wilayah": "Muris Kecil",
+      "kode_wilayah": "91.03.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.10"
+    },
+    {
+      "nama_wilayah": "Yakore",
+      "kode_wilayah": "91.03.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.10"
+    },
+    {
+      "nama_wilayah": "Kamdera",
+      "kode_wilayah": "91.03.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.10"
+    },
+    {
+      "nama_wilayah": "Muaif",
+      "kode_wilayah": "91.03.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.10"
+    }
+  ]
+}

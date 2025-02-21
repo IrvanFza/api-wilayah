@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sinaboi Kota",
+      "kode_wilayah": "14.07.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.07"
+    },
+    {
+      "nama_wilayah": "Sinaboi",
+      "kode_wilayah": "14.07.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.07"
+    },
+    {
+      "nama_wilayah": "Sei Bakau",
+      "kode_wilayah": "14.07.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.07"
+    },
+    {
+      "nama_wilayah": "Raja Bejamu",
+      "kode_wilayah": "14.07.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.07"
+    },
+    {
+      "nama_wilayah": "Sungai Nyamuk",
+      "kode_wilayah": "14.07.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.07"
+    },
+    {
+      "nama_wilayah": "Darussalam",
+      "kode_wilayah": "14.07.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.07"
+    }
+  ]
+}

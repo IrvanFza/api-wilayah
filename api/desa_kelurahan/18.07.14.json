@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Donomulyo",
+      "kode_wilayah": "18.07.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.14"
+    },
+    {
+      "nama_wilayah": "Nyampir",
+      "kode_wilayah": "18.07.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.14"
+    },
+    {
+      "nama_wilayah": "Bumi Tinggi",
+      "kode_wilayah": "18.07.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.14"
+    },
+    {
+      "nama_wilayah": "Lehan",
+      "kode_wilayah": "18.07.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.14"
+    },
+    {
+      "nama_wilayah": "Marga Mulya",
+      "kode_wilayah": "18.07.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.14"
+    },
+    {
+      "nama_wilayah": "Catur Swako",
+      "kode_wilayah": "18.07.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.14"
+    },
+    {
+      "nama_wilayah": "Mulyo Asri",
+      "kode_wilayah": "18.07.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.14"
+    }
+  ]
+}

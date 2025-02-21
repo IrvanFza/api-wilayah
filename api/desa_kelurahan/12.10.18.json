@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Labuhan Bilik",
+      "kode_wilayah": "12.10.18.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.18"
+    },
+    {
+      "nama_wilayah": "Sei Pelancang",
+      "kode_wilayah": "12.10.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.18"
+    },
+    {
+      "nama_wilayah": "Sei Siarti",
+      "kode_wilayah": "12.10.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.18"
+    },
+    {
+      "nama_wilayah": "Sei Nahodaris",
+      "kode_wilayah": "12.10.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.18"
+    },
+    {
+      "nama_wilayah": "Sei Merdeka",
+      "kode_wilayah": "12.10.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.18"
+    },
+    {
+      "nama_wilayah": "Sei Rakyat",
+      "kode_wilayah": "12.10.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.18"
+    },
+    {
+      "nama_wilayah": "Selat Beting",
+      "kode_wilayah": "12.10.18.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.18"
+    },
+    {
+      "nama_wilayah": "Bagan Bilah",
+      "kode_wilayah": "12.10.18.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.18"
+    },
+    {
+      "nama_wilayah": "Telaga Suka",
+      "kode_wilayah": "12.10.18.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.18"
+    },
+    {
+      "nama_wilayah": "Pasar Tiga",
+      "kode_wilayah": "12.10.18.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.18"
+    }
+  ]
+}

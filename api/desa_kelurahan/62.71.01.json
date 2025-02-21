@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Pahandut",
+      "kode_wilayah": "62.71.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.01"
+    },
+    {
+      "nama_wilayah": "Panarung",
+      "kode_wilayah": "62.71.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.01"
+    },
+    {
+      "nama_wilayah": "Langkai",
+      "kode_wilayah": "62.71.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.01"
+    },
+    {
+      "nama_wilayah": "Tumbang Rungan",
+      "kode_wilayah": "62.71.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.01"
+    },
+    {
+      "nama_wilayah": "Pahandut Seberang",
+      "kode_wilayah": "62.71.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.01"
+    },
+    {
+      "nama_wilayah": "Tanjung Pinang",
+      "kode_wilayah": "62.71.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.01"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Selebar",
+      "kode_wilayah": "17.05.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.09"
+    },
+    {
+      "nama_wilayah": "Sembayat",
+      "kode_wilayah": "17.05.09.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.09"
+    },
+    {
+      "nama_wilayah": "Bunga Mas",
+      "kode_wilayah": "17.05.09.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.09"
+    },
+    {
+      "nama_wilayah": "Talang Sali",
+      "kode_wilayah": "17.05.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.09"
+    },
+    {
+      "nama_wilayah": "Kunduran",
+      "kode_wilayah": "17.05.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.09"
+    },
+    {
+      "nama_wilayah": "Kota Agung",
+      "kode_wilayah": "17.05.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.09"
+    },
+    {
+      "nama_wilayah": "Tenangan",
+      "kode_wilayah": "17.05.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.09"
+    },
+    {
+      "nama_wilayah": "Rawa Sari",
+      "kode_wilayah": "17.05.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.09"
+    }
+  ]
+}

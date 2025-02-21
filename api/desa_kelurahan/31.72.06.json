@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Kelapa Gading Timur",
+      "kode_wilayah": "31.72.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.06"
+    },
+    {
+      "nama_wilayah": "Pegangsaan Dua",
+      "kode_wilayah": "31.72.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.06"
+    },
+    {
+      "nama_wilayah": "Kelapa Gading Barat",
+      "kode_wilayah": "31.72.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.06"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Betumonga",
+      "kode_wilayah": "13.09.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.01"
+    },
+    {
+      "nama_wilayah": "Silabu",
+      "kode_wilayah": "13.09.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.01"
+    },
+    {
+      "nama_wilayah": "Saumanganya",
+      "kode_wilayah": "13.09.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.01"
+    }
+  ]
+}

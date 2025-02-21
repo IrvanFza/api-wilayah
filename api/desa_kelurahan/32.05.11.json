@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Leuwigoong",
+      "kode_wilayah": "32.05.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.11"
+    },
+    {
+      "nama_wilayah": "Karanganyar",
+      "kode_wilayah": "32.05.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.11"
+    },
+    {
+      "nama_wilayah": "Margacinta",
+      "kode_wilayah": "32.05.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.11"
+    },
+    {
+      "nama_wilayah": "Margahayu",
+      "kode_wilayah": "32.05.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.11"
+    },
+    {
+      "nama_wilayah": "Dungusiku",
+      "kode_wilayah": "32.05.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.11"
+    },
+    {
+      "nama_wilayah": "Tambak Sari",
+      "kode_wilayah": "32.05.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.11"
+    },
+    {
+      "nama_wilayah": "Sindangsari",
+      "kode_wilayah": "32.05.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.11"
+    },
+    {
+      "nama_wilayah": "Karangsari",
+      "kode_wilayah": "32.05.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.11"
+    }
+  ]
+}

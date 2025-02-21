@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sagrim",
+      "kode_wilayah": "96.05.15.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.15"
+    },
+    {
+      "nama_wilayah": "Hawioh",
+      "kode_wilayah": "96.05.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.15"
+    },
+    {
+      "nama_wilayah": "Saneh",
+      "kode_wilayah": "96.05.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.15"
+    },
+    {
+      "nama_wilayah": "Sauf",
+      "kode_wilayah": "96.05.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.15"
+    },
+    {
+      "nama_wilayah": "Kanisabar",
+      "kode_wilayah": "96.05.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.15"
+    },
+    {
+      "nama_wilayah": "Lemauk Klit",
+      "kode_wilayah": "96.05.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.15"
+    },
+    {
+      "nama_wilayah": "Sfarare",
+      "kode_wilayah": "96.05.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.15"
+    },
+    {
+      "nama_wilayah": "Simiyah",
+      "kode_wilayah": "96.05.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.15"
+    },
+    {
+      "nama_wilayah": "Koma Koma",
+      "kode_wilayah": "96.05.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.15"
+    },
+    {
+      "nama_wilayah": "Sembaro",
+      "kode_wilayah": "96.05.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.15"
+    }
+  ]
+}

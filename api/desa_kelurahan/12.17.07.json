@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Salaon Toba",
+      "kode_wilayah": "12.17.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.17",
+      "kode_kecamatan": "12.17.07"
+    },
+    {
+      "nama_wilayah": "Lintong Nihuta",
+      "kode_wilayah": "12.17.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.17",
+      "kode_kecamatan": "12.17.07"
+    },
+    {
+      "nama_wilayah": "Salaon Tonga Tonga",
+      "kode_wilayah": "12.17.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.17",
+      "kode_kecamatan": "12.17.07"
+    },
+    {
+      "nama_wilayah": "Salaon Dolok",
+      "kode_wilayah": "12.17.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.17",
+      "kode_kecamatan": "12.17.07"
+    },
+    {
+      "nama_wilayah": "Ronggur Nihuta",
+      "kode_wilayah": "12.17.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.17",
+      "kode_kecamatan": "12.17.07"
+    },
+    {
+      "nama_wilayah": "Sabungan Nihuta",
+      "kode_wilayah": "12.17.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.17",
+      "kode_kecamatan": "12.17.07"
+    },
+    {
+      "nama_wilayah": "Paraduan",
+      "kode_wilayah": "12.17.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.17",
+      "kode_kecamatan": "12.17.07"
+    },
+    {
+      "nama_wilayah": "Sijambur",
+      "kode_wilayah": "12.17.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.17",
+      "kode_kecamatan": "12.17.07"
+    }
+  ]
+}

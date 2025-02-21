@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Manggala",
+      "kode_wilayah": "61.10.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.10",
+      "kode_kecamatan": "61.10.09"
+    },
+    {
+      "nama_wilayah": "Senempak",
+      "kode_wilayah": "61.10.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.10",
+      "kode_kecamatan": "61.10.09"
+    },
+    {
+      "nama_wilayah": "Nanga Pintas",
+      "kode_wilayah": "61.10.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.10",
+      "kode_kecamatan": "61.10.09"
+    },
+    {
+      "nama_wilayah": "Landau Garong",
+      "kode_wilayah": "61.10.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.10",
+      "kode_kecamatan": "61.10.09"
+    },
+    {
+      "nama_wilayah": "Bina Jaya",
+      "kode_wilayah": "61.10.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.10",
+      "kode_kecamatan": "61.10.09"
+    },
+    {
+      "nama_wilayah": "Mandau Baru",
+      "kode_wilayah": "61.10.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.10",
+      "kode_kecamatan": "61.10.09"
+    },
+    {
+      "nama_wilayah": "Pelinggang",
+      "kode_wilayah": "61.10.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.10",
+      "kode_kecamatan": "61.10.09"
+    },
+    {
+      "nama_wilayah": "Nyanggai",
+      "kode_wilayah": "61.10.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.10",
+      "kode_kecamatan": "61.10.09"
+    },
+    {
+      "nama_wilayah": "Sungai Bakah",
+      "kode_wilayah": "61.10.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.10",
+      "kode_kecamatan": "61.10.09"
+    },
+    {
+      "nama_wilayah": "Bayur Raya",
+      "kode_wilayah": "61.10.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.10",
+      "kode_kecamatan": "61.10.09"
+    },
+    {
+      "nama_wilayah": "Landau Tubun",
+      "kode_wilayah": "61.10.09.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.10",
+      "kode_kecamatan": "61.10.09"
+    },
+    {
+      "nama_wilayah": "Nanga Kelawai",
+      "kode_wilayah": "61.10.09.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.10",
+      "kode_kecamatan": "61.10.09"
+    }
+  ]
+}

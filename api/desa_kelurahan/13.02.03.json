@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "total": 2,
+  "data": [
+    {
+      "nama_wilayah": "Lolo",
+      "kode_wilayah": "13.02.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.03"
+    },
+    {
+      "nama_wilayah": "Surian",
+      "kode_wilayah": "13.02.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.03"
+    }
+  ]
+}

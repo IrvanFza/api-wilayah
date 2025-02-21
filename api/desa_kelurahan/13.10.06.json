@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Timpeh",
+      "kode_wilayah": "13.10.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.06"
+    },
+    {
+      "nama_wilayah": "Taratak Tinggi",
+      "kode_wilayah": "13.10.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.06"
+    },
+    {
+      "nama_wilayah": "Tabek",
+      "kode_wilayah": "13.10.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.06"
+    },
+    {
+      "nama_wilayah": "Panyubarangan",
+      "kode_wilayah": "13.10.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.06"
+    },
+    {
+      "nama_wilayah": "Ranah Palabi",
+      "kode_wilayah": "13.10.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.06"
+    }
+  ]
+}

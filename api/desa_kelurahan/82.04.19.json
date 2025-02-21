@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Lele",
+      "kode_wilayah": "82.04.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.19"
+    },
+    {
+      "nama_wilayah": "Bahu",
+      "kode_wilayah": "82.04.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.19"
+    },
+    {
+      "nama_wilayah": "Jiko",
+      "kode_wilayah": "82.04.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.19"
+    },
+    {
+      "nama_wilayah": "Galala",
+      "kode_wilayah": "82.04.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.19"
+    },
+    {
+      "nama_wilayah": "Tabalema",
+      "kode_wilayah": "82.04.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.19"
+    },
+    {
+      "nama_wilayah": "Yoyok",
+      "kode_wilayah": "82.04.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.19"
+    }
+  ]
+}

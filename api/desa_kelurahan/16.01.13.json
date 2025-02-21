@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Tanjungagung",
+      "kode_wilayah": "16.01.13.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.13"
+    },
+    {
+      "nama_wilayah": "Saung Naga",
+      "kode_wilayah": "16.01.13.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.13"
+    },
+    {
+      "nama_wilayah": "Talang Jawa",
+      "kode_wilayah": "16.01.13.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.13"
+    },
+    {
+      "nama_wilayah": "Batu Kuning",
+      "kode_wilayah": "16.01.13.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.13"
+    },
+    {
+      "nama_wilayah": "Air Gading",
+      "kode_wilayah": "16.01.13.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.13"
+    },
+    {
+      "nama_wilayah": "Batu Putih",
+      "kode_wilayah": "16.01.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.13"
+    },
+    {
+      "nama_wilayah": "Laya",
+      "kode_wilayah": "16.01.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.13"
+    },
+    {
+      "nama_wilayah": "Pusar",
+      "kode_wilayah": "16.01.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.13"
+    },
+    {
+      "nama_wilayah": "Karang Agung",
+      "kode_wilayah": "16.01.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.13"
+    },
+    {
+      "nama_wilayah": "Karang Endah",
+      "kode_wilayah": "16.01.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.13"
+    },
+    {
+      "nama_wilayah": "Tanjung Karang",
+      "kode_wilayah": "16.01.13.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.13"
+    },
+    {
+      "nama_wilayah": "Sukamaju",
+      "kode_wilayah": "16.01.13.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.13"
+    }
+  ]
+}

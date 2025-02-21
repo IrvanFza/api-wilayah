@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Silakma",
+      "kode_wilayah": "95.03.46.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.46"
+    },
+    {
+      "nama_wilayah": "Somarin",
+      "kode_wilayah": "95.03.46.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.46"
+    },
+    {
+      "nama_wilayah": "Kenkeni",
+      "kode_wilayah": "95.03.46.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.46"
+    },
+    {
+      "nama_wilayah": "Monin",
+      "kode_wilayah": "95.03.46.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.46"
+    },
+    {
+      "nama_wilayah": "Enggelasue",
+      "kode_wilayah": "95.03.46.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.46"
+    },
+    {
+      "nama_wilayah": "Oakbisik",
+      "kode_wilayah": "95.03.46.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.46"
+    },
+    {
+      "nama_wilayah": "Momenggama",
+      "kode_wilayah": "95.03.46.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.46"
+    },
+    {
+      "nama_wilayah": "Husmo",
+      "kode_wilayah": "95.03.46.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.46"
+    },
+    {
+      "nama_wilayah": "Karelma",
+      "kode_wilayah": "95.03.46.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.46"
+    },
+    {
+      "nama_wilayah": "Usabini",
+      "kode_wilayah": "95.03.46.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.46"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Harapan",
+      "kode_wilayah": "94.04.13.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.13"
+    },
+    {
+      "nama_wilayah": "Meekurima",
+      "kode_wilayah": "94.04.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.13"
+    },
+    {
+      "nama_wilayah": "Landun Mekar",
+      "kode_wilayah": "94.04.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.13"
+    },
+    {
+      "nama_wilayah": "Olaroa",
+      "kode_wilayah": "94.04.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.13"
+    },
+    {
+      "nama_wilayah": "Bintang Lima",
+      "kode_wilayah": "94.04.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.13"
+    },
+    {
+      "nama_wilayah": "Damai",
+      "kode_wilayah": "94.04.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.13"
+    },
+    {
+      "nama_wilayah": "Walani",
+      "kode_wilayah": "94.04.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.13"
+    },
+    {
+      "nama_wilayah": "Amole",
+      "kode_wilayah": "94.04.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.13"
+    },
+    {
+      "nama_wilayah": "Lamopi",
+      "kode_wilayah": "94.04.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.13"
+    },
+    {
+      "nama_wilayah": "Tunas Matoa",
+      "kode_wilayah": "94.04.13.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.13"
+    }
+  ]
+}

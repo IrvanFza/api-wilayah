@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Balikpapan Timur",
+      "kode_wilayah": "64.71.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.71",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Balikpapan Barat",
+      "kode_wilayah": "64.71.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.71",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Balikpapan Utara",
+      "kode_wilayah": "64.71.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.71",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Balikpapan Tengah",
+      "kode_wilayah": "64.71.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.71",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Balikpapan Selatan",
+      "kode_wilayah": "64.71.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.71",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Balikpapan Kota",
+      "kode_wilayah": "64.71.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.71",
+      "kode_provinsi": "64"
+    }
+  ]
+}

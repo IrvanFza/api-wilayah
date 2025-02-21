@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Malapat",
+      "kode_wilayah": "82.04.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.10"
+    },
+    {
+      "nama_wilayah": "Bobawae",
+      "kode_wilayah": "82.04.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.10"
+    },
+    {
+      "nama_wilayah": "Ombawa",
+      "kode_wilayah": "82.04.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.10"
+    },
+    {
+      "nama_wilayah": "Tegono",
+      "kode_wilayah": "82.04.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.10"
+    },
+    {
+      "nama_wilayah": "Mateketen",
+      "kode_wilayah": "82.04.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.10"
+    },
+    {
+      "nama_wilayah": "Talapaon",
+      "kode_wilayah": "82.04.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.10"
+    },
+    {
+      "nama_wilayah": "Sebelei",
+      "kode_wilayah": "82.04.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.10"
+    }
+  ]
+}

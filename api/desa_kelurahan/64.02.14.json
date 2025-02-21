@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Muara Jawa Ilir",
+      "kode_wilayah": "64.02.14.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.14"
+    },
+    {
+      "nama_wilayah": "Muara Jawa Tengah",
+      "kode_wilayah": "64.02.14.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.14"
+    },
+    {
+      "nama_wilayah": "Muara Jawa Ulu",
+      "kode_wilayah": "64.02.14.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.14"
+    },
+    {
+      "nama_wilayah": "Teluk Dalam",
+      "kode_wilayah": "64.02.14.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.14"
+    },
+    {
+      "nama_wilayah": "Dondang",
+      "kode_wilayah": "64.02.14.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.14"
+    },
+    {
+      "nama_wilayah": "Tama Pole",
+      "kode_wilayah": "64.02.14.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.14"
+    },
+    {
+      "nama_wilayah": "Muara Kembang",
+      "kode_wilayah": "64.02.14.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.14"
+    },
+    {
+      "nama_wilayah": "Muara Jawa",
+      "kode_wilayah": "64.02.14.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.14"
+    }
+  ]
+}

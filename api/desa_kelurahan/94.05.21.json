@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tuput",
+      "kode_wilayah": "94.05.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.21"
+    },
+    {
+      "nama_wilayah": "Wenggen-ambut",
+      "kode_wilayah": "94.05.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.21"
+    },
+    {
+      "nama_wilayah": "Wamiru",
+      "kode_wilayah": "94.05.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.21"
+    },
+    {
+      "nama_wilayah": "Piluwolu",
+      "kode_wilayah": "94.05.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.21"
+    },
+    {
+      "nama_wilayah": "Tenawi",
+      "kode_wilayah": "94.05.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.21"
+    },
+    {
+      "nama_wilayah": "Wanombut",
+      "kode_wilayah": "94.05.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.21"
+    },
+    {
+      "nama_wilayah": "Pumbanak",
+      "kode_wilayah": "94.05.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.21"
+    }
+  ]
+}

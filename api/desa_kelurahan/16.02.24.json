@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pulau Geronggang",
+      "kode_wilayah": "16.02.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.02",
+      "kode_kecamatan": "16.02.24"
+    },
+    {
+      "nama_wilayah": "Sumber Hidup",
+      "kode_wilayah": "16.02.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.02",
+      "kode_kecamatan": "16.02.24"
+    },
+    {
+      "nama_wilayah": "Gading Raja",
+      "kode_wilayah": "16.02.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.02",
+      "kode_kecamatan": "16.02.24"
+    },
+    {
+      "nama_wilayah": "Maribaya",
+      "kode_wilayah": "16.02.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.02",
+      "kode_kecamatan": "16.02.24"
+    },
+    {
+      "nama_wilayah": "Pancawarna",
+      "kode_wilayah": "16.02.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.02",
+      "kode_kecamatan": "16.02.24"
+    },
+    {
+      "nama_wilayah": "Tanjung Makmur",
+      "kode_wilayah": "16.02.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.02",
+      "kode_kecamatan": "16.02.24"
+    },
+    {
+      "nama_wilayah": "Kayu Labu",
+      "kode_wilayah": "16.02.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.02",
+      "kode_kecamatan": "16.02.24"
+    }
+  ]
+}

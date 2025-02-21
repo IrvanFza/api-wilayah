@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Laosu",
+      "kode_wilayah": "74.02.21.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.21"
+    },
+    {
+      "nama_wilayah": "Pebunooha",
+      "kode_wilayah": "74.02.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.21"
+    },
+    {
+      "nama_wilayah": "Lalonggalaku",
+      "kode_wilayah": "74.02.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.21"
+    },
+    {
+      "nama_wilayah": "Diolo",
+      "kode_wilayah": "74.02.21.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.21"
+    },
+    {
+      "nama_wilayah": "Pebunooha Dalam",
+      "kode_wilayah": "74.02.21.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.21"
+    },
+    {
+      "nama_wilayah": "Rumbia",
+      "kode_wilayah": "74.02.21.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.21"
+    },
+    {
+      "nama_wilayah": "Rambu Kongga",
+      "kode_wilayah": "74.02.21.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.21"
+    },
+    {
+      "nama_wilayah": "Laosu Jaya",
+      "kode_wilayah": "74.02.21.2029",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.21"
+    },
+    {
+      "nama_wilayah": "Langgaluku Timur",
+      "kode_wilayah": "74.02.21.2031",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.21"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Caturharjo",
+      "kode_wilayah": "34.02.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.06"
+    },
+    {
+      "nama_wilayah": "Triharjo",
+      "kode_wilayah": "34.02.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.06"
+    },
+    {
+      "nama_wilayah": "Gilangharjo",
+      "kode_wilayah": "34.02.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.06"
+    },
+    {
+      "nama_wilayah": "Wijirejo",
+      "kode_wilayah": "34.02.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.06"
+    }
+  ]
+}

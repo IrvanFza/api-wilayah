@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Lauru",
+      "kode_wilayah": "74.06.18.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.18"
+    },
+    {
+      "nama_wilayah": "Poea",
+      "kode_wilayah": "74.06.18.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.18"
+    },
+    {
+      "nama_wilayah": "Kampung Baru",
+      "kode_wilayah": "74.06.18.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.18"
+    },
+    {
+      "nama_wilayah": "Tapuhahi",
+      "kode_wilayah": "74.06.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.18"
+    },
+    {
+      "nama_wilayah": "Lampata",
+      "kode_wilayah": "74.06.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.18"
+    }
+  ]
+}

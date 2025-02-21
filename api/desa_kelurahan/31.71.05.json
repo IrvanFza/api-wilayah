@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Cempaka Putih Timur",
+      "kode_wilayah": "31.71.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.05"
+    },
+    {
+      "nama_wilayah": "Cempaka Putih Barat",
+      "kode_wilayah": "31.71.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.05"
+    },
+    {
+      "nama_wilayah": "Rawasari",
+      "kode_wilayah": "31.71.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.05"
+    }
+  ]
+}

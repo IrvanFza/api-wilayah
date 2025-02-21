@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Lompo Riaja",
+      "kode_wilayah": "73.11.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.01"
+    },
+    {
+      "nama_wilayah": "Harapan",
+      "kode_wilayah": "73.11.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.01"
+    },
+    {
+      "nama_wilayah": "Lompo Tengah",
+      "kode_wilayah": "73.11.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.01"
+    },
+    {
+      "nama_wilayah": "Kading",
+      "kode_wilayah": "73.11.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.01"
+    },
+    {
+      "nama_wilayah": "Libureng",
+      "kode_wilayah": "73.11.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.01"
+    },
+    {
+      "nama_wilayah": "Mattirowalie",
+      "kode_wilayah": "73.11.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.01"
+    },
+    {
+      "nama_wilayah": "Lempang",
+      "kode_wilayah": "73.11.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.01"
+    }
+  ]
+}

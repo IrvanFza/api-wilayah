@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "A u r",
+      "kode_wilayah": "12.71.15.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.15"
+    },
+    {
+      "nama_wilayah": "Hamdan",
+      "kode_wilayah": "12.71.15.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.15"
+    },
+    {
+      "nama_wilayah": "J a t i",
+      "kode_wilayah": "12.71.15.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.15"
+    },
+    {
+      "nama_wilayah": "Sukaraja",
+      "kode_wilayah": "12.71.15.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.15"
+    },
+    {
+      "nama_wilayah": "Sei Mati",
+      "kode_wilayah": "12.71.15.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.15"
+    },
+    {
+      "nama_wilayah": "Kampung Baru",
+      "kode_wilayah": "12.71.15.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.15"
+    }
+  ]
+}

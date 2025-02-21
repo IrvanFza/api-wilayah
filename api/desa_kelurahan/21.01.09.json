@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Teluk Sekuni",
+      "kode_wilayah": "21.01.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.09"
+    },
+    {
+      "nama_wilayah": "Batu Lepuk",
+      "kode_wilayah": "21.01.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.09"
+    },
+    {
+      "nama_wilayah": "Kampung Hilir",
+      "kode_wilayah": "21.01.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.09"
+    },
+    {
+      "nama_wilayah": "Kampung Melayu",
+      "kode_wilayah": "21.01.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.09"
+    },
+    {
+      "nama_wilayah": "Pulau Mentebung",
+      "kode_wilayah": "21.01.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.09"
+    },
+    {
+      "nama_wilayah": "Pulau Pinang",
+      "kode_wilayah": "21.01.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.09"
+    },
+    {
+      "nama_wilayah": "Kukup",
+      "kode_wilayah": "21.01.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.09"
+    },
+    {
+      "nama_wilayah": "Pengikik",
+      "kode_wilayah": "21.01.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.09"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Mamuju",
+      "kode_wilayah": "76.02.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "76.02",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama_wilayah": "Tapalang",
+      "kode_wilayah": "76.02.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "76.02",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama_wilayah": "Kalukku",
+      "kode_wilayah": "76.02.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "76.02",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama_wilayah": "Kalumpang",
+      "kode_wilayah": "76.02.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "76.02",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama_wilayah": "Papalang",
+      "kode_wilayah": "76.02.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "76.02",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama_wilayah": "Sampaga",
+      "kode_wilayah": "76.02.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "76.02",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama_wilayah": "Tommo",
+      "kode_wilayah": "76.02.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "76.02",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama_wilayah": "Simboro",
+      "kode_wilayah": "76.02.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "76.02",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama_wilayah": "Tapalang Barat",
+      "kode_wilayah": "76.02.13",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "76.02",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama_wilayah": "Bonehau",
+      "kode_wilayah": "76.02.15",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "76.02",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama_wilayah": "Kep. Bala Balakang",
+      "kode_wilayah": "76.02.16",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "76.02",
+      "kode_provinsi": "76"
+    }
+  ]
+}

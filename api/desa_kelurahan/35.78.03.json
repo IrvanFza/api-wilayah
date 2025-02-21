@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kalirungkut",
+      "kode_wilayah": "35.78.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.03"
+    },
+    {
+      "nama_wilayah": "Rungkut Kidul",
+      "kode_wilayah": "35.78.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.03"
+    },
+    {
+      "nama_wilayah": "Kedung Baruk",
+      "kode_wilayah": "35.78.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.03"
+    },
+    {
+      "nama_wilayah": "Penjaringansari",
+      "kode_wilayah": "35.78.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.03"
+    },
+    {
+      "nama_wilayah": "Wonorejo",
+      "kode_wilayah": "35.78.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.03"
+    },
+    {
+      "nama_wilayah": "Medokan Ayu",
+      "kode_wilayah": "35.78.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.03"
+    }
+  ]
+}

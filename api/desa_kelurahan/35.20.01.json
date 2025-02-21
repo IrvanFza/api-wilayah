@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Alastuwo",
+      "kode_wilayah": "35.20.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.01"
+    },
+    {
+      "nama_wilayah": "Poncol",
+      "kode_wilayah": "35.20.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.01"
+    },
+    {
+      "nama_wilayah": "Gonggang",
+      "kode_wilayah": "35.20.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.01"
+    },
+    {
+      "nama_wilayah": "Janggan",
+      "kode_wilayah": "35.20.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.01"
+    },
+    {
+      "nama_wilayah": "Genilangit",
+      "kode_wilayah": "35.20.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.01"
+    },
+    {
+      "nama_wilayah": "Plangkrongan",
+      "kode_wilayah": "35.20.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.01"
+    },
+    {
+      "nama_wilayah": "Cileng",
+      "kode_wilayah": "35.20.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.01"
+    },
+    {
+      "nama_wilayah": "Sombo",
+      "kode_wilayah": "35.20.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.01"
+    }
+  ]
+}

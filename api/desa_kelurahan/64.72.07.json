@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Kapih",
+      "kode_wilayah": "64.72.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.07"
+    },
+    {
+      "nama_wilayah": "Sambutan",
+      "kode_wilayah": "64.72.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.07"
+    },
+    {
+      "nama_wilayah": "Makroman",
+      "kode_wilayah": "64.72.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.07"
+    },
+    {
+      "nama_wilayah": "Sindang Sari",
+      "kode_wilayah": "64.72.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.07"
+    },
+    {
+      "nama_wilayah": "Pulau Atas",
+      "kode_wilayah": "64.72.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.07"
+    }
+  ]
+}

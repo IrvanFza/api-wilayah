@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Benteng",
+      "kode_wilayah": "14.04.20.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.20"
+    },
+    {
+      "nama_wilayah": "Benteng Utara",
+      "kode_wilayah": "14.04.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.20"
+    },
+    {
+      "nama_wilayah": "Pasenggerahan",
+      "kode_wilayah": "14.04.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.20"
+    },
+    {
+      "nama_wilayah": "Kuala Sungai Batang",
+      "kode_wilayah": "14.04.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.20"
+    },
+    {
+      "nama_wilayah": "Kuala Patah Parang",
+      "kode_wilayah": "14.04.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.20"
+    },
+    {
+      "nama_wilayah": "Benteng Barat",
+      "kode_wilayah": "14.04.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.20"
+    },
+    {
+      "nama_wilayah": "Pandan Sari",
+      "kode_wilayah": "14.04.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.20"
+    },
+    {
+      "nama_wilayah": "Mugo Mulyo",
+      "kode_wilayah": "14.04.20.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.20"
+    }
+  ]
+}

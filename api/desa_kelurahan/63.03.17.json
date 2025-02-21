@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Paramasan Atas",
+      "kode_wilayah": "63.03.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.17"
+    },
+    {
+      "nama_wilayah": "Paramasan Bawah",
+      "kode_wilayah": "63.03.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.17"
+    },
+    {
+      "nama_wilayah": "Remo",
+      "kode_wilayah": "63.03.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.17"
+    },
+    {
+      "nama_wilayah": "Angkipih",
+      "kode_wilayah": "63.03.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.17"
+    }
+  ]
+}

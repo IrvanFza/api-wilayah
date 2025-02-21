@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Supiori Selatan",
+      "kode_wilayah": "91.19.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.19",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Supiori Utara",
+      "kode_wilayah": "91.19.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.19",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Supiori Timur",
+      "kode_wilayah": "91.19.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.19",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Kepulauan Aruri",
+      "kode_wilayah": "91.19.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.19",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Supiori Barat",
+      "kode_wilayah": "91.19.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.19",
+      "kode_provinsi": "91"
+    }
+  ]
+}

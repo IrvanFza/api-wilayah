@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tarutung",
+      "kode_wilayah": "15.01.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.07"
+    },
+    {
+      "nama_wilayah": "Lubuk Paku",
+      "kode_wilayah": "15.01.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.07"
+    },
+    {
+      "nama_wilayah": "Tamiai",
+      "kode_wilayah": "15.01.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.07"
+    },
+    {
+      "nama_wilayah": "Pematang Lingkung",
+      "kode_wilayah": "15.01.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.07"
+    },
+    {
+      "nama_wilayah": "Pasar Tamiai",
+      "kode_wilayah": "15.01.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.07"
+    },
+    {
+      "nama_wilayah": "Seberang Merangin",
+      "kode_wilayah": "15.01.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.07"
+    },
+    {
+      "nama_wilayah": "Baru Pulau Sangkar",
+      "kode_wilayah": "15.01.07.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.07"
+    },
+    {
+      "nama_wilayah": "Batang Merangin",
+      "kode_wilayah": "15.01.07.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.07"
+    },
+    {
+      "nama_wilayah": "Muara Hemat",
+      "kode_wilayah": "15.01.07.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.07"
+    }
+  ]
+}

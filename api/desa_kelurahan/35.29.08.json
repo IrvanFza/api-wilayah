@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Galis",
+      "kode_wilayah": "35.29.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.08"
+    },
+    {
+      "nama_wilayah": "Gedugan",
+      "kode_wilayah": "35.29.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.08"
+    },
+    {
+      "nama_wilayah": "Bringsang",
+      "kode_wilayah": "35.29.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.08"
+    },
+    {
+      "nama_wilayah": "Aenganyar",
+      "kode_wilayah": "35.29.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.08"
+    },
+    {
+      "nama_wilayah": "Lombang",
+      "kode_wilayah": "35.29.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.08"
+    },
+    {
+      "nama_wilayah": "Jate",
+      "kode_wilayah": "35.29.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.08"
+    },
+    {
+      "nama_wilayah": "Banbaru",
+      "kode_wilayah": "35.29.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.08"
+    },
+    {
+      "nama_wilayah": "Banmaleng",
+      "kode_wilayah": "35.29.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.08"
+    }
+  ]
+}

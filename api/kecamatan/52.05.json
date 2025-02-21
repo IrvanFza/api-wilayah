@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Dompu",
+      "kode_wilayah": "52.05.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.05",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Kempo",
+      "kode_wilayah": "52.05.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.05",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Hu-u",
+      "kode_wilayah": "52.05.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.05",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Kilo",
+      "kode_wilayah": "52.05.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.05",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Woja",
+      "kode_wilayah": "52.05.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.05",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Pekat",
+      "kode_wilayah": "52.05.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.05",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Manggalewa",
+      "kode_wilayah": "52.05.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.05",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Pajo",
+      "kode_wilayah": "52.05.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.05",
+      "kode_provinsi": "52"
+    }
+  ]
+}

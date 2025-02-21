@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Mekarsari",
+      "kode_wilayah": "36.01.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.10"
+    },
+    {
+      "nama_wilayah": "Cijakan",
+      "kode_wilayah": "36.01.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.10"
+    },
+    {
+      "nama_wilayah": "Geredug",
+      "kode_wilayah": "36.01.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.10"
+    },
+    {
+      "nama_wilayah": "Bojong",
+      "kode_wilayah": "36.01.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.10"
+    },
+    {
+      "nama_wilayah": "Banyumas",
+      "kode_wilayah": "36.01.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.10"
+    },
+    {
+      "nama_wilayah": "Citumenggung",
+      "kode_wilayah": "36.01.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.10"
+    },
+    {
+      "nama_wilayah": "Manggungjaya",
+      "kode_wilayah": "36.01.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.10"
+    },
+    {
+      "nama_wilayah": "Cahayamekar",
+      "kode_wilayah": "36.01.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.10"
+    }
+  ]
+}

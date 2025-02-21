@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kampung Makian",
+      "kode_wilayah": "82.04.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.17"
+    },
+    {
+      "nama_wilayah": "Mandaong",
+      "kode_wilayah": "82.04.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.17"
+    },
+    {
+      "nama_wilayah": "Kupal",
+      "kode_wilayah": "82.04.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.17"
+    },
+    {
+      "nama_wilayah": "Gandasuli",
+      "kode_wilayah": "82.04.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.17"
+    },
+    {
+      "nama_wilayah": "Sawadai",
+      "kode_wilayah": "82.04.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.17"
+    },
+    {
+      "nama_wilayah": "Tuokona",
+      "kode_wilayah": "82.04.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.17"
+    },
+    {
+      "nama_wilayah": "Papaloang",
+      "kode_wilayah": "82.04.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.17"
+    },
+    {
+      "nama_wilayah": "Tembal",
+      "kode_wilayah": "82.04.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.17"
+    },
+    {
+      "nama_wilayah": "Kubung",
+      "kode_wilayah": "82.04.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.17"
+    },
+    {
+      "nama_wilayah": "Panamboang",
+      "kode_wilayah": "82.04.17.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.17"
+    }
+  ]
+}

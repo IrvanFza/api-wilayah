@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Cijengkol",
+      "kode_wilayah": "32.13.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.23"
+    },
+    {
+      "nama_wilayah": "Talagasari",
+      "kode_wilayah": "32.13.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.23"
+    },
+    {
+      "nama_wilayah": "Cintamekar",
+      "kode_wilayah": "32.13.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.23"
+    },
+    {
+      "nama_wilayah": "Ponggang",
+      "kode_wilayah": "32.13.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.23"
+    },
+    {
+      "nama_wilayah": "Cikujang",
+      "kode_wilayah": "32.13.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.23"
+    },
+    {
+      "nama_wilayah": "Cipancar",
+      "kode_wilayah": "32.13.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.23"
+    }
+  ]
+}

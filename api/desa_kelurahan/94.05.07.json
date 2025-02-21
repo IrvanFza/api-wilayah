@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Agandugume",
+      "kode_wilayah": "94.05.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.07"
+    },
+    {
+      "nama_wilayah": "Gut-yenggenak",
+      "kode_wilayah": "94.05.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.07"
+    },
+    {
+      "nama_wilayah": "Dugunale",
+      "kode_wilayah": "94.05.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.07"
+    },
+    {
+      "nama_wilayah": "Ogobak-pelenak",
+      "kode_wilayah": "94.05.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.07"
+    },
+    {
+      "nama_wilayah": "Dolinggu",
+      "kode_wilayah": "94.05.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.07"
+    },
+    {
+      "nama_wilayah": "Ayume",
+      "kode_wilayah": "94.05.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.07"
+    },
+    {
+      "nama_wilayah": "Terowi",
+      "kode_wilayah": "94.05.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.07"
+    }
+  ]
+}

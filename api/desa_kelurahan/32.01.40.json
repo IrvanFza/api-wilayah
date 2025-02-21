@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tapos I",
+      "kode_wilayah": "32.01.40.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.40"
+    },
+    {
+      "nama_wilayah": "Tapos II",
+      "kode_wilayah": "32.01.40.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.40"
+    },
+    {
+      "nama_wilayah": "Cibitung Tengah",
+      "kode_wilayah": "32.01.40.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.40"
+    },
+    {
+      "nama_wilayah": "Situdaun",
+      "kode_wilayah": "32.01.40.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.40"
+    },
+    {
+      "nama_wilayah": "Cinangneng",
+      "kode_wilayah": "32.01.40.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.40"
+    },
+    {
+      "nama_wilayah": "Gunung Malang",
+      "kode_wilayah": "32.01.40.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.40"
+    },
+    {
+      "nama_wilayah": "Gunung Mulya",
+      "kode_wilayah": "32.01.40.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.40"
+    }
+  ]
+}

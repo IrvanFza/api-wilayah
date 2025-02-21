@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sungsang I",
+      "kode_wilayah": "16.07.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.02"
+    },
+    {
+      "nama_wilayah": "Sungsang II",
+      "kode_wilayah": "16.07.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.02"
+    },
+    {
+      "nama_wilayah": "Sungsang III",
+      "kode_wilayah": "16.07.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.02"
+    },
+    {
+      "nama_wilayah": "Sungsang IV",
+      "kode_wilayah": "16.07.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.02"
+    },
+    {
+      "nama_wilayah": "Teluk Payo",
+      "kode_wilayah": "16.07.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.02"
+    },
+    {
+      "nama_wilayah": "Tanah Pilih",
+      "kode_wilayah": "16.07.02.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.02"
+    },
+    {
+      "nama_wilayah": "Perajen Jaya",
+      "kode_wilayah": "16.07.02.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.02"
+    },
+    {
+      "nama_wilayah": "Rimau Sungsang",
+      "kode_wilayah": "16.07.02.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.02"
+    },
+    {
+      "nama_wilayah": "Marga Sungsang",
+      "kode_wilayah": "16.07.02.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.02"
+    },
+    {
+      "nama_wilayah": "Muara Sungsang",
+      "kode_wilayah": "16.07.02.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.02"
+    }
+  ]
+}

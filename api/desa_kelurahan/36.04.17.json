@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Carenang",
+      "kode_wilayah": "36.04.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.17"
+    },
+    {
+      "nama_wilayah": "Pamanuk",
+      "kode_wilayah": "36.04.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.17"
+    },
+    {
+      "nama_wilayah": "Mandaya",
+      "kode_wilayah": "36.04.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.17"
+    },
+    {
+      "nama_wilayah": "Teras",
+      "kode_wilayah": "36.04.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.17"
+    },
+    {
+      "nama_wilayah": "Ragas Masigit",
+      "kode_wilayah": "36.04.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.17"
+    },
+    {
+      "nama_wilayah": "Walikukun",
+      "kode_wilayah": "36.04.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.17"
+    },
+    {
+      "nama_wilayah": "Panenjoan",
+      "kode_wilayah": "36.04.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.17"
+    },
+    {
+      "nama_wilayah": "Mekarsari",
+      "kode_wilayah": "36.04.17.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.17"
+    }
+  ]
+}

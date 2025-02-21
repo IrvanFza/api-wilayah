@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Mentaya Seberang",
+      "kode_wilayah": "62.02.12.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.12"
+    },
+    {
+      "nama_wilayah": "Terantang",
+      "kode_wilayah": "62.02.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.12"
+    },
+    {
+      "nama_wilayah": "Batuah",
+      "kode_wilayah": "62.02.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.12"
+    },
+    {
+      "nama_wilayah": "Terantang Hilir",
+      "kode_wilayah": "62.02.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.12"
+    },
+    {
+      "nama_wilayah": "Ganepo",
+      "kode_wilayah": "62.02.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.12"
+    },
+    {
+      "nama_wilayah": "Seragam Jaya",
+      "kode_wilayah": "62.02.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.12"
+    }
+  ]
+}

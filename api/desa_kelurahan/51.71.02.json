@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Kesiman",
+      "kode_wilayah": "51.71.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.02"
+    },
+    {
+      "nama_wilayah": "Sumerta",
+      "kode_wilayah": "51.71.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.02"
+    },
+    {
+      "nama_wilayah": "Dangin Puri",
+      "kode_wilayah": "51.71.02.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.02"
+    },
+    {
+      "nama_wilayah": "Penatih",
+      "kode_wilayah": "51.71.02.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.02"
+    },
+    {
+      "nama_wilayah": "Dangin Puri Kelod",
+      "kode_wilayah": "51.71.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.02"
+    },
+    {
+      "nama_wilayah": "Sumerta Kelod",
+      "kode_wilayah": "51.71.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.02"
+    },
+    {
+      "nama_wilayah": "Kesiman Petilan",
+      "kode_wilayah": "51.71.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.02"
+    },
+    {
+      "nama_wilayah": "Kesiman Kertalangu",
+      "kode_wilayah": "51.71.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.02"
+    },
+    {
+      "nama_wilayah": "Sumerta Kaja",
+      "kode_wilayah": "51.71.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.02"
+    },
+    {
+      "nama_wilayah": "Sumerta Kauh",
+      "kode_wilayah": "51.71.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.02"
+    },
+    {
+      "nama_wilayah": "Penatih Dangin Puri",
+      "kode_wilayah": "51.71.02.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.02"
+    }
+  ]
+}

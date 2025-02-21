@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Paro",
+      "kode_wilayah": "95.08.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.11"
+    },
+    {
+      "nama_wilayah": "Lombrik",
+      "kode_wilayah": "95.08.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.11"
+    },
+    {
+      "nama_wilayah": "Animarem",
+      "kode_wilayah": "95.08.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.11"
+    },
+    {
+      "nama_wilayah": "Tawelma",
+      "kode_wilayah": "95.08.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.11"
+    },
+    {
+      "nama_wilayah": "Loaraba",
+      "kode_wilayah": "95.08.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.11"
+    }
+  ]
+}

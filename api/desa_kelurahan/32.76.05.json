@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sukmajaya",
+      "kode_wilayah": "32.76.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.05"
+    },
+    {
+      "nama_wilayah": "Abadijaya",
+      "kode_wilayah": "32.76.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.05"
+    },
+    {
+      "nama_wilayah": "Mekarjaya",
+      "kode_wilayah": "32.76.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.05"
+    },
+    {
+      "nama_wilayah": "Baktijaya",
+      "kode_wilayah": "32.76.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.05"
+    },
+    {
+      "nama_wilayah": "Cisalak",
+      "kode_wilayah": "32.76.05.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.05"
+    },
+    {
+      "nama_wilayah": "Tirtajaya",
+      "kode_wilayah": "32.76.05.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.05"
+    }
+  ]
+}

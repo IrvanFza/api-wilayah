@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Denpasar Selatan",
+      "kode_wilayah": "51.71.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.71",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Denpasar Timur",
+      "kode_wilayah": "51.71.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.71",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Denpasar Barat",
+      "kode_wilayah": "51.71.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.71",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Denpasar Utara",
+      "kode_wilayah": "51.71.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.71",
+      "kode_provinsi": "51"
+    }
+  ]
+}

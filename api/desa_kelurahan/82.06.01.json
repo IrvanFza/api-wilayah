@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Subaim",
+      "kode_wilayah": "82.06.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.01"
+    },
+    {
+      "nama_wilayah": "Cemara Jaya",
+      "kode_wilayah": "82.06.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.01"
+    },
+    {
+      "nama_wilayah": "Bumi Restu",
+      "kode_wilayah": "82.06.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.01"
+    },
+    {
+      "nama_wilayah": "Batu Raja",
+      "kode_wilayah": "82.06.01.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.01"
+    },
+    {
+      "nama_wilayah": "Mekar Sari",
+      "kode_wilayah": "82.06.01.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.01"
+    },
+    {
+      "nama_wilayah": "Gulapapo",
+      "kode_wilayah": "82.06.01.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.01"
+    },
+    {
+      "nama_wilayah": "Waisuba",
+      "kode_wilayah": "82.06.01.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.01"
+    }
+  ]
+}

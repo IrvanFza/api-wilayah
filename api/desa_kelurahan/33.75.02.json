@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Noyontaansari",
+      "kode_wilayah": "33.75.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.02"
+    },
+    {
+      "nama_wilayah": "Kauman",
+      "kode_wilayah": "33.75.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.02"
+    },
+    {
+      "nama_wilayah": "Poncol",
+      "kode_wilayah": "33.75.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.02"
+    },
+    {
+      "nama_wilayah": "Klego",
+      "kode_wilayah": "33.75.02.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.02"
+    },
+    {
+      "nama_wilayah": "Gamer",
+      "kode_wilayah": "33.75.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.02"
+    },
+    {
+      "nama_wilayah": "Setono",
+      "kode_wilayah": "33.75.02.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.02"
+    },
+    {
+      "nama_wilayah": "Kali Baros",
+      "kode_wilayah": "33.75.02.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.02"
+    }
+  ]
+}

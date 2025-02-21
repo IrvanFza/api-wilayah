@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Sungai  Besar",
+      "kode_wilayah": "63.72.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.72",
+      "kode_kecamatan": "63.72.05"
+    },
+    {
+      "nama_wilayah": "Loktabat Selatan",
+      "kode_wilayah": "63.72.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.72",
+      "kode_kecamatan": "63.72.05"
+    },
+    {
+      "nama_wilayah": "Kemuning",
+      "kode_wilayah": "63.72.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.72",
+      "kode_kecamatan": "63.72.05"
+    },
+    {
+      "nama_wilayah": "Guntung Paikat",
+      "kode_wilayah": "63.72.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.72",
+      "kode_kecamatan": "63.72.05"
+    }
+  ]
+}

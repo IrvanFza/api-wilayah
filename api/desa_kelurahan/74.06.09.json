@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Aneka Marga",
+      "kode_wilayah": "74.06.09.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.09"
+    },
+    {
+      "nama_wilayah": "Wumbubangka",
+      "kode_wilayah": "74.06.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.09"
+    },
+    {
+      "nama_wilayah": "Hukaea",
+      "kode_wilayah": "74.06.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.09"
+    },
+    {
+      "nama_wilayah": "Lantowua",
+      "kode_wilayah": "74.06.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.09"
+    },
+    {
+      "nama_wilayah": "Tembe",
+      "kode_wilayah": "74.06.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.09"
+    },
+    {
+      "nama_wilayah": "Watu Mende",
+      "kode_wilayah": "74.06.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.09"
+    },
+    {
+      "nama_wilayah": "Marga Jaya",
+      "kode_wilayah": "74.06.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.09"
+    },
+    {
+      "nama_wilayah": "Tunas Baru",
+      "kode_wilayah": "74.06.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.09"
+    }
+  ]
+}

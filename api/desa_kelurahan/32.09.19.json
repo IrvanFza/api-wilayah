@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Karangsari",
+      "kode_wilayah": "32.09.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.19"
+    },
+    {
+      "nama_wilayah": "Kertasari",
+      "kode_wilayah": "32.09.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.19"
+    },
+    {
+      "nama_wilayah": "Megu Gede",
+      "kode_wilayah": "32.09.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.19"
+    },
+    {
+      "nama_wilayah": "Megu Cilik",
+      "kode_wilayah": "32.09.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.19"
+    },
+    {
+      "nama_wilayah": "Setu Wetan",
+      "kode_wilayah": "32.09.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.19"
+    },
+    {
+      "nama_wilayah": "Setu Kulon",
+      "kode_wilayah": "32.09.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.19"
+    },
+    {
+      "nama_wilayah": "Weru Kidul",
+      "kode_wilayah": "32.09.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.19"
+    },
+    {
+      "nama_wilayah": "Weru Lor",
+      "kode_wilayah": "32.09.19.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.19"
+    },
+    {
+      "nama_wilayah": "Tegalwangi",
+      "kode_wilayah": "32.09.19.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.19"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Pondok Makmur",
+      "kode_wilayah": "17.06.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.13"
+    },
+    {
+      "nama_wilayah": "Manjunto Jaya",
+      "kode_wilayah": "17.06.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.13"
+    },
+    {
+      "nama_wilayah": "Tirta Makmur",
+      "kode_wilayah": "17.06.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.13"
+    },
+    {
+      "nama_wilayah": "Agung Jaya",
+      "kode_wilayah": "17.06.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.13"
+    },
+    {
+      "nama_wilayah": "Tirta Mulya",
+      "kode_wilayah": "17.06.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.13"
+    },
+    {
+      "nama_wilayah": "Kota Praja",
+      "kode_wilayah": "17.06.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.13"
+    },
+    {
+      "nama_wilayah": "Sinar Jaya",
+      "kode_wilayah": "17.06.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.13"
+    },
+    {
+      "nama_wilayah": "Sido Makmur",
+      "kode_wilayah": "17.06.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.13"
+    }
+  ]
+}

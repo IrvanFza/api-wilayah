@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Namlea",
+      "kode_wilayah": "81.04.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.04",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Air Buaya",
+      "kode_wilayah": "81.04.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.04",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Waeapo",
+      "kode_wilayah": "81.04.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.04",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Waplau",
+      "kode_wilayah": "81.04.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.04",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Batabual",
+      "kode_wilayah": "81.04.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.04",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Lolong Guba",
+      "kode_wilayah": "81.04.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.04",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Waelata",
+      "kode_wilayah": "81.04.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.04",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Fena Leisela",
+      "kode_wilayah": "81.04.13",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.04",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Teluk Kaiely",
+      "kode_wilayah": "81.04.14",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.04",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Lilialy",
+      "kode_wilayah": "81.04.15",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.04",
+      "kode_provinsi": "81"
+    }
+  ]
+}

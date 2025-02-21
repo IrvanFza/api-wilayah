@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Giri Mulya",
+      "kode_wilayah": "63.10.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.10"
+    },
+    {
+      "nama_wilayah": "Kuranji",
+      "kode_wilayah": "63.10.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.10"
+    },
+    {
+      "nama_wilayah": "Waringin Tunggal",
+      "kode_wilayah": "63.10.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.10"
+    },
+    {
+      "nama_wilayah": "Mustika",
+      "kode_wilayah": "63.10.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.10"
+    },
+    {
+      "nama_wilayah": "Indra Lokajaya",
+      "kode_wilayah": "63.10.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.10"
+    },
+    {
+      "nama_wilayah": "Karang Intan",
+      "kode_wilayah": "63.10.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.10"
+    },
+    {
+      "nama_wilayah": "Ringkit",
+      "kode_wilayah": "63.10.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.10"
+    }
+  ]
+}

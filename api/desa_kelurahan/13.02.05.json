@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Supayang",
+      "kode_wilayah": "13.02.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.05"
+    },
+    {
+      "nama_wilayah": "Sirukam",
+      "kode_wilayah": "13.02.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.05"
+    },
+    {
+      "nama_wilayah": "Aie Luo",
+      "kode_wilayah": "13.02.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.05"
+    }
+  ]
+}

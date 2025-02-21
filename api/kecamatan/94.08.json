@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Tigi",
+      "kode_wilayah": "94.08.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.08",
+      "kode_provinsi": "94"
+    },
+    {
+      "nama_wilayah": "Tigi Timur",
+      "kode_wilayah": "94.08.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.08",
+      "kode_provinsi": "94"
+    },
+    {
+      "nama_wilayah": "Bowobado",
+      "kode_wilayah": "94.08.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.08",
+      "kode_provinsi": "94"
+    },
+    {
+      "nama_wilayah": "Tigi Barat",
+      "kode_wilayah": "94.08.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.08",
+      "kode_provinsi": "94"
+    },
+    {
+      "nama_wilayah": "Kapiraya",
+      "kode_wilayah": "94.08.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.08",
+      "kode_provinsi": "94"
+    }
+  ]
+}

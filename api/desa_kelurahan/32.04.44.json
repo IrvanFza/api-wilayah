@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Cangkuang",
+      "kode_wilayah": "32.04.44.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.44"
+    },
+    {
+      "nama_wilayah": "Ciluncat",
+      "kode_wilayah": "32.04.44.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.44"
+    },
+    {
+      "nama_wilayah": "Nagrak",
+      "kode_wilayah": "32.04.44.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.44"
+    },
+    {
+      "nama_wilayah": "Bandasari",
+      "kode_wilayah": "32.04.44.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.44"
+    },
+    {
+      "nama_wilayah": "Pananjung",
+      "kode_wilayah": "32.04.44.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.44"
+    },
+    {
+      "nama_wilayah": "Jatisari",
+      "kode_wilayah": "32.04.44.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.44"
+    },
+    {
+      "nama_wilayah": "Tanjungsari",
+      "kode_wilayah": "32.04.44.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.44"
+    }
+  ]
+}

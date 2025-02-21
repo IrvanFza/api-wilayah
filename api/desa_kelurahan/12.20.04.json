@@ -1,0 +1,502 @@
+{
+  "status": "success",
+  "total": 62,
+  "data": [
+    {
+      "nama_wilayah": "Pasar Gunung Tua",
+      "kode_wilayah": "12.20.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Lubuk Torop",
+      "kode_wilayah": "12.20.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Tanjung Marulak",
+      "kode_wilayah": "12.20.04.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Ambasang Natigor",
+      "kode_wilayah": "12.20.04.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Napagadung Laut",
+      "kode_wilayah": "12.20.04.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Rampa Jae",
+      "kode_wilayah": "12.20.04.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Rampa Julu",
+      "kode_wilayah": "12.20.04.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Mananti",
+      "kode_wilayah": "12.20.04.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Paran Padang",
+      "kode_wilayah": "12.20.04.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Rahuning Jae",
+      "kode_wilayah": "12.20.04.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Botung",
+      "kode_wilayah": "12.20.04.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Sigimbal",
+      "kode_wilayah": "12.20.04.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Dolok Sae",
+      "kode_wilayah": "12.20.04.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Simasi",
+      "kode_wilayah": "12.20.04.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Sihapas Hapas",
+      "kode_wilayah": "12.20.04.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Sungai Tolang",
+      "kode_wilayah": "12.20.04.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Losung Batu",
+      "kode_wilayah": "12.20.04.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Batu Mamak",
+      "kode_wilayah": "12.20.04.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Sampuran",
+      "kode_wilayah": "12.20.04.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Gunung Tua Baru",
+      "kode_wilayah": "12.20.04.2029",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Sibatang Kayu",
+      "kode_wilayah": "12.20.04.2030",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Aek Suhat",
+      "kode_wilayah": "12.20.04.2031",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Gunung Tua Tonga",
+      "kode_wilayah": "12.20.04.2038",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Gunung Tua Jae",
+      "kode_wilayah": "12.20.04.2039",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Gunung Tua Julu",
+      "kode_wilayah": "12.20.04.2040",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Hutalombang",
+      "kode_wilayah": "12.20.04.2041",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Batang Baruhar Julu",
+      "kode_wilayah": "12.20.04.2042",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Batang Baruhar  Jae",
+      "kode_wilayah": "12.20.04.2043",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Purba Sinomba",
+      "kode_wilayah": "12.20.04.2044",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Hambiri",
+      "kode_wilayah": "12.20.04.2045",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Sosopan",
+      "kode_wilayah": "12.20.04.2046",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Pagaran Singkam",
+      "kode_wilayah": "12.20.04.2047",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Pagaran Tonga",
+      "kode_wilayah": "12.20.04.2048",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Sibagasi",
+      "kode_wilayah": "12.20.04.2049",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Batu Tambun",
+      "kode_wilayah": "12.20.04.2050",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Tanjung Tiram",
+      "kode_wilayah": "12.20.04.2051",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Garoga",
+      "kode_wilayah": "12.20.04.2052",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Hajoran",
+      "kode_wilayah": "12.20.04.2053",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Batu Sundung",
+      "kode_wilayah": "12.20.04.2054",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Garonggang",
+      "kode_wilayah": "12.20.04.2055",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Nabonggal",
+      "kode_wilayah": "12.20.04.2056",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Liang  Hasona",
+      "kode_wilayah": "12.20.04.2057",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Simandiangin Dolok",
+      "kode_wilayah": "12.20.04.2058",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Simandiangin Lombang",
+      "kode_wilayah": "12.20.04.2059",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Padang Garugur",
+      "kode_wilayah": "12.20.04.2060",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Simanosor",
+      "kode_wilayah": "12.20.04.2061",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Sigama",
+      "kode_wilayah": "12.20.04.2062",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Sigama Ujung Gading",
+      "kode_wilayah": "12.20.04.2063",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Parlimbatan",
+      "kode_wilayah": "12.20.04.2064",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Saba Sitahul tahul",
+      "kode_wilayah": "12.20.04.2065",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Saba Bangunan",
+      "kode_wilayah": "12.20.04.2066",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Sidingkat",
+      "kode_wilayah": "12.20.04.2067",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Gunung Manaon II",
+      "kode_wilayah": "12.20.04.2069",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Purba Tua",
+      "kode_wilayah": "12.20.04.2070",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Sungai Durian",
+      "kode_wilayah": "12.20.04.2071",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Sungai Orosan",
+      "kode_wilayah": "12.20.04.2072",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Hutaimbaru II",
+      "kode_wilayah": "12.20.04.2073",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Siombob",
+      "kode_wilayah": "12.20.04.2074",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Aek Gambir",
+      "kode_wilayah": "12.20.04.2075",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Bukit Raya  Sordang",
+      "kode_wilayah": "12.20.04.2076",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Aek Jangkang",
+      "kode_wilayah": "12.20.04.2077",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    },
+    {
+      "nama_wilayah": "Simbolon",
+      "kode_wilayah": "12.20.04.2078",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.04"
+    }
+  ]
+}

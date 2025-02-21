@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Menteng",
+      "kode_wilayah": "31.71.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.06"
+    },
+    {
+      "nama_wilayah": "Pegangsaan",
+      "kode_wilayah": "31.71.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.06"
+    },
+    {
+      "nama_wilayah": "Cikini",
+      "kode_wilayah": "31.71.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.06"
+    },
+    {
+      "nama_wilayah": "Gondangdia",
+      "kode_wilayah": "31.71.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.06"
+    },
+    {
+      "nama_wilayah": "Kebon Sirih",
+      "kode_wilayah": "31.71.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.06"
+    }
+  ]
+}

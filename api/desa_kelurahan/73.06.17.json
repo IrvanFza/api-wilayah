@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Majannang",
+      "kode_wilayah": "73.06.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.17"
+    },
+    {
+      "nama_wilayah": "Jonjo",
+      "kode_wilayah": "73.06.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.17"
+    },
+    {
+      "nama_wilayah": "Manimbahoi",
+      "kode_wilayah": "73.06.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.17"
+    },
+    {
+      "nama_wilayah": "Sicini",
+      "kode_wilayah": "73.06.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.17"
+    },
+    {
+      "nama_wilayah": "Bilanrengi",
+      "kode_wilayah": "73.06.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.17"
+    }
+  ]
+}

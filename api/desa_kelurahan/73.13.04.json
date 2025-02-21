@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Akkajeng",
+      "kode_wilayah": "73.13.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.04"
+    },
+    {
+      "nama_wilayah": "Assorajang",
+      "kode_wilayah": "73.13.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.04"
+    },
+    {
+      "nama_wilayah": "Minangae",
+      "kode_wilayah": "73.13.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.04"
+    },
+    {
+      "nama_wilayah": "Akkotengeng",
+      "kode_wilayah": "73.13.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.04"
+    },
+    {
+      "nama_wilayah": "Sakkoli",
+      "kode_wilayah": "73.13.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.04"
+    },
+    {
+      "nama_wilayah": "Barangmamase",
+      "kode_wilayah": "73.13.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.04"
+    },
+    {
+      "nama_wilayah": "Salobulo",
+      "kode_wilayah": "73.13.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.04"
+    },
+    {
+      "nama_wilayah": "Towalida",
+      "kode_wilayah": "73.13.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.04"
+    },
+    {
+      "nama_wilayah": "Alewadeng",
+      "kode_wilayah": "73.13.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.04"
+    }
+  ]
+}

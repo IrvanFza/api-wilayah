@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Subi",
+      "kode_wilayah": "21.03.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.09"
+    },
+    {
+      "nama_wilayah": "Subi Besar",
+      "kode_wilayah": "21.03.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.09"
+    },
+    {
+      "nama_wilayah": "Meliah",
+      "kode_wilayah": "21.03.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.09"
+    },
+    {
+      "nama_wilayah": "Terayak",
+      "kode_wilayah": "21.03.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.09"
+    },
+    {
+      "nama_wilayah": "Subi Besar Timur",
+      "kode_wilayah": "21.03.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.09"
+    },
+    {
+      "nama_wilayah": "Meliah Selatan",
+      "kode_wilayah": "21.03.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.09"
+    }
+  ]
+}

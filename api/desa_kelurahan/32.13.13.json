@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tanjungtiga",
+      "kode_wilayah": "32.13.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.13"
+    },
+    {
+      "nama_wilayah": "Muara",
+      "kode_wilayah": "32.13.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.13"
+    },
+    {
+      "nama_wilayah": "Blanakan",
+      "kode_wilayah": "32.13.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.13"
+    },
+    {
+      "nama_wilayah": "Rawameneng",
+      "kode_wilayah": "32.13.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.13"
+    },
+    {
+      "nama_wilayah": "Cilamayagirang",
+      "kode_wilayah": "32.13.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.13"
+    },
+    {
+      "nama_wilayah": "Jayamukti",
+      "kode_wilayah": "32.13.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.13"
+    },
+    {
+      "nama_wilayah": "Cilamayahilir",
+      "kode_wilayah": "32.13.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.13"
+    },
+    {
+      "nama_wilayah": "Rawamekar",
+      "kode_wilayah": "32.13.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.13"
+    },
+    {
+      "nama_wilayah": "Langensari",
+      "kode_wilayah": "32.13.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.13"
+    }
+  ]
+}

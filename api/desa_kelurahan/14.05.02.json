@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pangkalan Kerinci Barat",
+      "kode_wilayah": "14.05.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.02"
+    },
+    {
+      "nama_wilayah": "Pangkalan Kerinci Kota",
+      "kode_wilayah": "14.05.02.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.02"
+    },
+    {
+      "nama_wilayah": "Pangkalan Kerinci Timur",
+      "kode_wilayah": "14.05.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.02"
+    },
+    {
+      "nama_wilayah": "Mekar Jaya",
+      "kode_wilayah": "14.05.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.02"
+    },
+    {
+      "nama_wilayah": "Kuala Terusan",
+      "kode_wilayah": "14.05.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.02"
+    },
+    {
+      "nama_wilayah": "Makmur",
+      "kode_wilayah": "14.05.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.02"
+    },
+    {
+      "nama_wilayah": "Rantau Baru",
+      "kode_wilayah": "14.05.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.02"
+    }
+  ]
+}

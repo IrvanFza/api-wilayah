@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Uncang",
+      "kode_wilayah": "21.71.12.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.12"
+    },
+    {
+      "nama_wilayah": "Buliang",
+      "kode_wilayah": "21.71.12.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.12"
+    },
+    {
+      "nama_wilayah": "Kibing",
+      "kode_wilayah": "21.71.12.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.12"
+    },
+    {
+      "nama_wilayah": "Bukit Tempayan",
+      "kode_wilayah": "21.71.12.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.12"
+    }
+  ]
+}

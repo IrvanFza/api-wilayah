@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Tanjungkarang",
+      "kode_wilayah": "65.03.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.01"
+    },
+    {
+      "nama_wilayah": "Balansiku",
+      "kode_wilayah": "65.03.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.01"
+    },
+    {
+      "nama_wilayah": "Sungai Manurung",
+      "kode_wilayah": "65.03.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.01"
+    },
+    {
+      "nama_wilayah": "Padaidi",
+      "kode_wilayah": "65.03.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.01"
+    }
+  ]
+}

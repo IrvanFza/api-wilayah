@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Purwoasri",
+      "kode_wilayah": "35.10.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.04"
+    },
+    {
+      "nama_wilayah": "Kendalrejo",
+      "kode_wilayah": "35.10.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.04"
+    },
+    {
+      "nama_wilayah": "Kedungasri",
+      "kode_wilayah": "35.10.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.04"
+    },
+    {
+      "nama_wilayah": "Kedungwungu",
+      "kode_wilayah": "35.10.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.04"
+    },
+    {
+      "nama_wilayah": "Tegaldlimo",
+      "kode_wilayah": "35.10.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.04"
+    },
+    {
+      "nama_wilayah": "Wringinpitu",
+      "kode_wilayah": "35.10.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.04"
+    },
+    {
+      "nama_wilayah": "Kedunggebang",
+      "kode_wilayah": "35.10.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.04"
+    },
+    {
+      "nama_wilayah": "Purwoagung",
+      "kode_wilayah": "35.10.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.04"
+    },
+    {
+      "nama_wilayah": "Kalipait",
+      "kode_wilayah": "35.10.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.04"
+    }
+  ]
+}

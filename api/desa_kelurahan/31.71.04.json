@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Senen",
+      "kode_wilayah": "31.71.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.04"
+    },
+    {
+      "nama_wilayah": "Kenari",
+      "kode_wilayah": "31.71.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.04"
+    },
+    {
+      "nama_wilayah": "Paseban",
+      "kode_wilayah": "31.71.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.04"
+    },
+    {
+      "nama_wilayah": "Kramat",
+      "kode_wilayah": "31.71.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.04"
+    },
+    {
+      "nama_wilayah": "Kwitang",
+      "kode_wilayah": "31.71.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.04"
+    },
+    {
+      "nama_wilayah": "Bungur",
+      "kode_wilayah": "31.71.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.04"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sudimoroharjo",
+      "kode_wilayah": "35.18.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.18",
+      "kode_kecamatan": "35.18.15"
+    },
+    {
+      "nama_wilayah": "Wilangan",
+      "kode_wilayah": "35.18.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.18",
+      "kode_kecamatan": "35.18.15"
+    },
+    {
+      "nama_wilayah": "Ngadipiro",
+      "kode_wilayah": "35.18.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.18",
+      "kode_kecamatan": "35.18.15"
+    },
+    {
+      "nama_wilayah": "Mancon",
+      "kode_wilayah": "35.18.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.18",
+      "kode_kecamatan": "35.18.15"
+    },
+    {
+      "nama_wilayah": "Ngudikan",
+      "kode_wilayah": "35.18.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.18",
+      "kode_kecamatan": "35.18.15"
+    },
+    {
+      "nama_wilayah": "Sukoharjo",
+      "kode_wilayah": "35.18.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.18",
+      "kode_kecamatan": "35.18.15"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Toboali",
+      "kode_wilayah": "19.03.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.03",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Lepar",
+      "kode_wilayah": "19.03.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.03",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Airgegas",
+      "kode_wilayah": "19.03.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.03",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Simpang Rimba",
+      "kode_wilayah": "19.03.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.03",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Payung",
+      "kode_wilayah": "19.03.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.03",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Tukak Sadai",
+      "kode_wilayah": "19.03.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.03",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Pulau Besar",
+      "kode_wilayah": "19.03.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.03",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Kepulauan Pongok",
+      "kode_wilayah": "19.03.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.03",
+      "kode_provinsi": "19"
+    }
+  ]
+}

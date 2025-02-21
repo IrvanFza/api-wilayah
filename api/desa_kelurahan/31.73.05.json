@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kebon Jeruk",
+      "kode_wilayah": "31.73.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.05"
+    },
+    {
+      "nama_wilayah": "Sukabumi Utara",
+      "kode_wilayah": "31.73.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.05"
+    },
+    {
+      "nama_wilayah": "Sukabumi Selatan",
+      "kode_wilayah": "31.73.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.05"
+    },
+    {
+      "nama_wilayah": "Kelapa Dua",
+      "kode_wilayah": "31.73.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.05"
+    },
+    {
+      "nama_wilayah": "Duri Kepa",
+      "kode_wilayah": "31.73.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.05"
+    },
+    {
+      "nama_wilayah": "Kedoya Utara",
+      "kode_wilayah": "31.73.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.05"
+    },
+    {
+      "nama_wilayah": "Kedoya Selatan",
+      "kode_wilayah": "31.73.05.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.05"
+    }
+  ]
+}

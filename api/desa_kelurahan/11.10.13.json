@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Singkohor",
+      "kode_wilayah": "11.10.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.13"
+    },
+    {
+      "nama_wilayah": "Lae Sipola",
+      "kode_wilayah": "11.10.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.13"
+    },
+    {
+      "nama_wilayah": "Lae Pinang",
+      "kode_wilayah": "11.10.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.13"
+    },
+    {
+      "nama_wilayah": "Mukti Jaya",
+      "kode_wilayah": "11.10.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.13"
+    },
+    {
+      "nama_wilayah": "Sri Kayu",
+      "kode_wilayah": "11.10.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.13"
+    },
+    {
+      "nama_wilayah": "Pea Jambu",
+      "kode_wilayah": "11.10.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.13"
+    }
+  ]
+}

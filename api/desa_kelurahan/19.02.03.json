@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Selat Nasik",
+      "kode_wilayah": "19.02.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.02",
+      "kode_kecamatan": "19.02.03"
+    },
+    {
+      "nama_wilayah": "Petaling",
+      "kode_wilayah": "19.02.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.02",
+      "kode_kecamatan": "19.02.03"
+    },
+    {
+      "nama_wilayah": "Suak Gual",
+      "kode_wilayah": "19.02.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.02",
+      "kode_kecamatan": "19.02.03"
+    },
+    {
+      "nama_wilayah": "Pulau Gersik",
+      "kode_wilayah": "19.02.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.02",
+      "kode_kecamatan": "19.02.03"
+    }
+  ]
+}

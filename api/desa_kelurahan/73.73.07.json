@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Mawa",
+      "kode_wilayah": "73.73.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.07"
+    },
+    {
+      "nama_wilayah": "Purangi",
+      "kode_wilayah": "73.73.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.07"
+    },
+    {
+      "nama_wilayah": "Peta",
+      "kode_wilayah": "73.73.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.07"
+    },
+    {
+      "nama_wilayah": "Sendana",
+      "kode_wilayah": "73.73.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.07"
+    }
+  ]
+}

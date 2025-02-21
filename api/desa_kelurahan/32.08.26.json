@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Citapen",
+      "kode_wilayah": "32.08.26.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.26"
+    },
+    {
+      "nama_wilayah": "Pasiragung",
+      "kode_wilayah": "32.08.26.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.26"
+    },
+    {
+      "nama_wilayah": "Tundagan",
+      "kode_wilayah": "32.08.26.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.26"
+    },
+    {
+      "nama_wilayah": "Bunigeulis",
+      "kode_wilayah": "32.08.26.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.26"
+    },
+    {
+      "nama_wilayah": "Hantara",
+      "kode_wilayah": "32.08.26.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.26"
+    },
+    {
+      "nama_wilayah": "Pakapasangirang",
+      "kode_wilayah": "32.08.26.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.26"
+    },
+    {
+      "nama_wilayah": "Cikondang",
+      "kode_wilayah": "32.08.26.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.26"
+    },
+    {
+      "nama_wilayah": "Pakapasanhilir",
+      "kode_wilayah": "32.08.26.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.26"
+    }
+  ]
+}

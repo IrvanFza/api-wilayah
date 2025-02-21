@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Dabo",
+      "kode_wilayah": "21.04.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.01"
+    },
+    {
+      "nama_wilayah": "Dabo Lama",
+      "kode_wilayah": "21.04.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.01"
+    },
+    {
+      "nama_wilayah": "Sungailumpur",
+      "kode_wilayah": "21.04.01.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.01"
+    },
+    {
+      "nama_wilayah": "Batu Berdaun",
+      "kode_wilayah": "21.04.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.01"
+    },
+    {
+      "nama_wilayah": "Tanjung Harapan",
+      "kode_wilayah": "21.04.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.01"
+    },
+    {
+      "nama_wilayah": "Batu Kacang",
+      "kode_wilayah": "21.04.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.01"
+    }
+  ]
+}

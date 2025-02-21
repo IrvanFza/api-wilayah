@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kandang Limun",
+      "kode_wilayah": "17.71.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.04"
+    },
+    {
+      "nama_wilayah": "Bentiring",
+      "kode_wilayah": "17.71.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.04"
+    },
+    {
+      "nama_wilayah": "Pematang Gubernur",
+      "kode_wilayah": "17.71.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.04"
+    },
+    {
+      "nama_wilayah": "Rawa Makmur",
+      "kode_wilayah": "17.71.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.04"
+    },
+    {
+      "nama_wilayah": "Beringin Raya",
+      "kode_wilayah": "17.71.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.04"
+    },
+    {
+      "nama_wilayah": "Bentiring Permai",
+      "kode_wilayah": "17.71.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.04"
+    },
+    {
+      "nama_wilayah": "Rawa Makmur Permai",
+      "kode_wilayah": "17.71.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.04"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Damar",
+      "kode_wilayah": "62.08.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.08",
+      "kode_kecamatan": "62.08.04"
+    },
+    {
+      "nama_wilayah": "Sungai Tabuk",
+      "kode_wilayah": "62.08.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.08",
+      "kode_kecamatan": "62.08.04"
+    },
+    {
+      "nama_wilayah": "Sungai Cabang Barat",
+      "kode_wilayah": "62.08.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.08",
+      "kode_kecamatan": "62.08.04"
+    },
+    {
+      "nama_wilayah": "Sungai Pasir",
+      "kode_wilayah": "62.08.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.08",
+      "kode_kecamatan": "62.08.04"
+    }
+  ]
+}

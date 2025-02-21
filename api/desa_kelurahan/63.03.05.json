@@ -1,0 +1,214 @@
+{
+  "status": "success",
+  "total": 26,
+  "data": [
+    {
+      "nama_wilayah": "Keraton",
+      "kode_wilayah": "63.03.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Jawa",
+      "kode_wilayah": "63.03.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Pasayangan",
+      "kode_wilayah": "63.03.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Murung Keraton",
+      "kode_wilayah": "63.03.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Sungai Paring",
+      "kode_wilayah": "63.03.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Tanjung Rema Darat",
+      "kode_wilayah": "63.03.05.1055",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Sekumpul",
+      "kode_wilayah": "63.03.05.1059",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Sungai Sipai",
+      "kode_wilayah": "63.03.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Pasayangan Selatan",
+      "kode_wilayah": "63.03.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Tanjung Rema",
+      "kode_wilayah": "63.03.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Bincau",
+      "kode_wilayah": "63.03.05.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Murung Kenanga",
+      "kode_wilayah": "63.03.05.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Tunggul Irang",
+      "kode_wilayah": "63.03.05.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Tambak Baru",
+      "kode_wilayah": "63.03.05.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Cindai Alus",
+      "kode_wilayah": "63.03.05.2034",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Tungkaran",
+      "kode_wilayah": "63.03.05.2036",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Tambak Baru Ulu",
+      "kode_wilayah": "63.03.05.2037",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Bincau Muara",
+      "kode_wilayah": "63.03.05.2040",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Tunggul Irang Ilir",
+      "kode_wilayah": "63.03.05.2042",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Tunggul Irang Ulu",
+      "kode_wilayah": "63.03.05.2043",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Labuan Tabu",
+      "kode_wilayah": "63.03.05.2051",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Indrasari",
+      "kode_wilayah": "63.03.05.2052",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Jawa Laut",
+      "kode_wilayah": "63.03.05.2054",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Pasayangan Utara",
+      "kode_wilayah": "63.03.05.2056",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Pasayangan Barat",
+      "kode_wilayah": "63.03.05.2057",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    },
+    {
+      "nama_wilayah": "Tambak Baru Ilir",
+      "kode_wilayah": "63.03.05.2058",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.03",
+      "kode_kecamatan": "63.03.05"
+    }
+  ]
+}

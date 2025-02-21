@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Dawuan Timur",
+      "kode_wilayah": "32.15.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.13"
+    },
+    {
+      "nama_wilayah": "Kalihurip",
+      "kode_wilayah": "32.15.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.13"
+    },
+    {
+      "nama_wilayah": "Cikampek Kota",
+      "kode_wilayah": "32.15.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.13"
+    },
+    {
+      "nama_wilayah": "Dawuan Tengah",
+      "kode_wilayah": "32.15.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.13"
+    },
+    {
+      "nama_wilayah": "Cikampek Selatan",
+      "kode_wilayah": "32.15.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.13"
+    },
+    {
+      "nama_wilayah": "Cikampek Pusaka",
+      "kode_wilayah": "32.15.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.13"
+    },
+    {
+      "nama_wilayah": "Cikampek Barat",
+      "kode_wilayah": "32.15.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.13"
+    },
+    {
+      "nama_wilayah": "Cikampek Timur",
+      "kode_wilayah": "32.15.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.13"
+    },
+    {
+      "nama_wilayah": "Kamojing",
+      "kode_wilayah": "32.15.13.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.13"
+    },
+    {
+      "nama_wilayah": "Dawuan Barat",
+      "kode_wilayah": "32.15.13.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.13"
+    }
+  ]
+}

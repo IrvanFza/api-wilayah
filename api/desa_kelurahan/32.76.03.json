@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pasir Putih",
+      "kode_wilayah": "32.76.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.03"
+    },
+    {
+      "nama_wilayah": "Bedahan",
+      "kode_wilayah": "32.76.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.03"
+    },
+    {
+      "nama_wilayah": "Pengasinan",
+      "kode_wilayah": "32.76.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.03"
+    },
+    {
+      "nama_wilayah": "Cinangka",
+      "kode_wilayah": "32.76.03.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.03"
+    },
+    {
+      "nama_wilayah": "Sawangan",
+      "kode_wilayah": "32.76.03.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.03"
+    },
+    {
+      "nama_wilayah": "Sawangan Baru",
+      "kode_wilayah": "32.76.03.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.03"
+    },
+    {
+      "nama_wilayah": "Kedaung",
+      "kode_wilayah": "32.76.03.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.03"
+    }
+  ]
+}

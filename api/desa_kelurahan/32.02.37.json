@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pabuaran",
+      "kode_wilayah": "32.02.37.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.37"
+    },
+    {
+      "nama_wilayah": "Ciwalat",
+      "kode_wilayah": "32.02.37.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.37"
+    },
+    {
+      "nama_wilayah": "Sirnasari",
+      "kode_wilayah": "32.02.37.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.37"
+    },
+    {
+      "nama_wilayah": "Bantarsari",
+      "kode_wilayah": "32.02.37.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.37"
+    },
+    {
+      "nama_wilayah": "Sukajaya",
+      "kode_wilayah": "32.02.37.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.37"
+    },
+    {
+      "nama_wilayah": "Cibadak",
+      "kode_wilayah": "32.02.37.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.37"
+    },
+    {
+      "nama_wilayah": "Lembur Sawah",
+      "kode_wilayah": "32.02.37.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.37"
+    }
+  ]
+}

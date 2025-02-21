@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Simu",
+      "kode_wilayah": "52.04.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.24"
+    },
+    {
+      "nama_wilayah": "Maronge",
+      "kode_wilayah": "52.04.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.24"
+    },
+    {
+      "nama_wilayah": "Pemasar",
+      "kode_wilayah": "52.04.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.24"
+    },
+    {
+      "nama_wilayah": "Labuhan Sangoro",
+      "kode_wilayah": "52.04.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.24"
+    }
+  ]
+}

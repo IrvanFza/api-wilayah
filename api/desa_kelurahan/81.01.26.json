@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Ouw",
+      "kode_wilayah": "81.01.26.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.26"
+    },
+    {
+      "nama_wilayah": "Ullath",
+      "kode_wilayah": "81.01.26.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.26"
+    },
+    {
+      "nama_wilayah": "Siri Sori Islam",
+      "kode_wilayah": "81.01.26.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.26"
+    },
+    {
+      "nama_wilayah": "Siri Sori Amalatu",
+      "kode_wilayah": "81.01.26.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.26"
+    },
+    {
+      "nama_wilayah": "Mahu",
+      "kode_wilayah": "81.01.26.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.26"
+    },
+    {
+      "nama_wilayah": "Tuhaha",
+      "kode_wilayah": "81.01.26.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.26"
+    },
+    {
+      "nama_wilayah": "Ihamahu",
+      "kode_wilayah": "81.01.26.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.26"
+    },
+    {
+      "nama_wilayah": "Iha",
+      "kode_wilayah": "81.01.26.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.26"
+    },
+    {
+      "nama_wilayah": "Nolloth",
+      "kode_wilayah": "81.01.26.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.26"
+    },
+    {
+      "nama_wilayah": "Itawaka",
+      "kode_wilayah": "81.01.26.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.26"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Arab Melayu",
+      "kode_wilayah": "15.71.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.05"
+    },
+    {
+      "nama_wilayah": "Mudung Laut",
+      "kode_wilayah": "15.71.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.05"
+    },
+    {
+      "nama_wilayah": "Jelmu",
+      "kode_wilayah": "15.71.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.05"
+    },
+    {
+      "nama_wilayah": "Tengah",
+      "kode_wilayah": "15.71.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.05"
+    },
+    {
+      "nama_wilayah": "Tahtul Yaman",
+      "kode_wilayah": "15.71.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.05"
+    },
+    {
+      "nama_wilayah": "Tanjung Johor",
+      "kode_wilayah": "15.71.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.05"
+    }
+  ]
+}

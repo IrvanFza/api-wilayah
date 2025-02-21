@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Buli",
+      "kode_wilayah": "82.06.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.02"
+    },
+    {
+      "nama_wilayah": "Buli Asal",
+      "kode_wilayah": "82.06.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.02"
+    },
+    {
+      "nama_wilayah": "Buli Karya",
+      "kode_wilayah": "82.06.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.02"
+    },
+    {
+      "nama_wilayah": "Wayafli",
+      "kode_wilayah": "82.06.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.02"
+    },
+    {
+      "nama_wilayah": "Sailal",
+      "kode_wilayah": "82.06.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.02"
+    },
+    {
+      "nama_wilayah": "Geltoli",
+      "kode_wilayah": "82.06.02.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.02"
+    },
+    {
+      "nama_wilayah": "Pekaulang",
+      "kode_wilayah": "82.06.02.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.02"
+    },
+    {
+      "nama_wilayah": "Teluk Buli",
+      "kode_wilayah": "82.06.02.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.02"
+    },
+    {
+      "nama_wilayah": "Gamesan",
+      "kode_wilayah": "82.06.02.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.02"
+    },
+    {
+      "nama_wilayah": "Baburino",
+      "kode_wilayah": "82.06.02.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.02"
+    }
+  ]
+}

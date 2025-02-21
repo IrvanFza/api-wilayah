@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Cikujang",
+      "kode_wilayah": "32.02.27.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.27"
+    },
+    {
+      "nama_wilayah": "Gunungguruh",
+      "kode_wilayah": "32.02.27.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.27"
+    },
+    {
+      "nama_wilayah": "Cibentang",
+      "kode_wilayah": "32.02.27.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.27"
+    },
+    {
+      "nama_wilayah": "Sirnaresmi",
+      "kode_wilayah": "32.02.27.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.27"
+    },
+    {
+      "nama_wilayah": "Kebonmanggu",
+      "kode_wilayah": "32.02.27.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.27"
+    },
+    {
+      "nama_wilayah": "Cibolang",
+      "kode_wilayah": "32.02.27.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.27"
+    },
+    {
+      "nama_wilayah": "Mangkalaya",
+      "kode_wilayah": "32.02.27.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.27"
+    }
+  ]
+}

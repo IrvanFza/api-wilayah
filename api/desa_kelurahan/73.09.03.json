@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Kalabbirang",
+      "kode_wilayah": "73.09.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.03"
+    },
+    {
+      "nama_wilayah": "Leang-Leang",
+      "kode_wilayah": "73.09.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.03"
+    },
+    {
+      "nama_wilayah": "Alatengae",
+      "kode_wilayah": "73.09.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.03"
+    },
+    {
+      "nama_wilayah": "Minasa Baji",
+      "kode_wilayah": "73.09.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.03"
+    },
+    {
+      "nama_wilayah": "Tukamasea",
+      "kode_wilayah": "73.09.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.03"
+    },
+    {
+      "nama_wilayah": "Mattoanging",
+      "kode_wilayah": "73.09.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.03"
+    },
+    {
+      "nama_wilayah": "Mangeloreng",
+      "kode_wilayah": "73.09.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.03"
+    },
+    {
+      "nama_wilayah": "Baruga",
+      "kode_wilayah": "73.09.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.03"
+    }
+  ]
+}

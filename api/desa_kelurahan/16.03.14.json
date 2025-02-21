@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Aur",
+      "kode_wilayah": "16.03.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.14"
+    },
+    {
+      "nama_wilayah": "Beringin",
+      "kode_wilayah": "16.03.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.14"
+    },
+    {
+      "nama_wilayah": "Kota Baru",
+      "kode_wilayah": "16.03.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.14"
+    },
+    {
+      "nama_wilayah": "Pagar Gunung",
+      "kode_wilayah": "16.03.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.14"
+    },
+    {
+      "nama_wilayah": "Gunung Raja",
+      "kode_wilayah": "16.03.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.14"
+    },
+    {
+      "nama_wilayah": "Tanjung Kemala",
+      "kode_wilayah": "16.03.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.14"
+    },
+    {
+      "nama_wilayah": "Suka Merindu",
+      "kode_wilayah": "16.03.14.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.14"
+    },
+    {
+      "nama_wilayah": "Jiwa Baru",
+      "kode_wilayah": "16.03.14.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.14"
+    },
+    {
+      "nama_wilayah": "Air Asam",
+      "kode_wilayah": "16.03.14.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.14"
+    },
+    {
+      "nama_wilayah": "Menanti",
+      "kode_wilayah": "16.03.14.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.14"
+    }
+  ]
+}

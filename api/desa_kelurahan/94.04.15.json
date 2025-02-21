@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Limau Asri Timur",
+      "kode_wilayah": "94.04.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.15"
+    },
+    {
+      "nama_wilayah": "Wangirja",
+      "kode_wilayah": "94.04.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.15"
+    },
+    {
+      "nama_wilayah": "Iwaka",
+      "kode_wilayah": "94.04.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.15"
+    },
+    {
+      "nama_wilayah": "Naena Muktipura",
+      "kode_wilayah": "94.04.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.15"
+    },
+    {
+      "nama_wilayah": "Mulia Kencana",
+      "kode_wilayah": "94.04.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.15"
+    },
+    {
+      "nama_wilayah": "Pigapu",
+      "kode_wilayah": "94.04.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.15"
+    },
+    {
+      "nama_wilayah": "Limau Asri Barat",
+      "kode_wilayah": "94.04.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.15"
+    }
+  ]
+}

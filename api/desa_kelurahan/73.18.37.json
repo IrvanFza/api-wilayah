@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Rano",
+      "kode_wilayah": "73.18.37.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.37"
+    },
+    {
+      "nama_wilayah": "Rano Utara",
+      "kode_wilayah": "73.18.37.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.37"
+    },
+    {
+      "nama_wilayah": "Rumandan",
+      "kode_wilayah": "73.18.37.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.37"
+    },
+    {
+      "nama_wilayah": "Rano Tengah",
+      "kode_wilayah": "73.18.37.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.37"
+    },
+    {
+      "nama_wilayah": "Rano Timur",
+      "kode_wilayah": "73.18.37.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.37"
+    }
+  ]
+}

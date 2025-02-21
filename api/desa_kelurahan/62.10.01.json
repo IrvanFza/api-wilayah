@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sepang Simin",
+      "kode_wilayah": "62.10.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.10",
+      "kode_kecamatan": "62.10.01"
+    },
+    {
+      "nama_wilayah": "Sepang Kota",
+      "kode_wilayah": "62.10.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.10",
+      "kode_kecamatan": "62.10.01"
+    },
+    {
+      "nama_wilayah": "Tewai Baru",
+      "kode_wilayah": "62.10.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.10",
+      "kode_kecamatan": "62.10.01"
+    },
+    {
+      "nama_wilayah": "Tanjung Karitak",
+      "kode_wilayah": "62.10.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.10",
+      "kode_kecamatan": "62.10.01"
+    },
+    {
+      "nama_wilayah": "Pamatang Limau",
+      "kode_wilayah": "62.10.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.10",
+      "kode_kecamatan": "62.10.01"
+    },
+    {
+      "nama_wilayah": "Tampelas",
+      "kode_wilayah": "62.10.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.10",
+      "kode_kecamatan": "62.10.01"
+    },
+    {
+      "nama_wilayah": "Rabauh",
+      "kode_wilayah": "62.10.01.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.10",
+      "kode_kecamatan": "62.10.01"
+    }
+  ]
+}

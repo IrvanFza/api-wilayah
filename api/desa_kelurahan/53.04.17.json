@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Lasiolat",
+      "kode_wilayah": "53.04.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.17"
+    },
+    {
+      "nama_wilayah": "Maneikun",
+      "kode_wilayah": "53.04.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.17"
+    },
+    {
+      "nama_wilayah": "Lakan Mau",
+      "kode_wilayah": "53.04.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.17"
+    },
+    {
+      "nama_wilayah": "Dualasi Raiulun",
+      "kode_wilayah": "53.04.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.17"
+    },
+    {
+      "nama_wilayah": "Dualasi",
+      "kode_wilayah": "53.04.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.17"
+    },
+    {
+      "nama_wilayah": "Fatulotu",
+      "kode_wilayah": "53.04.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.17"
+    },
+    {
+      "nama_wilayah": "Baudaok",
+      "kode_wilayah": "53.04.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.17"
+    }
+  ]
+}

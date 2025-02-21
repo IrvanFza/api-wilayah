@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Temia",
+      "kode_wilayah": "95.01.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.07"
+    },
+    {
+      "nama_wilayah": "Anegera",
+      "kode_wilayah": "95.01.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.07"
+    },
+    {
+      "nama_wilayah": "Elabukama",
+      "kode_wilayah": "95.01.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.07"
+    },
+    {
+      "nama_wilayah": "Siapma",
+      "kode_wilayah": "95.01.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.07"
+    },
+    {
+      "nama_wilayah": "Hamuhi",
+      "kode_wilayah": "95.01.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.07"
+    },
+    {
+      "nama_wilayah": "Kosihave",
+      "kode_wilayah": "95.01.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.07"
+    },
+    {
+      "nama_wilayah": "Mulupalek",
+      "kode_wilayah": "95.01.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.07"
+    },
+    {
+      "nama_wilayah": "Pumasili",
+      "kode_wilayah": "95.01.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.07"
+    },
+    {
+      "nama_wilayah": "Abulukmo",
+      "kode_wilayah": "95.01.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.07"
+    },
+    {
+      "nama_wilayah": "Yumugima",
+      "kode_wilayah": "95.01.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.07"
+    }
+  ]
+}

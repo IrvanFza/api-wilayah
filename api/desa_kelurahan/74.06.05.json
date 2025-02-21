@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Teomokole",
+      "kode_wilayah": "74.06.05.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.05"
+    },
+    {
+      "nama_wilayah": "Rahampuu",
+      "kode_wilayah": "74.06.05.1016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.05"
+    },
+    {
+      "nama_wilayah": "Rahadopi",
+      "kode_wilayah": "74.06.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.05"
+    },
+    {
+      "nama_wilayah": "Tirongkotua",
+      "kode_wilayah": "74.06.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.05"
+    }
+  ]
+}

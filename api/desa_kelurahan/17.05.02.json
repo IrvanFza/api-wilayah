@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Lubuk Kebur",
+      "kode_wilayah": "17.05.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.02"
+    },
+    {
+      "nama_wilayah": "Pasar Tais",
+      "kode_wilayah": "17.05.02.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.02"
+    },
+    {
+      "nama_wilayah": "Lubuk Lintang",
+      "kode_wilayah": "17.05.02.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.02"
+    },
+    {
+      "nama_wilayah": "Talang Saling",
+      "kode_wilayah": "17.05.02.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.02"
+    },
+    {
+      "nama_wilayah": "Dusun Baru",
+      "kode_wilayah": "17.05.02.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.02"
+    },
+    {
+      "nama_wilayah": "Talang Dantuk",
+      "kode_wilayah": "17.05.02.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.02"
+    },
+    {
+      "nama_wilayah": "Napal",
+      "kode_wilayah": "17.05.02.1024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.02"
+    }
+  ]
+}

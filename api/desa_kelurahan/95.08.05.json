@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Geselma",
+      "kode_wilayah": "95.08.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.05"
+    },
+    {
+      "nama_wilayah": "Talem",
+      "kode_wilayah": "95.08.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.05"
+    },
+    {
+      "nama_wilayah": "Kosolpem",
+      "kode_wilayah": "95.08.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.05"
+    }
+  ]
+}

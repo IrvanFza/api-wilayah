@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Teluk Pandak",
+      "kode_wilayah": "15.08.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.05"
+    },
+    {
+      "nama_wilayah": "Empelu",
+      "kode_wilayah": "15.08.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.05"
+    },
+    {
+      "nama_wilayah": "Pasar Lubuk Landai",
+      "kode_wilayah": "15.08.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.05"
+    },
+    {
+      "nama_wilayah": "Sungai Gambir",
+      "kode_wilayah": "15.08.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.05"
+    },
+    {
+      "nama_wilayah": "Candi",
+      "kode_wilayah": "15.08.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.05"
+    },
+    {
+      "nama_wilayah": "Tanjung",
+      "kode_wilayah": "15.08.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.05"
+    },
+    {
+      "nama_wilayah": "Tanah Bekali",
+      "kode_wilayah": "15.08.05.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.05"
+    },
+    {
+      "nama_wilayah": "Telentam",
+      "kode_wilayah": "15.08.05.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.05"
+    },
+    {
+      "nama_wilayah": "Pasar Rantau Embacang",
+      "kode_wilayah": "15.08.05.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.05"
+    },
+    {
+      "nama_wilayah": "Tenam",
+      "kode_wilayah": "15.08.05.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.05"
+    }
+  ]
+}

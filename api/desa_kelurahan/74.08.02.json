@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Olo-Oloho",
+      "kode_wilayah": "74.08.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.02"
+    },
+    {
+      "nama_wilayah": "Kosali",
+      "kode_wilayah": "74.08.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.02"
+    },
+    {
+      "nama_wilayah": "Mikuasi",
+      "kode_wilayah": "74.08.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.02"
+    },
+    {
+      "nama_wilayah": "Kasumeeto",
+      "kode_wilayah": "74.08.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.02"
+    },
+    {
+      "nama_wilayah": "Lalombundi",
+      "kode_wilayah": "74.08.02.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.02"
+    },
+    {
+      "nama_wilayah": "Toaha",
+      "kode_wilayah": "74.08.02.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.02"
+    },
+    {
+      "nama_wilayah": "Kondara",
+      "kode_wilayah": "74.08.02.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.02"
+    },
+    {
+      "nama_wilayah": "Sipakainge",
+      "kode_wilayah": "74.08.02.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.02"
+    },
+    {
+      "nama_wilayah": "Seuwwa",
+      "kode_wilayah": "74.08.02.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.02"
+    },
+    {
+      "nama_wilayah": "Alipato",
+      "kode_wilayah": "74.08.02.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.02"
+    },
+    {
+      "nama_wilayah": "Lalume",
+      "kode_wilayah": "74.08.02.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.02"
+    }
+  ]
+}

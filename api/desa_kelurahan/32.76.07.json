@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Cipayung",
+      "kode_wilayah": "32.76.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.07"
+    },
+    {
+      "nama_wilayah": "Cipayung Jaya",
+      "kode_wilayah": "32.76.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.07"
+    },
+    {
+      "nama_wilayah": "Ratu Jaya",
+      "kode_wilayah": "32.76.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.07"
+    },
+    {
+      "nama_wilayah": "Bojong Pondok Terong",
+      "kode_wilayah": "32.76.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.07"
+    },
+    {
+      "nama_wilayah": "Pondok Jaya",
+      "kode_wilayah": "32.76.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.07"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Fafado",
+      "kode_wilayah": "91.15.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.07"
+    },
+    {
+      "nama_wilayah": "Wobari",
+      "kode_wilayah": "91.15.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.07"
+    },
+    {
+      "nama_wilayah": "Aimasi",
+      "kode_wilayah": "91.15.07.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.07"
+    },
+    {
+      "nama_wilayah": "Mui",
+      "kode_wilayah": "91.15.07.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.07"
+    },
+    {
+      "nama_wilayah": "Waghare",
+      "kode_wilayah": "91.15.07.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.07"
+    },
+    {
+      "nama_wilayah": "Ghaiwando",
+      "kode_wilayah": "91.15.07.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.07"
+    },
+    {
+      "nama_wilayah": "Womorisi",
+      "kode_wilayah": "91.15.07.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.07"
+    },
+    {
+      "nama_wilayah": "Orambin",
+      "kode_wilayah": "91.15.07.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.07"
+    },
+    {
+      "nama_wilayah": "Unareu",
+      "kode_wilayah": "91.15.07.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.07"
+    },
+    {
+      "nama_wilayah": "Ghaiwaru",
+      "kode_wilayah": "91.15.07.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.07"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Selatpanjang Kota",
+      "kode_wilayah": "14.10.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.01"
+    },
+    {
+      "nama_wilayah": "Selatpanjang Barat",
+      "kode_wilayah": "14.10.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.01"
+    },
+    {
+      "nama_wilayah": "Selatpanjang Selatan",
+      "kode_wilayah": "14.10.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.01"
+    },
+    {
+      "nama_wilayah": "Selatpanjang Timur",
+      "kode_wilayah": "14.10.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.01"
+    },
+    {
+      "nama_wilayah": "Banglas",
+      "kode_wilayah": "14.10.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.01"
+    },
+    {
+      "nama_wilayah": "Alah Air",
+      "kode_wilayah": "14.10.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.01"
+    },
+    {
+      "nama_wilayah": "Alah Air Timur",
+      "kode_wilayah": "14.10.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.01"
+    },
+    {
+      "nama_wilayah": "Sesap",
+      "kode_wilayah": "14.10.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.01"
+    },
+    {
+      "nama_wilayah": "Banglas Barat",
+      "kode_wilayah": "14.10.01.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.01"
+    }
+  ]
+}

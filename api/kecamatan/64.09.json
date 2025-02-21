@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Penajam",
+      "kode_wilayah": "64.09.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.09",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Waru",
+      "kode_wilayah": "64.09.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.09",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Babulu",
+      "kode_wilayah": "64.09.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.09",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Sepaku",
+      "kode_wilayah": "64.09.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.09",
+      "kode_provinsi": "64"
+    }
+  ]
+}

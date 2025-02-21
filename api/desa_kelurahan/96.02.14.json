@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Alma",
+      "kode_wilayah": "96.02.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.14"
+    },
+    {
+      "nama_wilayah": "Klamit",
+      "kode_wilayah": "96.02.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.14"
+    },
+    {
+      "nama_wilayah": "Kofalit",
+      "kode_wilayah": "96.02.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.14"
+    },
+    {
+      "nama_wilayah": "Mlabolo",
+      "kode_wilayah": "96.02.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.14"
+    },
+    {
+      "nama_wilayah": "Wenslolo",
+      "kode_wilayah": "96.02.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.14"
+    }
+  ]
+}

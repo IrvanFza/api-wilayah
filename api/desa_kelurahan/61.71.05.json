@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sungaibangkong",
+      "kode_wilayah": "61.71.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.71",
+      "kode_kecamatan": "61.71.05"
+    },
+    {
+      "nama_wilayah": "Daratsekip",
+      "kode_wilayah": "61.71.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.71",
+      "kode_kecamatan": "61.71.05"
+    },
+    {
+      "nama_wilayah": "Tengah",
+      "kode_wilayah": "61.71.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.71",
+      "kode_kecamatan": "61.71.05"
+    },
+    {
+      "nama_wilayah": "Mariana",
+      "kode_wilayah": "61.71.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.71",
+      "kode_kecamatan": "61.71.05"
+    },
+    {
+      "nama_wilayah": "Sungaijawi",
+      "kode_wilayah": "61.71.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.71",
+      "kode_kecamatan": "61.71.05"
+    }
+  ]
+}

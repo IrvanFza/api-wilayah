@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Gondoriyo",
+      "kode_wilayah": "33.74.15.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.15"
+    },
+    {
+      "nama_wilayah": "Podorejo",
+      "kode_wilayah": "33.74.15.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.15"
+    },
+    {
+      "nama_wilayah": "Bringin",
+      "kode_wilayah": "33.74.15.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.15"
+    },
+    {
+      "nama_wilayah": "Purwoyoso",
+      "kode_wilayah": "33.74.15.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.15"
+    },
+    {
+      "nama_wilayah": "Kalipancur",
+      "kode_wilayah": "33.74.15.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.15"
+    },
+    {
+      "nama_wilayah": "Bambankerep",
+      "kode_wilayah": "33.74.15.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.15"
+    },
+    {
+      "nama_wilayah": "Ngaliyan",
+      "kode_wilayah": "33.74.15.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.15"
+    },
+    {
+      "nama_wilayah": "Tambakaji",
+      "kode_wilayah": "33.74.15.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.15"
+    },
+    {
+      "nama_wilayah": "Wonosari",
+      "kode_wilayah": "33.74.15.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.15"
+    },
+    {
+      "nama_wilayah": "Wates",
+      "kode_wilayah": "33.74.15.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.15"
+    }
+  ]
+}

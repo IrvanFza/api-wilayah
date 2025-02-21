@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sayo",
+      "kode_wilayah": "72.02.21.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.21"
+    },
+    {
+      "nama_wilayah": "Bukit Bambu",
+      "kode_wilayah": "72.02.21.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.21"
+    },
+    {
+      "nama_wilayah": "Kawua",
+      "kode_wilayah": "72.02.21.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.21"
+    },
+    {
+      "nama_wilayah": "Ronononcu",
+      "kode_wilayah": "72.02.21.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.21"
+    },
+    {
+      "nama_wilayah": "Lembomawo",
+      "kode_wilayah": "72.02.21.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.21"
+    }
+  ]
+}

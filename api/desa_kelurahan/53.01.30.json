@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Fatumonas",
+      "kode_wilayah": "53.01.30.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.30"
+    },
+    {
+      "nama_wilayah": "Binafun",
+      "kode_wilayah": "53.01.30.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.30"
+    },
+    {
+      "nama_wilayah": "Bitobe",
+      "kode_wilayah": "53.01.30.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.30"
+    },
+    {
+      "nama_wilayah": "Bonmuti",
+      "kode_wilayah": "53.01.30.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.30"
+    }
+  ]
+}

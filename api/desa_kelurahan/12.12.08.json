@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Parsaoran Ajibata",
+      "kode_wilayah": "12.12.08.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.08"
+    },
+    {
+      "nama_wilayah": "Sigapiton",
+      "kode_wilayah": "12.12.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.08"
+    },
+    {
+      "nama_wilayah": "Pardomuan Ajibata",
+      "kode_wilayah": "12.12.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.08"
+    },
+    {
+      "nama_wilayah": "Pardamean Ajibata",
+      "kode_wilayah": "12.12.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.08"
+    },
+    {
+      "nama_wilayah": "Motung",
+      "kode_wilayah": "12.12.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.08"
+    },
+    {
+      "nama_wilayah": "Horsik",
+      "kode_wilayah": "12.12.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.08"
+    },
+    {
+      "nama_wilayah": "Sirungkungon",
+      "kode_wilayah": "12.12.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.08"
+    },
+    {
+      "nama_wilayah": "Parsaoran Sibisa",
+      "kode_wilayah": "12.12.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.08"
+    },
+    {
+      "nama_wilayah": "Pardamean Sibisa",
+      "kode_wilayah": "12.12.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.08"
+    },
+    {
+      "nama_wilayah": "Pardomuan Motung",
+      "kode_wilayah": "12.12.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.08"
+    }
+  ]
+}

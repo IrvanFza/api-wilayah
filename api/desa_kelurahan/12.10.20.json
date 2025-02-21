@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Sarang Elang",
+      "kode_wilayah": "12.10.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.20"
+    },
+    {
+      "nama_wilayah": "Perkebunan Ajamu",
+      "kode_wilayah": "12.10.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.20"
+    },
+    {
+      "nama_wilayah": "Teluk Sentosa",
+      "kode_wilayah": "12.10.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.20"
+    },
+    {
+      "nama_wilayah": "Cinta Makmur",
+      "kode_wilayah": "12.10.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.20"
+    },
+    {
+      "nama_wilayah": "Sei Sentosa",
+      "kode_wilayah": "12.10.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.20"
+    },
+    {
+      "nama_wilayah": "Meranti Paham",
+      "kode_wilayah": "12.10.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.20"
+    },
+    {
+      "nama_wilayah": "Sei Jawi-Jawi",
+      "kode_wilayah": "12.10.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.20"
+    }
+  ]
+}

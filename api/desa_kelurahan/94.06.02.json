@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Bobomani",
+      "kode_wilayah": "94.06.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.02"
+    },
+    {
+      "nama_wilayah": "Abaimaida",
+      "kode_wilayah": "94.06.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.02"
+    },
+    {
+      "nama_wilayah": "Bonakunu",
+      "kode_wilayah": "94.06.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.02"
+    },
+    {
+      "nama_wilayah": "Dawaikunu",
+      "kode_wilayah": "94.06.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.02"
+    },
+    {
+      "nama_wilayah": "Magone",
+      "kode_wilayah": "94.06.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.02"
+    },
+    {
+      "nama_wilayah": "Diyoudimi",
+      "kode_wilayah": "94.06.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.02"
+    },
+    {
+      "nama_wilayah": "Obaikagopa",
+      "kode_wilayah": "94.06.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.02"
+    }
+  ]
+}

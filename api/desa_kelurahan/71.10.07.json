@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Mooat",
+      "kode_wilayah": "71.10.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.07"
+    },
+    {
+      "nama_wilayah": "Bongkudai Selatan",
+      "kode_wilayah": "71.10.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.07"
+    },
+    {
+      "nama_wilayah": "Bongkudai Baru",
+      "kode_wilayah": "71.10.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.07"
+    },
+    {
+      "nama_wilayah": "Bongkudai Utara",
+      "kode_wilayah": "71.10.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.07"
+    },
+    {
+      "nama_wilayah": "Bongkudai Timur",
+      "kode_wilayah": "71.10.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.07"
+    },
+    {
+      "nama_wilayah": "Guaan",
+      "kode_wilayah": "71.10.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.07"
+    },
+    {
+      "nama_wilayah": "Mototompiaan",
+      "kode_wilayah": "71.10.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.07"
+    },
+    {
+      "nama_wilayah": "Mokitompia",
+      "kode_wilayah": "71.10.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.07"
+    },
+    {
+      "nama_wilayah": "Kokapoi",
+      "kode_wilayah": "71.10.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.07"
+    },
+    {
+      "nama_wilayah": "Kokapoi Timur",
+      "kode_wilayah": "71.10.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.07"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Manggar",
+      "kode_wilayah": "64.71.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.01"
+    },
+    {
+      "nama_wilayah": "Lamaru",
+      "kode_wilayah": "64.71.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.01"
+    },
+    {
+      "nama_wilayah": "Teritip",
+      "kode_wilayah": "64.71.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.01"
+    },
+    {
+      "nama_wilayah": "Manggar Baru",
+      "kode_wilayah": "64.71.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.01"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Banjar Sari",
+      "kode_wilayah": "17.03.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.01"
+    },
+    {
+      "nama_wilayah": "Meok",
+      "kode_wilayah": "17.03.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.01"
+    },
+    {
+      "nama_wilayah": "Malakoni",
+      "kode_wilayah": "17.03.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.01"
+    },
+    {
+      "nama_wilayah": "Kaana",
+      "kode_wilayah": "17.03.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.01"
+    },
+    {
+      "nama_wilayah": "Kahyapu",
+      "kode_wilayah": "17.03.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.01"
+    },
+    {
+      "nama_wilayah": "Apoho",
+      "kode_wilayah": "17.03.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.01"
+    }
+  ]
+}

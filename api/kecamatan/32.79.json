@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Banjar",
+      "kode_wilayah": "32.79.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.79",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Pataruman",
+      "kode_wilayah": "32.79.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.79",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Purwaharja",
+      "kode_wilayah": "32.79.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.79",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Langensari",
+      "kode_wilayah": "32.79.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.79",
+      "kode_provinsi": "32"
+    }
+  ]
+}

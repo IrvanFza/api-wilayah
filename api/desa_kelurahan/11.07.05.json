@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Bangkeh",
+      "kode_wilayah": "11.07.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.05"
+    },
+    {
+      "nama_wilayah": "Pucok",
+      "kode_wilayah": "11.07.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.05"
+    },
+    {
+      "nama_wilayah": "Leupu",
+      "kode_wilayah": "11.07.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.05"
+    },
+    {
+      "nama_wilayah": "Pulo Lhoih",
+      "kode_wilayah": "11.07.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.05"
+    },
+    {
+      "nama_wilayah": "Keune",
+      "kode_wilayah": "11.07.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.05"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sembalun Bumbung",
+      "kode_wilayah": "52.03.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.15"
+    },
+    {
+      "nama_wilayah": "Sembalun Lawang",
+      "kode_wilayah": "52.03.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.15"
+    },
+    {
+      "nama_wilayah": "Sajang",
+      "kode_wilayah": "52.03.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.15"
+    },
+    {
+      "nama_wilayah": "Bilok Petung",
+      "kode_wilayah": "52.03.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.15"
+    },
+    {
+      "nama_wilayah": "Sembalun",
+      "kode_wilayah": "52.03.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.15"
+    },
+    {
+      "nama_wilayah": "Sembalun Timba Gading",
+      "kode_wilayah": "52.03.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.15"
+    }
+  ]
+}

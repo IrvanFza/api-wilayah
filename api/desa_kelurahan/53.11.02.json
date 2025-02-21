@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Rambangaru",
+      "kode_wilayah": "53.11.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.02"
+    },
+    {
+      "nama_wilayah": "Praibakul",
+      "kode_wilayah": "53.11.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.02"
+    },
+    {
+      "nama_wilayah": "Wunga",
+      "kode_wilayah": "53.11.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.02"
+    },
+    {
+      "nama_wilayah": "Kadahang",
+      "kode_wilayah": "53.11.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.02"
+    },
+    {
+      "nama_wilayah": "Napu",
+      "kode_wilayah": "53.11.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.02"
+    },
+    {
+      "nama_wilayah": "Mbatapuhu",
+      "kode_wilayah": "53.11.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.02"
+    },
+    {
+      "nama_wilayah": "Kalamba",
+      "kode_wilayah": "53.11.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.02"
+    }
+  ]
+}

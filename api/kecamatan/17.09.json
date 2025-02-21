@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Karang Tinggi",
+      "kode_wilayah": "17.09.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.09",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Talang Empat",
+      "kode_wilayah": "17.09.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.09",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Pondok Kelapa",
+      "kode_wilayah": "17.09.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.09",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Pematang Tiga",
+      "kode_wilayah": "17.09.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.09",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Pagar Jati",
+      "kode_wilayah": "17.09.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.09",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Taba Penanjung",
+      "kode_wilayah": "17.09.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.09",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Merigi Kelindang",
+      "kode_wilayah": "17.09.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.09",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Merigi Sakti",
+      "kode_wilayah": "17.09.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.09",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Pondok Kubang",
+      "kode_wilayah": "17.09.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.09",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Bang Haji",
+      "kode_wilayah": "17.09.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.09",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Semidang Lagan",
+      "kode_wilayah": "17.09.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.09",
+      "kode_provinsi": "17"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tambaksari",
+      "kode_wilayah": "32.07.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.16"
+    },
+    {
+      "nama_wilayah": "Mekarsari",
+      "kode_wilayah": "32.07.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.16"
+    },
+    {
+      "nama_wilayah": "Kaso",
+      "kode_wilayah": "32.07.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.16"
+    },
+    {
+      "nama_wilayah": "Kadupandak",
+      "kode_wilayah": "32.07.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.16"
+    },
+    {
+      "nama_wilayah": "Sukasari",
+      "kode_wilayah": "32.07.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.16"
+    },
+    {
+      "nama_wilayah": "Karangpaningal",
+      "kode_wilayah": "32.07.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.16"
+    }
+  ]
+}

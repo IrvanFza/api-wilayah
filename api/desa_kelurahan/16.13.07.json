@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Muara Kulam",
+      "kode_wilayah": "16.13.07.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.13",
+      "kode_kecamatan": "16.13.07"
+    },
+    {
+      "nama_wilayah": "Jangkat",
+      "kode_wilayah": "16.13.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.13",
+      "kode_kecamatan": "16.13.07"
+    },
+    {
+      "nama_wilayah": "Napal Licin",
+      "kode_wilayah": "16.13.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.13",
+      "kode_kecamatan": "16.13.07"
+    },
+    {
+      "nama_wilayah": "Sosokan",
+      "kode_wilayah": "16.13.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.13",
+      "kode_kecamatan": "16.13.07"
+    },
+    {
+      "nama_wilayah": "Kuto Tanjung",
+      "kode_wilayah": "16.13.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.13",
+      "kode_kecamatan": "16.13.07"
+    },
+    {
+      "nama_wilayah": "Muara Kuis",
+      "kode_wilayah": "16.13.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.13",
+      "kode_kecamatan": "16.13.07"
+    },
+    {
+      "nama_wilayah": "Pulau Kidak",
+      "kode_wilayah": "16.13.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.13",
+      "kode_kecamatan": "16.13.07"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Pegambiran",
+      "kode_wilayah": "32.74.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.74",
+      "kode_kecamatan": "32.74.02"
+    },
+    {
+      "nama_wilayah": "Lemahwungkuk",
+      "kode_wilayah": "32.74.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.74",
+      "kode_kecamatan": "32.74.02"
+    },
+    {
+      "nama_wilayah": "Kesepuhan",
+      "kode_wilayah": "32.74.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.74",
+      "kode_kecamatan": "32.74.02"
+    },
+    {
+      "nama_wilayah": "Panjunan",
+      "kode_wilayah": "32.74.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.74",
+      "kode_kecamatan": "32.74.02"
+    }
+  ]
+}

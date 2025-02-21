@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Gumeng",
+      "kode_wilayah": "33.13.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.17"
+    },
+    {
+      "nama_wilayah": "Anggrasmanis",
+      "kode_wilayah": "33.13.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.17"
+    },
+    {
+      "nama_wilayah": "Jenawi",
+      "kode_wilayah": "33.13.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.17"
+    },
+    {
+      "nama_wilayah": "Trengguli",
+      "kode_wilayah": "33.13.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.17"
+    },
+    {
+      "nama_wilayah": "Sidomukti",
+      "kode_wilayah": "33.13.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.17"
+    },
+    {
+      "nama_wilayah": "Balong",
+      "kode_wilayah": "33.13.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.17"
+    },
+    {
+      "nama_wilayah": "Seloromo",
+      "kode_wilayah": "33.13.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.17"
+    },
+    {
+      "nama_wilayah": "Menjing",
+      "kode_wilayah": "33.13.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.17"
+    },
+    {
+      "nama_wilayah": "Lempong",
+      "kode_wilayah": "33.13.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.17"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pasarwajo",
+      "kode_wilayah": "74.04.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.04",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Kapontori",
+      "kode_wilayah": "74.04.22",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.04",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Lasalimu",
+      "kode_wilayah": "74.04.23",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.04",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Lasalimu Selatan",
+      "kode_wilayah": "74.04.24",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.04",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Siotapina",
+      "kode_wilayah": "74.04.27",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.04",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Wolowa",
+      "kode_wilayah": "74.04.28",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.04",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Wabula",
+      "kode_wilayah": "74.04.29",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.04",
+      "kode_provinsi": "74"
+    }
+  ]
+}

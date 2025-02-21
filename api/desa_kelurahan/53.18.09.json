@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Langga Lero",
+      "kode_wilayah": "53.18.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.18",
+      "kode_kecamatan": "53.18.09"
+    },
+    {
+      "nama_wilayah": "Waitabula",
+      "kode_wilayah": "53.18.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.18",
+      "kode_kecamatan": "53.18.09"
+    },
+    {
+      "nama_wilayah": "Rada Mata",
+      "kode_wilayah": "53.18.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.18",
+      "kode_kecamatan": "53.18.09"
+    },
+    {
+      "nama_wilayah": "Kalena Wano",
+      "kode_wilayah": "53.18.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.18",
+      "kode_kecamatan": "53.18.09"
+    },
+    {
+      "nama_wilayah": "Wee Londa",
+      "kode_wilayah": "53.18.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.18",
+      "kode_kecamatan": "53.18.09"
+    },
+    {
+      "nama_wilayah": "Wee Pangali",
+      "kode_wilayah": "53.18.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.18",
+      "kode_kecamatan": "53.18.09"
+    },
+    {
+      "nama_wilayah": "Kadi Pada",
+      "kode_wilayah": "53.18.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.18",
+      "kode_kecamatan": "53.18.09"
+    },
+    {
+      "nama_wilayah": "Watu Kawula",
+      "kode_wilayah": "53.18.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.18",
+      "kode_kecamatan": "53.18.09"
+    },
+    {
+      "nama_wilayah": "Wee Rena",
+      "kode_wilayah": "53.18.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.18",
+      "kode_kecamatan": "53.18.09"
+    },
+    {
+      "nama_wilayah": "Kalembu Kaha",
+      "kode_wilayah": "53.18.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.18",
+      "kode_kecamatan": "53.18.09"
+    }
+  ]
+}

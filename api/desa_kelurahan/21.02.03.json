@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Balai",
+      "kode_wilayah": "21.02.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.03"
+    },
+    {
+      "nama_wilayah": "Teluk Air",
+      "kode_wilayah": "21.02.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.03"
+    },
+    {
+      "nama_wilayah": "Sungai Lakam Timur",
+      "kode_wilayah": "21.02.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.03"
+    },
+    {
+      "nama_wilayah": "Lubuk Semut",
+      "kode_wilayah": "21.02.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.03"
+    },
+    {
+      "nama_wilayah": "Tanjung Balai Kota",
+      "kode_wilayah": "21.02.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.03"
+    },
+    {
+      "nama_wilayah": "Sungai Lakam Barat",
+      "kode_wilayah": "21.02.03.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.03"
+    }
+  ]
+}

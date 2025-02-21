@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Cigasong",
+      "kode_wilayah": "32.10.20.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.20"
+    },
+    {
+      "nama_wilayah": "Simpeureum",
+      "kode_wilayah": "32.10.20.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.20"
+    },
+    {
+      "nama_wilayah": "Cicenang",
+      "kode_wilayah": "32.10.20.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.20"
+    },
+    {
+      "nama_wilayah": "Kawunghilir",
+      "kode_wilayah": "32.10.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.20"
+    },
+    {
+      "nama_wilayah": "Tajur",
+      "kode_wilayah": "32.10.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.20"
+    },
+    {
+      "nama_wilayah": "Tenjolayar",
+      "kode_wilayah": "32.10.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.20"
+    },
+    {
+      "nama_wilayah": "Baribis",
+      "kode_wilayah": "32.10.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.20"
+    },
+    {
+      "nama_wilayah": "Batujaya",
+      "kode_wilayah": "32.10.20.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.20"
+    },
+    {
+      "nama_wilayah": "Kutamanggu",
+      "kode_wilayah": "32.10.20.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.20"
+    },
+    {
+      "nama_wilayah": "Karayunan",
+      "kode_wilayah": "32.10.20.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.20"
+    }
+  ]
+}

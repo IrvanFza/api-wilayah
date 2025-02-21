@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pondan",
+      "kode_wilayah": "72.01.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.22"
+    },
+    {
+      "nama_wilayah": "Sobol",
+      "kode_wilayah": "72.01.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.22"
+    },
+    {
+      "nama_wilayah": "Sobol Baru",
+      "kode_wilayah": "72.01.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.22"
+    },
+    {
+      "nama_wilayah": "Binotik",
+      "kode_wilayah": "72.01.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.22"
+    },
+    {
+      "nama_wilayah": "Garuga",
+      "kode_wilayah": "72.01.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.22"
+    },
+    {
+      "nama_wilayah": "Bollo",
+      "kode_wilayah": "72.01.22.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.22"
+    },
+    {
+      "nama_wilayah": "Sulubombong",
+      "kode_wilayah": "72.01.22.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.22"
+    },
+    {
+      "nama_wilayah": "Boras",
+      "kode_wilayah": "72.01.22.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.22"
+    },
+    {
+      "nama_wilayah": "Lonas",
+      "kode_wilayah": "72.01.22.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.22"
+    },
+    {
+      "nama_wilayah": "Bombongan",
+      "kode_wilayah": "72.01.22.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.22"
+    }
+  ]
+}

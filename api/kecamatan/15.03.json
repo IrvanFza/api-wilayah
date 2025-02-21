@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Batang Asai",
+      "kode_wilayah": "15.03.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.03",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Limun",
+      "kode_wilayah": "15.03.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.03",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Sarolangun",
+      "kode_wilayah": "15.03.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.03",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Pauh",
+      "kode_wilayah": "15.03.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.03",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Pelawan",
+      "kode_wilayah": "15.03.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.03",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Mandiangin",
+      "kode_wilayah": "15.03.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.03",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Air Hitam",
+      "kode_wilayah": "15.03.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.03",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Bathin VIII",
+      "kode_wilayah": "15.03.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.03",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Singkut",
+      "kode_wilayah": "15.03.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.03",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Cermin Nan Gedang",
+      "kode_wilayah": "15.03.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.03",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Mandiangin Timur",
+      "kode_wilayah": "15.03.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.03",
+      "kode_provinsi": "15"
+    }
+  ]
+}

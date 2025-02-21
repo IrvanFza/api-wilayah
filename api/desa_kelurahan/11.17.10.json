@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Simpang Rahmat",
+      "kode_wilayah": "11.17.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.17",
+      "kode_kecamatan": "11.17.10"
+    },
+    {
+      "nama_wilayah": "Gajah Putih",
+      "kode_wilayah": "11.17.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.17",
+      "kode_kecamatan": "11.17.10"
+    },
+    {
+      "nama_wilayah": "Gayo Setie",
+      "kode_wilayah": "11.17.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.17",
+      "kode_kecamatan": "11.17.10"
+    },
+    {
+      "nama_wilayah": "Umah Besi",
+      "kode_wilayah": "11.17.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.17",
+      "kode_kecamatan": "11.17.10"
+    },
+    {
+      "nama_wilayah": "Pante Karya",
+      "kode_wilayah": "11.17.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.17",
+      "kode_kecamatan": "11.17.10"
+    },
+    {
+      "nama_wilayah": "Meriah Jaya",
+      "kode_wilayah": "11.17.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.17",
+      "kode_kecamatan": "11.17.10"
+    },
+    {
+      "nama_wilayah": "Timang Gajah",
+      "kode_wilayah": "11.17.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.17",
+      "kode_kecamatan": "11.17.10"
+    },
+    {
+      "nama_wilayah": "Pantan Lues",
+      "kode_wilayah": "11.17.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.17",
+      "kode_kecamatan": "11.17.10"
+    },
+    {
+      "nama_wilayah": "Alam Jaya",
+      "kode_wilayah": "11.17.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.17",
+      "kode_kecamatan": "11.17.10"
+    },
+    {
+      "nama_wilayah": "Reronga",
+      "kode_wilayah": "11.17.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.17",
+      "kode_kecamatan": "11.17.10"
+    }
+  ]
+}

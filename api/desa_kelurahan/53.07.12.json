@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Magepanda",
+      "kode_wilayah": "53.07.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.12"
+    },
+    {
+      "nama_wilayah": "Reroroja",
+      "kode_wilayah": "53.07.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.12"
+    },
+    {
+      "nama_wilayah": "Done",
+      "kode_wilayah": "53.07.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.12"
+    },
+    {
+      "nama_wilayah": "Kolisia",
+      "kode_wilayah": "53.07.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.12"
+    },
+    {
+      "nama_wilayah": "Kolisia B",
+      "kode_wilayah": "53.07.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.12"
+    },
+    {
+      "nama_wilayah": "Woda Mude",
+      "kode_wilayah": "53.07.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.12"
+    },
+    {
+      "nama_wilayah": "Legu Woda",
+      "kode_wilayah": "53.07.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.12"
+    },
+    {
+      "nama_wilayah": "Waturia",
+      "kode_wilayah": "53.07.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.12"
+    }
+  ]
+}

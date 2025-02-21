@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Batupanga",
+      "kode_wilayah": "76.04.10.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.10"
+    },
+    {
+      "nama_wilayah": "Mambu",
+      "kode_wilayah": "76.04.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.10"
+    },
+    {
+      "nama_wilayah": "Tenggelang",
+      "kode_wilayah": "76.04.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.10"
+    },
+    {
+      "nama_wilayah": "Baru",
+      "kode_wilayah": "76.04.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.10"
+    },
+    {
+      "nama_wilayah": "Pussui",
+      "kode_wilayah": "76.04.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.10"
+    },
+    {
+      "nama_wilayah": "Mapilli Barat",
+      "kode_wilayah": "76.04.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.10"
+    },
+    {
+      "nama_wilayah": "Sambali Wali",
+      "kode_wilayah": "76.04.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.10"
+    },
+    {
+      "nama_wilayah": "Batupanga Daala",
+      "kode_wilayah": "76.04.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.10"
+    },
+    {
+      "nama_wilayah": "Luyo",
+      "kode_wilayah": "76.04.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.10"
+    },
+    {
+      "nama_wilayah": "Pussui Barat",
+      "kode_wilayah": "76.04.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.10"
+    },
+    {
+      "nama_wilayah": "Puccadi",
+      "kode_wilayah": "76.04.10.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.10"
+    }
+  ]
+}

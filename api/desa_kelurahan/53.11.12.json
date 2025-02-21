@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kananggar",
+      "kode_wilayah": "53.11.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.12"
+    },
+    {
+      "nama_wilayah": "Mehang Mata",
+      "kode_wilayah": "53.11.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.12"
+    },
+    {
+      "nama_wilayah": "Karera Jangga",
+      "kode_wilayah": "53.11.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.12"
+    },
+    {
+      "nama_wilayah": "Praimbana",
+      "kode_wilayah": "53.11.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.12"
+    },
+    {
+      "nama_wilayah": "Pabera Manera",
+      "kode_wilayah": "53.11.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.12"
+    },
+    {
+      "nama_wilayah": "Winumuru",
+      "kode_wilayah": "53.11.12.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.12"
+    },
+    {
+      "nama_wilayah": "Laitaku",
+      "kode_wilayah": "53.11.12.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.12"
+    }
+  ]
+}

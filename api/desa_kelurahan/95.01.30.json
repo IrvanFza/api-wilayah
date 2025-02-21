@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Wogi",
+      "kode_wilayah": "95.01.30.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.30"
+    },
+    {
+      "nama_wilayah": "Elaboge",
+      "kode_wilayah": "95.01.30.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.30"
+    },
+    {
+      "nama_wilayah": "Holasili",
+      "kode_wilayah": "95.01.30.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.30"
+    },
+    {
+      "nama_wilayah": "Yerega",
+      "kode_wilayah": "95.01.30.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.30"
+    },
+    {
+      "nama_wilayah": "Olagi",
+      "kode_wilayah": "95.01.30.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.30"
+    },
+    {
+      "nama_wilayah": "Gigilobo",
+      "kode_wilayah": "95.01.30.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.30"
+    },
+    {
+      "nama_wilayah": "Apnae",
+      "kode_wilayah": "95.01.30.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.30"
+    },
+    {
+      "nama_wilayah": "Wonenggulik",
+      "kode_wilayah": "95.01.30.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.30"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sepahat",
+      "kode_wilayah": "61.08.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.08",
+      "kode_kecamatan": "61.08.03"
+    },
+    {
+      "nama_wilayah": "Lamoanak",
+      "kode_wilayah": "61.08.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.08",
+      "kode_kecamatan": "61.08.03"
+    },
+    {
+      "nama_wilayah": "Bengkawe",
+      "kode_wilayah": "61.08.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.08",
+      "kode_kecamatan": "61.08.03"
+    },
+    {
+      "nama_wilayah": "Tempoak",
+      "kode_wilayah": "61.08.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.08",
+      "kode_kecamatan": "61.08.03"
+    },
+    {
+      "nama_wilayah": "Re-es",
+      "kode_wilayah": "61.08.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.08",
+      "kode_kecamatan": "61.08.03"
+    },
+    {
+      "nama_wilayah": "Raba",
+      "kode_wilayah": "61.08.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.08",
+      "kode_kecamatan": "61.08.03"
+    },
+    {
+      "nama_wilayah": "Nangka",
+      "kode_wilayah": "61.08.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.08",
+      "kode_kecamatan": "61.08.03"
+    },
+    {
+      "nama_wilayah": "Menjalin",
+      "kode_wilayah": "61.08.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.08",
+      "kode_kecamatan": "61.08.03"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Baranti",
+      "kode_wilayah": "73.14.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.04"
+    },
+    {
+      "nama_wilayah": "Duampanua",
+      "kode_wilayah": "73.14.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.04"
+    },
+    {
+      "nama_wilayah": "Benteng",
+      "kode_wilayah": "73.14.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.04"
+    },
+    {
+      "nama_wilayah": "Manisa",
+      "kode_wilayah": "73.14.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.04"
+    },
+    {
+      "nama_wilayah": "Panreng",
+      "kode_wilayah": "73.14.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.04"
+    },
+    {
+      "nama_wilayah": "Passeno",
+      "kode_wilayah": "73.14.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.04"
+    },
+    {
+      "nama_wilayah": "Sipodeceng",
+      "kode_wilayah": "73.14.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.04"
+    },
+    {
+      "nama_wilayah": "Tonrongnge",
+      "kode_wilayah": "73.14.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.04"
+    },
+    {
+      "nama_wilayah": "Tonrong Rijang",
+      "kode_wilayah": "73.14.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.04"
+    }
+  ]
+}

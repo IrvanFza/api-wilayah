@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Lempur Tengah",
+      "kode_wilayah": "15.01.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.01"
+    },
+    {
+      "nama_wilayah": "Selam Paung",
+      "kode_wilayah": "15.01.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.01"
+    },
+    {
+      "nama_wilayah": "Air Mumu",
+      "kode_wilayah": "15.01.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.01"
+    },
+    {
+      "nama_wilayah": "Lempur Mudik",
+      "kode_wilayah": "15.01.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.01"
+    },
+    {
+      "nama_wilayah": "Masgo",
+      "kode_wilayah": "15.01.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.01"
+    },
+    {
+      "nama_wilayah": "Lempur Hilir",
+      "kode_wilayah": "15.01.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.01"
+    },
+    {
+      "nama_wilayah": "Kebun Baru",
+      "kode_wilayah": "15.01.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.01"
+    },
+    {
+      "nama_wilayah": "Perikan Tengah",
+      "kode_wilayah": "15.01.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.01"
+    },
+    {
+      "nama_wilayah": "Dusun Baru Lempur",
+      "kode_wilayah": "15.01.01.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.01"
+    },
+    {
+      "nama_wilayah": "Sungaihangat",
+      "kode_wilayah": "15.01.01.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.01"
+    },
+    {
+      "nama_wilayah": "Manjunto Lempur",
+      "kode_wilayah": "15.01.01.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.01"
+    },
+    {
+      "nama_wilayah": "Kebun Lima",
+      "kode_wilayah": "15.01.01.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.01"
+    }
+  ]
+}

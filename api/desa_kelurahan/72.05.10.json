@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Mokupo",
+      "kode_wilayah": "72.05.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.10"
+    },
+    {
+      "nama_wilayah": "Mendaan",
+      "kode_wilayah": "72.05.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.10"
+    },
+    {
+      "nama_wilayah": "Baruga",
+      "kode_wilayah": "72.05.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.10"
+    },
+    {
+      "nama_wilayah": "Monano",
+      "kode_wilayah": "72.05.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.10"
+    },
+    {
+      "nama_wilayah": "Busak I",
+      "kode_wilayah": "72.05.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.10"
+    },
+    {
+      "nama_wilayah": "Busak II",
+      "kode_wilayah": "72.05.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.10"
+    },
+    {
+      "nama_wilayah": "Lamakan",
+      "kode_wilayah": "72.05.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.10"
+    }
+  ]
+}

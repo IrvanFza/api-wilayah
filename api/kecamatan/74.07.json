@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Wangi-Wangi",
+      "kode_wilayah": "74.07.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.07",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Kaledupa",
+      "kode_wilayah": "74.07.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.07",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Tomia",
+      "kode_wilayah": "74.07.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.07",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Binongko",
+      "kode_wilayah": "74.07.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.07",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Wangi Wangi Selatan",
+      "kode_wilayah": "74.07.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.07",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Kaledupa Selatan",
+      "kode_wilayah": "74.07.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.07",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Tomia Timur",
+      "kode_wilayah": "74.07.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.07",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Togo Binongko",
+      "kode_wilayah": "74.07.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.07",
+      "kode_provinsi": "74"
+    }
+  ]
+}

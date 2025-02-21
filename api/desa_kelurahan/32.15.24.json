@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Gembongan",
+      "kode_wilayah": "32.15.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.24"
+    },
+    {
+      "nama_wilayah": "Gempol",
+      "kode_wilayah": "32.15.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.24"
+    },
+    {
+      "nama_wilayah": "Gempol Kolot",
+      "kode_wilayah": "32.15.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.24"
+    },
+    {
+      "nama_wilayah": "Banyuasih",
+      "kode_wilayah": "32.15.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.24"
+    },
+    {
+      "nama_wilayah": "Kertaraharja",
+      "kode_wilayah": "32.15.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.24"
+    },
+    {
+      "nama_wilayah": "Tanjung",
+      "kode_wilayah": "32.15.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.24"
+    },
+    {
+      "nama_wilayah": "Jayamukti",
+      "kode_wilayah": "32.15.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.24"
+    },
+    {
+      "nama_wilayah": "Cicinde Utara",
+      "kode_wilayah": "32.15.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.24"
+    },
+    {
+      "nama_wilayah": "Cicinde Selatan",
+      "kode_wilayah": "32.15.24.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.24"
+    },
+    {
+      "nama_wilayah": "Mekarasih",
+      "kode_wilayah": "32.15.24.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.24"
+    },
+    {
+      "nama_wilayah": "Talunjaya",
+      "kode_wilayah": "32.15.24.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.24"
+    },
+    {
+      "nama_wilayah": "Pamekaran",
+      "kode_wilayah": "32.15.24.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.24"
+    }
+  ]
+}

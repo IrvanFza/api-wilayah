@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sapih",
+      "kode_wilayah": "35.13.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.24"
+    },
+    {
+      "nama_wilayah": "Negororejo",
+      "kode_wilayah": "35.13.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.24"
+    },
+    {
+      "nama_wilayah": "Branggah",
+      "kode_wilayah": "35.13.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.24"
+    },
+    {
+      "nama_wilayah": "Lambangkuning",
+      "kode_wilayah": "35.13.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.24"
+    },
+    {
+      "nama_wilayah": "Wonogoro",
+      "kode_wilayah": "35.13.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.24"
+    },
+    {
+      "nama_wilayah": "Palangbesi",
+      "kode_wilayah": "35.13.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.24"
+    },
+    {
+      "nama_wilayah": "Boto",
+      "kode_wilayah": "35.13.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.24"
+    },
+    {
+      "nama_wilayah": "Lumbang",
+      "kode_wilayah": "35.13.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.24"
+    },
+    {
+      "nama_wilayah": "Tandonsentul",
+      "kode_wilayah": "35.13.24.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.24"
+    },
+    {
+      "nama_wilayah": "Purut",
+      "kode_wilayah": "35.13.24.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.24"
+    }
+  ]
+}

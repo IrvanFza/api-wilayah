@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pakulonan",
+      "kode_wilayah": "36.74.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.02"
+    },
+    {
+      "nama_wilayah": "Pakualam",
+      "kode_wilayah": "36.74.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.02"
+    },
+    {
+      "nama_wilayah": "Pakujaya",
+      "kode_wilayah": "36.74.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.02"
+    },
+    {
+      "nama_wilayah": "Pondok Jagung",
+      "kode_wilayah": "36.74.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.02"
+    },
+    {
+      "nama_wilayah": "Pondok Jagung Timur",
+      "kode_wilayah": "36.74.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.02"
+    },
+    {
+      "nama_wilayah": "Jelupang",
+      "kode_wilayah": "36.74.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.02"
+    },
+    {
+      "nama_wilayah": "Lengkong Karya",
+      "kode_wilayah": "36.74.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.02"
+    }
+  ]
+}

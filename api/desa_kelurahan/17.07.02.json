@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sukau Kayo",
+      "kode_wilayah": "17.07.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.02"
+    },
+    {
+      "nama_wilayah": "Tik Tebing",
+      "kode_wilayah": "17.07.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.02"
+    },
+    {
+      "nama_wilayah": "Tabeak Blau",
+      "kode_wilayah": "17.07.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.02"
+    },
+    {
+      "nama_wilayah": "Tabeak Blau I",
+      "kode_wilayah": "17.07.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.02"
+    },
+    {
+      "nama_wilayah": "Daneu",
+      "kode_wilayah": "17.07.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.02"
+    },
+    {
+      "nama_wilayah": "Blau",
+      "kode_wilayah": "17.07.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.02"
+    }
+  ]
+}

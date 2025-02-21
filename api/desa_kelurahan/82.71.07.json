@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Faudu",
+      "kode_wilayah": "82.71.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.07"
+    },
+    {
+      "nama_wilayah": "Tomajiko",
+      "kode_wilayah": "82.71.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.07"
+    },
+    {
+      "nama_wilayah": "Dorari Isa",
+      "kode_wilayah": "82.71.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.07"
+    },
+    {
+      "nama_wilayah": "Togolobe",
+      "kode_wilayah": "82.71.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.07"
+    },
+    {
+      "nama_wilayah": "Mado",
+      "kode_wilayah": "82.71.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.07"
+    },
+    {
+      "nama_wilayah": "Tafraka",
+      "kode_wilayah": "82.71.07.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.07"
+    }
+  ]
+}

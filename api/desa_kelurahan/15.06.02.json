@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tungkal Empat Kota",
+      "kode_wilayah": "15.06.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.02"
+    },
+    {
+      "nama_wilayah": "Tungkal III",
+      "kode_wilayah": "15.06.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.02"
+    },
+    {
+      "nama_wilayah": "Tungkal Harapan",
+      "kode_wilayah": "15.06.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.02"
+    },
+    {
+      "nama_wilayah": "Tungkal II",
+      "kode_wilayah": "15.06.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.02"
+    },
+    {
+      "nama_wilayah": "Kampung Nelayan",
+      "kode_wilayah": "15.06.02.1015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.02"
+    },
+    {
+      "nama_wilayah": "Patunas",
+      "kode_wilayah": "15.06.02.1016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.02"
+    },
+    {
+      "nama_wilayah": "Sriwijaya",
+      "kode_wilayah": "15.06.02.1017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.02"
+    },
+    {
+      "nama_wilayah": "Sungainibung",
+      "kode_wilayah": "15.06.02.1018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.02"
+    },
+    {
+      "nama_wilayah": "Tungkal I",
+      "kode_wilayah": "15.06.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.02"
+    },
+    {
+      "nama_wilayah": "Teluk Sialang",
+      "kode_wilayah": "15.06.02.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.02"
+    }
+  ]
+}

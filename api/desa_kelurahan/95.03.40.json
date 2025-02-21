@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Bomela",
+      "kode_wilayah": "95.03.40.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.40"
+    },
+    {
+      "nama_wilayah": "Yalmabi",
+      "kode_wilayah": "95.03.40.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.40"
+    },
+    {
+      "nama_wilayah": "Kitikni",
+      "kode_wilayah": "95.03.40.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.40"
+    },
+    {
+      "nama_wilayah": "Sombat",
+      "kode_wilayah": "95.03.40.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.40"
+    },
+    {
+      "nama_wilayah": "Kubialat",
+      "kode_wilayah": "95.03.40.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.40"
+    },
+    {
+      "nama_wilayah": "Palamdua",
+      "kode_wilayah": "95.03.40.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.40"
+    }
+  ]
+}

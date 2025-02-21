@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Nolokla",
+      "kode_wilayah": "91.03.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.02"
+    },
+    {
+      "nama_wilayah": "Puai",
+      "kode_wilayah": "91.03.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.02"
+    },
+    {
+      "nama_wilayah": "Asei Besar",
+      "kode_wilayah": "91.03.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.02"
+    },
+    {
+      "nama_wilayah": "Nendali",
+      "kode_wilayah": "91.03.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.02"
+    },
+    {
+      "nama_wilayah": "Desa Adat Ayapo",
+      "kode_wilayah": "91.03.02.3003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.02"
+    },
+    {
+      "nama_wilayah": "Desa Adat Kleuwblou",
+      "kode_wilayah": "91.03.02.3005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.02"
+    },
+    {
+      "nama_wilayah": "Desa Adat Yokiwa",
+      "kode_wilayah": "91.03.02.3007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.02"
+    }
+  ]
+}

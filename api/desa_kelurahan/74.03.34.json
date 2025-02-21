@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Bone Bone",
+      "kode_wilayah": "74.03.34.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.34"
+    },
+    {
+      "nama_wilayah": "Lanobake",
+      "kode_wilayah": "74.03.34.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.34"
+    },
+    {
+      "nama_wilayah": "Moolo",
+      "kode_wilayah": "74.03.34.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.34"
+    },
+    {
+      "nama_wilayah": "Baluara",
+      "kode_wilayah": "74.03.34.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.34"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Gantarang",
+      "kode_wilayah": "73.02.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.02",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Ujung Bulu",
+      "kode_wilayah": "73.02.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.02",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Bonto Bahari",
+      "kode_wilayah": "73.02.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.02",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Bonto Tiro",
+      "kode_wilayah": "73.02.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.02",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Herlang",
+      "kode_wilayah": "73.02.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.02",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Kajang",
+      "kode_wilayah": "73.02.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.02",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Bulukumpa",
+      "kode_wilayah": "73.02.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.02",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Kindang",
+      "kode_wilayah": "73.02.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.02",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Ujungloe",
+      "kode_wilayah": "73.02.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.02",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Rilauale",
+      "kode_wilayah": "73.02.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.02",
+      "kode_provinsi": "73"
+    }
+  ]
+}

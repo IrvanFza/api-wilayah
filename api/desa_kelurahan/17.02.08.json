@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Beringin Tiga",
+      "kode_wilayah": "17.02.08.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.08"
+    },
+    {
+      "nama_wilayah": "Sindang Jaya",
+      "kode_wilayah": "17.02.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.08"
+    },
+    {
+      "nama_wilayah": "Sindang Jati",
+      "kode_wilayah": "17.02.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.08"
+    },
+    {
+      "nama_wilayah": "Belitar Muka",
+      "kode_wilayah": "17.02.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.08"
+    },
+    {
+      "nama_wilayah": "Pelalo",
+      "kode_wilayah": "17.02.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.08"
+    },
+    {
+      "nama_wilayah": "Kayu Manis",
+      "kode_wilayah": "17.02.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.08"
+    },
+    {
+      "nama_wilayah": "Air Dingin",
+      "kode_wilayah": "17.02.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.08"
+    },
+    {
+      "nama_wilayah": "Belitar Seberang",
+      "kode_wilayah": "17.02.08.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.08"
+    },
+    {
+      "nama_wilayah": "Cahaya Negeri",
+      "kode_wilayah": "17.02.08.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.08"
+    },
+    {
+      "nama_wilayah": "Tanjung Aur",
+      "kode_wilayah": "17.02.08.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.08"
+    }
+  ]
+}

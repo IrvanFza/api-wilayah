@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Temmalebba",
+      "kode_wilayah": "73.73.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.09"
+    },
+    {
+      "nama_wilayah": "Balandai",
+      "kode_wilayah": "73.73.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.09"
+    },
+    {
+      "nama_wilayah": "Rampoang",
+      "kode_wilayah": "73.73.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.09"
+    },
+    {
+      "nama_wilayah": "Tobulung",
+      "kode_wilayah": "73.73.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.09"
+    },
+    {
+      "nama_wilayah": "Buntu Datu",
+      "kode_wilayah": "73.73.09.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.09"
+    }
+  ]
+}

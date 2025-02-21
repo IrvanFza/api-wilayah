@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Cemaga",
+      "kode_wilayah": "21.03.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.18"
+    },
+    {
+      "nama_wilayah": "Cemaga Selatan (Setengar)",
+      "kode_wilayah": "21.03.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.18"
+    },
+    {
+      "nama_wilayah": "Cemaga Utara (Singgang Bulan)",
+      "kode_wilayah": "21.03.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.18"
+    },
+    {
+      "nama_wilayah": "Cemaga Tengah",
+      "kode_wilayah": "21.03.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.18"
+    }
+  ]
+}

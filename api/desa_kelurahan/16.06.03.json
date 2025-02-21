@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pagar Kaya",
+      "kode_wilayah": "16.06.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.06",
+      "kode_kecamatan": "16.06.03"
+    },
+    {
+      "nama_wilayah": "Sukalali",
+      "kode_wilayah": "16.06.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.06",
+      "kode_kecamatan": "16.06.03"
+    },
+    {
+      "nama_wilayah": "Kartayu",
+      "kode_wilayah": "16.06.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.06",
+      "kode_kecamatan": "16.06.03"
+    },
+    {
+      "nama_wilayah": "Sungai Dua",
+      "kode_wilayah": "16.06.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.06",
+      "kode_kecamatan": "16.06.03"
+    },
+    {
+      "nama_wilayah": "Sindang Marga",
+      "kode_wilayah": "16.06.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.06",
+      "kode_kecamatan": "16.06.03"
+    },
+    {
+      "nama_wilayah": "Tebing Bulang",
+      "kode_wilayah": "16.06.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.06",
+      "kode_kecamatan": "16.06.03"
+    },
+    {
+      "nama_wilayah": "Gajah Mati",
+      "kode_wilayah": "16.06.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.06",
+      "kode_kecamatan": "16.06.03"
+    },
+    {
+      "nama_wilayah": "Rantau Sialang",
+      "kode_wilayah": "16.06.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.06",
+      "kode_kecamatan": "16.06.03"
+    },
+    {
+      "nama_wilayah": "Kerta Jaya",
+      "kode_wilayah": "16.06.03.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.06",
+      "kode_kecamatan": "16.06.03"
+    },
+    {
+      "nama_wilayah": "Keramat Jaya",
+      "kode_wilayah": "16.06.03.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.06",
+      "kode_kecamatan": "16.06.03"
+    }
+  ]
+}

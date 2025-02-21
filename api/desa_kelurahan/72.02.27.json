@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sawidago",
+      "kode_wilayah": "72.02.27.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.27"
+    },
+    {
+      "nama_wilayah": "Petirodongi",
+      "kode_wilayah": "72.02.27.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.27"
+    },
+    {
+      "nama_wilayah": "Tendeadongi",
+      "kode_wilayah": "72.02.27.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.27"
+    },
+    {
+      "nama_wilayah": "Saojo",
+      "kode_wilayah": "72.02.27.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.27"
+    },
+    {
+      "nama_wilayah": "Sulewana",
+      "kode_wilayah": "72.02.27.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.27"
+    },
+    {
+      "nama_wilayah": "Sangira",
+      "kode_wilayah": "72.02.27.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.27"
+    },
+    {
+      "nama_wilayah": "Kuku",
+      "kode_wilayah": "72.02.27.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.27"
+    },
+    {
+      "nama_wilayah": "Panjoka",
+      "kode_wilayah": "72.02.27.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.27"
+    },
+    {
+      "nama_wilayah": "Uelincu",
+      "kode_wilayah": "72.02.27.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.27"
+    },
+    {
+      "nama_wilayah": "Lena",
+      "kode_wilayah": "72.02.27.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.27"
+    }
+  ]
+}

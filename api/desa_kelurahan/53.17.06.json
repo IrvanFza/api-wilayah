@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bolu Bokat",
+      "kode_wilayah": "53.17.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.17",
+      "kode_kecamatan": "53.17.06"
+    },
+    {
+      "nama_wilayah": "Mara Desa",
+      "kode_wilayah": "53.17.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.17",
+      "kode_kecamatan": "53.17.06"
+    },
+    {
+      "nama_wilayah": "Weluk Praimemang",
+      "kode_wilayah": "53.17.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.17",
+      "kode_kecamatan": "53.17.06"
+    },
+    {
+      "nama_wilayah": "Bolu Bokat Utara",
+      "kode_wilayah": "53.17.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.17",
+      "kode_kecamatan": "53.17.06"
+    },
+    {
+      "nama_wilayah": "Maradesa Timur",
+      "kode_wilayah": "53.17.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.17",
+      "kode_kecamatan": "53.17.06"
+    },
+    {
+      "nama_wilayah": "Maradesa Selatan",
+      "kode_wilayah": "53.17.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.17",
+      "kode_kecamatan": "53.17.06"
+    },
+    {
+      "nama_wilayah": "Bolu Bokat Barat",
+      "kode_wilayah": "53.17.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.17",
+      "kode_kecamatan": "53.17.06"
+    },
+    {
+      "nama_wilayah": "Wangga Waiyengu",
+      "kode_wilayah": "53.17.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.17",
+      "kode_kecamatan": "53.17.06"
+    },
+    {
+      "nama_wilayah": "Sambali Loku",
+      "kode_wilayah": "53.17.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.17",
+      "kode_kecamatan": "53.17.06"
+    },
+    {
+      "nama_wilayah": "Holur Kambata",
+      "kode_wilayah": "53.17.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.17",
+      "kode_kecamatan": "53.17.06"
+    }
+  ]
+}

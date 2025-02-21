@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Suntamon",
+      "kode_wilayah": "95.03.41.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.41"
+    },
+    {
+      "nama_wilayah": "Tapasik",
+      "kode_wilayah": "95.03.41.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.41"
+    },
+    {
+      "nama_wilayah": "Bulbul",
+      "kode_wilayah": "95.03.41.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.41"
+    },
+    {
+      "nama_wilayah": "Dirik",
+      "kode_wilayah": "95.03.41.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.41"
+    },
+    {
+      "nama_wilayah": "Yup",
+      "kode_wilayah": "95.03.41.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.41"
+    },
+    {
+      "nama_wilayah": "Bongkok",
+      "kode_wilayah": "95.03.41.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.41"
+    },
+    {
+      "nama_wilayah": "Masumkon",
+      "kode_wilayah": "95.03.41.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.41"
+    },
+    {
+      "nama_wilayah": "Binalkon",
+      "kode_wilayah": "95.03.41.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.41"
+    }
+  ]
+}

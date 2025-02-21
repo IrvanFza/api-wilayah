@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pusakaratu",
+      "kode_wilayah": "32.13.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.10"
+    },
+    {
+      "nama_wilayah": "Gempol",
+      "kode_wilayah": "32.13.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.10"
+    },
+    {
+      "nama_wilayah": "Kalentambo",
+      "kode_wilayah": "32.13.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.10"
+    },
+    {
+      "nama_wilayah": "Patimban",
+      "kode_wilayah": "32.13.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.10"
+    },
+    {
+      "nama_wilayah": "Rancadaka",
+      "kode_wilayah": "32.13.10.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.10"
+    },
+    {
+      "nama_wilayah": "Kotasari",
+      "kode_wilayah": "32.13.10.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.10"
+    },
+    {
+      "nama_wilayah": "Mundusari",
+      "kode_wilayah": "32.13.10.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.10"
+    }
+  ]
+}

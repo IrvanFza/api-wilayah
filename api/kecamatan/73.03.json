@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Bissappu",
+      "kode_wilayah": "73.03.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.03",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Bantaeng",
+      "kode_wilayah": "73.03.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.03",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Eremerasa",
+      "kode_wilayah": "73.03.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.03",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Tompo Bulu",
+      "kode_wilayah": "73.03.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.03",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Pajukukang",
+      "kode_wilayah": "73.03.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.03",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Uluere",
+      "kode_wilayah": "73.03.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.03",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Gantarang Keke",
+      "kode_wilayah": "73.03.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.03",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Sinoa",
+      "kode_wilayah": "73.03.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.03",
+      "kode_provinsi": "73"
+    }
+  ]
+}

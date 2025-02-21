@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Wanasari",
+      "kode_wilayah": "32.16.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.07"
+    },
+    {
+      "nama_wilayah": "Wanajaya",
+      "kode_wilayah": "32.16.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.07"
+    },
+    {
+      "nama_wilayah": "Kertamukti",
+      "kode_wilayah": "32.16.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.07"
+    },
+    {
+      "nama_wilayah": "Muktiwari",
+      "kode_wilayah": "32.16.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.07"
+    },
+    {
+      "nama_wilayah": "Sarimukti",
+      "kode_wilayah": "32.16.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.07"
+    },
+    {
+      "nama_wilayah": "Sukajaya",
+      "kode_wilayah": "32.16.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.07"
+    },
+    {
+      "nama_wilayah": "Cibuntu",
+      "kode_wilayah": "32.16.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.07"
+    }
+  ]
+}

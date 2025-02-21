@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tunas Gain",
+      "kode_wilayah": "92.03.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.03"
+    },
+    {
+      "nama_wilayah": "Urat",
+      "kode_wilayah": "92.03.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.03"
+    },
+    {
+      "nama_wilayah": "Sanggram",
+      "kode_wilayah": "92.03.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.03"
+    },
+    {
+      "nama_wilayah": "Weri",
+      "kode_wilayah": "92.03.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.03"
+    },
+    {
+      "nama_wilayah": "Kiria Bisa",
+      "kode_wilayah": "92.03.03.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.03"
+    },
+    {
+      "nama_wilayah": "Saharei",
+      "kode_wilayah": "92.03.03.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.03"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Lembur Timur",
+      "kode_wilayah": "53.05.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.15"
+    },
+    {
+      "nama_wilayah": "Luba",
+      "kode_wilayah": "53.05.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.15"
+    },
+    {
+      "nama_wilayah": "Talwai",
+      "kode_wilayah": "53.05.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.15"
+    },
+    {
+      "nama_wilayah": "Tulleng",
+      "kode_wilayah": "53.05.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.15"
+    },
+    {
+      "nama_wilayah": "Waimi",
+      "kode_wilayah": "53.05.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.15"
+    },
+    {
+      "nama_wilayah": "Tasi",
+      "kode_wilayah": "53.05.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.15"
+    }
+  ]
+}

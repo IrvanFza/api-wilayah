@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Bori Appaka",
+      "kode_wilayah": "73.10.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.06"
+    },
+    {
+      "nama_wilayah": "Samalewa",
+      "kode_wilayah": "73.10.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.06"
+    },
+    {
+      "nama_wilayah": "Sapanang",
+      "kode_wilayah": "73.10.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.06"
+    },
+    {
+      "nama_wilayah": "Bowong Cindea",
+      "kode_wilayah": "73.10.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.06"
+    },
+    {
+      "nama_wilayah": "Tabo-Tabo",
+      "kode_wilayah": "73.10.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.06"
+    },
+    {
+      "nama_wilayah": "Mangilu",
+      "kode_wilayah": "73.10.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.06"
+    },
+    {
+      "nama_wilayah": "Bulu Cindea",
+      "kode_wilayah": "73.10.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.06"
+    },
+    {
+      "nama_wilayah": "Biring Ere",
+      "kode_wilayah": "73.10.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.06"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Rumbai Bukit",
+      "kode_wilayah": "14.71.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.06"
+    },
+    {
+      "nama_wilayah": "Muarafajar Timur",
+      "kode_wilayah": "14.71.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.06"
+    },
+    {
+      "nama_wilayah": "Muarafajar Barat",
+      "kode_wilayah": "14.71.06.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.06"
+    },
+    {
+      "nama_wilayah": "Rantaupanjang",
+      "kode_wilayah": "14.71.06.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.06"
+    },
+    {
+      "nama_wilayah": "Maharani",
+      "kode_wilayah": "14.71.06.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.06"
+    },
+    {
+      "nama_wilayah": "Agrowisata",
+      "kode_wilayah": "14.71.06.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.06"
+    }
+  ]
+}

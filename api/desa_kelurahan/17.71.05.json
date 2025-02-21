@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kandang",
+      "kode_wilayah": "17.71.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.05"
+    },
+    {
+      "nama_wilayah": "Kandang Mas",
+      "kode_wilayah": "17.71.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.05"
+    },
+    {
+      "nama_wilayah": "Teluk Sepang",
+      "kode_wilayah": "17.71.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.05"
+    },
+    {
+      "nama_wilayah": "Sumber Jaya",
+      "kode_wilayah": "17.71.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.05"
+    },
+    {
+      "nama_wilayah": "Padang Serai",
+      "kode_wilayah": "17.71.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.05"
+    },
+    {
+      "nama_wilayah": "Muara Dua",
+      "kode_wilayah": "17.71.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.05"
+    }
+  ]
+}

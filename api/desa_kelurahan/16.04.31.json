@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Banjar Negara",
+      "kode_wilayah": "16.04.31.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.31"
+    },
+    {
+      "nama_wilayah": "Tanjung Payang",
+      "kode_wilayah": "16.04.31.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.31"
+    },
+    {
+      "nama_wilayah": "Tanjung Tebat",
+      "kode_wilayah": "16.04.31.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.31"
+    },
+    {
+      "nama_wilayah": "Nantal",
+      "kode_wilayah": "16.04.31.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.31"
+    },
+    {
+      "nama_wilayah": "Karang Anyar",
+      "kode_wilayah": "16.04.31.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.31"
+    },
+    {
+      "nama_wilayah": "Karang Baru",
+      "kode_wilayah": "16.04.31.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.31"
+    },
+    {
+      "nama_wilayah": "Kerung",
+      "kode_wilayah": "16.04.31.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.31"
+    },
+    {
+      "nama_wilayah": "Muara Cawang",
+      "kode_wilayah": "16.04.31.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.31"
+    },
+    {
+      "nama_wilayah": "Talang Sawah",
+      "kode_wilayah": "16.04.31.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.31"
+    },
+    {
+      "nama_wilayah": "Talang Sejemput",
+      "kode_wilayah": "16.04.31.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.31"
+    }
+  ]
+}

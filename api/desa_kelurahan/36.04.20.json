@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tunjung Teja",
+      "kode_wilayah": "36.04.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.20"
+    },
+    {
+      "nama_wilayah": "Sukasari",
+      "kode_wilayah": "36.04.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.20"
+    },
+    {
+      "nama_wilayah": "Panunggulan",
+      "kode_wilayah": "36.04.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.20"
+    },
+    {
+      "nama_wilayah": "Malanggah",
+      "kode_wilayah": "36.04.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.20"
+    },
+    {
+      "nama_wilayah": "Kemuning",
+      "kode_wilayah": "36.04.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.20"
+    },
+    {
+      "nama_wilayah": "Bojong Menteng",
+      "kode_wilayah": "36.04.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.20"
+    },
+    {
+      "nama_wilayah": "Bojong Catang",
+      "kode_wilayah": "36.04.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.20"
+    },
+    {
+      "nama_wilayah": "Bojong Pandan",
+      "kode_wilayah": "36.04.20.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.20"
+    },
+    {
+      "nama_wilayah": "Pancaregang",
+      "kode_wilayah": "36.04.20.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.20"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kedamaian",
+      "kode_wilayah": "18.71.18.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.18"
+    },
+    {
+      "nama_wilayah": "Bumi Kedamaian",
+      "kode_wilayah": "18.71.18.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.18"
+    },
+    {
+      "nama_wilayah": "Tanjungagung Raya",
+      "kode_wilayah": "18.71.18.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.18"
+    },
+    {
+      "nama_wilayah": "Tanjungbaru",
+      "kode_wilayah": "18.71.18.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.18"
+    },
+    {
+      "nama_wilayah": "Kalibalau Kencana",
+      "kode_wilayah": "18.71.18.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.18"
+    },
+    {
+      "nama_wilayah": "Tanjungraya",
+      "kode_wilayah": "18.71.18.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.18"
+    },
+    {
+      "nama_wilayah": "Tanjunggading",
+      "kode_wilayah": "18.71.18.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.18"
+    }
+  ]
+}

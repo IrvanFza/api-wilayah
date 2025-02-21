@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Bilalang III",
+      "kode_wilayah": "71.01.32.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.32"
+    },
+    {
+      "nama_wilayah": "Bilalang IV",
+      "kode_wilayah": "71.01.32.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.32"
+    },
+    {
+      "nama_wilayah": "Tudu Aog",
+      "kode_wilayah": "71.01.32.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.32"
+    },
+    {
+      "nama_wilayah": "Tudu Aog Baru",
+      "kode_wilayah": "71.01.32.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.32"
+    },
+    {
+      "nama_wilayah": "Kolinganga-an",
+      "kode_wilayah": "71.01.32.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.32"
+    },
+    {
+      "nama_wilayah": "Bilalang III Utara",
+      "kode_wilayah": "71.01.32.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.32"
+    },
+    {
+      "nama_wilayah": "Bilalang Baru",
+      "kode_wilayah": "71.01.32.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.32"
+    },
+    {
+      "nama_wilayah": "Apado",
+      "kode_wilayah": "71.01.32.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.32"
+    }
+  ]
+}

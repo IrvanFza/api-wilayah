@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Bone Bone",
+      "kode_wilayah": "73.22.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.02"
+    },
+    {
+      "nama_wilayah": "Tamuku",
+      "kode_wilayah": "73.22.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.02"
+    },
+    {
+      "nama_wilayah": "Sidomukti",
+      "kode_wilayah": "73.22.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.02"
+    },
+    {
+      "nama_wilayah": "Sukaraya",
+      "kode_wilayah": "73.22.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.02"
+    },
+    {
+      "nama_wilayah": "Batang Tongka",
+      "kode_wilayah": "73.22.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.02"
+    },
+    {
+      "nama_wilayah": "Patoloan",
+      "kode_wilayah": "73.22.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.02"
+    },
+    {
+      "nama_wilayah": "Banyuurip",
+      "kode_wilayah": "73.22.02.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.02"
+    },
+    {
+      "nama_wilayah": "Pongko",
+      "kode_wilayah": "73.22.02.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.02"
+    },
+    {
+      "nama_wilayah": "Bantimurung",
+      "kode_wilayah": "73.22.02.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.02"
+    },
+    {
+      "nama_wilayah": "Muktisari",
+      "kode_wilayah": "73.22.02.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.02"
+    },
+    {
+      "nama_wilayah": "Sadar",
+      "kode_wilayah": "73.22.02.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.02"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Maloku",
+      "kode_wilayah": "73.71.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.04"
+    },
+    {
+      "nama_wilayah": "Mangkura",
+      "kode_wilayah": "73.71.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.04"
+    },
+    {
+      "nama_wilayah": "Pisang Selatan",
+      "kode_wilayah": "73.71.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.04"
+    },
+    {
+      "nama_wilayah": "Pisang Utara",
+      "kode_wilayah": "73.71.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.04"
+    },
+    {
+      "nama_wilayah": "Baru",
+      "kode_wilayah": "73.71.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.04"
+    },
+    {
+      "nama_wilayah": "Bulogading",
+      "kode_wilayah": "73.71.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.04"
+    },
+    {
+      "nama_wilayah": "Lae-Lae",
+      "kode_wilayah": "73.71.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.04"
+    },
+    {
+      "nama_wilayah": "Losari",
+      "kode_wilayah": "73.71.04.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.04"
+    },
+    {
+      "nama_wilayah": "Sawerigading",
+      "kode_wilayah": "73.71.04.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.04"
+    },
+    {
+      "nama_wilayah": "Lajangiru",
+      "kode_wilayah": "73.71.04.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.04"
+    }
+  ]
+}

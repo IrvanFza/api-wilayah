@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Mataindo",
+      "kode_wilayah": "71.11.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.11",
+      "kode_kecamatan": "71.11.04"
+    },
+    {
+      "nama_wilayah": "Adow",
+      "kode_wilayah": "71.11.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.11",
+      "kode_kecamatan": "71.11.04"
+    },
+    {
+      "nama_wilayah": "Torosik",
+      "kode_wilayah": "71.11.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.11",
+      "kode_kecamatan": "71.11.04"
+    },
+    {
+      "nama_wilayah": "Tobayagan",
+      "kode_wilayah": "71.11.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.11",
+      "kode_kecamatan": "71.11.04"
+    },
+    {
+      "nama_wilayah": "Deaga",
+      "kode_wilayah": "71.11.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.11",
+      "kode_kecamatan": "71.11.04"
+    },
+    {
+      "nama_wilayah": "Adow Selatan",
+      "kode_wilayah": "71.11.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.11",
+      "kode_kecamatan": "71.11.04"
+    },
+    {
+      "nama_wilayah": "Mataindo Utara",
+      "kode_wilayah": "71.11.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.11",
+      "kode_kecamatan": "71.11.04"
+    },
+    {
+      "nama_wilayah": "Tobayagan Selatan",
+      "kode_wilayah": "71.11.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.11",
+      "kode_kecamatan": "71.11.04"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Karangmukti",
+      "kode_wilayah": "32.13.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.20"
+    },
+    {
+      "nama_wilayah": "Cimayasari",
+      "kode_wilayah": "32.13.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.20"
+    },
+    {
+      "nama_wilayah": "Lengkong",
+      "kode_wilayah": "32.13.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.20"
+    },
+    {
+      "nama_wilayah": "Cipeundeuy",
+      "kode_wilayah": "32.13.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.20"
+    },
+    {
+      "nama_wilayah": "Wantilan",
+      "kode_wilayah": "32.13.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.20"
+    },
+    {
+      "nama_wilayah": "Kosar",
+      "kode_wilayah": "32.13.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.20"
+    },
+    {
+      "nama_wilayah": "Sawangan",
+      "kode_wilayah": "32.13.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.20"
+    }
+  ]
+}

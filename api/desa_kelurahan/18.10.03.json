@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Ambarawa",
+      "kode_wilayah": "18.10.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.10",
+      "kode_kecamatan": "18.10.03"
+    },
+    {
+      "nama_wilayah": "Ambarawa Barat",
+      "kode_wilayah": "18.10.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.10",
+      "kode_kecamatan": "18.10.03"
+    },
+    {
+      "nama_wilayah": "Kresno Mulyo",
+      "kode_wilayah": "18.10.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.10",
+      "kode_kecamatan": "18.10.03"
+    },
+    {
+      "nama_wilayah": "Sumber Agung",
+      "kode_wilayah": "18.10.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.10",
+      "kode_kecamatan": "18.10.03"
+    },
+    {
+      "nama_wilayah": "Tanjung Anom",
+      "kode_wilayah": "18.10.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.10",
+      "kode_kecamatan": "18.10.03"
+    },
+    {
+      "nama_wilayah": "Jati Agung",
+      "kode_wilayah": "18.10.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.10",
+      "kode_kecamatan": "18.10.03"
+    },
+    {
+      "nama_wilayah": "Margodadi",
+      "kode_wilayah": "18.10.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.10",
+      "kode_kecamatan": "18.10.03"
+    },
+    {
+      "nama_wilayah": "Ambarawa Timur",
+      "kode_wilayah": "18.10.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.10",
+      "kode_kecamatan": "18.10.03"
+    }
+  ]
+}

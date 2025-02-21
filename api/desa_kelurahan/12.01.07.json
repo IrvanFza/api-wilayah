@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tapian Nauli II",
+      "kode_wilayah": "12.01.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.07"
+    },
+    {
+      "nama_wilayah": "Tapian Nauli I",
+      "kode_wilayah": "12.01.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.07"
+    },
+    {
+      "nama_wilayah": "Tapian Nauli III",
+      "kode_wilayah": "12.01.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.07"
+    },
+    {
+      "nama_wilayah": "Tapian Nauli IV",
+      "kode_wilayah": "12.01.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.07"
+    },
+    {
+      "nama_wilayah": "Aloban Bair",
+      "kode_wilayah": "12.01.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.07"
+    },
+    {
+      "nama_wilayah": "Mela Dolok",
+      "kode_wilayah": "12.01.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.07"
+    },
+    {
+      "nama_wilayah": "Mela I",
+      "kode_wilayah": "12.01.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.07"
+    },
+    {
+      "nama_wilayah": "Mela II",
+      "kode_wilayah": "12.01.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.07"
+    },
+    {
+      "nama_wilayah": "Bair",
+      "kode_wilayah": "12.01.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.07"
+    }
+  ]
+}

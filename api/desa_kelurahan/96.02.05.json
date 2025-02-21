@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tokass",
+      "kode_wilayah": "96.02.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.05"
+    },
+    {
+      "nama_wilayah": "Moswaren",
+      "kode_wilayah": "96.02.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.05"
+    },
+    {
+      "nama_wilayah": "Hasik Jaya",
+      "kode_wilayah": "96.02.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.05"
+    },
+    {
+      "nama_wilayah": "Kamisabe",
+      "kode_wilayah": "96.02.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.05"
+    },
+    {
+      "nama_wilayah": "Bumi Ajo",
+      "kode_wilayah": "96.02.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.05"
+    },
+    {
+      "nama_wilayah": "Hararo",
+      "kode_wilayah": "96.02.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.05"
+    },
+    {
+      "nama_wilayah": "Johsiro",
+      "kode_wilayah": "96.02.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.05"
+    }
+  ]
+}

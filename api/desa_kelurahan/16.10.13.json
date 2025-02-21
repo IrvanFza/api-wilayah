@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Lubuk Rukam",
+      "kode_wilayah": "16.10.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.13"
+    },
+    {
+      "nama_wilayah": "Tanjung Alai",
+      "kode_wilayah": "16.10.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.13"
+    },
+    {
+      "nama_wilayah": "Kandis I",
+      "kode_wilayah": "16.10.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.13"
+    },
+    {
+      "nama_wilayah": "Kumbang Ulu",
+      "kode_wilayah": "16.10.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.13"
+    },
+    {
+      "nama_wilayah": "Kumbang Ilir",
+      "kode_wilayah": "16.10.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.13"
+    },
+    {
+      "nama_wilayah": "Miji",
+      "kode_wilayah": "16.10.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.13"
+    },
+    {
+      "nama_wilayah": "Santapan Barat",
+      "kode_wilayah": "16.10.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.13"
+    },
+    {
+      "nama_wilayah": "Pandan Arang",
+      "kode_wilayah": "16.10.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.13"
+    },
+    {
+      "nama_wilayah": "Muara Kumbang",
+      "kode_wilayah": "16.10.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.13"
+    },
+    {
+      "nama_wilayah": "Kandis II",
+      "kode_wilayah": "16.10.13.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.13"
+    },
+    {
+      "nama_wilayah": "Santapan Timur",
+      "kode_wilayah": "16.10.13.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.13"
+    },
+    {
+      "nama_wilayah": "Lubuk Segonang",
+      "kode_wilayah": "16.10.13.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.13"
+    }
+  ]
+}

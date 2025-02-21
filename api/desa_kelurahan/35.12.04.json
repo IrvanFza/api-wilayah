@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Alas Bayur",
+      "kode_wilayah": "35.12.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.04"
+    },
+    {
+      "nama_wilayah": "Sumberanyar",
+      "kode_wilayah": "35.12.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.04"
+    },
+    {
+      "nama_wilayah": "Campoan",
+      "kode_wilayah": "35.12.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.04"
+    },
+    {
+      "nama_wilayah": "Trebungan",
+      "kode_wilayah": "35.12.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.04"
+    },
+    {
+      "nama_wilayah": "Sumber Pinang",
+      "kode_wilayah": "35.12.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.04"
+    },
+    {
+      "nama_wilayah": "Selomukti",
+      "kode_wilayah": "35.12.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.04"
+    },
+    {
+      "nama_wilayah": "Mlandingan Kulon",
+      "kode_wilayah": "35.12.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.04"
+    }
+  ]
+}

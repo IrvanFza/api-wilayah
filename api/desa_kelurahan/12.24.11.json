@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Laowowaga",
+      "kode_wilayah": "12.24.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.11"
+    },
+    {
+      "nama_wilayah": "Lukhu Lase",
+      "kode_wilayah": "12.24.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.11"
+    },
+    {
+      "nama_wilayah": "Tetehosi Sorowi",
+      "kode_wilayah": "12.24.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.11"
+    },
+    {
+      "nama_wilayah": "Tefa-o",
+      "kode_wilayah": "12.24.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.11"
+    },
+    {
+      "nama_wilayah": "Tugala Lauru",
+      "kode_wilayah": "12.24.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.11"
+    },
+    {
+      "nama_wilayah": "Muzoi",
+      "kode_wilayah": "12.24.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.11"
+    },
+    {
+      "nama_wilayah": "Meafu",
+      "kode_wilayah": "12.24.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.11"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Nunu",
+      "kode_wilayah": "72.71.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.06"
+    },
+    {
+      "nama_wilayah": "Palupi",
+      "kode_wilayah": "72.71.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.06"
+    },
+    {
+      "nama_wilayah": "Tawanjuka",
+      "kode_wilayah": "72.71.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.06"
+    },
+    {
+      "nama_wilayah": "Pengawu",
+      "kode_wilayah": "72.71.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.06"
+    },
+    {
+      "nama_wilayah": "Duyu",
+      "kode_wilayah": "72.71.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.06"
+    },
+    {
+      "nama_wilayah": "Boyaoge",
+      "kode_wilayah": "72.71.06.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.06"
+    }
+  ]
+}

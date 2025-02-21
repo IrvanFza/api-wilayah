@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Batuasa",
+      "kode_wilayah": "81.05.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.03"
+    },
+    {
+      "nama_wilayah": "Hatuimeten",
+      "kode_wilayah": "81.05.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.03"
+    },
+    {
+      "nama_wilayah": "Werinama",
+      "kode_wilayah": "81.05.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.03"
+    },
+    {
+      "nama_wilayah": "Bemo",
+      "kode_wilayah": "81.05.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.03"
+    },
+    {
+      "nama_wilayah": "Tum",
+      "kode_wilayah": "81.05.03.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.03"
+    },
+    {
+      "nama_wilayah": "Gusalaut",
+      "kode_wilayah": "81.05.03.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.03"
+    },
+    {
+      "nama_wilayah": "Osong",
+      "kode_wilayah": "81.05.03.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.03"
+    },
+    {
+      "nama_wilayah": "Tobo",
+      "kode_wilayah": "81.05.03.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.03"
+    },
+    {
+      "nama_wilayah": "Bemo Perak",
+      "kode_wilayah": "81.05.03.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.03"
+    },
+    {
+      "nama_wilayah": "Funa Naibaya",
+      "kode_wilayah": "81.05.03.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.03"
+    }
+  ]
+}

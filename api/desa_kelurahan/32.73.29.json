@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Cisaranten Wetan",
+      "kode_wilayah": "32.73.29.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.29"
+    },
+    {
+      "nama_wilayah": "Pakemitan",
+      "kode_wilayah": "32.73.29.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.29"
+    },
+    {
+      "nama_wilayah": "Sukamulya",
+      "kode_wilayah": "32.73.29.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.29"
+    },
+    {
+      "nama_wilayah": "Babakan Penghulu",
+      "kode_wilayah": "32.73.29.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.29"
+    }
+  ]
+}

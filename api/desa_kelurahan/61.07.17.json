@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Sinar Tebudak",
+      "kode_wilayah": "61.07.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.17"
+    },
+    {
+      "nama_wilayah": "Kamuh",
+      "kode_wilayah": "61.07.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.17"
+    },
+    {
+      "nama_wilayah": "Bengkilu",
+      "kode_wilayah": "61.07.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.17"
+    },
+    {
+      "nama_wilayah": "Pisak",
+      "kode_wilayah": "61.07.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.17"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Cipanengah",
+      "kode_wilayah": "32.72.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.72",
+      "kode_kecamatan": "32.72.06"
+    },
+    {
+      "nama_wilayah": "Situmekar",
+      "kode_wilayah": "32.72.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.72",
+      "kode_kecamatan": "32.72.06"
+    },
+    {
+      "nama_wilayah": "Lembursitu",
+      "kode_wilayah": "32.72.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.72",
+      "kode_kecamatan": "32.72.06"
+    },
+    {
+      "nama_wilayah": "Cikundul",
+      "kode_wilayah": "32.72.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.72",
+      "kode_kecamatan": "32.72.06"
+    },
+    {
+      "nama_wilayah": "Sindangsari",
+      "kode_wilayah": "32.72.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.72",
+      "kode_kecamatan": "32.72.06"
+    }
+  ]
+}

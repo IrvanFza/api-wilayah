@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Cimungkal",
+      "kode_wilayah": "32.11.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.01"
+    },
+    {
+      "nama_wilayah": "Ganjaresik",
+      "kode_wilayah": "32.11.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.01"
+    },
+    {
+      "nama_wilayah": "Cilengkrang",
+      "kode_wilayah": "32.11.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.01"
+    },
+    {
+      "nama_wilayah": "Cikareo Selatan",
+      "kode_wilayah": "32.11.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.01"
+    },
+    {
+      "nama_wilayah": "Cikareo Utara",
+      "kode_wilayah": "32.11.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.01"
+    },
+    {
+      "nama_wilayah": "Wado",
+      "kode_wilayah": "32.11.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.01"
+    },
+    {
+      "nama_wilayah": "Mulyajaya",
+      "kode_wilayah": "32.11.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.01"
+    },
+    {
+      "nama_wilayah": "Sukajadi",
+      "kode_wilayah": "32.11.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.01"
+    },
+    {
+      "nama_wilayah": "Cisurat",
+      "kode_wilayah": "32.11.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.01"
+    },
+    {
+      "nama_wilayah": "Sukapura",
+      "kode_wilayah": "32.11.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.01"
+    }
+  ]
+}

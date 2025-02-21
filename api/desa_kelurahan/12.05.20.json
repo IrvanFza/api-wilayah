@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sawit Seberang",
+      "kode_wilayah": "12.05.20.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.20"
+    },
+    {
+      "nama_wilayah": "Alur Gadung",
+      "kode_wilayah": "12.05.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.20"
+    },
+    {
+      "nama_wilayah": "Simpang Tiga",
+      "kode_wilayah": "12.05.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.20"
+    },
+    {
+      "nama_wilayah": "Sei Litur Tasik",
+      "kode_wilayah": "12.05.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.20"
+    },
+    {
+      "nama_wilayah": "Sawit Hulu",
+      "kode_wilayah": "12.05.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.20"
+    },
+    {
+      "nama_wilayah": "Mekar Sawit",
+      "kode_wilayah": "12.05.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.20"
+    },
+    {
+      "nama_wilayah": "Alur Melati",
+      "kode_wilayah": "12.05.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.20"
+    }
+  ]
+}

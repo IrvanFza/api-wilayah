@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Yenggelo",
+      "kode_wilayah": "95.08.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.13"
+    },
+    {
+      "nama_wilayah": "Maima",
+      "kode_wilayah": "95.08.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.13"
+    },
+    {
+      "nama_wilayah": "Nolo",
+      "kode_wilayah": "95.08.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.13"
+    },
+    {
+      "nama_wilayah": "Wuarem",
+      "kode_wilayah": "95.08.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.13"
+    }
+  ]
+}

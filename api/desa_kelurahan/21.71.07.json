@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Muka Kuning",
+      "kode_wilayah": "21.71.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.07"
+    },
+    {
+      "nama_wilayah": "Duriangkang",
+      "kode_wilayah": "21.71.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.07"
+    },
+    {
+      "nama_wilayah": "Mangsang",
+      "kode_wilayah": "21.71.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.07"
+    },
+    {
+      "nama_wilayah": "Tanjung Piayu",
+      "kode_wilayah": "21.71.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.07"
+    }
+  ]
+}

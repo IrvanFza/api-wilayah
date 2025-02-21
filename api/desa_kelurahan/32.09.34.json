@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Seuseupan",
+      "kode_wilayah": "32.09.34.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.34"
+    },
+    {
+      "nama_wilayah": "Blender",
+      "kode_wilayah": "32.09.34.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.34"
+    },
+    {
+      "nama_wilayah": "Sumurkondang",
+      "kode_wilayah": "32.09.34.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.34"
+    },
+    {
+      "nama_wilayah": "Kubangdeleg",
+      "kode_wilayah": "32.09.34.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.34"
+    },
+    {
+      "nama_wilayah": "Jatipiring",
+      "kode_wilayah": "32.09.34.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.34"
+    },
+    {
+      "nama_wilayah": "Karanganyar",
+      "kode_wilayah": "32.09.34.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.34"
+    },
+    {
+      "nama_wilayah": "Karangwangi",
+      "kode_wilayah": "32.09.34.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.34"
+    },
+    {
+      "nama_wilayah": "Karangwareng",
+      "kode_wilayah": "32.09.34.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.34"
+    },
+    {
+      "nama_wilayah": "Karangasem",
+      "kode_wilayah": "32.09.34.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.34"
+    }
+  ]
+}

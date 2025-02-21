@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Serangan",
+      "kode_wilayah": "51.71.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.01"
+    },
+    {
+      "nama_wilayah": "Pedungan",
+      "kode_wilayah": "51.71.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.01"
+    },
+    {
+      "nama_wilayah": "Sesetan",
+      "kode_wilayah": "51.71.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.01"
+    },
+    {
+      "nama_wilayah": "Panjer",
+      "kode_wilayah": "51.71.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.01"
+    },
+    {
+      "nama_wilayah": "Renon",
+      "kode_wilayah": "51.71.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.01"
+    },
+    {
+      "nama_wilayah": "Sanur",
+      "kode_wilayah": "51.71.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.01"
+    },
+    {
+      "nama_wilayah": "Sidakarya",
+      "kode_wilayah": "51.71.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.01"
+    },
+    {
+      "nama_wilayah": "Pemogan",
+      "kode_wilayah": "51.71.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.01"
+    },
+    {
+      "nama_wilayah": "Sanur Kaja",
+      "kode_wilayah": "51.71.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.01"
+    },
+    {
+      "nama_wilayah": "Sanur Kauh",
+      "kode_wilayah": "51.71.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.71",
+      "kode_kecamatan": "51.71.01"
+    }
+  ]
+}

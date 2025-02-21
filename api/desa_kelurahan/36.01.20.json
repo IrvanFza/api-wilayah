@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Citalahab",
+      "kode_wilayah": "36.01.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.20"
+    },
+    {
+      "nama_wilayah": "Kadulimus",
+      "kode_wilayah": "36.01.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.20"
+    },
+    {
+      "nama_wilayah": "Bandung",
+      "kode_wilayah": "36.01.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.20"
+    },
+    {
+      "nama_wilayah": "Mogana",
+      "kode_wilayah": "36.01.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.20"
+    },
+    {
+      "nama_wilayah": "Banjar",
+      "kode_wilayah": "36.01.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.20"
+    },
+    {
+      "nama_wilayah": "Gunungputri",
+      "kode_wilayah": "36.01.20.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.20"
+    },
+    {
+      "nama_wilayah": "Cibodas",
+      "kode_wilayah": "36.01.20.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.20"
+    },
+    {
+      "nama_wilayah": "Kadubale",
+      "kode_wilayah": "36.01.20.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.20"
+    },
+    {
+      "nama_wilayah": "Cibeureum",
+      "kode_wilayah": "36.01.20.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.20"
+    },
+    {
+      "nama_wilayah": "Kadumaneuh",
+      "kode_wilayah": "36.01.20.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.20"
+    },
+    {
+      "nama_wilayah": "Pasirawi",
+      "kode_wilayah": "36.01.20.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.20"
+    }
+  ]
+}

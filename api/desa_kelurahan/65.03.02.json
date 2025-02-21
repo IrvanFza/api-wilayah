@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Nunukan Timur",
+      "kode_wilayah": "65.03.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.02"
+    },
+    {
+      "nama_wilayah": "Nunukan Barat",
+      "kode_wilayah": "65.03.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.02"
+    },
+    {
+      "nama_wilayah": "Nunukan Utara",
+      "kode_wilayah": "65.03.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.02"
+    },
+    {
+      "nama_wilayah": "Nunukan Tengah",
+      "kode_wilayah": "65.03.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.02"
+    },
+    {
+      "nama_wilayah": "Binusan",
+      "kode_wilayah": "65.03.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.02"
+    }
+  ]
+}

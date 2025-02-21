@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Hale",
+      "kode_wilayah": "53.07.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.21"
+    },
+    {
+      "nama_wilayah": "Hebing",
+      "kode_wilayah": "53.07.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.21"
+    },
+    {
+      "nama_wilayah": "Natakoli",
+      "kode_wilayah": "53.07.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.21"
+    },
+    {
+      "nama_wilayah": "Egon Gahar",
+      "kode_wilayah": "53.07.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.21"
+    }
+  ]
+}

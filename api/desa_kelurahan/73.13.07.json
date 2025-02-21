@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Macero",
+      "kode_wilayah": "73.13.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.07"
+    },
+    {
+      "nama_wilayah": "Malangke",
+      "kode_wilayah": "73.13.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.07"
+    },
+    {
+      "nama_wilayah": "Belawa",
+      "kode_wilayah": "73.13.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.07"
+    },
+    {
+      "nama_wilayah": "Ongkoe",
+      "kode_wilayah": "73.13.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.07"
+    },
+    {
+      "nama_wilayah": "Leppangeng",
+      "kode_wilayah": "73.13.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.07"
+    },
+    {
+      "nama_wilayah": "Wele",
+      "kode_wilayah": "73.13.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.07"
+    },
+    {
+      "nama_wilayah": "Limporilau",
+      "kode_wilayah": "73.13.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.07"
+    },
+    {
+      "nama_wilayah": "Sappa",
+      "kode_wilayah": "73.13.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.07"
+    },
+    {
+      "nama_wilayah": "Lautang",
+      "kode_wilayah": "73.13.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.07"
+    }
+  ]
+}

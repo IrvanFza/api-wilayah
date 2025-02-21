@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Payung",
+      "kode_wilayah": "12.06.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.06",
+      "kode_kecamatan": "12.06.11"
+    },
+    {
+      "nama_wilayah": "Rimo Kayu",
+      "kode_wilayah": "12.06.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.06",
+      "kode_kecamatan": "12.06.11"
+    },
+    {
+      "nama_wilayah": "Selandi",
+      "kode_wilayah": "12.06.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.06",
+      "kode_kecamatan": "12.06.11"
+    },
+    {
+      "nama_wilayah": "Batukarang",
+      "kode_wilayah": "12.06.11.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.06",
+      "kode_kecamatan": "12.06.11"
+    },
+    {
+      "nama_wilayah": "Gurukinayan",
+      "kode_wilayah": "12.06.11.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.06",
+      "kode_kecamatan": "12.06.11"
+    },
+    {
+      "nama_wilayah": "Cimbang",
+      "kode_wilayah": "12.06.11.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.06",
+      "kode_kecamatan": "12.06.11"
+    },
+    {
+      "nama_wilayah": "Ujung Payung",
+      "kode_wilayah": "12.06.11.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.06",
+      "kode_kecamatan": "12.06.11"
+    }
+  ]
+}

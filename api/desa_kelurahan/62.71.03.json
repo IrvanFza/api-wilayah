@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Palangka",
+      "kode_wilayah": "62.71.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.03"
+    },
+    {
+      "nama_wilayah": "Menteng",
+      "kode_wilayah": "62.71.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.03"
+    },
+    {
+      "nama_wilayah": "Bukit Tunggal",
+      "kode_wilayah": "62.71.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.03"
+    },
+    {
+      "nama_wilayah": "Petuk Katimpun",
+      "kode_wilayah": "62.71.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.03"
+    }
+  ]
+}

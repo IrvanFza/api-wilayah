@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Topo",
+      "kode_wilayah": "94.01.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.01",
+      "kode_kecamatan": "94.01.04"
+    },
+    {
+      "nama_wilayah": "Urumusu",
+      "kode_wilayah": "94.01.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.01",
+      "kode_kecamatan": "94.01.04"
+    },
+    {
+      "nama_wilayah": "Marga Jaya",
+      "kode_wilayah": "94.01.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.01",
+      "kode_kecamatan": "94.01.04"
+    },
+    {
+      "nama_wilayah": "Argo Mulyo",
+      "kode_wilayah": "94.01.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.01",
+      "kode_kecamatan": "94.01.04"
+    },
+    {
+      "nama_wilayah": "Topo Jaya",
+      "kode_wilayah": "94.01.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.01",
+      "kode_kecamatan": "94.01.04"
+    },
+    {
+      "nama_wilayah": "Gamei Jaya",
+      "kode_wilayah": "94.01.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.01",
+      "kode_kecamatan": "94.01.04"
+    }
+  ]
+}

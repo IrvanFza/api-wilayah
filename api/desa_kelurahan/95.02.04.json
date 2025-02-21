@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Iwur",
+      "kode_wilayah": "95.02.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.04"
+    },
+    {
+      "nama_wilayah": "Kurumklin",
+      "kode_wilayah": "95.02.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.04"
+    },
+    {
+      "nama_wilayah": "Walapkubun",
+      "kode_wilayah": "95.02.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.04"
+    },
+    {
+      "nama_wilayah": "Dinmot Arim",
+      "kode_wilayah": "95.02.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.04"
+    },
+    {
+      "nama_wilayah": "Ewenkatop",
+      "kode_wilayah": "95.02.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.04"
+    },
+    {
+      "nama_wilayah": "Ulkubi",
+      "kode_wilayah": "95.02.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.04"
+    },
+    {
+      "nama_wilayah": "Dipol",
+      "kode_wilayah": "95.02.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.04"
+    },
+    {
+      "nama_wilayah": "Nenginum",
+      "kode_wilayah": "95.02.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.04"
+    },
+    {
+      "nama_wilayah": "Narnger",
+      "kode_wilayah": "95.02.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.04"
+    },
+    {
+      "nama_wilayah": "Kamyoim",
+      "kode_wilayah": "95.02.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.04"
+    }
+  ]
+}

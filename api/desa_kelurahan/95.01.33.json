@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Bugi",
+      "kode_wilayah": "95.01.33.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.33"
+    },
+    {
+      "nama_wilayah": "Manda",
+      "kode_wilayah": "95.01.33.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.33"
+    },
+    {
+      "nama_wilayah": "Dewene",
+      "kode_wilayah": "95.01.33.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.33"
+    },
+    {
+      "nama_wilayah": "Totni",
+      "kode_wilayah": "95.01.33.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.33"
+    },
+    {
+      "nama_wilayah": "Tagulik",
+      "kode_wilayah": "95.01.33.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.33"
+    },
+    {
+      "nama_wilayah": "Walak Selatan",
+      "kode_wilayah": "95.01.33.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.33"
+    },
+    {
+      "nama_wilayah": "Kodlangga",
+      "kode_wilayah": "95.01.33.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.33"
+    },
+    {
+      "nama_wilayah": "Air Garam",
+      "kode_wilayah": "95.01.33.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.33"
+    }
+  ]
+}

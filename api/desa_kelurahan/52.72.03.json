@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Melayu",
+      "kode_wilayah": "52.72.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.72",
+      "kode_kecamatan": "52.72.03"
+    },
+    {
+      "nama_wilayah": "Jatiwangi",
+      "kode_wilayah": "52.72.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.72",
+      "kode_kecamatan": "52.72.03"
+    },
+    {
+      "nama_wilayah": "Jatibaru",
+      "kode_wilayah": "52.72.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.72",
+      "kode_kecamatan": "52.72.03"
+    },
+    {
+      "nama_wilayah": "Kolo",
+      "kode_wilayah": "52.72.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.72",
+      "kode_kecamatan": "52.72.03"
+    },
+    {
+      "nama_wilayah": "Jatibaru Timur",
+      "kode_wilayah": "52.72.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.72",
+      "kode_kecamatan": "52.72.03"
+    },
+    {
+      "nama_wilayah": "Ule",
+      "kode_wilayah": "52.72.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.72",
+      "kode_kecamatan": "52.72.03"
+    }
+  ]
+}

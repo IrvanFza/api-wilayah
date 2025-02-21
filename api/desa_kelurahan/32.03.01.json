@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Pamoyanan",
+      "kode_wilayah": "32.03.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.01"
+    },
+    {
+      "nama_wilayah": "Sawahgede",
+      "kode_wilayah": "32.03.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.01"
+    },
+    {
+      "nama_wilayah": "Bojongherang",
+      "kode_wilayah": "32.03.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.01"
+    },
+    {
+      "nama_wilayah": "Sayang",
+      "kode_wilayah": "32.03.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.01"
+    },
+    {
+      "nama_wilayah": "Solokpandan",
+      "kode_wilayah": "32.03.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.01"
+    },
+    {
+      "nama_wilayah": "Muka",
+      "kode_wilayah": "32.03.01.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.01"
+    },
+    {
+      "nama_wilayah": "Babakankaret",
+      "kode_wilayah": "32.03.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.01"
+    },
+    {
+      "nama_wilayah": "Nagrak",
+      "kode_wilayah": "32.03.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.01"
+    },
+    {
+      "nama_wilayah": "Sukamaju",
+      "kode_wilayah": "32.03.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.01"
+    },
+    {
+      "nama_wilayah": "Mekarsari",
+      "kode_wilayah": "32.03.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.01"
+    },
+    {
+      "nama_wilayah": "Limbangansari",
+      "kode_wilayah": "32.03.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.01"
+    }
+  ]
+}

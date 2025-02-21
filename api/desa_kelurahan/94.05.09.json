@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tayai",
+      "kode_wilayah": "94.05.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.09"
+    },
+    {
+      "nama_wilayah": "Kordesi",
+      "kode_wilayah": "94.05.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.09"
+    },
+    {
+      "nama_wilayah": "Faisau",
+      "kode_wilayah": "94.05.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.09"
+    },
+    {
+      "nama_wilayah": "Fokri",
+      "kode_wilayah": "94.05.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.09"
+    },
+    {
+      "nama_wilayah": "Foisa",
+      "kode_wilayah": "94.05.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.09"
+    },
+    {
+      "nama_wilayah": "Duaita",
+      "kode_wilayah": "94.05.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.09"
+    },
+    {
+      "nama_wilayah": "Dervos",
+      "kode_wilayah": "94.05.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.09"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Ratte Kurra",
+      "kode_wilayah": "73.18.38.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.38"
+    },
+    {
+      "nama_wilayah": "Bambalu",
+      "kode_wilayah": "73.18.38.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.38"
+    },
+    {
+      "nama_wilayah": "Maroson",
+      "kode_wilayah": "73.18.38.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.38"
+    },
+    {
+      "nama_wilayah": "Lipungan Tanete",
+      "kode_wilayah": "73.18.38.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.38"
+    },
+    {
+      "nama_wilayah": "Rante limbong",
+      "kode_wilayah": "73.18.38.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.38"
+    },
+    {
+      "nama_wilayah": "Limbong Sangpolo",
+      "kode_wilayah": "73.18.38.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.38"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Gelanggang",
+      "kode_wilayah": "52.03.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.18"
+    },
+    {
+      "nama_wilayah": "Surabaya",
+      "kode_wilayah": "52.03.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.18"
+    },
+    {
+      "nama_wilayah": "Lepak",
+      "kode_wilayah": "52.03.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.18"
+    },
+    {
+      "nama_wilayah": "Gereneng",
+      "kode_wilayah": "52.03.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.18"
+    },
+    {
+      "nama_wilayah": "Montong Tangi",
+      "kode_wilayah": "52.03.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.18"
+    },
+    {
+      "nama_wilayah": "Menceh",
+      "kode_wilayah": "52.03.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.18"
+    },
+    {
+      "nama_wilayah": "Lepak Timur",
+      "kode_wilayah": "52.03.18.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.18"
+    },
+    {
+      "nama_wilayah": "Surabaya Utara",
+      "kode_wilayah": "52.03.18.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.18"
+    },
+    {
+      "nama_wilayah": "Gereneng Timur",
+      "kode_wilayah": "52.03.18.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.18"
+    },
+    {
+      "nama_wilayah": "Lenting",
+      "kode_wilayah": "52.03.18.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.18"
+    }
+  ]
+}

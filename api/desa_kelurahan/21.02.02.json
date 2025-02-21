@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Batu Barat",
+      "kode_wilayah": "21.02.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.02"
+    },
+    {
+      "nama_wilayah": "Tanjung Batu Kota",
+      "kode_wilayah": "21.02.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.02"
+    },
+    {
+      "nama_wilayah": "Gading Sari",
+      "kode_wilayah": "21.02.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.02"
+    },
+    {
+      "nama_wilayah": "Sungai Sebesi",
+      "kode_wilayah": "21.02.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.02"
+    },
+    {
+      "nama_wilayah": "Sungai Ungar",
+      "kode_wilayah": "21.02.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.02"
+    },
+    {
+      "nama_wilayah": "Lubuk",
+      "kode_wilayah": "21.02.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.02"
+    }
+  ]
+}

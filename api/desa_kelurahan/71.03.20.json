@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Pintareng",
+      "kode_wilayah": "71.03.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.20"
+    },
+    {
+      "nama_wilayah": "Basauh",
+      "kode_wilayah": "71.03.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.20"
+    },
+    {
+      "nama_wilayah": "Tumalede",
+      "kode_wilayah": "71.03.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.20"
+    },
+    {
+      "nama_wilayah": "Sampakang",
+      "kode_wilayah": "71.03.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.20"
+    },
+    {
+      "nama_wilayah": "Dalokaweng",
+      "kode_wilayah": "71.03.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.20"
+    },
+    {
+      "nama_wilayah": "Malisade",
+      "kode_wilayah": "71.03.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.20"
+    }
+  ]
+}

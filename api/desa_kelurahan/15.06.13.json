@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Senyerang",
+      "kode_wilayah": "15.06.13.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.13"
+    },
+    {
+      "nama_wilayah": "Sungai Kayu Aro",
+      "kode_wilayah": "15.06.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.13"
+    },
+    {
+      "nama_wilayah": "Teluk Ketapang",
+      "kode_wilayah": "15.06.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.13"
+    },
+    {
+      "nama_wilayah": "Sungai Rambai",
+      "kode_wilayah": "15.06.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.13"
+    },
+    {
+      "nama_wilayah": "Margo Rukun",
+      "kode_wilayah": "15.06.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.13"
+    },
+    {
+      "nama_wilayah": "Kempas Jaya",
+      "kode_wilayah": "15.06.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.13"
+    },
+    {
+      "nama_wilayah": "Lumahan",
+      "kode_wilayah": "15.06.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.13"
+    },
+    {
+      "nama_wilayah": "Sungai Landak",
+      "kode_wilayah": "15.06.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.13"
+    },
+    {
+      "nama_wilayah": "Sungsang",
+      "kode_wilayah": "15.06.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.13"
+    },
+    {
+      "nama_wilayah": "Sungai Kepayang",
+      "kode_wilayah": "15.06.13.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.13"
+    }
+  ]
+}

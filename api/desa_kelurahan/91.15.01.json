@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Waren I",
+      "kode_wilayah": "91.15.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.01"
+    },
+    {
+      "nama_wilayah": "Waren II",
+      "kode_wilayah": "91.15.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.01"
+    },
+    {
+      "nama_wilayah": "Nonomi",
+      "kode_wilayah": "91.15.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.01"
+    },
+    {
+      "nama_wilayah": "Sarafambai",
+      "kode_wilayah": "91.15.01.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.01"
+    },
+    {
+      "nama_wilayah": "Uri",
+      "kode_wilayah": "91.15.01.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.01"
+    },
+    {
+      "nama_wilayah": "Batu Zaman",
+      "kode_wilayah": "91.15.01.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.01"
+    },
+    {
+      "nama_wilayah": "Sawara Jaya",
+      "kode_wilayah": "91.15.01.2029",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.01"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Palmerah",
+      "kode_wilayah": "31.73.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.07"
+    },
+    {
+      "nama_wilayah": "Slipi",
+      "kode_wilayah": "31.73.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.07"
+    },
+    {
+      "nama_wilayah": "Kota Bambu Utara",
+      "kode_wilayah": "31.73.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.07"
+    },
+    {
+      "nama_wilayah": "Jatipulo",
+      "kode_wilayah": "31.73.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.07"
+    },
+    {
+      "nama_wilayah": "Kemanggisan",
+      "kode_wilayah": "31.73.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.07"
+    },
+    {
+      "nama_wilayah": "Kota Bambu Selatan",
+      "kode_wilayah": "31.73.07.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.07"
+    }
+  ]
+}

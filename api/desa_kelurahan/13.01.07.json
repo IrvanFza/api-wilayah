@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "total": 23,
+  "data": [
+    {
+      "nama_wilayah": "Siguntur",
+      "kode_wilayah": "13.01.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Sungai Pinang",
+      "kode_wilayah": "13.01.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Duku",
+      "kode_wilayah": "13.01.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Batu Hampa",
+      "kode_wilayah": "13.01.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Nanggalo",
+      "kode_wilayah": "13.01.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Ampang Pulai",
+      "kode_wilayah": "13.01.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Kapuh",
+      "kode_wilayah": "13.01.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Barung-Barung Balantai",
+      "kode_wilayah": "13.01.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Barung-Barung Balantai Selatan",
+      "kode_wilayah": "13.01.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Mandeh",
+      "kode_wilayah": "13.01.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Kapuah Utara",
+      "kode_wilayah": "13.01.07.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Taratak Sungai Lundang",
+      "kode_wilayah": "13.01.07.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Siguntur Tua",
+      "kode_wilayah": "13.01.07.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Kampung Baru Korong Nan Ampek",
+      "kode_wilayah": "13.01.07.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Duku Utara",
+      "kode_wilayah": "13.01.07.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Pulau Karam Ampang Pulai",
+      "kode_wilayah": "13.01.07.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Jinang Kampung Pansur Ampang Pulai",
+      "kode_wilayah": "13.01.07.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Cerocok Anau Ampang Pulai",
+      "kode_wilayah": "13.01.07.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Sungai Nyalo Mudiak Aia",
+      "kode_wilayah": "13.01.07.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Batu Hampar Selatan",
+      "kode_wilayah": "13.01.07.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Barung-Barung Balantai Timur",
+      "kode_wilayah": "13.01.07.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Barung-Barung Balantai Tengah",
+      "kode_wilayah": "13.01.07.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    },
+    {
+      "nama_wilayah": "Setara Nanggalo",
+      "kode_wilayah": "13.01.07.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.07"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kalimanggiskulon",
+      "kode_wilayah": "32.08.27.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.27"
+    },
+    {
+      "nama_wilayah": "Partawangunan",
+      "kode_wilayah": "32.08.27.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.27"
+    },
+    {
+      "nama_wilayah": "Cipancur",
+      "kode_wilayah": "32.08.27.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.27"
+    },
+    {
+      "nama_wilayah": "Kertawana",
+      "kode_wilayah": "32.08.27.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.27"
+    },
+    {
+      "nama_wilayah": "Wanasaraya",
+      "kode_wilayah": "32.08.27.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.27"
+    },
+    {
+      "nama_wilayah": "Kalimanggiswetan",
+      "kode_wilayah": "32.08.27.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.27"
+    }
+  ]
+}

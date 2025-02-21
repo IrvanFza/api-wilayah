@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Simawang",
+      "kode_wilayah": "13.04.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.03"
+    },
+    {
+      "nama_wilayah": "Balimbiang",
+      "kode_wilayah": "13.04.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.03"
+    },
+    {
+      "nama_wilayah": "III Koto",
+      "kode_wilayah": "13.04.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.03"
+    },
+    {
+      "nama_wilayah": "Padang Magek",
+      "kode_wilayah": "13.04.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.03"
+    },
+    {
+      "nama_wilayah": "Rambatan",
+      "kode_wilayah": "13.04.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.03"
+    }
+  ]
+}

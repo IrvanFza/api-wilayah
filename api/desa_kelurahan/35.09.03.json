@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Jamintoro",
+      "kode_wilayah": "35.09.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.03"
+    },
+    {
+      "nama_wilayah": "Jatiroto",
+      "kode_wilayah": "35.09.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.03"
+    },
+    {
+      "nama_wilayah": "Kaliglagah",
+      "kode_wilayah": "35.09.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.03"
+    },
+    {
+      "nama_wilayah": "Jambesari",
+      "kode_wilayah": "35.09.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.03"
+    },
+    {
+      "nama_wilayah": "Yosorati",
+      "kode_wilayah": "35.09.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.03"
+    },
+    {
+      "nama_wilayah": "Sumberagung",
+      "kode_wilayah": "35.09.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.03"
+    },
+    {
+      "nama_wilayah": "Gelang",
+      "kode_wilayah": "35.09.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.03"
+    },
+    {
+      "nama_wilayah": "Rowotengah",
+      "kode_wilayah": "35.09.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.03"
+    },
+    {
+      "nama_wilayah": "Pringgowirawan",
+      "kode_wilayah": "35.09.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.03"
+    },
+    {
+      "nama_wilayah": "Karangbayat",
+      "kode_wilayah": "35.09.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.03"
+    }
+  ]
+}

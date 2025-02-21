@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Meureudu",
+      "kode_wilayah": "11.18.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.18",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Ulim",
+      "kode_wilayah": "11.18.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.18",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Jangka Buya",
+      "kode_wilayah": "11.18.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.18",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Bandar Dua",
+      "kode_wilayah": "11.18.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.18",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Meurah Dua",
+      "kode_wilayah": "11.18.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.18",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Bandar Baru",
+      "kode_wilayah": "11.18.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.18",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Panteraja",
+      "kode_wilayah": "11.18.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.18",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Trienggadeng",
+      "kode_wilayah": "11.18.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.18",
+      "kode_provinsi": "11"
+    }
+  ]
+}

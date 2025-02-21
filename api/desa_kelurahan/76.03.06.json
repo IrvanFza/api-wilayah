@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sumarorong",
+      "kode_wilayah": "76.03.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.06"
+    },
+    {
+      "nama_wilayah": "Tabone",
+      "kode_wilayah": "76.03.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.06"
+    },
+    {
+      "nama_wilayah": "Batang  Uru",
+      "kode_wilayah": "76.03.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.06"
+    },
+    {
+      "nama_wilayah": "Sasakan",
+      "kode_wilayah": "76.03.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.06"
+    },
+    {
+      "nama_wilayah": "Tadisi",
+      "kode_wilayah": "76.03.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.06"
+    },
+    {
+      "nama_wilayah": "Sibanawa",
+      "kode_wilayah": "76.03.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.06"
+    },
+    {
+      "nama_wilayah": "Batangnguru Timur",
+      "kode_wilayah": "76.03.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.06"
+    },
+    {
+      "nama_wilayah": "Salubalo",
+      "kode_wilayah": "76.03.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.06"
+    },
+    {
+      "nama_wilayah": "Banea",
+      "kode_wilayah": "76.03.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.06"
+    },
+    {
+      "nama_wilayah": "Rante Kamase",
+      "kode_wilayah": "76.03.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.06"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Koto Besar",
+      "kode_wilayah": "13.10.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.11"
+    },
+    {
+      "nama_wilayah": "Koto Tinggi",
+      "kode_wilayah": "13.10.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.11"
+    },
+    {
+      "nama_wilayah": "Koto Gadang",
+      "kode_wilayah": "13.10.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.11"
+    },
+    {
+      "nama_wilayah": "Bonjol",
+      "kode_wilayah": "13.10.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.11"
+    },
+    {
+      "nama_wilayah": "Abai Siat",
+      "kode_wilayah": "13.10.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.11"
+    },
+    {
+      "nama_wilayah": "Koto Laweh",
+      "kode_wilayah": "13.10.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.11"
+    },
+    {
+      "nama_wilayah": "Koto Ranah",
+      "kode_wilayah": "13.10.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.11"
+    }
+  ]
+}

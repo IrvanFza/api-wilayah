@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Betung",
+      "kode_wilayah": "16.07.05.1017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.05"
+    },
+    {
+      "nama_wilayah": "Rimba Asam",
+      "kode_wilayah": "16.07.05.1021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.05"
+    },
+    {
+      "nama_wilayah": "Betung Selatan",
+      "kode_wilayah": "16.07.05.1022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.05"
+    },
+    {
+      "nama_wilayah": "Pulau Rajak",
+      "kode_wilayah": "16.07.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.05"
+    },
+    {
+      "nama_wilayah": "Bukit",
+      "kode_wilayah": "16.07.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.05"
+    },
+    {
+      "nama_wilayah": "Sri Kembang",
+      "kode_wilayah": "16.07.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.05"
+    },
+    {
+      "nama_wilayah": "Lubuk Karet",
+      "kode_wilayah": "16.07.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.05"
+    },
+    {
+      "nama_wilayah": "Taja Mulya",
+      "kode_wilayah": "16.07.05.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.05"
+    },
+    {
+      "nama_wilayah": "Taja Raya I",
+      "kode_wilayah": "16.07.05.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.05"
+    },
+    {
+      "nama_wilayah": "Taja Indah",
+      "kode_wilayah": "16.07.05.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.05"
+    },
+    {
+      "nama_wilayah": "Taja Raya II",
+      "kode_wilayah": "16.07.05.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.05"
+    },
+    {
+      "nama_wilayah": "Suka Mulya",
+      "kode_wilayah": "16.07.05.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.05"
+    }
+  ]
+}

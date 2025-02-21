@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sempol",
+      "kode_wilayah": "35.11.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.19"
+    },
+    {
+      "nama_wilayah": "Kalianyar",
+      "kode_wilayah": "35.11.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.19"
+    },
+    {
+      "nama_wilayah": "Jampit",
+      "kode_wilayah": "35.11.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.19"
+    },
+    {
+      "nama_wilayah": "Kalisat",
+      "kode_wilayah": "35.11.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.19"
+    },
+    {
+      "nama_wilayah": "Kali Gedang",
+      "kode_wilayah": "35.11.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.19"
+    },
+    {
+      "nama_wilayah": "Sumber Rejo",
+      "kode_wilayah": "35.11.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.19"
+    }
+  ]
+}

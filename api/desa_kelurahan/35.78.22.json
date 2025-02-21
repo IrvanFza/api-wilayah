@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Gayungan",
+      "kode_wilayah": "35.78.22.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.22"
+    },
+    {
+      "nama_wilayah": "Menanggal",
+      "kode_wilayah": "35.78.22.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.22"
+    },
+    {
+      "nama_wilayah": "Dukuh Menanggal",
+      "kode_wilayah": "35.78.22.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.22"
+    },
+    {
+      "nama_wilayah": "Ketintang",
+      "kode_wilayah": "35.78.22.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.22"
+    }
+  ]
+}

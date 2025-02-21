@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Purbasari",
+      "kode_wilayah": "33.03.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.03",
+      "kode_kecamatan": "33.03.17"
+    },
+    {
+      "nama_wilayah": "Sirandu",
+      "kode_wilayah": "33.03.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.03",
+      "kode_kecamatan": "33.03.17"
+    },
+    {
+      "nama_wilayah": "Karangjambu",
+      "kode_wilayah": "33.03.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.03",
+      "kode_kecamatan": "33.03.17"
+    },
+    {
+      "nama_wilayah": "Sanguwatang",
+      "kode_wilayah": "33.03.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.03",
+      "kode_kecamatan": "33.03.17"
+    },
+    {
+      "nama_wilayah": "Jingkang",
+      "kode_wilayah": "33.03.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.03",
+      "kode_kecamatan": "33.03.17"
+    },
+    {
+      "nama_wilayah": "Danasari",
+      "kode_wilayah": "33.03.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.03",
+      "kode_kecamatan": "33.03.17"
+    }
+  ]
+}

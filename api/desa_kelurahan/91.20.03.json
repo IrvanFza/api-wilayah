@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Fona",
+      "kode_wilayah": "91.20.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.03"
+    },
+    {
+      "nama_wilayah": "Tayai",
+      "kode_wilayah": "91.20.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.03"
+    },
+    {
+      "nama_wilayah": "Bareri",
+      "kode_wilayah": "91.20.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.03"
+    },
+    {
+      "nama_wilayah": "Sikari",
+      "kode_wilayah": "91.20.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.03"
+    },
+    {
+      "nama_wilayah": "Kai",
+      "kode_wilayah": "91.20.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.03"
+    },
+    {
+      "nama_wilayah": "Haya",
+      "kode_wilayah": "91.20.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.03"
+    }
+  ]
+}

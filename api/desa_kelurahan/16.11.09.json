@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lubuk Kelumpang",
+      "kode_wilayah": "16.11.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.11",
+      "kode_kecamatan": "16.11.09"
+    },
+    {
+      "nama_wilayah": "Tanjungning Simpang",
+      "kode_wilayah": "16.11.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.11",
+      "kode_kecamatan": "16.11.09"
+    },
+    {
+      "nama_wilayah": "Tanjungning Tengah",
+      "kode_wilayah": "16.11.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.11",
+      "kode_kecamatan": "16.11.09"
+    },
+    {
+      "nama_wilayah": "Tanjungning Lama",
+      "kode_wilayah": "16.11.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.11",
+      "kode_kecamatan": "16.11.09"
+    },
+    {
+      "nama_wilayah": "Tanjungning Jaya",
+      "kode_wilayah": "16.11.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.11",
+      "kode_kecamatan": "16.11.09"
+    },
+    {
+      "nama_wilayah": "Sawah",
+      "kode_wilayah": "16.11.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.11",
+      "kode_kecamatan": "16.11.09"
+    },
+    {
+      "nama_wilayah": "Kebon",
+      "kode_wilayah": "16.11.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.11",
+      "kode_kecamatan": "16.11.09"
+    },
+    {
+      "nama_wilayah": "Suka Kaya",
+      "kode_wilayah": "16.11.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.11",
+      "kode_kecamatan": "16.11.09"
+    },
+    {
+      "nama_wilayah": "Taba",
+      "kode_wilayah": "16.11.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.11",
+      "kode_kecamatan": "16.11.09"
+    },
+    {
+      "nama_wilayah": "Muara Saling",
+      "kode_wilayah": "16.11.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.11",
+      "kode_kecamatan": "16.11.09"
+    }
+  ]
+}

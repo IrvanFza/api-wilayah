@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Ayuka",
+      "kode_wilayah": "94.04.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.07"
+    },
+    {
+      "nama_wilayah": "Amamapare",
+      "kode_wilayah": "94.04.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.07"
+    },
+    {
+      "nama_wilayah": "Ohotya",
+      "kode_wilayah": "94.04.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.07"
+    },
+    {
+      "nama_wilayah": "Omawita",
+      "kode_wilayah": "94.04.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.07"
+    },
+    {
+      "nama_wilayah": "Fanamo",
+      "kode_wilayah": "94.04.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.07"
+    }
+  ]
+}

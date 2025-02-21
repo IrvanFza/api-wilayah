@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Pandih Batu",
+      "kode_wilayah": "62.11.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.11",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Kahayan Kuala",
+      "kode_wilayah": "62.11.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.11",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Kahayan Tengah",
+      "kode_wilayah": "62.11.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.11",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Banama Tingang",
+      "kode_wilayah": "62.11.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.11",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Kahayan Hilir",
+      "kode_wilayah": "62.11.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.11",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Maliku",
+      "kode_wilayah": "62.11.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.11",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Jabiren Raya",
+      "kode_wilayah": "62.11.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.11",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Sebangau Kuala",
+      "kode_wilayah": "62.11.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.11",
+      "kode_provinsi": "62"
+    }
+  ]
+}

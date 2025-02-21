@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Pamulang Barat",
+      "kode_wilayah": "36.74.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.06"
+    },
+    {
+      "nama_wilayah": "Benda Baru",
+      "kode_wilayah": "36.74.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.06"
+    },
+    {
+      "nama_wilayah": "Pondok Benda",
+      "kode_wilayah": "36.74.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.06"
+    },
+    {
+      "nama_wilayah": "Pondok Cabe Udik",
+      "kode_wilayah": "36.74.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.06"
+    },
+    {
+      "nama_wilayah": "Pondok Cabe Ilir",
+      "kode_wilayah": "36.74.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.06"
+    },
+    {
+      "nama_wilayah": "Kedaung",
+      "kode_wilayah": "36.74.06.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.06"
+    },
+    {
+      "nama_wilayah": "Bambu Apus",
+      "kode_wilayah": "36.74.06.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.06"
+    },
+    {
+      "nama_wilayah": "Pamulang Timur",
+      "kode_wilayah": "36.74.06.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.06"
+    }
+  ]
+}

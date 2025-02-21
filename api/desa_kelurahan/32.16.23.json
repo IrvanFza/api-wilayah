@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Karangmulya",
+      "kode_wilayah": "32.16.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.23"
+    },
+    {
+      "nama_wilayah": "Karangindah",
+      "kode_wilayah": "32.16.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.23"
+    },
+    {
+      "nama_wilayah": "Bojongmangu",
+      "kode_wilayah": "32.16.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.23"
+    },
+    {
+      "nama_wilayah": "Sukabungah",
+      "kode_wilayah": "32.16.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.23"
+    },
+    {
+      "nama_wilayah": "Sukamukti",
+      "kode_wilayah": "32.16.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.23"
+    },
+    {
+      "nama_wilayah": "Medalkrisna",
+      "kode_wilayah": "32.16.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.23"
+    }
+  ]
+}

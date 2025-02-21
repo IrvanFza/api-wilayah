@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sekarputih",
+      "kode_wilayah": "35.11.13.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.13"
+    },
+    {
+      "nama_wilayah": "Klabang",
+      "kode_wilayah": "35.11.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.13"
+    },
+    {
+      "nama_wilayah": "Mandiro",
+      "kode_wilayah": "35.11.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.13"
+    },
+    {
+      "nama_wilayah": "Tanggulangin",
+      "kode_wilayah": "35.11.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.13"
+    },
+    {
+      "nama_wilayah": "Karanganyar",
+      "kode_wilayah": "35.11.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.13"
+    },
+    {
+      "nama_wilayah": "Tegalampel",
+      "kode_wilayah": "35.11.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.13"
+    },
+    {
+      "nama_wilayah": "Klabang Agung",
+      "kode_wilayah": "35.11.13.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.13"
+    },
+    {
+      "nama_wilayah": "Purnama",
+      "kode_wilayah": "35.11.13.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.13"
+    }
+  ]
+}

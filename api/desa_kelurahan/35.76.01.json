@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Mentikan",
+      "kode_wilayah": "35.76.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.76",
+      "kode_kecamatan": "35.76.01"
+    },
+    {
+      "nama_wilayah": "Kauman",
+      "kode_wilayah": "35.76.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.76",
+      "kode_kecamatan": "35.76.01"
+    },
+    {
+      "nama_wilayah": "Pulorejo",
+      "kode_wilayah": "35.76.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.76",
+      "kode_kecamatan": "35.76.01"
+    },
+    {
+      "nama_wilayah": "Prajuritkulon",
+      "kode_wilayah": "35.76.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.76",
+      "kode_kecamatan": "35.76.01"
+    },
+    {
+      "nama_wilayah": "Surodinawan",
+      "kode_wilayah": "35.76.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.76",
+      "kode_kecamatan": "35.76.01"
+    },
+    {
+      "nama_wilayah": "Blooto",
+      "kode_wilayah": "35.76.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.76",
+      "kode_kecamatan": "35.76.01"
+    }
+  ]
+}

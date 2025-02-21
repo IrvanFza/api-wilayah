@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tanah Merah",
+      "kode_wilayah": "12.75.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.05"
+    },
+    {
+      "nama_wilayah": "Binjai Estate",
+      "kode_wilayah": "12.75.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.05"
+    },
+    {
+      "nama_wilayah": "Bhakti Karya",
+      "kode_wilayah": "12.75.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.05"
+    },
+    {
+      "nama_wilayah": "Rambung Dalam",
+      "kode_wilayah": "12.75.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.05"
+    },
+    {
+      "nama_wilayah": "Pujidadi",
+      "kode_wilayah": "12.75.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.05"
+    },
+    {
+      "nama_wilayah": "Tanah Seribu",
+      "kode_wilayah": "12.75.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.05"
+    },
+    {
+      "nama_wilayah": "Rambung Barat",
+      "kode_wilayah": "12.75.05.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.05"
+    },
+    {
+      "nama_wilayah": "Rambung Timur",
+      "kode_wilayah": "12.75.05.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.05"
+    }
+  ]
+}

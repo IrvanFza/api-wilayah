@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Buraen",
+      "kode_wilayah": "53.01.18.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.18"
+    },
+    {
+      "nama_wilayah": "Sonraen",
+      "kode_wilayah": "53.01.18.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.18"
+    },
+    {
+      "nama_wilayah": "Nekmese",
+      "kode_wilayah": "53.01.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.18"
+    },
+    {
+      "nama_wilayah": "Retraen",
+      "kode_wilayah": "53.01.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.18"
+    },
+    {
+      "nama_wilayah": "Sahraen",
+      "kode_wilayah": "53.01.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.18"
+    }
+  ]
+}

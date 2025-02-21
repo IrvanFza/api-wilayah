@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Seluas",
+      "kode_wilayah": "61.07.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.05"
+    },
+    {
+      "nama_wilayah": "Bengkawan",
+      "kode_wilayah": "61.07.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.05"
+    },
+    {
+      "nama_wilayah": "Sahan",
+      "kode_wilayah": "61.07.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.05"
+    },
+    {
+      "nama_wilayah": "Mayak",
+      "kode_wilayah": "61.07.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.05"
+    },
+    {
+      "nama_wilayah": "Kalon",
+      "kode_wilayah": "61.07.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.05"
+    },
+    {
+      "nama_wilayah": "Sentangau Jaya",
+      "kode_wilayah": "61.07.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.05"
+    }
+  ]
+}

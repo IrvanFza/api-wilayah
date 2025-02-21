@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Karangkancana",
+      "kode_wilayah": "32.08.29.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.29"
+    },
+    {
+      "nama_wilayah": "Kaduagung",
+      "kode_wilayah": "32.08.29.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.29"
+    },
+    {
+      "nama_wilayah": "Segong",
+      "kode_wilayah": "32.08.29.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.29"
+    },
+    {
+      "nama_wilayah": "Tanjungkerta",
+      "kode_wilayah": "32.08.29.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.29"
+    },
+    {
+      "nama_wilayah": "Sukasari",
+      "kode_wilayah": "32.08.29.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.29"
+    },
+    {
+      "nama_wilayah": "Margacina",
+      "kode_wilayah": "32.08.29.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.29"
+    },
+    {
+      "nama_wilayah": "Jabranti",
+      "kode_wilayah": "32.08.29.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.29"
+    },
+    {
+      "nama_wilayah": "Simpayjaya",
+      "kode_wilayah": "32.08.29.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.29"
+    },
+    {
+      "nama_wilayah": "Cihanjaro",
+      "kode_wilayah": "32.08.29.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.29"
+    }
+  ]
+}

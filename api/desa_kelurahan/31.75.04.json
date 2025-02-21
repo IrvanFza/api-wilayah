@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kramatjati",
+      "kode_wilayah": "31.75.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.04"
+    },
+    {
+      "nama_wilayah": "Tengah",
+      "kode_wilayah": "31.75.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.04"
+    },
+    {
+      "nama_wilayah": "Dukuh",
+      "kode_wilayah": "31.75.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.04"
+    },
+    {
+      "nama_wilayah": "Batu Ampar",
+      "kode_wilayah": "31.75.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.04"
+    },
+    {
+      "nama_wilayah": "Balekambang",
+      "kode_wilayah": "31.75.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.04"
+    },
+    {
+      "nama_wilayah": "Cililitan",
+      "kode_wilayah": "31.75.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.04"
+    },
+    {
+      "nama_wilayah": "Cawang",
+      "kode_wilayah": "31.75.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.04"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Huta Barangan",
+      "kode_wilayah": "12.73.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.73",
+      "kode_kecamatan": "12.73.01"
+    },
+    {
+      "nama_wilayah": "Angin Nauli",
+      "kode_wilayah": "12.73.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.73",
+      "kode_kecamatan": "12.73.01"
+    },
+    {
+      "nama_wilayah": "Huta Tonga-tonga",
+      "kode_wilayah": "12.73.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.73",
+      "kode_kecamatan": "12.73.01"
+    },
+    {
+      "nama_wilayah": "Sibolga Ilir",
+      "kode_wilayah": "12.73.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.73",
+      "kode_kecamatan": "12.73.01"
+    },
+    {
+      "nama_wilayah": "Simare-Mare",
+      "kode_wilayah": "12.73.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.73",
+      "kode_kecamatan": "12.73.01"
+    }
+  ]
+}

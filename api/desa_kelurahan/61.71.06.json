@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Bansir Laut",
+      "kode_wilayah": "61.71.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.71",
+      "kode_kecamatan": "61.71.06"
+    },
+    {
+      "nama_wilayah": "Bansir Darat",
+      "kode_wilayah": "61.71.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.71",
+      "kode_kecamatan": "61.71.06"
+    },
+    {
+      "nama_wilayah": "Bangkabelitung Laut",
+      "kode_wilayah": "61.71.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.71",
+      "kode_kecamatan": "61.71.06"
+    },
+    {
+      "nama_wilayah": "Bangkabelitung Darat",
+      "kode_wilayah": "61.71.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.71",
+      "kode_kecamatan": "61.71.06"
+    }
+  ]
+}

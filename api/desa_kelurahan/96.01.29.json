@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sabake",
+      "kode_wilayah": "96.01.29.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.29"
+    },
+    {
+      "nama_wilayah": "Botain",
+      "kode_wilayah": "96.01.29.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.29"
+    },
+    {
+      "nama_wilayah": "Klafluk",
+      "kode_wilayah": "96.01.29.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.29"
+    },
+    {
+      "nama_wilayah": "Klayastani",
+      "kode_wilayah": "96.01.29.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.29"
+    },
+    {
+      "nama_wilayah": "Mamsit",
+      "kode_wilayah": "96.01.29.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.29"
+    }
+  ]
+}

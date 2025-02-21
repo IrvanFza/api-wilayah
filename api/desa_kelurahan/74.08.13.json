@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Lanipa - Nipa",
+      "kode_wilayah": "74.08.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.13"
+    },
+    {
+      "nama_wilayah": "Ujung Tobaku",
+      "kode_wilayah": "74.08.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.13"
+    },
+    {
+      "nama_wilayah": "Katoi",
+      "kode_wilayah": "74.08.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.13"
+    },
+    {
+      "nama_wilayah": "Simbula",
+      "kode_wilayah": "74.08.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.13"
+    },
+    {
+      "nama_wilayah": "Maruge",
+      "kode_wilayah": "74.08.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.13"
+    },
+    {
+      "nama_wilayah": "Lambuno",
+      "kode_wilayah": "74.08.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.13"
+    }
+  ]
+}

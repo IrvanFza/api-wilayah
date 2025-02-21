@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Aek Habil",
+      "kode_wilayah": "12.73.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.73",
+      "kode_kecamatan": "12.73.03"
+    },
+    {
+      "nama_wilayah": "Aek Manis",
+      "kode_wilayah": "12.73.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.73",
+      "kode_kecamatan": "12.73.03"
+    },
+    {
+      "nama_wilayah": "Aek Muara Pinang",
+      "kode_wilayah": "12.73.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.73",
+      "kode_kecamatan": "12.73.03"
+    },
+    {
+      "nama_wilayah": "Aek Parombunan",
+      "kode_wilayah": "12.73.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.73",
+      "kode_kecamatan": "12.73.03"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Kaliancar",
+      "kode_wilayah": "33.12.11.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.11"
+    },
+    {
+      "nama_wilayah": "Pare",
+      "kode_wilayah": "33.12.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.11"
+    },
+    {
+      "nama_wilayah": "Keloran",
+      "kode_wilayah": "33.12.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.11"
+    },
+    {
+      "nama_wilayah": "Kepatihan",
+      "kode_wilayah": "33.12.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.11"
+    },
+    {
+      "nama_wilayah": "Pule",
+      "kode_wilayah": "33.12.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.11"
+    },
+    {
+      "nama_wilayah": "Jendi",
+      "kode_wilayah": "33.12.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.11"
+    },
+    {
+      "nama_wilayah": "Singodutan",
+      "kode_wilayah": "33.12.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.11"
+    },
+    {
+      "nama_wilayah": "Gemantar",
+      "kode_wilayah": "33.12.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.11"
+    },
+    {
+      "nama_wilayah": "Jaten",
+      "kode_wilayah": "33.12.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.11"
+    },
+    {
+      "nama_wilayah": "Nambangan",
+      "kode_wilayah": "33.12.11.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.11"
+    },
+    {
+      "nama_wilayah": "Sendangijo",
+      "kode_wilayah": "33.12.11.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.11"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Wae Rii",
+      "kode_wilayah": "53.10.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.10",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Ruteng",
+      "kode_wilayah": "53.10.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.10",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Satar Mese",
+      "kode_wilayah": "53.10.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.10",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Cibal",
+      "kode_wilayah": "53.10.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.10",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Reok",
+      "kode_wilayah": "53.10.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.10",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Langke Rembong",
+      "kode_wilayah": "53.10.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.10",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Satar Mese Barat",
+      "kode_wilayah": "53.10.13",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.10",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Rahong Utara",
+      "kode_wilayah": "53.10.14",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.10",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Lelak",
+      "kode_wilayah": "53.10.15",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.10",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Reok Barat",
+      "kode_wilayah": "53.10.16",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.10",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Cibal barat",
+      "kode_wilayah": "53.10.17",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.10",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Satar Mese Utara",
+      "kode_wilayah": "53.10.18",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.10",
+      "kode_provinsi": "53"
+    }
+  ]
+}

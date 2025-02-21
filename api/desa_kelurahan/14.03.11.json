@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Medang",
+      "kode_wilayah": "14.03.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.11"
+    },
+    {
+      "nama_wilayah": "Teluk Rhu",
+      "kode_wilayah": "14.03.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.11"
+    },
+    {
+      "nama_wilayah": "Tanjung Punak",
+      "kode_wilayah": "14.03.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.11"
+    },
+    {
+      "nama_wilayah": "Kadur",
+      "kode_wilayah": "14.03.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.11"
+    },
+    {
+      "nama_wilayah": "Titi Akar",
+      "kode_wilayah": "14.03.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.11"
+    },
+    {
+      "nama_wilayah": "Hutan Ayu",
+      "kode_wilayah": "14.03.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.11"
+    },
+    {
+      "nama_wilayah": "Suka Damai",
+      "kode_wilayah": "14.03.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.11"
+    },
+    {
+      "nama_wilayah": "Puteri Sembilan",
+      "kode_wilayah": "14.03.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.11"
+    }
+  ]
+}

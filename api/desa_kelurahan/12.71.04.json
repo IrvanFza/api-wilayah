@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tegal S Mandala I",
+      "kode_wilayah": "12.71.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.04"
+    },
+    {
+      "nama_wilayah": "Tegal S Mandala II",
+      "kode_wilayah": "12.71.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.04"
+    },
+    {
+      "nama_wilayah": "Tegal S Mandala III",
+      "kode_wilayah": "12.71.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.04"
+    },
+    {
+      "nama_wilayah": "Denai",
+      "kode_wilayah": "12.71.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.04"
+    },
+    {
+      "nama_wilayah": "Binjai",
+      "kode_wilayah": "12.71.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.04"
+    },
+    {
+      "nama_wilayah": "Medan Tenggara",
+      "kode_wilayah": "12.71.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.04"
+    }
+  ]
+}

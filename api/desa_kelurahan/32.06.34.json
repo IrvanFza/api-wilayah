@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Dawagung",
+      "kode_wilayah": "32.06.34.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.34"
+    },
+    {
+      "nama_wilayah": "Rajapolah",
+      "kode_wilayah": "32.06.34.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.34"
+    },
+    {
+      "nama_wilayah": "Manggungjaya",
+      "kode_wilayah": "32.06.34.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.34"
+    },
+    {
+      "nama_wilayah": "Manggungsari",
+      "kode_wilayah": "32.06.34.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.34"
+    },
+    {
+      "nama_wilayah": "Sukaraja",
+      "kode_wilayah": "32.06.34.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.34"
+    },
+    {
+      "nama_wilayah": "Rajamandala",
+      "kode_wilayah": "32.06.34.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.34"
+    },
+    {
+      "nama_wilayah": "Sukanagalih",
+      "kode_wilayah": "32.06.34.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.34"
+    },
+    {
+      "nama_wilayah": "Tanjungpura",
+      "kode_wilayah": "32.06.34.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.34"
+    }
+  ]
+}

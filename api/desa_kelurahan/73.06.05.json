@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Lanna",
+      "kode_wilayah": "73.06.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.05"
+    },
+    {
+      "nama_wilayah": "Bontoparang",
+      "kode_wilayah": "73.06.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.05"
+    },
+    {
+      "nama_wilayah": "Lonjoboko",
+      "kode_wilayah": "73.06.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.05"
+    },
+    {
+      "nama_wilayah": "Borisallo",
+      "kode_wilayah": "73.06.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.05"
+    },
+    {
+      "nama_wilayah": "Belapunranga",
+      "kode_wilayah": "73.06.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.05"
+    },
+    {
+      "nama_wilayah": "Bontokassi",
+      "kode_wilayah": "73.06.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.05"
+    },
+    {
+      "nama_wilayah": "Belabori",
+      "kode_wilayah": "73.06.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.05"
+    }
+  ]
+}

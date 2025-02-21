@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Onatali",
+      "kode_wilayah": "53.14.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.04"
+    },
+    {
+      "nama_wilayah": "Maubesi",
+      "kode_wilayah": "53.14.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.04"
+    },
+    {
+      "nama_wilayah": "Nggodimeda",
+      "kode_wilayah": "53.14.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.04"
+    },
+    {
+      "nama_wilayah": "Limakoli",
+      "kode_wilayah": "53.14.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.04"
+    },
+    {
+      "nama_wilayah": "Lidamanu",
+      "kode_wilayah": "53.14.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.04"
+    },
+    {
+      "nama_wilayah": "Suebela",
+      "kode_wilayah": "53.14.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.04"
+    },
+    {
+      "nama_wilayah": "Lidabesi",
+      "kode_wilayah": "53.14.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.04"
+    },
+    {
+      "nama_wilayah": "Siomeda",
+      "kode_wilayah": "53.14.04.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.04"
+    }
+  ]
+}

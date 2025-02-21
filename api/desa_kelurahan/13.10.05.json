@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Silago",
+      "kode_wilayah": "13.10.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.05"
+    },
+    {
+      "nama_wilayah": "Lubuak Karak",
+      "kode_wilayah": "13.10.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.05"
+    },
+    {
+      "nama_wilayah": "Koto Nan Empat Dibawuh",
+      "kode_wilayah": "13.10.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.05"
+    },
+    {
+      "nama_wilayah": "Banai",
+      "kode_wilayah": "13.10.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.05"
+    }
+  ]
+}

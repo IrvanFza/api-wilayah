@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pagar",
+      "kode_wilayah": "18.03.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.23"
+    },
+    {
+      "nama_wilayah": "Blambangan",
+      "kode_wilayah": "18.03.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.23"
+    },
+    {
+      "nama_wilayah": "Jagang",
+      "kode_wilayah": "18.03.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.23"
+    },
+    {
+      "nama_wilayah": "Tanjung Iman",
+      "kode_wilayah": "18.03.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.23"
+    },
+    {
+      "nama_wilayah": "Tulung Singkip",
+      "kode_wilayah": "18.03.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.23"
+    },
+    {
+      "nama_wilayah": "Pagar Gading",
+      "kode_wilayah": "18.03.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.23"
+    },
+    {
+      "nama_wilayah": "Buring Kencana",
+      "kode_wilayah": "18.03.23.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.23"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Toloa",
+      "kode_wilayah": "82.72.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.72",
+      "kode_kecamatan": "82.72.04"
+    },
+    {
+      "nama_wilayah": "Dokiri",
+      "kode_wilayah": "82.72.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.72",
+      "kode_kecamatan": "82.72.04"
+    },
+    {
+      "nama_wilayah": "Tuguiha",
+      "kode_wilayah": "82.72.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.72",
+      "kode_kecamatan": "82.72.04"
+    },
+    {
+      "nama_wilayah": "Tomalou",
+      "kode_wilayah": "82.72.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.72",
+      "kode_kecamatan": "82.72.04"
+    },
+    {
+      "nama_wilayah": "Gurabati",
+      "kode_wilayah": "82.72.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.72",
+      "kode_kecamatan": "82.72.04"
+    },
+    {
+      "nama_wilayah": "Tongowai",
+      "kode_wilayah": "82.72.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.72",
+      "kode_kecamatan": "82.72.04"
+    },
+    {
+      "nama_wilayah": "Mare Kofo",
+      "kode_wilayah": "82.72.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.72",
+      "kode_kecamatan": "82.72.04"
+    },
+    {
+      "nama_wilayah": "Mare Gam",
+      "kode_wilayah": "82.72.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.72",
+      "kode_kecamatan": "82.72.04"
+    }
+  ]
+}

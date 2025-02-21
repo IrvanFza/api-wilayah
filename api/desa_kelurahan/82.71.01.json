@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Jambula",
+      "kode_wilayah": "82.71.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.01"
+    },
+    {
+      "nama_wilayah": "Foramadiahi",
+      "kode_wilayah": "82.71.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.01"
+    },
+    {
+      "nama_wilayah": "Kastela",
+      "kode_wilayah": "82.71.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.01"
+    },
+    {
+      "nama_wilayah": "Rua",
+      "kode_wilayah": "82.71.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.01"
+    },
+    {
+      "nama_wilayah": "Afe Taduma",
+      "kode_wilayah": "82.71.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.01"
+    },
+    {
+      "nama_wilayah": "Dorpedu",
+      "kode_wilayah": "82.71.01.1019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.01"
+    }
+  ]
+}

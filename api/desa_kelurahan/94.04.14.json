@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Hoya",
+      "kode_wilayah": "94.04.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.14"
+    },
+    {
+      "nama_wilayah": "Mamontoga",
+      "kode_wilayah": "94.04.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.14"
+    },
+    {
+      "nama_wilayah": "Jinonin",
+      "kode_wilayah": "94.04.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.14"
+    },
+    {
+      "nama_wilayah": "Kulama Ogom",
+      "kode_wilayah": "94.04.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.14"
+    },
+    {
+      "nama_wilayah": "Puti",
+      "kode_wilayah": "94.04.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.14"
+    },
+    {
+      "nama_wilayah": "Jawa",
+      "kode_wilayah": "94.04.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.14"
+    }
+  ]
+}

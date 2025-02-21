@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kamaruton",
+      "kode_wilayah": "36.04.35.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.35"
+    },
+    {
+      "nama_wilayah": "Teras Bendung",
+      "kode_wilayah": "36.04.35.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.35"
+    },
+    {
+      "nama_wilayah": "Lebak Wangi",
+      "kode_wilayah": "36.04.35.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.35"
+    },
+    {
+      "nama_wilayah": "Lebak Kepuh",
+      "kode_wilayah": "36.04.35.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.35"
+    },
+    {
+      "nama_wilayah": "Kencana Harapan",
+      "kode_wilayah": "36.04.35.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.35"
+    },
+    {
+      "nama_wilayah": "Pegandikan",
+      "kode_wilayah": "36.04.35.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.35"
+    },
+    {
+      "nama_wilayah": "Purwadadi",
+      "kode_wilayah": "36.04.35.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.35"
+    },
+    {
+      "nama_wilayah": "Bolang",
+      "kode_wilayah": "36.04.35.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.35"
+    },
+    {
+      "nama_wilayah": "Tirem",
+      "kode_wilayah": "36.04.35.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.35"
+    },
+    {
+      "nama_wilayah": "Kebonratu",
+      "kode_wilayah": "36.04.35.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.35"
+    }
+  ]
+}

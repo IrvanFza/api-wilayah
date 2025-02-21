@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Werba",
+      "kode_wilayah": "92.03.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.02"
+    },
+    {
+      "nama_wilayah": "Kiat",
+      "kode_wilayah": "92.03.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.02"
+    },
+    {
+      "nama_wilayah": "Purwasak",
+      "kode_wilayah": "92.03.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.02"
+    },
+    {
+      "nama_wilayah": "Wurkendik",
+      "kode_wilayah": "92.03.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.02"
+    },
+    {
+      "nama_wilayah": "Kwuhkendak",
+      "kode_wilayah": "92.03.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.02"
+    },
+    {
+      "nama_wilayah": "Purwahab Tonggo",
+      "kode_wilayah": "92.03.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.02"
+    },
+    {
+      "nama_wilayah": "Pahger Nkindik",
+      "kode_wilayah": "92.03.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.02"
+    },
+    {
+      "nama_wilayah": "Werba Utara",
+      "kode_wilayah": "92.03.02.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.02"
+    },
+    {
+      "nama_wilayah": "Porum",
+      "kode_wilayah": "92.03.02.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.02"
+    }
+  ]
+}

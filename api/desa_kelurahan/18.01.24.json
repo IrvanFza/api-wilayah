@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Sidoharjo",
+      "kode_wilayah": "18.01.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.01",
+      "kode_kecamatan": "18.01.24"
+    },
+    {
+      "nama_wilayah": "Sidomakmur",
+      "kode_wilayah": "18.01.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.01",
+      "kode_kecamatan": "18.01.24"
+    },
+    {
+      "nama_wilayah": "Sidoreno",
+      "kode_wilayah": "18.01.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.01",
+      "kode_kecamatan": "18.01.24"
+    },
+    {
+      "nama_wilayah": "Bali Nuraga",
+      "kode_wilayah": "18.01.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.01",
+      "kode_kecamatan": "18.01.24"
+    }
+  ]
+}

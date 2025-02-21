@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Embong Kaliasin",
+      "kode_wilayah": "35.78.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.07"
+    },
+    {
+      "nama_wilayah": "Genteng",
+      "kode_wilayah": "35.78.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.07"
+    },
+    {
+      "nama_wilayah": "Kapasari",
+      "kode_wilayah": "35.78.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.07"
+    },
+    {
+      "nama_wilayah": "Ketabang",
+      "kode_wilayah": "35.78.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.07"
+    },
+    {
+      "nama_wilayah": "Peneleh",
+      "kode_wilayah": "35.78.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.07"
+    }
+  ]
+}

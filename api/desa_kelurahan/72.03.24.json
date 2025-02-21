@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tibo",
+      "kode_wilayah": "72.03.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.24"
+    },
+    {
+      "nama_wilayah": "Kaliburu",
+      "kode_wilayah": "72.03.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.24"
+    },
+    {
+      "nama_wilayah": "Batusuya",
+      "kode_wilayah": "72.03.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.24"
+    },
+    {
+      "nama_wilayah": "Saloya",
+      "kode_wilayah": "72.03.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.24"
+    },
+    {
+      "nama_wilayah": "Batusuya Go-o",
+      "kode_wilayah": "72.03.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.24"
+    },
+    {
+      "nama_wilayah": "Kaliburu Kata",
+      "kode_wilayah": "72.03.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.24"
+    }
+  ]
+}

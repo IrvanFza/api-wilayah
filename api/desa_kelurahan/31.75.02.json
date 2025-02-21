@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pulo Gadung",
+      "kode_wilayah": "31.75.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.02"
+    },
+    {
+      "nama_wilayah": "Pisangan Timur",
+      "kode_wilayah": "31.75.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.02"
+    },
+    {
+      "nama_wilayah": "Cipinang",
+      "kode_wilayah": "31.75.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.02"
+    },
+    {
+      "nama_wilayah": "Jatinegara Kaum",
+      "kode_wilayah": "31.75.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.02"
+    },
+    {
+      "nama_wilayah": "Rawamangun",
+      "kode_wilayah": "31.75.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.02"
+    },
+    {
+      "nama_wilayah": "Kayu Putih",
+      "kode_wilayah": "31.75.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.02"
+    },
+    {
+      "nama_wilayah": "Jati",
+      "kode_wilayah": "31.75.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.02"
+    }
+  ]
+}

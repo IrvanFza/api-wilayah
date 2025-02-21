@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Juai",
+      "kode_wilayah": "63.11.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.11",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Halong",
+      "kode_wilayah": "63.11.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.11",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Awayan",
+      "kode_wilayah": "63.11.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.11",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Batu Mandi",
+      "kode_wilayah": "63.11.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.11",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Lampihong",
+      "kode_wilayah": "63.11.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.11",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Paringin",
+      "kode_wilayah": "63.11.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.11",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Paringin Selatan",
+      "kode_wilayah": "63.11.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.11",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Tebing Tinggi",
+      "kode_wilayah": "63.11.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.11",
+      "kode_provinsi": "63"
+    }
+  ]
+}

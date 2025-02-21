@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Pekayonjaya",
+      "kode_wilayah": "32.75.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.04"
+    },
+    {
+      "nama_wilayah": "Margajaya",
+      "kode_wilayah": "32.75.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.04"
+    },
+    {
+      "nama_wilayah": "Jakamulya",
+      "kode_wilayah": "32.75.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.04"
+    },
+    {
+      "nama_wilayah": "Jakasetia",
+      "kode_wilayah": "32.75.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.04"
+    },
+    {
+      "nama_wilayah": "Kayuringinjaya",
+      "kode_wilayah": "32.75.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.04"
+    }
+  ]
+}

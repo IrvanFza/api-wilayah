@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Biduk-Biduk",
+      "kode_wilayah": "64.03.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.08"
+    },
+    {
+      "nama_wilayah": "Pantai Harapan",
+      "kode_wilayah": "64.03.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.08"
+    },
+    {
+      "nama_wilayah": "Tanjung Prepat",
+      "kode_wilayah": "64.03.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.08"
+    },
+    {
+      "nama_wilayah": "Teluk Sumbang",
+      "kode_wilayah": "64.03.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.08"
+    },
+    {
+      "nama_wilayah": "Teluk Sulaiman",
+      "kode_wilayah": "64.03.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.08"
+    },
+    {
+      "nama_wilayah": "Giring-Giring",
+      "kode_wilayah": "64.03.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.08"
+    }
+  ]
+}

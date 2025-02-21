@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Koto Baru",
+      "kode_wilayah": "14.09.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.09",
+      "kode_kecamatan": "14.09.08"
+    },
+    {
+      "nama_wilayah": "Petai",
+      "kode_wilayah": "14.09.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.09",
+      "kode_kecamatan": "14.09.08"
+    },
+    {
+      "nama_wilayah": "Sungaipaku",
+      "kode_wilayah": "14.09.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.09",
+      "kode_kecamatan": "14.09.08"
+    },
+    {
+      "nama_wilayah": "Tanjungpauh",
+      "kode_wilayah": "14.09.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.09",
+      "kode_kecamatan": "14.09.08"
+    },
+    {
+      "nama_wilayah": "Simpang Raya",
+      "kode_wilayah": "14.09.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.09",
+      "kode_kecamatan": "14.09.08"
+    },
+    {
+      "nama_wilayah": "Sungaibuluh",
+      "kode_wilayah": "14.09.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.09",
+      "kode_kecamatan": "14.09.08"
+    },
+    {
+      "nama_wilayah": "Suka Damai",
+      "kode_wilayah": "14.09.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.09",
+      "kode_kecamatan": "14.09.08"
+    },
+    {
+      "nama_wilayah": "Sumber Jaya",
+      "kode_wilayah": "14.09.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.09",
+      "kode_kecamatan": "14.09.08"
+    },
+    {
+      "nama_wilayah": "Muara Bahan",
+      "kode_wilayah": "14.09.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.09",
+      "kode_kecamatan": "14.09.08"
+    },
+    {
+      "nama_wilayah": "Bukitraya",
+      "kode_wilayah": "14.09.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.09",
+      "kode_kecamatan": "14.09.08"
+    },
+    {
+      "nama_wilayah": "Beringin Jaya",
+      "kode_wilayah": "14.09.08.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.09",
+      "kode_kecamatan": "14.09.08"
+    },
+    {
+      "nama_wilayah": "Suka Maju",
+      "kode_wilayah": "14.09.08.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.09",
+      "kode_kecamatan": "14.09.08"
+    }
+  ]
+}

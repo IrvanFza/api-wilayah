@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Cikunten",
+      "kode_wilayah": "32.06.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.24"
+    },
+    {
+      "nama_wilayah": "Singaparna",
+      "kode_wilayah": "32.06.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.24"
+    },
+    {
+      "nama_wilayah": "Cipakat",
+      "kode_wilayah": "32.06.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.24"
+    },
+    {
+      "nama_wilayah": "Cintaraja",
+      "kode_wilayah": "32.06.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.24"
+    },
+    {
+      "nama_wilayah": "Cikunir",
+      "kode_wilayah": "32.06.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.24"
+    },
+    {
+      "nama_wilayah": "Cikadongdong",
+      "kode_wilayah": "32.06.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.24"
+    },
+    {
+      "nama_wilayah": "Sukaasih",
+      "kode_wilayah": "32.06.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.24"
+    },
+    {
+      "nama_wilayah": "Sukamulya",
+      "kode_wilayah": "32.06.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.24"
+    },
+    {
+      "nama_wilayah": "Singasari",
+      "kode_wilayah": "32.06.24.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.24"
+    },
+    {
+      "nama_wilayah": "Sukaherang",
+      "kode_wilayah": "32.06.24.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.24"
+    }
+  ]
+}

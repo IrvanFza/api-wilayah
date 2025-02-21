@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sungailiat",
+      "kode_wilayah": "19.01.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.01",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Belinyu",
+      "kode_wilayah": "19.01.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.01",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Merawang",
+      "kode_wilayah": "19.01.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.01",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Mendo Barat",
+      "kode_wilayah": "19.01.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.01",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Pemali",
+      "kode_wilayah": "19.01.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.01",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Bakam",
+      "kode_wilayah": "19.01.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.01",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Riau Silip",
+      "kode_wilayah": "19.01.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.01",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Puding Besar",
+      "kode_wilayah": "19.01.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.01",
+      "kode_provinsi": "19"
+    }
+  ]
+}

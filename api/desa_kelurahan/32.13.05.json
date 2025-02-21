@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Cihambulu",
+      "kode_wilayah": "32.13.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.05"
+    },
+    {
+      "nama_wilayah": "Siluman",
+      "kode_wilayah": "32.13.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.05"
+    },
+    {
+      "nama_wilayah": "Pringkasap",
+      "kode_wilayah": "32.13.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.05"
+    },
+    {
+      "nama_wilayah": "Pabuaran",
+      "kode_wilayah": "32.13.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.05"
+    },
+    {
+      "nama_wilayah": "Karanghegar",
+      "kode_wilayah": "32.13.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.05"
+    },
+    {
+      "nama_wilayah": "Salamjaya",
+      "kode_wilayah": "32.13.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.05"
+    },
+    {
+      "nama_wilayah": "Kadawung",
+      "kode_wilayah": "32.13.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.05"
+    },
+    {
+      "nama_wilayah": "Balebandung Jaya",
+      "kode_wilayah": "32.13.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.05"
+    }
+  ]
+}

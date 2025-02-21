@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Pasang",
+      "kode_wilayah": "73.26.12.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.12"
+    },
+    {
+      "nama_wilayah": "Ma-dong",
+      "kode_wilayah": "73.26.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.12"
+    },
+    {
+      "nama_wilayah": "Dende-",
+      "kode_wilayah": "73.26.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.12"
+    },
+    {
+      "nama_wilayah": "Piongan",
+      "kode_wilayah": "73.26.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.12"
+    },
+    {
+      "nama_wilayah": "Paku",
+      "kode_wilayah": "73.26.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.12"
+    },
+    {
+      "nama_wilayah": "Kapolang",
+      "kode_wilayah": "73.26.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.12"
+    },
+    {
+      "nama_wilayah": "Buntu Tagari",
+      "kode_wilayah": "73.26.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.12"
+    },
+    {
+      "nama_wilayah": "Parinding",
+      "kode_wilayah": "73.26.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.12"
+    }
+  ]
+}

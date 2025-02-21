@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Nirkuri",
+      "kode_wilayah": "95.08.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.19"
+    },
+    {
+      "nama_wilayah": "Binime",
+      "kode_wilayah": "95.08.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.19"
+    },
+    {
+      "nama_wilayah": "Uenoma",
+      "kode_wilayah": "95.08.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.19"
+    },
+    {
+      "nama_wilayah": "Pasebem",
+      "kode_wilayah": "95.08.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.19"
+    },
+    {
+      "nama_wilayah": "Sigmie",
+      "kode_wilayah": "95.08.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.19"
+    },
+    {
+      "nama_wilayah": "Nirigimbirik",
+      "kode_wilayah": "95.08.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.19"
+    },
+    {
+      "nama_wilayah": "Oldobo",
+      "kode_wilayah": "95.08.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.19"
+    },
+    {
+      "nama_wilayah": "Likubuk",
+      "kode_wilayah": "95.08.19.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.19"
+    },
+    {
+      "nama_wilayah": "Kokujondumu",
+      "kode_wilayah": "95.08.19.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.19"
+    },
+    {
+      "nama_wilayah": "Kurigi",
+      "kode_wilayah": "95.08.19.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.19"
+    }
+  ]
+}

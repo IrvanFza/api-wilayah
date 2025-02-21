@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Rejo",
+      "kode_wilayah": "15.02.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.21"
+    },
+    {
+      "nama_wilayah": "Sumber Agung",
+      "kode_wilayah": "15.02.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.21"
+    },
+    {
+      "nama_wilayah": "Suko Rejo",
+      "kode_wilayah": "15.02.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.21"
+    },
+    {
+      "nama_wilayah": "Sido Rukun",
+      "kode_wilayah": "15.02.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.21"
+    },
+    {
+      "nama_wilayah": "Lubuk Bumbun",
+      "kode_wilayah": "15.02.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.21"
+    },
+    {
+      "nama_wilayah": "Tegal Rejo",
+      "kode_wilayah": "15.02.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.21"
+    }
+  ]
+}

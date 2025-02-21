@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tapuk",
+      "kode_wilayah": "63.07.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.07",
+      "kode_kecamatan": "63.07.11"
+    },
+    {
+      "nama_wilayah": "Karau",
+      "kode_wilayah": "63.07.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.07",
+      "kode_kecamatan": "63.07.11"
+    },
+    {
+      "nama_wilayah": "Limpasu",
+      "kode_wilayah": "63.07.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.07",
+      "kode_kecamatan": "63.07.11"
+    },
+    {
+      "nama_wilayah": "Kabang",
+      "kode_wilayah": "63.07.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.07",
+      "kode_kecamatan": "63.07.11"
+    },
+    {
+      "nama_wilayah": "Abung Surapati",
+      "kode_wilayah": "63.07.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.07",
+      "kode_kecamatan": "63.07.11"
+    },
+    {
+      "nama_wilayah": "Karatungan",
+      "kode_wilayah": "63.07.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.07",
+      "kode_kecamatan": "63.07.11"
+    },
+    {
+      "nama_wilayah": "Pauh",
+      "kode_wilayah": "63.07.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.07",
+      "kode_kecamatan": "63.07.11"
+    },
+    {
+      "nama_wilayah": "Abung",
+      "kode_wilayah": "63.07.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.07",
+      "kode_kecamatan": "63.07.11"
+    },
+    {
+      "nama_wilayah": "Hawang",
+      "kode_wilayah": "63.07.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.07",
+      "kode_kecamatan": "63.07.11"
+    }
+  ]
+}

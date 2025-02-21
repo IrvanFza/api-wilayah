@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Simpang Tiga",
+      "kode_wilayah": "64.72.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.10"
+    },
+    {
+      "nama_wilayah": "Tani Aman",
+      "kode_wilayah": "64.72.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.10"
+    },
+    {
+      "nama_wilayah": "Sengkotek",
+      "kode_wilayah": "64.72.10.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.10"
+    },
+    {
+      "nama_wilayah": "Harapan Baru",
+      "kode_wilayah": "64.72.10.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.10"
+    },
+    {
+      "nama_wilayah": "Rapak Dalam",
+      "kode_wilayah": "64.72.10.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.10"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Jambi Luar Kota",
+      "kode_wilayah": "15.05.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.05",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Sekernan",
+      "kode_wilayah": "15.05.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.05",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Kumpeh",
+      "kode_wilayah": "15.05.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.05",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Maro Sebo",
+      "kode_wilayah": "15.05.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.05",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Mestong",
+      "kode_wilayah": "15.05.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.05",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Kumpeh Ulu",
+      "kode_wilayah": "15.05.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.05",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Sungai Bahar",
+      "kode_wilayah": "15.05.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.05",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Sungai Gelam",
+      "kode_wilayah": "15.05.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.05",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Bahar Utara",
+      "kode_wilayah": "15.05.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.05",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Bahar Selatan",
+      "kode_wilayah": "15.05.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.05",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Taman Rajo",
+      "kode_wilayah": "15.05.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.05",
+      "kode_provinsi": "15"
+    }
+  ]
+}

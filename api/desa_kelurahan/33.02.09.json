@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tanggeran",
+      "kode_wilayah": "33.02.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.09"
+    },
+    {
+      "nama_wilayah": "Sokawera",
+      "kode_wilayah": "33.02.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.09"
+    },
+    {
+      "nama_wilayah": "Somagede",
+      "kode_wilayah": "33.02.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.09"
+    },
+    {
+      "nama_wilayah": "Klinting",
+      "kode_wilayah": "33.02.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.09"
+    },
+    {
+      "nama_wilayah": "Kemawi",
+      "kode_wilayah": "33.02.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.09"
+    },
+    {
+      "nama_wilayah": "Piasa Kulon",
+      "kode_wilayah": "33.02.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.09"
+    },
+    {
+      "nama_wilayah": "Kanding",
+      "kode_wilayah": "33.02.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.09"
+    },
+    {
+      "nama_wilayah": "Somakaton",
+      "kode_wilayah": "33.02.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.09"
+    },
+    {
+      "nama_wilayah": "Plana",
+      "kode_wilayah": "33.02.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.09"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Dulupi",
+      "kode_wilayah": "75.02.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.03"
+    },
+    {
+      "nama_wilayah": "Tabongo",
+      "kode_wilayah": "75.02.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.03"
+    },
+    {
+      "nama_wilayah": "Kotaraja",
+      "kode_wilayah": "75.02.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.03"
+    },
+    {
+      "nama_wilayah": "Polohungo",
+      "kode_wilayah": "75.02.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.03"
+    },
+    {
+      "nama_wilayah": "Pangi",
+      "kode_wilayah": "75.02.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.03"
+    },
+    {
+      "nama_wilayah": "Tangga Jaya",
+      "kode_wilayah": "75.02.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.03"
+    },
+    {
+      "nama_wilayah": "Tanah Putih",
+      "kode_wilayah": "75.02.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.03"
+    },
+    {
+      "nama_wilayah": "Tangga Barito",
+      "kode_wilayah": "75.02.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.03"
+    }
+  ]
+}

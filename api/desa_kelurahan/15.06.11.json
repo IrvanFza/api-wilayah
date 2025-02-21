@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bram Itam Kiri",
+      "kode_wilayah": "15.06.11.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.11"
+    },
+    {
+      "nama_wilayah": "Bram Itam Kanan",
+      "kode_wilayah": "15.06.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.11"
+    },
+    {
+      "nama_wilayah": "Tanjung Senjulang",
+      "kode_wilayah": "15.06.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.11"
+    },
+    {
+      "nama_wilayah": "Pembengis",
+      "kode_wilayah": "15.06.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.11"
+    },
+    {
+      "nama_wilayah": "Bram Itam Raya",
+      "kode_wilayah": "15.06.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.11"
+    },
+    {
+      "nama_wilayah": "Pantai Gading",
+      "kode_wilayah": "15.06.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.11"
+    },
+    {
+      "nama_wilayah": "Jati Emas",
+      "kode_wilayah": "15.06.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.11"
+    },
+    {
+      "nama_wilayah": "Kemuning",
+      "kode_wilayah": "15.06.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.11"
+    },
+    {
+      "nama_wilayah": "Mekar Tanjung",
+      "kode_wilayah": "15.06.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.11"
+    },
+    {
+      "nama_wilayah": "Semau",
+      "kode_wilayah": "15.06.11.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.11"
+    }
+  ]
+}

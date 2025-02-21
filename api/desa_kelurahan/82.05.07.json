@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Waiboga",
+      "kode_wilayah": "82.05.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.07"
+    },
+    {
+      "nama_wilayah": "Soamole",
+      "kode_wilayah": "82.05.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.07"
+    },
+    {
+      "nama_wilayah": "Waiman",
+      "kode_wilayah": "82.05.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.07"
+    },
+    {
+      "nama_wilayah": "Fat Iba",
+      "kode_wilayah": "82.05.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.07"
+    },
+    {
+      "nama_wilayah": "Bega",
+      "kode_wilayah": "82.05.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.07"
+    },
+    {
+      "nama_wilayah": "Manaf",
+      "kode_wilayah": "82.05.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.07"
+    }
+  ]
+}

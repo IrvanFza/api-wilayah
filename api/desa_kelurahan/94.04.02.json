@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Kiliarma",
+      "kode_wilayah": "94.04.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.02"
+    },
+    {
+      "nama_wilayah": "Amungun",
+      "kode_wilayah": "94.04.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.02"
+    },
+    {
+      "nama_wilayah": "Aramsolki",
+      "kode_wilayah": "94.04.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.02"
+    },
+    {
+      "nama_wilayah": "Fakafuku",
+      "kode_wilayah": "94.04.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.02"
+    },
+    {
+      "nama_wilayah": "Masasimamo",
+      "kode_wilayah": "94.04.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.02"
+    },
+    {
+      "nama_wilayah": "Emogoma",
+      "kode_wilayah": "94.04.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.02"
+    },
+    {
+      "nama_wilayah": "Emkoma Halama",
+      "kode_wilayah": "94.04.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.02"
+    },
+    {
+      "nama_wilayah": "Hinat Untung",
+      "kode_wilayah": "94.04.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.02"
+    }
+  ]
+}

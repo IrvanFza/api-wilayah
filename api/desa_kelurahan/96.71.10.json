@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Suprau\r",
+      "kode_wilayah": "96.71.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.71",
+      "kode_kecamatan": "96.71.10"
+    },
+    {
+      "nama_wilayah": "Tampa Garam\r",
+      "kode_wilayah": "96.71.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.71",
+      "kode_kecamatan": "96.71.10"
+    },
+    {
+      "nama_wilayah": "Saoka\r",
+      "kode_wilayah": "96.71.10.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.71",
+      "kode_kecamatan": "96.71.10"
+    },
+    {
+      "nama_wilayah": "Tanjung Kasuari",
+      "kode_wilayah": "96.71.10.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.71",
+      "kode_kecamatan": "96.71.10"
+    }
+  ]
+}

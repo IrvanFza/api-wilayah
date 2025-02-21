@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Mandailing",
+      "kode_wilayah": "12.76.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.05"
+    },
+    {
+      "nama_wilayah": "Pasar Baru",
+      "kode_wilayah": "12.76.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.05"
+    },
+    {
+      "nama_wilayah": "Pasar Gambir",
+      "kode_wilayah": "12.76.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.05"
+    },
+    {
+      "nama_wilayah": "Badak Bejuang",
+      "kode_wilayah": "12.76.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.05"
+    },
+    {
+      "nama_wilayah": "Bandar Utama",
+      "kode_wilayah": "12.76.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.05"
+    },
+    {
+      "nama_wilayah": "Rambung",
+      "kode_wilayah": "12.76.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.05"
+    },
+    {
+      "nama_wilayah": "Tebing Tinggi Lama",
+      "kode_wilayah": "12.76.05.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.05"
+    }
+  ]
+}

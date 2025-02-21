@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kayo",
+      "kode_wilayah": "95.03.50.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.50"
+    },
+    {
+      "nama_wilayah": "Molama",
+      "kode_wilayah": "95.03.50.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.50"
+    },
+    {
+      "nama_wilayah": "Sebu",
+      "kode_wilayah": "95.03.50.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.50"
+    },
+    {
+      "nama_wilayah": "Walet",
+      "kode_wilayah": "95.03.50.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.50"
+    },
+    {
+      "nama_wilayah": "Hombesaloma",
+      "kode_wilayah": "95.03.50.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.50"
+    },
+    {
+      "nama_wilayah": "Alhai",
+      "kode_wilayah": "95.03.50.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.50"
+    },
+    {
+      "nama_wilayah": "Uase",
+      "kode_wilayah": "95.03.50.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.50"
+    }
+  ]
+}

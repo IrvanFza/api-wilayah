@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Petisah Tengah",
+      "kode_wilayah": "12.71.19.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.19"
+    },
+    {
+      "nama_wilayah": "Sekip",
+      "kode_wilayah": "12.71.19.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.19"
+    },
+    {
+      "nama_wilayah": "Sei Sikambing D",
+      "kode_wilayah": "12.71.19.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.19"
+    },
+    {
+      "nama_wilayah": "Sei Putih Barat",
+      "kode_wilayah": "12.71.19.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.19"
+    },
+    {
+      "nama_wilayah": "Sei Putih Tengah",
+      "kode_wilayah": "12.71.19.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.19"
+    },
+    {
+      "nama_wilayah": "Sei Putih Timur I",
+      "kode_wilayah": "12.71.19.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.19"
+    },
+    {
+      "nama_wilayah": "Sei Putih Timur II",
+      "kode_wilayah": "12.71.19.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.19"
+    }
+  ]
+}

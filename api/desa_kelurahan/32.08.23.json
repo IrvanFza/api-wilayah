@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Garatengah",
+      "kode_wilayah": "32.08.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.23"
+    },
+    {
+      "nama_wilayah": "Rajadanu",
+      "kode_wilayah": "32.08.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.23"
+    },
+    {
+      "nama_wilayah": "Singkup",
+      "kode_wilayah": "32.08.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.23"
+    },
+    {
+      "nama_wilayah": "Japara",
+      "kode_wilayah": "32.08.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.23"
+    },
+    {
+      "nama_wilayah": "Wano",
+      "kode_wilayah": "32.08.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.23"
+    },
+    {
+      "nama_wilayah": "Citapen",
+      "kode_wilayah": "32.08.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.23"
+    },
+    {
+      "nama_wilayah": "Cengal",
+      "kode_wilayah": "32.08.23.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.23"
+    },
+    {
+      "nama_wilayah": "Cikeleng",
+      "kode_wilayah": "32.08.23.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.23"
+    },
+    {
+      "nama_wilayah": "Kalimati",
+      "kode_wilayah": "32.08.23.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.23"
+    },
+    {
+      "nama_wilayah": "Dukuhdalem",
+      "kode_wilayah": "32.08.23.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.23"
+    }
+  ]
+}

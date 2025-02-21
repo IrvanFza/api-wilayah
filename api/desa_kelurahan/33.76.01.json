@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pesurungan Kidul",
+      "kode_wilayah": "33.76.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.01"
+    },
+    {
+      "nama_wilayah": "Debong Lor",
+      "kode_wilayah": "33.76.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.01"
+    },
+    {
+      "nama_wilayah": "Kemandungan",
+      "kode_wilayah": "33.76.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.01"
+    },
+    {
+      "nama_wilayah": "Pekauman",
+      "kode_wilayah": "33.76.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.01"
+    },
+    {
+      "nama_wilayah": "Kraton",
+      "kode_wilayah": "33.76.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.01"
+    },
+    {
+      "nama_wilayah": "Tegalsari",
+      "kode_wilayah": "33.76.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.01"
+    },
+    {
+      "nama_wilayah": "Muarareja",
+      "kode_wilayah": "33.76.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.01"
+    }
+  ]
+}

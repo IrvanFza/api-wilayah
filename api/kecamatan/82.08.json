@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Taliabu Barat",
+      "kode_wilayah": "82.08.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.08",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Taliabu Barat Laut",
+      "kode_wilayah": "82.08.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.08",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Lede",
+      "kode_wilayah": "82.08.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.08",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Taliabu Utara",
+      "kode_wilayah": "82.08.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.08",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Taliabu Timur",
+      "kode_wilayah": "82.08.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.08",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Taliabu Timur Selatan",
+      "kode_wilayah": "82.08.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.08",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Taliabu Selatan",
+      "kode_wilayah": "82.08.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.08",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Tabona",
+      "kode_wilayah": "82.08.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.08",
+      "kode_provinsi": "82"
+    }
+  ]
+}

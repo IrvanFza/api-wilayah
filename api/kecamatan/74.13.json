@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Sawerigadi",
+      "kode_wilayah": "74.13.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.13",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Barangka",
+      "kode_wilayah": "74.13.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.13",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Lawa",
+      "kode_wilayah": "74.13.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.13",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Wadaga",
+      "kode_wilayah": "74.13.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.13",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Tiworo Selatan",
+      "kode_wilayah": "74.13.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.13",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Maginti",
+      "kode_wilayah": "74.13.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.13",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Tiworo Tengah",
+      "kode_wilayah": "74.13.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.13",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Tiworo Utara",
+      "kode_wilayah": "74.13.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.13",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Tiworo Kepulauan",
+      "kode_wilayah": "74.13.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.13",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Kusambi",
+      "kode_wilayah": "74.13.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.13",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Napano Kusambi",
+      "kode_wilayah": "74.13.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.13",
+      "kode_provinsi": "74"
+    }
+  ]
+}

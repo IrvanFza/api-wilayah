@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Galumpang",
+      "kode_wilayah": "72.04.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.04",
+      "kode_kecamatan": "72.04.10"
+    },
+    {
+      "nama_wilayah": "Dungingis",
+      "kode_wilayah": "72.04.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.04",
+      "kode_kecamatan": "72.04.10"
+    },
+    {
+      "nama_wilayah": "Kapas",
+      "kode_wilayah": "72.04.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.04",
+      "kode_kecamatan": "72.04.10"
+    },
+    {
+      "nama_wilayah": "Lingadan",
+      "kode_wilayah": "72.04.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.04",
+      "kode_kecamatan": "72.04.10"
+    }
+  ]
+}

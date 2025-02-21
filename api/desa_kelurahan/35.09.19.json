@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Mangli",
+      "kode_wilayah": "35.09.19.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.19"
+    },
+    {
+      "nama_wilayah": "Sempusari",
+      "kode_wilayah": "35.09.19.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.19"
+    },
+    {
+      "nama_wilayah": "Kebonagung",
+      "kode_wilayah": "35.09.19.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.19"
+    },
+    {
+      "nama_wilayah": "Kaliwates",
+      "kode_wilayah": "35.09.19.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.19"
+    },
+    {
+      "nama_wilayah": "Jemberkidul",
+      "kode_wilayah": "35.09.19.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.19"
+    },
+    {
+      "nama_wilayah": "Kepatihan",
+      "kode_wilayah": "35.09.19.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.19"
+    },
+    {
+      "nama_wilayah": "Tegalbesar",
+      "kode_wilayah": "35.09.19.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.19"
+    }
+  ]
+}

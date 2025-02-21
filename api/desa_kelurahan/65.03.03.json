@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tagul",
+      "kode_wilayah": "65.03.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.03"
+    },
+    {
+      "nama_wilayah": "Lubakan",
+      "kode_wilayah": "65.03.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.03"
+    },
+    {
+      "nama_wilayah": "Atap",
+      "kode_wilayah": "65.03.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.03"
+    },
+    {
+      "nama_wilayah": "Manuk Bungkul",
+      "kode_wilayah": "65.03.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.03"
+    },
+    {
+      "nama_wilayah": "Tujung",
+      "kode_wilayah": "65.03.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.03"
+    },
+    {
+      "nama_wilayah": "Pagar",
+      "kode_wilayah": "65.03.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.03"
+    },
+    {
+      "nama_wilayah": "Labuk",
+      "kode_wilayah": "65.03.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.03"
+    },
+    {
+      "nama_wilayah": "Butas Bagu",
+      "kode_wilayah": "65.03.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.03"
+    },
+    {
+      "nama_wilayah": "Pelaju",
+      "kode_wilayah": "65.03.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.03"
+    },
+    {
+      "nama_wilayah": "Tepian",
+      "kode_wilayah": "65.03.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.03"
+    }
+  ]
+}

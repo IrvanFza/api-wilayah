@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sepinggan",
+      "kode_wilayah": "64.71.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.05"
+    },
+    {
+      "nama_wilayah": "Gunungbahagia",
+      "kode_wilayah": "64.71.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.05"
+    },
+    {
+      "nama_wilayah": "Sepinggan Baru",
+      "kode_wilayah": "64.71.05.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.05"
+    },
+    {
+      "nama_wilayah": "Sepinggan Raya",
+      "kode_wilayah": "64.71.05.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.05"
+    },
+    {
+      "nama_wilayah": "Sungainangka",
+      "kode_wilayah": "64.71.05.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.05"
+    },
+    {
+      "nama_wilayah": "Damai Baru",
+      "kode_wilayah": "64.71.05.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.05"
+    },
+    {
+      "nama_wilayah": "Damai Bahagia",
+      "kode_wilayah": "64.71.05.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.05"
+    }
+  ]
+}

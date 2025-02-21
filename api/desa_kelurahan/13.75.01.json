@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tarok Dipo",
+      "kode_wilayah": "13.75.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.75",
+      "kode_kecamatan": "13.75.01"
+    },
+    {
+      "nama_wilayah": "Bukit Cangang Kayu Ramang",
+      "kode_wilayah": "13.75.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.75",
+      "kode_kecamatan": "13.75.01"
+    },
+    {
+      "nama_wilayah": "Pakan Kurai",
+      "kode_wilayah": "13.75.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.75",
+      "kode_kecamatan": "13.75.01"
+    },
+    {
+      "nama_wilayah": "Aur Tajungkang Tangah Sawah",
+      "kode_wilayah": "13.75.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.75",
+      "kode_kecamatan": "13.75.01"
+    },
+    {
+      "nama_wilayah": "Benteng Pasar Atas",
+      "kode_wilayah": "13.75.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.75",
+      "kode_kecamatan": "13.75.01"
+    },
+    {
+      "nama_wilayah": "Kayu Kubu",
+      "kode_wilayah": "13.75.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.75",
+      "kode_kecamatan": "13.75.01"
+    },
+    {
+      "nama_wilayah": "Bukik Apik Puhun",
+      "kode_wilayah": "13.75.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.75",
+      "kode_kecamatan": "13.75.01"
+    }
+  ]
+}

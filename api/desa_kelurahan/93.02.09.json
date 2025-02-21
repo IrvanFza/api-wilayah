@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Maju",
+      "kode_wilayah": "93.02.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.09"
+    },
+    {
+      "nama_wilayah": "Bukit",
+      "kode_wilayah": "93.02.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.09"
+    },
+    {
+      "nama_wilayah": "Ujung",
+      "kode_wilayah": "93.02.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.09"
+    },
+    {
+      "nama_wilayah": "Ginggimop",
+      "kode_wilayah": "93.02.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.09"
+    },
+    {
+      "nama_wilayah": "Patriot",
+      "kode_wilayah": "93.02.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.09"
+    },
+    {
+      "nama_wilayah": "Arimbet",
+      "kode_wilayah": "93.02.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.09"
+    },
+    {
+      "nama_wilayah": "Aroa",
+      "kode_wilayah": "93.02.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.09"
+    }
+  ]
+}

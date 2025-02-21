@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Nauli",
+      "kode_wilayah": "12.01.13.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.13"
+    },
+    {
+      "nama_wilayah": "Bonandolok",
+      "kode_wilayah": "12.01.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.13"
+    },
+    {
+      "nama_wilayah": "Rampa",
+      "kode_wilayah": "12.01.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.13"
+    },
+    {
+      "nama_wilayah": "Mardame",
+      "kode_wilayah": "12.01.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.13"
+    },
+    {
+      "nama_wilayah": "Naga Timbul",
+      "kode_wilayah": "12.01.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.13"
+    },
+    {
+      "nama_wilayah": "Simaninggir",
+      "kode_wilayah": "12.01.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.13"
+    }
+  ]
+}

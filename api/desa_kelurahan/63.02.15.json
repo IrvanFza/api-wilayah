@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Buluh Kuning",
+      "kode_wilayah": "63.02.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.15"
+    },
+    {
+      "nama_wilayah": "Gendang Timburu",
+      "kode_wilayah": "63.02.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.15"
+    },
+    {
+      "nama_wilayah": "Manunggul Lama",
+      "kode_wilayah": "63.02.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.15"
+    },
+    {
+      "nama_wilayah": "Rantau Buda",
+      "kode_wilayah": "63.02.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.15"
+    },
+    {
+      "nama_wilayah": "Manunggul Baru",
+      "kode_wilayah": "63.02.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.15"
+    },
+    {
+      "nama_wilayah": "Terombong Sari",
+      "kode_wilayah": "63.02.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.15"
+    },
+    {
+      "nama_wilayah": "Rantau Jaya",
+      "kode_wilayah": "63.02.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.15"
+    }
+  ]
+}

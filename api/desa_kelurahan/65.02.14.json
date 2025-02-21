@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Long Lake",
+      "kode_wilayah": "65.02.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.14"
+    },
+    {
+      "nama_wilayah": "Punan Mirau",
+      "kode_wilayah": "65.02.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.14"
+    },
+    {
+      "nama_wilayah": "Long Rat",
+      "kode_wilayah": "65.02.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.14"
+    },
+    {
+      "nama_wilayah": "Halanga",
+      "kode_wilayah": "65.02.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.14"
+    },
+    {
+      "nama_wilayah": "Metut",
+      "kode_wilayah": "65.02.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.14"
+    },
+    {
+      "nama_wilayah": "Long Jalan",
+      "kode_wilayah": "65.02.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.14"
+    },
+    {
+      "nama_wilayah": "Nahakramo",
+      "kode_wilayah": "65.02.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.14"
+    },
+    {
+      "nama_wilayah": "Tanjung Nanga",
+      "kode_wilayah": "65.02.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.14"
+    }
+  ]
+}

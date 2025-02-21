@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sido Binangun",
+      "kode_wilayah": "18.02.25.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.25"
+    },
+    {
+      "nama_wilayah": "Sri Bawono",
+      "kode_wilayah": "18.02.25.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.25"
+    },
+    {
+      "nama_wilayah": "Sri Budaya",
+      "kode_wilayah": "18.02.25.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.25"
+    },
+    {
+      "nama_wilayah": "Suko Binangun",
+      "kode_wilayah": "18.02.25.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.25"
+    },
+    {
+      "nama_wilayah": "Sri Busono",
+      "kode_wilayah": "18.02.25.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.25"
+    },
+    {
+      "nama_wilayah": "Sangga Buana",
+      "kode_wilayah": "18.02.25.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.25"
+    }
+  ]
+}

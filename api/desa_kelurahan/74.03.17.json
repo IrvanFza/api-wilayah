@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Palangga",
+      "kode_wilayah": "74.03.17.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.17"
+    },
+    {
+      "nama_wilayah": "Wapunto",
+      "kode_wilayah": "74.03.17.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.17"
+    },
+    {
+      "nama_wilayah": "Ghonsume",
+      "kode_wilayah": "74.03.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.17"
+    },
+    {
+      "nama_wilayah": "Lagasa",
+      "kode_wilayah": "74.03.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.17"
+    },
+    {
+      "nama_wilayah": "Ghone Bhalano",
+      "kode_wilayah": "74.03.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.17"
+    },
+    {
+      "nama_wilayah": "Lasunapa",
+      "kode_wilayah": "74.03.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.17"
+    },
+    {
+      "nama_wilayah": "Banggai",
+      "kode_wilayah": "74.03.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.17"
+    }
+  ]
+}

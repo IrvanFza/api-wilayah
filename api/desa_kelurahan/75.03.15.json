@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Ayula Selatan",
+      "kode_wilayah": "75.03.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.15"
+    },
+    {
+      "nama_wilayah": "Huntu Utara",
+      "kode_wilayah": "75.03.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.15"
+    },
+    {
+      "nama_wilayah": "Ayula Utara",
+      "kode_wilayah": "75.03.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.15"
+    },
+    {
+      "nama_wilayah": "Huntu Selatan",
+      "kode_wilayah": "75.03.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.15"
+    },
+    {
+      "nama_wilayah": "Ayula Tilango",
+      "kode_wilayah": "75.03.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.15"
+    },
+    {
+      "nama_wilayah": "Ayula Timur",
+      "kode_wilayah": "75.03.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.15"
+    },
+    {
+      "nama_wilayah": "Lamahu",
+      "kode_wilayah": "75.03.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.15"
+    },
+    {
+      "nama_wilayah": "Tinelo Ayula",
+      "kode_wilayah": "75.03.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.15"
+    },
+    {
+      "nama_wilayah": "Sejahtera",
+      "kode_wilayah": "75.03.15.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.15"
+    },
+    {
+      "nama_wilayah": "Huntu Barat",
+      "kode_wilayah": "75.03.15.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.15"
+    }
+  ]
+}

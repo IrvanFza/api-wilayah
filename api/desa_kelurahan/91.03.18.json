@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Omon",
+      "kode_wilayah": "91.03.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.18"
+    },
+    {
+      "nama_wilayah": "Klaisu",
+      "kode_wilayah": "91.03.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.18"
+    },
+    {
+      "nama_wilayah": "Bangai",
+      "kode_wilayah": "91.03.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.18"
+    },
+    {
+      "nama_wilayah": "Desa Adat Iwon",
+      "kode_wilayah": "91.03.18.3002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.18"
+    }
+  ]
+}

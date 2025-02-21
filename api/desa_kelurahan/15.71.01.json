@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Simpang IV Sipin",
+      "kode_wilayah": "15.71.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.01"
+    },
+    {
+      "nama_wilayah": "Buluran Kenali",
+      "kode_wilayah": "15.71.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.01"
+    },
+    {
+      "nama_wilayah": "Teluk Kenali",
+      "kode_wilayah": "15.71.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.01"
+    },
+    {
+      "nama_wilayah": "Telanaipura",
+      "kode_wilayah": "15.71.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.01"
+    },
+    {
+      "nama_wilayah": "Penyengat Rendah",
+      "kode_wilayah": "15.71.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.01"
+    },
+    {
+      "nama_wilayah": "Pematang Sulur",
+      "kode_wilayah": "15.71.01.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.01"
+    },
+    {
+      "nama_wilayah": "Aur Kenali",
+      "kode_wilayah": "15.71.01.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.01"
+    }
+  ]
+}

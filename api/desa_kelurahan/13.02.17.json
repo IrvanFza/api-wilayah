@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Talang Babungo",
+      "kode_wilayah": "13.02.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.17"
+    },
+    {
+      "nama_wilayah": "Sariak Alahan Tigo",
+      "kode_wilayah": "13.02.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.17"
+    },
+    {
+      "nama_wilayah": "Sungai Abu",
+      "kode_wilayah": "13.02.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.17"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Sei Piring",
+      "kode_wilayah": "12.09.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.14"
+    },
+    {
+      "nama_wilayah": "Pulau Rakyat Tua",
+      "kode_wilayah": "12.09.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.14"
+    },
+    {
+      "nama_wilayah": "Pulau Rakyat Pekan",
+      "kode_wilayah": "12.09.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.14"
+    },
+    {
+      "nama_wilayah": "Orika",
+      "kode_wilayah": "12.09.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.14"
+    },
+    {
+      "nama_wilayah": "Manis",
+      "kode_wilayah": "12.09.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.14"
+    },
+    {
+      "nama_wilayah": "Tunggul 45",
+      "kode_wilayah": "12.09.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.14"
+    },
+    {
+      "nama_wilayah": "Bangun",
+      "kode_wilayah": "12.09.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.14"
+    },
+    {
+      "nama_wilayah": "Persatuan",
+      "kode_wilayah": "12.09.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.14"
+    },
+    {
+      "nama_wilayah": "Padang Mahondang",
+      "kode_wilayah": "12.09.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.14"
+    },
+    {
+      "nama_wilayah": "Ofa Padang Mahondang",
+      "kode_wilayah": "12.09.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.14"
+    },
+    {
+      "nama_wilayah": "Baru",
+      "kode_wilayah": "12.09.14.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.14"
+    },
+    {
+      "nama_wilayah": "Mekar Sari",
+      "kode_wilayah": "12.09.14.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.14"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Herley",
+      "kode_wilayah": "81.08.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.11"
+    },
+    {
+      "nama_wilayah": "Upuhupun",
+      "kode_wilayah": "81.08.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.11"
+    },
+    {
+      "nama_wilayah": "Pota Besar",
+      "kode_wilayah": "81.08.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.11"
+    },
+    {
+      "nama_wilayah": "Pota Kecil",
+      "kode_wilayah": "81.08.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.11"
+    },
+    {
+      "nama_wilayah": "Wasarili",
+      "kode_wilayah": "81.08.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.11"
+    },
+    {
+      "nama_wilayah": "Rumahlewang Kecil",
+      "kode_wilayah": "81.08.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.11"
+    },
+    {
+      "nama_wilayah": "Rumahlewang Besar",
+      "kode_wilayah": "81.08.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.11"
+    },
+    {
+      "nama_wilayah": "Nusiata",
+      "kode_wilayah": "81.08.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.11"
+    }
+  ]
+}

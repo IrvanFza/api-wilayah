@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Nogosari",
+      "kode_wilayah": "35.09.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.13"
+    },
+    {
+      "nama_wilayah": "Curahmalang",
+      "kode_wilayah": "35.09.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.13"
+    },
+    {
+      "nama_wilayah": "Rowotamtu",
+      "kode_wilayah": "35.09.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.13"
+    },
+    {
+      "nama_wilayah": "Kaliwining",
+      "kode_wilayah": "35.09.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.13"
+    },
+    {
+      "nama_wilayah": "Pecoro",
+      "kode_wilayah": "35.09.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.13"
+    },
+    {
+      "nama_wilayah": "Rambipuji",
+      "kode_wilayah": "35.09.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.13"
+    },
+    {
+      "nama_wilayah": "Gugut",
+      "kode_wilayah": "35.09.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.13"
+    },
+    {
+      "nama_wilayah": "Rambigundam",
+      "kode_wilayah": "35.09.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.13"
+    }
+  ]
+}

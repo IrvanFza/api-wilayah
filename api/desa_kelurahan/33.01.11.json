@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tinggarjaya",
+      "kode_wilayah": "33.01.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.11"
+    },
+    {
+      "nama_wilayah": "Sidareja",
+      "kode_wilayah": "33.01.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.11"
+    },
+    {
+      "nama_wilayah": "Sidamulya",
+      "kode_wilayah": "33.01.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.11"
+    },
+    {
+      "nama_wilayah": "Kunci",
+      "kode_wilayah": "33.01.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.11"
+    },
+    {
+      "nama_wilayah": "Karanggedang",
+      "kode_wilayah": "33.01.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.11"
+    },
+    {
+      "nama_wilayah": "Penyarang",
+      "kode_wilayah": "33.01.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.11"
+    },
+    {
+      "nama_wilayah": "Tegalsari",
+      "kode_wilayah": "33.01.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.11"
+    },
+    {
+      "nama_wilayah": "Margasari",
+      "kode_wilayah": "33.01.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.11"
+    },
+    {
+      "nama_wilayah": "Gunungreja",
+      "kode_wilayah": "33.01.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.11"
+    },
+    {
+      "nama_wilayah": "Sudagaran",
+      "kode_wilayah": "33.01.11.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.11"
+    }
+  ]
+}

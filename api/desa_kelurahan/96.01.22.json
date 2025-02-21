@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Klais",
+      "kode_wilayah": "96.01.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.22"
+    },
+    {
+      "nama_wilayah": "Mlakhan",
+      "kode_wilayah": "96.01.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.22"
+    },
+    {
+      "nama_wilayah": "Mimpe",
+      "kode_wilayah": "96.01.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.22"
+    },
+    {
+      "nama_wilayah": "Moos",
+      "kode_wilayah": "96.01.22.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.22"
+    },
+    {
+      "nama_wilayah": "Klahen",
+      "kode_wilayah": "96.01.22.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.22"
+    },
+    {
+      "nama_wilayah": "Tiklen",
+      "kode_wilayah": "96.01.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.22"
+    },
+    {
+      "nama_wilayah": "Buk",
+      "kode_wilayah": "96.01.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.22"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sompak",
+      "kode_wilayah": "61.08.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.08",
+      "kode_kecamatan": "61.08.13"
+    },
+    {
+      "nama_wilayah": "Pauh",
+      "kode_wilayah": "61.08.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.08",
+      "kode_kecamatan": "61.08.13"
+    },
+    {
+      "nama_wilayah": "Lingkonong",
+      "kode_wilayah": "61.08.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.08",
+      "kode_kecamatan": "61.08.13"
+    },
+    {
+      "nama_wilayah": "Galar",
+      "kode_wilayah": "61.08.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.08",
+      "kode_kecamatan": "61.08.13"
+    },
+    {
+      "nama_wilayah": "Amawakng",
+      "kode_wilayah": "61.08.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.08",
+      "kode_kecamatan": "61.08.13"
+    },
+    {
+      "nama_wilayah": "Tapakng",
+      "kode_wilayah": "61.08.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.08",
+      "kode_kecamatan": "61.08.13"
+    },
+    {
+      "nama_wilayah": "Pakumbang",
+      "kode_wilayah": "61.08.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.08",
+      "kode_kecamatan": "61.08.13"
+    }
+  ]
+}

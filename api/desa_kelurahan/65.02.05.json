@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Long Nawang",
+      "kode_wilayah": "65.02.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.05"
+    },
+    {
+      "nama_wilayah": "Nawang Baru",
+      "kode_wilayah": "65.02.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.05"
+    },
+    {
+      "nama_wilayah": "Long Temuyat",
+      "kode_wilayah": "65.02.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.05"
+    },
+    {
+      "nama_wilayah": "Long Betaoh",
+      "kode_wilayah": "65.02.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.05"
+    },
+    {
+      "nama_wilayah": "Long Payau",
+      "kode_wilayah": "65.02.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.05"
+    }
+  ]
+}

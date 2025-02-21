@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Air Teluk Kiri",
+      "kode_wilayah": "12.09.31.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.31"
+    },
+    {
+      "nama_wilayah": "Teluk Dalam",
+      "kode_wilayah": "12.09.31.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.31"
+    },
+    {
+      "nama_wilayah": "Perkebunan Teluk Dalam",
+      "kode_wilayah": "12.09.31.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.31"
+    },
+    {
+      "nama_wilayah": "Pulau Maria",
+      "kode_wilayah": "12.09.31.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.31"
+    },
+    {
+      "nama_wilayah": "Pulau Tanjung",
+      "kode_wilayah": "12.09.31.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.31"
+    },
+    {
+      "nama_wilayah": "Mekar Tanjung",
+      "kode_wilayah": "12.09.31.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.31"
+    }
+  ]
+}

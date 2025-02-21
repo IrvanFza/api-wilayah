@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Pangur",
+      "kode_wilayah": "11.13.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.08"
+    },
+    {
+      "nama_wilayah": "Badak",
+      "kode_wilayah": "11.13.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.08"
+    },
+    {
+      "nama_wilayah": "Kendawi",
+      "kode_wilayah": "11.13.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.08"
+    },
+    {
+      "nama_wilayah": "Sangir",
+      "kode_wilayah": "11.13.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.08"
+    },
+    {
+      "nama_wilayah": "Panglima Linting",
+      "kode_wilayah": "11.13.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.08"
+    },
+    {
+      "nama_wilayah": "Blangtemung",
+      "kode_wilayah": "11.13.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.08"
+    },
+    {
+      "nama_wilayah": "Rerebe",
+      "kode_wilayah": "11.13.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.08"
+    },
+    {
+      "nama_wilayah": "Uning Gelung",
+      "kode_wilayah": "11.13.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.08"
+    },
+    {
+      "nama_wilayah": "Uning Sepakat",
+      "kode_wilayah": "11.13.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.08"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Mantuil",
+      "kode_wilayah": "63.71.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.01"
+    },
+    {
+      "nama_wilayah": "Kelayan Selatan",
+      "kode_wilayah": "63.71.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.01"
+    },
+    {
+      "nama_wilayah": "Pekauman",
+      "kode_wilayah": "63.71.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.01"
+    },
+    {
+      "nama_wilayah": "Kelayan Barat",
+      "kode_wilayah": "63.71.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.01"
+    },
+    {
+      "nama_wilayah": "Kelayan Tengah",
+      "kode_wilayah": "63.71.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.01"
+    },
+    {
+      "nama_wilayah": "Kelayan Dalam",
+      "kode_wilayah": "63.71.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.01"
+    },
+    {
+      "nama_wilayah": "Murung Raya",
+      "kode_wilayah": "63.71.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.01"
+    },
+    {
+      "nama_wilayah": "Kelayan Timur",
+      "kode_wilayah": "63.71.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.01"
+    },
+    {
+      "nama_wilayah": "Tanjung Pagar",
+      "kode_wilayah": "63.71.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.01"
+    },
+    {
+      "nama_wilayah": "Pemurus Dalam",
+      "kode_wilayah": "63.71.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.01"
+    },
+    {
+      "nama_wilayah": "Pemurus Baru",
+      "kode_wilayah": "63.71.01.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.01"
+    },
+    {
+      "nama_wilayah": "Basirih Selatan",
+      "kode_wilayah": "63.71.01.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.01"
+    }
+  ]
+}

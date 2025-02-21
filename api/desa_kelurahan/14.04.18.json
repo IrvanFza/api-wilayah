@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Concong Luar",
+      "kode_wilayah": "14.04.18.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.18"
+    },
+    {
+      "nama_wilayah": "Concong Dalam",
+      "kode_wilayah": "14.04.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.18"
+    },
+    {
+      "nama_wilayah": "Concong Tengah",
+      "kode_wilayah": "14.04.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.18"
+    },
+    {
+      "nama_wilayah": "Kampung Baru",
+      "kode_wilayah": "14.04.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.18"
+    },
+    {
+      "nama_wilayah": "Panglima Raja",
+      "kode_wilayah": "14.04.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.18"
+    },
+    {
+      "nama_wilayah": "Sungaiberapit",
+      "kode_wilayah": "14.04.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.18"
+    }
+  ]
+}

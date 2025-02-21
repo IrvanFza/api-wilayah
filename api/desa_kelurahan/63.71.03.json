@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Belitung Utara",
+      "kode_wilayah": "63.71.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.03"
+    },
+    {
+      "nama_wilayah": "Belitung Selatan",
+      "kode_wilayah": "63.71.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.03"
+    },
+    {
+      "nama_wilayah": "Pelambuan",
+      "kode_wilayah": "63.71.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.03"
+    },
+    {
+      "nama_wilayah": "Telaga Biru",
+      "kode_wilayah": "63.71.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.03"
+    },
+    {
+      "nama_wilayah": "Telawang",
+      "kode_wilayah": "63.71.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.03"
+    },
+    {
+      "nama_wilayah": "Teluk Tiram",
+      "kode_wilayah": "63.71.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.03"
+    },
+    {
+      "nama_wilayah": "Kuin Selatan",
+      "kode_wilayah": "63.71.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.03"
+    },
+    {
+      "nama_wilayah": "Kuin Cerucuk",
+      "kode_wilayah": "63.71.03.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.03"
+    },
+    {
+      "nama_wilayah": "Basirih",
+      "kode_wilayah": "63.71.03.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.71",
+      "kode_kecamatan": "63.71.03"
+    }
+  ]
+}

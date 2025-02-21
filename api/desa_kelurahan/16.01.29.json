@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Karya Jaya",
+      "kode_wilayah": "16.01.29.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.29"
+    },
+    {
+      "nama_wilayah": "Karya Mukti",
+      "kode_wilayah": "16.01.29.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.29"
+    },
+    {
+      "nama_wilayah": "Marga Bakti",
+      "kode_wilayah": "16.01.29.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.29"
+    },
+    {
+      "nama_wilayah": "Sri Mulya",
+      "kode_wilayah": "16.01.29.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.29"
+    },
+    {
+      "nama_wilayah": "Marga Mulya",
+      "kode_wilayah": "16.01.29.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.29"
+    },
+    {
+      "nama_wilayah": "Tanjung Makmur",
+      "kode_wilayah": "16.01.29.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.29"
+    }
+  ]
+}

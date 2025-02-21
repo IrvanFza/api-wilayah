@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Petasia",
+      "kode_wilayah": "72.12.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.12",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Petasia Timur",
+      "kode_wilayah": "72.12.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.12",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Lembo Raya",
+      "kode_wilayah": "72.12.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.12",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Lembo",
+      "kode_wilayah": "72.12.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.12",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Mori Atas",
+      "kode_wilayah": "72.12.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.12",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Mori Utara",
+      "kode_wilayah": "72.12.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.12",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Soyo Jaya",
+      "kode_wilayah": "72.12.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.12",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Bungku Utara",
+      "kode_wilayah": "72.12.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.12",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Mamosalato",
+      "kode_wilayah": "72.12.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.12",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Petasia Barat",
+      "kode_wilayah": "72.12.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.12",
+      "kode_provinsi": "72"
+    }
+  ]
+}

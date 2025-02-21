@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Watonea",
+      "kode_wilayah": "74.03.16.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.16"
+    },
+    {
+      "nama_wilayah": "Raha III",
+      "kode_wilayah": "74.03.16.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.16"
+    },
+    {
+      "nama_wilayah": "Wamponiki",
+      "kode_wilayah": "74.03.16.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.16"
+    },
+    {
+      "nama_wilayah": "Butung Butung",
+      "kode_wilayah": "74.03.16.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.16"
+    },
+    {
+      "nama_wilayah": "Raha II",
+      "kode_wilayah": "74.03.16.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.16"
+    },
+    {
+      "nama_wilayah": "Foo Kuni",
+      "kode_wilayah": "74.03.16.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.16"
+    },
+    {
+      "nama_wilayah": "Laende",
+      "kode_wilayah": "74.03.16.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.16"
+    },
+    {
+      "nama_wilayah": "Raha I",
+      "kode_wilayah": "74.03.16.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.16"
+    }
+  ]
+}

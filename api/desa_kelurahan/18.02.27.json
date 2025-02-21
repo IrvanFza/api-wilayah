@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Gedung Sari",
+      "kode_wilayah": "18.02.27.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.27"
+    },
+    {
+      "nama_wilayah": "Srimulyo",
+      "kode_wilayah": "18.02.27.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.27"
+    },
+    {
+      "nama_wilayah": "Gedung Ratu",
+      "kode_wilayah": "18.02.27.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.27"
+    },
+    {
+      "nama_wilayah": "Bandar Putih Tua",
+      "kode_wilayah": "18.02.27.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.27"
+    },
+    {
+      "nama_wilayah": "Karang Jawa",
+      "kode_wilayah": "18.02.27.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.27"
+    },
+    {
+      "nama_wilayah": "Sukajaya",
+      "kode_wilayah": "18.02.27.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.27"
+    }
+  ]
+}

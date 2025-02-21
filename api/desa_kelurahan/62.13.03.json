@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pulau Padang",
+      "kode_wilayah": "62.13.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.03"
+    },
+    {
+      "nama_wilayah": "Kambitin",
+      "kode_wilayah": "62.13.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.03"
+    },
+    {
+      "nama_wilayah": "Ramania",
+      "kode_wilayah": "62.13.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.03"
+    },
+    {
+      "nama_wilayah": "Bentot",
+      "kode_wilayah": "62.13.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.03"
+    },
+    {
+      "nama_wilayah": "Ampari Bura",
+      "kode_wilayah": "62.13.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.03"
+    },
+    {
+      "nama_wilayah": "Kotam",
+      "kode_wilayah": "62.13.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.03"
+    },
+    {
+      "nama_wilayah": "Betang Nalong",
+      "kode_wilayah": "62.13.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.03"
+    },
+    {
+      "nama_wilayah": "Mawani",
+      "kode_wilayah": "62.13.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.03"
+    },
+    {
+      "nama_wilayah": "Jango",
+      "kode_wilayah": "62.13.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.03"
+    },
+    {
+      "nama_wilayah": "Lalap",
+      "kode_wilayah": "62.13.03.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.03"
+    }
+  ]
+}

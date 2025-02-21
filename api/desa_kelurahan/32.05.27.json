@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Pameungpeuk",
+      "kode_wilayah": "32.05.27.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.27"
+    },
+    {
+      "nama_wilayah": "Mancagahar",
+      "kode_wilayah": "32.05.27.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.27"
+    },
+    {
+      "nama_wilayah": "Paas",
+      "kode_wilayah": "32.05.27.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.27"
+    },
+    {
+      "nama_wilayah": "Mandalakasih",
+      "kode_wilayah": "32.05.27.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.27"
+    },
+    {
+      "nama_wilayah": "Jatimulya",
+      "kode_wilayah": "32.05.27.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.27"
+    },
+    {
+      "nama_wilayah": "Bojong",
+      "kode_wilayah": "32.05.27.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.27"
+    },
+    {
+      "nama_wilayah": "Sirnabakti",
+      "kode_wilayah": "32.05.27.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.27"
+    },
+    {
+      "nama_wilayah": "Bojong Kidul",
+      "kode_wilayah": "32.05.27.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.27"
+    }
+  ]
+}

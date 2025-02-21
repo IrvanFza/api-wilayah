@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Wonokerto",
+      "kode_wilayah": "35.07.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.03"
+    },
+    {
+      "nama_wilayah": "Rejosari",
+      "kode_wilayah": "35.07.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.03"
+    },
+    {
+      "nama_wilayah": "Bantur",
+      "kode_wilayah": "35.07.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.03"
+    },
+    {
+      "nama_wilayah": "Wonorejo",
+      "kode_wilayah": "35.07.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.03"
+    },
+    {
+      "nama_wilayah": "Srigonco",
+      "kode_wilayah": "35.07.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.03"
+    },
+    {
+      "nama_wilayah": "Sumberbening",
+      "kode_wilayah": "35.07.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.03"
+    },
+    {
+      "nama_wilayah": "Bandungrejo",
+      "kode_wilayah": "35.07.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.03"
+    },
+    {
+      "nama_wilayah": "Pringgodani",
+      "kode_wilayah": "35.07.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.03"
+    },
+    {
+      "nama_wilayah": "Rejoyoso",
+      "kode_wilayah": "35.07.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.03"
+    },
+    {
+      "nama_wilayah": "Karangsari",
+      "kode_wilayah": "35.07.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.03"
+    }
+  ]
+}

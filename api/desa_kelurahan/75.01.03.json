@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Iluta",
+      "kode_wilayah": "75.01.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.03"
+    },
+    {
+      "nama_wilayah": "Bua",
+      "kode_wilayah": "75.01.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.03"
+    },
+    {
+      "nama_wilayah": "Huntu",
+      "kode_wilayah": "75.01.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.03"
+    },
+    {
+      "nama_wilayah": "Payunga",
+      "kode_wilayah": "75.01.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.03"
+    },
+    {
+      "nama_wilayah": "Barakati",
+      "kode_wilayah": "75.01.03.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.03"
+    },
+    {
+      "nama_wilayah": "Ilohungayo",
+      "kode_wilayah": "75.01.03.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.03"
+    },
+    {
+      "nama_wilayah": "Dunggala",
+      "kode_wilayah": "75.01.03.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.03"
+    },
+    {
+      "nama_wilayah": "Pilobuhuta",
+      "kode_wilayah": "75.01.03.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.03"
+    }
+  ]
+}

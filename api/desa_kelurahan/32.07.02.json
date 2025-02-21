@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Cikoneng",
+      "kode_wilayah": "32.07.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.02"
+    },
+    {
+      "nama_wilayah": "Margaluyu",
+      "kode_wilayah": "32.07.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.02"
+    },
+    {
+      "nama_wilayah": "Sindangsari",
+      "kode_wilayah": "32.07.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.02"
+    },
+    {
+      "nama_wilayah": "Panaragan",
+      "kode_wilayah": "32.07.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.02"
+    },
+    {
+      "nama_wilayah": "Darmacaang",
+      "kode_wilayah": "32.07.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.02"
+    },
+    {
+      "nama_wilayah": "Kujang",
+      "kode_wilayah": "32.07.02.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.02"
+    },
+    {
+      "nama_wilayah": "Nasol",
+      "kode_wilayah": "32.07.02.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.02"
+    },
+    {
+      "nama_wilayah": "Cimari",
+      "kode_wilayah": "32.07.02.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.02"
+    },
+    {
+      "nama_wilayah": "Gegempalan",
+      "kode_wilayah": "32.07.02.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.02"
+    }
+  ]
+}

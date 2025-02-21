@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Kelo",
+      "kode_wilayah": "82.04.29.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.29"
+    },
+    {
+      "nama_wilayah": "Sum",
+      "kode_wilayah": "82.04.29.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.29"
+    },
+    {
+      "nama_wilayah": "Susepe",
+      "kode_wilayah": "82.04.29.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.29"
+    },
+    {
+      "nama_wilayah": "Wooi",
+      "kode_wilayah": "82.04.29.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.29"
+    }
+  ]
+}

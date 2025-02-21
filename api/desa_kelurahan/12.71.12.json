@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Labuhan Deli",
+      "kode_wilayah": "12.71.12.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.12"
+    },
+    {
+      "nama_wilayah": "Rengas Pulau",
+      "kode_wilayah": "12.71.12.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.12"
+    },
+    {
+      "nama_wilayah": "Terjun",
+      "kode_wilayah": "12.71.12.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.12"
+    },
+    {
+      "nama_wilayah": "Tanah Enam Ratus",
+      "kode_wilayah": "12.71.12.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.12"
+    },
+    {
+      "nama_wilayah": "Paya Pasir",
+      "kode_wilayah": "12.71.12.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.12"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Ngadirojo",
+      "kode_wilayah": "35.02.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.06"
+    },
+    {
+      "nama_wilayah": "Klepu",
+      "kode_wilayah": "35.02.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.06"
+    },
+    {
+      "nama_wilayah": "Suru",
+      "kode_wilayah": "35.02.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.06"
+    },
+    {
+      "nama_wilayah": "Sooko",
+      "kode_wilayah": "35.02.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.06"
+    },
+    {
+      "nama_wilayah": "Bedoho",
+      "kode_wilayah": "35.02.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.06"
+    },
+    {
+      "nama_wilayah": "Jurug",
+      "kode_wilayah": "35.02.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.06"
+    }
+  ]
+}

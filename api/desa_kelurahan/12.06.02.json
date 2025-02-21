@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tambak Lau Mulgab I",
+      "kode_wilayah": "12.06.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.06",
+      "kode_kecamatan": "12.06.02"
+    },
+    {
+      "nama_wilayah": "Tambak Lau Mulgab II",
+      "kode_wilayah": "12.06.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.06",
+      "kode_kecamatan": "12.06.02"
+    },
+    {
+      "nama_wilayah": "Gundaling I",
+      "kode_wilayah": "12.06.02.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.06",
+      "kode_kecamatan": "12.06.02"
+    },
+    {
+      "nama_wilayah": "Gundaling II",
+      "kode_wilayah": "12.06.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.06",
+      "kode_kecamatan": "12.06.02"
+    },
+    {
+      "nama_wilayah": "Daulu",
+      "kode_wilayah": "12.06.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.06",
+      "kode_kecamatan": "12.06.02"
+    },
+    {
+      "nama_wilayah": "Gurusinga",
+      "kode_wilayah": "12.06.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.06",
+      "kode_kecamatan": "12.06.02"
+    },
+    {
+      "nama_wilayah": "Raya",
+      "kode_wilayah": "12.06.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.06",
+      "kode_kecamatan": "12.06.02"
+    },
+    {
+      "nama_wilayah": "Rumah Berastagi",
+      "kode_wilayah": "12.06.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.06",
+      "kode_kecamatan": "12.06.02"
+    },
+    {
+      "nama_wilayah": "Sempajaya",
+      "kode_wilayah": "12.06.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.06",
+      "kode_kecamatan": "12.06.02"
+    },
+    {
+      "nama_wilayah": "Lau Gumba",
+      "kode_wilayah": "12.06.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.06",
+      "kode_kecamatan": "12.06.02"
+    }
+  ]
+}

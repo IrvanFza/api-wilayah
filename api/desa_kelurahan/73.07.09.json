@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Pulau Harapan",
+      "kode_wilayah": "73.07.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.09"
+    },
+    {
+      "nama_wilayah": "Pulau Buhung Pitue",
+      "kode_wilayah": "73.07.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.09"
+    },
+    {
+      "nama_wilayah": "Pulau Padaelo",
+      "kode_wilayah": "73.07.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.09"
+    },
+    {
+      "nama_wilayah": "Pulau Persatuan",
+      "kode_wilayah": "73.07.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.09"
+    }
+  ]
+}

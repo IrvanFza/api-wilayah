@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Ngepungsari",
+      "kode_wilayah": "33.13.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.01"
+    },
+    {
+      "nama_wilayah": "Jatipurwo",
+      "kode_wilayah": "33.13.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.01"
+    },
+    {
+      "nama_wilayah": "Jatipuro",
+      "kode_wilayah": "33.13.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.01"
+    },
+    {
+      "nama_wilayah": "Jatisobo",
+      "kode_wilayah": "33.13.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.01"
+    },
+    {
+      "nama_wilayah": "Jatiwarno",
+      "kode_wilayah": "33.13.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.01"
+    },
+    {
+      "nama_wilayah": "Jatimulyo",
+      "kode_wilayah": "33.13.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.01"
+    },
+    {
+      "nama_wilayah": "Jatisuko",
+      "kode_wilayah": "33.13.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.01"
+    },
+    {
+      "nama_wilayah": "Jatiharjo",
+      "kode_wilayah": "33.13.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.01"
+    },
+    {
+      "nama_wilayah": "Jatikuwung",
+      "kode_wilayah": "33.13.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.01"
+    },
+    {
+      "nama_wilayah": "Jatiroyo",
+      "kode_wilayah": "33.13.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.01"
+    }
+  ]
+}

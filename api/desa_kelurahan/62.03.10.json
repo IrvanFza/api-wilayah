@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Petak Puti",
+      "kode_wilayah": "62.03.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.10"
+    },
+    {
+      "nama_wilayah": "Aruk",
+      "kode_wilayah": "62.03.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.10"
+    },
+    {
+      "nama_wilayah": "Lawang Kajang",
+      "kode_wilayah": "62.03.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.10"
+    },
+    {
+      "nama_wilayah": "Timpah",
+      "kode_wilayah": "62.03.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.10"
+    },
+    {
+      "nama_wilayah": "Lungkuh Layang",
+      "kode_wilayah": "62.03.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.10"
+    },
+    {
+      "nama_wilayah": "Lawang Kamah",
+      "kode_wilayah": "62.03.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.10"
+    },
+    {
+      "nama_wilayah": "Tumbang Randang",
+      "kode_wilayah": "62.03.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.10"
+    },
+    {
+      "nama_wilayah": "Batapah",
+      "kode_wilayah": "62.03.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.10"
+    },
+    {
+      "nama_wilayah": "Danau Pantau",
+      "kode_wilayah": "62.03.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.10"
+    }
+  ]
+}

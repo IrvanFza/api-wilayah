@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Kualuh Hulu",
+      "kode_wilayah": "12.23.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.23",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Kualuh Leidong",
+      "kode_wilayah": "12.23.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.23",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Kualuh Hilir",
+      "kode_wilayah": "12.23.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.23",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Aek Kuo",
+      "kode_wilayah": "12.23.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.23",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Marbau",
+      "kode_wilayah": "12.23.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.23",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Na IX - X",
+      "kode_wilayah": "12.23.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.23",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Aek Natas",
+      "kode_wilayah": "12.23.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.23",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Kualuh Selatan",
+      "kode_wilayah": "12.23.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.23",
+      "kode_provinsi": "12"
+    }
+  ]
+}

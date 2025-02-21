@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Ampera",
+      "kode_wilayah": "93.02.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.01"
+    },
+    {
+      "nama_wilayah": "Sokanggo",
+      "kode_wilayah": "93.02.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.01"
+    },
+    {
+      "nama_wilayah": "Persatuan",
+      "kode_wilayah": "93.02.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.01"
+    },
+    {
+      "nama_wilayah": "Mariam",
+      "kode_wilayah": "93.02.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.01"
+    },
+    {
+      "nama_wilayah": "Mawan",
+      "kode_wilayah": "93.02.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.01"
+    }
+  ]
+}

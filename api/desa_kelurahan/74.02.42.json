@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Waworoda Jaya",
+      "kode_wilayah": "74.02.42.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.42"
+    },
+    {
+      "nama_wilayah": "Uluao",
+      "kode_wilayah": "74.02.42.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.42"
+    },
+    {
+      "nama_wilayah": "Sanuanggamo",
+      "kode_wilayah": "74.02.42.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.42"
+    },
+    {
+      "nama_wilayah": "Anggohu",
+      "kode_wilayah": "74.02.42.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.42"
+    },
+    {
+      "nama_wilayah": "Ambopi",
+      "kode_wilayah": "74.02.42.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.42"
+    },
+    {
+      "nama_wilayah": "Nambeaboru",
+      "kode_wilayah": "74.02.42.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.42"
+    },
+    {
+      "nama_wilayah": "Puundombi",
+      "kode_wilayah": "74.02.42.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.42"
+    },
+    {
+      "nama_wilayah": "Olo Onua",
+      "kode_wilayah": "74.02.42.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.42"
+    },
+    {
+      "nama_wilayah": "Barowila",
+      "kode_wilayah": "74.02.42.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.42"
+    },
+    {
+      "nama_wilayah": "Andalambe",
+      "kode_wilayah": "74.02.42.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.42"
+    }
+  ]
+}

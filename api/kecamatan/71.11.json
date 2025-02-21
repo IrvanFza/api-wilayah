@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Bolaang Uki",
+      "kode_wilayah": "71.11.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.11",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Posigadan",
+      "kode_wilayah": "71.11.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.11",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Pinolosian",
+      "kode_wilayah": "71.11.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.11",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Pinolosian Tengah",
+      "kode_wilayah": "71.11.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.11",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Pinolosian Timur",
+      "kode_wilayah": "71.11.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.11",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Helumo",
+      "kode_wilayah": "71.11.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.11",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Tomini",
+      "kode_wilayah": "71.11.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.11",
+      "kode_provinsi": "71"
+    }
+  ]
+}

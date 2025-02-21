@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tamankursi",
+      "kode_wilayah": "35.12.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.15"
+    },
+    {
+      "nama_wilayah": "Sumberargo",
+      "kode_wilayah": "35.12.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.15"
+    },
+    {
+      "nama_wilayah": "Tamansari",
+      "kode_wilayah": "35.12.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.15"
+    },
+    {
+      "nama_wilayah": "Kalirejo",
+      "kode_wilayah": "35.12.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.15"
+    },
+    {
+      "nama_wilayah": "Baderan",
+      "kode_wilayah": "35.12.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.15"
+    },
+    {
+      "nama_wilayah": "Alastengah",
+      "kode_wilayah": "35.12.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.15"
+    },
+    {
+      "nama_wilayah": "Taman",
+      "kode_wilayah": "35.12.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.15"
+    },
+    {
+      "nama_wilayah": "Tlogosari",
+      "kode_wilayah": "35.12.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.15"
+    },
+    {
+      "nama_wilayah": "Plalangan",
+      "kode_wilayah": "35.12.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.15"
+    }
+  ]
+}

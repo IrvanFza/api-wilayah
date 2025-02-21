@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Ramanuju",
+      "kode_wilayah": "36.72.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.07"
+    },
+    {
+      "nama_wilayah": "Kotabumi",
+      "kode_wilayah": "36.72.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.07"
+    },
+    {
+      "nama_wilayah": "Kebon Dalem",
+      "kode_wilayah": "36.72.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.07"
+    },
+    {
+      "nama_wilayah": "Purwakarta",
+      "kode_wilayah": "36.72.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.07"
+    },
+    {
+      "nama_wilayah": "Tegal Bunder",
+      "kode_wilayah": "36.72.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.07"
+    },
+    {
+      "nama_wilayah": "Pabean",
+      "kode_wilayah": "36.72.07.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.07"
+    }
+  ]
+}

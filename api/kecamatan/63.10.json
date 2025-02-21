@@ -1,0 +1,90 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Batu Licin",
+      "kode_wilayah": "63.10.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.10",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Kusan Hilir",
+      "kode_wilayah": "63.10.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.10",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Sungai Loban",
+      "kode_wilayah": "63.10.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.10",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Satui",
+      "kode_wilayah": "63.10.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.10",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Kusan Hulu",
+      "kode_wilayah": "63.10.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.10",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Simpang Empat",
+      "kode_wilayah": "63.10.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.10",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Karang Bintang",
+      "kode_wilayah": "63.10.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.10",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Mantewe",
+      "kode_wilayah": "63.10.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.10",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Angsana",
+      "kode_wilayah": "63.10.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.10",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Kuranji",
+      "kode_wilayah": "63.10.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.10",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Kusan Tengah",
+      "kode_wilayah": "63.10.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.10",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Teluk Kepayang",
+      "kode_wilayah": "63.10.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.10",
+      "kode_provinsi": "63"
+    }
+  ]
+}

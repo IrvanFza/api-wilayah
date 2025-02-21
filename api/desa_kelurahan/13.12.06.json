@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Muaro Kiawai",
+      "kode_wilayah": "13.12.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.06"
+    },
+    {
+      "nama_wilayah": "Rabi Jonggor",
+      "kode_wilayah": "13.12.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.06"
+    },
+    {
+      "nama_wilayah": "Seberang Kenaikan",
+      "kode_wilayah": "13.12.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.06"
+    },
+    {
+      "nama_wilayah": "Bahoras",
+      "kode_wilayah": "13.12.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.06"
+    },
+    {
+      "nama_wilayah": "Ranah Sungai Magelang",
+      "kode_wilayah": "13.12.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.06"
+    },
+    {
+      "nama_wilayah": "Muaro Kiawai Barat",
+      "kode_wilayah": "13.12.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.06"
+    },
+    {
+      "nama_wilayah": "Muaro Kiawai Hilir",
+      "kode_wilayah": "13.12.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.06"
+    }
+  ]
+}

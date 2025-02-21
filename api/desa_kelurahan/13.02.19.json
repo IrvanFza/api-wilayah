@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "total": 2,
+  "data": [
+    {
+      "nama_wilayah": "Simpang Tj. Nan IV",
+      "kode_wilayah": "13.02.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.19"
+    },
+    {
+      "nama_wilayah": "Kampung Batu Dalam",
+      "kode_wilayah": "13.02.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.19"
+    }
+  ]
+}

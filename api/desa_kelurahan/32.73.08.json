@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Hegarmanah",
+      "kode_wilayah": "32.73.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.08"
+    },
+    {
+      "nama_wilayah": "Ciumbuleuit",
+      "kode_wilayah": "32.73.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.08"
+    },
+    {
+      "nama_wilayah": "Ledeng",
+      "kode_wilayah": "32.73.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.08"
+    }
+  ]
+}

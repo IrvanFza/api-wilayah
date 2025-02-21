@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Boal",
+      "kode_wilayah": "52.04.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.14"
+    },
+    {
+      "nama_wilayah": "Jotang",
+      "kode_wilayah": "52.04.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.14"
+    },
+    {
+      "nama_wilayah": "Empang Atas",
+      "kode_wilayah": "52.04.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.14"
+    },
+    {
+      "nama_wilayah": "Empang Bawa",
+      "kode_wilayah": "52.04.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.14"
+    },
+    {
+      "nama_wilayah": "Ongko",
+      "kode_wilayah": "52.04.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.14"
+    },
+    {
+      "nama_wilayah": "Lamenta",
+      "kode_wilayah": "52.04.14.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.14"
+    },
+    {
+      "nama_wilayah": "Gapit",
+      "kode_wilayah": "52.04.14.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.14"
+    },
+    {
+      "nama_wilayah": "Pamanto",
+      "kode_wilayah": "52.04.14.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.14"
+    },
+    {
+      "nama_wilayah": "Bunga Eja",
+      "kode_wilayah": "52.04.14.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.14"
+    },
+    {
+      "nama_wilayah": "Jotang Beru",
+      "kode_wilayah": "52.04.14.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.14"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Talang Bakung",
+      "kode_wilayah": "15.71.11.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.11"
+    },
+    {
+      "nama_wilayah": "Payo Selincah",
+      "kode_wilayah": "15.71.11.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.11"
+    },
+    {
+      "nama_wilayah": "Eka Jaya",
+      "kode_wilayah": "15.71.11.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.11"
+    },
+    {
+      "nama_wilayah": "Lingkar Selatan",
+      "kode_wilayah": "15.71.11.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.11"
+    },
+    {
+      "nama_wilayah": "Paal Merah",
+      "kode_wilayah": "15.71.11.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.11"
+    },
+    {
+      "nama_wilayah": "Bakung Jaya",
+      "kode_wilayah": "15.71.11.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.11"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lumasebu",
+      "kode_wilayah": "81.03.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.03",
+      "kode_kecamatan": "81.03.08"
+    },
+    {
+      "nama_wilayah": "Kilmasa",
+      "kode_wilayah": "81.03.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.03",
+      "kode_kecamatan": "81.03.08"
+    },
+    {
+      "nama_wilayah": "Meyano Bab",
+      "kode_wilayah": "81.03.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.03",
+      "kode_kecamatan": "81.03.08"
+    },
+    {
+      "nama_wilayah": "Alusi Krawain",
+      "kode_wilayah": "81.03.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.03",
+      "kode_kecamatan": "81.03.08"
+    },
+    {
+      "nama_wilayah": "Alusi Kelaan",
+      "kode_wilayah": "81.03.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.03",
+      "kode_kecamatan": "81.03.08"
+    },
+    {
+      "nama_wilayah": "Alusi Bukjalim",
+      "kode_wilayah": "81.03.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.03",
+      "kode_kecamatan": "81.03.08"
+    },
+    {
+      "nama_wilayah": "Alusi Tamrian",
+      "kode_wilayah": "81.03.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.03",
+      "kode_kecamatan": "81.03.08"
+    },
+    {
+      "nama_wilayah": "Alusi Batjas",
+      "kode_wilayah": "81.03.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.03",
+      "kode_kecamatan": "81.03.08"
+    },
+    {
+      "nama_wilayah": "Lorwembun",
+      "kode_wilayah": "81.03.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.03",
+      "kode_kecamatan": "81.03.08"
+    },
+    {
+      "nama_wilayah": "Meyano Das",
+      "kode_wilayah": "81.03.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.03",
+      "kode_kecamatan": "81.03.08"
+    }
+  ]
+}

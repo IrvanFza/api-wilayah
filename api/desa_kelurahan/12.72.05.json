@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sukaraja",
+      "kode_wilayah": "12.72.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.05"
+    },
+    {
+      "nama_wilayah": "Baringin Pancur Nauli",
+      "kode_wilayah": "12.72.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.05"
+    },
+    {
+      "nama_wilayah": "Pardamean",
+      "kode_wilayah": "12.72.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.05"
+    },
+    {
+      "nama_wilayah": "Sukamaju",
+      "kode_wilayah": "12.72.05.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.05"
+    },
+    {
+      "nama_wilayah": "Parhorasan Nauli",
+      "kode_wilayah": "12.72.05.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.05"
+    },
+    {
+      "nama_wilayah": "Sukamakmur",
+      "kode_wilayah": "12.72.05.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.05"
+    },
+    {
+      "nama_wilayah": "Mekar Nauli",
+      "kode_wilayah": "12.72.05.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.05"
+    }
+  ]
+}

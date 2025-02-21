@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Yenburwo",
+      "kode_wilayah": "91.06.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.06",
+      "kode_kecamatan": "91.06.05"
+    },
+    {
+      "nama_wilayah": "Kornasoren",
+      "kode_wilayah": "91.06.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.06",
+      "kode_kecamatan": "91.06.05"
+    },
+    {
+      "nama_wilayah": "Rarsibo",
+      "kode_wilayah": "91.06.05.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.06",
+      "kode_kecamatan": "91.06.05"
+    },
+    {
+      "nama_wilayah": "Asaryendi",
+      "kode_wilayah": "91.06.05.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.06",
+      "kode_kecamatan": "91.06.05"
+    },
+    {
+      "nama_wilayah": "Yenmanu",
+      "kode_wilayah": "91.06.05.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.06",
+      "kode_kecamatan": "91.06.05"
+    },
+    {
+      "nama_wilayah": "Pyefuri",
+      "kode_wilayah": "91.06.05.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.06",
+      "kode_kecamatan": "91.06.05"
+    },
+    {
+      "nama_wilayah": "Indaibori",
+      "kode_wilayah": "91.06.05.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.06",
+      "kode_kecamatan": "91.06.05"
+    },
+    {
+      "nama_wilayah": "Barkori",
+      "kode_wilayah": "91.06.05.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.06",
+      "kode_kecamatan": "91.06.05"
+    },
+    {
+      "nama_wilayah": "Asaibori",
+      "kode_wilayah": "91.06.05.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.06",
+      "kode_kecamatan": "91.06.05"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tumbang Kunyi",
+      "kode_wilayah": "62.12.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.05"
+    },
+    {
+      "nama_wilayah": "Kalapeh Baru",
+      "kode_wilayah": "62.12.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.05"
+    },
+    {
+      "nama_wilayah": "Tumbang Masao",
+      "kode_wilayah": "62.12.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.05"
+    },
+    {
+      "nama_wilayah": "Batu Makap",
+      "kode_wilayah": "62.12.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.05"
+    },
+    {
+      "nama_wilayah": "Olong Liko",
+      "kode_wilayah": "62.12.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.05"
+    },
+    {
+      "nama_wilayah": "Teluk Jolo",
+      "kode_wilayah": "62.12.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.05"
+    },
+    {
+      "nama_wilayah": "Laas Baru",
+      "kode_wilayah": "62.12.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.05"
+    },
+    {
+      "nama_wilayah": "Tumbang Molut",
+      "kode_wilayah": "62.12.05.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.05"
+    },
+    {
+      "nama_wilayah": "Tumbang Tuan",
+      "kode_wilayah": "62.12.05.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.05"
+    }
+  ]
+}

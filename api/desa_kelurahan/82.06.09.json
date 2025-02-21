@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sosolat",
+      "kode_wilayah": "82.06.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.09"
+    },
+    {
+      "nama_wilayah": "Dorosago",
+      "kode_wilayah": "82.06.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.09"
+    },
+    {
+      "nama_wilayah": "Patlean",
+      "kode_wilayah": "82.06.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.09"
+    },
+    {
+      "nama_wilayah": "Lolasita",
+      "kode_wilayah": "82.06.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.09"
+    },
+    {
+      "nama_wilayah": "Wasileo",
+      "kode_wilayah": "82.06.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.09"
+    },
+    {
+      "nama_wilayah": "Pumlanga",
+      "kode_wilayah": "82.06.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.09"
+    },
+    {
+      "nama_wilayah": "Jara-jara",
+      "kode_wilayah": "82.06.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.09"
+    },
+    {
+      "nama_wilayah": "Doromoi",
+      "kode_wilayah": "82.06.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.09"
+    },
+    {
+      "nama_wilayah": "Lili",
+      "kode_wilayah": "82.06.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.09"
+    },
+    {
+      "nama_wilayah": "Patlean Jaya",
+      "kode_wilayah": "82.06.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.09"
+    }
+  ]
+}

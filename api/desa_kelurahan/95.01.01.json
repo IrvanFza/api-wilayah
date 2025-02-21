@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Wamena Kota",
+      "kode_wilayah": "95.01.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.01"
+    },
+    {
+      "nama_wilayah": "Sinapuk",
+      "kode_wilayah": "95.01.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.01"
+    },
+    {
+      "nama_wilayah": "Sinakma",
+      "kode_wilayah": "95.01.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.01"
+    },
+    {
+      "nama_wilayah": "Honelama",
+      "kode_wilayah": "95.01.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.01"
+    },
+    {
+      "nama_wilayah": "Hulekama",
+      "kode_wilayah": "95.01.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.01"
+    },
+    {
+      "nama_wilayah": "Batu Merah",
+      "kode_wilayah": "95.01.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.01"
+    },
+    {
+      "nama_wilayah": "Autakma",
+      "kode_wilayah": "95.01.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.01"
+    },
+    {
+      "nama_wilayah": "Honelama Dua",
+      "kode_wilayah": "95.01.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.01"
+    },
+    {
+      "nama_wilayah": "Honaima",
+      "kode_wilayah": "95.01.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.01"
+    },
+    {
+      "nama_wilayah": "Lanitipo",
+      "kode_wilayah": "95.01.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.01"
+    },
+    {
+      "nama_wilayah": "Wamaroma",
+      "kode_wilayah": "95.01.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.01"
+    }
+  ]
+}

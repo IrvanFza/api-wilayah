@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Mulyorejo",
+      "kode_wilayah": "35.78.26.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.26"
+    },
+    {
+      "nama_wilayah": "Manyar Sabrangan",
+      "kode_wilayah": "35.78.26.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.26"
+    },
+    {
+      "nama_wilayah": "Kejawan Putih Tambak",
+      "kode_wilayah": "35.78.26.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.26"
+    },
+    {
+      "nama_wilayah": "Kalisari",
+      "kode_wilayah": "35.78.26.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.26"
+    },
+    {
+      "nama_wilayah": "Dukuh Sutorejo",
+      "kode_wilayah": "35.78.26.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.26"
+    },
+    {
+      "nama_wilayah": "Kalijudan",
+      "kode_wilayah": "35.78.26.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.26"
+    }
+  ]
+}

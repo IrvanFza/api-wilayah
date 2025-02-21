@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sebabi",
+      "kode_wilayah": "62.02.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.14"
+    },
+    {
+      "nama_wilayah": "Tanah Putih",
+      "kode_wilayah": "62.02.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.14"
+    },
+    {
+      "nama_wilayah": "Sumber Makmur",
+      "kode_wilayah": "62.02.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.14"
+    },
+    {
+      "nama_wilayah": "Kenyala",
+      "kode_wilayah": "62.02.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.14"
+    },
+    {
+      "nama_wilayah": "Penyang",
+      "kode_wilayah": "62.02.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.14"
+    },
+    {
+      "nama_wilayah": "Biru Maju",
+      "kode_wilayah": "62.02.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.14"
+    }
+  ]
+}

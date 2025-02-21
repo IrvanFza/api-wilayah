@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Muara Wis",
+      "kode_wilayah": "64.02.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.18"
+    },
+    {
+      "nama_wilayah": "Sebemban",
+      "kode_wilayah": "64.02.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.18"
+    },
+    {
+      "nama_wilayah": "Melintang",
+      "kode_wilayah": "64.02.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.18"
+    },
+    {
+      "nama_wilayah": "Enggelam",
+      "kode_wilayah": "64.02.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.18"
+    },
+    {
+      "nama_wilayah": "Lebak Mantan",
+      "kode_wilayah": "64.02.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.18"
+    },
+    {
+      "nama_wilayah": "Lebak Cilong",
+      "kode_wilayah": "64.02.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.18"
+    },
+    {
+      "nama_wilayah": "Muara Enggelam",
+      "kode_wilayah": "64.02.18.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.18"
+    }
+  ]
+}

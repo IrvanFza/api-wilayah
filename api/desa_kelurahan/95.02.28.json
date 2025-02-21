@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Bias",
+      "kode_wilayah": "95.02.28.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.28"
+    },
+    {
+      "nama_wilayah": "Bumi",
+      "kode_wilayah": "95.02.28.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.28"
+    },
+    {
+      "nama_wilayah": "Tero",
+      "kode_wilayah": "95.02.28.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.28"
+    },
+    {
+      "nama_wilayah": "Delemo",
+      "kode_wilayah": "95.02.28.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.28"
+    }
+  ]
+}

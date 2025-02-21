@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tolinggula Tengah",
+      "kode_wilayah": "75.05.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.05"
+    },
+    {
+      "nama_wilayah": "Tolinggula Pantai",
+      "kode_wilayah": "75.05.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.05"
+    },
+    {
+      "nama_wilayah": "Tolinggula Ulu",
+      "kode_wilayah": "75.05.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.05"
+    },
+    {
+      "nama_wilayah": "Limbato",
+      "kode_wilayah": "75.05.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.05"
+    },
+    {
+      "nama_wilayah": "Papualangi",
+      "kode_wilayah": "75.05.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.05"
+    },
+    {
+      "nama_wilayah": "Molangga",
+      "kode_wilayah": "75.05.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.05"
+    },
+    {
+      "nama_wilayah": "Cempaka Putih",
+      "kode_wilayah": "75.05.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.05"
+    },
+    {
+      "nama_wilayah": "Tolite Jaya",
+      "kode_wilayah": "75.05.05.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.05"
+    },
+    {
+      "nama_wilayah": "Ilomangga",
+      "kode_wilayah": "75.05.05.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.05"
+    },
+    {
+      "nama_wilayah": "Ilotunggula",
+      "kode_wilayah": "75.05.05.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.05"
+    }
+  ]
+}

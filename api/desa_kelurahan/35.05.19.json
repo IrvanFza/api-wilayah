@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Siraman",
+      "kode_wilayah": "35.05.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.19"
+    },
+    {
+      "nama_wilayah": "Kesamben",
+      "kode_wilayah": "35.05.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.19"
+    },
+    {
+      "nama_wilayah": "Jugo",
+      "kode_wilayah": "35.05.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.19"
+    },
+    {
+      "nama_wilayah": "Pagerwojo",
+      "kode_wilayah": "35.05.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.19"
+    },
+    {
+      "nama_wilayah": "Pagergunung",
+      "kode_wilayah": "35.05.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.19"
+    },
+    {
+      "nama_wilayah": "Tepas",
+      "kode_wilayah": "35.05.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.19"
+    },
+    {
+      "nama_wilayah": "Kemirigede",
+      "kode_wilayah": "35.05.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.19"
+    },
+    {
+      "nama_wilayah": "Tapakrejo",
+      "kode_wilayah": "35.05.19.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.19"
+    },
+    {
+      "nama_wilayah": "Bumirejo",
+      "kode_wilayah": "35.05.19.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.19"
+    },
+    {
+      "nama_wilayah": "Sukoanyar",
+      "kode_wilayah": "35.05.19.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.19"
+    }
+  ]
+}

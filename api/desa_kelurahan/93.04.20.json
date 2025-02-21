@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Bor",
+      "kode_wilayah": "93.04.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.20"
+    },
+    {
+      "nama_wilayah": "Daikot",
+      "kode_wilayah": "93.04.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.20"
+    },
+    {
+      "nama_wilayah": "Somnak",
+      "kode_wilayah": "93.04.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.20"
+    },
+    {
+      "nama_wilayah": "Wabak",
+      "kode_wilayah": "93.04.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.20"
+    },
+    {
+      "nama_wilayah": "Vakam",
+      "kode_wilayah": "93.04.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.20"
+    },
+    {
+      "nama_wilayah": "Vakam Dua",
+      "kode_wilayah": "93.04.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.20"
+    },
+    {
+      "nama_wilayah": "Dekamer",
+      "kode_wilayah": "93.04.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.20"
+    }
+  ]
+}

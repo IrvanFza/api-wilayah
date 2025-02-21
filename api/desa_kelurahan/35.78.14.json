@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tandes",
+      "kode_wilayah": "35.78.14.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.14"
+    },
+    {
+      "nama_wilayah": "Karang Poh",
+      "kode_wilayah": "35.78.14.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.14"
+    },
+    {
+      "nama_wilayah": "Balongsari",
+      "kode_wilayah": "35.78.14.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.14"
+    },
+    {
+      "nama_wilayah": "Manukan Kulon",
+      "kode_wilayah": "35.78.14.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.14"
+    },
+    {
+      "nama_wilayah": "Manukan Wetan",
+      "kode_wilayah": "35.78.14.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.14"
+    },
+    {
+      "nama_wilayah": "Banjar Sugihan",
+      "kode_wilayah": "35.78.14.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.14"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Matanga",
+      "kode_wilayah": "72.11.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.11",
+      "kode_kecamatan": "72.11.06"
+    },
+    {
+      "nama_wilayah": "Tolokibit",
+      "kode_wilayah": "72.11.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.11",
+      "kode_kecamatan": "72.11.06"
+    },
+    {
+      "nama_wilayah": "Bentean",
+      "kode_wilayah": "72.11.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.11",
+      "kode_kecamatan": "72.11.06"
+    },
+    {
+      "nama_wilayah": "Malino Padas",
+      "kode_wilayah": "72.11.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.11",
+      "kode_kecamatan": "72.11.06"
+    },
+    {
+      "nama_wilayah": "Kelapa Lima",
+      "kode_wilayah": "72.11.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.11",
+      "kode_kecamatan": "72.11.06"
+    },
+    {
+      "nama_wilayah": "Labuan Kapelak",
+      "kode_wilayah": "72.11.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.11",
+      "kode_kecamatan": "72.11.06"
+    }
+  ]
+}

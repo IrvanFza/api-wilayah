@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kalaotoa",
+      "kode_wilayah": "73.01.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.09"
+    },
+    {
+      "nama_wilayah": "Garaupa",
+      "kode_wilayah": "73.01.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.09"
+    },
+    {
+      "nama_wilayah": "Lembang Matene",
+      "kode_wilayah": "73.01.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.09"
+    },
+    {
+      "nama_wilayah": "Pulo Madu",
+      "kode_wilayah": "73.01.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.09"
+    },
+    {
+      "nama_wilayah": "Karumpa",
+      "kode_wilayah": "73.01.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.09"
+    },
+    {
+      "nama_wilayah": "Garaupa Raya",
+      "kode_wilayah": "73.01.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.09"
+    }
+  ]
+}

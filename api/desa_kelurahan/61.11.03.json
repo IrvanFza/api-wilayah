@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Mas Bangun",
+      "kode_wilayah": "61.11.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.11",
+      "kode_kecamatan": "61.11.03"
+    },
+    {
+      "nama_wilayah": "Alur Bandung",
+      "kode_wilayah": "61.11.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.11",
+      "kode_kecamatan": "61.11.03"
+    },
+    {
+      "nama_wilayah": "Telukbatang",
+      "kode_wilayah": "61.11.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.11",
+      "kode_kecamatan": "61.11.03"
+    },
+    {
+      "nama_wilayah": "Sungaipaduan",
+      "kode_wilayah": "61.11.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.11",
+      "kode_kecamatan": "61.11.03"
+    },
+    {
+      "nama_wilayah": "Banyu Abang",
+      "kode_wilayah": "61.11.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.11",
+      "kode_kecamatan": "61.11.03"
+    },
+    {
+      "nama_wilayah": "Telukbatang Selatan",
+      "kode_wilayah": "61.11.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.11",
+      "kode_kecamatan": "61.11.03"
+    },
+    {
+      "nama_wilayah": "Telukbatang Utara",
+      "kode_wilayah": "61.11.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.11",
+      "kode_kecamatan": "61.11.03"
+    }
+  ]
+}

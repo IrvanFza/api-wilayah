@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung",
+      "kode_wilayah": "52.03.17.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.17"
+    },
+    {
+      "nama_wilayah": "Suryawangi",
+      "kode_wilayah": "52.03.17.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.17"
+    },
+    {
+      "nama_wilayah": "Ijobalit",
+      "kode_wilayah": "52.03.17.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.17"
+    },
+    {
+      "nama_wilayah": "Geres",
+      "kode_wilayah": "52.03.17.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.17"
+    },
+    {
+      "nama_wilayah": "Labuhan Haji",
+      "kode_wilayah": "52.03.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.17"
+    },
+    {
+      "nama_wilayah": "Peneda Gandor",
+      "kode_wilayah": "52.03.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.17"
+    },
+    {
+      "nama_wilayah": "Teros",
+      "kode_wilayah": "52.03.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.17"
+    },
+    {
+      "nama_wilayah": "Korleko",
+      "kode_wilayah": "52.03.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.17"
+    },
+    {
+      "nama_wilayah": "Kertasari",
+      "kode_wilayah": "52.03.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.17"
+    },
+    {
+      "nama_wilayah": "Tirtanadi",
+      "kode_wilayah": "52.03.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.17"
+    },
+    {
+      "nama_wilayah": "Banjarsari",
+      "kode_wilayah": "52.03.17.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.17"
+    },
+    {
+      "nama_wilayah": "Korleko Selatan",
+      "kode_wilayah": "52.03.17.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.17"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Telaga Meuku Sa",
+      "kode_wilayah": "11.16.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.16",
+      "kode_kecamatan": "11.16.09"
+    },
+    {
+      "nama_wilayah": "Telaga Meuku Dua",
+      "kode_wilayah": "11.16.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.16",
+      "kode_kecamatan": "11.16.09"
+    },
+    {
+      "nama_wilayah": "Alur Nunang",
+      "kode_wilayah": "11.16.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.16",
+      "kode_kecamatan": "11.16.09"
+    },
+    {
+      "nama_wilayah": "Tanjung Keramat",
+      "kode_wilayah": "11.16.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.16",
+      "kode_kecamatan": "11.16.09"
+    },
+    {
+      "nama_wilayah": "Matang Seping",
+      "kode_wilayah": "11.16.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.16",
+      "kode_kecamatan": "11.16.09"
+    },
+    {
+      "nama_wilayah": "Besar",
+      "kode_wilayah": "11.16.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.16",
+      "kode_kecamatan": "11.16.09"
+    },
+    {
+      "nama_wilayah": "Paya Rahat",
+      "kode_wilayah": "11.16.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.16",
+      "kode_kecamatan": "11.16.09"
+    },
+    {
+      "nama_wilayah": "Suka Jadi",
+      "kode_wilayah": "11.16.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.16",
+      "kode_kecamatan": "11.16.09"
+    },
+    {
+      "nama_wilayah": "Suka Mulia Upah",
+      "kode_wilayah": "11.16.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.16",
+      "kode_kecamatan": "11.16.09"
+    },
+    {
+      "nama_wilayah": "Suka Damai",
+      "kode_wilayah": "11.16.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.16",
+      "kode_kecamatan": "11.16.09"
+    }
+  ]
+}

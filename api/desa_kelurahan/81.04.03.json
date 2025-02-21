@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Savana Jaya",
+      "kode_wilayah": "81.04.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.03"
+    },
+    {
+      "nama_wilayah": "Waetele",
+      "kode_wilayah": "81.04.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.03"
+    },
+    {
+      "nama_wilayah": "Waekasar",
+      "kode_wilayah": "81.04.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.03"
+    },
+    {
+      "nama_wilayah": "Waenetat",
+      "kode_wilayah": "81.04.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.03"
+    },
+    {
+      "nama_wilayah": "Waekerta",
+      "kode_wilayah": "81.04.03.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.03"
+    },
+    {
+      "nama_wilayah": "Wanareja",
+      "kode_wilayah": "81.04.03.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.03"
+    },
+    {
+      "nama_wilayah": "Gogorea",
+      "kode_wilayah": "81.04.03.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.03"
+    }
+  ]
+}

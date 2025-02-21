@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sulamu",
+      "kode_wilayah": "53.01.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.07"
+    },
+    {
+      "nama_wilayah": "Pitai",
+      "kode_wilayah": "53.01.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.07"
+    },
+    {
+      "nama_wilayah": "Pariti",
+      "kode_wilayah": "53.01.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.07"
+    },
+    {
+      "nama_wilayah": "Oeteta",
+      "kode_wilayah": "53.01.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.07"
+    },
+    {
+      "nama_wilayah": "Bipolo",
+      "kode_wilayah": "53.01.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.07"
+    },
+    {
+      "nama_wilayah": "Pantai Beringin",
+      "kode_wilayah": "53.01.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.07"
+    },
+    {
+      "nama_wilayah": "Pantulan",
+      "kode_wilayah": "53.01.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.07"
+    }
+  ]
+}

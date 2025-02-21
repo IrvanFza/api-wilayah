@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Beremas",
+      "kode_wilayah": "13.12.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.12",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Lembah Melintang",
+      "kode_wilayah": "13.12.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.12",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Pasaman",
+      "kode_wilayah": "13.12.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.12",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Talamau",
+      "kode_wilayah": "13.12.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.12",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Kinali",
+      "kode_wilayah": "13.12.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.12",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Gunung Tuleh",
+      "kode_wilayah": "13.12.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.12",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Ranah Batahan",
+      "kode_wilayah": "13.12.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.12",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Koto Balingka",
+      "kode_wilayah": "13.12.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.12",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Sungai Aur",
+      "kode_wilayah": "13.12.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.12",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Luhak Nan Duo",
+      "kode_wilayah": "13.12.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.12",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Sasak Ranah Pasisie",
+      "kode_wilayah": "13.12.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.12",
+      "kode_provinsi": "13"
+    }
+  ]
+}

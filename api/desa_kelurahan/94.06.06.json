@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Abouyaga",
+      "kode_wilayah": "94.06.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.06"
+    },
+    {
+      "nama_wilayah": "Maikotu",
+      "kode_wilayah": "94.06.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.06"
+    },
+    {
+      "nama_wilayah": "Taubaikebo",
+      "kode_wilayah": "94.06.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.06"
+    },
+    {
+      "nama_wilayah": "Yegoukotu",
+      "kode_wilayah": "94.06.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.06"
+    }
+  ]
+}

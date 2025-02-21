@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Bokonusan",
+      "kode_wilayah": "53.01.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.04"
+    },
+    {
+      "nama_wilayah": "Otan",
+      "kode_wilayah": "53.01.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.04"
+    },
+    {
+      "nama_wilayah": "Uitao",
+      "kode_wilayah": "53.01.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.04"
+    },
+    {
+      "nama_wilayah": "Uiasa",
+      "kode_wilayah": "53.01.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.04"
+    },
+    {
+      "nama_wilayah": "Hansisi",
+      "kode_wilayah": "53.01.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.04"
+    },
+    {
+      "nama_wilayah": "Huilelot",
+      "kode_wilayah": "53.01.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.04"
+    },
+    {
+      "nama_wilayah": "Batuinan",
+      "kode_wilayah": "53.01.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.04"
+    },
+    {
+      "nama_wilayah": "Letbaun",
+      "kode_wilayah": "53.01.04.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.04"
+    }
+  ]
+}

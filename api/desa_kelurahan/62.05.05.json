@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lanjas",
+      "kode_wilayah": "62.05.05.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.05"
+    },
+    {
+      "nama_wilayah": "Melayu",
+      "kode_wilayah": "62.05.05.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.05"
+    },
+    {
+      "nama_wilayah": "Lemo I",
+      "kode_wilayah": "62.05.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.05"
+    },
+    {
+      "nama_wilayah": "Lemo II",
+      "kode_wilayah": "62.05.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.05"
+    },
+    {
+      "nama_wilayah": "Pendreh",
+      "kode_wilayah": "62.05.05.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.05"
+    },
+    {
+      "nama_wilayah": "Rimba Sari",
+      "kode_wilayah": "62.05.05.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.05"
+    },
+    {
+      "nama_wilayah": "Sei Rahayu I",
+      "kode_wilayah": "62.05.05.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.05"
+    },
+    {
+      "nama_wilayah": "Sei Rahayu II",
+      "kode_wilayah": "62.05.05.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.05"
+    },
+    {
+      "nama_wilayah": "Beringin Raya",
+      "kode_wilayah": "62.05.05.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.05"
+    },
+    {
+      "nama_wilayah": "Datai Nirui",
+      "kode_wilayah": "62.05.05.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.05"
+    }
+  ]
+}

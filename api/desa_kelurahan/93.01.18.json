@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tabonji",
+      "kode_wilayah": "93.01.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.18"
+    },
+    {
+      "nama_wilayah": "Wanggambi",
+      "kode_wilayah": "93.01.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.18"
+    },
+    {
+      "nama_wilayah": "Suam",
+      "kode_wilayah": "93.01.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.18"
+    },
+    {
+      "nama_wilayah": "Yamuka",
+      "kode_wilayah": "93.01.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.18"
+    },
+    {
+      "nama_wilayah": "Iromoro",
+      "kode_wilayah": "93.01.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.18"
+    },
+    {
+      "nama_wilayah": "Konjombando",
+      "kode_wilayah": "93.01.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.18"
+    },
+    {
+      "nama_wilayah": "Yeraha",
+      "kode_wilayah": "93.01.18.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.18"
+    }
+  ]
+}

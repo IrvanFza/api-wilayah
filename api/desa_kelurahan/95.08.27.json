@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Nganai",
+      "kode_wilayah": "95.08.27.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.27"
+    },
+    {
+      "nama_wilayah": "Pija",
+      "kode_wilayah": "95.08.27.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.27"
+    },
+    {
+      "nama_wilayah": "Sitgama",
+      "kode_wilayah": "95.08.27.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.27"
+    },
+    {
+      "nama_wilayah": "Siat",
+      "kode_wilayah": "95.08.27.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.27"
+    },
+    {
+      "nama_wilayah": "Murupbaye",
+      "kode_wilayah": "95.08.27.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.27"
+    }
+  ]
+}

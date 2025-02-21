@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Mulia",
+      "kode_wilayah": "17.01.11.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.11"
+    },
+    {
+      "nama_wilayah": "Pasar Mulia",
+      "kode_wilayah": "17.01.11.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.11"
+    },
+    {
+      "nama_wilayah": "Belakang Gedung",
+      "kode_wilayah": "17.01.11.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.11"
+    },
+    {
+      "nama_wilayah": "Gunung Mesir",
+      "kode_wilayah": "17.01.11.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.11"
+    },
+    {
+      "nama_wilayah": "Padang Sialang",
+      "kode_wilayah": "17.01.11.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.11"
+    },
+    {
+      "nama_wilayah": "Ketapang Besar",
+      "kode_wilayah": "17.01.11.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.11"
+    },
+    {
+      "nama_wilayah": "Pasar Bawah",
+      "kode_wilayah": "17.01.11.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.11"
+    },
+    {
+      "nama_wilayah": "Batu Kuning",
+      "kode_wilayah": "17.01.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.11"
+    },
+    {
+      "nama_wilayah": "Batu Lambang",
+      "kode_wilayah": "17.01.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.11"
+    }
+  ]
+}

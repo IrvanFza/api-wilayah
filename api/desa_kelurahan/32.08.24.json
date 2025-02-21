@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Cileuya",
+      "kode_wilayah": "32.08.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.24"
+    },
+    {
+      "nama_wilayah": "Margamukti",
+      "kode_wilayah": "32.08.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.24"
+    },
+    {
+      "nama_wilayah": "Gunungsari",
+      "kode_wilayah": "32.08.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.24"
+    },
+    {
+      "nama_wilayah": "Cimahi",
+      "kode_wilayah": "32.08.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.24"
+    },
+    {
+      "nama_wilayah": "Kananga",
+      "kode_wilayah": "32.08.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.24"
+    },
+    {
+      "nama_wilayah": "Cikeusal",
+      "kode_wilayah": "32.08.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.24"
+    },
+    {
+      "nama_wilayah": "Mekarjaya",
+      "kode_wilayah": "32.08.24.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.24"
+    },
+    {
+      "nama_wilayah": "Sukajaya",
+      "kode_wilayah": "32.08.24.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.24"
+    },
+    {
+      "nama_wilayah": "Mulyajaya",
+      "kode_wilayah": "32.08.24.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.24"
+    },
+    {
+      "nama_wilayah": "Cimulya",
+      "kode_wilayah": "32.08.24.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.24"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Cupak",
+      "kode_wilayah": "13.02.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.07"
+    },
+    {
+      "nama_wilayah": "Talang",
+      "kode_wilayah": "13.02.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.07"
+    },
+    {
+      "nama_wilayah": "Koto Gadang Guguak",
+      "kode_wilayah": "13.02.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.07"
+    },
+    {
+      "nama_wilayah": "Jawi Jawi",
+      "kode_wilayah": "13.02.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.07"
+    },
+    {
+      "nama_wilayah": "Sungai Janiah",
+      "kode_wilayah": "13.02.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.07"
+    },
+    {
+      "nama_wilayah": "Batang Barus",
+      "kode_wilayah": "13.02.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.07"
+    },
+    {
+      "nama_wilayah": "Aie Batumbuak",
+      "kode_wilayah": "13.02.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.07"
+    },
+    {
+      "nama_wilayah": "Koto Gaek Guguk",
+      "kode_wilayah": "13.02.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.07"
+    }
+  ]
+}

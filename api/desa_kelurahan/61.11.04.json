@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Tanjungsatai",
+      "kode_wilayah": "61.11.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.11",
+      "kode_kecamatan": "61.11.04"
+    },
+    {
+      "nama_wilayah": "Kemboja",
+      "kode_wilayah": "61.11.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.11",
+      "kode_kecamatan": "61.11.04"
+    },
+    {
+      "nama_wilayah": "Dusun Kecil",
+      "kode_wilayah": "61.11.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.11",
+      "kode_kecamatan": "61.11.04"
+    },
+    {
+      "nama_wilayah": "Dusun Besar",
+      "kode_wilayah": "61.11.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.11",
+      "kode_kecamatan": "61.11.04"
+    },
+    {
+      "nama_wilayah": "Satai Lestari",
+      "kode_wilayah": "61.11.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.11",
+      "kode_kecamatan": "61.11.04"
+    }
+  ]
+}

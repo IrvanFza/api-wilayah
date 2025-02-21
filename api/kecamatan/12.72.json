@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Siantar Timur",
+      "kode_wilayah": "12.72.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.72",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Siantar Barat",
+      "kode_wilayah": "12.72.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.72",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Siantar Utara",
+      "kode_wilayah": "12.72.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.72",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Siantar Selatan",
+      "kode_wilayah": "12.72.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.72",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Siantar Marihat",
+      "kode_wilayah": "12.72.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.72",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Siantar Martoba",
+      "kode_wilayah": "12.72.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.72",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Siantar Sitalasari",
+      "kode_wilayah": "12.72.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.72",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Siantar Marimbun",
+      "kode_wilayah": "12.72.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.72",
+      "kode_provinsi": "12"
+    }
+  ]
+}

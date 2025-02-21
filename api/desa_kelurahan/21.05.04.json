@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kiabu",
+      "kode_wilayah": "21.05.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.04"
+    },
+    {
+      "nama_wilayah": "Telaga",
+      "kode_wilayah": "21.05.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.04"
+    },
+    {
+      "nama_wilayah": "Mengkait",
+      "kode_wilayah": "21.05.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.04"
+    },
+    {
+      "nama_wilayah": "Tiangau",
+      "kode_wilayah": "21.05.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.04"
+    },
+    {
+      "nama_wilayah": "Telaga Kecil",
+      "kode_wilayah": "21.05.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.04"
+    },
+    {
+      "nama_wilayah": "Lingai",
+      "kode_wilayah": "21.05.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.04"
+    },
+    {
+      "nama_wilayah": "Air Bini",
+      "kode_wilayah": "21.05.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.04"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Takalar",
+      "kode_wilayah": "73.05.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.01"
+    },
+    {
+      "nama_wilayah": "Patani",
+      "kode_wilayah": "73.05.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.01"
+    },
+    {
+      "nama_wilayah": "Soreang",
+      "kode_wilayah": "73.05.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.01"
+    },
+    {
+      "nama_wilayah": "Pa-batangang",
+      "kode_wilayah": "73.05.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.01"
+    }
+  ]
+}

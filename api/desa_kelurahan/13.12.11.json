@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Sasak",
+      "kode_wilayah": "13.12.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.11"
+    },
+    {
+      "nama_wilayah": "Padang Harapan",
+      "kode_wilayah": "13.12.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.11"
+    },
+    {
+      "nama_wilayah": "Ranah Pasisie",
+      "kode_wilayah": "13.12.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.11"
+    },
+    {
+      "nama_wilayah": "Maligi",
+      "kode_wilayah": "13.12.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.11"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Batu Tungku",
+      "kode_wilayah": "63.01.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.01",
+      "kode_kecamatan": "63.01.06"
+    },
+    {
+      "nama_wilayah": "Panyipatan",
+      "kode_wilayah": "63.01.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.01",
+      "kode_kecamatan": "63.01.06"
+    },
+    {
+      "nama_wilayah": "Kandangan Baru",
+      "kode_wilayah": "63.01.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.01",
+      "kode_kecamatan": "63.01.06"
+    },
+    {
+      "nama_wilayah": "Kandangan Lama",
+      "kode_wilayah": "63.01.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.01",
+      "kode_kecamatan": "63.01.06"
+    },
+    {
+      "nama_wilayah": "Batakan",
+      "kode_wilayah": "63.01.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.01",
+      "kode_kecamatan": "63.01.06"
+    },
+    {
+      "nama_wilayah": "Kuringkit",
+      "kode_wilayah": "63.01.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.01",
+      "kode_kecamatan": "63.01.06"
+    },
+    {
+      "nama_wilayah": "Tanjung Dewa",
+      "kode_wilayah": "63.01.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.01",
+      "kode_kecamatan": "63.01.06"
+    },
+    {
+      "nama_wilayah": "Suka Ramah",
+      "kode_wilayah": "63.01.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.01",
+      "kode_kecamatan": "63.01.06"
+    },
+    {
+      "nama_wilayah": "Batu Mulya",
+      "kode_wilayah": "63.01.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.01",
+      "kode_kecamatan": "63.01.06"
+    },
+    {
+      "nama_wilayah": "Bumi Asih",
+      "kode_wilayah": "63.01.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.01",
+      "kode_kecamatan": "63.01.06"
+    }
+  ]
+}

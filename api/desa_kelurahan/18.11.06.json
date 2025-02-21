@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Adi Luhur",
+      "kode_wilayah": "18.11.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.11",
+      "kode_kecamatan": "18.11.06"
+    },
+    {
+      "nama_wilayah": "Mukti Karya",
+      "kode_wilayah": "18.11.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.11",
+      "kode_kecamatan": "18.11.06"
+    },
+    {
+      "nama_wilayah": "Fajar Baru",
+      "kode_wilayah": "18.11.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.11",
+      "kode_kecamatan": "18.11.06"
+    },
+    {
+      "nama_wilayah": "Adi Mulyo",
+      "kode_wilayah": "18.11.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.11",
+      "kode_kecamatan": "18.11.06"
+    },
+    {
+      "nama_wilayah": "Fajar Asri",
+      "kode_wilayah": "18.11.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.11",
+      "kode_kecamatan": "18.11.06"
+    },
+    {
+      "nama_wilayah": "Fajar Indah",
+      "kode_wilayah": "18.11.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.11",
+      "kode_kecamatan": "18.11.06"
+    },
+    {
+      "nama_wilayah": "Adi Karya Mulya",
+      "kode_wilayah": "18.11.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.11",
+      "kode_kecamatan": "18.11.06"
+    }
+  ]
+}

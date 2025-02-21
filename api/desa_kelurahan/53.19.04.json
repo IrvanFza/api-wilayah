@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pota",
+      "kode_wilayah": "53.19.04.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.04"
+    },
+    {
+      "nama_wilayah": "Nanga Baras",
+      "kode_wilayah": "53.19.04.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.04"
+    },
+    {
+      "nama_wilayah": "Ulung Baras",
+      "kode_wilayah": "53.19.04.1018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.04"
+    },
+    {
+      "nama_wilayah": "Golo Wangkung Utara",
+      "kode_wilayah": "53.19.04.1020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.04"
+    },
+    {
+      "nama_wilayah": "Nanga Mbaur",
+      "kode_wilayah": "53.19.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.04"
+    },
+    {
+      "nama_wilayah": "Nanga Mbaling",
+      "kode_wilayah": "53.19.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.04"
+    },
+    {
+      "nama_wilayah": "Lada Mese",
+      "kode_wilayah": "53.19.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.04"
+    },
+    {
+      "nama_wilayah": "Nampar Sepang",
+      "kode_wilayah": "53.19.04.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.04"
+    },
+    {
+      "nama_wilayah": "Kembang Mekar",
+      "kode_wilayah": "53.19.04.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.04"
+    },
+    {
+      "nama_wilayah": "Wela Lada",
+      "kode_wilayah": "53.19.04.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.04"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Bungin",
+      "kode_wilayah": "73.16.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.06"
+    },
+    {
+      "nama_wilayah": "Talang Rilau",
+      "kode_wilayah": "73.16.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.06"
+    },
+    {
+      "nama_wilayah": "Baruka",
+      "kode_wilayah": "73.16.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.06"
+    },
+    {
+      "nama_wilayah": "Sawitto",
+      "kode_wilayah": "73.16.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.06"
+    },
+    {
+      "nama_wilayah": "Bulo",
+      "kode_wilayah": "73.16.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.06"
+    },
+    {
+      "nama_wilayah": "Banua",
+      "kode_wilayah": "73.16.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.06"
+    }
+  ]
+}

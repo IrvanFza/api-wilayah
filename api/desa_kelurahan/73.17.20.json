@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Bonelemo",
+      "kode_wilayah": "73.17.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.20"
+    },
+    {
+      "nama_wilayah": "Sampeang",
+      "kode_wilayah": "73.17.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.20"
+    },
+    {
+      "nama_wilayah": "Marinding",
+      "kode_wilayah": "73.17.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.20"
+    },
+    {
+      "nama_wilayah": "Saronda",
+      "kode_wilayah": "73.17.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.20"
+    },
+    {
+      "nama_wilayah": "Kadong-Kadong",
+      "kode_wilayah": "73.17.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.20"
+    },
+    {
+      "nama_wilayah": "Tumbubara",
+      "kode_wilayah": "73.17.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.20"
+    },
+    {
+      "nama_wilayah": "Tettekang",
+      "kode_wilayah": "73.17.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.20"
+    },
+    {
+      "nama_wilayah": "Bonelemo Utara",
+      "kode_wilayah": "73.17.20.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.20"
+    },
+    {
+      "nama_wilayah": "Bonelemo Barat",
+      "kode_wilayah": "73.17.20.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.20"
+    }
+  ]
+}

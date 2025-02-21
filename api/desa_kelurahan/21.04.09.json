@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Berlian",
+      "kode_wilayah": "21.04.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.09"
+    },
+    {
+      "nama_wilayah": "Marok Kecil",
+      "kode_wilayah": "21.04.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.09"
+    },
+    {
+      "nama_wilayah": "Pulau Lalang",
+      "kode_wilayah": "21.04.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.09"
+    },
+    {
+      "nama_wilayah": "Resang",
+      "kode_wilayah": "21.04.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.09"
+    }
+  ]
+}

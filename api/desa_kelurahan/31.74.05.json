@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kebayoran Lama Utara",
+      "kode_wilayah": "31.74.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.05"
+    },
+    {
+      "nama_wilayah": "Pondok Pinang",
+      "kode_wilayah": "31.74.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.05"
+    },
+    {
+      "nama_wilayah": "Cipulir",
+      "kode_wilayah": "31.74.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.05"
+    },
+    {
+      "nama_wilayah": "Grogol Utara",
+      "kode_wilayah": "31.74.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.05"
+    },
+    {
+      "nama_wilayah": "Grogol Selatan",
+      "kode_wilayah": "31.74.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.05"
+    },
+    {
+      "nama_wilayah": "Kebayoran Lama Selatan",
+      "kode_wilayah": "31.74.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.05"
+    }
+  ]
+}

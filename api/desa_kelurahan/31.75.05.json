@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Gedong",
+      "kode_wilayah": "31.75.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.05"
+    },
+    {
+      "nama_wilayah": "Baru",
+      "kode_wilayah": "31.75.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.05"
+    },
+    {
+      "nama_wilayah": "Cijantung",
+      "kode_wilayah": "31.75.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.05"
+    },
+    {
+      "nama_wilayah": "Kalisari",
+      "kode_wilayah": "31.75.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.05"
+    },
+    {
+      "nama_wilayah": "Pekayon",
+      "kode_wilayah": "31.75.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.05"
+    }
+  ]
+}

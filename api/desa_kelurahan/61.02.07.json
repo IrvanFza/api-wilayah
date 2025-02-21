@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Pinyuh",
+      "kode_wilayah": "61.02.07.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.07"
+    },
+    {
+      "nama_wilayah": "Sungai Rasau",
+      "kode_wilayah": "61.02.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.07"
+    },
+    {
+      "nama_wilayah": "Sungai Bakau Besar Darat",
+      "kode_wilayah": "61.02.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.07"
+    },
+    {
+      "nama_wilayah": "Sungai Purun Kecil",
+      "kode_wilayah": "61.02.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.07"
+    },
+    {
+      "nama_wilayah": "Sungai Bakau Besar Laut",
+      "kode_wilayah": "61.02.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.07"
+    },
+    {
+      "nama_wilayah": "Sungai Batang",
+      "kode_wilayah": "61.02.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.07"
+    },
+    {
+      "nama_wilayah": "Peniraman",
+      "kode_wilayah": "61.02.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.07"
+    },
+    {
+      "nama_wilayah": "Nusapati",
+      "kode_wilayah": "61.02.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.07"
+    },
+    {
+      "nama_wilayah": "Galang",
+      "kode_wilayah": "61.02.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.07"
+    }
+  ]
+}

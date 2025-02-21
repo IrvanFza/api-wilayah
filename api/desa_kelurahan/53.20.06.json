@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Ledeke",
+      "kode_wilayah": "53.20.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.20",
+      "kode_kecamatan": "53.20.06"
+    },
+    {
+      "nama_wilayah": "Ledeunu",
+      "kode_wilayah": "53.20.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.20",
+      "kode_kecamatan": "53.20.06"
+    },
+    {
+      "nama_wilayah": "Bolua",
+      "kode_wilayah": "53.20.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.20",
+      "kode_kecamatan": "53.20.06"
+    },
+    {
+      "nama_wilayah": "Kolorae",
+      "kode_wilayah": "53.20.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.20",
+      "kode_kecamatan": "53.20.06"
+    },
+    {
+      "nama_wilayah": "Ballu",
+      "kode_wilayah": "53.20.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.20",
+      "kode_kecamatan": "53.20.06"
+    }
+  ]
+}

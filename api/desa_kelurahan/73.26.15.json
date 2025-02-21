@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Ba-tan",
+      "kode_wilayah": "73.26.15.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.15"
+    },
+    {
+      "nama_wilayah": "Pantanakan Lolo",
+      "kode_wilayah": "73.26.15.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.15"
+    },
+    {
+      "nama_wilayah": "Tallu Lolo",
+      "kode_wilayah": "73.26.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.15"
+    },
+    {
+      "nama_wilayah": "Rinding Batu",
+      "kode_wilayah": "73.26.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.15"
+    },
+    {
+      "nama_wilayah": "Angin-angin",
+      "kode_wilayah": "73.26.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.15"
+    },
+    {
+      "nama_wilayah": "Sangbua-",
+      "kode_wilayah": "73.26.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.15"
+    },
+    {
+      "nama_wilayah": "Tadongkon",
+      "kode_wilayah": "73.26.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.15"
+    }
+  ]
+}

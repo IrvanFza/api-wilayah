@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Triwidadi",
+      "kode_wilayah": "34.02.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.07"
+    },
+    {
+      "nama_wilayah": "Sendangsari",
+      "kode_wilayah": "34.02.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.07"
+    },
+    {
+      "nama_wilayah": "Guwosari",
+      "kode_wilayah": "34.02.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.07"
+    }
+  ]
+}

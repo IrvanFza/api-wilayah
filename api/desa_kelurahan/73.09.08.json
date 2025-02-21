@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Temmapaduae",
+      "kode_wilayah": "73.09.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.08"
+    },
+    {
+      "nama_wilayah": "Nisombalia",
+      "kode_wilayah": "73.09.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.08"
+    },
+    {
+      "nama_wilayah": "Tellumpoccoe",
+      "kode_wilayah": "73.09.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.08"
+    },
+    {
+      "nama_wilayah": "Ma-rumpa",
+      "kode_wilayah": "73.09.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.08"
+    },
+    {
+      "nama_wilayah": "Bonto Mate-ne",
+      "kode_wilayah": "73.09.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.08"
+    },
+    {
+      "nama_wilayah": "Abbulosibatang",
+      "kode_wilayah": "73.09.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.08"
+    },
+    {
+      "nama_wilayah": "Pabbentengang",
+      "kode_wilayah": "73.09.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.08"
+    }
+  ]
+}

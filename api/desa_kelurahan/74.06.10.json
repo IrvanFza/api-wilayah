@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tanpabulu",
+      "kode_wilayah": "74.06.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.10"
+    },
+    {
+      "nama_wilayah": "Tanah Poleang",
+      "kode_wilayah": "74.06.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.10"
+    },
+    {
+      "nama_wilayah": "Karya Baru",
+      "kode_wilayah": "74.06.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.10"
+    },
+    {
+      "nama_wilayah": "Toburi",
+      "kode_wilayah": "74.06.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.10"
+    },
+    {
+      "nama_wilayah": "Rompu Rompu",
+      "kode_wilayah": "74.06.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.10"
+    },
+    {
+      "nama_wilayah": "Pusu Ea",
+      "kode_wilayah": "74.06.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.10"
+    },
+    {
+      "nama_wilayah": "Lawatu Ea",
+      "kode_wilayah": "74.06.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.10"
+    },
+    {
+      "nama_wilayah": "Wambarema",
+      "kode_wilayah": "74.06.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.10"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Wonokromo",
+      "kode_wilayah": "35.78.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.04"
+    },
+    {
+      "nama_wilayah": "Jagir",
+      "kode_wilayah": "35.78.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.04"
+    },
+    {
+      "nama_wilayah": "Ngagel",
+      "kode_wilayah": "35.78.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.04"
+    },
+    {
+      "nama_wilayah": "Ngagel Rejo",
+      "kode_wilayah": "35.78.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.04"
+    },
+    {
+      "nama_wilayah": "Darmo",
+      "kode_wilayah": "35.78.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.04"
+    },
+    {
+      "nama_wilayah": "Sawunggaling",
+      "kode_wilayah": "35.78.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.04"
+    }
+  ]
+}

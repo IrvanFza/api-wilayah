@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tambakrejo",
+      "kode_wilayah": "33.74.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.04"
+    },
+    {
+      "nama_wilayah": "Kaligawe",
+      "kode_wilayah": "33.74.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.04"
+    },
+    {
+      "nama_wilayah": "Sawah Besar",
+      "kode_wilayah": "33.74.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.04"
+    },
+    {
+      "nama_wilayah": "Sambirejo",
+      "kode_wilayah": "33.74.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.04"
+    },
+    {
+      "nama_wilayah": "Siwalan",
+      "kode_wilayah": "33.74.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.04"
+    },
+    {
+      "nama_wilayah": "Pandean Lamper",
+      "kode_wilayah": "33.74.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.04"
+    },
+    {
+      "nama_wilayah": "Gayamsari",
+      "kode_wilayah": "33.74.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.74",
+      "kode_kecamatan": "33.74.04"
+    }
+  ]
+}

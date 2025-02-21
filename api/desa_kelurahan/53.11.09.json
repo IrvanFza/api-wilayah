@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Rindi",
+      "kode_wilayah": "53.11.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.09"
+    },
+    {
+      "nama_wilayah": "Tanaraing",
+      "kode_wilayah": "53.11.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.09"
+    },
+    {
+      "nama_wilayah": "Haikatapu",
+      "kode_wilayah": "53.11.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.09"
+    },
+    {
+      "nama_wilayah": "Kabaru",
+      "kode_wilayah": "53.11.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.09"
+    },
+    {
+      "nama_wilayah": "Hanggaroru",
+      "kode_wilayah": "53.11.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.09"
+    },
+    {
+      "nama_wilayah": "Lailanjang",
+      "kode_wilayah": "53.11.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.09"
+    },
+    {
+      "nama_wilayah": "Tamburi",
+      "kode_wilayah": "53.11.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.09"
+    },
+    {
+      "nama_wilayah": "Kayuri",
+      "kode_wilayah": "53.11.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.09"
+    }
+  ]
+}

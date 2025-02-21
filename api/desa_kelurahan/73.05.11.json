@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Ko-mara",
+      "kode_wilayah": "73.05.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.11"
+    },
+    {
+      "nama_wilayah": "Kale Ko-mara",
+      "kode_wilayah": "73.05.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.11"
+    },
+    {
+      "nama_wilayah": "Barugaya",
+      "kode_wilayah": "73.05.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.11"
+    },
+    {
+      "nama_wilayah": "Parang Baddo",
+      "kode_wilayah": "73.05.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.11"
+    },
+    {
+      "nama_wilayah": "Massamaturu",
+      "kode_wilayah": "73.05.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.11"
+    },
+    {
+      "nama_wilayah": "Timbuseng",
+      "kode_wilayah": "73.05.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.11"
+    },
+    {
+      "nama_wilayah": "Balangtanaya",
+      "kode_wilayah": "73.05.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.11"
+    },
+    {
+      "nama_wilayah": "Kampung Beru",
+      "kode_wilayah": "73.05.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.11"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sukarame",
+      "kode_wilayah": "18.71.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.02"
+    },
+    {
+      "nama_wilayah": "Way Dadi",
+      "kode_wilayah": "18.71.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.02"
+    },
+    {
+      "nama_wilayah": "Sukarame Baru",
+      "kode_wilayah": "18.71.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.02"
+    },
+    {
+      "nama_wilayah": "Way Dadi Baru",
+      "kode_wilayah": "18.71.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.02"
+    },
+    {
+      "nama_wilayah": "Korpri jaya",
+      "kode_wilayah": "18.71.02.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.02"
+    },
+    {
+      "nama_wilayah": "Korpri Raya",
+      "kode_wilayah": "18.71.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.02"
+    }
+  ]
+}

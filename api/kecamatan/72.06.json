@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Bungku Tengah",
+      "kode_wilayah": "72.06.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.06",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Bungku Selatan",
+      "kode_wilayah": "72.06.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.06",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Menui Kepulauan",
+      "kode_wilayah": "72.06.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.06",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Bungku Barat",
+      "kode_wilayah": "72.06.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.06",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Bumi Raya",
+      "kode_wilayah": "72.06.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.06",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Bahodopi",
+      "kode_wilayah": "72.06.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.06",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Wita Ponda",
+      "kode_wilayah": "72.06.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.06",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Bungku Pesisir",
+      "kode_wilayah": "72.06.15",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.06",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Bungku Timur",
+      "kode_wilayah": "72.06.18",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.06",
+      "kode_provinsi": "72"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Sosor Gadong",
+      "kode_wilayah": "12.01.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.09"
+    },
+    {
+      "nama_wilayah": "Unte Boang",
+      "kode_wilayah": "12.01.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.09"
+    },
+    {
+      "nama_wilayah": "Sibintang",
+      "kode_wilayah": "12.01.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.09"
+    },
+    {
+      "nama_wilayah": "Barambang",
+      "kode_wilayah": "12.01.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.09"
+    },
+    {
+      "nama_wilayah": "Siantar Ca.",
+      "kode_wilayah": "12.01.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.09"
+    },
+    {
+      "nama_wilayah": "Muara Bolak",
+      "kode_wilayah": "12.01.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.09"
+    },
+    {
+      "nama_wilayah": "Huta Tombak",
+      "kode_wilayah": "12.01.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.09"
+    },
+    {
+      "nama_wilayah": "Siantar Dolok",
+      "kode_wilayah": "12.01.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.09"
+    },
+    {
+      "nama_wilayah": "Baringin",
+      "kode_wilayah": "12.01.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.09"
+    }
+  ]
+}

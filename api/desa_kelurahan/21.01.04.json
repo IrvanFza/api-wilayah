@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Kawal",
+      "kode_wilayah": "21.01.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.04"
+    },
+    {
+      "nama_wilayah": "Gunung Kijang",
+      "kode_wilayah": "21.01.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.04"
+    },
+    {
+      "nama_wilayah": "Malang Rapat",
+      "kode_wilayah": "21.01.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.04"
+    },
+    {
+      "nama_wilayah": "Teluk Bakau",
+      "kode_wilayah": "21.01.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.04"
+    }
+  ]
+}

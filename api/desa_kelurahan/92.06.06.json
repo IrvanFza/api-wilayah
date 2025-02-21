@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Moyeba",
+      "kode_wilayah": "92.06.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.06"
+    },
+    {
+      "nama_wilayah": "Merestim",
+      "kode_wilayah": "92.06.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.06"
+    },
+    {
+      "nama_wilayah": "Inofina",
+      "kode_wilayah": "92.06.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.06"
+    },
+    {
+      "nama_wilayah": "Mosum",
+      "kode_wilayah": "92.06.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.06"
+    }
+  ]
+}

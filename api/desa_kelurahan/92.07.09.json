@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Ambumi",
+      "kode_wilayah": "92.07.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.09"
+    },
+    {
+      "nama_wilayah": "Nanimori",
+      "kode_wilayah": "92.07.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.09"
+    },
+    {
+      "nama_wilayah": "Dusner",
+      "kode_wilayah": "92.07.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.09"
+    },
+    {
+      "nama_wilayah": "Yerenusi",
+      "kode_wilayah": "92.07.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.09"
+    },
+    {
+      "nama_wilayah": "Sobiar",
+      "kode_wilayah": "92.07.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.09"
+    },
+    {
+      "nama_wilayah": "Simei",
+      "kode_wilayah": "92.07.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.09"
+    }
+  ]
+}

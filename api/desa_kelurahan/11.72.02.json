@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Jaboi",
+      "kode_wilayah": "11.72.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.72",
+      "kode_kecamatan": "11.72.02"
+    },
+    {
+      "nama_wilayah": "Balohan",
+      "kode_wilayah": "11.72.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.72",
+      "kode_kecamatan": "11.72.02"
+    },
+    {
+      "nama_wilayah": "Cot Abeuk",
+      "kode_wilayah": "11.72.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.72",
+      "kode_kecamatan": "11.72.02"
+    },
+    {
+      "nama_wilayah": "Cot Ba U",
+      "kode_wilayah": "11.72.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.72",
+      "kode_kecamatan": "11.72.02"
+    },
+    {
+      "nama_wilayah": "Ie Meulee",
+      "kode_wilayah": "11.72.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.72",
+      "kode_kecamatan": "11.72.02"
+    },
+    {
+      "nama_wilayah": "Ujoeng Kareung",
+      "kode_wilayah": "11.72.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.72",
+      "kode_kecamatan": "11.72.02"
+    },
+    {
+      "nama_wilayah": "Anoe Itam",
+      "kode_wilayah": "11.72.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.72",
+      "kode_kecamatan": "11.72.02"
+    }
+  ]
+}

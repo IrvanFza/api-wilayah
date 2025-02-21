@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Tembuni",
+      "kode_wilayah": "92.06.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.09"
+    },
+    {
+      "nama_wilayah": "Mogoi Baru",
+      "kode_wilayah": "92.06.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.09"
+    },
+    {
+      "nama_wilayah": "Araisum",
+      "kode_wilayah": "92.06.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.09"
+    },
+    {
+      "nama_wilayah": "Bangun Mulya",
+      "kode_wilayah": "92.06.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.09"
+    }
+  ]
+}

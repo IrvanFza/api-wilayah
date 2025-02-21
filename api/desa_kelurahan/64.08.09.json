@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Sepaso",
+      "kode_wilayah": "64.08.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.09"
+    },
+    {
+      "nama_wilayah": "Sekerat",
+      "kode_wilayah": "64.08.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.09"
+    },
+    {
+      "nama_wilayah": "Keraitan",
+      "kode_wilayah": "64.08.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.09"
+    },
+    {
+      "nama_wilayah": "Tepian Langsat",
+      "kode_wilayah": "64.08.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.09"
+    },
+    {
+      "nama_wilayah": "Tebangan Lembak",
+      "kode_wilayah": "64.08.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.09"
+    },
+    {
+      "nama_wilayah": "Sepaso Timur",
+      "kode_wilayah": "64.08.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.09"
+    },
+    {
+      "nama_wilayah": "Sepaso Selatan",
+      "kode_wilayah": "64.08.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.09"
+    },
+    {
+      "nama_wilayah": "Muara Bengalon",
+      "kode_wilayah": "64.08.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.09"
+    },
+    {
+      "nama_wilayah": "Tepian Baru",
+      "kode_wilayah": "64.08.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.09"
+    },
+    {
+      "nama_wilayah": "Tepian Indah",
+      "kode_wilayah": "64.08.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.09"
+    },
+    {
+      "nama_wilayah": "Sepaso Barat",
+      "kode_wilayah": "64.08.09.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.09"
+    }
+  ]
+}

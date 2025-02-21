@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Durian Depun",
+      "kode_wilayah": "17.08.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.08",
+      "kode_kecamatan": "17.08.05"
+    },
+    {
+      "nama_wilayah": "Pulo Geto",
+      "kode_wilayah": "17.08.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.08",
+      "kode_kecamatan": "17.08.05"
+    },
+    {
+      "nama_wilayah": "Taba Mulan",
+      "kode_wilayah": "17.08.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.08",
+      "kode_kecamatan": "17.08.05"
+    },
+    {
+      "nama_wilayah": "Lubuk Penyamun",
+      "kode_wilayah": "17.08.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.08",
+      "kode_kecamatan": "17.08.05"
+    },
+    {
+      "nama_wilayah": "SP. Kota Bingin",
+      "kode_wilayah": "17.08.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.08",
+      "kode_kecamatan": "17.08.05"
+    },
+    {
+      "nama_wilayah": "Bukit Barisan",
+      "kode_wilayah": "17.08.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.08",
+      "kode_kecamatan": "17.08.05"
+    },
+    {
+      "nama_wilayah": "Batu Ampar",
+      "kode_wilayah": "17.08.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.08",
+      "kode_kecamatan": "17.08.05"
+    },
+    {
+      "nama_wilayah": "Pulo Geto Baru",
+      "kode_wilayah": "17.08.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.08",
+      "kode_kecamatan": "17.08.05"
+    }
+  ]
+}

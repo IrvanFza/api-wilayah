@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Condong",
+      "kode_wilayah": "32.06.35.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.35"
+    },
+    {
+      "nama_wilayah": "Bojonggaok",
+      "kode_wilayah": "32.06.35.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.35"
+    },
+    {
+      "nama_wilayah": "Sindangraja",
+      "kode_wilayah": "32.06.35.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.35"
+    },
+    {
+      "nama_wilayah": "Karangmulya",
+      "kode_wilayah": "32.06.35.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.35"
+    },
+    {
+      "nama_wilayah": "Geresik",
+      "kode_wilayah": "32.06.35.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.35"
+    },
+    {
+      "nama_wilayah": "Karangsembung",
+      "kode_wilayah": "32.06.35.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.35"
+    },
+    {
+      "nama_wilayah": "Tanjungmekar",
+      "kode_wilayah": "32.06.35.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.35"
+    },
+    {
+      "nama_wilayah": "Karangresik",
+      "kode_wilayah": "32.06.35.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.35"
+    }
+  ]
+}

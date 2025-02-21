@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Wailolong",
+      "kode_wilayah": "53.06.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.04"
+    },
+    {
+      "nama_wilayah": "Lewoloba",
+      "kode_wilayah": "53.06.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.04"
+    },
+    {
+      "nama_wilayah": "Tiwatobi",
+      "kode_wilayah": "53.06.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.04"
+    },
+    {
+      "nama_wilayah": "Watotutu",
+      "kode_wilayah": "53.06.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.04"
+    },
+    {
+      "nama_wilayah": "Riangkemie",
+      "kode_wilayah": "53.06.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.04"
+    },
+    {
+      "nama_wilayah": "Lewohala",
+      "kode_wilayah": "53.06.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.04"
+    },
+    {
+      "nama_wilayah": "Halakodanuan",
+      "kode_wilayah": "53.06.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.04"
+    },
+    {
+      "nama_wilayah": "Mudakaputu",
+      "kode_wilayah": "53.06.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.04"
+    }
+  ]
+}

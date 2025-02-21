@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Lawama",
+      "kode_wilayah": "74.03.32.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.32"
+    },
+    {
+      "nama_wilayah": "Wale-Ale",
+      "kode_wilayah": "74.03.32.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.32"
+    },
+    {
+      "nama_wilayah": "Kulidawa",
+      "kode_wilayah": "74.03.32.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.32"
+    },
+    {
+      "nama_wilayah": "Labasa",
+      "kode_wilayah": "74.03.32.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.32"
+    },
+    {
+      "nama_wilayah": "Watondo",
+      "kode_wilayah": "74.03.32.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.32"
+    },
+    {
+      "nama_wilayah": "Lianosa",
+      "kode_wilayah": "74.03.32.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.32"
+    }
+  ]
+}

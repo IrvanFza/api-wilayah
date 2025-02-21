@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tangaran",
+      "kode_wilayah": "61.01.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.17"
+    },
+    {
+      "nama_wilayah": "Simpang Empat",
+      "kode_wilayah": "61.01.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.17"
+    },
+    {
+      "nama_wilayah": "Merabuan",
+      "kode_wilayah": "61.01.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.17"
+    },
+    {
+      "nama_wilayah": "Semata",
+      "kode_wilayah": "61.01.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.17"
+    },
+    {
+      "nama_wilayah": "Merpati",
+      "kode_wilayah": "61.01.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.17"
+    },
+    {
+      "nama_wilayah": "Pancur",
+      "kode_wilayah": "61.01.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.17"
+    },
+    {
+      "nama_wilayah": "Arung Parak",
+      "kode_wilayah": "61.01.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.17"
+    },
+    {
+      "nama_wilayah": "Arung Medang",
+      "kode_wilayah": "61.01.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.17"
+    }
+  ]
+}

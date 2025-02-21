@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Minasa Te-ne",
+      "kode_wilayah": "73.10.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.10"
+    },
+    {
+      "nama_wilayah": "Kalabbirang",
+      "kode_wilayah": "73.10.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.10"
+    },
+    {
+      "nama_wilayah": "Biraeng",
+      "kode_wilayah": "73.10.10.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.10"
+    },
+    {
+      "nama_wilayah": "Bonto Kio",
+      "kode_wilayah": "73.10.10.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.10"
+    },
+    {
+      "nama_wilayah": "Bontoa",
+      "kode_wilayah": "73.10.10.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.10"
+    },
+    {
+      "nama_wilayah": "Bonto Langkasa",
+      "kode_wilayah": "73.10.10.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.10"
+    },
+    {
+      "nama_wilayah": "Kabba",
+      "kode_wilayah": "73.10.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.10"
+    },
+    {
+      "nama_wilayah": "Panaikang",
+      "kode_wilayah": "73.10.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.10"
+    }
+  ]
+}

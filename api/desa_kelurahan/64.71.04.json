@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Gunungsari Ulu",
+      "kode_wilayah": "64.71.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.04"
+    },
+    {
+      "nama_wilayah": "Gunungsari Ilir",
+      "kode_wilayah": "64.71.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.04"
+    },
+    {
+      "nama_wilayah": "Karang Rejo",
+      "kode_wilayah": "64.71.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.04"
+    },
+    {
+      "nama_wilayah": "Karang Jati",
+      "kode_wilayah": "64.71.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.04"
+    },
+    {
+      "nama_wilayah": "Mekar Sari",
+      "kode_wilayah": "64.71.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.04"
+    },
+    {
+      "nama_wilayah": "Sumber Rejo",
+      "kode_wilayah": "64.71.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.04"
+    }
+  ]
+}

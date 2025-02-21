@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Larangan Utara",
+      "kode_wilayah": "36.71.13.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.13"
+    },
+    {
+      "nama_wilayah": "Larangan Selatan",
+      "kode_wilayah": "36.71.13.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.13"
+    },
+    {
+      "nama_wilayah": "Cipadu",
+      "kode_wilayah": "36.71.13.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.13"
+    },
+    {
+      "nama_wilayah": "Kreo",
+      "kode_wilayah": "36.71.13.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.13"
+    },
+    {
+      "nama_wilayah": "Larangan Indah",
+      "kode_wilayah": "36.71.13.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.13"
+    },
+    {
+      "nama_wilayah": "Gaga",
+      "kode_wilayah": "36.71.13.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.13"
+    },
+    {
+      "nama_wilayah": "Cipadu Jaya",
+      "kode_wilayah": "36.71.13.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.13"
+    },
+    {
+      "nama_wilayah": "Kreo Selatan",
+      "kode_wilayah": "36.71.13.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.13"
+    }
+  ]
+}

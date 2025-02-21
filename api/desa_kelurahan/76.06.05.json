@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Karossa",
+      "kode_wilayah": "76.06.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.06",
+      "kode_kecamatan": "76.06.05"
+    },
+    {
+      "nama_wilayah": "Tasokko",
+      "kode_wilayah": "76.06.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.06",
+      "kode_kecamatan": "76.06.05"
+    },
+    {
+      "nama_wilayah": "Lara",
+      "kode_wilayah": "76.06.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.06",
+      "kode_kecamatan": "76.06.05"
+    },
+    {
+      "nama_wilayah": "Kadaila",
+      "kode_wilayah": "76.06.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.06",
+      "kode_kecamatan": "76.06.05"
+    },
+    {
+      "nama_wilayah": "Kayu Calla",
+      "kode_wilayah": "76.06.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.06",
+      "kode_kecamatan": "76.06.05"
+    },
+    {
+      "nama_wilayah": "Lembah Hopo",
+      "kode_wilayah": "76.06.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.06",
+      "kode_kecamatan": "76.06.05"
+    },
+    {
+      "nama_wilayah": "Benggaulu",
+      "kode_wilayah": "76.06.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.06",
+      "kode_kecamatan": "76.06.05"
+    },
+    {
+      "nama_wilayah": "Suka Maju",
+      "kode_wilayah": "76.06.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.06",
+      "kode_kecamatan": "76.06.05"
+    },
+    {
+      "nama_wilayah": "Kambunong",
+      "kode_wilayah": "76.06.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.06",
+      "kode_kecamatan": "76.06.05"
+    },
+    {
+      "nama_wilayah": "Salubiro",
+      "kode_wilayah": "76.06.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.06",
+      "kode_kecamatan": "76.06.05"
+    },
+    {
+      "nama_wilayah": "Sanjango",
+      "kode_wilayah": "76.06.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.06",
+      "kode_kecamatan": "76.06.05"
+    }
+  ]
+}

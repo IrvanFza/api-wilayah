@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Bitung Barat Satu",
+      "kode_wilayah": "71.72.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.07"
+    },
+    {
+      "nama_wilayah": "Pakadoodan",
+      "kode_wilayah": "71.72.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.07"
+    },
+    {
+      "nama_wilayah": "Bitung Barat  Dua",
+      "kode_wilayah": "71.72.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.07"
+    },
+    {
+      "nama_wilayah": "Bitung Tengah",
+      "kode_wilayah": "71.72.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.07"
+    },
+    {
+      "nama_wilayah": "Bitung Timur",
+      "kode_wilayah": "71.72.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.07"
+    },
+    {
+      "nama_wilayah": "Kakenturan  Satu",
+      "kode_wilayah": "71.72.07.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.07"
+    },
+    {
+      "nama_wilayah": "Kekenturan Dua",
+      "kode_wilayah": "71.72.07.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.07"
+    },
+    {
+      "nama_wilayah": "Pateten Tiga",
+      "kode_wilayah": "71.72.07.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.07"
+    }
+  ]
+}

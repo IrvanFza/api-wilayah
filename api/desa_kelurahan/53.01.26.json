@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Nunuanah",
+      "kode_wilayah": "53.01.26.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.26"
+    },
+    {
+      "nama_wilayah": "Kifu",
+      "kode_wilayah": "53.01.26.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.26"
+    },
+    {
+      "nama_wilayah": "Netemnanu Selatan",
+      "kode_wilayah": "53.01.26.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.26"
+    },
+    {
+      "nama_wilayah": "Netemnanu Utara",
+      "kode_wilayah": "53.01.26.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.26"
+    },
+    {
+      "nama_wilayah": "Netemnanu",
+      "kode_wilayah": "53.01.26.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.26"
+    }
+  ]
+}

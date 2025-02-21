@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Atuka",
+      "kode_wilayah": "94.04.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.08"
+    },
+    {
+      "nama_wilayah": "Tiwaka",
+      "kode_wilayah": "94.04.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.08"
+    },
+    {
+      "nama_wilayah": "Keakwa",
+      "kode_wilayah": "94.04.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.08"
+    },
+    {
+      "nama_wilayah": "Aikawapuka",
+      "kode_wilayah": "94.04.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.08"
+    },
+    {
+      "nama_wilayah": "Kamoro",
+      "kode_wilayah": "94.04.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.04",
+      "kode_kecamatan": "94.04.08"
+    }
+  ]
+}

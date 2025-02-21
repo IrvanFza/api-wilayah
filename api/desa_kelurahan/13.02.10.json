@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Koto Baru",
+      "kode_wilayah": "13.02.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.10"
+    },
+    {
+      "nama_wilayah": "Selayo",
+      "kode_wilayah": "13.02.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.10"
+    },
+    {
+      "nama_wilayah": "Panyakalan",
+      "kode_wilayah": "13.02.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.10"
+    },
+    {
+      "nama_wilayah": "Gaung",
+      "kode_wilayah": "13.02.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.10"
+    },
+    {
+      "nama_wilayah": "Gantuang Ciri",
+      "kode_wilayah": "13.02.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.10"
+    },
+    {
+      "nama_wilayah": "Saok Laweh",
+      "kode_wilayah": "13.02.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.10"
+    },
+    {
+      "nama_wilayah": "Koto Hilalang",
+      "kode_wilayah": "13.02.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.10"
+    },
+    {
+      "nama_wilayah": "Tanjung Bingkung",
+      "kode_wilayah": "13.02.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.10"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Haruyan",
+      "kode_wilayah": "63.07.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.07",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Batu Benawa",
+      "kode_wilayah": "63.07.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.07",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Labuan Amas Selatan",
+      "kode_wilayah": "63.07.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.07",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Labuan Amas Utara",
+      "kode_wilayah": "63.07.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.07",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Pandawan",
+      "kode_wilayah": "63.07.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.07",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Barabai",
+      "kode_wilayah": "63.07.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.07",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Batang Alai Selatan",
+      "kode_wilayah": "63.07.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.07",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Batang Alai Utara",
+      "kode_wilayah": "63.07.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.07",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Hantakan",
+      "kode_wilayah": "63.07.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.07",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Batang Alai Timur",
+      "kode_wilayah": "63.07.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.07",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Limpasu",
+      "kode_wilayah": "63.07.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.07",
+      "kode_provinsi": "63"
+    }
+  ]
+}

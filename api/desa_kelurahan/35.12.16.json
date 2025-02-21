@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Lubawang",
+      "kode_wilayah": "35.12.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.16"
+    },
+    {
+      "nama_wilayah": "Kalisari",
+      "kode_wilayah": "35.12.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.16"
+    },
+    {
+      "nama_wilayah": "Tepos",
+      "kode_wilayah": "35.12.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.16"
+    },
+    {
+      "nama_wilayah": "Selobanteng",
+      "kode_wilayah": "35.12.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.16"
+    },
+    {
+      "nama_wilayah": "Banyuglugur",
+      "kode_wilayah": "35.12.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.16"
+    },
+    {
+      "nama_wilayah": "Telempong",
+      "kode_wilayah": "35.12.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.16"
+    },
+    {
+      "nama_wilayah": "Kalianget",
+      "kode_wilayah": "35.12.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.16"
+    }
+  ]
+}

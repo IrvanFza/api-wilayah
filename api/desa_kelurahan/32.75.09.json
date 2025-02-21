@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Jatimekar",
+      "kode_wilayah": "32.75.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.09"
+    },
+    {
+      "nama_wilayah": "Jatiasih",
+      "kode_wilayah": "32.75.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.09"
+    },
+    {
+      "nama_wilayah": "Jatikramat",
+      "kode_wilayah": "32.75.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.09"
+    },
+    {
+      "nama_wilayah": "Jatirasa",
+      "kode_wilayah": "32.75.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.09"
+    },
+    {
+      "nama_wilayah": "Jatiluhur",
+      "kode_wilayah": "32.75.09.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.09"
+    },
+    {
+      "nama_wilayah": "Jatisari",
+      "kode_wilayah": "32.75.09.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.09"
+    }
+  ]
+}

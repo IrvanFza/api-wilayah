@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Soa-Sio",
+      "kode_wilayah": "82.03.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.04"
+    },
+    {
+      "nama_wilayah": "Pune",
+      "kode_wilayah": "82.03.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.04"
+    },
+    {
+      "nama_wilayah": "Mamuya",
+      "kode_wilayah": "82.03.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.04"
+    },
+    {
+      "nama_wilayah": "Toweka",
+      "kode_wilayah": "82.03.04.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.04"
+    },
+    {
+      "nama_wilayah": "Simau",
+      "kode_wilayah": "82.03.04.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.04"
+    },
+    {
+      "nama_wilayah": "Barataku",
+      "kode_wilayah": "82.03.04.2031",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.04"
+    },
+    {
+      "nama_wilayah": "Towara",
+      "kode_wilayah": "82.03.04.2032",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.03",
+      "kode_kecamatan": "82.03.04"
+    }
+  ]
+}

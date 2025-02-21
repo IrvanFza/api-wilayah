@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Long Bagun",
+      "kode_wilayah": "64.11.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.11",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Long Hubung",
+      "kode_wilayah": "64.11.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.11",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Laham",
+      "kode_wilayah": "64.11.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.11",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Long Apari",
+      "kode_wilayah": "64.11.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.11",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Long Pahangai",
+      "kode_wilayah": "64.11.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.11",
+      "kode_provinsi": "64"
+    }
+  ]
+}

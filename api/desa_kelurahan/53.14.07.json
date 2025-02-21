@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sedeoen",
+      "kode_wilayah": "53.14.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.07"
+    },
+    {
+      "nama_wilayah": "Nemberala",
+      "kode_wilayah": "53.14.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.07"
+    },
+    {
+      "nama_wilayah": "Oenggaut",
+      "kode_wilayah": "53.14.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.07"
+    },
+    {
+      "nama_wilayah": "Bo\"a",
+      "kode_wilayah": "53.14.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.07"
+    },
+    {
+      "nama_wilayah": "Oenitas",
+      "kode_wilayah": "53.14.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.07"
+    },
+    {
+      "nama_wilayah": "Oelolot",
+      "kode_wilayah": "53.14.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.07"
+    },
+    {
+      "nama_wilayah": "Mbueain",
+      "kode_wilayah": "53.14.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.07"
+    }
+  ]
+}

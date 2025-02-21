@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Selisun",
+      "kode_wilayah": "65.03.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.09"
+    },
+    {
+      "nama_wilayah": "Nunukan Selatan",
+      "kode_wilayah": "65.03.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.09"
+    },
+    {
+      "nama_wilayah": "Mansapa",
+      "kode_wilayah": "65.03.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.09"
+    },
+    {
+      "nama_wilayah": "Tanjung Harapan",
+      "kode_wilayah": "65.03.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.09"
+    }
+  ]
+}

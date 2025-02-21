@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Ncera",
+      "kode_wilayah": "52.06.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.06",
+      "kode_kecamatan": "52.06.04"
+    },
+    {
+      "nama_wilayah": "Lido",
+      "kode_wilayah": "52.06.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.06",
+      "kode_kecamatan": "52.06.04"
+    },
+    {
+      "nama_wilayah": "Ngali",
+      "kode_wilayah": "52.06.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.06",
+      "kode_kecamatan": "52.06.04"
+    },
+    {
+      "nama_wilayah": "Renda",
+      "kode_wilayah": "52.06.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.06",
+      "kode_kecamatan": "52.06.04"
+    },
+    {
+      "nama_wilayah": "Cenggu",
+      "kode_wilayah": "52.06.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.06",
+      "kode_kecamatan": "52.06.04"
+    },
+    {
+      "nama_wilayah": "Runggu",
+      "kode_wilayah": "52.06.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.06",
+      "kode_kecamatan": "52.06.04"
+    },
+    {
+      "nama_wilayah": "Soki",
+      "kode_wilayah": "52.06.04.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.06",
+      "kode_kecamatan": "52.06.04"
+    },
+    {
+      "nama_wilayah": "Roka",
+      "kode_wilayah": "52.06.04.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.06",
+      "kode_kecamatan": "52.06.04"
+    },
+    {
+      "nama_wilayah": "Diha",
+      "kode_wilayah": "52.06.04.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.06",
+      "kode_kecamatan": "52.06.04"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Wanakerta",
+      "kode_wilayah": "32.13.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.06"
+    },
+    {
+      "nama_wilayah": "Pagon",
+      "kode_wilayah": "32.13.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.06"
+    },
+    {
+      "nama_wilayah": "Prapatan",
+      "kode_wilayah": "32.13.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.06"
+    },
+    {
+      "nama_wilayah": "Purwadadi",
+      "kode_wilayah": "32.13.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.06"
+    },
+    {
+      "nama_wilayah": "Belendung",
+      "kode_wilayah": "32.13.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.06"
+    },
+    {
+      "nama_wilayah": "Koranji",
+      "kode_wilayah": "32.13.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.06"
+    },
+    {
+      "nama_wilayah": "Panyingkiran",
+      "kode_wilayah": "32.13.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.06"
+    },
+    {
+      "nama_wilayah": "Pasirbungur",
+      "kode_wilayah": "32.13.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.06"
+    },
+    {
+      "nama_wilayah": "Purwadadi Barat",
+      "kode_wilayah": "32.13.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.06"
+    },
+    {
+      "nama_wilayah": "Rancamahi",
+      "kode_wilayah": "32.13.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.06"
+    }
+  ]
+}

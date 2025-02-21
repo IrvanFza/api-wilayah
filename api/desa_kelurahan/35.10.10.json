@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tegalharjo",
+      "kode_wilayah": "35.10.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.10"
+    },
+    {
+      "nama_wilayah": "Sepanjang",
+      "kode_wilayah": "35.10.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.10"
+    },
+    {
+      "nama_wilayah": "Karangharjo",
+      "kode_wilayah": "35.10.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.10"
+    },
+    {
+      "nama_wilayah": "Tulungrejo",
+      "kode_wilayah": "35.10.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.10"
+    },
+    {
+      "nama_wilayah": "Sumbergondo",
+      "kode_wilayah": "35.10.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.10"
+    },
+    {
+      "nama_wilayah": "Bumiharjo",
+      "kode_wilayah": "35.10.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.10"
+    },
+    {
+      "nama_wilayah": "Margomulyo",
+      "kode_wilayah": "35.10.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.10"
+    }
+  ]
+}

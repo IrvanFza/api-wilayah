@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Tomarundung",
+      "kode_wilayah": "73.73.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.06"
+    },
+    {
+      "nama_wilayah": "Battang",
+      "kode_wilayah": "73.73.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.06"
+    },
+    {
+      "nama_wilayah": "Lebang",
+      "kode_wilayah": "73.73.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.06"
+    },
+    {
+      "nama_wilayah": "Battang Barat",
+      "kode_wilayah": "73.73.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.06"
+    },
+    {
+      "nama_wilayah": "Padang Lambe",
+      "kode_wilayah": "73.73.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.06"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sukorejo",
+      "kode_wilayah": "35.11.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.18"
+    },
+    {
+      "nama_wilayah": "Sumber Gading",
+      "kode_wilayah": "35.11.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.18"
+    },
+    {
+      "nama_wilayah": "Sukosari Kidul",
+      "kode_wilayah": "35.11.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.18"
+    },
+    {
+      "nama_wilayah": "Tegaljati",
+      "kode_wilayah": "35.11.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.18"
+    },
+    {
+      "nama_wilayah": "Rejo Agung",
+      "kode_wilayah": "35.11.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.18"
+    },
+    {
+      "nama_wilayah": "Sumberwringin",
+      "kode_wilayah": "35.11.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.18"
+    }
+  ]
+}

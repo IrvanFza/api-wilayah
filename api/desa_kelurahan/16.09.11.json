@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Pius",
+      "kode_wilayah": "16.09.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.11"
+    },
+    {
+      "nama_wilayah": "Pengandonan",
+      "kode_wilayah": "16.09.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.11"
+    },
+    {
+      "nama_wilayah": "Siring Alam",
+      "kode_wilayah": "16.09.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.11"
+    },
+    {
+      "nama_wilayah": "Simpang Campang",
+      "kode_wilayah": "16.09.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.11"
+    },
+    {
+      "nama_wilayah": "Pulau Kemiling",
+      "kode_wilayah": "16.09.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.11"
+    },
+    {
+      "nama_wilayah": "Keban Agung",
+      "kode_wilayah": "16.09.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.11"
+    },
+    {
+      "nama_wilayah": "Muara Sindang",
+      "kode_wilayah": "16.09.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.11"
+    },
+    {
+      "nama_wilayah": "Campang Jaya",
+      "kode_wilayah": "16.09.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.11"
+    },
+    {
+      "nama_wilayah": "Tanjung Jati",
+      "kode_wilayah": "16.09.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.11"
+    }
+  ]
+}

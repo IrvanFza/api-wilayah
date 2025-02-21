@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Falabisahaya",
+      "kode_wilayah": "82.05.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.13"
+    },
+    {
+      "nama_wilayah": "Modapia",
+      "kode_wilayah": "82.05.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.13"
+    },
+    {
+      "nama_wilayah": "Modapuhi",
+      "kode_wilayah": "82.05.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.13"
+    },
+    {
+      "nama_wilayah": "Pastabulu",
+      "kode_wilayah": "82.05.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.13"
+    },
+    {
+      "nama_wilayah": "Saniahaya",
+      "kode_wilayah": "82.05.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.13"
+    },
+    {
+      "nama_wilayah": "Minaluli",
+      "kode_wilayah": "82.05.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.13"
+    },
+    {
+      "nama_wilayah": "Modapuhi Trans",
+      "kode_wilayah": "82.05.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.13"
+    }
+  ]
+}

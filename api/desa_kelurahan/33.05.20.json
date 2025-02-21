@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Panjatan",
+      "kode_wilayah": "33.05.20.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.05",
+      "kode_kecamatan": "33.05.20"
+    },
+    {
+      "nama_wilayah": "Karanganyar",
+      "kode_wilayah": "33.05.20.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.05",
+      "kode_kecamatan": "33.05.20"
+    },
+    {
+      "nama_wilayah": "Jatiluhur",
+      "kode_wilayah": "33.05.20.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.05",
+      "kode_kecamatan": "33.05.20"
+    },
+    {
+      "nama_wilayah": "Plarangan",
+      "kode_wilayah": "33.05.20.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.05",
+      "kode_kecamatan": "33.05.20"
+    },
+    {
+      "nama_wilayah": "Sidomulyo",
+      "kode_wilayah": "33.05.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.05",
+      "kode_kecamatan": "33.05.20"
+    },
+    {
+      "nama_wilayah": "Candi",
+      "kode_wilayah": "33.05.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.05",
+      "kode_kecamatan": "33.05.20"
+    },
+    {
+      "nama_wilayah": "Giripurno",
+      "kode_wilayah": "33.05.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.05",
+      "kode_kecamatan": "33.05.20"
+    },
+    {
+      "nama_wilayah": "Karangkemiri",
+      "kode_wilayah": "33.05.20.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.05",
+      "kode_kecamatan": "33.05.20"
+    },
+    {
+      "nama_wilayah": "Wonorejo",
+      "kode_wilayah": "33.05.20.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.05",
+      "kode_kecamatan": "33.05.20"
+    },
+    {
+      "nama_wilayah": "Grenggeng",
+      "kode_wilayah": "33.05.20.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.05",
+      "kode_kecamatan": "33.05.20"
+    },
+    {
+      "nama_wilayah": "Pohkumbang",
+      "kode_wilayah": "33.05.20.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.05",
+      "kode_kecamatan": "33.05.20"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Cupunagara",
+      "kode_wilayah": "32.13.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.02"
+    },
+    {
+      "nama_wilayah": "Cimanggu",
+      "kode_wilayah": "32.13.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.02"
+    },
+    {
+      "nama_wilayah": "Gardusayang",
+      "kode_wilayah": "32.13.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.02"
+    },
+    {
+      "nama_wilayah": "Mayang",
+      "kode_wilayah": "32.13.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.02"
+    },
+    {
+      "nama_wilayah": "Sukakerti",
+      "kode_wilayah": "32.13.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.02"
+    },
+    {
+      "nama_wilayah": "Darmaga",
+      "kode_wilayah": "32.13.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.02"
+    },
+    {
+      "nama_wilayah": "Cisalak",
+      "kode_wilayah": "32.13.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.02"
+    },
+    {
+      "nama_wilayah": "Cigadog",
+      "kode_wilayah": "32.13.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.02"
+    },
+    {
+      "nama_wilayah": "Pakuhaji",
+      "kode_wilayah": "32.13.02.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.02"
+    }
+  ]
+}

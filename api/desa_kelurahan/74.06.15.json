@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Mapila",
+      "kode_wilayah": "74.06.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.15"
+    },
+    {
+      "nama_wilayah": "Wumbulasa",
+      "kode_wilayah": "74.06.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.15"
+    },
+    {
+      "nama_wilayah": "Sangia  Makmur",
+      "kode_wilayah": "74.06.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.15"
+    },
+    {
+      "nama_wilayah": "Eemokolo",
+      "kode_wilayah": "74.06.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.15"
+    },
+    {
+      "nama_wilayah": "Tedubara",
+      "kode_wilayah": "74.06.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.15"
+    },
+    {
+      "nama_wilayah": "Larolanu",
+      "kode_wilayah": "74.06.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.15"
+    }
+  ]
+}

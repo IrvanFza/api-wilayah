@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Cibedug",
+      "kode_wilayah": "32.17.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.13"
+    },
+    {
+      "nama_wilayah": "Bojong",
+      "kode_wilayah": "32.17.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.13"
+    },
+    {
+      "nama_wilayah": "Bojongsalam",
+      "kode_wilayah": "32.17.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.13"
+    },
+    {
+      "nama_wilayah": "Cibitung",
+      "kode_wilayah": "32.17.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.13"
+    },
+    {
+      "nama_wilayah": "Cicadas",
+      "kode_wilayah": "32.17.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.13"
+    },
+    {
+      "nama_wilayah": "Cinengah",
+      "kode_wilayah": "32.17.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.13"
+    },
+    {
+      "nama_wilayah": "Sukamanah",
+      "kode_wilayah": "32.17.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.13"
+    },
+    {
+      "nama_wilayah": "Sukaresmi",
+      "kode_wilayah": "32.17.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.13"
+    }
+  ]
+}

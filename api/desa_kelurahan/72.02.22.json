@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Bonesompe",
+      "kode_wilayah": "72.02.22.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.22"
+    },
+    {
+      "nama_wilayah": "Kasintuwu",
+      "kode_wilayah": "72.02.22.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.22"
+    },
+    {
+      "nama_wilayah": "Lombogia",
+      "kode_wilayah": "72.02.22.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.22"
+    },
+    {
+      "nama_wilayah": "Lawanga",
+      "kode_wilayah": "72.02.22.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.22"
+    },
+    {
+      "nama_wilayah": "Tegalrejo",
+      "kode_wilayah": "72.02.22.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.22"
+    },
+    {
+      "nama_wilayah": "Madale",
+      "kode_wilayah": "72.02.22.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.22"
+    },
+    {
+      "nama_wilayah": "Lawanga Tawongan",
+      "kode_wilayah": "72.02.22.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.22"
+    }
+  ]
+}

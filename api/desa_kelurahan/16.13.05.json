@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Karang Dapo",
+      "kode_wilayah": "16.13.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.13",
+      "kode_kecamatan": "16.13.05"
+    },
+    {
+      "nama_wilayah": "Aringin",
+      "kode_wilayah": "16.13.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.13",
+      "kode_kecamatan": "16.13.05"
+    },
+    {
+      "nama_wilayah": "Biaro Baru",
+      "kode_wilayah": "16.13.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.13",
+      "kode_kecamatan": "16.13.05"
+    },
+    {
+      "nama_wilayah": "Biaro Lama",
+      "kode_wilayah": "16.13.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.13",
+      "kode_kecamatan": "16.13.05"
+    },
+    {
+      "nama_wilayah": "Rantau Kadam",
+      "kode_wilayah": "16.13.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.13",
+      "kode_kecamatan": "16.13.05"
+    },
+    {
+      "nama_wilayah": "Kerta Sari",
+      "kode_wilayah": "16.13.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.13",
+      "kode_kecamatan": "16.13.05"
+    },
+    {
+      "nama_wilayah": "Karang Dapo II",
+      "kode_wilayah": "16.13.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.13",
+      "kode_kecamatan": "16.13.05"
+    },
+    {
+      "nama_wilayah": "Setia Marga",
+      "kode_wilayah": "16.13.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.13",
+      "kode_kecamatan": "16.13.05"
+    },
+    {
+      "nama_wilayah": "Bina Karya",
+      "kode_wilayah": "16.13.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.13",
+      "kode_kecamatan": "16.13.05"
+    }
+  ]
+}

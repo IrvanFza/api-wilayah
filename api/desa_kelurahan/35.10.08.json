@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bagorejo",
+      "kode_wilayah": "35.10.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.08"
+    },
+    {
+      "nama_wilayah": "Wonosobo",
+      "kode_wilayah": "35.10.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.08"
+    },
+    {
+      "nama_wilayah": "Sukonatar",
+      "kode_wilayah": "35.10.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.08"
+    },
+    {
+      "nama_wilayah": "Kebaman",
+      "kode_wilayah": "35.10.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.08"
+    },
+    {
+      "nama_wilayah": "Sumbersari",
+      "kode_wilayah": "35.10.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.08"
+    },
+    {
+      "nama_wilayah": "Parijatah Wetan",
+      "kode_wilayah": "35.10.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.08"
+    },
+    {
+      "nama_wilayah": "Parijatah Kulon",
+      "kode_wilayah": "35.10.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.08"
+    },
+    {
+      "nama_wilayah": "Rejoagung",
+      "kode_wilayah": "35.10.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.08"
+    },
+    {
+      "nama_wilayah": "Kepundungan",
+      "kode_wilayah": "35.10.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.08"
+    },
+    {
+      "nama_wilayah": "Sukomaju",
+      "kode_wilayah": "35.10.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.08"
+    }
+  ]
+}

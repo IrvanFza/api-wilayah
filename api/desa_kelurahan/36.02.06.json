@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Kanekes",
+      "kode_wilayah": "36.02.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.06"
+    },
+    {
+      "nama_wilayah": "Cisimeut",
+      "kode_wilayah": "36.02.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.06"
+    },
+    {
+      "nama_wilayah": "Cibungur",
+      "kode_wilayah": "36.02.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.06"
+    },
+    {
+      "nama_wilayah": "Leuwidamar",
+      "kode_wilayah": "36.02.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.06"
+    },
+    {
+      "nama_wilayah": "Lebakparahiang",
+      "kode_wilayah": "36.02.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.06"
+    },
+    {
+      "nama_wilayah": "Sangkanwangi",
+      "kode_wilayah": "36.02.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.06"
+    },
+    {
+      "nama_wilayah": "Nayagati",
+      "kode_wilayah": "36.02.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.06"
+    },
+    {
+      "nama_wilayah": "Bojongmenteng",
+      "kode_wilayah": "36.02.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.06"
+    },
+    {
+      "nama_wilayah": "Margawangi",
+      "kode_wilayah": "36.02.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.06"
+    },
+    {
+      "nama_wilayah": "Wantisari",
+      "kode_wilayah": "36.02.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.06"
+    },
+    {
+      "nama_wilayah": "Jalupangmulya",
+      "kode_wilayah": "36.02.06.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.06"
+    },
+    {
+      "nama_wilayah": "Cisimeut Raya",
+      "kode_wilayah": "36.02.06.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.06"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tuinan",
+      "kode_wilayah": "72.05.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.02"
+    },
+    {
+      "nama_wilayah": "Lakea II",
+      "kode_wilayah": "72.05.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.02"
+    },
+    {
+      "nama_wilayah": "Lakea I",
+      "kode_wilayah": "72.05.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.02"
+    },
+    {
+      "nama_wilayah": "Lakuan Buol",
+      "kode_wilayah": "72.05.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.02"
+    },
+    {
+      "nama_wilayah": "Bukaan",
+      "kode_wilayah": "72.05.02.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.02"
+    },
+    {
+      "nama_wilayah": "Ngune",
+      "kode_wilayah": "72.05.02.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.02"
+    },
+    {
+      "nama_wilayah": "Ilambe",
+      "kode_wilayah": "72.05.02.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.02"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Jambudipa",
+      "kode_wilayah": "32.03.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.02"
+    },
+    {
+      "nama_wilayah": "Cisarandi",
+      "kode_wilayah": "32.03.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.02"
+    },
+    {
+      "nama_wilayah": "Cikaroya",
+      "kode_wilayah": "32.03.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.02"
+    },
+    {
+      "nama_wilayah": "Bunikasih",
+      "kode_wilayah": "32.03.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.02"
+    },
+    {
+      "nama_wilayah": "Ciwalen",
+      "kode_wilayah": "32.03.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.02"
+    },
+    {
+      "nama_wilayah": "Tegallega",
+      "kode_wilayah": "32.03.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.02"
+    },
+    {
+      "nama_wilayah": "Sukawangi",
+      "kode_wilayah": "32.03.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.02"
+    },
+    {
+      "nama_wilayah": "Bunisari",
+      "kode_wilayah": "32.03.02.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.02"
+    },
+    {
+      "nama_wilayah": "Sukamulya",
+      "kode_wilayah": "32.03.02.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.02"
+    },
+    {
+      "nama_wilayah": "Cieundeur",
+      "kode_wilayah": "32.03.02.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.02"
+    },
+    {
+      "nama_wilayah": "Mekarwangi",
+      "kode_wilayah": "32.03.02.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.02"
+    }
+  ]
+}

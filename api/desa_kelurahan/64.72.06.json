@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Loa Bakung",
+      "kode_wilayah": "64.72.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.06"
+    },
+    {
+      "nama_wilayah": "Loa Buah",
+      "kode_wilayah": "64.72.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.06"
+    },
+    {
+      "nama_wilayah": "Karang Asam Ulu",
+      "kode_wilayah": "64.72.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.06"
+    },
+    {
+      "nama_wilayah": "Lok Bahu",
+      "kode_wilayah": "64.72.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.06"
+    },
+    {
+      "nama_wilayah": "Teluk Lerong Ulu",
+      "kode_wilayah": "64.72.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.06"
+    },
+    {
+      "nama_wilayah": "Karang Asam Ilir",
+      "kode_wilayah": "64.72.06.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.06"
+    },
+    {
+      "nama_wilayah": "Karang Anyar",
+      "kode_wilayah": "64.72.06.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.06"
+    }
+  ]
+}

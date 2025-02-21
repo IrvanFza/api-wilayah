@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Tj. Haro Sikabu-kabu Pd. Panjang",
+      "kode_wilayah": "13.07.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.07",
+      "kode_kecamatan": "13.07.04"
+    },
+    {
+      "nama_wilayah": "Mungo",
+      "kode_wilayah": "13.07.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.07",
+      "kode_kecamatan": "13.07.04"
+    },
+    {
+      "nama_wilayah": "Sungai Kamuyang",
+      "kode_wilayah": "13.07.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.07",
+      "kode_kecamatan": "13.07.04"
+    },
+    {
+      "nama_wilayah": "Andaleh",
+      "kode_wilayah": "13.07.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.07",
+      "kode_kecamatan": "13.07.04"
+    }
+  ]
+}

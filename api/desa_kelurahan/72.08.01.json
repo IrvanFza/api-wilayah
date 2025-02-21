@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Masigi",
+      "kode_wilayah": "72.08.01.1017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.01"
+    },
+    {
+      "nama_wilayah": "Maesa",
+      "kode_wilayah": "72.08.01.1018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.01"
+    },
+    {
+      "nama_wilayah": "Loji",
+      "kode_wilayah": "72.08.01.1019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.01"
+    },
+    {
+      "nama_wilayah": "Bantaya",
+      "kode_wilayah": "72.08.01.1020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.01"
+    },
+    {
+      "nama_wilayah": "Kampal",
+      "kode_wilayah": "72.08.01.1021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.01"
+    },
+    {
+      "nama_wilayah": "Olaya",
+      "kode_wilayah": "72.08.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.01"
+    },
+    {
+      "nama_wilayah": "Pembalowo",
+      "kode_wilayah": "72.08.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.01"
+    },
+    {
+      "nama_wilayah": "Mertasari",
+      "kode_wilayah": "72.08.01.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.01"
+    },
+    {
+      "nama_wilayah": "Bambalemo",
+      "kode_wilayah": "72.08.01.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.01"
+    },
+    {
+      "nama_wilayah": "Lebo",
+      "kode_wilayah": "72.08.01.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.01"
+    },
+    {
+      "nama_wilayah": "Bambalemo Ranomaisi",
+      "kode_wilayah": "72.08.01.2035",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.01"
+    }
+  ]
+}

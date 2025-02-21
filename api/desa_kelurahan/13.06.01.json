@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Tiku Selatan",
+      "kode_wilayah": "13.06.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.01"
+    },
+    {
+      "nama_wilayah": "Tiku Utara",
+      "kode_wilayah": "13.06.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.01"
+    },
+    {
+      "nama_wilayah": "Tiku Limo Jorong",
+      "kode_wilayah": "13.06.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.01"
+    },
+    {
+      "nama_wilayah": "Durian Kapeh Darussalam",
+      "kode_wilayah": "13.06.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.01"
+    }
+  ]
+}

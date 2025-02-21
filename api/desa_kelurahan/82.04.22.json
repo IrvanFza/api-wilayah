@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Wayatim",
+      "kode_wilayah": "82.04.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.22"
+    },
+    {
+      "nama_wilayah": "Tomara",
+      "kode_wilayah": "82.04.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.22"
+    },
+    {
+      "nama_wilayah": "Tutupa",
+      "kode_wilayah": "82.04.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.22"
+    },
+    {
+      "nama_wilayah": "Tabapoma",
+      "kode_wilayah": "82.04.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.22"
+    },
+    {
+      "nama_wilayah": "Bibinoi",
+      "kode_wilayah": "82.04.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.22"
+    },
+    {
+      "nama_wilayah": "Songa",
+      "kode_wilayah": "82.04.22.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.22"
+    },
+    {
+      "nama_wilayah": "Tawa",
+      "kode_wilayah": "82.04.22.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.22"
+    }
+  ]
+}

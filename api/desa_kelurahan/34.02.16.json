@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Bangunjiwo",
+      "kode_wilayah": "34.02.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.16"
+    },
+    {
+      "nama_wilayah": "Tirtonirmolo",
+      "kode_wilayah": "34.02.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.16"
+    },
+    {
+      "nama_wilayah": "Tamantirto",
+      "kode_wilayah": "34.02.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.16"
+    },
+    {
+      "nama_wilayah": "Ngestiharjo",
+      "kode_wilayah": "34.02.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.16"
+    }
+  ]
+}

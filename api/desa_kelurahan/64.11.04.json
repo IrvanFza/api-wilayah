@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Long Penaneh I",
+      "kode_wilayah": "64.11.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.04"
+    },
+    {
+      "nama_wilayah": "Long Kerioq",
+      "kode_wilayah": "64.11.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.04"
+    },
+    {
+      "nama_wilayah": "Long Penaneh II",
+      "kode_wilayah": "64.11.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.04"
+    },
+    {
+      "nama_wilayah": "Tiong Ohang",
+      "kode_wilayah": "64.11.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.04"
+    },
+    {
+      "nama_wilayah": "Long Penaneh III",
+      "kode_wilayah": "64.11.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.04"
+    },
+    {
+      "nama_wilayah": "Tiong Bu-u",
+      "kode_wilayah": "64.11.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.04"
+    },
+    {
+      "nama_wilayah": "Naha Buan",
+      "kode_wilayah": "64.11.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.04"
+    },
+    {
+      "nama_wilayah": "Naha Tifab",
+      "kode_wilayah": "64.11.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.04"
+    },
+    {
+      "nama_wilayah": "Naha Silat",
+      "kode_wilayah": "64.11.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.04"
+    },
+    {
+      "nama_wilayah": "Long Apari",
+      "kode_wilayah": "64.11.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.04"
+    }
+  ]
+}

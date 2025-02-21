@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Air Tawar Timur",
+      "kode_wilayah": "13.71.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.71",
+      "kode_kecamatan": "13.71.04"
+    },
+    {
+      "nama_wilayah": "Air Tawar Barat",
+      "kode_wilayah": "13.71.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.71",
+      "kode_kecamatan": "13.71.04"
+    },
+    {
+      "nama_wilayah": "Ulak Karang Utara",
+      "kode_wilayah": "13.71.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.71",
+      "kode_kecamatan": "13.71.04"
+    },
+    {
+      "nama_wilayah": "Ulak Karang Selatan",
+      "kode_wilayah": "13.71.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.71",
+      "kode_kecamatan": "13.71.04"
+    },
+    {
+      "nama_wilayah": "Lolong Belanti",
+      "kode_wilayah": "13.71.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.71",
+      "kode_kecamatan": "13.71.04"
+    },
+    {
+      "nama_wilayah": "Alai Parak Kopi",
+      "kode_wilayah": "13.71.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.71",
+      "kode_kecamatan": "13.71.04"
+    },
+    {
+      "nama_wilayah": "Gunung Pangilun",
+      "kode_wilayah": "13.71.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.71",
+      "kode_kecamatan": "13.71.04"
+    }
+  ]
+}

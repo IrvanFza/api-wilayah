@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Padomasan",
+      "kode_wilayah": "35.09.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.01"
+    },
+    {
+      "nama_wilayah": "Keting",
+      "kode_wilayah": "35.09.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.01"
+    },
+    {
+      "nama_wilayah": "Jombang",
+      "kode_wilayah": "35.09.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.01"
+    },
+    {
+      "nama_wilayah": "Ngampelrejo",
+      "kode_wilayah": "35.09.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.01"
+    },
+    {
+      "nama_wilayah": "Wringinagung",
+      "kode_wilayah": "35.09.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.01"
+    },
+    {
+      "nama_wilayah": "Sarimulyo",
+      "kode_wilayah": "35.09.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.01"
+    }
+  ]
+}

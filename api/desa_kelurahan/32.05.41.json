@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Citangtu",
+      "kode_wilayah": "32.05.41.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.41"
+    },
+    {
+      "nama_wilayah": "Cimaragas",
+      "kode_wilayah": "32.05.41.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.41"
+    },
+    {
+      "nama_wilayah": "Babakan Loa",
+      "kode_wilayah": "32.05.41.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.41"
+    },
+    {
+      "nama_wilayah": "Sukahurip",
+      "kode_wilayah": "32.05.41.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.41"
+    },
+    {
+      "nama_wilayah": "Sukamulya",
+      "kode_wilayah": "32.05.41.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.41"
+    },
+    {
+      "nama_wilayah": "Cihuni",
+      "kode_wilayah": "32.05.41.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.41"
+    },
+    {
+      "nama_wilayah": "Sukarasa",
+      "kode_wilayah": "32.05.41.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.41"
+    },
+    {
+      "nama_wilayah": "Karangsari",
+      "kode_wilayah": "32.05.41.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.41"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Cijagra",
+      "kode_wilayah": "32.73.13.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.13"
+    },
+    {
+      "nama_wilayah": "Lingkar Selatan",
+      "kode_wilayah": "32.73.13.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.13"
+    },
+    {
+      "nama_wilayah": "Burangrang",
+      "kode_wilayah": "32.73.13.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.13"
+    },
+    {
+      "nama_wilayah": "Paledang",
+      "kode_wilayah": "32.73.13.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.13"
+    },
+    {
+      "nama_wilayah": "Turangga",
+      "kode_wilayah": "32.73.13.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.13"
+    },
+    {
+      "nama_wilayah": "Malabar",
+      "kode_wilayah": "32.73.13.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.13"
+    },
+    {
+      "nama_wilayah": "Cikawao",
+      "kode_wilayah": "32.73.13.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.13"
+    }
+  ]
+}

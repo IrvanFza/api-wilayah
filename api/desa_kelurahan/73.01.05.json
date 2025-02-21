@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Harapan",
+      "kode_wilayah": "73.01.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.05"
+    },
+    {
+      "nama_wilayah": "Patikarya",
+      "kode_wilayah": "73.01.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.05"
+    },
+    {
+      "nama_wilayah": "Patilereng",
+      "kode_wilayah": "73.01.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.05"
+    },
+    {
+      "nama_wilayah": "Laiyolo Baru",
+      "kode_wilayah": "73.01.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.05"
+    },
+    {
+      "nama_wilayah": "Laiyolo",
+      "kode_wilayah": "73.01.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.05"
+    },
+    {
+      "nama_wilayah": "Lantibongan",
+      "kode_wilayah": "73.01.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.05"
+    },
+    {
+      "nama_wilayah": "Binanga Sombaiya",
+      "kode_wilayah": "73.01.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.05"
+    },
+    {
+      "nama_wilayah": "Lowa",
+      "kode_wilayah": "73.01.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.05"
+    },
+    {
+      "nama_wilayah": "Appatanah",
+      "kode_wilayah": "73.01.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.05"
+    },
+    {
+      "nama_wilayah": "Tambolongan",
+      "kode_wilayah": "73.01.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.05"
+    },
+    {
+      "nama_wilayah": "Polassi",
+      "kode_wilayah": "73.01.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.05"
+    },
+    {
+      "nama_wilayah": "Khusus Bahuluang",
+      "kode_wilayah": "73.01.05.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.05"
+    }
+  ]
+}

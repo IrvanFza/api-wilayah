@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Banggeri",
+      "kode_wilayah": "95.04.37.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.37"
+    },
+    {
+      "nama_wilayah": "Igari",
+      "kode_wilayah": "95.04.37.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.37"
+    },
+    {
+      "nama_wilayah": "Tina",
+      "kode_wilayah": "95.04.37.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.37"
+    },
+    {
+      "nama_wilayah": "Telelomi",
+      "kode_wilayah": "95.04.37.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.37"
+    },
+    {
+      "nama_wilayah": "Kopenawai",
+      "kode_wilayah": "95.04.37.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.37"
+    },
+    {
+      "nama_wilayah": "Wunggi",
+      "kode_wilayah": "95.04.37.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.37"
+    },
+    {
+      "nama_wilayah": "Baganagapur",
+      "kode_wilayah": "95.04.37.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.37"
+    },
+    {
+      "nama_wilayah": "Milineri",
+      "kode_wilayah": "95.04.37.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.37"
+    },
+    {
+      "nama_wilayah": "Mili",
+      "kode_wilayah": "95.04.37.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.37"
+    },
+    {
+      "nama_wilayah": "Geyaneri",
+      "kode_wilayah": "95.04.37.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.37"
+    }
+  ]
+}

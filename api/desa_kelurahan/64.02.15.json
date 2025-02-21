@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Jawa",
+      "kode_wilayah": "64.02.15.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.15"
+    },
+    {
+      "nama_wilayah": "Pendingin",
+      "kode_wilayah": "64.02.15.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.15"
+    },
+    {
+      "nama_wilayah": "Sanga-Sanga Dalam",
+      "kode_wilayah": "64.02.15.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.15"
+    },
+    {
+      "nama_wilayah": "Sari Jaya",
+      "kode_wilayah": "64.02.15.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.15"
+    },
+    {
+      "nama_wilayah": "Sanga-Sanga Muara",
+      "kode_wilayah": "64.02.15.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.15"
+    }
+  ]
+}

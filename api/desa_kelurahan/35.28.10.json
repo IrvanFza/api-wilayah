@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Bajur",
+      "kode_wilayah": "35.28.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.10"
+    },
+    {
+      "nama_wilayah": "Sumber Waru",
+      "kode_wilayah": "35.28.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.10"
+    },
+    {
+      "nama_wilayah": "Tampojung Pregih",
+      "kode_wilayah": "35.28.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.10"
+    },
+    {
+      "nama_wilayah": "Tampojung Guwa",
+      "kode_wilayah": "35.28.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.10"
+    },
+    {
+      "nama_wilayah": "Tampojung Tengah",
+      "kode_wilayah": "35.28.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.10"
+    },
+    {
+      "nama_wilayah": "Tampojung Tenggina",
+      "kode_wilayah": "35.28.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.10"
+    },
+    {
+      "nama_wilayah": "Ragang",
+      "kode_wilayah": "35.28.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.10"
+    },
+    {
+      "nama_wilayah": "Sana Laok",
+      "kode_wilayah": "35.28.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.10"
+    },
+    {
+      "nama_wilayah": "Waru Timur",
+      "kode_wilayah": "35.28.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.10"
+    },
+    {
+      "nama_wilayah": "Waru Barat",
+      "kode_wilayah": "35.28.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.10"
+    },
+    {
+      "nama_wilayah": "Tlonto Ares",
+      "kode_wilayah": "35.28.10.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.10"
+    },
+    {
+      "nama_wilayah": "Tagangser Laok",
+      "kode_wilayah": "35.28.10.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.10"
+    }
+  ]
+}

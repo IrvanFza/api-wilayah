@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tangkolo",
+      "kode_wilayah": "32.08.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.03"
+    },
+    {
+      "nama_wilayah": "Pamulihan",
+      "kode_wilayah": "32.08.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.03"
+    },
+    {
+      "nama_wilayah": "Subang",
+      "kode_wilayah": "32.08.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.03"
+    },
+    {
+      "nama_wilayah": "Gunungaci",
+      "kode_wilayah": "32.08.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.03"
+    },
+    {
+      "nama_wilayah": "Situgede",
+      "kode_wilayah": "32.08.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.03"
+    },
+    {
+      "nama_wilayah": "Bangunjaya",
+      "kode_wilayah": "32.08.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.03"
+    },
+    {
+      "nama_wilayah": "Jatisari",
+      "kode_wilayah": "32.08.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.03"
+    }
+  ]
+}

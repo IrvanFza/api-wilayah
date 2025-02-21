@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Sanglar",
+      "kode_wilayah": "21.02.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.09"
+    },
+    {
+      "nama_wilayah": "Tanjung Kilang",
+      "kode_wilayah": "21.02.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.09"
+    },
+    {
+      "nama_wilayah": "Semembang",
+      "kode_wilayah": "21.02.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.09"
+    },
+    {
+      "nama_wilayah": "Telaga Tujuh",
+      "kode_wilayah": "21.02.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.09"
+    }
+  ]
+}

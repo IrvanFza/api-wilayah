@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Wasile",
+      "kode_wilayah": "82.06.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.06",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Maba",
+      "kode_wilayah": "82.06.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.06",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Maba Selatan",
+      "kode_wilayah": "82.06.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.06",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Wasile Selatan",
+      "kode_wilayah": "82.06.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.06",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Wasile Tengah",
+      "kode_wilayah": "82.06.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.06",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Wasile Utara",
+      "kode_wilayah": "82.06.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.06",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Wasile Timur",
+      "kode_wilayah": "82.06.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.06",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Maba Tengah",
+      "kode_wilayah": "82.06.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.06",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Maba Utara",
+      "kode_wilayah": "82.06.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.06",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Kota Maba",
+      "kode_wilayah": "82.06.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.06",
+      "kode_provinsi": "82"
+    }
+  ]
+}

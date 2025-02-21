@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Lombok Kulon",
+      "kode_wilayah": "35.11.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.09"
+    },
+    {
+      "nama_wilayah": "Lombok Wetan",
+      "kode_wilayah": "35.11.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.09"
+    },
+    {
+      "nama_wilayah": "Tumpeng",
+      "kode_wilayah": "35.11.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.09"
+    },
+    {
+      "nama_wilayah": "Jumpong",
+      "kode_wilayah": "35.11.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.09"
+    },
+    {
+      "nama_wilayah": "Tangsil Wetan",
+      "kode_wilayah": "35.11.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.09"
+    },
+    {
+      "nama_wilayah": "Pasarejo",
+      "kode_wilayah": "35.11.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.09"
+    },
+    {
+      "nama_wilayah": "Bendoarum",
+      "kode_wilayah": "35.11.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.09"
+    },
+    {
+      "nama_wilayah": "Kapuran",
+      "kode_wilayah": "35.11.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.09"
+    },
+    {
+      "nama_wilayah": "Sumberkalong",
+      "kode_wilayah": "35.11.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.09"
+    },
+    {
+      "nama_wilayah": "Traktakan",
+      "kode_wilayah": "35.11.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.09"
+    },
+    {
+      "nama_wilayah": "Wonosari",
+      "kode_wilayah": "35.11.09.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.09"
+    },
+    {
+      "nama_wilayah": "Pelalangan",
+      "kode_wilayah": "35.11.09.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.09"
+    }
+  ]
+}

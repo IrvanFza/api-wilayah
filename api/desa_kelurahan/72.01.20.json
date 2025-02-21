@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Simpong",
+      "kode_wilayah": "72.01.20.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.20"
+    },
+    {
+      "nama_wilayah": "Hanga Hanga",
+      "kode_wilayah": "72.01.20.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.20"
+    },
+    {
+      "nama_wilayah": "Jole",
+      "kode_wilayah": "72.01.20.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.20"
+    },
+    {
+      "nama_wilayah": "Hanga-Hanga Permai",
+      "kode_wilayah": "72.01.20.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.20"
+    },
+    {
+      "nama_wilayah": "Kompo",
+      "kode_wilayah": "72.01.20.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.20"
+    },
+    {
+      "nama_wilayah": "Bukit Mambual",
+      "kode_wilayah": "72.01.20.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.20"
+    },
+    {
+      "nama_wilayah": "Tombang Permai",
+      "kode_wilayah": "72.01.20.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.20"
+    },
+    {
+      "nama_wilayah": "Maahas",
+      "kode_wilayah": "72.01.20.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.20"
+    },
+    {
+      "nama_wilayah": "Tanjung Tuwis",
+      "kode_wilayah": "72.01.20.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.20"
+    },
+    {
+      "nama_wilayah": "Bubung",
+      "kode_wilayah": "72.01.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.20"
+    }
+  ]
+}

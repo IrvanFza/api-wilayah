@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Klabot",
+      "kode_wilayah": "96.01.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.11"
+    },
+    {
+      "nama_wilayah": "Indiwi",
+      "kode_wilayah": "96.01.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.11"
+    },
+    {
+      "nama_wilayah": "Mlawes",
+      "kode_wilayah": "96.01.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.11"
+    },
+    {
+      "nama_wilayah": "Warkti",
+      "kode_wilayah": "96.01.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.11"
+    },
+    {
+      "nama_wilayah": "Mlasfa",
+      "kode_wilayah": "96.01.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.11"
+    },
+    {
+      "nama_wilayah": "Mlat",
+      "kode_wilayah": "96.01.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.11"
+    },
+    {
+      "nama_wilayah": "Somir",
+      "kode_wilayah": "96.01.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.11"
+    },
+    {
+      "nama_wilayah": "Kanolo",
+      "kode_wilayah": "96.01.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.11"
+    }
+  ]
+}

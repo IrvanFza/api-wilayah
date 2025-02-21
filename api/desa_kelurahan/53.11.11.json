@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Wulla",
+      "kode_wilayah": "53.11.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.11"
+    },
+    {
+      "nama_wilayah": "Hadakamali",
+      "kode_wilayah": "53.11.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.11"
+    },
+    {
+      "nama_wilayah": "Lumbu Manggit",
+      "kode_wilayah": "53.11.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.11"
+    },
+    {
+      "nama_wilayah": "Latena",
+      "kode_wilayah": "53.11.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.11"
+    },
+    {
+      "nama_wilayah": "Lainjanji",
+      "kode_wilayah": "53.11.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.11"
+    },
+    {
+      "nama_wilayah": "Laipandak",
+      "kode_wilayah": "53.11.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.11"
+    },
+    {
+      "nama_wilayah": "Paranda",
+      "kode_wilayah": "53.11.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.11"
+    }
+  ]
+}

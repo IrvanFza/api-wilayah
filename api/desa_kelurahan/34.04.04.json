@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sendangarum",
+      "kode_wilayah": "34.04.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.04"
+    },
+    {
+      "nama_wilayah": "Sendangmulyo",
+      "kode_wilayah": "34.04.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.04"
+    },
+    {
+      "nama_wilayah": "Sendangagung",
+      "kode_wilayah": "34.04.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.04"
+    },
+    {
+      "nama_wilayah": "Sendangsari",
+      "kode_wilayah": "34.04.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.04"
+    },
+    {
+      "nama_wilayah": "Sendangrejo",
+      "kode_wilayah": "34.04.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.04"
+    }
+  ]
+}

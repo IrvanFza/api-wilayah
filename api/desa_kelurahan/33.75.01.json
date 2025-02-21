@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Medono",
+      "kode_wilayah": "33.75.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.01"
+    },
+    {
+      "nama_wilayah": "Podosugih",
+      "kode_wilayah": "33.75.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.01"
+    },
+    {
+      "nama_wilayah": "Sapuro Kebulen",
+      "kode_wilayah": "33.75.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.01"
+    },
+    {
+      "nama_wilayah": "Bendan Kergon",
+      "kode_wilayah": "33.75.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.01"
+    },
+    {
+      "nama_wilayah": "Pasirkratonkramat",
+      "kode_wilayah": "33.75.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.01"
+    },
+    {
+      "nama_wilayah": "Tirto",
+      "kode_wilayah": "33.75.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.01"
+    },
+    {
+      "nama_wilayah": "Pringrejo",
+      "kode_wilayah": "33.75.01.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.75",
+      "kode_kecamatan": "33.75.01"
+    }
+  ]
+}

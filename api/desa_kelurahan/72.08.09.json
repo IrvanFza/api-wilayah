@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tanalanto",
+      "kode_wilayah": "72.08.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.09"
+    },
+    {
+      "nama_wilayah": "Torue",
+      "kode_wilayah": "72.08.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.09"
+    },
+    {
+      "nama_wilayah": "Astina",
+      "kode_wilayah": "72.08.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.09"
+    },
+    {
+      "nama_wilayah": "Purwosari",
+      "kode_wilayah": "72.08.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.09"
+    },
+    {
+      "nama_wilayah": "Tolai",
+      "kode_wilayah": "72.08.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.09"
+    },
+    {
+      "nama_wilayah": "Tolai Barat",
+      "kode_wilayah": "72.08.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.09"
+    },
+    {
+      "nama_wilayah": "Tolai Timur",
+      "kode_wilayah": "72.08.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.09"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Lubuk Linggau Timur I",
+      "kode_wilayah": "16.73.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.73",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Lubuk Linggau Barat I",
+      "kode_wilayah": "16.73.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.73",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Lubuk Linggau Selatan I",
+      "kode_wilayah": "16.73.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.73",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Lubuk Linggau Utara I",
+      "kode_wilayah": "16.73.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.73",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Lubuk Linggau Timur II",
+      "kode_wilayah": "16.73.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.73",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Lubuk Linggau Barat II",
+      "kode_wilayah": "16.73.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.73",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Lubuk Linggau Selatan II",
+      "kode_wilayah": "16.73.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.73",
+      "kode_provinsi": "16"
+    },
+    {
+      "nama_wilayah": "Lubuk Linggau Utara II",
+      "kode_wilayah": "16.73.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "16.73",
+      "kode_provinsi": "16"
+    }
+  ]
+}

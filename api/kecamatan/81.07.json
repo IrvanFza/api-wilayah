@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pulau-Pulau Aru",
+      "kode_wilayah": "81.07.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.07",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Aru Selatan",
+      "kode_wilayah": "81.07.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.07",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Aru Tengah",
+      "kode_wilayah": "81.07.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.07",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Aru Utara",
+      "kode_wilayah": "81.07.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.07",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Aru Utara Timur Batuley",
+      "kode_wilayah": "81.07.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.07",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Sir-Sir",
+      "kode_wilayah": "81.07.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.07",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Aru Tengah Timur",
+      "kode_wilayah": "81.07.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.07",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Aru Tengah Selatan",
+      "kode_wilayah": "81.07.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.07",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Aru Selatan Timur",
+      "kode_wilayah": "81.07.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.07",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Aru Selatan Utara",
+      "kode_wilayah": "81.07.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.07",
+      "kode_provinsi": "81"
+    }
+  ]
+}

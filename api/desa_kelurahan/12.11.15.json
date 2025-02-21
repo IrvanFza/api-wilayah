@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Panji Dabutar",
+      "kode_wilayah": "12.11.15.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.11",
+      "kode_kecamatan": "12.11.15"
+    },
+    {
+      "nama_wilayah": "Sitinjo",
+      "kode_wilayah": "12.11.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.11",
+      "kode_kecamatan": "12.11.15"
+    },
+    {
+      "nama_wilayah": "Sitinjo I",
+      "kode_wilayah": "12.11.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.11",
+      "kode_kecamatan": "12.11.15"
+    },
+    {
+      "nama_wilayah": "Sitinjo II",
+      "kode_wilayah": "12.11.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.11",
+      "kode_kecamatan": "12.11.15"
+    }
+  ]
+}

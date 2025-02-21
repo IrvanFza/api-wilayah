@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Ganting",
+      "kode_wilayah": "13.74.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.74",
+      "kode_kecamatan": "13.74.01"
+    },
+    {
+      "nama_wilayah": "Sigando",
+      "kode_wilayah": "13.74.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.74",
+      "kode_kecamatan": "13.74.01"
+    },
+    {
+      "nama_wilayah": "Ekor Lubuk",
+      "kode_wilayah": "13.74.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.74",
+      "kode_kecamatan": "13.74.01"
+    },
+    {
+      "nama_wilayah": "Ngalau",
+      "kode_wilayah": "13.74.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.74",
+      "kode_kecamatan": "13.74.01"
+    },
+    {
+      "nama_wilayah": "Guguk Malintang",
+      "kode_wilayah": "13.74.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.74",
+      "kode_kecamatan": "13.74.01"
+    },
+    {
+      "nama_wilayah": "Koto Panjang",
+      "kode_wilayah": "13.74.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.74",
+      "kode_kecamatan": "13.74.01"
+    },
+    {
+      "nama_wilayah": "Koto Katik",
+      "kode_wilayah": "13.74.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.74",
+      "kode_kecamatan": "13.74.01"
+    },
+    {
+      "nama_wilayah": "Tanah Pak Lambik",
+      "kode_wilayah": "13.74.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.74",
+      "kode_kecamatan": "13.74.01"
+    }
+  ]
+}

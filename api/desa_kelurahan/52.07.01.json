@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Goa",
+      "kode_wilayah": "52.07.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.07",
+      "kode_kecamatan": "52.07.01"
+    },
+    {
+      "nama_wilayah": "Belo",
+      "kode_wilayah": "52.07.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.07",
+      "kode_kecamatan": "52.07.01"
+    },
+    {
+      "nama_wilayah": "Beru",
+      "kode_wilayah": "52.07.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.07",
+      "kode_kecamatan": "52.07.01"
+    },
+    {
+      "nama_wilayah": "Dasan Anyar",
+      "kode_wilayah": "52.07.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.07",
+      "kode_kecamatan": "52.07.01"
+    }
+  ]
+}

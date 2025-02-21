@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Wamariri",
+      "kode_wilayah": "91.10.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.09"
+    },
+    {
+      "nama_wilayah": "Aurimi",
+      "kode_wilayah": "91.10.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.09"
+    },
+    {
+      "nama_wilayah": "Tamaja",
+      "kode_wilayah": "91.10.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.09"
+    },
+    {
+      "nama_wilayah": "Airoran",
+      "kode_wilayah": "91.10.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.09"
+    },
+    {
+      "nama_wilayah": "Murara",
+      "kode_wilayah": "91.10.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.09"
+    },
+    {
+      "nama_wilayah": "Sasawapece",
+      "kode_wilayah": "91.10.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.09"
+    },
+    {
+      "nama_wilayah": "Maniwa",
+      "kode_wilayah": "91.10.09.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.09"
+    },
+    {
+      "nama_wilayah": "Surimania",
+      "kode_wilayah": "91.10.09.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.09"
+    },
+    {
+      "nama_wilayah": "Kwawitania",
+      "kode_wilayah": "91.10.09.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.09"
+    },
+    {
+      "nama_wilayah": "Bina",
+      "kode_wilayah": "91.10.09.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.09"
+    }
+  ]
+}

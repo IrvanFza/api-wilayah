@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Rendang",
+      "kode_wilayah": "51.07.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.07",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Sidemen",
+      "kode_wilayah": "51.07.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.07",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Manggis",
+      "kode_wilayah": "51.07.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.07",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Karangasem",
+      "kode_wilayah": "51.07.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.07",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Abang",
+      "kode_wilayah": "51.07.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.07",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Bebandem",
+      "kode_wilayah": "51.07.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.07",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Selat",
+      "kode_wilayah": "51.07.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.07",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Kubu",
+      "kode_wilayah": "51.07.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.07",
+      "kode_provinsi": "51"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tinggi Hari",
+      "kode_wilayah": "16.04.25.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.25"
+    },
+    {
+      "nama_wilayah": "Tanjung Raja",
+      "kode_wilayah": "16.04.25.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.25"
+    },
+    {
+      "nama_wilayah": "Sinjar Bulan",
+      "kode_wilayah": "16.04.25.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.25"
+    },
+    {
+      "nama_wilayah": "Padang Gumay",
+      "kode_wilayah": "16.04.25.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.25"
+    },
+    {
+      "nama_wilayah": "Tanjung Aur",
+      "kode_wilayah": "16.04.25.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.25"
+    },
+    {
+      "nama_wilayah": "Simpur",
+      "kode_wilayah": "16.04.25.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.25"
+    },
+    {
+      "nama_wilayah": "Lubuk Selo",
+      "kode_wilayah": "16.04.25.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.25"
+    },
+    {
+      "nama_wilayah": "Rindu Hati",
+      "kode_wilayah": "16.04.25.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.25"
+    },
+    {
+      "nama_wilayah": "Sumber Karya",
+      "kode_wilayah": "16.04.25.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.25"
+    },
+    {
+      "nama_wilayah": "Trans SP II Padang Muara Dua",
+      "kode_wilayah": "16.04.25.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.25"
+    }
+  ]
+}

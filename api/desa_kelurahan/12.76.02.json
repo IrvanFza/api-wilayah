@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Rantau Laban",
+      "kode_wilayah": "12.76.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.02"
+    },
+    {
+      "nama_wilayah": "Karya Jaya",
+      "kode_wilayah": "12.76.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.02"
+    },
+    {
+      "nama_wilayah": "Lalang",
+      "kode_wilayah": "12.76.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.02"
+    },
+    {
+      "nama_wilayah": "Tanjung Marulak",
+      "kode_wilayah": "12.76.02.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.02"
+    },
+    {
+      "nama_wilayah": "Sri Padang",
+      "kode_wilayah": "12.76.02.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.02"
+    },
+    {
+      "nama_wilayah": "Tanjung Marulak Hilir",
+      "kode_wilayah": "12.76.02.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.02"
+    },
+    {
+      "nama_wilayah": "Mekar Sentosa",
+      "kode_wilayah": "12.76.02.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.02"
+    }
+  ]
+}

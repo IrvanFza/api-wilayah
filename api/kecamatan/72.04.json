@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Dampal Selatan",
+      "kode_wilayah": "72.04.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.04",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Dampal Utara",
+      "kode_wilayah": "72.04.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.04",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Dondo",
+      "kode_wilayah": "72.04.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.04",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Basidondo",
+      "kode_wilayah": "72.04.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.04",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Ogodeide",
+      "kode_wilayah": "72.04.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.04",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Lampasio",
+      "kode_wilayah": "72.04.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.04",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Baolan",
+      "kode_wilayah": "72.04.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.04",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Galang",
+      "kode_wilayah": "72.04.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.04",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Toli-Toli Utara",
+      "kode_wilayah": "72.04.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.04",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Dako Pemean",
+      "kode_wilayah": "72.04.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.04",
+      "kode_provinsi": "72"
+    }
+  ]
+}

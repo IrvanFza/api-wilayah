@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Jrebeng Kidul",
+      "kode_wilayah": "35.74.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.02"
+    },
+    {
+      "nama_wilayah": "Pakistaji",
+      "kode_wilayah": "35.74.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.02"
+    },
+    {
+      "nama_wilayah": "Kedunggaleng",
+      "kode_wilayah": "35.74.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.02"
+    },
+    {
+      "nama_wilayah": "Kedung Asem",
+      "kode_wilayah": "35.74.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.02"
+    },
+    {
+      "nama_wilayah": "Sumber Taman",
+      "kode_wilayah": "35.74.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.02"
+    },
+    {
+      "nama_wilayah": "Wonoasih",
+      "kode_wilayah": "35.74.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.02"
+    }
+  ]
+}

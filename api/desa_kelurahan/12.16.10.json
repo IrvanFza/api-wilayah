@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tarabintang",
+      "kode_wilayah": "12.16.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.10"
+    },
+    {
+      "nama_wilayah": "Sihotang Hasugian Toruan",
+      "kode_wilayah": "12.16.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.10"
+    },
+    {
+      "nama_wilayah": "Sibongkare",
+      "kode_wilayah": "12.16.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.10"
+    },
+    {
+      "nama_wilayah": "Sitanduk",
+      "kode_wilayah": "12.16.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.10"
+    },
+    {
+      "nama_wilayah": "Sihombu",
+      "kode_wilayah": "12.16.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.10"
+    },
+    {
+      "nama_wilayah": "Simbara",
+      "kode_wilayah": "12.16.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.10"
+    },
+    {
+      "nama_wilayah": "Marpadan",
+      "kode_wilayah": "12.16.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.10"
+    },
+    {
+      "nama_wilayah": "Mungkur",
+      "kode_wilayah": "12.16.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.10"
+    },
+    {
+      "nama_wilayah": "Sibongkare Sianju",
+      "kode_wilayah": "12.16.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.10"
+    }
+  ]
+}

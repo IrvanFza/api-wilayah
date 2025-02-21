@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Pinang",
+      "kode_wilayah": "15.02.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.04"
+    },
+    {
+      "nama_wilayah": "Tiangko",
+      "kode_wilayah": "15.02.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.04"
+    },
+    {
+      "nama_wilayah": "Palipan",
+      "kode_wilayah": "15.02.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.04"
+    },
+    {
+      "nama_wilayah": "Seringat",
+      "kode_wilayah": "15.02.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.04"
+    },
+    {
+      "nama_wilayah": "Durian Lecah",
+      "kode_wilayah": "15.02.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.04"
+    },
+    {
+      "nama_wilayah": "Bukit Batu",
+      "kode_wilayah": "15.02.04.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.04"
+    },
+    {
+      "nama_wilayah": "Sungai Nilau",
+      "kode_wilayah": "15.02.04.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.04"
+    },
+    {
+      "nama_wilayah": "Sungai Manau",
+      "kode_wilayah": "15.02.04.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.04"
+    },
+    {
+      "nama_wilayah": "Benteng",
+      "kode_wilayah": "15.02.04.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.04"
+    },
+    {
+      "nama_wilayah": "Gelanggang",
+      "kode_wilayah": "15.02.04.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.04"
+    }
+  ]
+}

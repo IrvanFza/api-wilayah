@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Batujajar Timur",
+      "kode_wilayah": "32.17.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.09"
+    },
+    {
+      "nama_wilayah": "Batujajar Barat",
+      "kode_wilayah": "32.17.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.09"
+    },
+    {
+      "nama_wilayah": "Galanggang",
+      "kode_wilayah": "32.17.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.09"
+    },
+    {
+      "nama_wilayah": "Cangkorah",
+      "kode_wilayah": "32.17.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.09"
+    },
+    {
+      "nama_wilayah": "Selacau",
+      "kode_wilayah": "32.17.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.09"
+    },
+    {
+      "nama_wilayah": "Pangauban",
+      "kode_wilayah": "32.17.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.09"
+    },
+    {
+      "nama_wilayah": "Giriasih",
+      "kode_wilayah": "32.17.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.09"
+    }
+  ]
+}

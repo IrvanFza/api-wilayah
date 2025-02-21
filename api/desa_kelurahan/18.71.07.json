@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Pesawahan",
+      "kode_wilayah": "18.71.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.07"
+    },
+    {
+      "nama_wilayah": "Telukbetung",
+      "kode_wilayah": "18.71.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.07"
+    },
+    {
+      "nama_wilayah": "Talang",
+      "kode_wilayah": "18.71.07.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.07"
+    },
+    {
+      "nama_wilayah": "Gedong Pakuon",
+      "kode_wilayah": "18.71.07.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.07"
+    },
+    {
+      "nama_wilayah": "Sumur Putri",
+      "kode_wilayah": "18.71.07.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.07"
+    },
+    {
+      "nama_wilayah": "Gunungmas",
+      "kode_wilayah": "18.71.07.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.07"
+    }
+  ]
+}

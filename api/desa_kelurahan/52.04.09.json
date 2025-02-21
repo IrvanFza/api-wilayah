@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Moyo",
+      "kode_wilayah": "52.04.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.09"
+    },
+    {
+      "nama_wilayah": "Kakiang",
+      "kode_wilayah": "52.04.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.09"
+    },
+    {
+      "nama_wilayah": "Ngeru",
+      "kode_wilayah": "52.04.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.09"
+    },
+    {
+      "nama_wilayah": "Berare",
+      "kode_wilayah": "52.04.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.09"
+    },
+    {
+      "nama_wilayah": "Poto",
+      "kode_wilayah": "52.04.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.09"
+    },
+    {
+      "nama_wilayah": "Serading",
+      "kode_wilayah": "52.04.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.09"
+    },
+    {
+      "nama_wilayah": "Olat Rawa",
+      "kode_wilayah": "52.04.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.09"
+    },
+    {
+      "nama_wilayah": "Batu Bangka",
+      "kode_wilayah": "52.04.09.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.09"
+    },
+    {
+      "nama_wilayah": "Moyo Mekar",
+      "kode_wilayah": "52.04.09.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.09"
+    },
+    {
+      "nama_wilayah": "Labuhan Ijuk",
+      "kode_wilayah": "52.04.09.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.09"
+    }
+  ]
+}

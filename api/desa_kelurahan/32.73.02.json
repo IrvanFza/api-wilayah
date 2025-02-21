@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Cipaganti",
+      "kode_wilayah": "32.73.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.02"
+    },
+    {
+      "nama_wilayah": "Lebak Gede",
+      "kode_wilayah": "32.73.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.02"
+    },
+    {
+      "nama_wilayah": "Sadang Serang",
+      "kode_wilayah": "32.73.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.02"
+    },
+    {
+      "nama_wilayah": "Dago",
+      "kode_wilayah": "32.73.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.02"
+    },
+    {
+      "nama_wilayah": "Sekeloa",
+      "kode_wilayah": "32.73.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.02"
+    },
+    {
+      "nama_wilayah": "Lebak Siliwangi",
+      "kode_wilayah": "32.73.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.02"
+    }
+  ]
+}

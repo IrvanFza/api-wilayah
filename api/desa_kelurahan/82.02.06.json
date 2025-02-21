@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Gemia",
+      "kode_wilayah": "82.02.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.06"
+    },
+    {
+      "nama_wilayah": "Tepeleo",
+      "kode_wilayah": "82.02.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.06"
+    },
+    {
+      "nama_wilayah": "Bilifitu",
+      "kode_wilayah": "82.02.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.06"
+    },
+    {
+      "nama_wilayah": "Tepeleo Batudua",
+      "kode_wilayah": "82.02.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.06"
+    },
+    {
+      "nama_wilayah": "Pantura Jaya",
+      "kode_wilayah": "82.02.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.06"
+    },
+    {
+      "nama_wilayah": "Maliforo",
+      "kode_wilayah": "82.02.06.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.06"
+    }
+  ]
+}

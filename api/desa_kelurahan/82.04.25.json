@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Gonone",
+      "kode_wilayah": "82.04.25.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.25"
+    },
+    {
+      "nama_wilayah": "Kakupang",
+      "kode_wilayah": "82.04.25.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.25"
+    },
+    {
+      "nama_wilayah": "Kurunga",
+      "kode_wilayah": "82.04.25.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.25"
+    },
+    {
+      "nama_wilayah": "Liboba Hijrah",
+      "kode_wilayah": "82.04.25.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.25"
+    },
+    {
+      "nama_wilayah": "Pulau Gala",
+      "kode_wilayah": "82.04.25.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.25"
+    },
+    {
+      "nama_wilayah": "Tawabi",
+      "kode_wilayah": "82.04.25.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.25"
+    },
+    {
+      "nama_wilayah": "Yomen",
+      "kode_wilayah": "82.04.25.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.25"
+    }
+  ]
+}

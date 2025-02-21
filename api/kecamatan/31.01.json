@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "total": 2,
+  "data": [
+    {
+      "nama_wilayah": "Kepulauan Seribu Utara",
+      "kode_wilayah": "31.01.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.01",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Kepulauan Seribu Selatan.",
+      "kode_wilayah": "31.01.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.01",
+      "kode_provinsi": "31"
+    }
+  ]
+}

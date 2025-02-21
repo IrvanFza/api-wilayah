@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Kamur",
+      "kode_wilayah": "93.04.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.06"
+    },
+    {
+      "nama_wilayah": "Sanep",
+      "kode_wilayah": "93.04.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.06"
+    },
+    {
+      "nama_wilayah": "Saramit",
+      "kode_wilayah": "93.04.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.06"
+    },
+    {
+      "nama_wilayah": "Yahoi",
+      "kode_wilayah": "93.04.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.06"
+    },
+    {
+      "nama_wilayah": "Hainam",
+      "kode_wilayah": "93.04.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.06"
+    },
+    {
+      "nama_wilayah": "Yagamit",
+      "kode_wilayah": "93.04.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.06"
+    },
+    {
+      "nama_wilayah": "Bawor",
+      "kode_wilayah": "93.04.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.06"
+    },
+    {
+      "nama_wilayah": "Sanapai",
+      "kode_wilayah": "93.04.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.06"
+    },
+    {
+      "nama_wilayah": "Sarmafo",
+      "kode_wilayah": "93.04.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.06"
+    }
+  ]
+}

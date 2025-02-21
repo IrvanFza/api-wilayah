@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Hasanuddin",
+      "kode_wilayah": "73.09.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.01"
+    },
+    {
+      "nama_wilayah": "Bontoa",
+      "kode_wilayah": "73.09.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.01"
+    },
+    {
+      "nama_wilayah": "Tenrigangkae",
+      "kode_wilayah": "73.09.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.01"
+    },
+    {
+      "nama_wilayah": "Pattontongang",
+      "kode_wilayah": "73.09.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.01"
+    },
+    {
+      "nama_wilayah": "Bonto Mate-ne",
+      "kode_wilayah": "73.09.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.01"
+    },
+    {
+      "nama_wilayah": "Baji Mangngai",
+      "kode_wilayah": "73.09.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.01"
+    }
+  ]
+}

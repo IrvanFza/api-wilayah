@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Pulau Dullah Utara",
+      "kode_wilayah": "81.72.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.72",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Pulau Dullah Selatan",
+      "kode_wilayah": "81.72.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.72",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Tayando Tam",
+      "kode_wilayah": "81.72.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.72",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Pulau-Pulau Kur",
+      "kode_wilayah": "81.72.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.72",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Kur Selatan",
+      "kode_wilayah": "81.72.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.72",
+      "kode_provinsi": "81"
+    }
+  ]
+}

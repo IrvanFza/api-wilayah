@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Karang Agung",
+      "kode_wilayah": "16.09.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.05"
+    },
+    {
+      "nama_wilayah": "Lubar",
+      "kode_wilayah": "16.09.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.05"
+    },
+    {
+      "nama_wilayah": "Tanjung Sari",
+      "kode_wilayah": "16.09.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.05"
+    },
+    {
+      "nama_wilayah": "Simpangan",
+      "kode_wilayah": "16.09.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.05"
+    },
+    {
+      "nama_wilayah": "Bungin Campang",
+      "kode_wilayah": "16.09.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.05"
+    },
+    {
+      "nama_wilayah": "Simpang Agung",
+      "kode_wilayah": "16.09.05.2029",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.05"
+    },
+    {
+      "nama_wilayah": "Sinar Mulyo",
+      "kode_wilayah": "16.09.05.2030",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.09",
+      "kode_kecamatan": "16.09.05"
+    }
+  ]
+}

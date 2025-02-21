@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tude",
+      "kode_wilayah": "53.05.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.16"
+    },
+    {
+      "nama_wilayah": "Mauta",
+      "kode_wilayah": "53.05.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.16"
+    },
+    {
+      "nama_wilayah": "Muriabang",
+      "kode_wilayah": "53.05.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.16"
+    },
+    {
+      "nama_wilayah": "Tubbe",
+      "kode_wilayah": "53.05.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.16"
+    },
+    {
+      "nama_wilayah": "Tamakh",
+      "kode_wilayah": "53.05.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.16"
+    },
+    {
+      "nama_wilayah": "Bagang",
+      "kode_wilayah": "53.05.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.16"
+    },
+    {
+      "nama_wilayah": "Toang",
+      "kode_wilayah": "53.05.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.16"
+    },
+    {
+      "nama_wilayah": "Eka Jaya",
+      "kode_wilayah": "53.05.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.16"
+    },
+    {
+      "nama_wilayah": "Aramaba",
+      "kode_wilayah": "53.05.16.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.16"
+    },
+    {
+      "nama_wilayah": "Delaki",
+      "kode_wilayah": "53.05.16.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.16"
+    }
+  ]
+}

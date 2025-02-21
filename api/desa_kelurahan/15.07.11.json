@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Simpang",
+      "kode_wilayah": "15.07.11.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.11"
+    },
+    {
+      "nama_wilayah": "Rantau Rasau",
+      "kode_wilayah": "15.07.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.11"
+    },
+    {
+      "nama_wilayah": "Rantau Makmur",
+      "kode_wilayah": "15.07.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.11"
+    },
+    {
+      "nama_wilayah": "Sungai Rambut",
+      "kode_wilayah": "15.07.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.11"
+    },
+    {
+      "nama_wilayah": "Rawasari",
+      "kode_wilayah": "15.07.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.11"
+    },
+    {
+      "nama_wilayah": "Telaga Limo",
+      "kode_wilayah": "15.07.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.11"
+    }
+  ]
+}

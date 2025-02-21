@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pakis",
+      "kode_wilayah": "35.09.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.14"
+    },
+    {
+      "nama_wilayah": "Kemuning Sari Lor",
+      "kode_wilayah": "35.09.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.14"
+    },
+    {
+      "nama_wilayah": "Panti",
+      "kode_wilayah": "35.09.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.14"
+    },
+    {
+      "nama_wilayah": "Glagahwero",
+      "kode_wilayah": "35.09.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.14"
+    },
+    {
+      "nama_wilayah": "Suci",
+      "kode_wilayah": "35.09.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.14"
+    },
+    {
+      "nama_wilayah": "Kemiri",
+      "kode_wilayah": "35.09.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.14"
+    },
+    {
+      "nama_wilayah": "Serut",
+      "kode_wilayah": "35.09.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.14"
+    }
+  ]
+}

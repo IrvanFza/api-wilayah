@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sayosa",
+      "kode_wilayah": "96.01.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.07"
+    },
+    {
+      "nama_wilayah": "Klain",
+      "kode_wilayah": "96.01.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.07"
+    },
+    {
+      "nama_wilayah": "Samusa",
+      "kode_wilayah": "96.01.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.07"
+    },
+    {
+      "nama_wilayah": "Maladofok",
+      "kode_wilayah": "96.01.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.07"
+    },
+    {
+      "nama_wilayah": "Yorbes",
+      "kode_wilayah": "96.01.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.07"
+    },
+    {
+      "nama_wilayah": "Klamintu",
+      "kode_wilayah": "96.01.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.07"
+    }
+  ]
+}

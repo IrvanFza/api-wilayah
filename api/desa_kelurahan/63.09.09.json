@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pugaan",
+      "kode_wilayah": "63.09.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.09"
+    },
+    {
+      "nama_wilayah": "Pampanan",
+      "kode_wilayah": "63.09.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.09"
+    },
+    {
+      "nama_wilayah": "Sungai Rukam II",
+      "kode_wilayah": "63.09.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.09"
+    },
+    {
+      "nama_wilayah": "Sungai Rukam I",
+      "kode_wilayah": "63.09.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.09"
+    },
+    {
+      "nama_wilayah": "Jirak",
+      "kode_wilayah": "63.09.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.09"
+    },
+    {
+      "nama_wilayah": "Halangan",
+      "kode_wilayah": "63.09.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.09"
+    },
+    {
+      "nama_wilayah": "Tamunti",
+      "kode_wilayah": "63.09.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.09"
+    }
+  ]
+}

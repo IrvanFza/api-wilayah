@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Batahan",
+      "kode_wilayah": "13.12.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.07"
+    },
+    {
+      "nama_wilayah": "Desa Baru",
+      "kode_wilayah": "13.12.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.07"
+    },
+    {
+      "nama_wilayah": "Batahan Utara",
+      "kode_wilayah": "13.12.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.07"
+    },
+    {
+      "nama_wilayah": "Batahan Tengah",
+      "kode_wilayah": "13.12.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.07"
+    },
+    {
+      "nama_wilayah": "Batahan Barat",
+      "kode_wilayah": "13.12.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.07"
+    },
+    {
+      "nama_wilayah": "Batahan Selatan",
+      "kode_wilayah": "13.12.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.07"
+    },
+    {
+      "nama_wilayah": "Desa Baru Barat",
+      "kode_wilayah": "13.12.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.07"
+    }
+  ]
+}

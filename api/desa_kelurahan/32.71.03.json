@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Gudang",
+      "kode_wilayah": "32.71.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.71",
+      "kode_kecamatan": "32.71.03"
+    },
+    {
+      "nama_wilayah": "Paledang",
+      "kode_wilayah": "32.71.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.71",
+      "kode_kecamatan": "32.71.03"
+    },
+    {
+      "nama_wilayah": "Pabaton",
+      "kode_wilayah": "32.71.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.71",
+      "kode_kecamatan": "32.71.03"
+    },
+    {
+      "nama_wilayah": "Cibogor",
+      "kode_wilayah": "32.71.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.71",
+      "kode_kecamatan": "32.71.03"
+    },
+    {
+      "nama_wilayah": "Babakan",
+      "kode_wilayah": "32.71.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.71",
+      "kode_kecamatan": "32.71.03"
+    },
+    {
+      "nama_wilayah": "Sempur",
+      "kode_wilayah": "32.71.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.71",
+      "kode_kecamatan": "32.71.03"
+    },
+    {
+      "nama_wilayah": "Tegallega",
+      "kode_wilayah": "32.71.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.71",
+      "kode_kecamatan": "32.71.03"
+    },
+    {
+      "nama_wilayah": "Babakan Pasar",
+      "kode_wilayah": "32.71.03.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.71",
+      "kode_kecamatan": "32.71.03"
+    },
+    {
+      "nama_wilayah": "Panaragan",
+      "kode_wilayah": "32.71.03.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.71",
+      "kode_kecamatan": "32.71.03"
+    },
+    {
+      "nama_wilayah": "Ciwaringin",
+      "kode_wilayah": "32.71.03.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.71",
+      "kode_kecamatan": "32.71.03"
+    },
+    {
+      "nama_wilayah": "Kebon Kalapa",
+      "kode_wilayah": "32.71.03.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.71",
+      "kode_kecamatan": "32.71.03"
+    }
+  ]
+}

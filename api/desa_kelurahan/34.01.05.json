@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Wahyuharjo",
+      "kode_wilayah": "34.01.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.05"
+    },
+    {
+      "nama_wilayah": "Bumirejo",
+      "kode_wilayah": "34.01.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.05"
+    },
+    {
+      "nama_wilayah": "Jatirejo",
+      "kode_wilayah": "34.01.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.05"
+    },
+    {
+      "nama_wilayah": "Sidorejo",
+      "kode_wilayah": "34.01.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.05"
+    },
+    {
+      "nama_wilayah": "Gulurejo",
+      "kode_wilayah": "34.01.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.05"
+    },
+    {
+      "nama_wilayah": "Ngentakrejo",
+      "kode_wilayah": "34.01.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.05"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tancep",
+      "kode_wilayah": "34.03.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.13"
+    },
+    {
+      "nama_wilayah": "Sambirejo",
+      "kode_wilayah": "34.03.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.13"
+    },
+    {
+      "nama_wilayah": "Jurangjero",
+      "kode_wilayah": "34.03.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.13"
+    },
+    {
+      "nama_wilayah": "Kampung",
+      "kode_wilayah": "34.03.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.13"
+    },
+    {
+      "nama_wilayah": "Beji",
+      "kode_wilayah": "34.03.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.13"
+    },
+    {
+      "nama_wilayah": "Watusigar",
+      "kode_wilayah": "34.03.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.13"
+    }
+  ]
+}

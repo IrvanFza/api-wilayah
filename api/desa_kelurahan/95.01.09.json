@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Sinata",
+      "kode_wilayah": "95.01.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.09"
+    },
+    {
+      "nama_wilayah": "Asolokobal",
+      "kode_wilayah": "95.01.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.09"
+    },
+    {
+      "nama_wilayah": "Hesatom",
+      "kode_wilayah": "95.01.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.09"
+    },
+    {
+      "nama_wilayah": "Asotapo",
+      "kode_wilayah": "95.01.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.09"
+    },
+    {
+      "nama_wilayah": "Wiaima",
+      "kode_wilayah": "95.01.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.09"
+    },
+    {
+      "nama_wilayah": "Ninabua",
+      "kode_wilayah": "95.01.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.09"
+    },
+    {
+      "nama_wilayah": "Helaluwa",
+      "kode_wilayah": "95.01.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.09"
+    },
+    {
+      "nama_wilayah": "Mulinekama",
+      "kode_wilayah": "95.01.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.09"
+    },
+    {
+      "nama_wilayah": "Yapema",
+      "kode_wilayah": "95.01.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.09"
+    }
+  ]
+}

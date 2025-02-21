@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Gambir",
+      "kode_wilayah": "31.71.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.71",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Sawah Besar",
+      "kode_wilayah": "31.71.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.71",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Kemayoran",
+      "kode_wilayah": "31.71.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.71",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Senen",
+      "kode_wilayah": "31.71.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.71",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Cempaka Putih",
+      "kode_wilayah": "31.71.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.71",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Menteng",
+      "kode_wilayah": "31.71.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.71",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Tanah Abang",
+      "kode_wilayah": "31.71.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.71",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Johar Baru",
+      "kode_wilayah": "31.71.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.71",
+      "kode_provinsi": "31"
+    }
+  ]
+}

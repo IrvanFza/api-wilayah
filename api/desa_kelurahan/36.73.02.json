@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kasemen",
+      "kode_wilayah": "36.73.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.73",
+      "kode_kecamatan": "36.73.02"
+    },
+    {
+      "nama_wilayah": "Mesjid Priyayi",
+      "kode_wilayah": "36.73.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.73",
+      "kode_kecamatan": "36.73.02"
+    },
+    {
+      "nama_wilayah": "Terumbu",
+      "kode_wilayah": "36.73.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.73",
+      "kode_kecamatan": "36.73.02"
+    },
+    {
+      "nama_wilayah": "Warung Jaud",
+      "kode_wilayah": "36.73.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.73",
+      "kode_kecamatan": "36.73.02"
+    },
+    {
+      "nama_wilayah": "Bendung",
+      "kode_wilayah": "36.73.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.73",
+      "kode_kecamatan": "36.73.02"
+    },
+    {
+      "nama_wilayah": "Banten",
+      "kode_wilayah": "36.73.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.73",
+      "kode_kecamatan": "36.73.02"
+    },
+    {
+      "nama_wilayah": "Sawah Luhur",
+      "kode_wilayah": "36.73.02.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.73",
+      "kode_kecamatan": "36.73.02"
+    },
+    {
+      "nama_wilayah": "Kilasah",
+      "kode_wilayah": "36.73.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.73",
+      "kode_kecamatan": "36.73.02"
+    },
+    {
+      "nama_wilayah": "Kasunyatan",
+      "kode_wilayah": "36.73.02.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.73",
+      "kode_kecamatan": "36.73.02"
+    },
+    {
+      "nama_wilayah": "Margaluyu",
+      "kode_wilayah": "36.73.02.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.73",
+      "kode_kecamatan": "36.73.02"
+    }
+  ]
+}

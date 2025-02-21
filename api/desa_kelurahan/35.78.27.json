@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sukomanunggal",
+      "kode_wilayah": "35.78.27.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.27"
+    },
+    {
+      "nama_wilayah": "Tanjungsari",
+      "kode_wilayah": "35.78.27.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.27"
+    },
+    {
+      "nama_wilayah": "Sonokwijenan",
+      "kode_wilayah": "35.78.27.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.27"
+    },
+    {
+      "nama_wilayah": "Putat Gede",
+      "kode_wilayah": "35.78.27.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.27"
+    },
+    {
+      "nama_wilayah": "Simomulyo",
+      "kode_wilayah": "35.78.27.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.27"
+    },
+    {
+      "nama_wilayah": "Simomulyo Baru",
+      "kode_wilayah": "35.78.27.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.27"
+    }
+  ]
+}

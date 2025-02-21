@@ -1,0 +1,90 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Praya",
+      "kode_wilayah": "52.02.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.02",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Jonggat",
+      "kode_wilayah": "52.02.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.02",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Batukliang",
+      "kode_wilayah": "52.02.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.02",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Pujut",
+      "kode_wilayah": "52.02.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.02",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Praya Barat",
+      "kode_wilayah": "52.02.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.02",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Praya Timur",
+      "kode_wilayah": "52.02.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.02",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Janapria",
+      "kode_wilayah": "52.02.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.02",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Pringgarata",
+      "kode_wilayah": "52.02.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.02",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Kopang",
+      "kode_wilayah": "52.02.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.02",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Praya Tengah",
+      "kode_wilayah": "52.02.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.02",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Praya Barat Daya",
+      "kode_wilayah": "52.02.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.02",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Batukliang Utara",
+      "kode_wilayah": "52.02.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.02",
+      "kode_provinsi": "52"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Booi",
+      "kode_wilayah": "81.01.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.12"
+    },
+    {
+      "nama_wilayah": "Paperu",
+      "kode_wilayah": "81.01.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.12"
+    },
+    {
+      "nama_wilayah": "Tiouw",
+      "kode_wilayah": "81.01.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.12"
+    },
+    {
+      "nama_wilayah": "Haria",
+      "kode_wilayah": "81.01.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.12"
+    },
+    {
+      "nama_wilayah": "Porto",
+      "kode_wilayah": "81.01.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.12"
+    },
+    {
+      "nama_wilayah": "Kulur",
+      "kode_wilayah": "81.01.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.12"
+    },
+    {
+      "nama_wilayah": "Saparua",
+      "kode_wilayah": "81.01.12.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.12"
+    }
+  ]
+}

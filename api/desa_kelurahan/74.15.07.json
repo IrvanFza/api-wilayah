@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Waonu",
+      "kode_wilayah": "74.15.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.07"
+    },
+    {
+      "nama_wilayah": "Kaofe",
+      "kode_wilayah": "74.15.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.07"
+    },
+    {
+      "nama_wilayah": "Uwemaasi",
+      "kode_wilayah": "74.15.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.07"
+    },
+    {
+      "nama_wilayah": "Lipu",
+      "kode_wilayah": "74.15.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.07"
+    },
+    {
+      "nama_wilayah": "Kapoa",
+      "kode_wilayah": "74.15.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.07"
+    },
+    {
+      "nama_wilayah": "Banabungi",
+      "kode_wilayah": "74.15.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.07"
+    },
+    {
+      "nama_wilayah": "Mawambunga",
+      "kode_wilayah": "74.15.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.07"
+    },
+    {
+      "nama_wilayah": "Banabungi Selatan",
+      "kode_wilayah": "74.15.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.07"
+    },
+    {
+      "nama_wilayah": "Marawali",
+      "kode_wilayah": "74.15.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.07"
+    },
+    {
+      "nama_wilayah": "Kapoa Barat",
+      "kode_wilayah": "74.15.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.07"
+    }
+  ]
+}

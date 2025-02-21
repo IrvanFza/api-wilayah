@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Pulau Untung Jawa",
+      "kode_wilayah": "31.01.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.01",
+      "kode_kecamatan": "31.01.02"
+    },
+    {
+      "nama_wilayah": "Pulau Tidung",
+      "kode_wilayah": "31.01.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.01",
+      "kode_kecamatan": "31.01.02"
+    },
+    {
+      "nama_wilayah": "Pulau Pari",
+      "kode_wilayah": "31.01.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.01",
+      "kode_kecamatan": "31.01.02"
+    }
+  ]
+}

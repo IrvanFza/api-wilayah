@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Telaga Pulang",
+      "kode_wilayah": "62.07.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.03"
+    },
+    {
+      "nama_wilayah": "Cempaka Baru",
+      "kode_wilayah": "62.07.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.03"
+    },
+    {
+      "nama_wilayah": "Palingkau",
+      "kode_wilayah": "62.07.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.03"
+    },
+    {
+      "nama_wilayah": "Ulak Batu",
+      "kode_wilayah": "62.07.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.03"
+    },
+    {
+      "nama_wilayah": "Paren",
+      "kode_wilayah": "62.07.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.03"
+    },
+    {
+      "nama_wilayah": "Banua Usang",
+      "kode_wilayah": "62.07.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.03"
+    },
+    {
+      "nama_wilayah": "Sembuluh I",
+      "kode_wilayah": "62.07.03.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.03"
+    },
+    {
+      "nama_wilayah": "Sembuluh II",
+      "kode_wilayah": "62.07.03.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.03"
+    }
+  ]
+}

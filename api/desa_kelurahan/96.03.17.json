@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Waisai",
+      "kode_wilayah": "96.03.17.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.17"
+    },
+    {
+      "nama_wilayah": "Warmasen",
+      "kode_wilayah": "96.03.17.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.17"
+    },
+    {
+      "nama_wilayah": "Bonkawir",
+      "kode_wilayah": "96.03.17.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.17"
+    },
+    {
+      "nama_wilayah": "Sapordanco",
+      "kode_wilayah": "96.03.17.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.17"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Tiumang",
+      "kode_wilayah": "13.10.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.08"
+    },
+    {
+      "nama_wilayah": "Sungai Langkok",
+      "kode_wilayah": "13.10.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.08"
+    },
+    {
+      "nama_wilayah": "Koto Beringin",
+      "kode_wilayah": "13.10.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.08"
+    },
+    {
+      "nama_wilayah": "Sipangkur",
+      "kode_wilayah": "13.10.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.08"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Lingkas Ujung",
+      "kode_wilayah": "65.71.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.71",
+      "kode_kecamatan": "65.71.03"
+    },
+    {
+      "nama_wilayah": "Gunung Lingkas",
+      "kode_wilayah": "65.71.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.71",
+      "kode_kecamatan": "65.71.03"
+    },
+    {
+      "nama_wilayah": "Kampung Empat",
+      "kode_wilayah": "65.71.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.71",
+      "kode_kecamatan": "65.71.03"
+    },
+    {
+      "nama_wilayah": "Kampung Enam",
+      "kode_wilayah": "65.71.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.71",
+      "kode_kecamatan": "65.71.03"
+    },
+    {
+      "nama_wilayah": "Mamburungan",
+      "kode_wilayah": "65.71.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.71",
+      "kode_kecamatan": "65.71.03"
+    },
+    {
+      "nama_wilayah": "Pantai Amal",
+      "kode_wilayah": "65.71.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.71",
+      "kode_kecamatan": "65.71.03"
+    },
+    {
+      "nama_wilayah": "Mamburungan Timur",
+      "kode_wilayah": "65.71.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.71",
+      "kode_kecamatan": "65.71.03"
+    }
+  ]
+}

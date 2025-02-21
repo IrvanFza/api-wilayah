@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Lambai",
+      "kode_wilayah": "74.08.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.08"
+    },
+    {
+      "nama_wilayah": "Latawaro",
+      "kode_wilayah": "74.08.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.08"
+    },
+    {
+      "nama_wilayah": "Lapasi - Pasi",
+      "kode_wilayah": "74.08.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.08"
+    },
+    {
+      "nama_wilayah": "Raoda",
+      "kode_wilayah": "74.08.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.08"
+    },
+    {
+      "nama_wilayah": "Woise",
+      "kode_wilayah": "74.08.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.08"
+    },
+    {
+      "nama_wilayah": "Woitombo",
+      "kode_wilayah": "74.08.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.08"
+    },
+    {
+      "nama_wilayah": "Tebongeano",
+      "kode_wilayah": "74.08.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.08"
+    }
+  ]
+}

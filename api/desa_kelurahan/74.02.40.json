@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Anggalomoare",
+      "kode_wilayah": "74.02.40.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.40"
+    },
+    {
+      "nama_wilayah": "Lasoso",
+      "kode_wilayah": "74.02.40.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.40"
+    },
+    {
+      "nama_wilayah": "Lakomea",
+      "kode_wilayah": "74.02.40.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.40"
+    },
+    {
+      "nama_wilayah": "Abelisawah",
+      "kode_wilayah": "74.02.40.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.40"
+    },
+    {
+      "nama_wilayah": "Galu",
+      "kode_wilayah": "74.02.40.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.40"
+    },
+    {
+      "nama_wilayah": "Tabanggele",
+      "kode_wilayah": "74.02.40.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.40"
+    },
+    {
+      "nama_wilayah": "Puusangi",
+      "kode_wilayah": "74.02.40.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.40"
+    },
+    {
+      "nama_wilayah": "Andobeu Jaya",
+      "kode_wilayah": "74.02.40.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.40"
+    },
+    {
+      "nama_wilayah": "Anggalomoare Jaya",
+      "kode_wilayah": "74.02.40.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.40"
+    },
+    {
+      "nama_wilayah": "Pusawah Jaya",
+      "kode_wilayah": "74.02.40.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.40"
+    }
+  ]
+}

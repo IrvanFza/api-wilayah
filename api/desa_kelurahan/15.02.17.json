@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Baru Pangkalan Jambu",
+      "kode_wilayah": "15.02.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.17"
+    },
+    {
+      "nama_wilayah": "Bukit Perentak",
+      "kode_wilayah": "15.02.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.17"
+    },
+    {
+      "nama_wilayah": "Birun",
+      "kode_wilayah": "15.02.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.17"
+    },
+    {
+      "nama_wilayah": "Tiga Alur",
+      "kode_wilayah": "15.02.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.17"
+    },
+    {
+      "nama_wilayah": "Bungo Tanjung",
+      "kode_wilayah": "15.02.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.17"
+    },
+    {
+      "nama_wilayah": "Sungai Jering",
+      "kode_wilayah": "15.02.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.17"
+    },
+    {
+      "nama_wilayah": "Kampung Limo",
+      "kode_wilayah": "15.02.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.17"
+    },
+    {
+      "nama_wilayah": "Tanjung Mudo",
+      "kode_wilayah": "15.02.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.17"
+    }
+  ]
+}

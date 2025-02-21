@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sukawati",
+      "kode_wilayah": "51.04.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.04",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Blahbatuh",
+      "kode_wilayah": "51.04.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.04",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Gianyar",
+      "kode_wilayah": "51.04.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.04",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Tampaksiring",
+      "kode_wilayah": "51.04.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.04",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Ubud",
+      "kode_wilayah": "51.04.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.04",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Tegallalang",
+      "kode_wilayah": "51.04.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.04",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Payangan",
+      "kode_wilayah": "51.04.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.04",
+      "kode_provinsi": "51"
+    }
+  ]
+}

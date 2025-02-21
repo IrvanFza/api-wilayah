@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Anggasari",
+      "kode_wilayah": "32.13.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.24"
+    },
+    {
+      "nama_wilayah": "Batangsari",
+      "kode_wilayah": "32.13.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.24"
+    },
+    {
+      "nama_wilayah": "Sukamaju",
+      "kode_wilayah": "32.13.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.24"
+    },
+    {
+      "nama_wilayah": "Mandalawangi",
+      "kode_wilayah": "32.13.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.24"
+    },
+    {
+      "nama_wilayah": "Curugreja",
+      "kode_wilayah": "32.13.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.24"
+    },
+    {
+      "nama_wilayah": "Sukareja",
+      "kode_wilayah": "32.13.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.24"
+    },
+    {
+      "nama_wilayah": "Sukasari",
+      "kode_wilayah": "32.13.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.24"
+    }
+  ]
+}

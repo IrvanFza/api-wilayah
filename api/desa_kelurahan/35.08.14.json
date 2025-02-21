@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Barat",
+      "kode_wilayah": "35.08.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.08",
+      "kode_kecamatan": "35.08.14"
+    },
+    {
+      "nama_wilayah": "Babakan",
+      "kode_wilayah": "35.08.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.08",
+      "kode_kecamatan": "35.08.14"
+    },
+    {
+      "nama_wilayah": "Mojo",
+      "kode_wilayah": "35.08.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.08",
+      "kode_kecamatan": "35.08.14"
+    },
+    {
+      "nama_wilayah": "Bodang",
+      "kode_wilayah": "35.08.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.08",
+      "kode_kecamatan": "35.08.14"
+    },
+    {
+      "nama_wilayah": "Kedawung",
+      "kode_wilayah": "35.08.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.08",
+      "kode_kecamatan": "35.08.14"
+    },
+    {
+      "nama_wilayah": "Padang",
+      "kode_wilayah": "35.08.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.08",
+      "kode_kecamatan": "35.08.14"
+    },
+    {
+      "nama_wilayah": "Kalisemut",
+      "kode_wilayah": "35.08.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.08",
+      "kode_kecamatan": "35.08.14"
+    },
+    {
+      "nama_wilayah": "Merakan",
+      "kode_wilayah": "35.08.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.08",
+      "kode_kecamatan": "35.08.14"
+    },
+    {
+      "nama_wilayah": "Tanggung",
+      "kode_wilayah": "35.08.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.08",
+      "kode_kecamatan": "35.08.14"
+    }
+  ]
+}

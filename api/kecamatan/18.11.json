@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Mesuji",
+      "kode_wilayah": "18.11.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.11",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Mesuji Timur",
+      "kode_wilayah": "18.11.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.11",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Rawa Jitu Utara",
+      "kode_wilayah": "18.11.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.11",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Way Serdang",
+      "kode_wilayah": "18.11.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.11",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Simpang Pematang",
+      "kode_wilayah": "18.11.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.11",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Panca Jaya",
+      "kode_wilayah": "18.11.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.11",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Tanjung Raya",
+      "kode_wilayah": "18.11.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.11",
+      "kode_provinsi": "18"
+    }
+  ]
+}

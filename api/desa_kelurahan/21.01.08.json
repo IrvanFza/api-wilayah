@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tembeling Tanjung",
+      "kode_wilayah": "21.01.08.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.08"
+    },
+    {
+      "nama_wilayah": "Bintan Buyu",
+      "kode_wilayah": "21.01.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.08"
+    },
+    {
+      "nama_wilayah": "Pangkil",
+      "kode_wilayah": "21.01.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.08"
+    },
+    {
+      "nama_wilayah": "Penaga",
+      "kode_wilayah": "21.01.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.08"
+    },
+    {
+      "nama_wilayah": "Pengujan",
+      "kode_wilayah": "21.01.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.08"
+    },
+    {
+      "nama_wilayah": "Tembeling",
+      "kode_wilayah": "21.01.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.08"
+    }
+  ]
+}

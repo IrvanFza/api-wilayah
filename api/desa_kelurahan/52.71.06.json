@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Dasan Cermen",
+      "kode_wilayah": "52.71.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.06"
+    },
+    {
+      "nama_wilayah": "Babakan",
+      "kode_wilayah": "52.71.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.06"
+    },
+    {
+      "nama_wilayah": "Bertais",
+      "kode_wilayah": "52.71.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.06"
+    },
+    {
+      "nama_wilayah": "Selagalas",
+      "kode_wilayah": "52.71.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.06"
+    },
+    {
+      "nama_wilayah": "Abian Tubuh Baru",
+      "kode_wilayah": "52.71.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.06"
+    },
+    {
+      "nama_wilayah": "Turida",
+      "kode_wilayah": "52.71.06.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.06"
+    },
+    {
+      "nama_wilayah": "Mandalika",
+      "kode_wilayah": "52.71.06.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.06"
+    }
+  ]
+}

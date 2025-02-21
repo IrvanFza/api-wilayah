@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Pulau Ternate",
+      "kode_wilayah": "82.71.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.71",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Kota Ternate Selatan",
+      "kode_wilayah": "82.71.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.71",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Kota Ternate Utara",
+      "kode_wilayah": "82.71.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.71",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Moti",
+      "kode_wilayah": "82.71.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.71",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Pulau Batang Dua",
+      "kode_wilayah": "82.71.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.71",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Kota Ternate Tengah",
+      "kode_wilayah": "82.71.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.71",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Pulau Hiri",
+      "kode_wilayah": "82.71.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.71",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Ternate Barat",
+      "kode_wilayah": "82.71.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.71",
+      "kode_provinsi": "82"
+    }
+  ]
+}

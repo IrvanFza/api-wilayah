@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Girikarto",
+      "kode_wilayah": "34.03.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.06"
+    },
+    {
+      "nama_wilayah": "Girisekar",
+      "kode_wilayah": "34.03.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.06"
+    },
+    {
+      "nama_wilayah": "Girimulyo",
+      "kode_wilayah": "34.03.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.06"
+    },
+    {
+      "nama_wilayah": "Giriwungu",
+      "kode_wilayah": "34.03.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.06"
+    },
+    {
+      "nama_wilayah": "Giriharjo",
+      "kode_wilayah": "34.03.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.06"
+    },
+    {
+      "nama_wilayah": "Girisuko",
+      "kode_wilayah": "34.03.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.06"
+    }
+  ]
+}

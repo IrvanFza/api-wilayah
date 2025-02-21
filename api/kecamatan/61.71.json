@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Pontianak Selatan",
+      "kode_wilayah": "61.71.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.71",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Pontianak Timur",
+      "kode_wilayah": "61.71.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.71",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Pontianak Barat",
+      "kode_wilayah": "61.71.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.71",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Pontianak Utara",
+      "kode_wilayah": "61.71.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.71",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Pontianak Kota",
+      "kode_wilayah": "61.71.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.71",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Pontianak Tenggara",
+      "kode_wilayah": "61.71.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.71",
+      "kode_provinsi": "61"
+    }
+  ]
+}

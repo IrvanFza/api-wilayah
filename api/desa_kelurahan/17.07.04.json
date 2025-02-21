@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tes",
+      "kode_wilayah": "17.07.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.04"
+    },
+    {
+      "nama_wilayah": "Taba Anyar",
+      "kode_wilayah": "17.07.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.04"
+    },
+    {
+      "nama_wilayah": "Mubai",
+      "kode_wilayah": "17.07.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.04"
+    },
+    {
+      "nama_wilayah": "Turan Lalang",
+      "kode_wilayah": "17.07.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.04"
+    },
+    {
+      "nama_wilayah": "Kutai Donok",
+      "kode_wilayah": "17.07.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.04"
+    },
+    {
+      "nama_wilayah": "Turan Tiging",
+      "kode_wilayah": "17.07.04.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.04"
+    },
+    {
+      "nama_wilayah": "Suka Sari",
+      "kode_wilayah": "17.07.04.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.04"
+    },
+    {
+      "nama_wilayah": "Mangkurajo",
+      "kode_wilayah": "17.07.04.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.04"
+    },
+    {
+      "nama_wilayah": "Tik Jeniak",
+      "kode_wilayah": "17.07.04.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.04"
+    },
+    {
+      "nama_wilayah": "Manai Blau",
+      "kode_wilayah": "17.07.04.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.04"
+    }
+  ]
+}

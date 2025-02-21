@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Perkebunan Sipare pare",
+      "kode_wilayah": "12.19.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.02"
+    },
+    {
+      "nama_wilayah": "Sei Suka Deras",
+      "kode_wilayah": "12.19.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.02"
+    },
+    {
+      "nama_wilayah": "Simodong",
+      "kode_wilayah": "12.19.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.02"
+    },
+    {
+      "nama_wilayah": "Pematang Jering",
+      "kode_wilayah": "12.19.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.02"
+    },
+    {
+      "nama_wilayah": "Pematang Kuning",
+      "kode_wilayah": "12.19.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.02"
+    },
+    {
+      "nama_wilayah": "Kuala Indah",
+      "kode_wilayah": "12.19.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.02"
+    },
+    {
+      "nama_wilayah": "Kuala Tanjung",
+      "kode_wilayah": "12.19.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.02"
+    },
+    {
+      "nama_wilayah": "Tanjung Gading",
+      "kode_wilayah": "12.19.02.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.02"
+    },
+    {
+      "nama_wilayah": "Simpang Kopi",
+      "kode_wilayah": "12.19.02.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.02"
+    },
+    {
+      "nama_wilayah": "Brohol",
+      "kode_wilayah": "12.19.02.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.02"
+    }
+  ]
+}

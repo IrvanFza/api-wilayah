@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Muaralintang Lama",
+      "kode_wilayah": "16.11.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.11",
+      "kode_kecamatan": "16.11.10"
+    },
+    {
+      "nama_wilayah": "Muaralintang Baru",
+      "kode_wilayah": "16.11.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.11",
+      "kode_kecamatan": "16.11.10"
+    },
+    {
+      "nama_wilayah": "Tebat Payang",
+      "kode_wilayah": "16.11.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.11",
+      "kode_kecamatan": "16.11.10"
+    },
+    {
+      "nama_wilayah": "Karang Caya",
+      "kode_wilayah": "16.11.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.11",
+      "kode_kecamatan": "16.11.10"
+    },
+    {
+      "nama_wilayah": "Tanjungraya",
+      "kode_wilayah": "16.11.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.11",
+      "kode_kecamatan": "16.11.10"
+    },
+    {
+      "nama_wilayah": "Padang Bindu",
+      "kode_wilayah": "16.11.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.11",
+      "kode_kecamatan": "16.11.10"
+    },
+    {
+      "nama_wilayah": "Air Kandis",
+      "kode_wilayah": "16.11.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.11",
+      "kode_kecamatan": "16.11.10"
+    },
+    {
+      "nama_wilayah": "Lingge",
+      "kode_wilayah": "16.11.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.11",
+      "kode_kecamatan": "16.11.10"
+    },
+    {
+      "nama_wilayah": "Rantau Dodor",
+      "kode_wilayah": "16.11.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.11",
+      "kode_kecamatan": "16.11.10"
+    },
+    {
+      "nama_wilayah": "Kungkilan",
+      "kode_wilayah": "16.11.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.11",
+      "kode_kecamatan": "16.11.10"
+    }
+  ]
+}

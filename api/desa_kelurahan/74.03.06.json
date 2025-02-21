@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Napabalano",
+      "kode_wilayah": "74.03.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.06"
+    },
+    {
+      "nama_wilayah": "Tampo",
+      "kode_wilayah": "74.03.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.06"
+    },
+    {
+      "nama_wilayah": "Napalakura",
+      "kode_wilayah": "74.03.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.06"
+    },
+    {
+      "nama_wilayah": "Pentiro",
+      "kode_wilayah": "74.03.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.06"
+    },
+    {
+      "nama_wilayah": "Langkumapo",
+      "kode_wilayah": "74.03.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.06"
+    },
+    {
+      "nama_wilayah": "Lambiku",
+      "kode_wilayah": "74.03.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.06"
+    }
+  ]
+}

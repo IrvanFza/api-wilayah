@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "total": 2,
+  "data": [
+    {
+      "nama_wilayah": "Kelarik Barat",
+      "kode_wilayah": "21.03.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.24"
+    },
+    {
+      "nama_wilayah": "Seluan Barat",
+      "kode_wilayah": "21.03.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.24"
+    }
+  ]
+}

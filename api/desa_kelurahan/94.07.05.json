@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Agisiga",
+      "kode_wilayah": "94.07.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.05"
+    },
+    {
+      "nama_wilayah": "Tausiga",
+      "kode_wilayah": "94.07.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.05"
+    },
+    {
+      "nama_wilayah": "Unabundoga",
+      "kode_wilayah": "94.07.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.05"
+    },
+    {
+      "nama_wilayah": "Mbamogo",
+      "kode_wilayah": "94.07.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.05"
+    },
+    {
+      "nama_wilayah": "Jenetapa Janasiga",
+      "kode_wilayah": "94.07.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.05"
+    },
+    {
+      "nama_wilayah": "Soali",
+      "kode_wilayah": "94.07.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.05"
+    },
+    {
+      "nama_wilayah": "Tambage",
+      "kode_wilayah": "94.07.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.05"
+    },
+    {
+      "nama_wilayah": "Nabia",
+      "kode_wilayah": "94.07.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.05"
+    },
+    {
+      "nama_wilayah": "Danggoa",
+      "kode_wilayah": "94.07.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.05"
+    },
+    {
+      "nama_wilayah": "Kombogosiga",
+      "kode_wilayah": "94.07.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.05"
+    }
+  ]
+}

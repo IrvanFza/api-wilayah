@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Embong",
+      "kode_wilayah": "17.07.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.11"
+    },
+    {
+      "nama_wilayah": "Embong I",
+      "kode_wilayah": "17.07.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.11"
+    },
+    {
+      "nama_wilayah": "Kota Baru",
+      "kode_wilayah": "17.07.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.11"
+    },
+    {
+      "nama_wilayah": "Kota Agung",
+      "kode_wilayah": "17.07.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.11"
+    },
+    {
+      "nama_wilayah": "Lemeu",
+      "kode_wilayah": "17.07.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.11"
+    },
+    {
+      "nama_wilayah": "Pangkalan",
+      "kode_wilayah": "17.07.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.11"
+    },
+    {
+      "nama_wilayah": "Tangua",
+      "kode_wilayah": "17.07.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.11"
+    }
+  ]
+}

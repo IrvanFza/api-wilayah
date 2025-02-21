@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pura Jaya",
+      "kode_wilayah": "18.04.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.18"
+    },
+    {
+      "nama_wilayah": "Pura Wiwitan",
+      "kode_wilayah": "18.04.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.18"
+    },
+    {
+      "nama_wilayah": "Tribudi Syukur",
+      "kode_wilayah": "18.04.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.18"
+    },
+    {
+      "nama_wilayah": "Muara Jaya I",
+      "kode_wilayah": "18.04.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.18"
+    },
+    {
+      "nama_wilayah": "Muara Jaya II",
+      "kode_wilayah": "18.04.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.18"
+    },
+    {
+      "nama_wilayah": "Tri Budi Makmur",
+      "kode_wilayah": "18.04.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.18"
+    },
+    {
+      "nama_wilayah": "Tugu Mulya",
+      "kode_wilayah": "18.04.18.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.18"
+    },
+    {
+      "nama_wilayah": "Cipta Mulya",
+      "kode_wilayah": "18.04.18.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.18"
+    },
+    {
+      "nama_wilayah": "Muara Baru",
+      "kode_wilayah": "18.04.18.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.18"
+    },
+    {
+      "nama_wilayah": "Sinar Luas",
+      "kode_wilayah": "18.04.18.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.18"
+    }
+  ]
+}

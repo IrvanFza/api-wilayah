@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Dembe II",
+      "kode_wilayah": "75.71.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.03"
+    },
+    {
+      "nama_wilayah": "Wongkaditi Timur",
+      "kode_wilayah": "75.71.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.03"
+    },
+    {
+      "nama_wilayah": "Wongkaditi Barat",
+      "kode_wilayah": "75.71.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.03"
+    },
+    {
+      "nama_wilayah": "Dulomo Selatan",
+      "kode_wilayah": "75.71.03.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.03"
+    },
+    {
+      "nama_wilayah": "Dulomo Utara",
+      "kode_wilayah": "75.71.03.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.03"
+    },
+    {
+      "nama_wilayah": "Dembe Jaya",
+      "kode_wilayah": "75.71.03.1015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.03"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Siau Timur",
+      "kode_wilayah": "71.09.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.09",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Siau Barat",
+      "kode_wilayah": "71.09.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.09",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Tagulandang",
+      "kode_wilayah": "71.09.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.09",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Siau Timur Selatan",
+      "kode_wilayah": "71.09.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.09",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Siau Barat Selatan",
+      "kode_wilayah": "71.09.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.09",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Tagulandang Utara",
+      "kode_wilayah": "71.09.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.09",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Biaro",
+      "kode_wilayah": "71.09.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.09",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Siau Barat Utara",
+      "kode_wilayah": "71.09.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.09",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Siau Tengah",
+      "kode_wilayah": "71.09.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.09",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Tagulandang Selatan",
+      "kode_wilayah": "71.09.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.09",
+      "kode_provinsi": "71"
+    }
+  ]
+}

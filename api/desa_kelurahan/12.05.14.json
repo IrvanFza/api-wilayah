@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Pelawi Utara",
+      "kode_wilayah": "12.05.14.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.14"
+    },
+    {
+      "nama_wilayah": "Berandan Barat",
+      "kode_wilayah": "12.05.14.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.14"
+    },
+    {
+      "nama_wilayah": "Berandan Timur Baru",
+      "kode_wilayah": "12.05.14.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.14"
+    },
+    {
+      "nama_wilayah": "Berandan Timur",
+      "kode_wilayah": "12.05.14.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.14"
+    },
+    {
+      "nama_wilayah": "Securai Utara",
+      "kode_wilayah": "12.05.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.14"
+    },
+    {
+      "nama_wilayah": "Teluk Meku",
+      "kode_wilayah": "12.05.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.14"
+    },
+    {
+      "nama_wilayah": "Pelawi Selatan",
+      "kode_wilayah": "12.05.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.14"
+    },
+    {
+      "nama_wilayah": "Securai Selatan",
+      "kode_wilayah": "12.05.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.14"
+    }
+  ]
+}

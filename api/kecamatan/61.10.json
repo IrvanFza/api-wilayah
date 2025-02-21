@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Belimbing",
+      "kode_wilayah": "61.10.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.10",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Nanga Pinoh",
+      "kode_wilayah": "61.10.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.10",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Ella Hilir",
+      "kode_wilayah": "61.10.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.10",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Menukung",
+      "kode_wilayah": "61.10.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.10",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Sayan",
+      "kode_wilayah": "61.10.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.10",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Tanah Pinoh",
+      "kode_wilayah": "61.10.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.10",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Sokan",
+      "kode_wilayah": "61.10.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.10",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Pinoh Utara",
+      "kode_wilayah": "61.10.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.10",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Pinoh Selatan",
+      "kode_wilayah": "61.10.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.10",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Belimbing Hulu",
+      "kode_wilayah": "61.10.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.10",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Tanah Pinoh Barat",
+      "kode_wilayah": "61.10.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.10",
+      "kode_provinsi": "61"
+    }
+  ]
+}

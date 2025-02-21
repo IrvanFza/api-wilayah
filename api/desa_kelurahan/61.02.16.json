@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Anjungan Melancar",
+      "kode_wilayah": "61.02.16.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.16"
+    },
+    {
+      "nama_wilayah": "Anjungan Dalam",
+      "kode_wilayah": "61.02.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.16"
+    },
+    {
+      "nama_wilayah": "Kepayang",
+      "kode_wilayah": "61.02.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.16"
+    },
+    {
+      "nama_wilayah": "Pak Bulu",
+      "kode_wilayah": "61.02.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.16"
+    },
+    {
+      "nama_wilayah": "Dema",
+      "kode_wilayah": "61.02.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.16"
+    }
+  ]
+}

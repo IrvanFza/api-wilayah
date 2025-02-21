@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Blumbang",
+      "kode_wilayah": "33.13.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.06"
+    },
+    {
+      "nama_wilayah": "Kalisoro",
+      "kode_wilayah": "33.13.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.06"
+    },
+    {
+      "nama_wilayah": "Tawangmangu",
+      "kode_wilayah": "33.13.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.06"
+    },
+    {
+      "nama_wilayah": "Gondosuli",
+      "kode_wilayah": "33.13.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.06"
+    },
+    {
+      "nama_wilayah": "Sepanjang",
+      "kode_wilayah": "33.13.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.06"
+    },
+    {
+      "nama_wilayah": "Bandardawung",
+      "kode_wilayah": "33.13.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.06"
+    },
+    {
+      "nama_wilayah": "Karanglo",
+      "kode_wilayah": "33.13.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.06"
+    },
+    {
+      "nama_wilayah": "Nglebak",
+      "kode_wilayah": "33.13.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.06"
+    },
+    {
+      "nama_wilayah": "Plumbon",
+      "kode_wilayah": "33.13.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.06"
+    },
+    {
+      "nama_wilayah": "Tengklik",
+      "kode_wilayah": "33.13.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.06"
+    }
+  ]
+}

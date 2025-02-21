@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sukorejo",
+      "kode_wilayah": "35.10.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.02"
+    },
+    {
+      "nama_wilayah": "Sambirejo",
+      "kode_wilayah": "35.10.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.02"
+    },
+    {
+      "nama_wilayah": "Temurejo",
+      "kode_wilayah": "35.10.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.02"
+    },
+    {
+      "nama_wilayah": "Bangorejo",
+      "kode_wilayah": "35.10.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.02"
+    },
+    {
+      "nama_wilayah": "Kebondalem",
+      "kode_wilayah": "35.10.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.02"
+    },
+    {
+      "nama_wilayah": "Sambimulyo",
+      "kode_wilayah": "35.10.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.02"
+    },
+    {
+      "nama_wilayah": "Ringintelu",
+      "kode_wilayah": "35.10.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.02"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Galinggang",
+      "kode_wilayah": "62.06.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.01"
+    },
+    {
+      "nama_wilayah": "Tampelas",
+      "kode_wilayah": "62.06.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.01"
+    },
+    {
+      "nama_wilayah": "Telaga",
+      "kode_wilayah": "62.06.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.01"
+    },
+    {
+      "nama_wilayah": "Parupuk",
+      "kode_wilayah": "62.06.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.01"
+    },
+    {
+      "nama_wilayah": "Karuing",
+      "kode_wilayah": "62.06.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.01"
+    },
+    {
+      "nama_wilayah": "Jahanjang",
+      "kode_wilayah": "62.06.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.01"
+    },
+    {
+      "nama_wilayah": "Tumbang Runen",
+      "kode_wilayah": "62.06.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.01"
+    },
+    {
+      "nama_wilayah": "Baun Bango",
+      "kode_wilayah": "62.06.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.01"
+    },
+    {
+      "nama_wilayah": "Asem Kumbang",
+      "kode_wilayah": "62.06.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.01"
+    }
+  ]
+}

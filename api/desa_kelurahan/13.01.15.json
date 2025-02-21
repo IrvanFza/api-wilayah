@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Silaut",
+      "kode_wilayah": "13.01.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.15"
+    },
+    {
+      "nama_wilayah": "Sungai Sirah",
+      "kode_wilayah": "13.01.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.15"
+    },
+    {
+      "nama_wilayah": "Sungai Sarik",
+      "kode_wilayah": "13.01.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.15"
+    },
+    {
+      "nama_wilayah": "Sungai Pulai",
+      "kode_wilayah": "13.01.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.15"
+    },
+    {
+      "nama_wilayah": "Pasir Binjai",
+      "kode_wilayah": "13.01.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.15"
+    },
+    {
+      "nama_wilayah": "Talang Binjai",
+      "kode_wilayah": "13.01.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.15"
+    },
+    {
+      "nama_wilayah": "Durian Seribu",
+      "kode_wilayah": "13.01.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.15"
+    },
+    {
+      "nama_wilayah": "Lubuk Bunta",
+      "kode_wilayah": "13.01.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.15"
+    },
+    {
+      "nama_wilayah": "Air Hitam",
+      "kode_wilayah": "13.01.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.15"
+    },
+    {
+      "nama_wilayah": "Sambungo",
+      "kode_wilayah": "13.01.15.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.15"
+    }
+  ]
+}

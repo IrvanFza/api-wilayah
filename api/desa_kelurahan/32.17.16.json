@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Cikande",
+      "kode_wilayah": "32.17.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.16"
+    },
+    {
+      "nama_wilayah": "Jati",
+      "kode_wilayah": "32.17.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.16"
+    },
+    {
+      "nama_wilayah": "Girimukti",
+      "kode_wilayah": "32.17.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.16"
+    },
+    {
+      "nama_wilayah": "Bojonghaleuang",
+      "kode_wilayah": "32.17.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.16"
+    },
+    {
+      "nama_wilayah": "Cipangeran",
+      "kode_wilayah": "32.17.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.16"
+    },
+    {
+      "nama_wilayah": "Saguling",
+      "kode_wilayah": "32.17.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.16"
+    }
+  ]
+}

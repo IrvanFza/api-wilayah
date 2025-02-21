@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Katurei",
+      "kode_wilayah": "13.09.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.06"
+    },
+    {
+      "nama_wilayah": "Sagulubbeg",
+      "kode_wilayah": "13.09.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.06"
+    },
+    {
+      "nama_wilayah": "Pasakiat Taileleu",
+      "kode_wilayah": "13.09.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.06"
+    }
+  ]
+}

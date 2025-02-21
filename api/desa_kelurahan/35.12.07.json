@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Patokan",
+      "kode_wilayah": "35.12.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.07"
+    },
+    {
+      "nama_wilayah": "Dawuhan",
+      "kode_wilayah": "35.12.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.07"
+    },
+    {
+      "nama_wilayah": "Kalibagor",
+      "kode_wilayah": "35.12.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.07"
+    },
+    {
+      "nama_wilayah": "Kotakan",
+      "kode_wilayah": "35.12.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.07"
+    },
+    {
+      "nama_wilayah": "Talkandang",
+      "kode_wilayah": "35.12.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.07"
+    },
+    {
+      "nama_wilayah": "Olean",
+      "kode_wilayah": "35.12.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.07"
+    }
+  ]
+}

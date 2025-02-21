@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sadang",
+      "kode_wilayah": "32.05.42.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.42"
+    },
+    {
+      "nama_wilayah": "Sukaratu",
+      "kode_wilayah": "32.05.42.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.42"
+    },
+    {
+      "nama_wilayah": "Tenjonagara",
+      "kode_wilayah": "32.05.42.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.42"
+    },
+    {
+      "nama_wilayah": "Tegalpanjang",
+      "kode_wilayah": "32.05.42.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.42"
+    },
+    {
+      "nama_wilayah": "Cigadog",
+      "kode_wilayah": "32.05.42.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.42"
+    },
+    {
+      "nama_wilayah": "Linggamukti",
+      "kode_wilayah": "32.05.42.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.42"
+    },
+    {
+      "nama_wilayah": "Sukalaksana",
+      "kode_wilayah": "32.05.42.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.42"
+    }
+  ]
+}

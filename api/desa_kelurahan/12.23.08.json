@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Gunting Saga",
+      "kode_wilayah": "12.23.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.23",
+      "kode_kecamatan": "12.23.08"
+    },
+    {
+      "nama_wilayah": "Damuli Pekan",
+      "kode_wilayah": "12.23.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.23",
+      "kode_kecamatan": "12.23.08"
+    },
+    {
+      "nama_wilayah": "Siamporik",
+      "kode_wilayah": "12.23.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.23",
+      "kode_kecamatan": "12.23.08"
+    },
+    {
+      "nama_wilayah": "Lobu Huala",
+      "kode_wilayah": "12.23.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.23",
+      "kode_kecamatan": "12.23.08"
+    },
+    {
+      "nama_wilayah": "Gunung Melayu",
+      "kode_wilayah": "12.23.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.23",
+      "kode_kecamatan": "12.23.08"
+    },
+    {
+      "nama_wilayah": "Damuli Kebun",
+      "kode_wilayah": "12.23.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.23",
+      "kode_kecamatan": "12.23.08"
+    },
+    {
+      "nama_wilayah": "Hasang",
+      "kode_wilayah": "12.23.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.23",
+      "kode_kecamatan": "12.23.08"
+    },
+    {
+      "nama_wilayah": "Bandar Lama",
+      "kode_wilayah": "12.23.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.23",
+      "kode_kecamatan": "12.23.08"
+    },
+    {
+      "nama_wilayah": "Sidua Dua",
+      "kode_wilayah": "12.23.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.23",
+      "kode_kecamatan": "12.23.08"
+    },
+    {
+      "nama_wilayah": "Simangalam",
+      "kode_wilayah": "12.23.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.23",
+      "kode_kecamatan": "12.23.08"
+    },
+    {
+      "nama_wilayah": "Tanjung Pasir",
+      "kode_wilayah": "12.23.08.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.23",
+      "kode_kecamatan": "12.23.08"
+    },
+    {
+      "nama_wilayah": "Sialang Taji",
+      "kode_wilayah": "12.23.08.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.23",
+      "kode_kecamatan": "12.23.08"
+    }
+  ]
+}

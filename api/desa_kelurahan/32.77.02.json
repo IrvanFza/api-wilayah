@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Baros",
+      "kode_wilayah": "32.77.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.77",
+      "kode_kecamatan": "32.77.02"
+    },
+    {
+      "nama_wilayah": "Cigugur Tengah",
+      "kode_wilayah": "32.77.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.77",
+      "kode_kecamatan": "32.77.02"
+    },
+    {
+      "nama_wilayah": "Karangmekar",
+      "kode_wilayah": "32.77.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.77",
+      "kode_kecamatan": "32.77.02"
+    },
+    {
+      "nama_wilayah": "Setiamanah",
+      "kode_wilayah": "32.77.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.77",
+      "kode_kecamatan": "32.77.02"
+    },
+    {
+      "nama_wilayah": "Padasuka",
+      "kode_wilayah": "32.77.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.77",
+      "kode_kecamatan": "32.77.02"
+    },
+    {
+      "nama_wilayah": "Cimahi",
+      "kode_wilayah": "32.77.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.77",
+      "kode_kecamatan": "32.77.02"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Watu Nggene",
+      "kode_wilayah": "53.19.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.06"
+    },
+    {
+      "nama_wilayah": "Rongga Koe",
+      "kode_wilayah": "53.19.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.06"
+    },
+    {
+      "nama_wilayah": "Tanah Rata",
+      "kode_wilayah": "53.19.06.1017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.06"
+    },
+    {
+      "nama_wilayah": "Lembur",
+      "kode_wilayah": "53.19.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.06"
+    },
+    {
+      "nama_wilayah": "Ruan",
+      "kode_wilayah": "53.19.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.06"
+    },
+    {
+      "nama_wilayah": "Mbengan",
+      "kode_wilayah": "53.19.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.06"
+    },
+    {
+      "nama_wilayah": "Rana Kolong",
+      "kode_wilayah": "53.19.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.06"
+    },
+    {
+      "nama_wilayah": "Gunung",
+      "kode_wilayah": "53.19.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.06"
+    },
+    {
+      "nama_wilayah": "Komba",
+      "kode_wilayah": "53.19.06.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.06"
+    },
+    {
+      "nama_wilayah": "Bamo",
+      "kode_wilayah": "53.19.06.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.06"
+    },
+    {
+      "nama_wilayah": "Pong Ruan",
+      "kode_wilayah": "53.19.06.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.06"
+    }
+  ]
+}

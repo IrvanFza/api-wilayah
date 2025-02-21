@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Mulyojati",
+      "kode_wilayah": "18.72.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.72",
+      "kode_kecamatan": "18.72.03"
+    },
+    {
+      "nama_wilayah": "Ganjar Agung",
+      "kode_wilayah": "18.72.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.72",
+      "kode_kecamatan": "18.72.03"
+    },
+    {
+      "nama_wilayah": "Mulyosari",
+      "kode_wilayah": "18.72.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.72",
+      "kode_kecamatan": "18.72.03"
+    },
+    {
+      "nama_wilayah": "Ganjar Asri",
+      "kode_wilayah": "18.72.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.72",
+      "kode_kecamatan": "18.72.03"
+    }
+  ]
+}

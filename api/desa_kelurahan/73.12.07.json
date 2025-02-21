@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Belo",
+      "kode_wilayah": "73.12.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.07"
+    },
+    {
+      "nama_wilayah": "Ganra",
+      "kode_wilayah": "73.12.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.07"
+    },
+    {
+      "nama_wilayah": "Lompulle",
+      "kode_wilayah": "73.12.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.07"
+    },
+    {
+      "nama_wilayah": "Enrekeng",
+      "kode_wilayah": "73.12.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.07"
+    }
+  ]
+}

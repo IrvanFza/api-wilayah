@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Bumi Emas",
+      "kode_wilayah": "61.07.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.04"
+    },
+    {
+      "nama_wilayah": "Sebalo",
+      "kode_wilayah": "61.07.04.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.04"
+    },
+    {
+      "nama_wilayah": "Tirta Kencana",
+      "kode_wilayah": "61.07.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.04"
+    },
+    {
+      "nama_wilayah": "Bhakti Mulya",
+      "kode_wilayah": "61.07.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.04"
+    },
+    {
+      "nama_wilayah": "Bani Amas",
+      "kode_wilayah": "61.07.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.04"
+    },
+    {
+      "nama_wilayah": "Setia Budi",
+      "kode_wilayah": "61.07.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.04"
+    }
+  ]
+}

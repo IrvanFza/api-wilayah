@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kuala Enok",
+      "kode_wilayah": "14.04.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.10"
+    },
+    {
+      "nama_wilayah": "Selatnama",
+      "kode_wilayah": "14.04.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.10"
+    },
+    {
+      "nama_wilayah": "Sungainyiur",
+      "kode_wilayah": "14.04.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.10"
+    },
+    {
+      "nama_wilayah": "Tanjungbaru",
+      "kode_wilayah": "14.04.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.10"
+    },
+    {
+      "nama_wilayah": "Tekulai Hilir",
+      "kode_wilayah": "14.04.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.10"
+    },
+    {
+      "nama_wilayah": "Tekulai Hulu",
+      "kode_wilayah": "14.04.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.10"
+    },
+    {
+      "nama_wilayah": "Tekulai Bugis",
+      "kode_wilayah": "14.04.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.10"
+    },
+    {
+      "nama_wilayah": "Tanjungpasir",
+      "kode_wilayah": "14.04.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.10"
+    },
+    {
+      "nama_wilayah": "Tanah Merah",
+      "kode_wilayah": "14.04.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.10"
+    },
+    {
+      "nama_wilayah": "Sungailaut",
+      "kode_wilayah": "14.04.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.10"
+    }
+  ]
+}

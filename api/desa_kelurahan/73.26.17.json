@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "To-yasa Akung",
+      "kode_wilayah": "73.26.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.17"
+    },
+    {
+      "nama_wilayah": "Batu Limbong",
+      "kode_wilayah": "73.26.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.17"
+    },
+    {
+      "nama_wilayah": "Bangkelekila-",
+      "kode_wilayah": "73.26.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.17"
+    },
+    {
+      "nama_wilayah": "Tampan Bonga",
+      "kode_wilayah": "73.26.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.17"
+    }
+  ]
+}

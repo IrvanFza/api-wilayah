@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Wapoga",
+      "kode_wilayah": "91.15.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.12"
+    },
+    {
+      "nama_wilayah": "Pirare",
+      "kode_wilayah": "91.15.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.12"
+    },
+    {
+      "nama_wilayah": "Awera",
+      "kode_wilayah": "91.15.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.12"
+    },
+    {
+      "nama_wilayah": "Syewa Merare",
+      "kode_wilayah": "91.15.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.12"
+    },
+    {
+      "nama_wilayah": "Kamarisano",
+      "kode_wilayah": "91.15.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.12"
+    },
+    {
+      "nama_wilayah": "Waweri",
+      "kode_wilayah": "91.15.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.12"
+    },
+    {
+      "nama_wilayah": "Dokis",
+      "kode_wilayah": "91.15.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.12"
+    }
+  ]
+}

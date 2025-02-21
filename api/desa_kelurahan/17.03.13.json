@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Alai",
+      "kode_wilayah": "17.03.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.13"
+    },
+    {
+      "nama_wilayah": "Jabi",
+      "kode_wilayah": "17.03.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.13"
+    },
+    {
+      "nama_wilayah": "Napal Putih",
+      "kode_wilayah": "17.03.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.13"
+    },
+    {
+      "nama_wilayah": "Air Tenang",
+      "kode_wilayah": "17.03.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.13"
+    },
+    {
+      "nama_wilayah": "Teluk Anggung",
+      "kode_wilayah": "17.03.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.13"
+    },
+    {
+      "nama_wilayah": "Tanjung Kemayan",
+      "kode_wilayah": "17.03.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.13"
+    },
+    {
+      "nama_wilayah": "Muara Santan",
+      "kode_wilayah": "17.03.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.13"
+    },
+    {
+      "nama_wilayah": "Lebong Tandai",
+      "kode_wilayah": "17.03.13.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.13"
+    },
+    {
+      "nama_wilayah": "Gembung Raya",
+      "kode_wilayah": "17.03.13.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.13"
+    },
+    {
+      "nama_wilayah": "Kinal Jaya",
+      "kode_wilayah": "17.03.13.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.13"
+    }
+  ]
+}

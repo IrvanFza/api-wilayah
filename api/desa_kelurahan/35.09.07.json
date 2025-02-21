@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Pondokjoyo",
+      "kode_wilayah": "35.09.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.07"
+    },
+    {
+      "nama_wilayah": "Pondokdalem",
+      "kode_wilayah": "35.09.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.07"
+    },
+    {
+      "nama_wilayah": "Rejoagung",
+      "kode_wilayah": "35.09.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.07"
+    },
+    {
+      "nama_wilayah": "Semboro",
+      "kode_wilayah": "35.09.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.07"
+    },
+    {
+      "nama_wilayah": "Sidomekar",
+      "kode_wilayah": "35.09.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.07"
+    },
+    {
+      "nama_wilayah": "Sidomulyo",
+      "kode_wilayah": "35.09.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.07"
+    }
+  ]
+}

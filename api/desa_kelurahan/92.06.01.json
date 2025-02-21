@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Bintuni Timur",
+      "kode_wilayah": "92.06.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.01"
+    },
+    {
+      "nama_wilayah": "Bintuni Barat",
+      "kode_wilayah": "92.06.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.01"
+    },
+    {
+      "nama_wilayah": "Tuasai",
+      "kode_wilayah": "92.06.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.01"
+    },
+    {
+      "nama_wilayah": "Argosigemerai",
+      "kode_wilayah": "92.06.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.01"
+    },
+    {
+      "nama_wilayah": "Beimes",
+      "kode_wilayah": "92.06.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.01"
+    },
+    {
+      "nama_wilayah": "Iguriji",
+      "kode_wilayah": "92.06.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.01"
+    },
+    {
+      "nama_wilayah": "Masina",
+      "kode_wilayah": "92.06.01.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.01"
+    },
+    {
+      "nama_wilayah": "Wesiri",
+      "kode_wilayah": "92.06.01.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.01"
+    }
+  ]
+}

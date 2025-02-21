@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sabudon",
+      "kode_wilayah": "93.01.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.21"
+    },
+    {
+      "nama_wilayah": "Padua",
+      "kode_wilayah": "93.01.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.21"
+    },
+    {
+      "nama_wilayah": "Sigad",
+      "kode_wilayah": "93.01.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.21"
+    },
+    {
+      "nama_wilayah": "Bamol I",
+      "kode_wilayah": "93.01.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.21"
+    },
+    {
+      "nama_wilayah": "Bamol II",
+      "kode_wilayah": "93.01.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.21"
+    }
+  ]
+}

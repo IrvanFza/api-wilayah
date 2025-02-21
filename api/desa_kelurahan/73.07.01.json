@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tassililu",
+      "kode_wilayah": "73.07.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.01"
+    },
+    {
+      "nama_wilayah": "Balakia",
+      "kode_wilayah": "73.07.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.01"
+    },
+    {
+      "nama_wilayah": "Gunung Perak",
+      "kode_wilayah": "73.07.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.01"
+    },
+    {
+      "nama_wilayah": "Arabika",
+      "kode_wilayah": "73.07.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.01"
+    },
+    {
+      "nama_wilayah": "Bonto Salama",
+      "kode_wilayah": "73.07.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.01"
+    },
+    {
+      "nama_wilayah": "Turungan Baji",
+      "kode_wilayah": "73.07.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.01"
+    },
+    {
+      "nama_wilayah": "Barania",
+      "kode_wilayah": "73.07.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.01"
+    },
+    {
+      "nama_wilayah": "Boto Lempangan",
+      "kode_wilayah": "73.07.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.01"
+    },
+    {
+      "nama_wilayah": "Terasa",
+      "kode_wilayah": "73.07.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.01"
+    }
+  ]
+}

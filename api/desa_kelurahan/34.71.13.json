@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Semaki",
+      "kode_wilayah": "34.71.13.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.71",
+      "kode_kecamatan": "34.71.13"
+    },
+    {
+      "nama_wilayah": "Muja Muju",
+      "kode_wilayah": "34.71.13.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.71",
+      "kode_kecamatan": "34.71.13"
+    },
+    {
+      "nama_wilayah": "Tahunan",
+      "kode_wilayah": "34.71.13.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.71",
+      "kode_kecamatan": "34.71.13"
+    },
+    {
+      "nama_wilayah": "Warungboto",
+      "kode_wilayah": "34.71.13.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.71",
+      "kode_kecamatan": "34.71.13"
+    },
+    {
+      "nama_wilayah": "Pandeyan",
+      "kode_wilayah": "34.71.13.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.71",
+      "kode_kecamatan": "34.71.13"
+    },
+    {
+      "nama_wilayah": "Sorosutan",
+      "kode_wilayah": "34.71.13.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.71",
+      "kode_kecamatan": "34.71.13"
+    },
+    {
+      "nama_wilayah": "Giwangan",
+      "kode_wilayah": "34.71.13.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.71",
+      "kode_kecamatan": "34.71.13"
+    }
+  ]
+}

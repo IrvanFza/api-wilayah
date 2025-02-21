@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Dodolo",
+      "kode_wilayah": "72.02.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.07"
+    },
+    {
+      "nama_wilayah": "Kaduwaa",
+      "kode_wilayah": "72.02.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.07"
+    },
+    {
+      "nama_wilayah": "Watumaeta",
+      "kode_wilayah": "72.02.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.07"
+    },
+    {
+      "nama_wilayah": "Sedoa",
+      "kode_wilayah": "72.02.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.07"
+    },
+    {
+      "nama_wilayah": "Alitupu",
+      "kode_wilayah": "72.02.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.07"
+    },
+    {
+      "nama_wilayah": "Wuasa",
+      "kode_wilayah": "72.02.07.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.07"
+    },
+    {
+      "nama_wilayah": "Bumi Banyusari",
+      "kode_wilayah": "72.02.07.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.07"
+    }
+  ]
+}

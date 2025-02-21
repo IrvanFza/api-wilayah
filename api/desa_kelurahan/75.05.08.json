@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Ponelo",
+      "kode_wilayah": "75.05.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.08"
+    },
+    {
+      "nama_wilayah": "Malambe",
+      "kode_wilayah": "75.05.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.08"
+    },
+    {
+      "nama_wilayah": "Otiola",
+      "kode_wilayah": "75.05.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.08"
+    },
+    {
+      "nama_wilayah": "Tihengo",
+      "kode_wilayah": "75.05.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.08"
+    }
+  ]
+}

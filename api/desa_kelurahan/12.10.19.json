@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sei Berombang",
+      "kode_wilayah": "12.10.19.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.19"
+    },
+    {
+      "nama_wilayah": "Sei Penggantungan",
+      "kode_wilayah": "12.10.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.19"
+    },
+    {
+      "nama_wilayah": "Sei Lumut",
+      "kode_wilayah": "12.10.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.19"
+    },
+    {
+      "nama_wilayah": "Sei Tawar",
+      "kode_wilayah": "12.10.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.19"
+    },
+    {
+      "nama_wilayah": "Sei Sanggul",
+      "kode_wilayah": "12.10.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.19"
+    },
+    {
+      "nama_wilayah": "Sei Sakat",
+      "kode_wilayah": "12.10.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.19"
+    },
+    {
+      "nama_wilayah": "Sei Baru",
+      "kode_wilayah": "12.10.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.19"
+    },
+    {
+      "nama_wilayah": "Wonosari",
+      "kode_wilayah": "12.10.19.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.19"
+    }
+  ]
+}

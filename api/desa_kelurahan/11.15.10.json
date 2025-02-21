@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Blang Puuk",
+      "kode_wilayah": "11.15.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.15",
+      "kode_kecamatan": "11.15.10"
+    },
+    {
+      "nama_wilayah": "Babah Suak",
+      "kode_wilayah": "11.15.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.15",
+      "kode_kecamatan": "11.15.10"
+    },
+    {
+      "nama_wilayah": "Kuta Teungoh",
+      "kode_wilayah": "11.15.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.15",
+      "kode_kecamatan": "11.15.10"
+    },
+    {
+      "nama_wilayah": "Blang Meurandeh",
+      "kode_wilayah": "11.15.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.15",
+      "kode_kecamatan": "11.15.10"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Babussalam",
+      "kode_wilayah": "11.09.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.09",
+      "kode_kecamatan": "11.09.05"
+    },
+    {
+      "nama_wilayah": "Muara Aman",
+      "kode_wilayah": "11.09.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.09",
+      "kode_kecamatan": "11.09.05"
+    },
+    {
+      "nama_wilayah": "Gunung Putih",
+      "kode_wilayah": "11.09.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.09",
+      "kode_kecamatan": "11.09.05"
+    },
+    {
+      "nama_wilayah": "Lugu Sebahak",
+      "kode_wilayah": "11.09.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.09",
+      "kode_kecamatan": "11.09.05"
+    },
+    {
+      "nama_wilayah": "Kuala Bakti",
+      "kode_wilayah": "11.09.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.09",
+      "kode_kecamatan": "11.09.05"
+    },
+    {
+      "nama_wilayah": "Bulu Hadik",
+      "kode_wilayah": "11.09.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.09",
+      "kode_kecamatan": "11.09.05"
+    },
+    {
+      "nama_wilayah": "Sambay",
+      "kode_wilayah": "11.09.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.09",
+      "kode_kecamatan": "11.09.05"
+    },
+    {
+      "nama_wilayah": "Luan Balu",
+      "kode_wilayah": "11.09.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.09",
+      "kode_kecamatan": "11.09.05"
+    },
+    {
+      "nama_wilayah": "Tanjung Raya",
+      "kode_wilayah": "11.09.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.09",
+      "kode_kecamatan": "11.09.05"
+    },
+    {
+      "nama_wilayah": "Kuala Baru",
+      "kode_wilayah": "11.09.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.09",
+      "kode_kecamatan": "11.09.05"
+    }
+  ]
+}

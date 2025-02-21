@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Bekasijaya",
+      "kode_wilayah": "32.75.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.01"
+    },
+    {
+      "nama_wilayah": "Margahayu",
+      "kode_wilayah": "32.75.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.01"
+    },
+    {
+      "nama_wilayah": "Durenjaya",
+      "kode_wilayah": "32.75.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.01"
+    },
+    {
+      "nama_wilayah": "Arenjaya",
+      "kode_wilayah": "32.75.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.01"
+    }
+  ]
+}

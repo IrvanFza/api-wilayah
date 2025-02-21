@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Kei Kecil",
+      "kode_wilayah": "81.02.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.02",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Kei Besar",
+      "kode_wilayah": "81.02.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.02",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Kei Besar Selatan",
+      "kode_wilayah": "81.02.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.02",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Kei Besar Utara Timur",
+      "kode_wilayah": "81.02.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.02",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Kei Kecil Timur",
+      "kode_wilayah": "81.02.13",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.02",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Kei Kecil Barat",
+      "kode_wilayah": "81.02.14",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.02",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Manyeuw",
+      "kode_wilayah": "81.02.15",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.02",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Hoat Sorbay",
+      "kode_wilayah": "81.02.16",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.02",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Kei Besar Utara Barat",
+      "kode_wilayah": "81.02.17",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.02",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Kei Besar Selatan Barat",
+      "kode_wilayah": "81.02.18",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.02",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Kei Kecil Timur Selatan",
+      "kode_wilayah": "81.02.19",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.02",
+      "kode_provinsi": "81"
+    }
+  ]
+}

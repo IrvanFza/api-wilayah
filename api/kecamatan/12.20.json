@@ -1,0 +1,90 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Dolok Sigompulon",
+      "kode_wilayah": "12.20.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.20",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Dolok",
+      "kode_wilayah": "12.20.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.20",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Halongonan",
+      "kode_wilayah": "12.20.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.20",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Padang Bolak",
+      "kode_wilayah": "12.20.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.20",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Padang Bolak Julu",
+      "kode_wilayah": "12.20.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.20",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Portibi",
+      "kode_wilayah": "12.20.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.20",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Batang Onang",
+      "kode_wilayah": "12.20.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.20",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Simangambat",
+      "kode_wilayah": "12.20.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.20",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Hulu Sihapas",
+      "kode_wilayah": "12.20.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.20",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Padang Bolak Tenggara",
+      "kode_wilayah": "12.20.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.20",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Halongonan Timur",
+      "kode_wilayah": "12.20.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.20",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Ujung Batu",
+      "kode_wilayah": "12.20.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.20",
+      "kode_provinsi": "12"
+    }
+  ]
+}

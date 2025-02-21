@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Kelong",
+      "kode_wilayah": "21.01.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.14"
+    },
+    {
+      "nama_wilayah": "Mapur",
+      "kode_wilayah": "21.01.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.14"
+    },
+    {
+      "nama_wilayah": "Numbing",
+      "kode_wilayah": "21.01.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.14"
+    },
+    {
+      "nama_wilayah": "Air Gelubi",
+      "kode_wilayah": "21.01.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.14"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Hutaginjang",
+      "kode_wilayah": "12.01.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.17"
+    },
+    {
+      "nama_wilayah": "Sihorbo",
+      "kode_wilayah": "12.01.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.17"
+    },
+    {
+      "nama_wilayah": "Parik Sinomba",
+      "kode_wilayah": "12.01.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.17"
+    },
+    {
+      "nama_wilayah": "Purba Tua",
+      "kode_wilayah": "12.01.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.17"
+    },
+    {
+      "nama_wilayah": "Pananggahan",
+      "kode_wilayah": "12.01.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.17"
+    },
+    {
+      "nama_wilayah": "Siharbangan",
+      "kode_wilayah": "12.01.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.17"
+    }
+  ]
+}

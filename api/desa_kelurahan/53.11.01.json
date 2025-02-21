@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kambajawa",
+      "kode_wilayah": "53.11.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.01"
+    },
+    {
+      "nama_wilayah": "Hambala",
+      "kode_wilayah": "53.11.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.01"
+    },
+    {
+      "nama_wilayah": "Matawai",
+      "kode_wilayah": "53.11.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.01"
+    },
+    {
+      "nama_wilayah": "Kamalaputi",
+      "kode_wilayah": "53.11.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.01"
+    },
+    {
+      "nama_wilayah": "Lukukamaru",
+      "kode_wilayah": "53.11.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.01"
+    },
+    {
+      "nama_wilayah": "Mbatakapidu",
+      "kode_wilayah": "53.11.01.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.01"
+    },
+    {
+      "nama_wilayah": "Pambotandjara",
+      "kode_wilayah": "53.11.01.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.01"
+    }
+  ]
+}

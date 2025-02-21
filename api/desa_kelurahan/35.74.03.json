@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Mayangan",
+      "kode_wilayah": "35.74.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.03"
+    },
+    {
+      "nama_wilayah": "Mangunharjo",
+      "kode_wilayah": "35.74.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.03"
+    },
+    {
+      "nama_wilayah": "Jati",
+      "kode_wilayah": "35.74.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.03"
+    },
+    {
+      "nama_wilayah": "Sukabumi",
+      "kode_wilayah": "35.74.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.03"
+    },
+    {
+      "nama_wilayah": "Wiroborang",
+      "kode_wilayah": "35.74.03.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.03"
+    }
+  ]
+}

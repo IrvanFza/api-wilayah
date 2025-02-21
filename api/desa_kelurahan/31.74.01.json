@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tebet Timur",
+      "kode_wilayah": "31.74.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.01"
+    },
+    {
+      "nama_wilayah": "Tebet Barat",
+      "kode_wilayah": "31.74.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.01"
+    },
+    {
+      "nama_wilayah": "Menteng Dalam",
+      "kode_wilayah": "31.74.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.01"
+    },
+    {
+      "nama_wilayah": "Kebon Baru",
+      "kode_wilayah": "31.74.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.01"
+    },
+    {
+      "nama_wilayah": "Bukit Duri",
+      "kode_wilayah": "31.74.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.01"
+    },
+    {
+      "nama_wilayah": "Manggarai Selatan",
+      "kode_wilayah": "31.74.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.01"
+    },
+    {
+      "nama_wilayah": "Manggarai",
+      "kode_wilayah": "31.74.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.01"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Borongloe",
+      "kode_wilayah": "73.06.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.06"
+    },
+    {
+      "nama_wilayah": "Bontomanai",
+      "kode_wilayah": "73.06.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.06"
+    },
+    {
+      "nama_wilayah": "Romang Lompoa",
+      "kode_wilayah": "73.06.06.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.06"
+    },
+    {
+      "nama_wilayah": "Pakatto",
+      "kode_wilayah": "73.06.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.06"
+    },
+    {
+      "nama_wilayah": "Nirannuang",
+      "kode_wilayah": "73.06.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.06"
+    },
+    {
+      "nama_wilayah": "Romangloe",
+      "kode_wilayah": "73.06.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.06"
+    },
+    {
+      "nama_wilayah": "Sokkolia",
+      "kode_wilayah": "73.06.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.06"
+    },
+    {
+      "nama_wilayah": "Mata Allo",
+      "kode_wilayah": "73.06.06.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.06"
+    },
+    {
+      "nama_wilayah": "Bili-bili",
+      "kode_wilayah": "73.06.06.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.06"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Blu uran",
+      "kode_wilayah": "35.27.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.27",
+      "kode_kecamatan": "35.27.14"
+    },
+    {
+      "nama_wilayah": "Tlambah",
+      "kode_wilayah": "35.27.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.27",
+      "kode_kecamatan": "35.27.14"
+    },
+    {
+      "nama_wilayah": "Bulmatet",
+      "kode_wilayah": "35.27.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.27",
+      "kode_kecamatan": "35.27.14"
+    },
+    {
+      "nama_wilayah": "Poreh",
+      "kode_wilayah": "35.27.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.27",
+      "kode_kecamatan": "35.27.14"
+    },
+    {
+      "nama_wilayah": "Karangpenang Oloh",
+      "kode_wilayah": "35.27.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.27",
+      "kode_kecamatan": "35.27.14"
+    },
+    {
+      "nama_wilayah": "Karangpenang Onjur",
+      "kode_wilayah": "35.27.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.27",
+      "kode_kecamatan": "35.27.14"
+    },
+    {
+      "nama_wilayah": "Gunung Kesan",
+      "kode_wilayah": "35.27.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.27",
+      "kode_kecamatan": "35.27.14"
+    }
+  ]
+}

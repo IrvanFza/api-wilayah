@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kutapohaci",
+      "kode_wilayah": "32.15.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.04"
+    },
+    {
+      "nama_wilayah": "Parungmulya",
+      "kode_wilayah": "32.15.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.04"
+    },
+    {
+      "nama_wilayah": "Kutamekar",
+      "kode_wilayah": "32.15.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.04"
+    },
+    {
+      "nama_wilayah": "Kutanegara",
+      "kode_wilayah": "32.15.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.04"
+    },
+    {
+      "nama_wilayah": "Mulyasari",
+      "kode_wilayah": "32.15.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.04"
+    },
+    {
+      "nama_wilayah": "Mulyasejati",
+      "kode_wilayah": "32.15.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.04"
+    },
+    {
+      "nama_wilayah": "Tegallega",
+      "kode_wilayah": "32.15.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.04"
+    }
+  ]
+}

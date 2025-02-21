@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kumu",
+      "kode_wilayah": "71.02.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.15"
+    },
+    {
+      "nama_wilayah": "Teling",
+      "kode_wilayah": "71.02.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.15"
+    },
+    {
+      "nama_wilayah": "Poopoh",
+      "kode_wilayah": "71.02.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.15"
+    },
+    {
+      "nama_wilayah": "Ranowangko",
+      "kode_wilayah": "71.02.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.15"
+    },
+    {
+      "nama_wilayah": "Senduk",
+      "kode_wilayah": "71.02.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.15"
+    },
+    {
+      "nama_wilayah": "Pinasungkulan",
+      "kode_wilayah": "71.02.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.15"
+    },
+    {
+      "nama_wilayah": "Mokupa",
+      "kode_wilayah": "71.02.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.15"
+    },
+    {
+      "nama_wilayah": "Sarani Matani",
+      "kode_wilayah": "71.02.15.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.15"
+    },
+    {
+      "nama_wilayah": "Borgo",
+      "kode_wilayah": "71.02.15.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.15"
+    },
+    {
+      "nama_wilayah": "Tambala",
+      "kode_wilayah": "71.02.15.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.15"
+    }
+  ]
+}

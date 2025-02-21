@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Cimahi Selatan",
+      "kode_wilayah": "32.77.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.77",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cimahi Tengah",
+      "kode_wilayah": "32.77.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.77",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cimahi Utara",
+      "kode_wilayah": "32.77.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.77",
+      "kode_provinsi": "32"
+    }
+  ]
+}

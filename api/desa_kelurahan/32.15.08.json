@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Batujaya",
+      "kode_wilayah": "32.15.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.08"
+    },
+    {
+      "nama_wilayah": "Telukambulu",
+      "kode_wilayah": "32.15.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.08"
+    },
+    {
+      "nama_wilayah": "Telukbango",
+      "kode_wilayah": "32.15.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.08"
+    },
+    {
+      "nama_wilayah": "Karyabhakti",
+      "kode_wilayah": "32.15.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.08"
+    },
+    {
+      "nama_wilayah": "Baturaden",
+      "kode_wilayah": "32.15.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.08"
+    },
+    {
+      "nama_wilayah": "Segaran",
+      "kode_wilayah": "32.15.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.08"
+    },
+    {
+      "nama_wilayah": "Segarjaya",
+      "kode_wilayah": "32.15.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.08"
+    },
+    {
+      "nama_wilayah": "Kutaampel",
+      "kode_wilayah": "32.15.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.08"
+    },
+    {
+      "nama_wilayah": "Karyamulya",
+      "kode_wilayah": "32.15.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.08"
+    },
+    {
+      "nama_wilayah": "Karyamakmur",
+      "kode_wilayah": "32.15.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.08"
+    }
+  ]
+}

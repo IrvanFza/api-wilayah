@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sario Utara",
+      "kode_wilayah": "71.71.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.06"
+    },
+    {
+      "nama_wilayah": "Sario Kotabaru",
+      "kode_wilayah": "71.71.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.06"
+    },
+    {
+      "nama_wilayah": "Sario Tumpaan",
+      "kode_wilayah": "71.71.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.06"
+    },
+    {
+      "nama_wilayah": "Sario",
+      "kode_wilayah": "71.71.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.06"
+    },
+    {
+      "nama_wilayah": "Titiwungan Utara",
+      "kode_wilayah": "71.71.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.06"
+    },
+    {
+      "nama_wilayah": "Titiwungan Selatan",
+      "kode_wilayah": "71.71.06.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.06"
+    },
+    {
+      "nama_wilayah": "Ranotana",
+      "kode_wilayah": "71.71.06.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.06"
+    }
+  ]
+}

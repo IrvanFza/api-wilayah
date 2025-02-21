@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Bontang Kuala",
+      "kode_wilayah": "64.74.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.74",
+      "kode_kecamatan": "64.74.01"
+    },
+    {
+      "nama_wilayah": "Bontang Baru",
+      "kode_wilayah": "64.74.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.74",
+      "kode_kecamatan": "64.74.01"
+    },
+    {
+      "nama_wilayah": "Lok Tuan",
+      "kode_wilayah": "64.74.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.74",
+      "kode_kecamatan": "64.74.01"
+    },
+    {
+      "nama_wilayah": "Guntung",
+      "kode_wilayah": "64.74.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.74",
+      "kode_kecamatan": "64.74.01"
+    },
+    {
+      "nama_wilayah": "Gunung Elai",
+      "kode_wilayah": "64.74.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.74",
+      "kode_kecamatan": "64.74.01"
+    },
+    {
+      "nama_wilayah": "Api-api",
+      "kode_wilayah": "64.74.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.74",
+      "kode_kecamatan": "64.74.01"
+    }
+  ]
+}

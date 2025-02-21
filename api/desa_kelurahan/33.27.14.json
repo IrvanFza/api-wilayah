@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Pakembaran",
+      "kode_wilayah": "33.27.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.27",
+      "kode_kecamatan": "33.27.14"
+    },
+    {
+      "nama_wilayah": "Warungpring",
+      "kode_wilayah": "33.27.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.27",
+      "kode_kecamatan": "33.27.14"
+    },
+    {
+      "nama_wilayah": "Karangdawa",
+      "kode_wilayah": "33.27.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.27",
+      "kode_kecamatan": "33.27.14"
+    },
+    {
+      "nama_wilayah": "Datar",
+      "kode_wilayah": "33.27.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.27",
+      "kode_kecamatan": "33.27.14"
+    },
+    {
+      "nama_wilayah": "Cibuyur",
+      "kode_wilayah": "33.27.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.27",
+      "kode_kecamatan": "33.27.14"
+    },
+    {
+      "nama_wilayah": "Mereng",
+      "kode_wilayah": "33.27.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.27",
+      "kode_kecamatan": "33.27.14"
+    }
+  ]
+}

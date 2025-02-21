@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Parado Wane",
+      "kode_wilayah": "52.06.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.06",
+      "kode_kecamatan": "52.06.16"
+    },
+    {
+      "nama_wilayah": "Parado Rato",
+      "kode_wilayah": "52.06.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.06",
+      "kode_kecamatan": "52.06.16"
+    },
+    {
+      "nama_wilayah": "Kuta",
+      "kode_wilayah": "52.06.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.06",
+      "kode_kecamatan": "52.06.16"
+    },
+    {
+      "nama_wilayah": "Kanca",
+      "kode_wilayah": "52.06.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.06",
+      "kode_kecamatan": "52.06.16"
+    },
+    {
+      "nama_wilayah": "Lere",
+      "kode_wilayah": "52.06.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.06",
+      "kode_kecamatan": "52.06.16"
+    }
+  ]
+}

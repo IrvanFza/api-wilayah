@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Elelim",
+      "kode_wilayah": "95.06.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "95.06",
+      "kode_provinsi": "95"
+    },
+    {
+      "nama_wilayah": "Apalapsili",
+      "kode_wilayah": "95.06.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "95.06",
+      "kode_provinsi": "95"
+    },
+    {
+      "nama_wilayah": "Abenaho",
+      "kode_wilayah": "95.06.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "95.06",
+      "kode_provinsi": "95"
+    },
+    {
+      "nama_wilayah": "Benawa",
+      "kode_wilayah": "95.06.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "95.06",
+      "kode_provinsi": "95"
+    },
+    {
+      "nama_wilayah": "Welarek",
+      "kode_wilayah": "95.06.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "95.06",
+      "kode_provinsi": "95"
+    }
+  ]
+}

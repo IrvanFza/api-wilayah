@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Tambang Emas",
+      "kode_wilayah": "15.02.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.20"
+    },
+    {
+      "nama_wilayah": "Tanjung Benuang",
+      "kode_wilayah": "15.02.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.20"
+    },
+    {
+      "nama_wilayah": "Pulau Bayur",
+      "kode_wilayah": "15.02.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.20"
+    },
+    {
+      "nama_wilayah": "Selango",
+      "kode_wilayah": "15.02.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.20"
+    }
+  ]
+}

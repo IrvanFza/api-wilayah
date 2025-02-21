@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Helvetia",
+      "kode_wilayah": "12.71.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.03"
+    },
+    {
+      "nama_wilayah": "Helvetia Tengah",
+      "kode_wilayah": "12.71.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.03"
+    },
+    {
+      "nama_wilayah": "Helvetia Timur",
+      "kode_wilayah": "12.71.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.03"
+    },
+    {
+      "nama_wilayah": "Tanjung Gusta",
+      "kode_wilayah": "12.71.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.03"
+    },
+    {
+      "nama_wilayah": "Cinta Damai",
+      "kode_wilayah": "12.71.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.03"
+    },
+    {
+      "nama_wilayah": "Dwi Kora",
+      "kode_wilayah": "12.71.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.03"
+    },
+    {
+      "nama_wilayah": "Sei Sikambing C II",
+      "kode_wilayah": "12.71.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.03"
+    }
+  ]
+}

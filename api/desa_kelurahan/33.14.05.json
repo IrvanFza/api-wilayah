@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Sukorejo",
+      "kode_wilayah": "33.14.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.05"
+    },
+    {
+      "nama_wilayah": "Jambeyan",
+      "kode_wilayah": "33.14.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.05"
+    },
+    {
+      "nama_wilayah": "Jetis",
+      "kode_wilayah": "33.14.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.05"
+    },
+    {
+      "nama_wilayah": "Musuk",
+      "kode_wilayah": "33.14.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.05"
+    },
+    {
+      "nama_wilayah": "Kadipiro",
+      "kode_wilayah": "33.14.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.05"
+    },
+    {
+      "nama_wilayah": "Sambirejo",
+      "kode_wilayah": "33.14.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.05"
+    },
+    {
+      "nama_wilayah": "Blimbing",
+      "kode_wilayah": "33.14.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.05"
+    },
+    {
+      "nama_wilayah": "Dawung",
+      "kode_wilayah": "33.14.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.05"
+    },
+    {
+      "nama_wilayah": "Sambi",
+      "kode_wilayah": "33.14.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.05"
+    }
+  ]
+}

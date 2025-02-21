@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Patai",
+      "kode_wilayah": "13.04.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.07"
+    },
+    {
+      "nama_wilayah": "Andaleh Baruh Bukik",
+      "kode_wilayah": "13.04.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.07"
+    },
+    {
+      "nama_wilayah": "Tanjung",
+      "kode_wilayah": "13.04.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.07"
+    },
+    {
+      "nama_wilayah": "Sungayang",
+      "kode_wilayah": "13.04.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.07"
+    },
+    {
+      "nama_wilayah": "Minang Kabau",
+      "kode_wilayah": "13.04.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.07"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Wamega",
+      "kode_wilayah": "96.03.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.04"
+    },
+    {
+      "nama_wilayah": "Jefman Barat",
+      "kode_wilayah": "96.03.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.04"
+    },
+    {
+      "nama_wilayah": "Waidim",
+      "kode_wilayah": "96.03.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.04"
+    },
+    {
+      "nama_wilayah": "Samate",
+      "kode_wilayah": "96.03.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.04"
+    },
+    {
+      "nama_wilayah": "Jefman Timur",
+      "kode_wilayah": "96.03.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.04"
+    },
+    {
+      "nama_wilayah": "Kapatlap",
+      "kode_wilayah": "96.03.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.04"
+    }
+  ]
+}

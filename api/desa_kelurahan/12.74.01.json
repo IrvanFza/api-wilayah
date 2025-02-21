@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tanjungbalai Kota I",
+      "kode_wilayah": "12.74.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.01"
+    },
+    {
+      "nama_wilayah": "Tanjungbalai Kota II",
+      "kode_wilayah": "12.74.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.01"
+    },
+    {
+      "nama_wilayah": "Perwira",
+      "kode_wilayah": "12.74.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.01"
+    },
+    {
+      "nama_wilayah": "Karya",
+      "kode_wilayah": "12.74.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.01"
+    },
+    {
+      "nama_wilayah": "Pantai Burung",
+      "kode_wilayah": "12.74.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.01"
+    },
+    {
+      "nama_wilayah": "Indra Sakti",
+      "kode_wilayah": "12.74.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.01"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Janah Jari",
+      "kode_wilayah": "62.13.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.04"
+    },
+    {
+      "nama_wilayah": "Bangkirayen",
+      "kode_wilayah": "62.13.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.04"
+    },
+    {
+      "nama_wilayah": "Hayaping",
+      "kode_wilayah": "62.13.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.04"
+    },
+    {
+      "nama_wilayah": "Tangkan",
+      "kode_wilayah": "62.13.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.04"
+    },
+    {
+      "nama_wilayah": "Wungkur Nanakan",
+      "kode_wilayah": "62.13.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.04"
+    },
+    {
+      "nama_wilayah": "Ampari",
+      "kode_wilayah": "62.13.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.04"
+    },
+    {
+      "nama_wilayah": "Apar Batu",
+      "kode_wilayah": "62.13.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.04"
+    },
+    {
+      "nama_wilayah": "Biwan",
+      "kode_wilayah": "62.13.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.04"
+    },
+    {
+      "nama_wilayah": "Janah Mansiwui",
+      "kode_wilayah": "62.13.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.04"
+    },
+    {
+      "nama_wilayah": "Danau",
+      "kode_wilayah": "62.13.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.04"
+    },
+    {
+      "nama_wilayah": "Pianggu",
+      "kode_wilayah": "62.13.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.04"
+    }
+  ]
+}

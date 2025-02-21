@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tulungrejo",
+      "kode_wilayah": "35.07.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.01"
+    },
+    {
+      "nama_wilayah": "Banjarejo",
+      "kode_wilayah": "35.07.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.01"
+    },
+    {
+      "nama_wilayah": "Kedungsalam",
+      "kode_wilayah": "35.07.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.01"
+    },
+    {
+      "nama_wilayah": "Tlogosari",
+      "kode_wilayah": "35.07.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.01"
+    },
+    {
+      "nama_wilayah": "Tempursari",
+      "kode_wilayah": "35.07.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.01"
+    },
+    {
+      "nama_wilayah": "Donomulyo",
+      "kode_wilayah": "35.07.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.01"
+    },
+    {
+      "nama_wilayah": "Purworejo",
+      "kode_wilayah": "35.07.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.01"
+    },
+    {
+      "nama_wilayah": "Sumberoto",
+      "kode_wilayah": "35.07.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.01"
+    },
+    {
+      "nama_wilayah": "Mentaraman",
+      "kode_wilayah": "35.07.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.01"
+    },
+    {
+      "nama_wilayah": "Purwodadi",
+      "kode_wilayah": "35.07.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.01"
+    }
+  ]
+}

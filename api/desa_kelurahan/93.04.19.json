@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Biwar Laut",
+      "kode_wilayah": "93.04.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.19"
+    },
+    {
+      "nama_wilayah": "Atambuts",
+      "kode_wilayah": "93.04.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.19"
+    },
+    {
+      "nama_wilayah": "Omanesep",
+      "kode_wilayah": "93.04.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.19"
+    },
+    {
+      "nama_wilayah": "Warkai",
+      "kode_wilayah": "93.04.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.19"
+    },
+    {
+      "nama_wilayah": "You",
+      "kode_wilayah": "93.04.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.19"
+    },
+    {
+      "nama_wilayah": "Pirpis",
+      "kode_wilayah": "93.04.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.19"
+    },
+    {
+      "nama_wilayah": "Desep",
+      "kode_wilayah": "93.04.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.19"
+    }
+  ]
+}

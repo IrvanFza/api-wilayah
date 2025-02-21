@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Miosmanggara",
+      "kode_wilayah": "96.03.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.14"
+    },
+    {
+      "nama_wilayah": "Gag",
+      "kode_wilayah": "96.03.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.14"
+    },
+    {
+      "nama_wilayah": "Pam",
+      "kode_wilayah": "96.03.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.14"
+    },
+    {
+      "nama_wilayah": "Saukabu",
+      "kode_wilayah": "96.03.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.14"
+    },
+    {
+      "nama_wilayah": "Saupapir",
+      "kode_wilayah": "96.03.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.14"
+    },
+    {
+      "nama_wilayah": "Manyaifun",
+      "kode_wilayah": "96.03.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.14"
+    }
+  ]
+}

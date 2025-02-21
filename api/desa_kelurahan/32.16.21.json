@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sukaragam",
+      "kode_wilayah": "32.16.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.21"
+    },
+    {
+      "nama_wilayah": "Sirnajaya",
+      "kode_wilayah": "32.16.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.21"
+    },
+    {
+      "nama_wilayah": "Sukasari",
+      "kode_wilayah": "32.16.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.21"
+    },
+    {
+      "nama_wilayah": "Jayamulya",
+      "kode_wilayah": "32.16.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.21"
+    },
+    {
+      "nama_wilayah": "Nagacipta",
+      "kode_wilayah": "32.16.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.21"
+    },
+    {
+      "nama_wilayah": "Nagasari",
+      "kode_wilayah": "32.16.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.21"
+    },
+    {
+      "nama_wilayah": "Cilangkara",
+      "kode_wilayah": "32.16.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.21"
+    },
+    {
+      "nama_wilayah": "Jayasampurna",
+      "kode_wilayah": "32.16.21.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.21"
+    }
+  ]
+}

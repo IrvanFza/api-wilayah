@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Megambilis",
+      "kode_wilayah": "95.05.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.05",
+      "kode_kecamatan": "95.05.04"
+    },
+    {
+      "nama_wilayah": "Tariko",
+      "kode_wilayah": "95.05.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.05",
+      "kode_kecamatan": "95.05.04"
+    },
+    {
+      "nama_wilayah": "Homasan",
+      "kode_wilayah": "95.05.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.05",
+      "kode_kecamatan": "95.05.04"
+    },
+    {
+      "nama_wilayah": "Higisyam",
+      "kode_wilayah": "95.05.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.05",
+      "kode_kecamatan": "95.05.04"
+    }
+  ]
+}

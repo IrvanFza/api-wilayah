@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bojongkapol",
+      "kode_wilayah": "32.06.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.11"
+    },
+    {
+      "nama_wilayah": "Pedangkamulyan",
+      "kode_wilayah": "32.06.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.11"
+    },
+    {
+      "nama_wilayah": "Bojonggambir",
+      "kode_wilayah": "32.06.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.11"
+    },
+    {
+      "nama_wilayah": "Ciroyom",
+      "kode_wilayah": "32.06.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.11"
+    },
+    {
+      "nama_wilayah": "Wandasari",
+      "kode_wilayah": "32.06.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.11"
+    },
+    {
+      "nama_wilayah": "Campakasari",
+      "kode_wilayah": "32.06.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.11"
+    },
+    {
+      "nama_wilayah": "Mangkonjaya",
+      "kode_wilayah": "32.06.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.11"
+    },
+    {
+      "nama_wilayah": "Kertanegla",
+      "kode_wilayah": "32.06.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.11"
+    },
+    {
+      "nama_wilayah": "Purwaraharja",
+      "kode_wilayah": "32.06.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.11"
+    },
+    {
+      "nama_wilayah": "Girimukti",
+      "kode_wilayah": "32.06.11.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.11"
+    }
+  ]
+}

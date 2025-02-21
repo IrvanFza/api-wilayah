@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Bareng",
+      "kode_wilayah": "35.02.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.21"
+    },
+    {
+      "nama_wilayah": "Tambang",
+      "kode_wilayah": "35.02.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.21"
+    },
+    {
+      "nama_wilayah": "Krisik",
+      "kode_wilayah": "35.02.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.21"
+    },
+    {
+      "nama_wilayah": "Pudak Wetan",
+      "kode_wilayah": "35.02.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.21"
+    },
+    {
+      "nama_wilayah": "Banjarejo",
+      "kode_wilayah": "35.02.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.21"
+    },
+    {
+      "nama_wilayah": "Pudak Kulon",
+      "kode_wilayah": "35.02.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.21"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Senambah",
+      "kode_wilayah": "64.08.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.03"
+    },
+    {
+      "nama_wilayah": "Ngayau",
+      "kode_wilayah": "64.08.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.03"
+    },
+    {
+      "nama_wilayah": "Muara Bengkal Ilir",
+      "kode_wilayah": "64.08.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.03"
+    },
+    {
+      "nama_wilayah": "Muara Bengkal Ulu",
+      "kode_wilayah": "64.08.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.03"
+    },
+    {
+      "nama_wilayah": "Benua Baru",
+      "kode_wilayah": "64.08.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.03"
+    },
+    {
+      "nama_wilayah": "Mulupan",
+      "kode_wilayah": "64.08.03.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.03"
+    },
+    {
+      "nama_wilayah": "Batu Balai",
+      "kode_wilayah": "64.08.03.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.03"
+    }
+  ]
+}

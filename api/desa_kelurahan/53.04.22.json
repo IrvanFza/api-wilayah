@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Manuaman",
+      "kode_wilayah": "53.04.22.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.22"
+    },
+    {
+      "nama_wilayah": "Rinbesi",
+      "kode_wilayah": "53.04.22.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.22"
+    },
+    {
+      "nama_wilayah": "Lidak",
+      "kode_wilayah": "53.04.22.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.22"
+    },
+    {
+      "nama_wilayah": "Fatukbot",
+      "kode_wilayah": "53.04.22.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.22"
+    }
+  ]
+}

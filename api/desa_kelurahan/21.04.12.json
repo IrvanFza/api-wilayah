@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Temiang",
+      "kode_wilayah": "21.04.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.12"
+    },
+    {
+      "nama_wilayah": "Tajur Biru",
+      "kode_wilayah": "21.04.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.12"
+    },
+    {
+      "nama_wilayah": "Pulau Batang",
+      "kode_wilayah": "21.04.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.12"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Wangurer Barat",
+      "kode_wilayah": "71.72.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.02"
+    },
+    {
+      "nama_wilayah": "Paceda",
+      "kode_wilayah": "71.72.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.02"
+    },
+    {
+      "nama_wilayah": "Madidir Ure",
+      "kode_wilayah": "71.72.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.02"
+    },
+    {
+      "nama_wilayah": "Kadoodan",
+      "kode_wilayah": "71.72.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.02"
+    },
+    {
+      "nama_wilayah": "Madidir Weru",
+      "kode_wilayah": "71.72.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.02"
+    },
+    {
+      "nama_wilayah": "Madidir Unet",
+      "kode_wilayah": "71.72.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.02"
+    },
+    {
+      "nama_wilayah": "Wangurer timur",
+      "kode_wilayah": "71.72.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.02"
+    },
+    {
+      "nama_wilayah": "Wangurer Utara",
+      "kode_wilayah": "71.72.02.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.02"
+    }
+  ]
+}

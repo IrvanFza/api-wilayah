@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Geneng",
+      "kode_wilayah": "33.14.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.14"
+    },
+    {
+      "nama_wilayah": "Jeruk",
+      "kode_wilayah": "33.14.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.14"
+    },
+    {
+      "nama_wilayah": "Sunggingan",
+      "kode_wilayah": "33.14.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.14"
+    },
+    {
+      "nama_wilayah": "Girimargo",
+      "kode_wilayah": "33.14.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.14"
+    },
+    {
+      "nama_wilayah": "Doyong",
+      "kode_wilayah": "33.14.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.14"
+    },
+    {
+      "nama_wilayah": "Soko",
+      "kode_wilayah": "33.14.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.14"
+    },
+    {
+      "nama_wilayah": "Brojol",
+      "kode_wilayah": "33.14.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.14"
+    },
+    {
+      "nama_wilayah": "Bagor",
+      "kode_wilayah": "33.14.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.14"
+    },
+    {
+      "nama_wilayah": "Gilirejo",
+      "kode_wilayah": "33.14.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.14"
+    },
+    {
+      "nama_wilayah": "Gilirejo Baru",
+      "kode_wilayah": "33.14.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.14",
+      "kode_kecamatan": "33.14.14"
+    }
+  ]
+}

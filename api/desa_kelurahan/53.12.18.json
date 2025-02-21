@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Wee Tana",
+      "kode_wilayah": "53.12.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.12",
+      "kode_kecamatan": "53.12.18"
+    },
+    {
+      "nama_wilayah": "Gaura",
+      "kode_wilayah": "53.12.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.12",
+      "kode_kecamatan": "53.12.18"
+    },
+    {
+      "nama_wilayah": "Patiala Dete",
+      "kode_wilayah": "53.12.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.12",
+      "kode_kecamatan": "53.12.18"
+    },
+    {
+      "nama_wilayah": "Harona Kalla",
+      "kode_wilayah": "53.12.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.12",
+      "kode_kecamatan": "53.12.18"
+    }
+  ]
+}

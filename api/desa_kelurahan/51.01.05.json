@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pendem",
+      "kode_wilayah": "51.01.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.05"
+    },
+    {
+      "nama_wilayah": "Loloan Timur",
+      "kode_wilayah": "51.01.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.05"
+    },
+    {
+      "nama_wilayah": "Dauhwaru",
+      "kode_wilayah": "51.01.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.05"
+    },
+    {
+      "nama_wilayah": "Sangkaragung",
+      "kode_wilayah": "51.01.05.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.05"
+    },
+    {
+      "nama_wilayah": "Perancak",
+      "kode_wilayah": "51.01.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.05"
+    },
+    {
+      "nama_wilayah": "Batu Agung",
+      "kode_wilayah": "51.01.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.05"
+    },
+    {
+      "nama_wilayah": "Budeng",
+      "kode_wilayah": "51.01.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.05"
+    },
+    {
+      "nama_wilayah": "Air Kuning",
+      "kode_wilayah": "51.01.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.05"
+    },
+    {
+      "nama_wilayah": "Yehkuning",
+      "kode_wilayah": "51.01.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.05"
+    },
+    {
+      "nama_wilayah": "Dangintukadaya",
+      "kode_wilayah": "51.01.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.05"
+    }
+  ]
+}

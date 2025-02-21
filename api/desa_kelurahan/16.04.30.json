@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Jadian Baru",
+      "kode_wilayah": "16.04.30.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.30"
+    },
+    {
+      "nama_wilayah": "Jadian Lama",
+      "kode_wilayah": "16.04.30.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.30"
+    },
+    {
+      "nama_wilayah": "Talang Berangin",
+      "kode_wilayah": "16.04.30.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.30"
+    },
+    {
+      "nama_wilayah": "Padang Bindu",
+      "kode_wilayah": "16.04.30.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.30"
+    },
+    {
+      "nama_wilayah": "Keban Agung",
+      "kode_wilayah": "16.04.30.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.30"
+    },
+    {
+      "nama_wilayah": "Danau Belidang",
+      "kode_wilayah": "16.04.30.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.30"
+    },
+    {
+      "nama_wilayah": "Talang Padang",
+      "kode_wilayah": "16.04.30.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.30"
+    },
+    {
+      "nama_wilayah": "Lubuk Dendan",
+      "kode_wilayah": "16.04.30.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.30"
+    },
+    {
+      "nama_wilayah": "Penandingan",
+      "kode_wilayah": "16.04.30.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.30"
+    },
+    {
+      "nama_wilayah": "Durian Dangkal",
+      "kode_wilayah": "16.04.30.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.30"
+    }
+  ]
+}

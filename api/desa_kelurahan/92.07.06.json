@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Yombekiri I",
+      "kode_wilayah": "92.07.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.06"
+    },
+    {
+      "nama_wilayah": "Isenebuay",
+      "kode_wilayah": "92.07.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.06"
+    },
+    {
+      "nama_wilayah": "Yomakan",
+      "kode_wilayah": "92.07.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.06"
+    },
+    {
+      "nama_wilayah": "Iseren",
+      "kode_wilayah": "92.07.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.06"
+    },
+    {
+      "nama_wilayah": "Yembekiri II",
+      "kode_wilayah": "92.07.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.06"
+    },
+    {
+      "nama_wilayah": "Yariari",
+      "kode_wilayah": "92.07.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.06"
+    },
+    {
+      "nama_wilayah": "Wetitindau",
+      "kode_wilayah": "92.07.06.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.06"
+    }
+  ]
+}

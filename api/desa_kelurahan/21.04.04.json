@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Raya",
+      "kode_wilayah": "21.04.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.04"
+    },
+    {
+      "nama_wilayah": "Bakong",
+      "kode_wilayah": "21.04.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.04"
+    },
+    {
+      "nama_wilayah": "Kuala Raya",
+      "kode_wilayah": "21.04.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.04"
+    },
+    {
+      "nama_wilayah": "Marok Tua",
+      "kode_wilayah": "21.04.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.04"
+    },
+    {
+      "nama_wilayah": "Sungai Buluh",
+      "kode_wilayah": "21.04.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.04"
+    },
+    {
+      "nama_wilayah": "Sungai Raya",
+      "kode_wilayah": "21.04.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.04"
+    },
+    {
+      "nama_wilayah": "Sungai Harapan",
+      "kode_wilayah": "21.04.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.04"
+    },
+    {
+      "nama_wilayah": "Jagoh",
+      "kode_wilayah": "21.04.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.04"
+    },
+    {
+      "nama_wilayah": "Tinjul",
+      "kode_wilayah": "21.04.04.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.04"
+    },
+    {
+      "nama_wilayah": "Langkap",
+      "kode_wilayah": "21.04.04.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.04"
+    },
+    {
+      "nama_wilayah": "Tanjung Irat",
+      "kode_wilayah": "21.04.04.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.04"
+    },
+    {
+      "nama_wilayah": "Bukit Belah",
+      "kode_wilayah": "21.04.04.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.04"
+    }
+  ]
+}

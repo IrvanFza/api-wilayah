@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Belimbing Raya",
+      "kode_wilayah": "63.09.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.06"
+    },
+    {
+      "nama_wilayah": "Belimbing",
+      "kode_wilayah": "63.09.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.06"
+    },
+    {
+      "nama_wilayah": "Sulingan",
+      "kode_wilayah": "63.09.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.06"
+    },
+    {
+      "nama_wilayah": "Mabu-un",
+      "kode_wilayah": "63.09.06.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.06"
+    },
+    {
+      "nama_wilayah": "Pembataan",
+      "kode_wilayah": "63.09.06.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.06"
+    },
+    {
+      "nama_wilayah": "Maburai",
+      "kode_wilayah": "63.09.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.06"
+    },
+    {
+      "nama_wilayah": "Kasiau",
+      "kode_wilayah": "63.09.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.06"
+    },
+    {
+      "nama_wilayah": "Kapar",
+      "kode_wilayah": "63.09.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.06"
+    },
+    {
+      "nama_wilayah": "Masukau",
+      "kode_wilayah": "63.09.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.06"
+    },
+    {
+      "nama_wilayah": "Kasiau Raya",
+      "kode_wilayah": "63.09.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.06"
+    }
+  ]
+}

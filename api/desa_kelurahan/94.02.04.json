@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Mewoluk",
+      "kode_wilayah": "94.02.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.04"
+    },
+    {
+      "nama_wilayah": "Gumbru",
+      "kode_wilayah": "94.02.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.04"
+    },
+    {
+      "nama_wilayah": "Anggulobaga",
+      "kode_wilayah": "94.02.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.04"
+    },
+    {
+      "nama_wilayah": "Balinggup",
+      "kode_wilayah": "94.02.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.04"
+    },
+    {
+      "nama_wilayah": "Waliba",
+      "kode_wilayah": "94.02.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.04"
+    },
+    {
+      "nama_wilayah": "Nggininik",
+      "kode_wilayah": "94.02.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.04"
+    },
+    {
+      "nama_wilayah": "Biak",
+      "kode_wilayah": "94.02.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.04"
+    },
+    {
+      "nama_wilayah": "Wutikme",
+      "kode_wilayah": "94.02.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.04"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Nusliko",
+      "kode_wilayah": "82.02.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.01"
+    },
+    {
+      "nama_wilayah": "Were",
+      "kode_wilayah": "82.02.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.01"
+    },
+    {
+      "nama_wilayah": "Fidy Jaya",
+      "kode_wilayah": "82.02.01.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.01"
+    },
+    {
+      "nama_wilayah": "Sidanga",
+      "kode_wilayah": "82.02.01.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.01"
+    },
+    {
+      "nama_wilayah": "Nurweda",
+      "kode_wilayah": "82.02.01.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.01"
+    },
+    {
+      "nama_wilayah": "Wedana",
+      "kode_wilayah": "82.02.01.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.01"
+    },
+    {
+      "nama_wilayah": "Goeng",
+      "kode_wilayah": "82.02.01.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.01"
+    }
+  ]
+}

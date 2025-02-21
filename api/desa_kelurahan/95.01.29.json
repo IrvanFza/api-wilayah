@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tagineri",
+      "kode_wilayah": "95.01.29.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.29"
+    },
+    {
+      "nama_wilayah": "Injuta",
+      "kode_wilayah": "95.01.29.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.29"
+    },
+    {
+      "nama_wilayah": "Binibaga",
+      "kode_wilayah": "95.01.29.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.29"
+    },
+    {
+      "nama_wilayah": "Tamokilu",
+      "kode_wilayah": "95.01.29.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.29"
+    },
+    {
+      "nama_wilayah": "Pagaluk",
+      "kode_wilayah": "95.01.29.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.29"
+    },
+    {
+      "nama_wilayah": "Gelelame",
+      "kode_wilayah": "95.01.29.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.29"
+    },
+    {
+      "nama_wilayah": "Wilaloma",
+      "kode_wilayah": "95.01.29.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.29"
+    },
+    {
+      "nama_wilayah": "Melemei",
+      "kode_wilayah": "95.01.29.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.29"
+    },
+    {
+      "nama_wilayah": "Wuragukme",
+      "kode_wilayah": "95.01.29.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.29"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tegalsembadra",
+      "kode_wilayah": "32.12.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.14"
+    },
+    {
+      "nama_wilayah": "Sukareja",
+      "kode_wilayah": "32.12.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.14"
+    },
+    {
+      "nama_wilayah": "Sukaurip",
+      "kode_wilayah": "32.12.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.14"
+    },
+    {
+      "nama_wilayah": "Rawadalem",
+      "kode_wilayah": "32.12.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.14"
+    },
+    {
+      "nama_wilayah": "Gelarmendala",
+      "kode_wilayah": "32.12.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.14"
+    },
+    {
+      "nama_wilayah": "Tegalurung",
+      "kode_wilayah": "32.12.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.14"
+    },
+    {
+      "nama_wilayah": "Balongan",
+      "kode_wilayah": "32.12.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.14"
+    },
+    {
+      "nama_wilayah": "Majakerta",
+      "kode_wilayah": "32.12.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.14"
+    },
+    {
+      "nama_wilayah": "Sudimampir",
+      "kode_wilayah": "32.12.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.14"
+    },
+    {
+      "nama_wilayah": "Sudimampir Lor",
+      "kode_wilayah": "32.12.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.14"
+    }
+  ]
+}

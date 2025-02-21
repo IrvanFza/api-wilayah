@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Asano",
+      "kode_wilayah": "91.71.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.03"
+    },
+    {
+      "nama_wilayah": "Awiyo",
+      "kode_wilayah": "91.71.03.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.03"
+    },
+    {
+      "nama_wilayah": "Yobe",
+      "kode_wilayah": "91.71.03.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.03"
+    },
+    {
+      "nama_wilayah": "Abepantai",
+      "kode_wilayah": "91.71.03.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.03"
+    },
+    {
+      "nama_wilayah": "Kota Baru",
+      "kode_wilayah": "91.71.03.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.03"
+    },
+    {
+      "nama_wilayah": "Vim",
+      "kode_wilayah": "91.71.03.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.03"
+    },
+    {
+      "nama_wilayah": "Wahno",
+      "kode_wilayah": "91.71.03.1015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.03"
+    },
+    {
+      "nama_wilayah": "Way Mhorock",
+      "kode_wilayah": "91.71.03.1016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.03"
+    },
+    {
+      "nama_wilayah": "Nafri",
+      "kode_wilayah": "91.71.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.03"
+    },
+    {
+      "nama_wilayah": "Enggros",
+      "kode_wilayah": "91.71.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.03"
+    },
+    {
+      "nama_wilayah": "Koya Koso",
+      "kode_wilayah": "91.71.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.03"
+    }
+  ]
+}

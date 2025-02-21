@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Gemam",
+      "kode_wilayah": "95.08.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.14"
+    },
+    {
+      "nama_wilayah": "Puruwa",
+      "kode_wilayah": "95.08.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.14"
+    },
+    {
+      "nama_wilayah": "Yutpul",
+      "kode_wilayah": "95.08.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.14"
+    },
+    {
+      "nama_wilayah": "Kilmid",
+      "kode_wilayah": "95.08.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.14"
+    }
+  ]
+}

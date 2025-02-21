@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Pemping",
+      "kode_wilayah": "21.71.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.01"
+    },
+    {
+      "nama_wilayah": "Kasu",
+      "kode_wilayah": "21.71.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.01"
+    },
+    {
+      "nama_wilayah": "Pulau Terung",
+      "kode_wilayah": "21.71.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.01"
+    },
+    {
+      "nama_wilayah": "Pecong",
+      "kode_wilayah": "21.71.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.01"
+    },
+    {
+      "nama_wilayah": "Tanjung Sari",
+      "kode_wilayah": "21.71.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.01"
+    },
+    {
+      "nama_wilayah": "Sekanak Raya",
+      "kode_wilayah": "21.71.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.01"
+    }
+  ]
+}

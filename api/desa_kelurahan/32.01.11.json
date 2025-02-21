@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Cidokom",
+      "kode_wilayah": "32.01.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.11"
+    },
+    {
+      "nama_wilayah": "Padurenan",
+      "kode_wilayah": "32.01.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.11"
+    },
+    {
+      "nama_wilayah": "Pengasinan",
+      "kode_wilayah": "32.01.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.11"
+    },
+    {
+      "nama_wilayah": "Curug",
+      "kode_wilayah": "32.01.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.11"
+    },
+    {
+      "nama_wilayah": "Gunungsindur",
+      "kode_wilayah": "32.01.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.11"
+    },
+    {
+      "nama_wilayah": "Jampang",
+      "kode_wilayah": "32.01.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.11"
+    },
+    {
+      "nama_wilayah": "Cibadung",
+      "kode_wilayah": "32.01.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.11"
+    },
+    {
+      "nama_wilayah": "Cibinong",
+      "kode_wilayah": "32.01.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.11"
+    },
+    {
+      "nama_wilayah": "Rawakalong",
+      "kode_wilayah": "32.01.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.11"
+    },
+    {
+      "nama_wilayah": "Pabuaran",
+      "kode_wilayah": "32.01.11.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.11"
+    }
+  ]
+}

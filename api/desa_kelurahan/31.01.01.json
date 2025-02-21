@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Pulau Panggang",
+      "kode_wilayah": "31.01.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.01",
+      "kode_kecamatan": "31.01.01"
+    },
+    {
+      "nama_wilayah": "Pulau Kelapa",
+      "kode_wilayah": "31.01.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.01",
+      "kode_kecamatan": "31.01.01"
+    },
+    {
+      "nama_wilayah": "Pulau Harapan",
+      "kode_wilayah": "31.01.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.01",
+      "kode_kecamatan": "31.01.01"
+    }
+  ]
+}

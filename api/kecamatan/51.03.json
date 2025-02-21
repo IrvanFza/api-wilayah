@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kuta",
+      "kode_wilayah": "51.03.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.03",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Mengwi",
+      "kode_wilayah": "51.03.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.03",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Abiansemal",
+      "kode_wilayah": "51.03.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.03",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Petang",
+      "kode_wilayah": "51.03.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.03",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Kuta Selatan",
+      "kode_wilayah": "51.03.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.03",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Kuta Utara",
+      "kode_wilayah": "51.03.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.03",
+      "kode_provinsi": "51"
+    }
+  ]
+}

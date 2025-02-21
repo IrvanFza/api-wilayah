@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Pancang",
+      "kode_wilayah": "65.03.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.11"
+    },
+    {
+      "nama_wilayah": "Lapri",
+      "kode_wilayah": "65.03.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.11"
+    },
+    {
+      "nama_wilayah": "Seberang",
+      "kode_wilayah": "65.03.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.11"
+    }
+  ]
+}

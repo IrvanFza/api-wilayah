@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Takisung",
+      "kode_wilayah": "63.01.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.01",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Jorong",
+      "kode_wilayah": "63.01.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.01",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Pelaihari",
+      "kode_wilayah": "63.01.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.01",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Kurau",
+      "kode_wilayah": "63.01.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.01",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Bati Bati",
+      "kode_wilayah": "63.01.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.01",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Panyipatan",
+      "kode_wilayah": "63.01.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.01",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Kintap",
+      "kode_wilayah": "63.01.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.01",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Tambang Ulang",
+      "kode_wilayah": "63.01.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.01",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Batu Ampar",
+      "kode_wilayah": "63.01.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.01",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Bajuin",
+      "kode_wilayah": "63.01.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.01",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Bumi Makmur",
+      "kode_wilayah": "63.01.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.01",
+      "kode_provinsi": "63"
+    }
+  ]
+}

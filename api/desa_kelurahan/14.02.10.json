@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tambak",
+      "kode_wilayah": "14.02.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.10"
+    },
+    {
+      "nama_wilayah": "Kuala Cenaku",
+      "kode_wilayah": "14.02.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.10"
+    },
+    {
+      "nama_wilayah": "Pulau Gelang",
+      "kode_wilayah": "14.02.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.10"
+    },
+    {
+      "nama_wilayah": "Kuala Mulya",
+      "kode_wilayah": "14.02.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.10"
+    },
+    {
+      "nama_wilayah": "Tanjung Sari",
+      "kode_wilayah": "14.02.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.10"
+    },
+    {
+      "nama_wilayah": "Rawa Sekip",
+      "kode_wilayah": "14.02.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.10"
+    },
+    {
+      "nama_wilayah": "Rawa Asri",
+      "kode_wilayah": "14.02.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.10"
+    },
+    {
+      "nama_wilayah": "Suka Jadi",
+      "kode_wilayah": "14.02.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.10"
+    },
+    {
+      "nama_wilayah": "Teluk Sungkai",
+      "kode_wilayah": "14.02.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.10"
+    },
+    {
+      "nama_wilayah": "Pulau Jum-at",
+      "kode_wilayah": "14.02.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.10"
+    }
+  ]
+}

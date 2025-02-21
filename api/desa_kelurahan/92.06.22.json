@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Meyerga",
+      "kode_wilayah": "92.06.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.22"
+    },
+    {
+      "nama_wilayah": "Macok",
+      "kode_wilayah": "92.06.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.22"
+    },
+    {
+      "nama_wilayah": "Istiwkem",
+      "kode_wilayah": "92.06.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.22"
+    },
+    {
+      "nama_wilayah": "Majnic",
+      "kode_wilayah": "92.06.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.22"
+    }
+  ]
+}

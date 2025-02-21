@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Armopa",
+      "kode_wilayah": "91.10.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.05"
+    },
+    {
+      "nama_wilayah": "Tarontha Srum",
+      "kode_wilayah": "91.10.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.05"
+    },
+    {
+      "nama_wilayah": "Anus",
+      "kode_wilayah": "91.10.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.05"
+    },
+    {
+      "nama_wilayah": "Kiren",
+      "kode_wilayah": "91.10.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.05"
+    },
+    {
+      "nama_wilayah": "Maweswares",
+      "kode_wilayah": "91.10.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.05"
+    },
+    {
+      "nama_wilayah": "Bebon Jaya",
+      "kode_wilayah": "91.10.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.05"
+    },
+    {
+      "nama_wilayah": "Tetom",
+      "kode_wilayah": "91.10.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.05"
+    },
+    {
+      "nama_wilayah": "Rimsersari",
+      "kode_wilayah": "91.10.05.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.05"
+    },
+    {
+      "nama_wilayah": "Krim Podena",
+      "kode_wilayah": "91.10.05.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.05"
+    },
+    {
+      "nama_wilayah": "Rotea",
+      "kode_wilayah": "91.10.05.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.10",
+      "kode_kecamatan": "91.10.05"
+    }
+  ]
+}

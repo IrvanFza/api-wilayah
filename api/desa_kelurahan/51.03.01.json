@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Tuban",
+      "kode_wilayah": "51.03.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.03",
+      "kode_kecamatan": "51.03.01"
+    },
+    {
+      "nama_wilayah": "Kuta",
+      "kode_wilayah": "51.03.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.03",
+      "kode_kecamatan": "51.03.01"
+    },
+    {
+      "nama_wilayah": "Kedonganan",
+      "kode_wilayah": "51.03.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.03",
+      "kode_kecamatan": "51.03.01"
+    },
+    {
+      "nama_wilayah": "Legian",
+      "kode_wilayah": "51.03.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.03",
+      "kode_kecamatan": "51.03.01"
+    },
+    {
+      "nama_wilayah": "Seminyak",
+      "kode_wilayah": "51.03.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.03",
+      "kode_kecamatan": "51.03.01"
+    }
+  ]
+}

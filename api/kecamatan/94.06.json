@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kamu",
+      "kode_wilayah": "94.06.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.06",
+      "kode_provinsi": "94"
+    },
+    {
+      "nama_wilayah": "Mapia",
+      "kode_wilayah": "94.06.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.06",
+      "kode_provinsi": "94"
+    },
+    {
+      "nama_wilayah": "Piyaiye",
+      "kode_wilayah": "94.06.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.06",
+      "kode_provinsi": "94"
+    },
+    {
+      "nama_wilayah": "Kamu Utara",
+      "kode_wilayah": "94.06.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.06",
+      "kode_provinsi": "94"
+    },
+    {
+      "nama_wilayah": "Sukikai Selatan",
+      "kode_wilayah": "94.06.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.06",
+      "kode_provinsi": "94"
+    },
+    {
+      "nama_wilayah": "Mapia Barat",
+      "kode_wilayah": "94.06.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.06",
+      "kode_provinsi": "94"
+    },
+    {
+      "nama_wilayah": "Kamu Selatan",
+      "kode_wilayah": "94.06.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.06",
+      "kode_provinsi": "94"
+    },
+    {
+      "nama_wilayah": "Kamu Timur",
+      "kode_wilayah": "94.06.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.06",
+      "kode_provinsi": "94"
+    },
+    {
+      "nama_wilayah": "Mapia Tengah",
+      "kode_wilayah": "94.06.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.06",
+      "kode_provinsi": "94"
+    },
+    {
+      "nama_wilayah": "Dogiyai",
+      "kode_wilayah": "94.06.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "94.06",
+      "kode_provinsi": "94"
+    }
+  ]
+}

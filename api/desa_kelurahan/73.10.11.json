@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Benteng",
+      "kode_wilayah": "73.10.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.11"
+    },
+    {
+      "nama_wilayah": "Manggalung",
+      "kode_wilayah": "73.10.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.11"
+    },
+    {
+      "nama_wilayah": "Tamarupa",
+      "kode_wilayah": "73.10.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.11"
+    },
+    {
+      "nama_wilayah": "Mandalle",
+      "kode_wilayah": "73.10.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.11"
+    },
+    {
+      "nama_wilayah": "Boddie",
+      "kode_wilayah": "73.10.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.11"
+    },
+    {
+      "nama_wilayah": "Coppo Tompong",
+      "kode_wilayah": "73.10.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.11"
+    }
+  ]
+}

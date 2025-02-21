@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Teunom",
+      "kode_wilayah": "11.14.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.14",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Krueng Sabee",
+      "kode_wilayah": "11.14.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.14",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Setia Bakti",
+      "kode_wilayah": "11.14.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.14",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Sampoi Niet",
+      "kode_wilayah": "11.14.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.14",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Jaya",
+      "kode_wilayah": "11.14.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.14",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Panga",
+      "kode_wilayah": "11.14.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.14",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Indra Jaya",
+      "kode_wilayah": "11.14.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.14",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Darul Hikmah",
+      "kode_wilayah": "11.14.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.14",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Pasie Raya",
+      "kode_wilayah": "11.14.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.14",
+      "kode_provinsi": "11"
+    }
+  ]
+}

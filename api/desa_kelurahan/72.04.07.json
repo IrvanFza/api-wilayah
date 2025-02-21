@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tambun",
+      "kode_wilayah": "72.04.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.04",
+      "kode_kecamatan": "72.04.07"
+    },
+    {
+      "nama_wilayah": "Tuweley",
+      "kode_wilayah": "72.04.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.04",
+      "kode_kecamatan": "72.04.07"
+    },
+    {
+      "nama_wilayah": "Nalu",
+      "kode_wilayah": "72.04.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.04",
+      "kode_kecamatan": "72.04.07"
+    },
+    {
+      "nama_wilayah": "Baru",
+      "kode_wilayah": "72.04.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.04",
+      "kode_kecamatan": "72.04.07"
+    },
+    {
+      "nama_wilayah": "Panasakan",
+      "kode_wilayah": "72.04.07.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.04",
+      "kode_kecamatan": "72.04.07"
+    },
+    {
+      "nama_wilayah": "Sidoarjo",
+      "kode_wilayah": "72.04.07.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.04",
+      "kode_kecamatan": "72.04.07"
+    },
+    {
+      "nama_wilayah": "Dadakitan",
+      "kode_wilayah": "72.04.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.04",
+      "kode_kecamatan": "72.04.07"
+    },
+    {
+      "nama_wilayah": "Buntuna",
+      "kode_wilayah": "72.04.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.04",
+      "kode_kecamatan": "72.04.07"
+    },
+    {
+      "nama_wilayah": "Lelean Nono",
+      "kode_wilayah": "72.04.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.04",
+      "kode_kecamatan": "72.04.07"
+    },
+    {
+      "nama_wilayah": "Pangi",
+      "kode_wilayah": "72.04.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.04",
+      "kode_kecamatan": "72.04.07"
+    }
+  ]
+}

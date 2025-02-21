@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Syumbab",
+      "kode_wilayah": "96.04.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.18"
+    },
+    {
+      "nama_wilayah": "Syukwes",
+      "kode_wilayah": "96.04.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.18"
+    },
+    {
+      "nama_wilayah": "Krisnos",
+      "kode_wilayah": "96.04.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.18"
+    },
+    {
+      "nama_wilayah": "Resye",
+      "kode_wilayah": "96.04.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.18"
+    },
+    {
+      "nama_wilayah": "Sunggak",
+      "kode_wilayah": "96.04.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.18"
+    },
+    {
+      "nama_wilayah": "Wowom",
+      "kode_wilayah": "96.04.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.18"
+    }
+  ]
+}

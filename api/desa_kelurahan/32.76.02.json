@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Harjamukti",
+      "kode_wilayah": "32.76.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.02"
+    },
+    {
+      "nama_wilayah": "Curug",
+      "kode_wilayah": "32.76.02.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.02"
+    },
+    {
+      "nama_wilayah": "Tugu",
+      "kode_wilayah": "32.76.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.02"
+    },
+    {
+      "nama_wilayah": "Mekarsari",
+      "kode_wilayah": "32.76.02.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.02"
+    },
+    {
+      "nama_wilayah": "Pasir Gunung Selatan",
+      "kode_wilayah": "32.76.02.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.02"
+    },
+    {
+      "nama_wilayah": "Cisalak Pasar",
+      "kode_wilayah": "32.76.02.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.02"
+    }
+  ]
+}

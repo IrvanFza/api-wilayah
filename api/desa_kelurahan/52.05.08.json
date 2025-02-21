@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Ranggo",
+      "kode_wilayah": "52.05.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.05",
+      "kode_kecamatan": "52.05.08"
+    },
+    {
+      "nama_wilayah": "Jambu",
+      "kode_wilayah": "52.05.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.05",
+      "kode_kecamatan": "52.05.08"
+    },
+    {
+      "nama_wilayah": "Lepadi",
+      "kode_wilayah": "52.05.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.05",
+      "kode_kecamatan": "52.05.08"
+    },
+    {
+      "nama_wilayah": "Lune",
+      "kode_wilayah": "52.05.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.05",
+      "kode_kecamatan": "52.05.08"
+    },
+    {
+      "nama_wilayah": "Woko",
+      "kode_wilayah": "52.05.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.05",
+      "kode_kecamatan": "52.05.08"
+    },
+    {
+      "nama_wilayah": "Tembal Lae",
+      "kode_wilayah": "52.05.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.05",
+      "kode_kecamatan": "52.05.08"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Nipsan",
+      "kode_wilayah": "95.03.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.22"
+    },
+    {
+      "nama_wilayah": "Tapla",
+      "kode_wilayah": "95.03.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.22"
+    },
+    {
+      "nama_wilayah": "Walmak",
+      "kode_wilayah": "95.03.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.22"
+    },
+    {
+      "nama_wilayah": "Serengon",
+      "kode_wilayah": "95.03.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.22"
+    },
+    {
+      "nama_wilayah": "Ikmu",
+      "kode_wilayah": "95.03.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.22"
+    },
+    {
+      "nama_wilayah": "Biu",
+      "kode_wilayah": "95.03.22.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.22"
+    },
+    {
+      "nama_wilayah": "Ilukdamon",
+      "kode_wilayah": "95.03.22.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.22"
+    },
+    {
+      "nama_wilayah": "Yalmun",
+      "kode_wilayah": "95.03.22.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.22"
+    }
+  ]
+}

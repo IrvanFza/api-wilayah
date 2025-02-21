@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Lengkukai",
+      "kode_wilayah": "18.06.28.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.28"
+    },
+    {
+      "nama_wilayah": "Sidoharjo",
+      "kode_wilayah": "18.06.28.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.28"
+    },
+    {
+      "nama_wilayah": "Merbau",
+      "kode_wilayah": "18.06.28.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.28"
+    },
+    {
+      "nama_wilayah": "Batu Patah",
+      "kode_wilayah": "18.06.28.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.28"
+    },
+    {
+      "nama_wilayah": "Purwosari",
+      "kode_wilayah": "18.06.28.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.28"
+    },
+    {
+      "nama_wilayah": "Marga Mulya",
+      "kode_wilayah": "18.06.28.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.28"
+    }
+  ]
+}

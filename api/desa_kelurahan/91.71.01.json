@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Gurabesi",
+      "kode_wilayah": "91.71.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.01"
+    },
+    {
+      "nama_wilayah": "Bayangkara",
+      "kode_wilayah": "91.71.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.01"
+    },
+    {
+      "nama_wilayah": "Trikora",
+      "kode_wilayah": "91.71.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.01"
+    },
+    {
+      "nama_wilayah": "Imbi",
+      "kode_wilayah": "91.71.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.01"
+    },
+    {
+      "nama_wilayah": "Tanjung Ria",
+      "kode_wilayah": "91.71.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.01"
+    },
+    {
+      "nama_wilayah": "Mandala",
+      "kode_wilayah": "91.71.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.01"
+    },
+    {
+      "nama_wilayah": "Angkasapura",
+      "kode_wilayah": "91.71.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.01"
+    },
+    {
+      "nama_wilayah": "Kayo Batu",
+      "kode_wilayah": "91.71.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.71",
+      "kode_kecamatan": "91.71.01"
+    }
+  ]
+}

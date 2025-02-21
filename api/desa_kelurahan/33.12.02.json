@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Bayemharjo",
+      "kode_wilayah": "33.12.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.02"
+    },
+    {
+      "nama_wilayah": "Giritontro",
+      "kode_wilayah": "33.12.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.02"
+    },
+    {
+      "nama_wilayah": "Ngargoharjo",
+      "kode_wilayah": "33.12.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.02"
+    },
+    {
+      "nama_wilayah": "Tlogosari",
+      "kode_wilayah": "33.12.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.02"
+    },
+    {
+      "nama_wilayah": "Tlogoharjo",
+      "kode_wilayah": "33.12.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.02"
+    },
+    {
+      "nama_wilayah": "Jatirejo",
+      "kode_wilayah": "33.12.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.02"
+    },
+    {
+      "nama_wilayah": "Pucanganom",
+      "kode_wilayah": "33.12.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.02"
+    }
+  ]
+}

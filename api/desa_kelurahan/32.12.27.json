@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Cibeber",
+      "kode_wilayah": "32.12.27.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.27"
+    },
+    {
+      "nama_wilayah": "Bondan",
+      "kode_wilayah": "32.12.27.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.27"
+    },
+    {
+      "nama_wilayah": "Gunungsari",
+      "kode_wilayah": "32.12.27.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.27"
+    },
+    {
+      "nama_wilayah": "Sukagumiwang",
+      "kode_wilayah": "32.12.27.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.27"
+    },
+    {
+      "nama_wilayah": "Tersana",
+      "kode_wilayah": "32.12.27.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.27"
+    },
+    {
+      "nama_wilayah": "Cadang Pinggan",
+      "kode_wilayah": "32.12.27.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.27"
+    },
+    {
+      "nama_wilayah": "Gedangan",
+      "kode_wilayah": "32.12.27.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.27"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kiru Kiru",
+      "kode_wilayah": "73.11.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.04"
+    },
+    {
+      "nama_wilayah": "Mangkoso",
+      "kode_wilayah": "73.11.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.04"
+    },
+    {
+      "nama_wilayah": "Lawallu",
+      "kode_wilayah": "73.11.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.04"
+    },
+    {
+      "nama_wilayah": "Paccekke",
+      "kode_wilayah": "73.11.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.04"
+    },
+    {
+      "nama_wilayah": "Ajakkang",
+      "kode_wilayah": "73.11.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.04"
+    },
+    {
+      "nama_wilayah": "Siddo",
+      "kode_wilayah": "73.11.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.04"
+    },
+    {
+      "nama_wilayah": "Batupute",
+      "kode_wilayah": "73.11.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.04"
+    }
+  ]
+}

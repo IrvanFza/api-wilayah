@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Batu Basa",
+      "kode_wilayah": "13.04.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.09"
+    },
+    {
+      "nama_wilayah": "Tabek",
+      "kode_wilayah": "13.04.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.09"
+    },
+    {
+      "nama_wilayah": "Sawah Tangah",
+      "kode_wilayah": "13.04.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.09"
+    },
+    {
+      "nama_wilayah": "Simabur",
+      "kode_wilayah": "13.04.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.09"
+    },
+    {
+      "nama_wilayah": "Pariangan",
+      "kode_wilayah": "13.04.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.09"
+    },
+    {
+      "nama_wilayah": "Sungai Jambu",
+      "kode_wilayah": "13.04.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.09"
+    }
+  ]
+}

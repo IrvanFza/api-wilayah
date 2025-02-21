@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Duma",
+      "kode_wilayah": "94.03.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.06"
+    },
+    {
+      "nama_wilayah": "Bomosiga",
+      "kode_wilayah": "94.03.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.06"
+    },
+    {
+      "nama_wilayah": "Japesigaiwaka",
+      "kode_wilayah": "94.03.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.06"
+    },
+    {
+      "nama_wilayah": "Waitapa",
+      "kode_wilayah": "94.03.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.06"
+    },
+    {
+      "nama_wilayah": "Duma II",
+      "kode_wilayah": "94.03.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.06"
+    }
+  ]
+}

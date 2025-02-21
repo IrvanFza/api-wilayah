@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Heledulaa Utara",
+      "kode_wilayah": "75.71.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.05"
+    },
+    {
+      "nama_wilayah": "Heledulaa Selatan",
+      "kode_wilayah": "75.71.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.05"
+    },
+    {
+      "nama_wilayah": "Ipilo",
+      "kode_wilayah": "75.71.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.05"
+    },
+    {
+      "nama_wilayah": "Moodu",
+      "kode_wilayah": "75.71.05.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.05"
+    },
+    {
+      "nama_wilayah": "Padebuolo",
+      "kode_wilayah": "75.71.05.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.05"
+    },
+    {
+      "nama_wilayah": "Tamalate",
+      "kode_wilayah": "75.71.05.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.05"
+    }
+  ]
+}

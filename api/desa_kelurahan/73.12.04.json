@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lalabata Rilau",
+      "kode_wilayah": "73.12.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.04"
+    },
+    {
+      "nama_wilayah": "Ompo",
+      "kode_wilayah": "73.12.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.04"
+    },
+    {
+      "nama_wilayah": "Botto",
+      "kode_wilayah": "73.12.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.04"
+    },
+    {
+      "nama_wilayah": "Lemba",
+      "kode_wilayah": "73.12.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.04"
+    },
+    {
+      "nama_wilayah": "Bila",
+      "kode_wilayah": "73.12.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.04"
+    },
+    {
+      "nama_wilayah": "Lapajung",
+      "kode_wilayah": "73.12.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.04"
+    },
+    {
+      "nama_wilayah": "Salokaraja",
+      "kode_wilayah": "73.12.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.04"
+    },
+    {
+      "nama_wilayah": "Maccile",
+      "kode_wilayah": "73.12.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.04"
+    },
+    {
+      "nama_wilayah": "Umpungeng",
+      "kode_wilayah": "73.12.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.04"
+    },
+    {
+      "nama_wilayah": "Mattabulu",
+      "kode_wilayah": "73.12.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.04"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Pondok Tinggi",
+      "kode_wilayah": "15.72.06.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.06"
+    },
+    {
+      "nama_wilayah": "Sungai Jernih",
+      "kode_wilayah": "15.72.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.06"
+    },
+    {
+      "nama_wilayah": "Aur Duri",
+      "kode_wilayah": "15.72.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.06"
+    },
+    {
+      "nama_wilayah": "Pondok Agung",
+      "kode_wilayah": "15.72.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.06"
+    },
+    {
+      "nama_wilayah": "Permanti",
+      "kode_wilayah": "15.72.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.06"
+    },
+    {
+      "nama_wilayah": "Lawang Agung",
+      "kode_wilayah": "15.72.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.06"
+    },
+    {
+      "nama_wilayah": "Karya Bakti",
+      "kode_wilayah": "15.72.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.06"
+    },
+    {
+      "nama_wilayah": "Koto Lebu",
+      "kode_wilayah": "15.72.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.06"
+    }
+  ]
+}

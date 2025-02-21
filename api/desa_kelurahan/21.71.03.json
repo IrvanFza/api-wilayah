@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Harapan",
+      "kode_wilayah": "21.71.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.03"
+    },
+    {
+      "nama_wilayah": "Tanjung Pinggir",
+      "kode_wilayah": "21.71.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.03"
+    },
+    {
+      "nama_wilayah": "Tanjung Riau",
+      "kode_wilayah": "21.71.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.03"
+    },
+    {
+      "nama_wilayah": "Tiban Indah",
+      "kode_wilayah": "21.71.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.03"
+    },
+    {
+      "nama_wilayah": "Tiban Baru",
+      "kode_wilayah": "21.71.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.03"
+    },
+    {
+      "nama_wilayah": "Tiban Lama",
+      "kode_wilayah": "21.71.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.03"
+    },
+    {
+      "nama_wilayah": "Patam Lestari",
+      "kode_wilayah": "21.71.03.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.03"
+    }
+  ]
+}

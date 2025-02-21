@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Batom",
+      "kode_wilayah": "95.02.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.05"
+    },
+    {
+      "nama_wilayah": "Oksip",
+      "kode_wilayah": "95.02.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.05"
+    },
+    {
+      "nama_wilayah": "Mongham",
+      "kode_wilayah": "95.02.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.05"
+    },
+    {
+      "nama_wilayah": "Sabi",
+      "kode_wilayah": "95.02.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.05"
+    },
+    {
+      "nama_wilayah": "Neep",
+      "kode_wilayah": "95.02.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.05"
+    },
+    {
+      "nama_wilayah": "Muara",
+      "kode_wilayah": "95.02.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.05"
+    },
+    {
+      "nama_wilayah": "Batom Dua",
+      "kode_wilayah": "95.02.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.05"
+    },
+    {
+      "nama_wilayah": "Akyako",
+      "kode_wilayah": "95.02.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.05"
+    },
+    {
+      "nama_wilayah": "Peteng",
+      "kode_wilayah": "95.02.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.05"
+    },
+    {
+      "nama_wilayah": "Belomo",
+      "kode_wilayah": "95.02.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.05"
+    },
+    {
+      "nama_wilayah": "Abukerom",
+      "kode_wilayah": "95.02.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.05"
+    }
+  ]
+}

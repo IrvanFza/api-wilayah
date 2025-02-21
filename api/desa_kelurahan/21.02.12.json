@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sebele",
+      "kode_wilayah": "21.02.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.12"
+    },
+    {
+      "nama_wilayah": "Lebuh",
+      "kode_wilayah": "21.02.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.12"
+    },
+    {
+      "nama_wilayah": "Penarah",
+      "kode_wilayah": "21.02.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.12"
+    },
+    {
+      "nama_wilayah": "Sungai Asam",
+      "kode_wilayah": "21.02.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.12"
+    },
+    {
+      "nama_wilayah": "Tebias",
+      "kode_wilayah": "21.02.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.12"
+    },
+    {
+      "nama_wilayah": "Degong",
+      "kode_wilayah": "21.02.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.12"
+    }
+  ]
+}

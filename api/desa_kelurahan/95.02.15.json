@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Yapimakot",
+      "kode_wilayah": "95.02.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.15"
+    },
+    {
+      "nama_wilayah": "Seramkatop",
+      "kode_wilayah": "95.02.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.15"
+    },
+    {
+      "nama_wilayah": "Parim",
+      "kode_wilayah": "95.02.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.15"
+    },
+    {
+      "nama_wilayah": "Siminbuk",
+      "kode_wilayah": "95.02.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.15"
+    },
+    {
+      "nama_wilayah": "Modusit",
+      "kode_wilayah": "95.02.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.15"
+    },
+    {
+      "nama_wilayah": "Wanbakon",
+      "kode_wilayah": "95.02.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.15"
+    },
+    {
+      "nama_wilayah": "Yakmor",
+      "kode_wilayah": "95.02.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.15"
+    },
+    {
+      "nama_wilayah": "Okatem",
+      "kode_wilayah": "95.02.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.15"
+    }
+  ]
+}

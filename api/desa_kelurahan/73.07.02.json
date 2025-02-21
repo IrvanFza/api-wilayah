@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Sangiaseri",
+      "kode_wilayah": "73.07.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.02"
+    },
+    {
+      "nama_wilayah": "Puncak",
+      "kode_wilayah": "73.07.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.02"
+    },
+    {
+      "nama_wilayah": "Songing",
+      "kode_wilayah": "73.07.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.02"
+    },
+    {
+      "nama_wilayah": "Aska",
+      "kode_wilayah": "73.07.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.02"
+    },
+    {
+      "nama_wilayah": "Talle",
+      "kode_wilayah": "73.07.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.02"
+    },
+    {
+      "nama_wilayah": "Palae",
+      "kode_wilayah": "73.07.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.02"
+    },
+    {
+      "nama_wilayah": "Bulu Kamase",
+      "kode_wilayah": "73.07.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.02"
+    },
+    {
+      "nama_wilayah": "Palangka",
+      "kode_wilayah": "73.07.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.02"
+    },
+    {
+      "nama_wilayah": "Polewali",
+      "kode_wilayah": "73.07.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.02"
+    },
+    {
+      "nama_wilayah": "Gareccing",
+      "kode_wilayah": "73.07.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.02"
+    },
+    {
+      "nama_wilayah": "Alenangka",
+      "kode_wilayah": "73.07.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.07",
+      "kode_kecamatan": "73.07.02"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Rejowinangun Selatan",
+      "kode_wilayah": "33.71.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.71",
+      "kode_kecamatan": "33.71.01"
+    },
+    {
+      "nama_wilayah": "Magersari",
+      "kode_wilayah": "33.71.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.71",
+      "kode_kecamatan": "33.71.01"
+    },
+    {
+      "nama_wilayah": "Jurangombo Utara",
+      "kode_wilayah": "33.71.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.71",
+      "kode_kecamatan": "33.71.01"
+    },
+    {
+      "nama_wilayah": "Jurangombo Selatan",
+      "kode_wilayah": "33.71.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.71",
+      "kode_kecamatan": "33.71.01"
+    },
+    {
+      "nama_wilayah": "Tidar Utara",
+      "kode_wilayah": "33.71.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.71",
+      "kode_kecamatan": "33.71.01"
+    },
+    {
+      "nama_wilayah": "Tidar Selatan",
+      "kode_wilayah": "33.71.01.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.71",
+      "kode_kecamatan": "33.71.01"
+    }
+  ]
+}

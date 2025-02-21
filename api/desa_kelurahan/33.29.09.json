@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "total": 23,
+  "data": [
+    {
+      "nama_wilayah": "Brebes",
+      "kode_wilayah": "33.29.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Gandasuli",
+      "kode_wilayah": "33.29.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Limbangan Kulon",
+      "kode_wilayah": "33.29.09.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Limbangan Wetan",
+      "kode_wilayah": "33.29.09.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Pasarbatang",
+      "kode_wilayah": "33.29.09.1015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Banjaranyar",
+      "kode_wilayah": "33.29.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Kaligangsa Kulon",
+      "kode_wilayah": "33.29.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Kaligangsa Wetan",
+      "kode_wilayah": "33.29.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Kalimati",
+      "kode_wilayah": "33.29.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Kaliwlingi",
+      "kode_wilayah": "33.29.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Kedunguter",
+      "kode_wilayah": "33.29.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Krasak",
+      "kode_wilayah": "33.29.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Lembarawa",
+      "kode_wilayah": "33.29.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Padasugih",
+      "kode_wilayah": "33.29.09.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Pagejugan",
+      "kode_wilayah": "33.29.09.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Pemaron",
+      "kode_wilayah": "33.29.09.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Pulosari",
+      "kode_wilayah": "33.29.09.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Randusanga Kulon",
+      "kode_wilayah": "33.29.09.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Randusanga Wetan",
+      "kode_wilayah": "33.29.09.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Sigambir",
+      "kode_wilayah": "33.29.09.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Tengki",
+      "kode_wilayah": "33.29.09.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Terlangu",
+      "kode_wilayah": "33.29.09.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    },
+    {
+      "nama_wilayah": "Wangandalem",
+      "kode_wilayah": "33.29.09.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.09"
+    }
+  ]
+}

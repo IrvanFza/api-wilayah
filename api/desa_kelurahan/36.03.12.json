@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Sindangsari",
+      "kode_wilayah": "36.03.12.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.12"
+    },
+    {
+      "nama_wilayah": "Kutabumi",
+      "kode_wilayah": "36.03.12.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.12"
+    },
+    {
+      "nama_wilayah": "Kuta Jaya",
+      "kode_wilayah": "36.03.12.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.12"
+    },
+    {
+      "nama_wilayah": "Kuta Baru",
+      "kode_wilayah": "36.03.12.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.12"
+    },
+    {
+      "nama_wilayah": "Pasar Kemis",
+      "kode_wilayah": "36.03.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.12"
+    },
+    {
+      "nama_wilayah": "Sukamantri",
+      "kode_wilayah": "36.03.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.12"
+    },
+    {
+      "nama_wilayah": "Pangadegan",
+      "kode_wilayah": "36.03.12.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.12"
+    },
+    {
+      "nama_wilayah": "Gelam Jaya",
+      "kode_wilayah": "36.03.12.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.12"
+    },
+    {
+      "nama_wilayah": "Suka Asih",
+      "kode_wilayah": "36.03.12.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.12"
+    }
+  ]
+}

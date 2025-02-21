@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Pangarengan",
+      "kode_wilayah": "35.27.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.27",
+      "kode_kecamatan": "35.27.13"
+    },
+    {
+      "nama_wilayah": "Apa an",
+      "kode_wilayah": "35.27.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.27",
+      "kode_kecamatan": "35.27.13"
+    },
+    {
+      "nama_wilayah": "Gulbung",
+      "kode_wilayah": "35.27.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.27",
+      "kode_kecamatan": "35.27.13"
+    },
+    {
+      "nama_wilayah": "Panyirangan",
+      "kode_wilayah": "35.27.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.27",
+      "kode_kecamatan": "35.27.13"
+    },
+    {
+      "nama_wilayah": "Pacangga an",
+      "kode_wilayah": "35.27.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.27",
+      "kode_kecamatan": "35.27.13"
+    },
+    {
+      "nama_wilayah": "Ragung",
+      "kode_wilayah": "35.27.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.27",
+      "kode_kecamatan": "35.27.13"
+    }
+  ]
+}

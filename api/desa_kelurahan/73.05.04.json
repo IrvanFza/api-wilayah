@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Panrannuangku",
+      "kode_wilayah": "73.05.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.04"
+    },
+    {
+      "nama_wilayah": "Manongkoki",
+      "kode_wilayah": "73.05.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.04"
+    },
+    {
+      "nama_wilayah": "Malewang",
+      "kode_wilayah": "73.05.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.04"
+    },
+    {
+      "nama_wilayah": "Palleko",
+      "kode_wilayah": "73.05.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.04"
+    },
+    {
+      "nama_wilayah": "Mattompodale",
+      "kode_wilayah": "73.05.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.04"
+    },
+    {
+      "nama_wilayah": "Parang Luara",
+      "kode_wilayah": "73.05.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.04"
+    },
+    {
+      "nama_wilayah": "Lassang",
+      "kode_wilayah": "73.05.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.04"
+    },
+    {
+      "nama_wilayah": "Pa-rappunganta",
+      "kode_wilayah": "73.05.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.04"
+    },
+    {
+      "nama_wilayah": "Towata",
+      "kode_wilayah": "73.05.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.04"
+    },
+    {
+      "nama_wilayah": "Lassang Barat",
+      "kode_wilayah": "73.05.04.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.04"
+    }
+  ]
+}

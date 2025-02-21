@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Dugume",
+      "kode_wilayah": "95.07.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.11"
+    },
+    {
+      "nama_wilayah": "Wulundia",
+      "kode_wilayah": "95.07.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.11"
+    },
+    {
+      "nama_wilayah": "Dapogi",
+      "kode_wilayah": "95.07.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.11"
+    },
+    {
+      "nama_wilayah": "Kulumburu",
+      "kode_wilayah": "95.07.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.11"
+    },
+    {
+      "nama_wilayah": "Molobok",
+      "kode_wilayah": "95.07.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.11"
+    },
+    {
+      "nama_wilayah": "Tugunakwi",
+      "kode_wilayah": "95.07.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.11"
+    },
+    {
+      "nama_wilayah": "Yanuru",
+      "kode_wilayah": "95.07.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.11"
+    }
+  ]
+}

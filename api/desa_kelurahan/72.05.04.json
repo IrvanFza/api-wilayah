@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lonu",
+      "kode_wilayah": "72.05.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.04"
+    },
+    {
+      "nama_wilayah": "Tamit",
+      "kode_wilayah": "72.05.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.04"
+    },
+    {
+      "nama_wilayah": "Botugolu",
+      "kode_wilayah": "72.05.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.04"
+    },
+    {
+      "nama_wilayah": "Bunobogu",
+      "kode_wilayah": "72.05.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.04"
+    },
+    {
+      "nama_wilayah": "Konamukan",
+      "kode_wilayah": "72.05.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.04"
+    },
+    {
+      "nama_wilayah": "Ponipingan",
+      "kode_wilayah": "72.05.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.04"
+    },
+    {
+      "nama_wilayah": "Inalatan",
+      "kode_wilayah": "72.05.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.04"
+    },
+    {
+      "nama_wilayah": "Domag Mekar",
+      "kode_wilayah": "72.05.04.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.04"
+    },
+    {
+      "nama_wilayah": "Bunobogu Selatan",
+      "kode_wilayah": "72.05.04.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.04"
+    },
+    {
+      "nama_wilayah": "Pokobo",
+      "kode_wilayah": "72.05.04.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.04"
+    }
+  ]
+}

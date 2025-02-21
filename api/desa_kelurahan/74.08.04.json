@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Rante Angin",
+      "kode_wilayah": "74.08.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.04"
+    },
+    {
+      "nama_wilayah": "Rante Baru",
+      "kode_wilayah": "74.08.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.04"
+    },
+    {
+      "nama_wilayah": "Pohu",
+      "kode_wilayah": "74.08.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.04"
+    },
+    {
+      "nama_wilayah": "Torotuo",
+      "kode_wilayah": "74.08.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.04"
+    },
+    {
+      "nama_wilayah": "Maroko",
+      "kode_wilayah": "74.08.04.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.04"
+    },
+    {
+      "nama_wilayah": "Landolia",
+      "kode_wilayah": "74.08.04.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.04"
+    },
+    {
+      "nama_wilayah": "Lawekara",
+      "kode_wilayah": "74.08.04.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.04"
+    }
+  ]
+}

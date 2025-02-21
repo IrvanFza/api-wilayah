@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Karimunjawa",
+      "kode_wilayah": "33.20.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.20",
+      "kode_kecamatan": "33.20.10"
+    },
+    {
+      "nama_wilayah": "Kemujan",
+      "kode_wilayah": "33.20.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.20",
+      "kode_kecamatan": "33.20.10"
+    },
+    {
+      "nama_wilayah": "Parang",
+      "kode_wilayah": "33.20.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.20",
+      "kode_kecamatan": "33.20.10"
+    },
+    {
+      "nama_wilayah": "Nyamuk",
+      "kode_wilayah": "33.20.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.20",
+      "kode_kecamatan": "33.20.10"
+    }
+  ]
+}

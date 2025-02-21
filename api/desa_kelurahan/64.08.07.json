@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Marah Haloq",
+      "kode_wilayah": "64.08.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.07"
+    },
+    {
+      "nama_wilayah": "Lung Melah",
+      "kode_wilayah": "64.08.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.07"
+    },
+    {
+      "nama_wilayah": "Juk Ayaq",
+      "kode_wilayah": "64.08.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.07"
+    },
+    {
+      "nama_wilayah": "Long Segar",
+      "kode_wilayah": "64.08.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.07"
+    },
+    {
+      "nama_wilayah": "Long Noran",
+      "kode_wilayah": "64.08.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.07"
+    },
+    {
+      "nama_wilayah": "Muara Pantun",
+      "kode_wilayah": "64.08.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.07"
+    },
+    {
+      "nama_wilayah": "Rantau Panjang",
+      "kode_wilayah": "64.08.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.07"
+    },
+    {
+      "nama_wilayah": "Kernyanyan",
+      "kode_wilayah": "64.08.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.07"
+    }
+  ]
+}

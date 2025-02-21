@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Parungponteng",
+      "kode_wilayah": "32.06.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.07"
+    },
+    {
+      "nama_wilayah": "Cigunung",
+      "kode_wilayah": "32.06.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.07"
+    },
+    {
+      "nama_wilayah": "Cibanteng",
+      "kode_wilayah": "32.06.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.07"
+    },
+    {
+      "nama_wilayah": "Barumekar",
+      "kode_wilayah": "32.06.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.07"
+    },
+    {
+      "nama_wilayah": "Cibungur",
+      "kode_wilayah": "32.06.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.07"
+    },
+    {
+      "nama_wilayah": "Burujuljaya",
+      "kode_wilayah": "32.06.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.07"
+    },
+    {
+      "nama_wilayah": "Girikencana",
+      "kode_wilayah": "32.06.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.07"
+    },
+    {
+      "nama_wilayah": "Karyabakti",
+      "kode_wilayah": "32.06.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.07"
+    }
+  ]
+}

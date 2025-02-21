@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Meranti",
+      "kode_wilayah": "12.09.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.08"
+    },
+    {
+      "nama_wilayah": "Perkebunan Sei Balai",
+      "kode_wilayah": "12.09.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.08"
+    },
+    {
+      "nama_wilayah": "Sei Beluru",
+      "kode_wilayah": "12.09.08.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.08"
+    },
+    {
+      "nama_wilayah": "Serdang",
+      "kode_wilayah": "12.09.08.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.08"
+    },
+    {
+      "nama_wilayah": "Gajah",
+      "kode_wilayah": "12.09.08.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.08"
+    },
+    {
+      "nama_wilayah": "Air Putih",
+      "kode_wilayah": "12.09.08.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.08"
+    },
+    {
+      "nama_wilayah": "Sukajadi",
+      "kode_wilayah": "12.09.08.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.08"
+    }
+  ]
+}

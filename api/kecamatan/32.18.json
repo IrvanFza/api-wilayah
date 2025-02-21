@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Parigi",
+      "kode_wilayah": "32.18.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.18",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cijulang",
+      "kode_wilayah": "32.18.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.18",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cimerak",
+      "kode_wilayah": "32.18.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.18",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cigugur",
+      "kode_wilayah": "32.18.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.18",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Langkaplancar",
+      "kode_wilayah": "32.18.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.18",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Mangunjaya",
+      "kode_wilayah": "32.18.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.18",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Padaherang",
+      "kode_wilayah": "32.18.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.18",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Kalipucang",
+      "kode_wilayah": "32.18.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.18",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Pangandaran",
+      "kode_wilayah": "32.18.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.18",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Sidamulih",
+      "kode_wilayah": "32.18.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.18",
+      "kode_provinsi": "32"
+    }
+  ]
+}

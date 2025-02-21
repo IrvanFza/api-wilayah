@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Temindung Permai",
+      "kode_wilayah": "64.72.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.08"
+    },
+    {
+      "nama_wilayah": "Sungai Pinang Dalam",
+      "kode_wilayah": "64.72.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.08"
+    },
+    {
+      "nama_wilayah": "Gunung Lingai",
+      "kode_wilayah": "64.72.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.08"
+    },
+    {
+      "nama_wilayah": "Mugirejo",
+      "kode_wilayah": "64.72.08.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.08"
+    },
+    {
+      "nama_wilayah": "Bandara",
+      "kode_wilayah": "64.72.08.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.08"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Suoh",
+      "kode_wilayah": "18.04.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.23"
+    },
+    {
+      "nama_wilayah": "Srimulyo",
+      "kode_wilayah": "18.04.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.23"
+    },
+    {
+      "nama_wilayah": "Bandar Agung",
+      "kode_wilayah": "18.04.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.23"
+    },
+    {
+      "nama_wilayah": "Ringin Jaya",
+      "kode_wilayah": "18.04.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.23"
+    },
+    {
+      "nama_wilayah": "Bumi Hantatai",
+      "kode_wilayah": "18.04.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.23"
+    },
+    {
+      "nama_wilayah": "Gunung Ratu",
+      "kode_wilayah": "18.04.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.23"
+    },
+    {
+      "nama_wilayah": "Tanjung Sari",
+      "kode_wilayah": "18.04.23.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.23"
+    },
+    {
+      "nama_wilayah": "Negeri Jaya",
+      "kode_wilayah": "18.04.23.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.23"
+    },
+    {
+      "nama_wilayah": "Tembelang",
+      "kode_wilayah": "18.04.23.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.23"
+    },
+    {
+      "nama_wilayah": "Tri Mekar Jaya",
+      "kode_wilayah": "18.04.23.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.23"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Banua Sibohou III",
+      "kode_wilayah": "12.24.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.06"
+    },
+    {
+      "nama_wilayah": "Harefanaese",
+      "kode_wilayah": "12.24.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.06"
+    },
+    {
+      "nama_wilayah": "Hilimbowo Kare",
+      "kode_wilayah": "12.24.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.06"
+    },
+    {
+      "nama_wilayah": "Laehuwa",
+      "kode_wilayah": "12.24.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.06"
+    },
+    {
+      "nama_wilayah": "Mazingo",
+      "kode_wilayah": "12.24.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.06"
+    },
+    {
+      "nama_wilayah": "Hilina-a",
+      "kode_wilayah": "12.24.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.06"
+    }
+  ]
+}

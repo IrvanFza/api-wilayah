@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Labuan",
+      "kode_wilayah": "72.03.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.09"
+    },
+    {
+      "nama_wilayah": "Labuan Salumbone",
+      "kode_wilayah": "72.03.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.09"
+    },
+    {
+      "nama_wilayah": "Labuan Panimba",
+      "kode_wilayah": "72.03.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.09"
+    },
+    {
+      "nama_wilayah": "Labuan Lelea",
+      "kode_wilayah": "72.03.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.09"
+    },
+    {
+      "nama_wilayah": "Labuan Kungguma",
+      "kode_wilayah": "72.03.09.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.09"
+    },
+    {
+      "nama_wilayah": "Labuan Toposo",
+      "kode_wilayah": "72.03.09.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.09"
+    },
+    {
+      "nama_wilayah": "Labuan Lumbubaka",
+      "kode_wilayah": "72.03.09.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.09"
+    }
+  ]
+}

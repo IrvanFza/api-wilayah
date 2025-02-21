@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bajubang",
+      "kode_wilayah": "15.04.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.04",
+      "kode_kecamatan": "15.04.07"
+    },
+    {
+      "nama_wilayah": "Bungku",
+      "kode_wilayah": "15.04.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.04",
+      "kode_kecamatan": "15.04.07"
+    },
+    {
+      "nama_wilayah": "Pompa Air",
+      "kode_wilayah": "15.04.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.04",
+      "kode_kecamatan": "15.04.07"
+    },
+    {
+      "nama_wilayah": "Ladang Peris",
+      "kode_wilayah": "15.04.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.04",
+      "kode_kecamatan": "15.04.07"
+    },
+    {
+      "nama_wilayah": "Penerokan",
+      "kode_wilayah": "15.04.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.04",
+      "kode_kecamatan": "15.04.07"
+    },
+    {
+      "nama_wilayah": "Petajen",
+      "kode_wilayah": "15.04.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.04",
+      "kode_kecamatan": "15.04.07"
+    },
+    {
+      "nama_wilayah": "Batin",
+      "kode_wilayah": "15.04.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.04",
+      "kode_kecamatan": "15.04.07"
+    },
+    {
+      "nama_wilayah": "Mekar Jaya",
+      "kode_wilayah": "15.04.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.04",
+      "kode_kecamatan": "15.04.07"
+    },
+    {
+      "nama_wilayah": "Sungkai",
+      "kode_wilayah": "15.04.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.04",
+      "kode_kecamatan": "15.04.07"
+    },
+    {
+      "nama_wilayah": "Mekar Sari Nes",
+      "kode_wilayah": "15.04.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.04",
+      "kode_kecamatan": "15.04.07"
+    }
+  ]
+}

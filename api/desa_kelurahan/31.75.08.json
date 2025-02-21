@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Makasar",
+      "kode_wilayah": "31.75.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.08"
+    },
+    {
+      "nama_wilayah": "Pinangranti",
+      "kode_wilayah": "31.75.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.08"
+    },
+    {
+      "nama_wilayah": "Kebon Pala",
+      "kode_wilayah": "31.75.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.08"
+    },
+    {
+      "nama_wilayah": "Halim Perdana Kusuma",
+      "kode_wilayah": "31.75.08.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.08"
+    },
+    {
+      "nama_wilayah": "Cipinang Melayu",
+      "kode_wilayah": "31.75.08.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.08"
+    }
+  ]
+}

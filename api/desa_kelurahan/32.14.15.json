@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Kutamanah",
+      "kode_wilayah": "32.14.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.15"
+    },
+    {
+      "nama_wilayah": "Kertamanah",
+      "kode_wilayah": "32.14.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.15"
+    },
+    {
+      "nama_wilayah": "Ciririp",
+      "kode_wilayah": "32.14.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.15"
+    },
+    {
+      "nama_wilayah": "Sukasari",
+      "kode_wilayah": "32.14.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.15"
+    },
+    {
+      "nama_wilayah": "Parungbanteng",
+      "kode_wilayah": "32.14.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.15"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Biatan Ulu",
+      "kode_wilayah": "64.03.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.13"
+    },
+    {
+      "nama_wilayah": "Biatan Ilir",
+      "kode_wilayah": "64.03.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.13"
+    },
+    {
+      "nama_wilayah": "Karangan",
+      "kode_wilayah": "64.03.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.13"
+    },
+    {
+      "nama_wilayah": "Biatan Lempake",
+      "kode_wilayah": "64.03.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.13"
+    },
+    {
+      "nama_wilayah": "Manunggal Jaya",
+      "kode_wilayah": "64.03.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.13"
+    },
+    {
+      "nama_wilayah": "Biatan Bapinang",
+      "kode_wilayah": "64.03.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.13"
+    },
+    {
+      "nama_wilayah": "Biatan Baru",
+      "kode_wilayah": "64.03.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.13"
+    },
+    {
+      "nama_wilayah": "Bukit Makmur Jaya",
+      "kode_wilayah": "64.03.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.13"
+    }
+  ]
+}

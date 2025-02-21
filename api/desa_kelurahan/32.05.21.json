@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sukaresmi",
+      "kode_wilayah": "32.05.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.21"
+    },
+    {
+      "nama_wilayah": "Cintadamai",
+      "kode_wilayah": "32.05.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.21"
+    },
+    {
+      "nama_wilayah": "Mekarjaya",
+      "kode_wilayah": "32.05.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.21"
+    },
+    {
+      "nama_wilayah": "Sukajaya",
+      "kode_wilayah": "32.05.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.21"
+    },
+    {
+      "nama_wilayah": "Sukamulya",
+      "kode_wilayah": "32.05.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.21"
+    },
+    {
+      "nama_wilayah": "Padamukti",
+      "kode_wilayah": "32.05.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.21"
+    },
+    {
+      "nama_wilayah": "Sukalilah",
+      "kode_wilayah": "32.05.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.21"
+    }
+  ]
+}

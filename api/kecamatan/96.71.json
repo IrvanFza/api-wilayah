@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sorong",
+      "kode_wilayah": "96.71.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "96.71",
+      "kode_provinsi": "96"
+    },
+    {
+      "nama_wilayah": "Sorong Timur",
+      "kode_wilayah": "96.71.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "96.71",
+      "kode_provinsi": "96"
+    },
+    {
+      "nama_wilayah": "Sorong Barat",
+      "kode_wilayah": "96.71.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "96.71",
+      "kode_provinsi": "96"
+    },
+    {
+      "nama_wilayah": "Sorong Kepulauan",
+      "kode_wilayah": "96.71.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "96.71",
+      "kode_provinsi": "96"
+    },
+    {
+      "nama_wilayah": "Sorong Utara",
+      "kode_wilayah": "96.71.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "96.71",
+      "kode_provinsi": "96"
+    },
+    {
+      "nama_wilayah": "Sorong Manoi",
+      "kode_wilayah": "96.71.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "96.71",
+      "kode_provinsi": "96"
+    },
+    {
+      "nama_wilayah": "Sorong Kota",
+      "kode_wilayah": "96.71.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "96.71",
+      "kode_provinsi": "96"
+    },
+    {
+      "nama_wilayah": "Klaurung",
+      "kode_wilayah": "96.71.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "96.71",
+      "kode_provinsi": "96"
+    },
+    {
+      "nama_wilayah": "Malaimsimsa",
+      "kode_wilayah": "96.71.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "96.71",
+      "kode_provinsi": "96"
+    },
+    {
+      "nama_wilayah": "Maladum Mes",
+      "kode_wilayah": "96.71.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "96.71",
+      "kode_provinsi": "96"
+    }
+  ]
+}

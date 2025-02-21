@@ -1,0 +1,694 @@
+{
+  "status": "success",
+  "total": 86,
+  "data": [
+    {
+      "nama_wilayah": "Siguga",
+      "kode_wilayah": "12.20.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Singanyal",
+      "kode_wilayah": "12.20.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Binanga Panasahan",
+      "kode_wilayah": "12.20.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Aek Haruaya",
+      "kode_wilayah": "12.20.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Tanjung Baru B",
+      "kode_wilayah": "12.20.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Pasar Sipiongot",
+      "kode_wilayah": "12.20.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Bintais Julu",
+      "kode_wilayah": "12.20.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Bunut",
+      "kode_wilayah": "12.20.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Paya Ombik",
+      "kode_wilayah": "12.20.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Aek Suhat Jae",
+      "kode_wilayah": "12.20.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Huta Baru Sil",
+      "kode_wilayah": "12.20.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Sijorang",
+      "kode_wilayah": "12.20.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Simaninggir Sip",
+      "kode_wilayah": "12.20.02.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Pangaran Julu I",
+      "kode_wilayah": "12.20.02.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Mompang Lombang",
+      "kode_wilayah": "12.20.02.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Janji Manahan Sil",
+      "kode_wilayah": "12.20.02.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Baringin Sip",
+      "kode_wilayah": "12.20.02.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Gunung Maria",
+      "kode_wilayah": "12.20.02.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Mompang Dolok",
+      "kode_wilayah": "12.20.02.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Aek Rao TN",
+      "kode_wilayah": "12.20.02.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Sijantung Julu",
+      "kode_wilayah": "12.20.02.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Batu Runding",
+      "kode_wilayah": "12.20.02.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Lubuk Godang",
+      "kode_wilayah": "12.20.02.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Bahap",
+      "kode_wilayah": "12.20.02.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Aek Ilung",
+      "kode_wilayah": "12.20.02.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Tarutung Bolak",
+      "kode_wilayah": "12.20.02.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Sungai Pining",
+      "kode_wilayah": "12.20.02.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Siloung",
+      "kode_wilayah": "12.20.02.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Hutaimbaru Gul",
+      "kode_wilayah": "12.20.02.2029",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Sipiongot",
+      "kode_wilayah": "12.20.02.2030",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Gumbot",
+      "kode_wilayah": "12.20.02.2031",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Gunung Selamat",
+      "kode_wilayah": "12.20.02.2032",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Silogo Logo",
+      "kode_wilayah": "12.20.02.2033",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Lubuk Kundur",
+      "kode_wilayah": "12.20.02.2034",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Jambur Batu",
+      "kode_wilayah": "12.20.02.2035",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Simatorkis",
+      "kode_wilayah": "12.20.02.2036",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Rancaran",
+      "kode_wilayah": "12.20.02.2037",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Naga Saribu",
+      "kode_wilayah": "12.20.02.2038",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Simataniari Jae",
+      "kode_wilayah": "12.20.02.2039",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Janji Manahan Gul",
+      "kode_wilayah": "12.20.02.2040",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Simataniari",
+      "kode_wilayah": "12.20.02.2041",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Parmeraan",
+      "kode_wilayah": "12.20.02.2042",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Panca",
+      "kode_wilayah": "12.20.02.2043",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Dalihan Natolu",
+      "kode_wilayah": "12.20.02.2044",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Sungai Datar",
+      "kode_wilayah": "12.20.02.2045",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Lubuk Lanjang",
+      "kode_wilayah": "12.20.02.2046",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Arse",
+      "kode_wilayah": "12.20.02.2047",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Simangambat Tua",
+      "kode_wilayah": "12.20.02.2048",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Sigala Gala",
+      "kode_wilayah": "12.20.02.2049",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Sibayo Jae",
+      "kode_wilayah": "12.20.02.2050",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Dolok Sanggul",
+      "kode_wilayah": "12.20.02.2051",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Silangge",
+      "kode_wilayah": "12.20.02.2052",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Pijor Koling",
+      "kode_wilayah": "12.20.02.2053",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Pagaran Julu II",
+      "kode_wilayah": "12.20.02.2054",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Siala Gundi",
+      "kode_wilayah": "12.20.02.2055",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Siraga HP",
+      "kode_wilayah": "12.20.02.2056",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Aek Sundur",
+      "kode_wilayah": "12.20.02.2057",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Baringin Sil",
+      "kode_wilayah": "12.20.02.2058",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Hula Baringin",
+      "kode_wilayah": "12.20.02.2059",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Nabonggal",
+      "kode_wilayah": "12.20.02.2060",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Purba Tua",
+      "kode_wilayah": "12.20.02.2061",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Tanjung Longat",
+      "kode_wilayah": "12.20.02.2062",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Sibio Bio",
+      "kode_wilayah": "12.20.02.2063",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Situmbaga",
+      "kode_wilayah": "12.20.02.2064",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Sijara Jara",
+      "kode_wilayah": "12.20.02.2065",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Huta Baru Sip",
+      "kode_wilayah": "12.20.02.2066",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Pagaran Siregar",
+      "kode_wilayah": "12.20.02.2067",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Parigi",
+      "kode_wilayah": "12.20.02.2068",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Napasundali",
+      "kode_wilayah": "12.20.02.2069",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Aek Suhat TR",
+      "kode_wilayah": "12.20.02.2070",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Gumaruntar",
+      "kode_wilayah": "12.20.02.2071",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Sijantung Jae",
+      "kode_wilayah": "12.20.02.2072",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Janji Matogu",
+      "kode_wilayah": "12.20.02.2073",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Sialang Dolok",
+      "kode_wilayah": "12.20.02.2074",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Binanga Gumbot",
+      "kode_wilayah": "12.20.02.2075",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Simanosor",
+      "kode_wilayah": "12.20.02.2076",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Bukit Tinggi",
+      "kode_wilayah": "12.20.02.2077",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Simambal",
+      "kode_wilayah": "12.20.02.2078",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Bandar Nauli",
+      "kode_wilayah": "12.20.02.2079",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Sibayo",
+      "kode_wilayah": "12.20.02.2080",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Sinabongan",
+      "kode_wilayah": "12.20.02.2081",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Siranap",
+      "kode_wilayah": "12.20.02.2082",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Aek Tangga",
+      "kode_wilayah": "12.20.02.2083",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Rongkare",
+      "kode_wilayah": "12.20.02.2084",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Siburbur",
+      "kode_wilayah": "12.20.02.2085",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    },
+    {
+      "nama_wilayah": "Pintu Padang Merdeka",
+      "kode_wilayah": "12.20.02.2086",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.20",
+      "kode_kecamatan": "12.20.02"
+    }
+  ]
+}

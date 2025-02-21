@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Mayahan",
+      "kode_wilayah": "33.15.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.11"
+    },
+    {
+      "nama_wilayah": "Pulongrambe",
+      "kode_wilayah": "33.15.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.11"
+    },
+    {
+      "nama_wilayah": "Jono",
+      "kode_wilayah": "33.15.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.11"
+    },
+    {
+      "nama_wilayah": "Selo",
+      "kode_wilayah": "33.15.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.11"
+    },
+    {
+      "nama_wilayah": "Tawangharjo",
+      "kode_wilayah": "33.15.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.11"
+    },
+    {
+      "nama_wilayah": "Tarub",
+      "kode_wilayah": "33.15.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.11"
+    },
+    {
+      "nama_wilayah": "Pojok",
+      "kode_wilayah": "33.15.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.11"
+    },
+    {
+      "nama_wilayah": "Plosorejo",
+      "kode_wilayah": "33.15.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.11"
+    },
+    {
+      "nama_wilayah": "Godan",
+      "kode_wilayah": "33.15.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.11"
+    },
+    {
+      "nama_wilayah": "Kemadohbatur",
+      "kode_wilayah": "33.15.11.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.11"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Kota Besi Hulu",
+      "kode_wilayah": "62.02.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.01"
+    },
+    {
+      "nama_wilayah": "Kota Besi Hilir",
+      "kode_wilayah": "62.02.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.01"
+    },
+    {
+      "nama_wilayah": "Palangan",
+      "kode_wilayah": "62.02.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.01"
+    },
+    {
+      "nama_wilayah": "Hanjalipan",
+      "kode_wilayah": "62.02.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.01"
+    },
+    {
+      "nama_wilayah": "Simpur",
+      "kode_wilayah": "62.02.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.01"
+    },
+    {
+      "nama_wilayah": "Pamalian",
+      "kode_wilayah": "62.02.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.01"
+    },
+    {
+      "nama_wilayah": "Camba",
+      "kode_wilayah": "62.02.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.01"
+    },
+    {
+      "nama_wilayah": "Kandan",
+      "kode_wilayah": "62.02.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.01"
+    },
+    {
+      "nama_wilayah": "Bajarum",
+      "kode_wilayah": "62.02.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.01"
+    },
+    {
+      "nama_wilayah": "Rasau Tumbuh",
+      "kode_wilayah": "62.02.01.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.01"
+    },
+    {
+      "nama_wilayah": "Soren",
+      "kode_wilayah": "62.02.01.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.01"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Lumoy",
+      "kode_wilayah": "81.09.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.09",
+      "kode_kecamatan": "81.09.03"
+    },
+    {
+      "nama_wilayah": "Masawoy",
+      "kode_wilayah": "81.09.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.09",
+      "kode_kecamatan": "81.09.03"
+    },
+    {
+      "nama_wilayah": "Ulima",
+      "kode_wilayah": "81.09.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.09",
+      "kode_kecamatan": "81.09.03"
+    },
+    {
+      "nama_wilayah": "Kampung Baru",
+      "kode_wilayah": "81.09.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.09",
+      "kode_kecamatan": "81.09.03"
+    },
+    {
+      "nama_wilayah": "Siwar",
+      "kode_wilayah": "81.09.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.09",
+      "kode_kecamatan": "81.09.03"
+    },
+    {
+      "nama_wilayah": "Selasi",
+      "kode_wilayah": "81.09.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.09",
+      "kode_kecamatan": "81.09.03"
+    },
+    {
+      "nama_wilayah": "Elara",
+      "kode_wilayah": "81.09.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.09",
+      "kode_kecamatan": "81.09.03"
+    }
+  ]
+}

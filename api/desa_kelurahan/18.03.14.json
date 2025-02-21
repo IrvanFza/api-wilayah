@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tatakarya",
+      "kode_wilayah": "18.03.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.14"
+    },
+    {
+      "nama_wilayah": "Bandar Abung",
+      "kode_wilayah": "18.03.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.14"
+    },
+    {
+      "nama_wilayah": "Bangun Sari",
+      "kode_wilayah": "18.03.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.14"
+    },
+    {
+      "nama_wilayah": "Purba Sakti",
+      "kode_wilayah": "18.03.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.14"
+    },
+    {
+      "nama_wilayah": "Bumi Raharja",
+      "kode_wilayah": "18.03.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.14"
+    },
+    {
+      "nama_wilayah": "Bumi Restu",
+      "kode_wilayah": "18.03.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.14"
+    },
+    {
+      "nama_wilayah": "Bandar Sakti",
+      "kode_wilayah": "18.03.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.14"
+    },
+    {
+      "nama_wilayah": "Karya Sakti",
+      "kode_wilayah": "18.03.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.14"
+    },
+    {
+      "nama_wilayah": "Sukoharjo",
+      "kode_wilayah": "18.03.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.03",
+      "kode_kecamatan": "18.03.14"
+    }
+  ]
+}

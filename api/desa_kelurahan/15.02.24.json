@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sekancing",
+      "kode_wilayah": "15.02.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.24"
+    },
+    {
+      "nama_wilayah": "Sekancing Ilir",
+      "kode_wilayah": "15.02.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.24"
+    },
+    {
+      "nama_wilayah": "Beringin Sanggul",
+      "kode_wilayah": "15.02.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.24"
+    },
+    {
+      "nama_wilayah": "Baru Bukit Punjung",
+      "kode_wilayah": "15.02.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.24"
+    },
+    {
+      "nama_wilayah": "Rantau Limau Kapas",
+      "kode_wilayah": "15.02.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.24"
+    },
+    {
+      "nama_wilayah": "Baru Sungai Sakai",
+      "kode_wilayah": "15.02.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.24"
+    }
+  ]
+}

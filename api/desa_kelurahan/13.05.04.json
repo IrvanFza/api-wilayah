@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Sicincin",
+      "kode_wilayah": "13.05.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.04"
+    },
+    {
+      "nama_wilayah": "Lubuk Pandan",
+      "kode_wilayah": "13.05.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.04"
+    },
+    {
+      "nama_wilayah": "Sungai Asam",
+      "kode_wilayah": "13.05.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.04"
+    }
+  ]
+}

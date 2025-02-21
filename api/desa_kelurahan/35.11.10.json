@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Wonokusumo",
+      "kode_wilayah": "35.11.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.10"
+    },
+    {
+      "nama_wilayah": "Mangli Wetan",
+      "kode_wilayah": "35.11.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.10"
+    },
+    {
+      "nama_wilayah": "Taal",
+      "kode_wilayah": "35.11.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.10"
+    },
+    {
+      "nama_wilayah": "Mrawan",
+      "kode_wilayah": "35.11.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.10"
+    },
+    {
+      "nama_wilayah": "Gunung Anyar",
+      "kode_wilayah": "35.11.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.10"
+    },
+    {
+      "nama_wilayah": "Jurang Sapi",
+      "kode_wilayah": "35.11.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.10"
+    },
+    {
+      "nama_wilayah": "Cindogo",
+      "kode_wilayah": "35.11.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.10"
+    },
+    {
+      "nama_wilayah": "Kalitapen",
+      "kode_wilayah": "35.11.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.10"
+    },
+    {
+      "nama_wilayah": "Tapen",
+      "kode_wilayah": "35.11.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.10"
+    }
+  ]
+}

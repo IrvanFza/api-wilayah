@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Alam",
+      "kode_wilayah": "12.09.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.23"
+    },
+    {
+      "nama_wilayah": "Perkebunan Sei Dadap I/II",
+      "kode_wilayah": "12.09.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.23"
+    },
+    {
+      "nama_wilayah": "Perkebunan Sei Dadap III/IV",
+      "kode_wilayah": "12.09.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.23"
+    },
+    {
+      "nama_wilayah": "Sei Kamah I",
+      "kode_wilayah": "12.09.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.23"
+    },
+    {
+      "nama_wilayah": "Sei Kamah II",
+      "kode_wilayah": "12.09.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.23"
+    },
+    {
+      "nama_wilayah": "Bahung Sibatu-batu",
+      "kode_wilayah": "12.09.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.23"
+    },
+    {
+      "nama_wilayah": "Sei Alim Hasak",
+      "kode_wilayah": "12.09.23.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.23"
+    },
+    {
+      "nama_wilayah": "Tanjung Asri",
+      "kode_wilayah": "12.09.23.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.23"
+    },
+    {
+      "nama_wilayah": "Sei Kamah Baru",
+      "kode_wilayah": "12.09.23.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.23"
+    },
+    {
+      "nama_wilayah": "Pasiran",
+      "kode_wilayah": "12.09.23.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.23"
+    }
+  ]
+}

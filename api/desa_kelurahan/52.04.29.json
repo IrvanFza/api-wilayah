@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Lantung",
+      "kode_wilayah": "52.04.29.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.29"
+    },
+    {
+      "nama_wilayah": "Sepukur",
+      "kode_wilayah": "52.04.29.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.29"
+    },
+    {
+      "nama_wilayah": "Ai Mual",
+      "kode_wilayah": "52.04.29.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.29"
+    },
+    {
+      "nama_wilayah": "Padesa",
+      "kode_wilayah": "52.04.29.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.29"
+    }
+  ]
+}

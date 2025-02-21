@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Koto Nopan",
+      "kode_wilayah": "13.08.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.18"
+    },
+    {
+      "nama_wilayah": "Koto Rajo",
+      "kode_wilayah": "13.08.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.18"
+    },
+    {
+      "nama_wilayah": "Languang",
+      "kode_wilayah": "13.08.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.18"
+    }
+  ]
+}

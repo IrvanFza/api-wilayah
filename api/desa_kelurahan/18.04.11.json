@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Raya",
+      "kode_wilayah": "18.04.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.11"
+    },
+    {
+      "nama_wilayah": "Hanakau",
+      "kode_wilayah": "18.04.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.11"
+    },
+    {
+      "nama_wilayah": "Buay Nyerupa",
+      "kode_wilayah": "18.04.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.11"
+    },
+    {
+      "nama_wilayah": "Tapak Siring",
+      "kode_wilayah": "18.04.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.11"
+    },
+    {
+      "nama_wilayah": "Jaga Raga",
+      "kode_wilayah": "18.04.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.11"
+    },
+    {
+      "nama_wilayah": "Pagar Dewa",
+      "kode_wilayah": "18.04.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.11"
+    },
+    {
+      "nama_wilayah": "Suka Mulya",
+      "kode_wilayah": "18.04.11.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.11"
+    },
+    {
+      "nama_wilayah": "Bandar Baru",
+      "kode_wilayah": "18.04.11.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.11"
+    },
+    {
+      "nama_wilayah": "Bumi Jaya",
+      "kode_wilayah": "18.04.11.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.11"
+    },
+    {
+      "nama_wilayah": "Teba Pering Jaya",
+      "kode_wilayah": "18.04.11.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.11"
+    }
+  ]
+}

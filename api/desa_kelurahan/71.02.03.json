@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Telap",
+      "kode_wilayah": "71.02.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.03"
+    },
+    {
+      "nama_wilayah": "Watumea",
+      "kode_wilayah": "71.02.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.03"
+    },
+    {
+      "nama_wilayah": "Eris",
+      "kode_wilayah": "71.02.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.03"
+    },
+    {
+      "nama_wilayah": "Maumbi",
+      "kode_wilayah": "71.02.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.03"
+    },
+    {
+      "nama_wilayah": "Tandengan",
+      "kode_wilayah": "71.02.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.03"
+    },
+    {
+      "nama_wilayah": "Ranomerut",
+      "kode_wilayah": "71.02.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.03"
+    },
+    {
+      "nama_wilayah": "Touliang Oki",
+      "kode_wilayah": "71.02.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.03"
+    },
+    {
+      "nama_wilayah": "Tandengan Satu",
+      "kode_wilayah": "71.02.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.03"
+    }
+  ]
+}

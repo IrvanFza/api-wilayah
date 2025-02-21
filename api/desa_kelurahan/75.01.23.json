@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Totopo",
+      "kode_wilayah": "75.01.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.23"
+    },
+    {
+      "nama_wilayah": "Bilato",
+      "kode_wilayah": "75.01.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.23"
+    },
+    {
+      "nama_wilayah": "Ilomata",
+      "kode_wilayah": "75.01.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.23"
+    },
+    {
+      "nama_wilayah": "Taula-a",
+      "kode_wilayah": "75.01.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.23"
+    },
+    {
+      "nama_wilayah": "Juriya",
+      "kode_wilayah": "75.01.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.23"
+    },
+    {
+      "nama_wilayah": "Pelehu",
+      "kode_wilayah": "75.01.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.23"
+    },
+    {
+      "nama_wilayah": "Bumela",
+      "kode_wilayah": "75.01.23.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.23"
+    },
+    {
+      "nama_wilayah": "Lamahu",
+      "kode_wilayah": "75.01.23.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.23"
+    },
+    {
+      "nama_wilayah": "Musyawarah",
+      "kode_wilayah": "75.01.23.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.23"
+    },
+    {
+      "nama_wilayah": "Suka Damai",
+      "kode_wilayah": "75.01.23.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.23"
+    }
+  ]
+}

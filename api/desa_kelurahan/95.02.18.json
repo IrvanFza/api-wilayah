@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Awinbon",
+      "kode_wilayah": "95.02.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.18"
+    },
+    {
+      "nama_wilayah": "Nanum Anaip",
+      "kode_wilayah": "95.02.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.18"
+    },
+    {
+      "nama_wilayah": "Mikir",
+      "kode_wilayah": "95.02.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.18"
+    },
+    {
+      "nama_wilayah": "Kawe",
+      "kode_wilayah": "95.02.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.18"
+    },
+    {
+      "nama_wilayah": "Yelobib",
+      "kode_wilayah": "95.02.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.18"
+    }
+  ]
+}

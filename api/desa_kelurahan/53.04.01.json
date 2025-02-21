@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Kewar",
+      "kode_wilayah": "53.04.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.01"
+    },
+    {
+      "nama_wilayah": "Fulur",
+      "kode_wilayah": "53.04.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.01"
+    },
+    {
+      "nama_wilayah": "Duarato",
+      "kode_wilayah": "53.04.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.01"
+    },
+    {
+      "nama_wilayah": "Makir",
+      "kode_wilayah": "53.04.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.01"
+    },
+    {
+      "nama_wilayah": "Lamaksenulu",
+      "kode_wilayah": "53.04.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.01"
+    },
+    {
+      "nama_wilayah": "Dirun",
+      "kode_wilayah": "53.04.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.01"
+    },
+    {
+      "nama_wilayah": "Leowalu",
+      "kode_wilayah": "53.04.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.01"
+    },
+    {
+      "nama_wilayah": "Maudemu",
+      "kode_wilayah": "53.04.01.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.01"
+    },
+    {
+      "nama_wilayah": "Mahuitas",
+      "kode_wilayah": "53.04.01.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.01"
+    }
+  ]
+}

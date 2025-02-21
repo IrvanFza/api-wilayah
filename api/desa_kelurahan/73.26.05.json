@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tullang- Sura",
+      "kode_wilayah": "73.26.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.05"
+    },
+    {
+      "nama_wilayah": "Tongkonan Bassae",
+      "kode_wilayah": "73.26.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.05"
+    },
+    {
+      "nama_wilayah": "Sapan Kua-kua",
+      "kode_wilayah": "73.26.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.05"
+    },
+    {
+      "nama_wilayah": "Rindingkila-",
+      "kode_wilayah": "73.26.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.05"
+    },
+    {
+      "nama_wilayah": "Misa-ba-bana",
+      "kode_wilayah": "73.26.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.05"
+    },
+    {
+      "nama_wilayah": "Issong Kalua-",
+      "kode_wilayah": "73.26.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.05"
+    }
+  ]
+}

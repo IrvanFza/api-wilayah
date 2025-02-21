@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Parlilitan",
+      "kode_wilayah": "12.16.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.16",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Pollung",
+      "kode_wilayah": "12.16.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.16",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Baktiraja",
+      "kode_wilayah": "12.16.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.16",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Paranginan",
+      "kode_wilayah": "12.16.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.16",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Lintong Nihuta",
+      "kode_wilayah": "12.16.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.16",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Dolok Sanggul",
+      "kode_wilayah": "12.16.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.16",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Sijamapolang",
+      "kode_wilayah": "12.16.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.16",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Onan Ganjang",
+      "kode_wilayah": "12.16.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.16",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Pakkat",
+      "kode_wilayah": "12.16.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.16",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Tarabintang",
+      "kode_wilayah": "12.16.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.16",
+      "kode_provinsi": "12"
+    }
+  ]
+}

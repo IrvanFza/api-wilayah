@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Waumere",
+      "kode_wilayah": "74.13.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.09"
+    },
+    {
+      "nama_wilayah": "Tiworo",
+      "kode_wilayah": "74.13.09.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.09"
+    },
+    {
+      "nama_wilayah": "Katela",
+      "kode_wilayah": "74.13.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.09"
+    },
+    {
+      "nama_wilayah": "Lasama",
+      "kode_wilayah": "74.13.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.09"
+    },
+    {
+      "nama_wilayah": "Sido Makmur",
+      "kode_wilayah": "74.13.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.09"
+    },
+    {
+      "nama_wilayah": "Waturempe",
+      "kode_wilayah": "74.13.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.09"
+    },
+    {
+      "nama_wilayah": "Laworo",
+      "kode_wilayah": "74.13.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.09"
+    },
+    {
+      "nama_wilayah": "Wulanga Jaya",
+      "kode_wilayah": "74.13.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.09"
+    },
+    {
+      "nama_wilayah": "Wandoke",
+      "kode_wilayah": "74.13.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.09"
+    }
+  ]
+}

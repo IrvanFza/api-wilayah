@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Amasara",
+      "kode_wilayah": "74.05.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.05",
+      "kode_kecamatan": "74.05.20"
+    },
+    {
+      "nama_wilayah": "Baito",
+      "kode_wilayah": "74.05.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.05",
+      "kode_kecamatan": "74.05.20"
+    },
+    {
+      "nama_wilayah": "Matabubu",
+      "kode_wilayah": "74.05.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.05",
+      "kode_kecamatan": "74.05.20"
+    },
+    {
+      "nama_wilayah": "Mekar Jaya",
+      "kode_wilayah": "74.05.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.05",
+      "kode_kecamatan": "74.05.20"
+    },
+    {
+      "nama_wilayah": "Sambahule",
+      "kode_wilayah": "74.05.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.05",
+      "kode_kecamatan": "74.05.20"
+    },
+    {
+      "nama_wilayah": "Tolihe",
+      "kode_wilayah": "74.05.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.05",
+      "kode_kecamatan": "74.05.20"
+    },
+    {
+      "nama_wilayah": "Wonua Raya",
+      "kode_wilayah": "74.05.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.05",
+      "kode_kecamatan": "74.05.20"
+    },
+    {
+      "nama_wilayah": "Ahuangguluri",
+      "kode_wilayah": "74.05.20.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.05",
+      "kode_kecamatan": "74.05.20"
+    }
+  ]
+}

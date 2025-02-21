@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Slorok",
+      "kode_wilayah": "35.07.31.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.31"
+    },
+    {
+      "nama_wilayah": "Jatikerto",
+      "kode_wilayah": "35.07.31.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.31"
+    },
+    {
+      "nama_wilayah": "Ngadirejo",
+      "kode_wilayah": "35.07.31.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.31"
+    },
+    {
+      "nama_wilayah": "Kromengan",
+      "kode_wilayah": "35.07.31.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.31"
+    },
+    {
+      "nama_wilayah": "Peniwen",
+      "kode_wilayah": "35.07.31.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.31"
+    },
+    {
+      "nama_wilayah": "Jambuwer",
+      "kode_wilayah": "35.07.31.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.31"
+    },
+    {
+      "nama_wilayah": "Karangrejo",
+      "kode_wilayah": "35.07.31.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.31"
+    }
+  ]
+}

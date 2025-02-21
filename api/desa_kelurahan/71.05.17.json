@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kawangkoan Bawah",
+      "kode_wilayah": "71.05.17.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.17"
+    },
+    {
+      "nama_wilayah": "Rumoong Bawah",
+      "kode_wilayah": "71.05.17.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.17"
+    },
+    {
+      "nama_wilayah": "Kapitu",
+      "kode_wilayah": "71.05.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.17"
+    },
+    {
+      "nama_wilayah": "Rumoong Bawah",
+      "kode_wilayah": "71.05.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.17"
+    },
+    {
+      "nama_wilayah": "Tewasen",
+      "kode_wilayah": "71.05.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.17"
+    },
+    {
+      "nama_wilayah": "Pondos",
+      "kode_wilayah": "71.05.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.17"
+    },
+    {
+      "nama_wilayah": "Elusan",
+      "kode_wilayah": "71.05.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.17"
+    },
+    {
+      "nama_wilayah": "Teep",
+      "kode_wilayah": "71.05.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.17"
+    },
+    {
+      "nama_wilayah": "Wakan",
+      "kode_wilayah": "71.05.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.17"
+    },
+    {
+      "nama_wilayah": "Teep Trans",
+      "kode_wilayah": "71.05.17.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.17"
+    }
+  ]
+}

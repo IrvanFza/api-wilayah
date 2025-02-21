@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kuripan",
+      "kode_wilayah": "52.01.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.15"
+    },
+    {
+      "nama_wilayah": "Jagaraga",
+      "kode_wilayah": "52.01.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.15"
+    },
+    {
+      "nama_wilayah": "Kuripan Utara",
+      "kode_wilayah": "52.01.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.15"
+    },
+    {
+      "nama_wilayah": "Kuripan Selatan",
+      "kode_wilayah": "52.01.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.15"
+    },
+    {
+      "nama_wilayah": "Kuripan Timur",
+      "kode_wilayah": "52.01.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.15"
+    },
+    {
+      "nama_wilayah": "Giri Sasak",
+      "kode_wilayah": "52.01.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.15"
+    }
+  ]
+}

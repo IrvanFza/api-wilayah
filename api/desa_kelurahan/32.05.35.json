@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Cisewu",
+      "kode_wilayah": "32.05.35.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.35"
+    },
+    {
+      "nama_wilayah": "Girimukti",
+      "kode_wilayah": "32.05.35.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.35"
+    },
+    {
+      "nama_wilayah": "Pamalayan",
+      "kode_wilayah": "32.05.35.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.35"
+    },
+    {
+      "nama_wilayah": "Cikarang",
+      "kode_wilayah": "32.05.35.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.35"
+    },
+    {
+      "nama_wilayah": "Sukajaya",
+      "kode_wilayah": "32.05.35.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.35"
+    },
+    {
+      "nama_wilayah": "Nyalindung",
+      "kode_wilayah": "32.05.35.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.35"
+    },
+    {
+      "nama_wilayah": "Karangsewu",
+      "kode_wilayah": "32.05.35.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.35"
+    },
+    {
+      "nama_wilayah": "Mekarsewu",
+      "kode_wilayah": "32.05.35.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.35"
+    },
+    {
+      "nama_wilayah": "Panggalih",
+      "kode_wilayah": "32.05.35.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.35"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Berbari",
+      "kode_wilayah": "14.08.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.14"
+    },
+    {
+      "nama_wilayah": "Sungai Limau",
+      "kode_wilayah": "14.08.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.14"
+    },
+    {
+      "nama_wilayah": "Dosan",
+      "kode_wilayah": "14.08.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.14"
+    },
+    {
+      "nama_wilayah": "Benayah",
+      "kode_wilayah": "14.08.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.14"
+    },
+    {
+      "nama_wilayah": "Pebadaran",
+      "kode_wilayah": "14.08.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.14"
+    },
+    {
+      "nama_wilayah": "Dusun Pusaka",
+      "kode_wilayah": "14.08.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.14"
+    },
+    {
+      "nama_wilayah": "Perincit",
+      "kode_wilayah": "14.08.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.14"
+    }
+  ]
+}

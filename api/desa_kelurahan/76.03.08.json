@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Orobua",
+      "kode_wilayah": "76.03.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.08"
+    },
+    {
+      "nama_wilayah": "Paladan",
+      "kode_wilayah": "76.03.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.08"
+    },
+    {
+      "nama_wilayah": "Orobua Timur",
+      "kode_wilayah": "76.03.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.08"
+    },
+    {
+      "nama_wilayah": "Rante Puang",
+      "kode_wilayah": "76.03.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.08"
+    },
+    {
+      "nama_wilayah": "Satenetean",
+      "kode_wilayah": "76.03.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.08"
+    },
+    {
+      "nama_wilayah": "Lisuan Ada",
+      "kode_wilayah": "76.03.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.08"
+    },
+    {
+      "nama_wilayah": "Orobua Selatan",
+      "kode_wilayah": "76.03.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.08"
+    },
+    {
+      "nama_wilayah": "Malangkena Padang",
+      "kode_wilayah": "76.03.08.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.08"
+    },
+    {
+      "nama_wilayah": "Malimbong",
+      "kode_wilayah": "76.03.08.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.08"
+    },
+    {
+      "nama_wilayah": "Marampan Orobua",
+      "kode_wilayah": "76.03.08.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.08"
+    }
+  ]
+}

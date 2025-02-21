@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Paruga",
+      "kode_wilayah": "52.72.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.72",
+      "kode_kecamatan": "52.72.01"
+    },
+    {
+      "nama_wilayah": "Nae",
+      "kode_wilayah": "52.72.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.72",
+      "kode_kecamatan": "52.72.01"
+    },
+    {
+      "nama_wilayah": "Sarae",
+      "kode_wilayah": "52.72.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.72",
+      "kode_kecamatan": "52.72.01"
+    },
+    {
+      "nama_wilayah": "Tanjung",
+      "kode_wilayah": "52.72.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.72",
+      "kode_kecamatan": "52.72.01"
+    },
+    {
+      "nama_wilayah": "Pane",
+      "kode_wilayah": "52.72.01.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.72",
+      "kode_kecamatan": "52.72.01"
+    },
+    {
+      "nama_wilayah": "Dara",
+      "kode_wilayah": "52.72.01.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.72",
+      "kode_kecamatan": "52.72.01"
+    }
+  ]
+}

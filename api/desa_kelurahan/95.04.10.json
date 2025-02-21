@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lugwi",
+      "kode_wilayah": "95.04.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.10"
+    },
+    {
+      "nama_wilayah": "Yaliwak",
+      "kode_wilayah": "95.04.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.10"
+    },
+    {
+      "nama_wilayah": "Teropme",
+      "kode_wilayah": "95.04.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.10"
+    },
+    {
+      "nama_wilayah": "Yigonime",
+      "kode_wilayah": "95.04.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.10"
+    },
+    {
+      "nama_wilayah": "Mome",
+      "kode_wilayah": "95.04.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.10"
+    },
+    {
+      "nama_wilayah": "Bugum",
+      "kode_wilayah": "95.04.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.10"
+    },
+    {
+      "nama_wilayah": "Pagona",
+      "kode_wilayah": "95.04.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.10"
+    },
+    {
+      "nama_wilayah": "Wunabu",
+      "kode_wilayah": "95.04.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.10"
+    },
+    {
+      "nama_wilayah": "Wilileme",
+      "kode_wilayah": "95.04.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.10"
+    },
+    {
+      "nama_wilayah": "Yangguni",
+      "kode_wilayah": "95.04.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.10"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sei Lunang",
+      "kode_wilayah": "12.09.25.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.25"
+    },
+    {
+      "nama_wilayah": "Sei Pasir",
+      "kode_wilayah": "12.09.25.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.25"
+    },
+    {
+      "nama_wilayah": "Sei Tempurung",
+      "kode_wilayah": "12.09.25.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.25"
+    },
+    {
+      "nama_wilayah": "Sarang Helang",
+      "kode_wilayah": "12.09.25.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.25"
+    },
+    {
+      "nama_wilayah": "Sei Sembilang",
+      "kode_wilayah": "12.09.25.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.25"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Cipacing",
+      "kode_wilayah": "32.06.38.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.38"
+    },
+    {
+      "nama_wilayah": "Pagerageung",
+      "kode_wilayah": "32.06.38.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.38"
+    },
+    {
+      "nama_wilayah": "Sukamaju",
+      "kode_wilayah": "32.06.38.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.38"
+    },
+    {
+      "nama_wilayah": "Tanjungkerta",
+      "kode_wilayah": "32.06.38.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.38"
+    },
+    {
+      "nama_wilayah": "Puteran",
+      "kode_wilayah": "32.06.38.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.38"
+    },
+    {
+      "nama_wilayah": "Guranteng",
+      "kode_wilayah": "32.06.38.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.38"
+    },
+    {
+      "nama_wilayah": "Nanggewer",
+      "kode_wilayah": "32.06.38.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.38"
+    },
+    {
+      "nama_wilayah": "Sukapada",
+      "kode_wilayah": "32.06.38.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.38"
+    },
+    {
+      "nama_wilayah": "Pagersari",
+      "kode_wilayah": "32.06.38.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.38"
+    },
+    {
+      "nama_wilayah": "Sukadana",
+      "kode_wilayah": "32.06.38.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.38"
+    }
+  ]
+}

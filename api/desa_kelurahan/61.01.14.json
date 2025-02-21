@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Jirak",
+      "kode_wilayah": "61.01.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.14"
+    },
+    {
+      "nama_wilayah": "Tengguli",
+      "kode_wilayah": "61.01.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.14"
+    },
+    {
+      "nama_wilayah": "Mekar Jaya",
+      "kode_wilayah": "61.01.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.14"
+    },
+    {
+      "nama_wilayah": "Beringin",
+      "kode_wilayah": "61.01.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.14"
+    }
+  ]
+}

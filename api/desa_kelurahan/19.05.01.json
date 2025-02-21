@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung",
+      "kode_wilayah": "19.05.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.05",
+      "kode_kecamatan": "19.05.01"
+    },
+    {
+      "nama_wilayah": "Sungai Daeng",
+      "kode_wilayah": "19.05.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.05",
+      "kode_kecamatan": "19.05.01"
+    },
+    {
+      "nama_wilayah": "Sungai Baru",
+      "kode_wilayah": "19.05.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.05",
+      "kode_kecamatan": "19.05.01"
+    },
+    {
+      "nama_wilayah": "Keranggan",
+      "kode_wilayah": "19.05.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.05",
+      "kode_kecamatan": "19.05.01"
+    },
+    {
+      "nama_wilayah": "Menjelang",
+      "kode_wilayah": "19.05.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.05",
+      "kode_kecamatan": "19.05.01"
+    },
+    {
+      "nama_wilayah": "Air Putih",
+      "kode_wilayah": "19.05.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.05",
+      "kode_kecamatan": "19.05.01"
+    },
+    {
+      "nama_wilayah": "Air Belo",
+      "kode_wilayah": "19.05.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.05",
+      "kode_kecamatan": "19.05.01"
+    },
+    {
+      "nama_wilayah": "Belo Laut",
+      "kode_wilayah": "19.05.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.05",
+      "kode_kecamatan": "19.05.01"
+    },
+    {
+      "nama_wilayah": "Air Limau",
+      "kode_wilayah": "19.05.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.05",
+      "kode_kecamatan": "19.05.01"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Bokon",
+      "kode_wilayah": "95.07.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.01"
+    },
+    {
+      "nama_wilayah": "Oyi",
+      "kode_wilayah": "95.07.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.01"
+    },
+    {
+      "nama_wilayah": "Gurika",
+      "kode_wilayah": "95.07.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.01"
+    },
+    {
+      "nama_wilayah": "Olume",
+      "kode_wilayah": "95.07.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.01"
+    },
+    {
+      "nama_wilayah": "Dura",
+      "kode_wilayah": "95.07.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.01"
+    },
+    {
+      "nama_wilayah": "Langgalo",
+      "kode_wilayah": "95.07.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.01"
+    },
+    {
+      "nama_wilayah": "Kuapur",
+      "kode_wilayah": "95.07.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.01"
+    },
+    {
+      "nama_wilayah": "Wadinalome",
+      "kode_wilayah": "95.07.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.01"
+    },
+    {
+      "nama_wilayah": "Yilondum",
+      "kode_wilayah": "95.07.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.01"
+    },
+    {
+      "nama_wilayah": "Palunggame",
+      "kode_wilayah": "95.07.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.01"
+    },
+    {
+      "nama_wilayah": "Ginime",
+      "kode_wilayah": "95.07.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.01"
+    }
+  ]
+}

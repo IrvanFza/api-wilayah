@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Leato Utara",
+      "kode_wilayah": "75.71.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.08"
+    },
+    {
+      "nama_wilayah": "Leato Selatan",
+      "kode_wilayah": "75.71.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.08"
+    },
+    {
+      "nama_wilayah": "Talumolo",
+      "kode_wilayah": "75.71.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.08"
+    },
+    {
+      "nama_wilayah": "Botu",
+      "kode_wilayah": "75.71.08.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.08"
+    },
+    {
+      "nama_wilayah": "Bugis",
+      "kode_wilayah": "75.71.08.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.08"
+    }
+  ]
+}

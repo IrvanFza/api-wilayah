@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bilokka",
+      "kode_wilayah": "73.14.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.01"
+    },
+    {
+      "nama_wilayah": "Wette-E",
+      "kode_wilayah": "73.14.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.01"
+    },
+    {
+      "nama_wilayah": "Lajonga",
+      "kode_wilayah": "73.14.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.01"
+    },
+    {
+      "nama_wilayah": "Wanio",
+      "kode_wilayah": "73.14.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.01"
+    },
+    {
+      "nama_wilayah": "Wanio Timoreng",
+      "kode_wilayah": "73.14.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.01"
+    },
+    {
+      "nama_wilayah": "Corawali",
+      "kode_wilayah": "73.14.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.01"
+    },
+    {
+      "nama_wilayah": "Lise",
+      "kode_wilayah": "73.14.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.01"
+    },
+    {
+      "nama_wilayah": "Bapangi",
+      "kode_wilayah": "73.14.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.01"
+    },
+    {
+      "nama_wilayah": "Alesalewo",
+      "kode_wilayah": "73.14.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.01"
+    },
+    {
+      "nama_wilayah": "Cenrana",
+      "kode_wilayah": "73.14.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.01"
+    }
+  ]
+}

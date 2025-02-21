@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tampara",
+      "kode_wilayah": "74.07.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.06"
+    },
+    {
+      "nama_wilayah": "Kaswari",
+      "kode_wilayah": "74.07.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.06"
+    },
+    {
+      "nama_wilayah": "Pajam",
+      "kode_wilayah": "74.07.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.06"
+    },
+    {
+      "nama_wilayah": "Langge",
+      "kode_wilayah": "74.07.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.06"
+    },
+    {
+      "nama_wilayah": "Tanomeha",
+      "kode_wilayah": "74.07.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.06"
+    },
+    {
+      "nama_wilayah": "Lentea",
+      "kode_wilayah": "74.07.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.06"
+    },
+    {
+      "nama_wilayah": "Darawa",
+      "kode_wilayah": "74.07.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.06"
+    },
+    {
+      "nama_wilayah": "Sandi",
+      "kode_wilayah": "74.07.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.06"
+    },
+    {
+      "nama_wilayah": "Peropa",
+      "kode_wilayah": "74.07.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.06"
+    },
+    {
+      "nama_wilayah": "Tanjung",
+      "kode_wilayah": "74.07.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.06"
+    }
+  ]
+}

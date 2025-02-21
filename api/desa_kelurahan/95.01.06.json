@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Walelagama",
+      "kode_wilayah": "95.01.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.06"
+    },
+    {
+      "nama_wilayah": "Pugima",
+      "kode_wilayah": "95.01.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.06"
+    },
+    {
+      "nama_wilayah": "Itlay Halitopo",
+      "kode_wilayah": "95.01.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.06"
+    },
+    {
+      "nama_wilayah": "Kubulakma",
+      "kode_wilayah": "95.01.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.06"
+    },
+    {
+      "nama_wilayah": "Kulaken",
+      "kode_wilayah": "95.01.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.06"
+    },
+    {
+      "nama_wilayah": "Wamusage",
+      "kode_wilayah": "95.01.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.06"
+    }
+  ]
+}

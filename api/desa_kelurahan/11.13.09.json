@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Penosan",
+      "kode_wilayah": "11.13.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.09"
+    },
+    {
+      "nama_wilayah": "Sekuelen",
+      "kode_wilayah": "11.13.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.09"
+    },
+    {
+      "nama_wilayah": "Akul",
+      "kode_wilayah": "11.13.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.09"
+    },
+    {
+      "nama_wilayah": "Gegarang",
+      "kode_wilayah": "11.13.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.09"
+    },
+    {
+      "nama_wilayah": "Peparik Gaib",
+      "kode_wilayah": "11.13.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.09"
+    },
+    {
+      "nama_wilayah": "Penosan Sepakat",
+      "kode_wilayah": "11.13.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.09"
+    },
+    {
+      "nama_wilayah": "Tingkem",
+      "kode_wilayah": "11.13.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.09"
+    },
+    {
+      "nama_wilayah": "Ketukah",
+      "kode_wilayah": "11.13.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.09"
+    },
+    {
+      "nama_wilayah": "Peparik Dekat",
+      "kode_wilayah": "11.13.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.09"
+    },
+    {
+      "nama_wilayah": "Blangjerango",
+      "kode_wilayah": "11.13.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.09"
+    }
+  ]
+}

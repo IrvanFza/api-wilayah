@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sangkub",
+      "kode_wilayah": "71.08.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.08",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Bintauna",
+      "kode_wilayah": "71.08.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.08",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Bolangitang Timur",
+      "kode_wilayah": "71.08.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.08",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Bolangitang Barat",
+      "kode_wilayah": "71.08.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.08",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Kaidipang",
+      "kode_wilayah": "71.08.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.08",
+      "kode_provinsi": "71"
+    },
+    {
+      "nama_wilayah": "Pinogaluman",
+      "kode_wilayah": "71.08.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "71.08",
+      "kode_provinsi": "71"
+    }
+  ]
+}

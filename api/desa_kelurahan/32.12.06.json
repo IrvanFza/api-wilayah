@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Mulyasari",
+      "kode_wilayah": "32.12.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.06"
+    },
+    {
+      "nama_wilayah": "Bangodua",
+      "kode_wilayah": "32.12.06.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.06"
+    },
+    {
+      "nama_wilayah": "Beduyut",
+      "kode_wilayah": "32.12.06.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.06"
+    },
+    {
+      "nama_wilayah": "Rancasari",
+      "kode_wilayah": "32.12.06.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.06"
+    },
+    {
+      "nama_wilayah": "Wanasari",
+      "kode_wilayah": "32.12.06.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.06"
+    },
+    {
+      "nama_wilayah": "Karanggetas",
+      "kode_wilayah": "32.12.06.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.06"
+    },
+    {
+      "nama_wilayah": "Tegalgirang",
+      "kode_wilayah": "32.12.06.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.06"
+    },
+    {
+      "nama_wilayah": "Malangsari",
+      "kode_wilayah": "32.12.06.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.06"
+    }
+  ]
+}

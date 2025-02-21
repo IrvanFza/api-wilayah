@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Benteng",
+      "kode_wilayah": "73.15.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.05"
+    },
+    {
+      "nama_wilayah": "Teppo",
+      "kode_wilayah": "73.15.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.05"
+    },
+    {
+      "nama_wilayah": "Tonyamang",
+      "kode_wilayah": "73.15.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.05"
+    },
+    {
+      "nama_wilayah": "Maccirinna",
+      "kode_wilayah": "73.15.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.05"
+    },
+    {
+      "nama_wilayah": "Leppangang",
+      "kode_wilayah": "73.15.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.05"
+    },
+    {
+      "nama_wilayah": "Malimpung",
+      "kode_wilayah": "73.15.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.05"
+    },
+    {
+      "nama_wilayah": "Mattiro Ade",
+      "kode_wilayah": "73.15.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.05"
+    },
+    {
+      "nama_wilayah": "Sipatuo",
+      "kode_wilayah": "73.15.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.05"
+    },
+    {
+      "nama_wilayah": "Padang Loang",
+      "kode_wilayah": "73.15.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.05"
+    },
+    {
+      "nama_wilayah": "Pincara",
+      "kode_wilayah": "73.15.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.05"
+    },
+    {
+      "nama_wilayah": "Masolo",
+      "kode_wilayah": "73.15.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.05"
+    }
+  ]
+}

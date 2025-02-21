@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Pasar Krui",
+      "kode_wilayah": "18.13.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.01"
+    },
+    {
+      "nama_wilayah": "Pasar Kota Krui",
+      "kode_wilayah": "18.13.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.01"
+    },
+    {
+      "nama_wilayah": "Way Redak",
+      "kode_wilayah": "18.13.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.01"
+    },
+    {
+      "nama_wilayah": "Seray",
+      "kode_wilayah": "18.13.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.01"
+    },
+    {
+      "nama_wilayah": "Kampung Jawa",
+      "kode_wilayah": "18.13.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.01"
+    },
+    {
+      "nama_wilayah": "Rawas",
+      "kode_wilayah": "18.13.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.01"
+    },
+    {
+      "nama_wilayah": "Suka Negara",
+      "kode_wilayah": "18.13.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.01"
+    },
+    {
+      "nama_wilayah": "Pahmungan",
+      "kode_wilayah": "18.13.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.01"
+    }
+  ]
+}

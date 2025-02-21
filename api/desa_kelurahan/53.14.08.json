@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Lenguselu",
+      "kode_wilayah": "53.14.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.08"
+    },
+    {
+      "nama_wilayah": "Daleholu",
+      "kode_wilayah": "53.14.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.08"
+    },
+    {
+      "nama_wilayah": "Dodaek",
+      "kode_wilayah": "53.14.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.08"
+    },
+    {
+      "nama_wilayah": "Tebole",
+      "kode_wilayah": "53.14.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.08"
+    },
+    {
+      "nama_wilayah": "Inaoe",
+      "kode_wilayah": "53.14.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.08"
+    },
+    {
+      "nama_wilayah": "Nggelodae",
+      "kode_wilayah": "53.14.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.08"
+    },
+    {
+      "nama_wilayah": "Pilasue",
+      "kode_wilayah": "53.14.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.14",
+      "kode_kecamatan": "53.14.08"
+    }
+  ]
+}

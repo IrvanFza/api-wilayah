@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Cigombong",
+      "kode_wilayah": "32.01.38.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.38"
+    },
+    {
+      "nama_wilayah": "Watesjaya",
+      "kode_wilayah": "32.01.38.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.38"
+    },
+    {
+      "nama_wilayah": "Ciburuy",
+      "kode_wilayah": "32.01.38.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.38"
+    },
+    {
+      "nama_wilayah": "Srogol",
+      "kode_wilayah": "32.01.38.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.38"
+    },
+    {
+      "nama_wilayah": "Cisalada",
+      "kode_wilayah": "32.01.38.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.38"
+    },
+    {
+      "nama_wilayah": "Tugujaya",
+      "kode_wilayah": "32.01.38.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.38"
+    },
+    {
+      "nama_wilayah": "Pasirjaya",
+      "kode_wilayah": "32.01.38.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.38"
+    },
+    {
+      "nama_wilayah": "Ciburayut",
+      "kode_wilayah": "32.01.38.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.38"
+    },
+    {
+      "nama_wilayah": "Ciadeg",
+      "kode_wilayah": "32.01.38.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.38"
+    }
+  ]
+}

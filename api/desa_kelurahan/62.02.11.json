@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Parebok",
+      "kode_wilayah": "62.02.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.11"
+    },
+    {
+      "nama_wilayah": "Basawang",
+      "kode_wilayah": "62.02.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.11"
+    },
+    {
+      "nama_wilayah": "Lampuyang",
+      "kode_wilayah": "62.02.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.11"
+    },
+    {
+      "nama_wilayah": "Ujung Pandaran",
+      "kode_wilayah": "62.02.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.11"
+    },
+    {
+      "nama_wilayah": "Regei Lestari",
+      "kode_wilayah": "62.02.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.11"
+    },
+    {
+      "nama_wilayah": "Kuin Permai",
+      "kode_wilayah": "62.02.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.11"
+    }
+  ]
+}

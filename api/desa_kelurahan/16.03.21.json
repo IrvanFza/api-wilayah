@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Embacang Kelekar",
+      "kode_wilayah": "16.03.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.21"
+    },
+    {
+      "nama_wilayah": "Menanti",
+      "kode_wilayah": "16.03.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.21"
+    },
+    {
+      "nama_wilayah": "Menanti Selatan",
+      "kode_wilayah": "16.03.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.21"
+    },
+    {
+      "nama_wilayah": "Suban Baru",
+      "kode_wilayah": "16.03.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.21"
+    },
+    {
+      "nama_wilayah": "Pelempang",
+      "kode_wilayah": "16.03.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.21"
+    },
+    {
+      "nama_wilayah": "Teluk Jaya",
+      "kode_wilayah": "16.03.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.21"
+    },
+    {
+      "nama_wilayah": "Tanjung Medang",
+      "kode_wilayah": "16.03.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.21"
+    }
+  ]
+}

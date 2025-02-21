@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Polinggona",
+      "kode_wilayah": "74.01.25.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.25"
+    },
+    {
+      "nama_wilayah": "Puudongi",
+      "kode_wilayah": "74.01.25.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.25"
+    },
+    {
+      "nama_wilayah": "Plasma Jaya",
+      "kode_wilayah": "74.01.25.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.25"
+    },
+    {
+      "nama_wilayah": "Tanggeau",
+      "kode_wilayah": "74.01.25.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.25"
+    },
+    {
+      "nama_wilayah": "Wulonggere",
+      "kode_wilayah": "74.01.25.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.25"
+    },
+    {
+      "nama_wilayah": "Pondowae",
+      "kode_wilayah": "74.01.25.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.25"
+    },
+    {
+      "nama_wilayah": "Lamondape",
+      "kode_wilayah": "74.01.25.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.25"
+    }
+  ]
+}

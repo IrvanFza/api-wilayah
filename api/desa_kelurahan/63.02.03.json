@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Teluk Sirih",
+      "kode_wilayah": "63.02.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.03"
+    },
+    {
+      "nama_wilayah": "Sungai Bahim",
+      "kode_wilayah": "63.02.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.03"
+    },
+    {
+      "nama_wilayah": "Tanjung Seloka",
+      "kode_wilayah": "63.02.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.03"
+    },
+    {
+      "nama_wilayah": "Tanjung Serudung",
+      "kode_wilayah": "63.02.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.03"
+    },
+    {
+      "nama_wilayah": "Alle-Alle",
+      "kode_wilayah": "63.02.03.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.03"
+    },
+    {
+      "nama_wilayah": "Sungai Bulan",
+      "kode_wilayah": "63.02.03.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.03"
+    },
+    {
+      "nama_wilayah": "Labuan Mas",
+      "kode_wilayah": "63.02.03.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.03"
+    },
+    {
+      "nama_wilayah": "Tanjung Seloka Utara",
+      "kode_wilayah": "63.02.03.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.03"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Seputuk",
+      "kode_wilayah": "65.04.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.04",
+      "kode_kecamatan": "65.04.05"
+    },
+    {
+      "nama_wilayah": "Rian",
+      "kode_wilayah": "65.04.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.04",
+      "kode_kecamatan": "65.04.05"
+    },
+    {
+      "nama_wilayah": "Balayan Ari",
+      "kode_wilayah": "65.04.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.04",
+      "kode_kecamatan": "65.04.05"
+    },
+    {
+      "nama_wilayah": "Rian Rayo",
+      "kode_wilayah": "65.04.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.04",
+      "kode_kecamatan": "65.04.05"
+    },
+    {
+      "nama_wilayah": "Kapuak",
+      "kode_wilayah": "65.04.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.04",
+      "kode_kecamatan": "65.04.05"
+    },
+    {
+      "nama_wilayah": "Sapari",
+      "kode_wilayah": "65.04.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.04",
+      "kode_kecamatan": "65.04.05"
+    }
+  ]
+}

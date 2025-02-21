@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Ampel",
+      "kode_wilayah": "35.78.16.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.16"
+    },
+    {
+      "nama_wilayah": "Pegirian",
+      "kode_wilayah": "35.78.16.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.16"
+    },
+    {
+      "nama_wilayah": "Wonokusumo",
+      "kode_wilayah": "35.78.16.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.16"
+    },
+    {
+      "nama_wilayah": "Ujung",
+      "kode_wilayah": "35.78.16.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.16"
+    },
+    {
+      "nama_wilayah": "Sidotopo",
+      "kode_wilayah": "35.78.16.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.16"
+    }
+  ]
+}

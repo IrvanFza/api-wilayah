@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Kaliau-",
+      "kode_wilayah": "61.01.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.09"
+    },
+    {
+      "nama_wilayah": "Sebunga",
+      "kode_wilayah": "61.01.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.09"
+    },
+    {
+      "nama_wilayah": "Santaban",
+      "kode_wilayah": "61.01.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.09"
+    },
+    {
+      "nama_wilayah": "Sanatab",
+      "kode_wilayah": "61.01.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.09"
+    },
+    {
+      "nama_wilayah": "Sungai Bening",
+      "kode_wilayah": "61.01.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.09"
+    }
+  ]
+}

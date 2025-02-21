@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Deli Tua",
+      "kode_wilayah": "12.07.22.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.07",
+      "kode_kecamatan": "12.07.22"
+    },
+    {
+      "nama_wilayah": "Deli Tua Timur",
+      "kode_wilayah": "12.07.22.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.07",
+      "kode_kecamatan": "12.07.22"
+    },
+    {
+      "nama_wilayah": "Deli Tua Barat",
+      "kode_wilayah": "12.07.22.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.07",
+      "kode_kecamatan": "12.07.22"
+    },
+    {
+      "nama_wilayah": "Kedai Durian",
+      "kode_wilayah": "12.07.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.07",
+      "kode_kecamatan": "12.07.22"
+    },
+    {
+      "nama_wilayah": "Suka Makmur",
+      "kode_wilayah": "12.07.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.07",
+      "kode_kecamatan": "12.07.22"
+    },
+    {
+      "nama_wilayah": "Mekar Sari",
+      "kode_wilayah": "12.07.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.07",
+      "kode_kecamatan": "12.07.22"
+    }
+  ]
+}

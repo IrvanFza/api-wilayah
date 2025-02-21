@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Lompoe",
+      "kode_wilayah": "73.72.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.72",
+      "kode_kecamatan": "73.72.01"
+    },
+    {
+      "nama_wilayah": "Watang Bacukiki",
+      "kode_wilayah": "73.72.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.72",
+      "kode_kecamatan": "73.72.01"
+    },
+    {
+      "nama_wilayah": "Lemoe",
+      "kode_wilayah": "73.72.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.72",
+      "kode_kecamatan": "73.72.01"
+    },
+    {
+      "nama_wilayah": "Galung Maloang",
+      "kode_wilayah": "73.72.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.72",
+      "kode_kecamatan": "73.72.01"
+    }
+  ]
+}

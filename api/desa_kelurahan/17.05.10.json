@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Puguk",
+      "kode_wilayah": "17.05.10.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.10"
+    },
+    {
+      "nama_wilayah": "Talang Rami",
+      "kode_wilayah": "17.05.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.10"
+    },
+    {
+      "nama_wilayah": "Talang Beringin",
+      "kode_wilayah": "17.05.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.10"
+    },
+    {
+      "nama_wilayah": "Pandan",
+      "kode_wilayah": "17.05.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.10"
+    },
+    {
+      "nama_wilayah": "Selinsingan",
+      "kode_wilayah": "17.05.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.10"
+    },
+    {
+      "nama_wilayah": "Simpang",
+      "kode_wilayah": "17.05.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.10"
+    },
+    {
+      "nama_wilayah": "Sekalak",
+      "kode_wilayah": "17.05.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.10"
+    },
+    {
+      "nama_wilayah": "Lubuk Resam",
+      "kode_wilayah": "17.05.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.10"
+    },
+    {
+      "nama_wilayah": "Sinar Pagi",
+      "kode_wilayah": "17.05.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.10"
+    },
+    {
+      "nama_wilayah": "Talang Empat",
+      "kode_wilayah": "17.05.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.05",
+      "kode_kecamatan": "17.05.10"
+    }
+  ]
+}

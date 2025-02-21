@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Oebobo",
+      "kode_wilayah": "53.71.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.71",
+      "kode_kecamatan": "53.71.04"
+    },
+    {
+      "nama_wilayah": "Oetete",
+      "kode_wilayah": "53.71.04.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.71",
+      "kode_kecamatan": "53.71.04"
+    },
+    {
+      "nama_wilayah": "Oebufu",
+      "kode_wilayah": "53.71.04.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.71",
+      "kode_kecamatan": "53.71.04"
+    },
+    {
+      "nama_wilayah": "Liliba",
+      "kode_wilayah": "53.71.04.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.71",
+      "kode_kecamatan": "53.71.04"
+    },
+    {
+      "nama_wilayah": "Fatululi",
+      "kode_wilayah": "53.71.04.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.71",
+      "kode_kecamatan": "53.71.04"
+    },
+    {
+      "nama_wilayah": "Kayu Putih",
+      "kode_wilayah": "53.71.04.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.71",
+      "kode_kecamatan": "53.71.04"
+    },
+    {
+      "nama_wilayah": "Tuak Daun Merah",
+      "kode_wilayah": "53.71.04.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.71",
+      "kode_kecamatan": "53.71.04"
+    }
+  ]
+}

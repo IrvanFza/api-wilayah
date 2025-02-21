@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Banjar Manis",
+      "kode_wilayah": "18.06.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.20"
+    },
+    {
+      "nama_wilayah": "Campang",
+      "kode_wilayah": "18.06.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.20"
+    },
+    {
+      "nama_wilayah": "Kuta Dalom",
+      "kode_wilayah": "18.06.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.20"
+    },
+    {
+      "nama_wilayah": "Purwodadi",
+      "kode_wilayah": "18.06.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.20"
+    },
+    {
+      "nama_wilayah": "Gisting Bawah",
+      "kode_wilayah": "18.06.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.20"
+    },
+    {
+      "nama_wilayah": "Gisting Atas",
+      "kode_wilayah": "18.06.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.20"
+    },
+    {
+      "nama_wilayah": "Sidokaton",
+      "kode_wilayah": "18.06.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.20"
+    },
+    {
+      "nama_wilayah": "Landbaw",
+      "kode_wilayah": "18.06.20.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.20"
+    },
+    {
+      "nama_wilayah": "Gisting Permai",
+      "kode_wilayah": "18.06.20.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.06",
+      "kode_kecamatan": "18.06.20"
+    }
+  ]
+}

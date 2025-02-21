@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Cidadap",
+      "kode_wilayah": "32.03.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.15"
+    },
+    {
+      "nama_wilayah": "Cimenteng",
+      "kode_wilayah": "32.03.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.15"
+    },
+    {
+      "nama_wilayah": "Susukan",
+      "kode_wilayah": "32.03.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.15"
+    },
+    {
+      "nama_wilayah": "Sukajadi",
+      "kode_wilayah": "32.03.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.15"
+    },
+    {
+      "nama_wilayah": "Sukadana",
+      "kode_wilayah": "32.03.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.15"
+    },
+    {
+      "nama_wilayah": "Margaluyu",
+      "kode_wilayah": "32.03.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.15"
+    },
+    {
+      "nama_wilayah": "Karyamukti",
+      "kode_wilayah": "32.03.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.15"
+    },
+    {
+      "nama_wilayah": "Campaka",
+      "kode_wilayah": "32.03.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.15"
+    },
+    {
+      "nama_wilayah": "Wangunjaya",
+      "kode_wilayah": "32.03.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.15"
+    },
+    {
+      "nama_wilayah": "Girimukti",
+      "kode_wilayah": "32.03.15.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.15"
+    },
+    {
+      "nama_wilayah": "Mekarjaya",
+      "kode_wilayah": "32.03.15.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.15"
+    }
+  ]
+}

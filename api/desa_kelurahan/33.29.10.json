@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Cenang",
+      "kode_wilayah": "33.29.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.10"
+    },
+    {
+      "nama_wilayah": "Dukuhmaja",
+      "kode_wilayah": "33.29.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.10"
+    },
+    {
+      "nama_wilayah": "Jatirokeh",
+      "kode_wilayah": "33.29.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.10"
+    },
+    {
+      "nama_wilayah": "Karangsembung",
+      "kode_wilayah": "33.29.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.10"
+    },
+    {
+      "nama_wilayah": "Songgom",
+      "kode_wilayah": "33.29.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.10"
+    },
+    {
+      "nama_wilayah": "Wanacala",
+      "kode_wilayah": "33.29.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.10"
+    },
+    {
+      "nama_wilayah": "Wanatawang",
+      "kode_wilayah": "33.29.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.10"
+    },
+    {
+      "nama_wilayah": "Gegerkunci",
+      "kode_wilayah": "33.29.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.10"
+    },
+    {
+      "nama_wilayah": "Jatimakmur",
+      "kode_wilayah": "33.29.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.10"
+    },
+    {
+      "nama_wilayah": "Songgom Lor",
+      "kode_wilayah": "33.29.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.29",
+      "kode_kecamatan": "33.29.10"
+    }
+  ]
+}

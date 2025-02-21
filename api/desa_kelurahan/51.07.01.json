@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Nongan",
+      "kode_wilayah": "51.07.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.01"
+    },
+    {
+      "nama_wilayah": "Rendang",
+      "kode_wilayah": "51.07.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.01"
+    },
+    {
+      "nama_wilayah": "Menanga",
+      "kode_wilayah": "51.07.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.01"
+    },
+    {
+      "nama_wilayah": "Besakih",
+      "kode_wilayah": "51.07.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.01"
+    },
+    {
+      "nama_wilayah": "Pempatan",
+      "kode_wilayah": "51.07.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.01"
+    },
+    {
+      "nama_wilayah": "Pesaban",
+      "kode_wilayah": "51.07.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.01"
+    }
+  ]
+}

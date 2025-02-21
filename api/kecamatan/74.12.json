@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Wawonii Barat",
+      "kode_wilayah": "74.12.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.12",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Wawonii Utara",
+      "kode_wilayah": "74.12.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.12",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Wawonii Timur Laut",
+      "kode_wilayah": "74.12.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.12",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Wawonii Timur",
+      "kode_wilayah": "74.12.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.12",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Wawonii Tenggara",
+      "kode_wilayah": "74.12.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.12",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Wawonii Selatan",
+      "kode_wilayah": "74.12.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.12",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Wawonii Tengah",
+      "kode_wilayah": "74.12.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.12",
+      "kode_provinsi": "74"
+    }
+  ]
+}

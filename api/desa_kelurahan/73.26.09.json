@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tikala",
+      "kode_wilayah": "73.26.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.09"
+    },
+    {
+      "nama_wilayah": "Buntu Barana",
+      "kode_wilayah": "73.26.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.09"
+    },
+    {
+      "nama_wilayah": "Buntu Batu",
+      "kode_wilayah": "73.26.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.09"
+    },
+    {
+      "nama_wilayah": "Sereale",
+      "kode_wilayah": "73.26.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.09"
+    },
+    {
+      "nama_wilayah": "Embatau",
+      "kode_wilayah": "73.26.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.09"
+    },
+    {
+      "nama_wilayah": "Benteng Ka-do To-ria",
+      "kode_wilayah": "73.26.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.09"
+    },
+    {
+      "nama_wilayah": "Pangden",
+      "kode_wilayah": "73.26.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.09"
+    }
+  ]
+}

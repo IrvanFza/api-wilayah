@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Selajambe",
+      "kode_wilayah": "32.08.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.15"
+    },
+    {
+      "nama_wilayah": "Cantilan",
+      "kode_wilayah": "32.08.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.15"
+    },
+    {
+      "nama_wilayah": "Ciberung",
+      "kode_wilayah": "32.08.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.15"
+    },
+    {
+      "nama_wilayah": "Kutawaringin",
+      "kode_wilayah": "32.08.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.15"
+    },
+    {
+      "nama_wilayah": "Jamberama",
+      "kode_wilayah": "32.08.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.15"
+    },
+    {
+      "nama_wilayah": "Bagawat",
+      "kode_wilayah": "32.08.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.15"
+    },
+    {
+      "nama_wilayah": "Padahurip",
+      "kode_wilayah": "32.08.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.08",
+      "kode_kecamatan": "32.08.15"
+    }
+  ]
+}

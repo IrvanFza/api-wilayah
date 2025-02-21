@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Delapan Ulu",
+      "kode_wilayah": "16.71.17.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.17"
+    },
+    {
+      "nama_wilayah": "Sembilan Sepuluh Ulu",
+      "kode_wilayah": "16.71.17.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.17"
+    },
+    {
+      "nama_wilayah": "Lima-belas Ulu",
+      "kode_wilayah": "16.71.17.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.17"
+    },
+    {
+      "nama_wilayah": "Silaberanti",
+      "kode_wilayah": "16.71.17.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.17"
+    },
+    {
+      "nama_wilayah": "Tuankentang",
+      "kode_wilayah": "16.71.17.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.17"
+    }
+  ]
+}

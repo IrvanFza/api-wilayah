@@ -1,0 +1,206 @@
+{
+  "status": "success",
+  "total": 25,
+  "data": [
+    {
+      "nama_wilayah": "Purwosari",
+      "kode_wilayah": "33.19.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Sunggingan",
+      "kode_wilayah": "33.19.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Panjunan",
+      "kode_wilayah": "33.19.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Wergu Wetan",
+      "kode_wilayah": "33.19.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Wergu Kulon",
+      "kode_wilayah": "33.19.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Mlati Kidul",
+      "kode_wilayah": "33.19.02.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Mlati Norowito",
+      "kode_wilayah": "33.19.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Kerjasan",
+      "kode_wilayah": "33.19.02.1017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Kajeksan",
+      "kode_wilayah": "33.19.02.1018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Janggalan",
+      "kode_wilayah": "33.19.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Demangan",
+      "kode_wilayah": "33.19.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Mlati Lor",
+      "kode_wilayah": "33.19.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Nganguk",
+      "kode_wilayah": "33.19.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Kramat",
+      "kode_wilayah": "33.19.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Demaan",
+      "kode_wilayah": "33.19.02.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Langgardalem",
+      "kode_wilayah": "33.19.02.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Kauman",
+      "kode_wilayah": "33.19.02.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Damaran",
+      "kode_wilayah": "33.19.02.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Krandon",
+      "kode_wilayah": "33.19.02.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Singocandi",
+      "kode_wilayah": "33.19.02.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Glantengan",
+      "kode_wilayah": "33.19.02.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Kaliputu",
+      "kode_wilayah": "33.19.02.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Barongan",
+      "kode_wilayah": "33.19.02.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Burikan",
+      "kode_wilayah": "33.19.02.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    },
+    {
+      "nama_wilayah": "Rendeng",
+      "kode_wilayah": "33.19.02.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.02"
+    }
+  ]
+}

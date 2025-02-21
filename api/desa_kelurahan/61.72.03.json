@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Pajintan",
+      "kode_wilayah": "61.72.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.03"
+    },
+    {
+      "nama_wilayah": "Nyarumkop",
+      "kode_wilayah": "61.72.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.03"
+    },
+    {
+      "nama_wilayah": "Maya Sopa",
+      "kode_wilayah": "61.72.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.03"
+    },
+    {
+      "nama_wilayah": "Bagak Sahwa",
+      "kode_wilayah": "61.72.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.03"
+    },
+    {
+      "nama_wilayah": "Sanggau Kulor",
+      "kode_wilayah": "61.72.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.03"
+    }
+  ]
+}

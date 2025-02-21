@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Batu Kambing",
+      "kode_wilayah": "13.06.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.13"
+    },
+    {
+      "nama_wilayah": "Sitalang",
+      "kode_wilayah": "13.06.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.13"
+    },
+    {
+      "nama_wilayah": "Bawan",
+      "kode_wilayah": "13.06.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.13"
+    },
+    {
+      "nama_wilayah": "Sitanang",
+      "kode_wilayah": "13.06.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.13"
+    }
+  ]
+}

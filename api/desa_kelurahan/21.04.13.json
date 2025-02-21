@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Batu Belubang",
+      "kode_wilayah": "21.04.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.13"
+    },
+    {
+      "nama_wilayah": "Cempa",
+      "kode_wilayah": "21.04.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.13"
+    },
+    {
+      "nama_wilayah": "Pasir Panjang",
+      "kode_wilayah": "21.04.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.13"
+    },
+    {
+      "nama_wilayah": "Tanjung Kelit",
+      "kode_wilayah": "21.04.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.13"
+    },
+    {
+      "nama_wilayah": "Tanjung Lipat",
+      "kode_wilayah": "21.04.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.13"
+    },
+    {
+      "nama_wilayah": "Rejai",
+      "kode_wilayah": "21.04.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.13"
+    }
+  ]
+}

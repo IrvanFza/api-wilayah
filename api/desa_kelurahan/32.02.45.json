@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tegalbuleud",
+      "kode_wilayah": "32.02.45.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.45"
+    },
+    {
+      "nama_wilayah": "Bangbayang",
+      "kode_wilayah": "32.02.45.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.45"
+    },
+    {
+      "nama_wilayah": "Sumberjaya",
+      "kode_wilayah": "32.02.45.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.45"
+    },
+    {
+      "nama_wilayah": "Calingcing",
+      "kode_wilayah": "32.02.45.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.45"
+    },
+    {
+      "nama_wilayah": "Nangela",
+      "kode_wilayah": "32.02.45.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.45"
+    },
+    {
+      "nama_wilayah": "Rambay",
+      "kode_wilayah": "32.02.45.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.45"
+    },
+    {
+      "nama_wilayah": "Buniasih",
+      "kode_wilayah": "32.02.45.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.45"
+    },
+    {
+      "nama_wilayah": "Sirnamekar",
+      "kode_wilayah": "32.02.45.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.45"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kemasrindo",
+      "kode_wilayah": "16.71.13.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.13"
+    },
+    {
+      "nama_wilayah": "Kemangagung",
+      "kode_wilayah": "16.71.13.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.13"
+    },
+    {
+      "nama_wilayah": "Keramasan",
+      "kode_wilayah": "16.71.13.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.13"
+    },
+    {
+      "nama_wilayah": "Kertapati",
+      "kode_wilayah": "16.71.13.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.13"
+    },
+    {
+      "nama_wilayah": "Karyajaya",
+      "kode_wilayah": "16.71.13.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.13"
+    },
+    {
+      "nama_wilayah": "Oganbaru",
+      "kode_wilayah": "16.71.13.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.13"
+    }
+  ]
+}

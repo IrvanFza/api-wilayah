@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Meranti",
+      "kode_wilayah": "15.02.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.19"
+    },
+    {
+      "nama_wilayah": "Bukit Bungkul",
+      "kode_wilayah": "15.02.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.19"
+    },
+    {
+      "nama_wilayah": "Rasau",
+      "kode_wilayah": "15.02.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.19"
+    },
+    {
+      "nama_wilayah": "Lantak Seribu",
+      "kode_wilayah": "15.02.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.19"
+    }
+  ]
+}

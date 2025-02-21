@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Alam Kenanga",
+      "kode_wilayah": "82.04.28.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.28"
+    },
+    {
+      "nama_wilayah": "Alam Pelita",
+      "kode_wilayah": "82.04.28.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.28"
+    },
+    {
+      "nama_wilayah": "Jikohai",
+      "kode_wilayah": "82.04.28.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.28"
+    },
+    {
+      "nama_wilayah": "Manatahan",
+      "kode_wilayah": "82.04.28.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.28"
+    },
+    {
+      "nama_wilayah": "Soa Sangaji",
+      "kode_wilayah": "82.04.28.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.28"
+    },
+    {
+      "nama_wilayah": "Tapa",
+      "kode_wilayah": "82.04.28.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.28"
+    }
+  ]
+}

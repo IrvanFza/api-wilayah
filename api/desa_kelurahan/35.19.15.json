@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Ngadirejo",
+      "kode_wilayah": "35.19.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.19",
+      "kode_kecamatan": "35.19.15"
+    },
+    {
+      "nama_wilayah": "Jatirejo",
+      "kode_wilayah": "35.19.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.19",
+      "kode_kecamatan": "35.19.15"
+    },
+    {
+      "nama_wilayah": "Banyukambang",
+      "kode_wilayah": "35.19.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.19",
+      "kode_kecamatan": "35.19.15"
+    },
+    {
+      "nama_wilayah": "Sidomulyo",
+      "kode_wilayah": "35.19.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.19",
+      "kode_kecamatan": "35.19.15"
+    },
+    {
+      "nama_wilayah": "Wonoasri",
+      "kode_wilayah": "35.19.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.19",
+      "kode_kecamatan": "35.19.15"
+    },
+    {
+      "nama_wilayah": "Plumpungrejo",
+      "kode_wilayah": "35.19.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.19",
+      "kode_kecamatan": "35.19.15"
+    },
+    {
+      "nama_wilayah": "Bancong",
+      "kode_wilayah": "35.19.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.19",
+      "kode_kecamatan": "35.19.15"
+    },
+    {
+      "nama_wilayah": "Purwosari",
+      "kode_wilayah": "35.19.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.19",
+      "kode_kecamatan": "35.19.15"
+    },
+    {
+      "nama_wilayah": "Klitik",
+      "kode_wilayah": "35.19.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.19",
+      "kode_kecamatan": "35.19.15"
+    },
+    {
+      "nama_wilayah": "Buduran",
+      "kode_wilayah": "35.19.15.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.19",
+      "kode_kecamatan": "35.19.15"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Potulando",
+      "kode_wilayah": "53.08.19.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.08",
+      "kode_kecamatan": "53.08.19"
+    },
+    {
+      "nama_wilayah": "Onekore",
+      "kode_wilayah": "53.08.19.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.08",
+      "kode_kecamatan": "53.08.19"
+    },
+    {
+      "nama_wilayah": "Kelimutu",
+      "kode_wilayah": "53.08.19.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.08",
+      "kode_kecamatan": "53.08.19"
+    },
+    {
+      "nama_wilayah": "Paupire",
+      "kode_wilayah": "53.08.19.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.08",
+      "kode_kecamatan": "53.08.19"
+    }
+  ]
+}

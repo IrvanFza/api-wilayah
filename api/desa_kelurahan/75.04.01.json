@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Torosiaje Jaya",
+      "kode_wilayah": "75.04.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.01"
+    },
+    {
+      "nama_wilayah": "Popayato",
+      "kode_wilayah": "75.04.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.01"
+    },
+    {
+      "nama_wilayah": "Telaga",
+      "kode_wilayah": "75.04.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.01"
+    },
+    {
+      "nama_wilayah": "Torosiaje",
+      "kode_wilayah": "75.04.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.01"
+    },
+    {
+      "nama_wilayah": "Bukit Tingki",
+      "kode_wilayah": "75.04.01.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.01"
+    },
+    {
+      "nama_wilayah": "Tunas Harapan",
+      "kode_wilayah": "75.04.01.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.01"
+    },
+    {
+      "nama_wilayah": "Trikora",
+      "kode_wilayah": "75.04.01.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.01"
+    },
+    {
+      "nama_wilayah": "Dambalo",
+      "kode_wilayah": "75.04.01.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.01"
+    },
+    {
+      "nama_wilayah": "Telaga Biru",
+      "kode_wilayah": "75.04.01.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.01"
+    },
+    {
+      "nama_wilayah": "Bumi Bahari",
+      "kode_wilayah": "75.04.01.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.01"
+    }
+  ]
+}

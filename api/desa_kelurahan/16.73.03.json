@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Lubuk Kupang",
+      "kode_wilayah": "16.73.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.03"
+    },
+    {
+      "nama_wilayah": "Rahmah",
+      "kode_wilayah": "16.73.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.03"
+    },
+    {
+      "nama_wilayah": "Jukung",
+      "kode_wilayah": "16.73.03.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.03"
+    },
+    {
+      "nama_wilayah": "Air Kati",
+      "kode_wilayah": "16.73.03.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.03"
+    },
+    {
+      "nama_wilayah": "Air Teman",
+      "kode_wilayah": "16.73.03.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.03"
+    },
+    {
+      "nama_wilayah": "Perumnas Rahmah",
+      "kode_wilayah": "16.73.03.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.03"
+    },
+    {
+      "nama_wilayah": "Lubuk Binjai",
+      "kode_wilayah": "16.73.03.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.03"
+    }
+  ]
+}

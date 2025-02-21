@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kuala Pembuang I",
+      "kode_wilayah": "62.07.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.01"
+    },
+    {
+      "nama_wilayah": "Kuala Pembuang II",
+      "kode_wilayah": "62.07.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.01"
+    },
+    {
+      "nama_wilayah": "Pematang Limau",
+      "kode_wilayah": "62.07.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.01"
+    },
+    {
+      "nama_wilayah": "Sungai Perlu",
+      "kode_wilayah": "62.07.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.01"
+    },
+    {
+      "nama_wilayah": "Tanjung Rangas",
+      "kode_wilayah": "62.07.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.01"
+    },
+    {
+      "nama_wilayah": "Muara Dua",
+      "kode_wilayah": "62.07.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.01"
+    },
+    {
+      "nama_wilayah": "Jahitan",
+      "kode_wilayah": "62.07.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.01"
+    },
+    {
+      "nama_wilayah": "Baung",
+      "kode_wilayah": "62.07.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.01"
+    },
+    {
+      "nama_wilayah": "Persil Raya",
+      "kode_wilayah": "62.07.01.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.01"
+    },
+    {
+      "nama_wilayah": "Sungai Undang",
+      "kode_wilayah": "62.07.01.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.01"
+    }
+  ]
+}

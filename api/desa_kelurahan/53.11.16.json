@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Wangga",
+      "kode_wilayah": "53.11.16.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.16"
+    },
+    {
+      "nama_wilayah": "Prailiu",
+      "kode_wilayah": "53.11.16.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.16"
+    },
+    {
+      "nama_wilayah": "Kambaniru",
+      "kode_wilayah": "53.11.16.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.16"
+    },
+    {
+      "nama_wilayah": "Mauliru",
+      "kode_wilayah": "53.11.16.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.16"
+    },
+    {
+      "nama_wilayah": "Mau Hau",
+      "kode_wilayah": "53.11.16.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.16"
+    },
+    {
+      "nama_wilayah": "Malumbi",
+      "kode_wilayah": "53.11.16.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.16"
+    },
+    {
+      "nama_wilayah": "Lambanapu",
+      "kode_wilayah": "53.11.16.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.16"
+    },
+    {
+      "nama_wilayah": "Kiritana",
+      "kode_wilayah": "53.11.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.16"
+    }
+  ]
+}

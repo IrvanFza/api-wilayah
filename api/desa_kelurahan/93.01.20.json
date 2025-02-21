@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Wanam",
+      "kode_wilayah": "93.01.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.20"
+    },
+    {
+      "nama_wilayah": "Bibikem",
+      "kode_wilayah": "93.01.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.20"
+    },
+    {
+      "nama_wilayah": "Wogekel",
+      "kode_wilayah": "93.01.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.20"
+    },
+    {
+      "nama_wilayah": "Uli Uli",
+      "kode_wilayah": "93.01.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.20"
+    }
+  ]
+}

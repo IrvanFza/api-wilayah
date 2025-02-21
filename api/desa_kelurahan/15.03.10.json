@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kampung Tujuh",
+      "kode_wilayah": "15.03.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.03",
+      "kode_kecamatan": "15.03.10"
+    },
+    {
+      "nama_wilayah": "Lubuk Resam",
+      "kode_wilayah": "15.03.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.03",
+      "kode_kecamatan": "15.03.10"
+    },
+    {
+      "nama_wilayah": "Teluk Rendah",
+      "kode_wilayah": "15.03.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.03",
+      "kode_kecamatan": "15.03.10"
+    },
+    {
+      "nama_wilayah": "Teluk Tigo",
+      "kode_wilayah": "15.03.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.03",
+      "kode_kecamatan": "15.03.10"
+    },
+    {
+      "nama_wilayah": "Lubuk Resam Hilir",
+      "kode_wilayah": "15.03.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.03",
+      "kode_kecamatan": "15.03.10"
+    },
+    {
+      "nama_wilayah": "Pemuncak",
+      "kode_wilayah": "15.03.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.03",
+      "kode_kecamatan": "15.03.10"
+    },
+    {
+      "nama_wilayah": "Tambang Tinggi",
+      "kode_wilayah": "15.03.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.03",
+      "kode_kecamatan": "15.03.10"
+    },
+    {
+      "nama_wilayah": "Tendah",
+      "kode_wilayah": "15.03.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.03",
+      "kode_kecamatan": "15.03.10"
+    },
+    {
+      "nama_wilayah": "Sungai Keramat",
+      "kode_wilayah": "15.03.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.03",
+      "kode_kecamatan": "15.03.10"
+    },
+    {
+      "nama_wilayah": "Sekamis",
+      "kode_wilayah": "15.03.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.03",
+      "kode_kecamatan": "15.03.10"
+    }
+  ]
+}

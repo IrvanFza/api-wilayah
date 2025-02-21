@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Panca Marga",
+      "kode_wilayah": "18.12.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.12",
+      "kode_kecamatan": "18.12.09"
+    },
+    {
+      "nama_wilayah": "Sido Makmur",
+      "kode_wilayah": "18.12.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.12",
+      "kode_kecamatan": "18.12.09"
+    },
+    {
+      "nama_wilayah": "Sakti Jaya",
+      "kode_wilayah": "18.12.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.12",
+      "kode_kecamatan": "18.12.09"
+    },
+    {
+      "nama_wilayah": "Margo Mulya",
+      "kode_wilayah": "18.12.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.12",
+      "kode_kecamatan": "18.12.09"
+    },
+    {
+      "nama_wilayah": "Margo Dadi",
+      "kode_wilayah": "18.12.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.12",
+      "kode_kecamatan": "18.12.09"
+    },
+    {
+      "nama_wilayah": "Marga Sari",
+      "kode_wilayah": "18.12.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.12",
+      "kode_kecamatan": "18.12.09"
+    },
+    {
+      "nama_wilayah": "Mulyo Sari",
+      "kode_wilayah": "18.12.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.12",
+      "kode_kecamatan": "18.12.09"
+    },
+    {
+      "nama_wilayah": "Toto Katon",
+      "kode_wilayah": "18.12.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.12",
+      "kode_kecamatan": "18.12.09"
+    },
+    {
+      "nama_wilayah": "Toto Makmur",
+      "kode_wilayah": "18.12.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.12",
+      "kode_kecamatan": "18.12.09"
+    },
+    {
+      "nama_wilayah": "Toto Wonodadi",
+      "kode_wilayah": "18.12.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.12",
+      "kode_kecamatan": "18.12.09"
+    }
+  ]
+}

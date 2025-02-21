@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sukamulya",
+      "kode_wilayah": "32.16.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.15"
+    },
+    {
+      "nama_wilayah": "Sukamanah",
+      "kode_wilayah": "32.16.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.15"
+    },
+    {
+      "nama_wilayah": "Sukahurip",
+      "kode_wilayah": "32.16.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.15"
+    },
+    {
+      "nama_wilayah": "Sukaasih",
+      "kode_wilayah": "32.16.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.15"
+    },
+    {
+      "nama_wilayah": "Sukarukun",
+      "kode_wilayah": "32.16.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.15"
+    },
+    {
+      "nama_wilayah": "Banjarsari",
+      "kode_wilayah": "32.16.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.15"
+    },
+    {
+      "nama_wilayah": "Sukadarma",
+      "kode_wilayah": "32.16.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.15"
+    }
+  ]
+}

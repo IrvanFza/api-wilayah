@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Botolakha",
+      "kode_wilayah": "12.24.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.03"
+    },
+    {
+      "nama_wilayah": "Siofa Banua",
+      "kode_wilayah": "12.24.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.03"
+    },
+    {
+      "nama_wilayah": "La-aya",
+      "kode_wilayah": "12.24.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.03"
+    },
+    {
+      "nama_wilayah": "Alo-oa",
+      "kode_wilayah": "12.24.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.03"
+    },
+    {
+      "nama_wilayah": "Ladara",
+      "kode_wilayah": "12.24.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.03"
+    },
+    {
+      "nama_wilayah": "Banua Gea",
+      "kode_wilayah": "12.24.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.03"
+    },
+    {
+      "nama_wilayah": "Silima Banua",
+      "kode_wilayah": "12.24.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.03"
+    },
+    {
+      "nama_wilayah": "Fino",
+      "kode_wilayah": "12.24.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.24",
+      "kode_kecamatan": "12.24.03"
+    }
+  ]
+}

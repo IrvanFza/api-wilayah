@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tembilahan Kota",
+      "kode_wilayah": "14.04.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.04"
+    },
+    {
+      "nama_wilayah": "Tembilahan Hilir",
+      "kode_wilayah": "14.04.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.04"
+    },
+    {
+      "nama_wilayah": "Seberang Tembilahan",
+      "kode_wilayah": "14.04.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.04"
+    },
+    {
+      "nama_wilayah": "Sungaiperak",
+      "kode_wilayah": "14.04.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.04"
+    },
+    {
+      "nama_wilayah": "Sungaiberingin",
+      "kode_wilayah": "14.04.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.04"
+    },
+    {
+      "nama_wilayah": "Pekan Arba",
+      "kode_wilayah": "14.04.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.04"
+    },
+    {
+      "nama_wilayah": "Seberang Tembilahan Barat",
+      "kode_wilayah": "14.04.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.04"
+    },
+    {
+      "nama_wilayah": "Seberang Tembilahan Selatan",
+      "kode_wilayah": "14.04.04.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.04"
+    }
+  ]
+}

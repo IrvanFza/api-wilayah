@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Kadumerak",
+      "kode_wilayah": "36.01.25.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.25"
+    },
+    {
+      "nama_wilayah": "Cigadung",
+      "kode_wilayah": "36.01.25.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.25"
+    },
+    {
+      "nama_wilayah": "Pagadungan",
+      "kode_wilayah": "36.01.25.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.25"
+    },
+    {
+      "nama_wilayah": "Juhut",
+      "kode_wilayah": "36.01.25.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.25"
+    }
+  ]
+}

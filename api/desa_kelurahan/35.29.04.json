@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Talango",
+      "kode_wilayah": "35.29.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.04"
+    },
+    {
+      "nama_wilayah": "Padike",
+      "kode_wilayah": "35.29.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.04"
+    },
+    {
+      "nama_wilayah": "Cabbiya",
+      "kode_wilayah": "35.29.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.04"
+    },
+    {
+      "nama_wilayah": "Essang",
+      "kode_wilayah": "35.29.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.04"
+    },
+    {
+      "nama_wilayah": "Kombang",
+      "kode_wilayah": "35.29.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.04"
+    },
+    {
+      "nama_wilayah": "Poteran",
+      "kode_wilayah": "35.29.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.04"
+    },
+    {
+      "nama_wilayah": "Palasa",
+      "kode_wilayah": "35.29.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.04"
+    },
+    {
+      "nama_wilayah": "Gapurana",
+      "kode_wilayah": "35.29.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.04"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tisnonegaran",
+      "kode_wilayah": "35.74.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.04"
+    },
+    {
+      "nama_wilayah": "Sukoharjo",
+      "kode_wilayah": "35.74.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.04"
+    },
+    {
+      "nama_wilayah": "Kanigaran",
+      "kode_wilayah": "35.74.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.04"
+    },
+    {
+      "nama_wilayah": "Kebonsari Wetan",
+      "kode_wilayah": "35.74.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.04"
+    },
+    {
+      "nama_wilayah": "Curahgrinting",
+      "kode_wilayah": "35.74.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.04"
+    },
+    {
+      "nama_wilayah": "Kebonsari Kulon",
+      "kode_wilayah": "35.74.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.04"
+    }
+  ]
+}

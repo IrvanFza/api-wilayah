@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Baraler",
+      "kode_wilayah": "53.05.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.09"
+    },
+    {
+      "nama_wilayah": "Kalondama",
+      "kode_wilayah": "53.05.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.09"
+    },
+    {
+      "nama_wilayah": "Leer",
+      "kode_wilayah": "53.05.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.09"
+    },
+    {
+      "nama_wilayah": "Baranusa",
+      "kode_wilayah": "53.05.09.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.09"
+    },
+    {
+      "nama_wilayah": "Blang Merang",
+      "kode_wilayah": "53.05.09.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.09"
+    },
+    {
+      "nama_wilayah": "Illu",
+      "kode_wilayah": "53.05.09.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.09"
+    },
+    {
+      "nama_wilayah": "Piringsina",
+      "kode_wilayah": "53.05.09.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.09"
+    }
+  ]
+}

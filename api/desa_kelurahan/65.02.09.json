@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Dumu Mahak",
+      "kode_wilayah": "65.02.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.09"
+    },
+    {
+      "nama_wilayah": "Long Lebusan",
+      "kode_wilayah": "65.02.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.09"
+    },
+    {
+      "nama_wilayah": "Mahak Baru",
+      "kode_wilayah": "65.02.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.09"
+    },
+    {
+      "nama_wilayah": "Long Top",
+      "kode_wilayah": "65.02.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.09"
+    },
+    {
+      "nama_wilayah": "Agung Baru",
+      "kode_wilayah": "65.02.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.09"
+    },
+    {
+      "nama_wilayah": "Data Baru",
+      "kode_wilayah": "65.02.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.09"
+    }
+  ]
+}

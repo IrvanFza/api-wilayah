@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Raiulun",
+      "kode_wilayah": "53.21.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.21",
+      "kode_kecamatan": "53.21.09"
+    },
+    {
+      "nama_wilayah": "Wemeda",
+      "kode_wilayah": "53.21.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.21",
+      "kode_kecamatan": "53.21.09"
+    },
+    {
+      "nama_wilayah": "Kusa",
+      "kode_wilayah": "53.21.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.21",
+      "kode_kecamatan": "53.21.09"
+    },
+    {
+      "nama_wilayah": "Numponi",
+      "kode_wilayah": "53.21.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.21",
+      "kode_kecamatan": "53.21.09"
+    },
+    {
+      "nama_wilayah": "Dirma",
+      "kode_wilayah": "53.21.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.21",
+      "kode_kecamatan": "53.21.09"
+    },
+    {
+      "nama_wilayah": "Sanleo",
+      "kode_wilayah": "53.21.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.21",
+      "kode_kecamatan": "53.21.09"
+    }
+  ]
+}

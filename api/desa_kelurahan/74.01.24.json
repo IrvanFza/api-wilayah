@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Ranomentaa",
+      "kode_wilayah": "74.01.24.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.24"
+    },
+    {
+      "nama_wilayah": "Toari",
+      "kode_wilayah": "74.01.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.24"
+    },
+    {
+      "nama_wilayah": "Lakito",
+      "kode_wilayah": "74.01.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.24"
+    },
+    {
+      "nama_wilayah": "Anawua",
+      "kode_wilayah": "74.01.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.24"
+    },
+    {
+      "nama_wilayah": "Wowoli",
+      "kode_wilayah": "74.01.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.24"
+    },
+    {
+      "nama_wilayah": "Rano Jaya",
+      "kode_wilayah": "74.01.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.24"
+    },
+    {
+      "nama_wilayah": "Rahabite",
+      "kode_wilayah": "74.01.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.24"
+    },
+    {
+      "nama_wilayah": "Wonua Raya",
+      "kode_wilayah": "74.01.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.24"
+    },
+    {
+      "nama_wilayah": "Rano Sangia",
+      "kode_wilayah": "74.01.24.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.24"
+    },
+    {
+      "nama_wilayah": "Horongkuli",
+      "kode_wilayah": "74.01.24.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.24"
+    }
+  ]
+}

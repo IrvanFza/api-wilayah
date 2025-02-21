@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Gambir",
+      "kode_wilayah": "31.71.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.01"
+    },
+    {
+      "nama_wilayah": "Cideng",
+      "kode_wilayah": "31.71.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.01"
+    },
+    {
+      "nama_wilayah": "Petojo Utara",
+      "kode_wilayah": "31.71.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.01"
+    },
+    {
+      "nama_wilayah": "Petojo Selatan",
+      "kode_wilayah": "31.71.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.01"
+    },
+    {
+      "nama_wilayah": "Kebon Kelapa",
+      "kode_wilayah": "31.71.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.01"
+    },
+    {
+      "nama_wilayah": "Duri Pulo",
+      "kode_wilayah": "31.71.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.01"
+    }
+  ]
+}

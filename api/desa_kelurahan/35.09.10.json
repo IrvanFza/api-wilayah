@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Karangduren",
+      "kode_wilayah": "35.09.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.10"
+    },
+    {
+      "nama_wilayah": "Karang Semanding",
+      "kode_wilayah": "35.09.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.10"
+    },
+    {
+      "nama_wilayah": "Tutul",
+      "kode_wilayah": "35.09.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.10"
+    },
+    {
+      "nama_wilayah": "Balungkulon",
+      "kode_wilayah": "35.09.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.10"
+    },
+    {
+      "nama_wilayah": "Balunglor",
+      "kode_wilayah": "35.09.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.10"
+    },
+    {
+      "nama_wilayah": "Balungkidul",
+      "kode_wilayah": "35.09.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.10"
+    },
+    {
+      "nama_wilayah": "Curahlele",
+      "kode_wilayah": "35.09.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.10"
+    },
+    {
+      "nama_wilayah": "Gumelar",
+      "kode_wilayah": "35.09.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.10"
+    }
+  ]
+}

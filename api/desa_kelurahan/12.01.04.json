@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pinangsori",
+      "kode_wilayah": "12.01.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.04"
+    },
+    {
+      "nama_wilayah": "Sitonong Bangun",
+      "kode_wilayah": "12.01.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.04"
+    },
+    {
+      "nama_wilayah": "Pinangbaru",
+      "kode_wilayah": "12.01.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.04"
+    },
+    {
+      "nama_wilayah": "Albion Prancis",
+      "kode_wilayah": "12.01.04.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.04"
+    },
+    {
+      "nama_wilayah": "Sori Nauli",
+      "kode_wilayah": "12.01.04.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.04"
+    },
+    {
+      "nama_wilayah": "Gunung Marijo",
+      "kode_wilayah": "12.01.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.04"
+    },
+    {
+      "nama_wilayah": "Sihaporas",
+      "kode_wilayah": "12.01.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.04"
+    },
+    {
+      "nama_wilayah": "Toga Basir",
+      "kode_wilayah": "12.01.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.04"
+    },
+    {
+      "nama_wilayah": "Parjalihotan Baru",
+      "kode_wilayah": "12.01.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.04"
+    },
+    {
+      "nama_wilayah": "Danau Pandan",
+      "kode_wilayah": "12.01.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.04"
+    }
+  ]
+}

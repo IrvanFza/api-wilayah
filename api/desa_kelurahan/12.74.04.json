@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sei Merbau",
+      "kode_wilayah": "12.74.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.04"
+    },
+    {
+      "nama_wilayah": "Pematang Pasir",
+      "kode_wilayah": "12.74.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.04"
+    },
+    {
+      "nama_wilayah": "Perjuangan",
+      "kode_wilayah": "12.74.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.04"
+    },
+    {
+      "nama_wilayah": "Kapias Pulau Buaya",
+      "kode_wilayah": "12.74.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.04"
+    },
+    {
+      "nama_wilayah": "Beting Kuala Kapias",
+      "kode_wilayah": "12.74.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.04"
+    }
+  ]
+}

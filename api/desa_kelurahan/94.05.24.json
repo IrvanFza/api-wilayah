@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Mundidok",
+      "kode_wilayah": "94.05.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.24"
+    },
+    {
+      "nama_wilayah": "Yaiki Maiki",
+      "kode_wilayah": "94.05.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.24"
+    },
+    {
+      "nama_wilayah": "Tobenggi",
+      "kode_wilayah": "94.05.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.24"
+    },
+    {
+      "nama_wilayah": "Towenggi II",
+      "kode_wilayah": "94.05.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.24"
+    },
+    {
+      "nama_wilayah": "Welenggaru",
+      "kode_wilayah": "94.05.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.24"
+    }
+  ]
+}

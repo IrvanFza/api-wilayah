@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sukamulya",
+      "kode_wilayah": "32.78.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.09"
+    },
+    {
+      "nama_wilayah": "Sukarindik",
+      "kode_wilayah": "32.78.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.09"
+    },
+    {
+      "nama_wilayah": "Bungursari",
+      "kode_wilayah": "32.78.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.09"
+    },
+    {
+      "nama_wilayah": "Sukajaya",
+      "kode_wilayah": "32.78.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.09"
+    },
+    {
+      "nama_wilayah": "Cibunigeulis",
+      "kode_wilayah": "32.78.09.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.09"
+    },
+    {
+      "nama_wilayah": "Bantarsari",
+      "kode_wilayah": "32.78.09.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.09"
+    },
+    {
+      "nama_wilayah": "Sukalaksana",
+      "kode_wilayah": "32.78.09.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.09"
+    }
+  ]
+}

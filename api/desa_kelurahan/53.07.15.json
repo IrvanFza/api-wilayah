@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Beru",
+      "kode_wilayah": "53.07.15.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.15"
+    },
+    {
+      "nama_wilayah": "Kota Baru",
+      "kode_wilayah": "53.07.15.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.15"
+    },
+    {
+      "nama_wilayah": "Nangameting",
+      "kode_wilayah": "53.07.15.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.15"
+    },
+    {
+      "nama_wilayah": "Waioti",
+      "kode_wilayah": "53.07.15.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.15"
+    },
+    {
+      "nama_wilayah": "Wairotang",
+      "kode_wilayah": "53.07.15.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.15"
+    },
+    {
+      "nama_wilayah": "Koja Doi",
+      "kode_wilayah": "53.07.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.15"
+    },
+    {
+      "nama_wilayah": "Kojagete",
+      "kode_wilayah": "53.07.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.15"
+    },
+    {
+      "nama_wilayah": "Lepo Lima",
+      "kode_wilayah": "53.07.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.15"
+    },
+    {
+      "nama_wilayah": "Perumaan",
+      "kode_wilayah": "53.07.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.15"
+    },
+    {
+      "nama_wilayah": "Watugong",
+      "kode_wilayah": "53.07.15.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.15"
+    },
+    {
+      "nama_wilayah": "Gong Bekor",
+      "kode_wilayah": "53.07.15.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.15"
+    }
+  ]
+}

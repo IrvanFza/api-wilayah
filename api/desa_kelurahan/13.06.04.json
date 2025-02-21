@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Matua Hilia",
+      "kode_wilayah": "13.06.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.04"
+    },
+    {
+      "nama_wilayah": "Matua Mudiak",
+      "kode_wilayah": "13.06.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.04"
+    },
+    {
+      "nama_wilayah": "Tigo Balai",
+      "kode_wilayah": "13.06.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.04"
+    },
+    {
+      "nama_wilayah": "Lawang",
+      "kode_wilayah": "13.06.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.04"
+    },
+    {
+      "nama_wilayah": "Parik Panjang",
+      "kode_wilayah": "13.06.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.04"
+    },
+    {
+      "nama_wilayah": "Panta Pauah",
+      "kode_wilayah": "13.06.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.04"
+    }
+  ]
+}

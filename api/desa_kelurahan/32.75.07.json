@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Bantargebang",
+      "kode_wilayah": "32.75.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.07"
+    },
+    {
+      "nama_wilayah": "Cikiwul",
+      "kode_wilayah": "32.75.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.07"
+    },
+    {
+      "nama_wilayah": "Ciketingudik",
+      "kode_wilayah": "32.75.07.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.07"
+    },
+    {
+      "nama_wilayah": "Sumurbatu",
+      "kode_wilayah": "32.75.07.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.07"
+    }
+  ]
+}

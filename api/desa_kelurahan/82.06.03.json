@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Bicoli",
+      "kode_wilayah": "82.06.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.03"
+    },
+    {
+      "nama_wilayah": "Waci",
+      "kode_wilayah": "82.06.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.03"
+    },
+    {
+      "nama_wilayah": "Peteley",
+      "kode_wilayah": "82.06.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.03"
+    },
+    {
+      "nama_wilayah": "Loleolamo",
+      "kode_wilayah": "82.06.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.03"
+    },
+    {
+      "nama_wilayah": "Gotowasi",
+      "kode_wilayah": "82.06.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.03"
+    },
+    {
+      "nama_wilayah": "Kasuba",
+      "kode_wilayah": "82.06.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.03"
+    },
+    {
+      "nama_wilayah": "Momole",
+      "kode_wilayah": "82.06.03.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.03"
+    },
+    {
+      "nama_wilayah": "Sil",
+      "kode_wilayah": "82.06.03.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.03"
+    },
+    {
+      "nama_wilayah": "Sowoli",
+      "kode_wilayah": "82.06.03.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.06",
+      "kode_kecamatan": "82.06.03"
+    }
+  ]
+}

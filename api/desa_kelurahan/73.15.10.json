@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Lanrisang",
+      "kode_wilayah": "73.15.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.10"
+    },
+    {
+      "nama_wilayah": "Samaulue",
+      "kode_wilayah": "73.15.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.10"
+    },
+    {
+      "nama_wilayah": "Mallongi-longi",
+      "kode_wilayah": "73.15.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.10"
+    },
+    {
+      "nama_wilayah": "Amassangang",
+      "kode_wilayah": "73.15.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.10"
+    },
+    {
+      "nama_wilayah": "Barang Palie",
+      "kode_wilayah": "73.15.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.10"
+    },
+    {
+      "nama_wilayah": "Waetuoe",
+      "kode_wilayah": "73.15.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.10"
+    },
+    {
+      "nama_wilayah": "Lerang",
+      "kode_wilayah": "73.15.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.10"
+    }
+  ]
+}

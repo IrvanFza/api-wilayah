@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lembang Gantarang Keke",
+      "kode_wilayah": "73.03.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.03",
+      "kode_kecamatan": "73.03.04"
+    },
+    {
+      "nama_wilayah": "Banyorang",
+      "kode_wilayah": "73.03.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.03",
+      "kode_kecamatan": "73.03.04"
+    },
+    {
+      "nama_wilayah": "Campaga",
+      "kode_wilayah": "73.03.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.03",
+      "kode_kecamatan": "73.03.04"
+    },
+    {
+      "nama_wilayah": "Eren Ereng",
+      "kode_wilayah": "73.03.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.03",
+      "kode_kecamatan": "73.03.04"
+    },
+    {
+      "nama_wilayah": "Labbo",
+      "kode_wilayah": "73.03.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.03",
+      "kode_kecamatan": "73.03.04"
+    },
+    {
+      "nama_wilayah": "Pattaneteang",
+      "kode_wilayah": "73.03.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.03",
+      "kode_kecamatan": "73.03.04"
+    },
+    {
+      "nama_wilayah": "Pattallassang",
+      "kode_wilayah": "73.03.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.03",
+      "kode_kecamatan": "73.03.04"
+    },
+    {
+      "nama_wilayah": "Bonto-bontoa",
+      "kode_wilayah": "73.03.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.03",
+      "kode_kecamatan": "73.03.04"
+    },
+    {
+      "nama_wilayah": "Bonto Tappalang",
+      "kode_wilayah": "73.03.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.03",
+      "kode_kecamatan": "73.03.04"
+    },
+    {
+      "nama_wilayah": "Balumbung",
+      "kode_wilayah": "73.03.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.03",
+      "kode_kecamatan": "73.03.04"
+    }
+  ]
+}

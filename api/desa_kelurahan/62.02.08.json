@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Samuda Kota",
+      "kode_wilayah": "62.02.08.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.08"
+    },
+    {
+      "nama_wilayah": "Basirih Hilir",
+      "kode_wilayah": "62.02.08.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.08"
+    },
+    {
+      "nama_wilayah": "Sebamban",
+      "kode_wilayah": "62.02.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.08"
+    },
+    {
+      "nama_wilayah": "Samuda Besar",
+      "kode_wilayah": "62.02.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.08"
+    },
+    {
+      "nama_wilayah": "Samuda Kecil",
+      "kode_wilayah": "62.02.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.08"
+    },
+    {
+      "nama_wilayah": "Jaya Kelapa",
+      "kode_wilayah": "62.02.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.08"
+    },
+    {
+      "nama_wilayah": "Basirih Hulu",
+      "kode_wilayah": "62.02.08.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.08"
+    },
+    {
+      "nama_wilayah": "Jaya Karet",
+      "kode_wilayah": "62.02.08.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.08"
+    },
+    {
+      "nama_wilayah": "Handil Sohor",
+      "kode_wilayah": "62.02.08.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.08"
+    },
+    {
+      "nama_wilayah": "Sei Ijum Raya",
+      "kode_wilayah": "62.02.08.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.02",
+      "kode_kecamatan": "62.02.08"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Lampeapi",
+      "kode_wilayah": "74.12.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.07"
+    },
+    {
+      "nama_wilayah": "Batumea",
+      "kode_wilayah": "74.12.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.07"
+    },
+    {
+      "nama_wilayah": "Wawo Indah",
+      "kode_wilayah": "74.12.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.07"
+    },
+    {
+      "nama_wilayah": "Lamongupa",
+      "kode_wilayah": "74.12.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.07"
+    },
+    {
+      "nama_wilayah": "Tumbu Tumbu Jaya",
+      "kode_wilayah": "74.12.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.07"
+    },
+    {
+      "nama_wilayah": "Morobea",
+      "kode_wilayah": "74.12.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.07"
+    },
+    {
+      "nama_wilayah": "Mekar Sari",
+      "kode_wilayah": "74.12.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.07"
+    },
+    {
+      "nama_wilayah": "Rawa Indah",
+      "kode_wilayah": "74.12.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.07"
+    },
+    {
+      "nama_wilayah": "Lampeapi Baru",
+      "kode_wilayah": "74.12.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.07"
+    },
+    {
+      "nama_wilayah": "Pesue",
+      "kode_wilayah": "74.12.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.07"
+    },
+    {
+      "nama_wilayah": "Puurau",
+      "kode_wilayah": "74.12.07.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.07"
+    },
+    {
+      "nama_wilayah": "Baho Puu Wulu",
+      "kode_wilayah": "74.12.07.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.12",
+      "kode_kecamatan": "74.12.07"
+    }
+  ]
+}

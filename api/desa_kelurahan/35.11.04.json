@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Sukosari Lor",
+      "kode_wilayah": "35.11.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.04"
+    },
+    {
+      "nama_wilayah": "Nogosari",
+      "kode_wilayah": "35.11.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.04"
+    },
+    {
+      "nama_wilayah": "Pecalongan",
+      "kode_wilayah": "35.11.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.04"
+    },
+    {
+      "nama_wilayah": "Kerang",
+      "kode_wilayah": "35.11.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.04"
+    }
+  ]
+}

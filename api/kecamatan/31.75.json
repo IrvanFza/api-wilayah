@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Matraman",
+      "kode_wilayah": "31.75.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.75",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Pulogadung",
+      "kode_wilayah": "31.75.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.75",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Jatinegara",
+      "kode_wilayah": "31.75.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.75",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Kramatjati",
+      "kode_wilayah": "31.75.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.75",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Pasar Rebo",
+      "kode_wilayah": "31.75.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.75",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Cakung",
+      "kode_wilayah": "31.75.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.75",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Duren Sawit",
+      "kode_wilayah": "31.75.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.75",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Makasar",
+      "kode_wilayah": "31.75.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.75",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Ciracas",
+      "kode_wilayah": "31.75.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.75",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Cipayung",
+      "kode_wilayah": "31.75.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.75",
+      "kode_provinsi": "31"
+    }
+  ]
+}

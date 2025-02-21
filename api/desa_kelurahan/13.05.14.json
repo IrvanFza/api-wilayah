@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Kudu Gantiang",
+      "kode_wilayah": "13.05.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.14"
+    },
+    {
+      "nama_wilayah": "Limau Puruik",
+      "kode_wilayah": "13.05.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.14"
+    },
+    {
+      "nama_wilayah": "Gunung Padang Alai",
+      "kode_wilayah": "13.05.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.14"
+    },
+    {
+      "nama_wilayah": "Kudu Gantiang Barat",
+      "kode_wilayah": "13.05.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.14"
+    }
+  ]
+}

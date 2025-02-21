@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Long Bisai",
+      "kode_wilayah": "65.02.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.01"
+    },
+    {
+      "nama_wilayah": "Pulau Sapi",
+      "kode_wilayah": "65.02.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.01"
+    },
+    {
+      "nama_wilayah": "Paking",
+      "kode_wilayah": "65.02.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.01"
+    },
+    {
+      "nama_wilayah": "Lidung Kemenci",
+      "kode_wilayah": "65.02.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.01"
+    },
+    {
+      "nama_wilayah": "Mentarang Baru",
+      "kode_wilayah": "65.02.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.01"
+    },
+    {
+      "nama_wilayah": "Harapan Maju",
+      "kode_wilayah": "65.02.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.01"
+    }
+  ]
+}

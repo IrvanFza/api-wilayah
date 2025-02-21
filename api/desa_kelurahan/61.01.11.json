@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sagu",
+      "kode_wilayah": "61.01.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.11"
+    },
+    {
+      "nama_wilayah": "Sungai Palah",
+      "kode_wilayah": "61.01.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.11"
+    },
+    {
+      "nama_wilayah": "Galing",
+      "kode_wilayah": "61.01.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.11"
+    },
+    {
+      "nama_wilayah": "Tempapan Kuala",
+      "kode_wilayah": "61.01.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.11"
+    },
+    {
+      "nama_wilayah": "Tempapan Hulu",
+      "kode_wilayah": "61.01.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.11"
+    },
+    {
+      "nama_wilayah": "Ratu Sepudak",
+      "kode_wilayah": "61.01.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.11"
+    },
+    {
+      "nama_wilayah": "Tri Kembang",
+      "kode_wilayah": "61.01.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.11"
+    },
+    {
+      "nama_wilayah": "Tri Gadu",
+      "kode_wilayah": "61.01.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.11"
+    },
+    {
+      "nama_wilayah": "Teluk Pandan",
+      "kode_wilayah": "61.01.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.11"
+    },
+    {
+      "nama_wilayah": "Sijang",
+      "kode_wilayah": "61.01.11.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.11"
+    }
+  ]
+}

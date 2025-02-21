@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Simpang Empat",
+      "kode_wilayah": "14.71.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.02"
+    },
+    {
+      "nama_wilayah": "Sumahilang",
+      "kode_wilayah": "14.71.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.02"
+    },
+    {
+      "nama_wilayah": "Tanah Datar",
+      "kode_wilayah": "14.71.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.02"
+    },
+    {
+      "nama_wilayah": "Kota Baru",
+      "kode_wilayah": "14.71.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.02"
+    },
+    {
+      "nama_wilayah": "Sukaramai",
+      "kode_wilayah": "14.71.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.02"
+    },
+    {
+      "nama_wilayah": "Kota Tinggi",
+      "kode_wilayah": "14.71.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.02"
+    }
+  ]
+}

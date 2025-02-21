@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kimbin",
+      "kode_wilayah": "95.01.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.03"
+    },
+    {
+      "nama_wilayah": "Walak",
+      "kode_wilayah": "95.01.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.03"
+    },
+    {
+      "nama_wilayah": "Araboda",
+      "kode_wilayah": "95.01.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.03"
+    },
+    {
+      "nama_wilayah": "Logotpaga",
+      "kode_wilayah": "95.01.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.03"
+    },
+    {
+      "nama_wilayah": "Wawanca",
+      "kode_wilayah": "95.01.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.03"
+    },
+    {
+      "nama_wilayah": "Miligatnem",
+      "kode_wilayah": "95.01.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.03"
+    },
+    {
+      "nama_wilayah": "Loki",
+      "kode_wilayah": "95.01.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.03"
+    },
+    {
+      "nama_wilayah": "Tikawo",
+      "kode_wilayah": "95.01.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.03"
+    },
+    {
+      "nama_wilayah": "Kombagwe",
+      "kode_wilayah": "95.01.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.03"
+    },
+    {
+      "nama_wilayah": "Wanggonoma",
+      "kode_wilayah": "95.01.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.03"
+    }
+  ]
+}

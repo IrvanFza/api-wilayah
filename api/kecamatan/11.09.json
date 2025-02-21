@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Simeulue Tengah",
+      "kode_wilayah": "11.09.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.09",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Salang",
+      "kode_wilayah": "11.09.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.09",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Teupah Barat",
+      "kode_wilayah": "11.09.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.09",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Simeulue Timur",
+      "kode_wilayah": "11.09.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.09",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Teluk Dalam",
+      "kode_wilayah": "11.09.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.09",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Simeulue Barat",
+      "kode_wilayah": "11.09.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.09",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Teupah Selatan",
+      "kode_wilayah": "11.09.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.09",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Alafan",
+      "kode_wilayah": "11.09.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.09",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Teupah Tengah",
+      "kode_wilayah": "11.09.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.09",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Simeulue Cut",
+      "kode_wilayah": "11.09.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.09",
+      "kode_provinsi": "11"
+    }
+  ]
+}

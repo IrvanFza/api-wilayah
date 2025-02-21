@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Wailegi",
+      "kode_wilayah": "82.02.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.02"
+    },
+    {
+      "nama_wilayah": "Kipai",
+      "kode_wilayah": "82.02.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.02"
+    },
+    {
+      "nama_wilayah": "Yeisowo",
+      "kode_wilayah": "82.02.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.02"
+    },
+    {
+      "nama_wilayah": "Yondeliu",
+      "kode_wilayah": "82.02.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.02"
+    },
+    {
+      "nama_wilayah": "Baka Jaya",
+      "kode_wilayah": "82.02.02.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.02",
+      "kode_kecamatan": "82.02.02"
+    }
+  ]
+}

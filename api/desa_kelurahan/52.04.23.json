@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Pungkit",
+      "kode_wilayah": "52.04.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.23"
+    },
+    {
+      "nama_wilayah": "Sebewe",
+      "kode_wilayah": "52.04.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.23"
+    },
+    {
+      "nama_wilayah": "Penyaring",
+      "kode_wilayah": "52.04.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.23"
+    },
+    {
+      "nama_wilayah": "Kukin",
+      "kode_wilayah": "52.04.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.23"
+    },
+    {
+      "nama_wilayah": "Baru Tahan",
+      "kode_wilayah": "52.04.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.23"
+    },
+    {
+      "nama_wilayah": "Songkar",
+      "kode_wilayah": "52.04.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.23"
+    }
+  ]
+}

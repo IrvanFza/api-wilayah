@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Selaparang",
+      "kode_wilayah": "52.03.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.16"
+    },
+    {
+      "nama_wilayah": "Ketangga",
+      "kode_wilayah": "52.03.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.16"
+    },
+    {
+      "nama_wilayah": "Suntalangu",
+      "kode_wilayah": "52.03.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.16"
+    },
+    {
+      "nama_wilayah": "Suela",
+      "kode_wilayah": "52.03.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.16"
+    },
+    {
+      "nama_wilayah": "Sapit",
+      "kode_wilayah": "52.03.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.16"
+    },
+    {
+      "nama_wilayah": "Perigi",
+      "kode_wilayah": "52.03.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.16"
+    },
+    {
+      "nama_wilayah": "Mekar Sari",
+      "kode_wilayah": "52.03.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.16"
+    },
+    {
+      "nama_wilayah": "Puncak Jeringo",
+      "kode_wilayah": "52.03.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.16"
+    }
+  ]
+}

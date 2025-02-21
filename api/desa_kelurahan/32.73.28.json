@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Cipadung Kulon",
+      "kode_wilayah": "32.73.28.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.28"
+    },
+    {
+      "nama_wilayah": "Cipadung Kidul",
+      "kode_wilayah": "32.73.28.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.28"
+    },
+    {
+      "nama_wilayah": "Cipadung Wetan",
+      "kode_wilayah": "32.73.28.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.28"
+    },
+    {
+      "nama_wilayah": "Mekar Mulya",
+      "kode_wilayah": "32.73.28.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.28"
+    }
+  ]
+}

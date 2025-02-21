@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Urung Pane",
+      "kode_wilayah": "12.09.27.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.27"
+    },
+    {
+      "nama_wilayah": "Sei Silau Tua",
+      "kode_wilayah": "12.09.27.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.27"
+    },
+    {
+      "nama_wilayah": "Sei Silau Barat",
+      "kode_wilayah": "12.09.27.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.27"
+    },
+    {
+      "nama_wilayah": "Silau Maraja",
+      "kode_wilayah": "12.09.27.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.27"
+    },
+    {
+      "nama_wilayah": "Bangun Sari",
+      "kode_wilayah": "12.09.27.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.27"
+    }
+  ]
+}

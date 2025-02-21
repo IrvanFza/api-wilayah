@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Bunut",
+      "kode_wilayah": "16.03.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.24"
+    },
+    {
+      "nama_wilayah": "Babat",
+      "kode_wilayah": "16.03.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.24"
+    },
+    {
+      "nama_wilayah": "Lubuk Semantung",
+      "kode_wilayah": "16.03.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.24"
+    },
+    {
+      "nama_wilayah": "Lubuk Getam",
+      "kode_wilayah": "16.03.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.24"
+    },
+    {
+      "nama_wilayah": "Talang  Balai",
+      "kode_wilayah": "16.03.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.24"
+    },
+    {
+      "nama_wilayah": "Talang Beliung",
+      "kode_wilayah": "16.03.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.24"
+    },
+    {
+      "nama_wilayah": "Sialingan",
+      "kode_wilayah": "16.03.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.24"
+    },
+    {
+      "nama_wilayah": "Tanjung Tiga",
+      "kode_wilayah": "16.03.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.24"
+    },
+    {
+      "nama_wilayah": "Ibul",
+      "kode_wilayah": "16.03.24.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.24"
+    },
+    {
+      "nama_wilayah": "Gaung Asam",
+      "kode_wilayah": "16.03.24.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.24"
+    }
+  ]
+}

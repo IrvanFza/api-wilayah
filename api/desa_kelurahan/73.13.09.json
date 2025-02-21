@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Anabanua",
+      "kode_wilayah": "73.13.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.09"
+    },
+    {
+      "nama_wilayah": "Dualimpoe",
+      "kode_wilayah": "73.13.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.09"
+    },
+    {
+      "nama_wilayah": "Tangkoli",
+      "kode_wilayah": "73.13.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.09"
+    },
+    {
+      "nama_wilayah": "Mattirowalie",
+      "kode_wilayah": "73.13.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.09"
+    },
+    {
+      "nama_wilayah": "Kalola",
+      "kode_wilayah": "73.13.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.09"
+    },
+    {
+      "nama_wilayah": "Sogi",
+      "kode_wilayah": "73.13.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.09"
+    },
+    {
+      "nama_wilayah": "Abbanuangnge",
+      "kode_wilayah": "73.13.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.09"
+    },
+    {
+      "nama_wilayah": "Minagatellue",
+      "kode_wilayah": "73.13.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.09"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Pulau",
+      "kode_wilayah": "14.01.15.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.15"
+    },
+    {
+      "nama_wilayah": "Pasir Sialang",
+      "kode_wilayah": "14.01.15.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.15"
+    },
+    {
+      "nama_wilayah": "Pulau Lawas",
+      "kode_wilayah": "14.01.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.15"
+    },
+    {
+      "nama_wilayah": "Muara Uwai",
+      "kode_wilayah": "14.01.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.15"
+    },
+    {
+      "nama_wilayah": "Laboy Jaya",
+      "kode_wilayah": "14.01.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.15"
+    },
+    {
+      "nama_wilayah": "Bukit Payung",
+      "kode_wilayah": "14.01.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.15"
+    },
+    {
+      "nama_wilayah": "Suka Mulya",
+      "kode_wilayah": "14.01.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.15"
+    },
+    {
+      "nama_wilayah": "Bukit Sembilan",
+      "kode_wilayah": "14.01.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.15"
+    },
+    {
+      "nama_wilayah": "Binuang",
+      "kode_wilayah": "14.01.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.15"
+    }
+  ]
+}

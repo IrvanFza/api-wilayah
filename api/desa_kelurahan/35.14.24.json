@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Mororejo",
+      "kode_wilayah": "35.14.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.14",
+      "kode_kecamatan": "35.14.24"
+    },
+    {
+      "nama_wilayah": "Podokoyo",
+      "kode_wilayah": "35.14.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.14",
+      "kode_kecamatan": "35.14.24"
+    },
+    {
+      "nama_wilayah": "Ngadiwono",
+      "kode_wilayah": "35.14.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.14",
+      "kode_kecamatan": "35.14.24"
+    },
+    {
+      "nama_wilayah": "Tosari",
+      "kode_wilayah": "35.14.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.14",
+      "kode_kecamatan": "35.14.24"
+    },
+    {
+      "nama_wilayah": "Wonokitri",
+      "kode_wilayah": "35.14.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.14",
+      "kode_kecamatan": "35.14.24"
+    },
+    {
+      "nama_wilayah": "Baledono",
+      "kode_wilayah": "35.14.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.14",
+      "kode_kecamatan": "35.14.24"
+    },
+    {
+      "nama_wilayah": "Sedaeng",
+      "kode_wilayah": "35.14.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.14",
+      "kode_kecamatan": "35.14.24"
+    },
+    {
+      "nama_wilayah": "Kandangan",
+      "kode_wilayah": "35.14.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.14",
+      "kode_kecamatan": "35.14.24"
+    }
+  ]
+}

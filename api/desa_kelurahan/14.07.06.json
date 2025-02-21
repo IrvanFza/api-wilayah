@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Panipahan",
+      "kode_wilayah": "14.07.06.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.06"
+    },
+    {
+      "nama_wilayah": "Panipahan",
+      "kode_wilayah": "14.07.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.06"
+    },
+    {
+      "nama_wilayah": "Telukpulai",
+      "kode_wilayah": "14.07.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.06"
+    },
+    {
+      "nama_wilayah": "Pasir Limau Kapas",
+      "kode_wilayah": "14.07.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.06"
+    },
+    {
+      "nama_wilayah": "Sungai Daun",
+      "kode_wilayah": "14.07.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.06"
+    },
+    {
+      "nama_wilayah": "Panipahan Darat",
+      "kode_wilayah": "14.07.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.06"
+    },
+    {
+      "nama_wilayah": "Panipahan Laut",
+      "kode_wilayah": "14.07.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.06"
+    },
+    {
+      "nama_wilayah": "Pulaujemur",
+      "kode_wilayah": "14.07.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.06"
+    }
+  ]
+}

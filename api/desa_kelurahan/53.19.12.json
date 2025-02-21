@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Golo Wangkung",
+      "kode_wilayah": "53.19.12.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.12"
+    },
+    {
+      "nama_wilayah": "Golo Wangkung Barat",
+      "kode_wilayah": "53.19.12.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.12"
+    },
+    {
+      "nama_wilayah": "Buti",
+      "kode_wilayah": "53.19.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.12"
+    },
+    {
+      "nama_wilayah": "Golo Ngawan",
+      "kode_wilayah": "53.19.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.12"
+    },
+    {
+      "nama_wilayah": "Satar Nawang",
+      "kode_wilayah": "53.19.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.12"
+    },
+    {
+      "nama_wilayah": "Rana Mese",
+      "kode_wilayah": "53.19.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.12"
+    },
+    {
+      "nama_wilayah": "Compang Congkar",
+      "kode_wilayah": "53.19.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.12"
+    },
+    {
+      "nama_wilayah": "Compang Lawi",
+      "kode_wilayah": "53.19.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.12"
+    },
+    {
+      "nama_wilayah": "Golo Pari",
+      "kode_wilayah": "53.19.12.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.12"
+    },
+    {
+      "nama_wilayah": "Wea",
+      "kode_wilayah": "53.19.12.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.19",
+      "kode_kecamatan": "53.19.12"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Labu",
+      "kode_wilayah": "19.03.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.02"
+    },
+    {
+      "nama_wilayah": "Tanjung Sangkar",
+      "kode_wilayah": "19.03.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.02"
+    },
+    {
+      "nama_wilayah": "Kumbung",
+      "kode_wilayah": "19.03.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.02"
+    },
+    {
+      "nama_wilayah": "Penutuk",
+      "kode_wilayah": "19.03.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.02"
+    }
+  ]
+}

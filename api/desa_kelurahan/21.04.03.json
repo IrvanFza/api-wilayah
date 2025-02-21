@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Senayang",
+      "kode_wilayah": "21.04.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.03"
+    },
+    {
+      "nama_wilayah": "Mamut",
+      "kode_wilayah": "21.04.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.03"
+    },
+    {
+      "nama_wilayah": "Laboh",
+      "kode_wilayah": "21.04.03.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.03"
+    },
+    {
+      "nama_wilayah": "Penaah",
+      "kode_wilayah": "21.04.03.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.03"
+    },
+    {
+      "nama_wilayah": "Baran",
+      "kode_wilayah": "21.04.03.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.03"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Kombut",
+      "kode_wilayah": "93.02.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.07"
+    },
+    {
+      "nama_wilayah": "Moukbiran",
+      "kode_wilayah": "93.02.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.07"
+    },
+    {
+      "nama_wilayah": "Kawangtet",
+      "kode_wilayah": "93.02.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.07"
+    },
+    {
+      "nama_wilayah": "Amuan",
+      "kode_wilayah": "93.02.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.07"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Busung Panjang",
+      "kode_wilayah": "21.04.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.10"
+    },
+    {
+      "nama_wilayah": "Posek",
+      "kode_wilayah": "21.04.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.10"
+    },
+    {
+      "nama_wilayah": "Suak Buaya",
+      "kode_wilayah": "21.04.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.10"
+    }
+  ]
+}

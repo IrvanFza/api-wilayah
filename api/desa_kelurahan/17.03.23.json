@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Air Lelangi",
+      "kode_wilayah": "17.03.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.23"
+    },
+    {
+      "nama_wilayah": "Bukit Berlian",
+      "kode_wilayah": "17.03.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.23"
+    },
+    {
+      "nama_wilayah": "Tanjung Dalam",
+      "kode_wilayah": "17.03.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.23"
+    },
+    {
+      "nama_wilayah": "Bukit Sari",
+      "kode_wilayah": "17.03.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.23"
+    },
+    {
+      "nama_wilayah": "Pagardin",
+      "kode_wilayah": "17.03.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.23"
+    },
+    {
+      "nama_wilayah": "Tanjung Harapan",
+      "kode_wilayah": "17.03.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.23"
+    },
+    {
+      "nama_wilayah": "Tanjung Sari",
+      "kode_wilayah": "17.03.23.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.23"
+    },
+    {
+      "nama_wilayah": "Bangun Karya",
+      "kode_wilayah": "17.03.23.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.23"
+    },
+    {
+      "nama_wilayah": "Pondok Bakil",
+      "kode_wilayah": "17.03.23.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.23"
+    },
+    {
+      "nama_wilayah": "Talang Berantai",
+      "kode_wilayah": "17.03.23.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.23"
+    }
+  ]
+}

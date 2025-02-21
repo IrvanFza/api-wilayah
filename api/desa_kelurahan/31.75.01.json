@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Pisangan Baru",
+      "kode_wilayah": "31.75.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.01"
+    },
+    {
+      "nama_wilayah": "Utan Kayu Utara",
+      "kode_wilayah": "31.75.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.01"
+    },
+    {
+      "nama_wilayah": "Kayu Manis",
+      "kode_wilayah": "31.75.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.01"
+    },
+    {
+      "nama_wilayah": "Palmeriam",
+      "kode_wilayah": "31.75.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.01"
+    },
+    {
+      "nama_wilayah": "Kebon Manggis",
+      "kode_wilayah": "31.75.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.01"
+    },
+    {
+      "nama_wilayah": "Utan Kayu Selatan",
+      "kode_wilayah": "31.75.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.01"
+    }
+  ]
+}

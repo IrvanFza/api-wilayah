@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Nalca",
+      "kode_wilayah": "95.03.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.06"
+    },
+    {
+      "nama_wilayah": "Cenderawasih",
+      "kode_wilayah": "95.03.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.06"
+    },
+    {
+      "nama_wilayah": "Manggona",
+      "kode_wilayah": "95.03.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.06"
+    },
+    {
+      "nama_wilayah": "Bolda",
+      "kode_wilayah": "95.03.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.06"
+    },
+    {
+      "nama_wilayah": "Emm",
+      "kode_wilayah": "95.03.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.06"
+    },
+    {
+      "nama_wilayah": "Imsekla",
+      "kode_wilayah": "95.03.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.06"
+    },
+    {
+      "nama_wilayah": "Hein",
+      "kode_wilayah": "95.03.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.06"
+    },
+    {
+      "nama_wilayah": "Luwemna",
+      "kode_wilayah": "95.03.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.06"
+    }
+  ]
+}

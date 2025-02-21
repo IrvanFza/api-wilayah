@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Teiraplu",
+      "kode_wilayah": "95.02.31.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.31"
+    },
+    {
+      "nama_wilayah": "Sinami",
+      "kode_wilayah": "95.02.31.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.31"
+    },
+    {
+      "nama_wilayah": "Maigame",
+      "kode_wilayah": "95.02.31.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.31"
+    },
+    {
+      "nama_wilayah": "Murme",
+      "kode_wilayah": "95.02.31.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.31"
+    },
+    {
+      "nama_wilayah": "Yuaban Satu",
+      "kode_wilayah": "95.02.31.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.31"
+    },
+    {
+      "nama_wilayah": "Yuaban Dua",
+      "kode_wilayah": "95.02.31.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.31"
+    },
+    {
+      "nama_wilayah": "Terapdei",
+      "kode_wilayah": "95.02.31.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.31"
+    },
+    {
+      "nama_wilayah": "Yitarget",
+      "kode_wilayah": "95.02.31.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.31"
+    },
+    {
+      "nama_wilayah": "Teriame",
+      "kode_wilayah": "95.02.31.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.31"
+    },
+    {
+      "nama_wilayah": "Bautme",
+      "kode_wilayah": "95.02.31.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.31"
+    }
+  ]
+}

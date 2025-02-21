@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Kabir",
+      "kode_wilayah": "53.05.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.06"
+    },
+    {
+      "nama_wilayah": "Pandai",
+      "kode_wilayah": "53.05.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.06"
+    },
+    {
+      "nama_wilayah": "Bandar",
+      "kode_wilayah": "53.05.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.06"
+    },
+    {
+      "nama_wilayah": "Baolang",
+      "kode_wilayah": "53.05.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.06"
+    },
+    {
+      "nama_wilayah": "Munaseli",
+      "kode_wilayah": "53.05.06.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.06"
+    },
+    {
+      "nama_wilayah": "Helangdohi",
+      "kode_wilayah": "53.05.06.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.06"
+    },
+    {
+      "nama_wilayah": "Wailawar",
+      "kode_wilayah": "53.05.06.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.06"
+    },
+    {
+      "nama_wilayah": "Bana",
+      "kode_wilayah": "53.05.06.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.06"
+    },
+    {
+      "nama_wilayah": "Bouweli",
+      "kode_wilayah": "53.05.06.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.06"
+    },
+    {
+      "nama_wilayah": "Bukit Mas",
+      "kode_wilayah": "53.05.06.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.06"
+    },
+    {
+      "nama_wilayah": "Madar",
+      "kode_wilayah": "53.05.06.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.06"
+    }
+  ]
+}

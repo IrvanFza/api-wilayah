@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Jenamas",
+      "kode_wilayah": "62.04.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.04",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Dusun Hilir",
+      "kode_wilayah": "62.04.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.04",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Karau Kuala",
+      "kode_wilayah": "62.04.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.04",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Dusun Utara",
+      "kode_wilayah": "62.04.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.04",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Gn. Bintang Awai",
+      "kode_wilayah": "62.04.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.04",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Dusun Selatan",
+      "kode_wilayah": "62.04.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.04",
+      "kode_provinsi": "62"
+    }
+  ]
+}

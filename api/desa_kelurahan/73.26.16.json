@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Tondon Langi-",
+      "kode_wilayah": "73.26.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.16"
+    },
+    {
+      "nama_wilayah": "Tondon",
+      "kode_wilayah": "73.26.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.16"
+    },
+    {
+      "nama_wilayah": "Tondon Sibata",
+      "kode_wilayah": "73.26.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.16"
+    },
+    {
+      "nama_wilayah": "Tondon Matallo",
+      "kode_wilayah": "73.26.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.16"
+    }
+  ]
+}

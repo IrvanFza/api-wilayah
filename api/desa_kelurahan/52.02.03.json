@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Bujak",
+      "kode_wilayah": "52.02.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.03"
+    },
+    {
+      "nama_wilayah": "Selebung",
+      "kode_wilayah": "52.02.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.03"
+    },
+    {
+      "nama_wilayah": "Peresak",
+      "kode_wilayah": "52.02.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.03"
+    },
+    {
+      "nama_wilayah": "Mantang",
+      "kode_wilayah": "52.02.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.03"
+    },
+    {
+      "nama_wilayah": "Aik Darek",
+      "kode_wilayah": "52.02.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.03"
+    },
+    {
+      "nama_wilayah": "Tampak Siring",
+      "kode_wilayah": "52.02.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.03"
+    },
+    {
+      "nama_wilayah": "Barabali",
+      "kode_wilayah": "52.02.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.03"
+    },
+    {
+      "nama_wilayah": "Beber",
+      "kode_wilayah": "52.02.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.03"
+    },
+    {
+      "nama_wilayah": "Pagutan",
+      "kode_wilayah": "52.02.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.03"
+    },
+    {
+      "nama_wilayah": "Mekar Bersatu",
+      "kode_wilayah": "52.02.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.03"
+    },
+    {
+      "nama_wilayah": "Lendang Tampel",
+      "kode_wilayah": "52.02.03.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.02",
+      "kode_kecamatan": "52.02.03"
+    }
+  ]
+}

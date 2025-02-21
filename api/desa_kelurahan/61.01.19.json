@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Gelik",
+      "kode_wilayah": "61.01.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.19"
+    },
+    {
+      "nama_wilayah": "Seranggam",
+      "kode_wilayah": "61.01.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.19"
+    },
+    {
+      "nama_wilayah": "Selakau Tua",
+      "kode_wilayah": "61.01.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.19"
+    },
+    {
+      "nama_wilayah": "Buduk Sempadang",
+      "kode_wilayah": "61.01.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.19"
+    }
+  ]
+}

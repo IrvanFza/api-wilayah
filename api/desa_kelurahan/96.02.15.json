@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Siranggo",
+      "kode_wilayah": "96.02.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.15"
+    },
+    {
+      "nama_wilayah": "Onimsefa",
+      "kode_wilayah": "96.02.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.15"
+    },
+    {
+      "nama_wilayah": "Ikana",
+      "kode_wilayah": "96.02.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.15"
+    },
+    {
+      "nama_wilayah": "Mogatemin",
+      "kode_wilayah": "96.02.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.15"
+    },
+    {
+      "nama_wilayah": "Mukamat",
+      "kode_wilayah": "96.02.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.15"
+    },
+    {
+      "nama_wilayah": "Makaroro",
+      "kode_wilayah": "96.02.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.15"
+    },
+    {
+      "nama_wilayah": "Haemaran",
+      "kode_wilayah": "96.02.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.15"
+    }
+  ]
+}

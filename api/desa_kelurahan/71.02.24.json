@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lemoh",
+      "kode_wilayah": "71.02.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.24"
+    },
+    {
+      "nama_wilayah": "Lemoh Barat",
+      "kode_wilayah": "71.02.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.24"
+    },
+    {
+      "nama_wilayah": "Lemoh Timur",
+      "kode_wilayah": "71.02.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.24"
+    },
+    {
+      "nama_wilayah": "Lemoh Uner",
+      "kode_wilayah": "71.02.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.24"
+    },
+    {
+      "nama_wilayah": "Lolah",
+      "kode_wilayah": "71.02.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.24"
+    },
+    {
+      "nama_wilayah": "Lolah Satu",
+      "kode_wilayah": "71.02.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.24"
+    },
+    {
+      "nama_wilayah": "Lolah Dua",
+      "kode_wilayah": "71.02.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.24"
+    },
+    {
+      "nama_wilayah": "Lolah Tiga",
+      "kode_wilayah": "71.02.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.24"
+    },
+    {
+      "nama_wilayah": "Ranotongkor",
+      "kode_wilayah": "71.02.24.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.24"
+    },
+    {
+      "nama_wilayah": "Ranotongkor Timur",
+      "kode_wilayah": "71.02.24.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.24"
+    }
+  ]
+}

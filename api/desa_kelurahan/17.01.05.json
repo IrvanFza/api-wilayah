@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Gunung Ayu",
+      "kode_wilayah": "17.01.05.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.05"
+    },
+    {
+      "nama_wilayah": "Kota Medan",
+      "kode_wilayah": "17.01.05.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.05"
+    },
+    {
+      "nama_wilayah": "Kampung Baru",
+      "kode_wilayah": "17.01.05.1016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.05"
+    },
+    {
+      "nama_wilayah": "Pasar Baru",
+      "kode_wilayah": "17.01.05.1017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.05"
+    },
+    {
+      "nama_wilayah": "Ibul",
+      "kode_wilayah": "17.01.05.1019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.05"
+    },
+    {
+      "nama_wilayah": "Padang Kapuk",
+      "kode_wilayah": "17.01.05.1020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.05"
+    },
+    {
+      "nama_wilayah": "Pagar Dewa",
+      "kode_wilayah": "17.01.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.05"
+    },
+    {
+      "nama_wilayah": "Padang Niur",
+      "kode_wilayah": "17.01.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.05"
+    },
+    {
+      "nama_wilayah": "Tebat Kubu",
+      "kode_wilayah": "17.01.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.05"
+    },
+    {
+      "nama_wilayah": "Gelumbang",
+      "kode_wilayah": "17.01.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.05"
+    },
+    {
+      "nama_wilayah": "Padang Berangin",
+      "kode_wilayah": "17.01.05.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.05"
+    }
+  ]
+}

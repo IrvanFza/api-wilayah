@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kolonodale",
+      "kode_wilayah": "72.12.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.12",
+      "kode_kecamatan": "72.12.01"
+    },
+    {
+      "nama_wilayah": "Bahontula",
+      "kode_wilayah": "72.12.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.12",
+      "kode_kecamatan": "72.12.01"
+    },
+    {
+      "nama_wilayah": "Bahoue",
+      "kode_wilayah": "72.12.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.12",
+      "kode_kecamatan": "72.12.01"
+    },
+    {
+      "nama_wilayah": "Ganda-Ganda",
+      "kode_wilayah": "72.12.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.12",
+      "kode_kecamatan": "72.12.01"
+    },
+    {
+      "nama_wilayah": "Koya",
+      "kode_wilayah": "72.12.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.12",
+      "kode_kecamatan": "72.12.01"
+    },
+    {
+      "nama_wilayah": "Gililana",
+      "kode_wilayah": "72.12.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.12",
+      "kode_kecamatan": "72.12.01"
+    },
+    {
+      "nama_wilayah": "Tanauge",
+      "kode_wilayah": "72.12.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.12",
+      "kode_kecamatan": "72.12.01"
+    },
+    {
+      "nama_wilayah": "Korololaki",
+      "kode_wilayah": "72.12.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.12",
+      "kode_kecamatan": "72.12.01"
+    },
+    {
+      "nama_wilayah": "Korololama",
+      "kode_wilayah": "72.12.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.12",
+      "kode_kecamatan": "72.12.01"
+    },
+    {
+      "nama_wilayah": "Koromatantu",
+      "kode_wilayah": "72.12.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.12",
+      "kode_kecamatan": "72.12.01"
+    }
+  ]
+}

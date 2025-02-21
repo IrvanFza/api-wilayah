@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Koragi",
+      "kode_wilayah": "95.01.26.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.26"
+    },
+    {
+      "nama_wilayah": "Telegai",
+      "kode_wilayah": "95.01.26.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.26"
+    },
+    {
+      "nama_wilayah": "Kumudiluk",
+      "kode_wilayah": "95.01.26.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.26"
+    },
+    {
+      "nama_wilayah": "Tagibaga",
+      "kode_wilayah": "95.01.26.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.26"
+    },
+    {
+      "nama_wilayah": "Tenondek",
+      "kode_wilayah": "95.01.26.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.26"
+    }
+  ]
+}

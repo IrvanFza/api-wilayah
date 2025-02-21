@@ -1,15 +1,13 @@
-// scraper/mergeData.js
-
 const fs = require('fs');
 const path = require('path');
 
 function loadData(filename) {
-  const filePath = path.join(__dirname, '..', 'data', `${filename}.json`);
+  const filePath = path.join(__dirname, '..', 'data', 'json', `${filename}.json`);
   return JSON.parse(fs.readFileSync(filePath));
 }
 
 function saveData(filename, data) {
-  const filePath = path.join(__dirname, '..', 'data', `${filename}.json`);
+  const filePath = path.join(__dirname, '..', 'data', 'json', `${filename}.json`);
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
 }
 

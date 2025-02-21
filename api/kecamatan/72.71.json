@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Palu Timur",
+      "kode_wilayah": "72.71.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.71",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Palu Barat",
+      "kode_wilayah": "72.71.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.71",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Palu Selatan",
+      "kode_wilayah": "72.71.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.71",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Palu Utara",
+      "kode_wilayah": "72.71.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.71",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Ulujadi",
+      "kode_wilayah": "72.71.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.71",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Tatanga",
+      "kode_wilayah": "72.71.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.71",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Tawaeli",
+      "kode_wilayah": "72.71.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.71",
+      "kode_provinsi": "72"
+    },
+    {
+      "nama_wilayah": "Mantikulore",
+      "kode_wilayah": "72.71.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "72.71",
+      "kode_provinsi": "72"
+    }
+  ]
+}

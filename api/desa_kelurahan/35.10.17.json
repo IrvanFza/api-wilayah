@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Boyolangu",
+      "kode_wilayah": "35.10.17.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.17"
+    },
+    {
+      "nama_wilayah": "Mojopanggung",
+      "kode_wilayah": "35.10.17.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.17"
+    },
+    {
+      "nama_wilayah": "Penataban",
+      "kode_wilayah": "35.10.17.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.17"
+    },
+    {
+      "nama_wilayah": "Giri",
+      "kode_wilayah": "35.10.17.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.17"
+    },
+    {
+      "nama_wilayah": "Jambesari",
+      "kode_wilayah": "35.10.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.17"
+    },
+    {
+      "nama_wilayah": "Grogol",
+      "kode_wilayah": "35.10.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.17"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Astanalanggar",
+      "kode_wilayah": "32.09.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.03"
+    },
+    {
+      "nama_wilayah": "Barisan",
+      "kode_wilayah": "32.09.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.03"
+    },
+    {
+      "nama_wilayah": "Losari Kidul",
+      "kode_wilayah": "32.09.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.03"
+    },
+    {
+      "nama_wilayah": "Panggangsari",
+      "kode_wilayah": "32.09.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.03"
+    },
+    {
+      "nama_wilayah": "Losari Lor",
+      "kode_wilayah": "32.09.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.03"
+    },
+    {
+      "nama_wilayah": "Mulyasari",
+      "kode_wilayah": "32.09.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.03"
+    },
+    {
+      "nama_wilayah": "Kalirahayu",
+      "kode_wilayah": "32.09.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.03"
+    },
+    {
+      "nama_wilayah": "Kalisari",
+      "kode_wilayah": "32.09.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.03"
+    },
+    {
+      "nama_wilayah": "Ambulu",
+      "kode_wilayah": "32.09.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.03"
+    },
+    {
+      "nama_wilayah": "Tawangsari",
+      "kode_wilayah": "32.09.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.03"
+    }
+  ]
+}

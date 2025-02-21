@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Gadang",
+      "kode_wilayah": "13.03.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.03",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Sijunjung",
+      "kode_wilayah": "13.03.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.03",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "IV Nagari",
+      "kode_wilayah": "13.03.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.03",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Kamang Baru",
+      "kode_wilayah": "13.03.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.03",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Lubuak Tarok",
+      "kode_wilayah": "13.03.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.03",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Koto VII",
+      "kode_wilayah": "13.03.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.03",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Sumpur Kudus",
+      "kode_wilayah": "13.03.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.03",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Kupitan",
+      "kode_wilayah": "13.03.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.03",
+      "kode_provinsi": "13"
+    }
+  ]
+}

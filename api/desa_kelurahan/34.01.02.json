@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Wates",
+      "kode_wilayah": "34.01.02.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.02"
+    },
+    {
+      "nama_wilayah": "Karangwuni",
+      "kode_wilayah": "34.01.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.02"
+    },
+    {
+      "nama_wilayah": "Sogan",
+      "kode_wilayah": "34.01.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.02"
+    },
+    {
+      "nama_wilayah": "Kulwaru",
+      "kode_wilayah": "34.01.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.02"
+    },
+    {
+      "nama_wilayah": "Ngestiharjo",
+      "kode_wilayah": "34.01.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.02"
+    },
+    {
+      "nama_wilayah": "Bendungan",
+      "kode_wilayah": "34.01.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.02"
+    },
+    {
+      "nama_wilayah": "Triharjo",
+      "kode_wilayah": "34.01.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.02"
+    },
+    {
+      "nama_wilayah": "Giripeni",
+      "kode_wilayah": "34.01.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.02"
+    }
+  ]
+}

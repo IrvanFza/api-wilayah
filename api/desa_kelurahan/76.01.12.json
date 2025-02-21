@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Parabu",
+      "kode_wilayah": "76.01.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.12"
+    },
+    {
+      "nama_wilayah": "Kenangan",
+      "kode_wilayah": "76.01.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.12"
+    },
+    {
+      "nama_wilayah": "Bajawali",
+      "kode_wilayah": "76.01.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.12"
+    },
+    {
+      "nama_wilayah": "Singgani",
+      "kode_wilayah": "76.01.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.12"
+    },
+    {
+      "nama_wilayah": "Kulu",
+      "kode_wilayah": "76.01.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.12"
+    },
+    {
+      "nama_wilayah": "Batu Matoru",
+      "kode_wilayah": "76.01.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.12"
+    },
+    {
+      "nama_wilayah": "Bambakoro",
+      "kode_wilayah": "76.01.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.12"
+    }
+  ]
+}

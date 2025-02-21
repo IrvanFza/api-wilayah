@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Dumai Barat",
+      "kode_wilayah": "14.72.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "14.72",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama_wilayah": "Dumai Timur",
+      "kode_wilayah": "14.72.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "14.72",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama_wilayah": "Bukit Kapur",
+      "kode_wilayah": "14.72.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "14.72",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama_wilayah": "Sungai Sembilan",
+      "kode_wilayah": "14.72.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "14.72",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama_wilayah": "Medang Kampai",
+      "kode_wilayah": "14.72.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "14.72",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama_wilayah": "Dumai Kota",
+      "kode_wilayah": "14.72.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "14.72",
+      "kode_provinsi": "14"
+    },
+    {
+      "nama_wilayah": "Dumai Selatan",
+      "kode_wilayah": "14.72.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "14.72",
+      "kode_provinsi": "14"
+    }
+  ]
+}

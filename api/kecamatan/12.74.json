@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tanjungbalai Selatan",
+      "kode_wilayah": "12.74.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.74",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Tanjungbalai Utara",
+      "kode_wilayah": "12.74.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.74",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Sei Tualang Raso",
+      "kode_wilayah": "12.74.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.74",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Teluk Nibung",
+      "kode_wilayah": "12.74.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.74",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Datuk Bandar",
+      "kode_wilayah": "12.74.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.74",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Datuk Bandar Timur",
+      "kode_wilayah": "12.74.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.74",
+      "kode_provinsi": "12"
+    }
+  ]
+}

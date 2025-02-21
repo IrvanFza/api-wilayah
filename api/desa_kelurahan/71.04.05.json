@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Kakorotan",
+      "kode_wilayah": "71.04.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.05"
+    },
+    {
+      "nama_wilayah": "Marampit",
+      "kode_wilayah": "71.04.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.05"
+    },
+    {
+      "nama_wilayah": "Laluhe",
+      "kode_wilayah": "71.04.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.05"
+    },
+    {
+      "nama_wilayah": "Dampulis",
+      "kode_wilayah": "71.04.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.05"
+    },
+    {
+      "nama_wilayah": "Karatung",
+      "kode_wilayah": "71.04.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.05"
+    },
+    {
+      "nama_wilayah": "Karatung Tengah",
+      "kode_wilayah": "71.04.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.05"
+    },
+    {
+      "nama_wilayah": "Karatung Selatan",
+      "kode_wilayah": "71.04.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.05"
+    },
+    {
+      "nama_wilayah": "Dampulis Selatan",
+      "kode_wilayah": "71.04.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.05"
+    },
+    {
+      "nama_wilayah": "Marampit Timur",
+      "kode_wilayah": "71.04.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.05"
+    }
+  ]
+}

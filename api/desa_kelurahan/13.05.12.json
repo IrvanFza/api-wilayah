@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Koto Baru",
+      "kode_wilayah": "13.05.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.12"
+    },
+    {
+      "nama_wilayah": "Koto Dalam",
+      "kode_wilayah": "13.05.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.12"
+    },
+    {
+      "nama_wilayah": "Batu Kalang",
+      "kode_wilayah": "13.05.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.12"
+    },
+    {
+      "nama_wilayah": "Koto Dalam Barat",
+      "kode_wilayah": "13.05.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.12"
+    },
+    {
+      "nama_wilayah": "Koto Dalam Selatan",
+      "kode_wilayah": "13.05.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.12"
+    },
+    {
+      "nama_wilayah": "Batu Kalang Utara",
+      "kode_wilayah": "13.05.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.12"
+    }
+  ]
+}

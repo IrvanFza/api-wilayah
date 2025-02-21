@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Waha",
+      "kode_wilayah": "74.07.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.03"
+    },
+    {
+      "nama_wilayah": "Onemay",
+      "kode_wilayah": "74.07.03.1016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.03"
+    },
+    {
+      "nama_wilayah": "Waitii Barat",
+      "kode_wilayah": "74.07.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.03"
+    },
+    {
+      "nama_wilayah": "Lamanggau",
+      "kode_wilayah": "74.07.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.03"
+    },
+    {
+      "nama_wilayah": "Waiti",
+      "kode_wilayah": "74.07.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.03"
+    },
+    {
+      "nama_wilayah": "Runduma",
+      "kode_wilayah": "74.07.03.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.03"
+    },
+    {
+      "nama_wilayah": "Patua",
+      "kode_wilayah": "74.07.03.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.03"
+    },
+    {
+      "nama_wilayah": "Teemoane",
+      "kode_wilayah": "74.07.03.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.03"
+    },
+    {
+      "nama_wilayah": "Kollo Soha",
+      "kode_wilayah": "74.07.03.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.03"
+    },
+    {
+      "nama_wilayah": "Patua II",
+      "kode_wilayah": "74.07.03.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.03"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Tebo Tengah",
+      "kode_wilayah": "15.09.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.09",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Tebo Ilir",
+      "kode_wilayah": "15.09.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.09",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Tebo Ulu",
+      "kode_wilayah": "15.09.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.09",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Rimbo Bujang",
+      "kode_wilayah": "15.09.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.09",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Sumay",
+      "kode_wilayah": "15.09.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.09",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "VII Koto",
+      "kode_wilayah": "15.09.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.09",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Rimbo Ulu",
+      "kode_wilayah": "15.09.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.09",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Rimbo Ilir",
+      "kode_wilayah": "15.09.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.09",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Tengah Ilir",
+      "kode_wilayah": "15.09.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.09",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Serai Serumpun",
+      "kode_wilayah": "15.09.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.09",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "VII Koto Ilir",
+      "kode_wilayah": "15.09.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.09",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Muara Tabir",
+      "kode_wilayah": "15.09.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.09",
+      "kode_provinsi": "15"
+    }
+  ]
+}

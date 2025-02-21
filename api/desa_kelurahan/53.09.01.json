@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Aimere",
+      "kode_wilayah": "53.09.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.09",
+      "kode_kecamatan": "53.09.01"
+    },
+    {
+      "nama_wilayah": "Foa",
+      "kode_wilayah": "53.09.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.09",
+      "kode_kecamatan": "53.09.01"
+    },
+    {
+      "nama_wilayah": "Keligejo",
+      "kode_wilayah": "53.09.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.09",
+      "kode_kecamatan": "53.09.01"
+    },
+    {
+      "nama_wilayah": "Aimere Timur",
+      "kode_wilayah": "53.09.01.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.09",
+      "kode_kecamatan": "53.09.01"
+    },
+    {
+      "nama_wilayah": "Heawea",
+      "kode_wilayah": "53.09.01.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.09",
+      "kode_kecamatan": "53.09.01"
+    },
+    {
+      "nama_wilayah": "Legelapu",
+      "kode_wilayah": "53.09.01.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.09",
+      "kode_kecamatan": "53.09.01"
+    },
+    {
+      "nama_wilayah": "Lekogoko",
+      "kode_wilayah": "53.09.01.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.09",
+      "kode_kecamatan": "53.09.01"
+    },
+    {
+      "nama_wilayah": "Binawali",
+      "kode_wilayah": "53.09.01.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.09",
+      "kode_kecamatan": "53.09.01"
+    },
+    {
+      "nama_wilayah": "Kila",
+      "kode_wilayah": "53.09.01.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.09",
+      "kode_kecamatan": "53.09.01"
+    },
+    {
+      "nama_wilayah": "Waesae",
+      "kode_wilayah": "53.09.01.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.09",
+      "kode_kecamatan": "53.09.01"
+    },
+    {
+      "nama_wilayah": "Mawwo Kisa",
+      "kode_wilayah": "53.09.01.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.09",
+      "kode_kecamatan": "53.09.01"
+    }
+  ]
+}

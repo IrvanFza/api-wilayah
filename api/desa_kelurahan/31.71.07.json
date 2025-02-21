@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Gelora",
+      "kode_wilayah": "31.71.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.07"
+    },
+    {
+      "nama_wilayah": "Bendungan Hilir",
+      "kode_wilayah": "31.71.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.07"
+    },
+    {
+      "nama_wilayah": "Karet Tengsin",
+      "kode_wilayah": "31.71.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.07"
+    },
+    {
+      "nama_wilayah": "Petamburan",
+      "kode_wilayah": "31.71.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.07"
+    },
+    {
+      "nama_wilayah": "Kebon Melati",
+      "kode_wilayah": "31.71.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.07"
+    },
+    {
+      "nama_wilayah": "Kebon Kacang",
+      "kode_wilayah": "31.71.07.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.07"
+    },
+    {
+      "nama_wilayah": "Kampung Bali",
+      "kode_wilayah": "31.71.07.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.07"
+    }
+  ]
+}

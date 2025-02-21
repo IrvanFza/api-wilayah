@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Bariat",
+      "kode_wilayah": "96.02.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.09"
+    },
+    {
+      "nama_wilayah": "Wamargege",
+      "kode_wilayah": "96.02.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.09"
+    },
+    {
+      "nama_wilayah": "Manelek",
+      "kode_wilayah": "96.02.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.09"
+    },
+    {
+      "nama_wilayah": "Konda",
+      "kode_wilayah": "96.02.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.09"
+    },
+    {
+      "nama_wilayah": "Nagna",
+      "kode_wilayah": "96.02.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.09"
+    }
+  ]
+}

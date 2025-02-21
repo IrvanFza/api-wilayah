@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Takari",
+      "kode_wilayah": "53.01.11.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.11"
+    },
+    {
+      "nama_wilayah": "Noelmina",
+      "kode_wilayah": "53.01.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.11"
+    },
+    {
+      "nama_wilayah": "Benu",
+      "kode_wilayah": "53.01.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.11"
+    },
+    {
+      "nama_wilayah": "Hueknutu",
+      "kode_wilayah": "53.01.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.11"
+    },
+    {
+      "nama_wilayah": "Oelnaineno",
+      "kode_wilayah": "53.01.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.11"
+    },
+    {
+      "nama_wilayah": "Tanini",
+      "kode_wilayah": "53.01.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.11"
+    },
+    {
+      "nama_wilayah": "Kauniki",
+      "kode_wilayah": "53.01.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.11"
+    },
+    {
+      "nama_wilayah": "Tuapanaf",
+      "kode_wilayah": "53.01.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.11"
+    },
+    {
+      "nama_wilayah": "Fatukona",
+      "kode_wilayah": "53.01.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.11"
+    },
+    {
+      "nama_wilayah": "Oesusu",
+      "kode_wilayah": "53.01.11.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.11"
+    }
+  ]
+}

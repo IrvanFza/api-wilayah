@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Bareng",
+      "kode_wilayah": "33.10.25.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.10",
+      "kode_kecamatan": "33.10.25"
+    },
+    {
+      "nama_wilayah": "Kabupaten",
+      "kode_wilayah": "33.10.25.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.10",
+      "kode_kecamatan": "33.10.25"
+    },
+    {
+      "nama_wilayah": "Klaten",
+      "kode_wilayah": "33.10.25.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.10",
+      "kode_kecamatan": "33.10.25"
+    },
+    {
+      "nama_wilayah": "Tonggalan",
+      "kode_wilayah": "33.10.25.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.10",
+      "kode_kecamatan": "33.10.25"
+    },
+    {
+      "nama_wilayah": "Buntalan",
+      "kode_wilayah": "33.10.25.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.10",
+      "kode_kecamatan": "33.10.25"
+    },
+    {
+      "nama_wilayah": "Mojayan",
+      "kode_wilayah": "33.10.25.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.10",
+      "kode_kecamatan": "33.10.25"
+    },
+    {
+      "nama_wilayah": "Semangkak",
+      "kode_wilayah": "33.10.25.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.10",
+      "kode_kecamatan": "33.10.25"
+    },
+    {
+      "nama_wilayah": "Jomboran",
+      "kode_wilayah": "33.10.25.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.10",
+      "kode_kecamatan": "33.10.25"
+    },
+    {
+      "nama_wilayah": "Gumulan",
+      "kode_wilayah": "33.10.25.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.10",
+      "kode_kecamatan": "33.10.25"
+    }
+  ]
+}

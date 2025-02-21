@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Perumnas Way Halim",
+      "kode_wilayah": "18.71.15.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.15"
+    },
+    {
+      "nama_wilayah": "Way Halim Permai",
+      "kode_wilayah": "18.71.15.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.15"
+    },
+    {
+      "nama_wilayah": "Gunungsulah",
+      "kode_wilayah": "18.71.15.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.15"
+    },
+    {
+      "nama_wilayah": "Jagabaya I",
+      "kode_wilayah": "18.71.15.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.15"
+    },
+    {
+      "nama_wilayah": "Jagabaya II",
+      "kode_wilayah": "18.71.15.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.15"
+    },
+    {
+      "nama_wilayah": "Jagabaya III",
+      "kode_wilayah": "18.71.15.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.15"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Alur Tani Satu",
+      "kode_wilayah": "11.16.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.16",
+      "kode_kecamatan": "11.16.07"
+    },
+    {
+      "nama_wilayah": "Alur Tani Dua",
+      "kode_wilayah": "11.16.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.16",
+      "kode_kecamatan": "11.16.07"
+    },
+    {
+      "nama_wilayah": "Bandar Khalifah",
+      "kode_wilayah": "11.16.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.16",
+      "kode_kecamatan": "11.16.07"
+    },
+    {
+      "nama_wilayah": "Kaloy",
+      "kode_wilayah": "11.16.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.16",
+      "kode_kecamatan": "11.16.07"
+    },
+    {
+      "nama_wilayah": "Perkebunan Pulau Tiga",
+      "kode_wilayah": "11.16.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.16",
+      "kode_kecamatan": "11.16.07"
+    },
+    {
+      "nama_wilayah": "Harum Sari",
+      "kode_wilayah": "11.16.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.16",
+      "kode_kecamatan": "11.16.07"
+    },
+    {
+      "nama_wilayah": "Bandar Setia",
+      "kode_wilayah": "11.16.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.16",
+      "kode_kecamatan": "11.16.07"
+    },
+    {
+      "nama_wilayah": "Rongoh",
+      "kode_wilayah": "11.16.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.16",
+      "kode_kecamatan": "11.16.07"
+    },
+    {
+      "nama_wilayah": "Wono Sari",
+      "kode_wilayah": "11.16.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.16",
+      "kode_kecamatan": "11.16.07"
+    }
+  ]
+}

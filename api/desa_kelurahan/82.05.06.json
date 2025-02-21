@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Dofa",
+      "kode_wilayah": "82.05.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.06"
+    },
+    {
+      "nama_wilayah": "Lekokadai",
+      "kode_wilayah": "82.05.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.06"
+    },
+    {
+      "nama_wilayah": "Lekosula",
+      "kode_wilayah": "82.05.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.06"
+    },
+    {
+      "nama_wilayah": "Pas Ipa",
+      "kode_wilayah": "82.05.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.06"
+    },
+    {
+      "nama_wilayah": "Pelita",
+      "kode_wilayah": "82.05.06.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.06"
+    },
+    {
+      "nama_wilayah": "Johor",
+      "kode_wilayah": "82.05.06.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.06"
+    },
+    {
+      "nama_wilayah": "Lelyaba",
+      "kode_wilayah": "82.05.06.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.06"
+    }
+  ]
+}

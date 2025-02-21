@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Waru",
+      "kode_wilayah": "64.09.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.09",
+      "kode_kecamatan": "64.09.02"
+    },
+    {
+      "nama_wilayah": "Api-api",
+      "kode_wilayah": "64.09.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.09",
+      "kode_kecamatan": "64.09.02"
+    },
+    {
+      "nama_wilayah": "Sesulu",
+      "kode_wilayah": "64.09.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.09",
+      "kode_kecamatan": "64.09.02"
+    },
+    {
+      "nama_wilayah": "Bangun Mulya",
+      "kode_wilayah": "64.09.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.09",
+      "kode_kecamatan": "64.09.02"
+    }
+  ]
+}

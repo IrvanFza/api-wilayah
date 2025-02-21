@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kranggan",
+      "kode_wilayah": "35.76.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.76",
+      "kode_kecamatan": "35.76.03"
+    },
+    {
+      "nama_wilayah": "Miji",
+      "kode_wilayah": "35.76.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.76",
+      "kode_kecamatan": "35.76.03"
+    },
+    {
+      "nama_wilayah": "Meri",
+      "kode_wilayah": "35.76.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.76",
+      "kode_kecamatan": "35.76.03"
+    },
+    {
+      "nama_wilayah": "Jagalan",
+      "kode_wilayah": "35.76.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.76",
+      "kode_kecamatan": "35.76.03"
+    },
+    {
+      "nama_wilayah": "Sentanan",
+      "kode_wilayah": "35.76.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.76",
+      "kode_kecamatan": "35.76.03"
+    },
+    {
+      "nama_wilayah": "Purwotengah",
+      "kode_wilayah": "35.76.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.76",
+      "kode_kecamatan": "35.76.03"
+    }
+  ]
+}

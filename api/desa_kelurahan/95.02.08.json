@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Aboy",
+      "kode_wilayah": "95.02.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.08"
+    },
+    {
+      "nama_wilayah": "Luban",
+      "kode_wilayah": "95.02.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.08"
+    },
+    {
+      "nama_wilayah": "Jubly",
+      "kode_wilayah": "95.02.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.08"
+    },
+    {
+      "nama_wilayah": "Armise",
+      "kode_wilayah": "95.02.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.08"
+    },
+    {
+      "nama_wilayah": "Woro",
+      "kode_wilayah": "95.02.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.08"
+    },
+    {
+      "nama_wilayah": "Pipal",
+      "kode_wilayah": "95.02.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.08"
+    },
+    {
+      "nama_wilayah": "Lulis Wii",
+      "kode_wilayah": "95.02.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.08"
+    }
+  ]
+}

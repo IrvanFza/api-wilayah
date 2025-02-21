@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Alai",
+      "kode_wilayah": "21.02.11.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.11"
+    },
+    {
+      "nama_wilayah": "Batu Limau",
+      "kode_wilayah": "21.02.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.11"
+    },
+    {
+      "nama_wilayah": "Ngal",
+      "kode_wilayah": "21.02.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.11"
+    },
+    {
+      "nama_wilayah": "Sungai Buluh",
+      "kode_wilayah": "21.02.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.11"
+    }
+  ]
+}

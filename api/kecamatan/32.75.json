@@ -1,0 +1,90 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Bekasi Timur",
+      "kode_wilayah": "32.75.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.75",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Bekasi Barat",
+      "kode_wilayah": "32.75.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.75",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Bekasi Utara",
+      "kode_wilayah": "32.75.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.75",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Bekasi Selatan",
+      "kode_wilayah": "32.75.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.75",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Rawalumbu",
+      "kode_wilayah": "32.75.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.75",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Medansatria",
+      "kode_wilayah": "32.75.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.75",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Bantargebang",
+      "kode_wilayah": "32.75.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.75",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Pondokgede",
+      "kode_wilayah": "32.75.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.75",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Jatiasih",
+      "kode_wilayah": "32.75.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.75",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Jatisampurna",
+      "kode_wilayah": "32.75.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.75",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Mustikajaya",
+      "kode_wilayah": "32.75.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.75",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Pondokmelati",
+      "kode_wilayah": "32.75.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.75",
+      "kode_provinsi": "32"
+    }
+  ]
+}

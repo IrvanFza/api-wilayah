@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kian Laut",
+      "kode_wilayah": "81.05.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.14"
+    },
+    {
+      "nama_wilayah": "Kuwaos",
+      "kode_wilayah": "81.05.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.14"
+    },
+    {
+      "nama_wilayah": "Salagor Air",
+      "kode_wilayah": "81.05.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.14"
+    },
+    {
+      "nama_wilayah": "Salagor Kota",
+      "kode_wilayah": "81.05.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.14"
+    },
+    {
+      "nama_wilayah": "Aruan Gaur",
+      "kode_wilayah": "81.05.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.14"
+    },
+    {
+      "nama_wilayah": "Keta Rumadan",
+      "kode_wilayah": "81.05.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.14"
+    },
+    {
+      "nama_wilayah": "Lian Tasik",
+      "kode_wilayah": "81.05.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.14"
+    },
+    {
+      "nama_wilayah": "Keta",
+      "kode_wilayah": "81.05.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.14"
+    },
+    {
+      "nama_wilayah": "Air Nanang",
+      "kode_wilayah": "81.05.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.14"
+    },
+    {
+      "nama_wilayah": "Suru",
+      "kode_wilayah": "81.05.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.14"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "status": "success",
+  "total": 20,
+  "data": [
+    {
+      "nama_wilayah": "Suci Kaler",
+      "kode_wilayah": "32.05.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.02"
+    },
+    {
+      "nama_wilayah": "Lebakjaya",
+      "kode_wilayah": "32.05.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.02"
+    },
+    {
+      "nama_wilayah": "Karangmulya",
+      "kode_wilayah": "32.05.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.02"
+    },
+    {
+      "nama_wilayah": "Lengkongjaya",
+      "kode_wilayah": "32.05.02.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.02"
+    },
+    {
+      "nama_wilayah": "Karangpawitan",
+      "kode_wilayah": "32.05.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.02"
+    },
+    {
+      "nama_wilayah": "Situgede",
+      "kode_wilayah": "32.05.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.02"
+    },
+    {
+      "nama_wilayah": "Cimurah",
+      "kode_wilayah": "32.05.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.02"
+    },
+    {
+      "nama_wilayah": "Suci",
+      "kode_wilayah": "32.05.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.02"
+    },
+    {
+      "nama_wilayah": "Jatisari",
+      "kode_wilayah": "32.05.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.02"
+    },
+    {
+      "nama_wilayah": "Godog",
+      "kode_wilayah": "32.05.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.02"
+    },
+    {
+      "nama_wilayah": "Situsari",
+      "kode_wilayah": "32.05.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.02"
+    },
+    {
+      "nama_wilayah": "Karangsari",
+      "kode_wilayah": "32.05.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.02"
+    },
+    {
+      "nama_wilayah": "Sindangpalay",
+      "kode_wilayah": "32.05.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.02"
+    },
+    {
+      "nama_wilayah": "Lebakagung",
+      "kode_wilayah": "32.05.02.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.02"
+    },
+    {
+      "nama_wilayah": "Sindanggalih",
+      "kode_wilayah": "32.05.02.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.02"
+    },
+    {
+      "nama_wilayah": "Mekarsari",
+      "kode_wilayah": "32.05.02.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.02"
+    },
+    {
+      "nama_wilayah": "Sindanglaya",
+      "kode_wilayah": "32.05.02.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.02"
+    },
+    {
+      "nama_wilayah": "Tanjungsari",
+      "kode_wilayah": "32.05.02.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.02"
+    },
+    {
+      "nama_wilayah": "Situsaeur",
+      "kode_wilayah": "32.05.02.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.02"
+    },
+    {
+      "nama_wilayah": "Situjaya",
+      "kode_wilayah": "32.05.02.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.02"
+    }
+  ]
+}

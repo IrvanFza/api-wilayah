@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Lubuk Buntak",
+      "kode_wilayah": "16.72.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.04"
+    },
+    {
+      "nama_wilayah": "Prahu Dipo",
+      "kode_wilayah": "16.72.04.1018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.04"
+    },
+    {
+      "nama_wilayah": "Kance Diwe",
+      "kode_wilayah": "16.72.04.1020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.04"
+    },
+    {
+      "nama_wilayah": "Atung Bungsu",
+      "kode_wilayah": "16.72.04.1021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.04"
+    },
+    {
+      "nama_wilayah": "Penjalang",
+      "kode_wilayah": "16.72.04.1022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.04"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sentani Kota",
+      "kode_wilayah": "91.03.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.01"
+    },
+    {
+      "nama_wilayah": "Dobonsolo",
+      "kode_wilayah": "91.03.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.01"
+    },
+    {
+      "nama_wilayah": "Hinekombe",
+      "kode_wilayah": "91.03.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.01"
+    },
+    {
+      "nama_wilayah": "Sereh",
+      "kode_wilayah": "91.03.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.01"
+    },
+    {
+      "nama_wilayah": "Yobeh",
+      "kode_wilayah": "91.03.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.01"
+    },
+    {
+      "nama_wilayah": "Ilfele",
+      "kode_wilayah": "91.03.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.01"
+    },
+    {
+      "nama_wilayah": "Hobong",
+      "kode_wilayah": "91.03.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.01"
+    },
+    {
+      "nama_wilayah": "Yahim",
+      "kode_wilayah": "91.03.01.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.01"
+    },
+    {
+      "nama_wilayah": "Desa Adat Yoboi",
+      "kode_wilayah": "91.03.01.3007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.01"
+    },
+    {
+      "nama_wilayah": "Desa Adat Heaiseai Yomo Heai",
+      "kode_wilayah": "91.03.01.3010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.01"
+    }
+  ]
+}

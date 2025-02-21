@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Keudah",
+      "kode_wilayah": "11.71.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.71",
+      "kode_kecamatan": "11.71.06"
+    },
+    {
+      "nama_wilayah": "Peulanggahan",
+      "kode_wilayah": "11.71.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.71",
+      "kode_kecamatan": "11.71.06"
+    },
+    {
+      "nama_wilayah": "Merduati",
+      "kode_wilayah": "11.71.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.71",
+      "kode_kecamatan": "11.71.06"
+    },
+    {
+      "nama_wilayah": "Lampaseh Kota",
+      "kode_wilayah": "11.71.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.71",
+      "kode_kecamatan": "11.71.06"
+    },
+    {
+      "nama_wilayah": "Gampong Pande",
+      "kode_wilayah": "11.71.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.71",
+      "kode_kecamatan": "11.71.06"
+    },
+    {
+      "nama_wilayah": "Gampong Jawa",
+      "kode_wilayah": "11.71.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.71",
+      "kode_kecamatan": "11.71.06"
+    }
+  ]
+}

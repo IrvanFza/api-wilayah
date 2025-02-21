@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Lindajang",
+      "kode_wilayah": "73.17.19.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.19"
+    },
+    {
+      "nama_wilayah": "Buntu Barana",
+      "kode_wilayah": "73.17.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.19"
+    },
+    {
+      "nama_wilayah": "Poringan",
+      "kode_wilayah": "73.17.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.19"
+    },
+    {
+      "nama_wilayah": "Salubua",
+      "kode_wilayah": "73.17.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.19"
+    },
+    {
+      "nama_wilayah": "Kaili",
+      "kode_wilayah": "73.17.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.19"
+    },
+    {
+      "nama_wilayah": "Muhajirin",
+      "kode_wilayah": "73.17.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.19"
+    },
+    {
+      "nama_wilayah": "Tallang",
+      "kode_wilayah": "73.17.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.19"
+    },
+    {
+      "nama_wilayah": "Kaladi Darussalam",
+      "kode_wilayah": "73.17.19.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.19"
+    }
+  ]
+}

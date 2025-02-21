@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lampar",
+      "kode_wilayah": "33.09.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.21"
+    },
+    {
+      "nama_wilayah": "Dragan",
+      "kode_wilayah": "33.09.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.21"
+    },
+    {
+      "nama_wilayah": "Karanganyar",
+      "kode_wilayah": "33.09.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.21"
+    },
+    {
+      "nama_wilayah": "Jemowo",
+      "kode_wilayah": "33.09.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.21"
+    },
+    {
+      "nama_wilayah": "Sumur",
+      "kode_wilayah": "33.09.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.21"
+    },
+    {
+      "nama_wilayah": "Sangup",
+      "kode_wilayah": "33.09.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.21"
+    },
+    {
+      "nama_wilayah": "Mriyan",
+      "kode_wilayah": "33.09.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.21"
+    },
+    {
+      "nama_wilayah": "Lanjaran",
+      "kode_wilayah": "33.09.21.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.21"
+    },
+    {
+      "nama_wilayah": "Karangkendal",
+      "kode_wilayah": "33.09.21.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.21"
+    },
+    {
+      "nama_wilayah": "Keposong",
+      "kode_wilayah": "33.09.21.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.21"
+    }
+  ]
+}

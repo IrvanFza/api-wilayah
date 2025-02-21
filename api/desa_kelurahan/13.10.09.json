@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Padang Laweh",
+      "kode_wilayah": "13.10.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.09"
+    },
+    {
+      "nama_wilayah": "Batu Rijal",
+      "kode_wilayah": "13.10.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.09"
+    },
+    {
+      "nama_wilayah": "Muaro Sopan",
+      "kode_wilayah": "13.10.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.09"
+    },
+    {
+      "nama_wilayah": "Sopan Jaya",
+      "kode_wilayah": "13.10.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.10",
+      "kode_kecamatan": "13.10.09"
+    }
+  ]
+}

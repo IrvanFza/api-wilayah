@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Sapuka",
+      "kode_wilayah": "73.10.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.01"
+    },
+    {
+      "nama_wilayah": "Sabaru",
+      "kode_wilayah": "73.10.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.01"
+    },
+    {
+      "nama_wilayah": "Balo Baloang",
+      "kode_wilayah": "73.10.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.01"
+    },
+    {
+      "nama_wilayah": "Sabalana",
+      "kode_wilayah": "73.10.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.01"
+    },
+    {
+      "nama_wilayah": "Tampaang",
+      "kode_wilayah": "73.10.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.01"
+    },
+    {
+      "nama_wilayah": "Sailus",
+      "kode_wilayah": "73.10.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.01"
+    },
+    {
+      "nama_wilayah": "Satanger",
+      "kode_wilayah": "73.10.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.01"
+    },
+    {
+      "nama_wilayah": "Kapoposang Bali",
+      "kode_wilayah": "73.10.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.01"
+    },
+    {
+      "nama_wilayah": "Poleonro",
+      "kode_wilayah": "73.10.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.01"
+    }
+  ]
+}

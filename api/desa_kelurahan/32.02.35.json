@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Cireunghas",
+      "kode_wilayah": "32.02.35.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.35"
+    },
+    {
+      "nama_wilayah": "Cipurut",
+      "kode_wilayah": "32.02.35.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.35"
+    },
+    {
+      "nama_wilayah": "Bencoy",
+      "kode_wilayah": "32.02.35.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.35"
+    },
+    {
+      "nama_wilayah": "Cikurutug",
+      "kode_wilayah": "32.02.35.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.35"
+    },
+    {
+      "nama_wilayah": "Tegalpanjang",
+      "kode_wilayah": "32.02.35.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.35"
+    }
+  ]
+}

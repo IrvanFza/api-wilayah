@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Batubulan",
+      "kode_wilayah": "51.04.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.04",
+      "kode_kecamatan": "51.04.01"
+    },
+    {
+      "nama_wilayah": "Ketewel",
+      "kode_wilayah": "51.04.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.04",
+      "kode_kecamatan": "51.04.01"
+    },
+    {
+      "nama_wilayah": "Guwang",
+      "kode_wilayah": "51.04.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.04",
+      "kode_kecamatan": "51.04.01"
+    },
+    {
+      "nama_wilayah": "Sukawati",
+      "kode_wilayah": "51.04.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.04",
+      "kode_kecamatan": "51.04.01"
+    },
+    {
+      "nama_wilayah": "Celuk",
+      "kode_wilayah": "51.04.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.04",
+      "kode_kecamatan": "51.04.01"
+    },
+    {
+      "nama_wilayah": "Singapadu",
+      "kode_wilayah": "51.04.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.04",
+      "kode_kecamatan": "51.04.01"
+    },
+    {
+      "nama_wilayah": "Batuan",
+      "kode_wilayah": "51.04.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.04",
+      "kode_kecamatan": "51.04.01"
+    },
+    {
+      "nama_wilayah": "Kemenuh",
+      "kode_wilayah": "51.04.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.04",
+      "kode_kecamatan": "51.04.01"
+    },
+    {
+      "nama_wilayah": "Batubulan Kangin",
+      "kode_wilayah": "51.04.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.04",
+      "kode_kecamatan": "51.04.01"
+    },
+    {
+      "nama_wilayah": "Singapadu Tengah",
+      "kode_wilayah": "51.04.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.04",
+      "kode_kecamatan": "51.04.01"
+    },
+    {
+      "nama_wilayah": "Singapadu Kaler",
+      "kode_wilayah": "51.04.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.04",
+      "kode_kecamatan": "51.04.01"
+    },
+    {
+      "nama_wilayah": "Batuan Kaler",
+      "kode_wilayah": "51.04.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.04",
+      "kode_kecamatan": "51.04.01"
+    }
+  ]
+}

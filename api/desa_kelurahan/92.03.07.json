@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Onimsari",
+      "kode_wilayah": "92.03.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.07"
+    },
+    {
+      "nama_wilayah": "Mekarsari",
+      "kode_wilayah": "92.03.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.07"
+    },
+    {
+      "nama_wilayah": "Pinang Agung",
+      "kode_wilayah": "92.03.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.07"
+    },
+    {
+      "nama_wilayah": "Bumi Moroh Indah",
+      "kode_wilayah": "92.03.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.07"
+    },
+    {
+      "nama_wilayah": "Tesha",
+      "kode_wilayah": "92.03.07.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.07"
+    },
+    {
+      "nama_wilayah": "Onim Jaya",
+      "kode_wilayah": "92.03.07.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.07"
+    },
+    {
+      "nama_wilayah": "Wono Rejo",
+      "kode_wilayah": "92.03.07.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.07"
+    }
+  ]
+}

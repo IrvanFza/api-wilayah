@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Mangkubumi",
+      "kode_wilayah": "32.78.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.08"
+    },
+    {
+      "nama_wilayah": "Cigantang",
+      "kode_wilayah": "32.78.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.08"
+    },
+    {
+      "nama_wilayah": "Karikil",
+      "kode_wilayah": "32.78.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.08"
+    },
+    {
+      "nama_wilayah": "Linggajaya",
+      "kode_wilayah": "32.78.08.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.08"
+    },
+    {
+      "nama_wilayah": "Cipawitra",
+      "kode_wilayah": "32.78.08.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.08"
+    },
+    {
+      "nama_wilayah": "Sambongpari",
+      "kode_wilayah": "32.78.08.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.08"
+    },
+    {
+      "nama_wilayah": "Sambongjaya",
+      "kode_wilayah": "32.78.08.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.08"
+    },
+    {
+      "nama_wilayah": "Cipari",
+      "kode_wilayah": "32.78.08.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.08"
+    }
+  ]
+}

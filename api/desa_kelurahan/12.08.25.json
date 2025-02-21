@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Saribu Dolok",
+      "kode_wilayah": "12.08.25.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.25"
+    },
+    {
+      "nama_wilayah": "Bangun Mariah",
+      "kode_wilayah": "12.08.25.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.25"
+    },
+    {
+      "nama_wilayah": "Purba Sinombah",
+      "kode_wilayah": "12.08.25.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.25"
+    },
+    {
+      "nama_wilayah": "Purba Tua",
+      "kode_wilayah": "12.08.25.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.25"
+    },
+    {
+      "nama_wilayah": "Purba Tua Baru",
+      "kode_wilayah": "12.08.25.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.25"
+    },
+    {
+      "nama_wilayah": "Sinar Baru",
+      "kode_wilayah": "12.08.25.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.25"
+    },
+    {
+      "nama_wilayah": "Purba Tua Etek",
+      "kode_wilayah": "12.08.25.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.25"
+    }
+  ]
+}

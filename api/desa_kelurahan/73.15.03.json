@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Manarang",
+      "kode_wilayah": "73.15.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.03"
+    },
+    {
+      "nama_wilayah": "Padaidi",
+      "kode_wilayah": "73.15.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.03"
+    },
+    {
+      "nama_wilayah": "Pananrang",
+      "kode_wilayah": "73.15.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.03"
+    },
+    {
+      "nama_wilayah": "Padakkalawa",
+      "kode_wilayah": "73.15.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.03"
+    },
+    {
+      "nama_wilayah": "Marannu",
+      "kode_wilayah": "73.15.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.03"
+    },
+    {
+      "nama_wilayah": "Alitta",
+      "kode_wilayah": "73.15.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.03"
+    },
+    {
+      "nama_wilayah": "Padaelo",
+      "kode_wilayah": "73.15.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.03"
+    },
+    {
+      "nama_wilayah": "Bunga",
+      "kode_wilayah": "73.15.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.03"
+    },
+    {
+      "nama_wilayah": "Makkawaru",
+      "kode_wilayah": "73.15.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.03"
+    }
+  ]
+}

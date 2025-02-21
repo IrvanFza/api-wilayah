@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Manamas",
+      "kode_wilayah": "53.03.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.18"
+    },
+    {
+      "nama_wilayah": "Benus",
+      "kode_wilayah": "53.03.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.18"
+    },
+    {
+      "nama_wilayah": "Bakitolas",
+      "kode_wilayah": "53.03.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.18"
+    },
+    {
+      "nama_wilayah": "Sunsea",
+      "kode_wilayah": "53.03.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.18"
+    }
+  ]
+}

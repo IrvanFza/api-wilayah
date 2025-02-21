@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Mubur",
+      "kode_wilayah": "21.05.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.08"
+    },
+    {
+      "nama_wilayah": "Piasan",
+      "kode_wilayah": "21.05.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.08"
+    },
+    {
+      "nama_wilayah": "Bayat",
+      "kode_wilayah": "21.05.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.08"
+    }
+  ]
+}

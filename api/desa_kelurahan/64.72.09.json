@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Karang Mumus",
+      "kode_wilayah": "64.72.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.09"
+    },
+    {
+      "nama_wilayah": "Pelabuhan",
+      "kode_wilayah": "64.72.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.09"
+    },
+    {
+      "nama_wilayah": "Pasar Pagi",
+      "kode_wilayah": "64.72.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.09"
+    },
+    {
+      "nama_wilayah": "Bugis",
+      "kode_wilayah": "64.72.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.09"
+    },
+    {
+      "nama_wilayah": "Sungai Pinang Luar",
+      "kode_wilayah": "64.72.09.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.09"
+    }
+  ]
+}

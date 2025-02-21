@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Manyeti",
+      "kode_wilayah": "32.13.27.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.27"
+    },
+    {
+      "nama_wilayah": "Rawalele",
+      "kode_wilayah": "32.13.27.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.27"
+    },
+    {
+      "nama_wilayah": "Sukasari",
+      "kode_wilayah": "32.13.27.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.27"
+    },
+    {
+      "nama_wilayah": "Situsari",
+      "kode_wilayah": "32.13.27.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.27"
+    },
+    {
+      "nama_wilayah": "Dawuan Kaler",
+      "kode_wilayah": "32.13.27.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.27"
+    },
+    {
+      "nama_wilayah": "Dawuan Kidul",
+      "kode_wilayah": "32.13.27.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.27"
+    },
+    {
+      "nama_wilayah": "Cisampih",
+      "kode_wilayah": "32.13.27.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.27"
+    },
+    {
+      "nama_wilayah": "Margasari",
+      "kode_wilayah": "32.13.27.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.27"
+    },
+    {
+      "nama_wilayah": "Batusari",
+      "kode_wilayah": "32.13.27.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.27"
+    },
+    {
+      "nama_wilayah": "Jambelaer",
+      "kode_wilayah": "32.13.27.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.27"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Warbo",
+      "kode_wilayah": "96.05.16.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.16"
+    },
+    {
+      "nama_wilayah": "Rawas",
+      "kode_wilayah": "96.05.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.16"
+    },
+    {
+      "nama_wilayah": "Orsu",
+      "kode_wilayah": "96.05.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.16"
+    },
+    {
+      "nama_wilayah": "Soan",
+      "kode_wilayah": "96.05.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.16"
+    },
+    {
+      "nama_wilayah": "Adoh",
+      "kode_wilayah": "96.05.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.16"
+    },
+    {
+      "nama_wilayah": "Woman",
+      "kode_wilayah": "96.05.16.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.16"
+    },
+    {
+      "nama_wilayah": "Orain",
+      "kode_wilayah": "96.05.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.16"
+    },
+    {
+      "nama_wilayah": "Sosian",
+      "kode_wilayah": "96.05.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.16"
+    },
+    {
+      "nama_wilayah": "Segior",
+      "kode_wilayah": "96.05.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.16"
+    },
+    {
+      "nama_wilayah": "Temel",
+      "kode_wilayah": "96.05.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.16"
+    }
+  ]
+}

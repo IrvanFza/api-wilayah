@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Jambi Kecil",
+      "kode_wilayah": "15.05.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.05",
+      "kode_kecamatan": "15.05.04"
+    },
+    {
+      "nama_wilayah": "Setiris",
+      "kode_wilayah": "15.05.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.05",
+      "kode_kecamatan": "15.05.04"
+    },
+    {
+      "nama_wilayah": "Tanjung Katung",
+      "kode_wilayah": "15.05.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.05",
+      "kode_kecamatan": "15.05.04"
+    },
+    {
+      "nama_wilayah": "Jambi Tulo",
+      "kode_wilayah": "15.05.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.05",
+      "kode_kecamatan": "15.05.04"
+    },
+    {
+      "nama_wilayah": "Baru",
+      "kode_wilayah": "15.05.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.05",
+      "kode_kecamatan": "15.05.04"
+    },
+    {
+      "nama_wilayah": "Danau Lamo",
+      "kode_wilayah": "15.05.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.05",
+      "kode_kecamatan": "15.05.04"
+    },
+    {
+      "nama_wilayah": "Muaro Jambi",
+      "kode_wilayah": "15.05.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.05",
+      "kode_kecamatan": "15.05.04"
+    },
+    {
+      "nama_wilayah": "Niaso",
+      "kode_wilayah": "15.05.04.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.05",
+      "kode_kecamatan": "15.05.04"
+    },
+    {
+      "nama_wilayah": "Bakung",
+      "kode_wilayah": "15.05.04.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.05",
+      "kode_kecamatan": "15.05.04"
+    },
+    {
+      "nama_wilayah": "Danau Kedap",
+      "kode_wilayah": "15.05.04.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.05",
+      "kode_kecamatan": "15.05.04"
+    },
+    {
+      "nama_wilayah": "Mudung Darat",
+      "kode_wilayah": "15.05.04.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.05",
+      "kode_kecamatan": "15.05.04"
+    },
+    {
+      "nama_wilayah": "Lubuk Raman",
+      "kode_wilayah": "15.05.04.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.05",
+      "kode_kecamatan": "15.05.04"
+    }
+  ]
+}

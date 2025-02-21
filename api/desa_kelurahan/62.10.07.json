@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kampuri",
+      "kode_wilayah": "62.10.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.10",
+      "kode_kecamatan": "62.10.07"
+    },
+    {
+      "nama_wilayah": "Tuyun",
+      "kode_wilayah": "62.10.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.10",
+      "kode_kecamatan": "62.10.07"
+    },
+    {
+      "nama_wilayah": "Tumbang Empas",
+      "kode_wilayah": "62.10.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.10",
+      "kode_kecamatan": "62.10.07"
+    },
+    {
+      "nama_wilayah": "Rangan Tate",
+      "kode_wilayah": "62.10.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.10",
+      "kode_kecamatan": "62.10.07"
+    },
+    {
+      "nama_wilayah": "Dahian Tambuk",
+      "kode_wilayah": "62.10.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.10",
+      "kode_kecamatan": "62.10.07"
+    },
+    {
+      "nama_wilayah": "Tumbang Danau",
+      "kode_wilayah": "62.10.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.10",
+      "kode_kecamatan": "62.10.07"
+    }
+  ]
+}

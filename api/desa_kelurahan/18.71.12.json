@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sukabumi",
+      "kode_wilayah": "18.71.12.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.12"
+    },
+    {
+      "nama_wilayah": "Sukabumi Indah",
+      "kode_wilayah": "18.71.12.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.12"
+    },
+    {
+      "nama_wilayah": "Campang Raya",
+      "kode_wilayah": "18.71.12.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.12"
+    },
+    {
+      "nama_wilayah": "Nusantara Permai",
+      "kode_wilayah": "18.71.12.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.12"
+    },
+    {
+      "nama_wilayah": "Campang Jaya",
+      "kode_wilayah": "18.71.12.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.12"
+    },
+    {
+      "nama_wilayah": "Way Gubak",
+      "kode_wilayah": "18.71.12.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.12"
+    },
+    {
+      "nama_wilayah": "Way Laga",
+      "kode_wilayah": "18.71.12.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.12"
+    }
+  ]
+}

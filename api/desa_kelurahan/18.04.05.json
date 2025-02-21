@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tugu Sari",
+      "kode_wilayah": "18.04.05.1016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.05"
+    },
+    {
+      "nama_wilayah": "Simpangsari",
+      "kode_wilayah": "18.04.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.05"
+    },
+    {
+      "nama_wilayah": "Sukajaya",
+      "kode_wilayah": "18.04.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.05"
+    },
+    {
+      "nama_wilayah": "Sindang Pagar",
+      "kode_wilayah": "18.04.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.05"
+    },
+    {
+      "nama_wilayah": "Sukapura",
+      "kode_wilayah": "18.04.05.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.05"
+    },
+    {
+      "nama_wilayah": "Way Petai",
+      "kode_wilayah": "18.04.05.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.05"
+    }
+  ]
+}

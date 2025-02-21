@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Lakudo",
+      "kode_wilayah": "74.14.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.14",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Mawasangka Timur",
+      "kode_wilayah": "74.14.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.14",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Mawasangka Tengah",
+      "kode_wilayah": "74.14.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.14",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Mawasangka",
+      "kode_wilayah": "74.14.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.14",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Talaga Raya",
+      "kode_wilayah": "74.14.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.14",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Gu",
+      "kode_wilayah": "74.14.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.14",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Sangia Wambulu",
+      "kode_wilayah": "74.14.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.14",
+      "kode_provinsi": "74"
+    }
+  ]
+}

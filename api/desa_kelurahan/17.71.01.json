@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Pagar Dewa",
+      "kode_wilayah": "17.71.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.01"
+    },
+    {
+      "nama_wilayah": "Sukarami",
+      "kode_wilayah": "17.71.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.01"
+    },
+    {
+      "nama_wilayah": "Pekan Sabtu",
+      "kode_wilayah": "17.71.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.01"
+    },
+    {
+      "nama_wilayah": "Bumu Ayu",
+      "kode_wilayah": "17.71.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.01"
+    },
+    {
+      "nama_wilayah": "Betungan",
+      "kode_wilayah": "17.71.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.01"
+    },
+    {
+      "nama_wilayah": "Sumur Dewa",
+      "kode_wilayah": "17.71.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.01"
+    }
+  ]
+}

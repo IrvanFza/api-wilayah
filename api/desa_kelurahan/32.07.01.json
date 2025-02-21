@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Ciamis",
+      "kode_wilayah": "32.07.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.01"
+    },
+    {
+      "nama_wilayah": "Kertasari",
+      "kode_wilayah": "32.07.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.01"
+    },
+    {
+      "nama_wilayah": "Maleber",
+      "kode_wilayah": "32.07.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.01"
+    },
+    {
+      "nama_wilayah": "Cigembor",
+      "kode_wilayah": "32.07.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.01"
+    },
+    {
+      "nama_wilayah": "Benteng",
+      "kode_wilayah": "32.07.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.01"
+    },
+    {
+      "nama_wilayah": "Linggasari",
+      "kode_wilayah": "32.07.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.01"
+    },
+    {
+      "nama_wilayah": "Sindangrasa",
+      "kode_wilayah": "32.07.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.01"
+    },
+    {
+      "nama_wilayah": "Pawindan",
+      "kode_wilayah": "32.07.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.01"
+    },
+    {
+      "nama_wilayah": "Cisadap",
+      "kode_wilayah": "32.07.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.01"
+    },
+    {
+      "nama_wilayah": "Imbanagara",
+      "kode_wilayah": "32.07.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.01"
+    },
+    {
+      "nama_wilayah": "Imbanagara Raya",
+      "kode_wilayah": "32.07.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.01"
+    },
+    {
+      "nama_wilayah": "Panyingkiran",
+      "kode_wilayah": "32.07.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.01"
+    }
+  ]
+}

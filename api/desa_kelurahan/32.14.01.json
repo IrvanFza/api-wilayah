@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Nagri Kidul",
+      "kode_wilayah": "32.14.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.01"
+    },
+    {
+      "nama_wilayah": "Nagri Kaler",
+      "kode_wilayah": "32.14.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.01"
+    },
+    {
+      "nama_wilayah": "Nagri Tengah",
+      "kode_wilayah": "32.14.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.01"
+    },
+    {
+      "nama_wilayah": "Sindangkasih",
+      "kode_wilayah": "32.14.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.01"
+    },
+    {
+      "nama_wilayah": "Cipaisan",
+      "kode_wilayah": "32.14.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.01"
+    },
+    {
+      "nama_wilayah": "Purwamekar",
+      "kode_wilayah": "32.14.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.01"
+    },
+    {
+      "nama_wilayah": "Ciseureuh",
+      "kode_wilayah": "32.14.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.01"
+    },
+    {
+      "nama_wilayah": "Tegalmunjul",
+      "kode_wilayah": "32.14.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.01"
+    },
+    {
+      "nama_wilayah": "Munjuljaya",
+      "kode_wilayah": "32.14.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.01"
+    },
+    {
+      "nama_wilayah": "Citalang",
+      "kode_wilayah": "32.14.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.14",
+      "kode_kecamatan": "32.14.01"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Karang Tengah",
+      "kode_wilayah": "36.71.12.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.12"
+    },
+    {
+      "nama_wilayah": "Karang Mulya",
+      "kode_wilayah": "36.71.12.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.12"
+    },
+    {
+      "nama_wilayah": "Pondok Bahar",
+      "kode_wilayah": "36.71.12.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.12"
+    },
+    {
+      "nama_wilayah": "Pondok Pucung",
+      "kode_wilayah": "36.71.12.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.12"
+    },
+    {
+      "nama_wilayah": "Karang Timur",
+      "kode_wilayah": "36.71.12.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.12"
+    },
+    {
+      "nama_wilayah": "Padurenan",
+      "kode_wilayah": "36.71.12.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.12"
+    },
+    {
+      "nama_wilayah": "Parung Jaya",
+      "kode_wilayah": "36.71.12.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.12"
+    }
+  ]
+}

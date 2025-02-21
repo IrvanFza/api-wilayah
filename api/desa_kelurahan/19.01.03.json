@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Batu Rusa",
+      "kode_wilayah": "19.01.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.03"
+    },
+    {
+      "nama_wilayah": "Balun Ijuk",
+      "kode_wilayah": "19.01.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.03"
+    },
+    {
+      "nama_wilayah": "Riding Panjang",
+      "kode_wilayah": "19.01.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.03"
+    },
+    {
+      "nama_wilayah": "Jurung",
+      "kode_wilayah": "19.01.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.03"
+    },
+    {
+      "nama_wilayah": "Kimak",
+      "kode_wilayah": "19.01.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.03"
+    },
+    {
+      "nama_wilayah": "Pagarawan",
+      "kode_wilayah": "19.01.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.03"
+    },
+    {
+      "nama_wilayah": "Merawang",
+      "kode_wilayah": "19.01.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.03"
+    },
+    {
+      "nama_wilayah": "Air Anyir",
+      "kode_wilayah": "19.01.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.03"
+    },
+    {
+      "nama_wilayah": "Dwi Makmur",
+      "kode_wilayah": "19.01.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.03"
+    },
+    {
+      "nama_wilayah": "Jada Bahrin",
+      "kode_wilayah": "19.01.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.03"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Leuwisadeng",
+      "kode_wilayah": "32.01.39.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.39"
+    },
+    {
+      "nama_wilayah": "Babakan Sadeng",
+      "kode_wilayah": "32.01.39.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.39"
+    },
+    {
+      "nama_wilayah": "Sadeng Kolot",
+      "kode_wilayah": "32.01.39.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.39"
+    },
+    {
+      "nama_wilayah": "Wangunjaya",
+      "kode_wilayah": "32.01.39.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.39"
+    },
+    {
+      "nama_wilayah": "Kalong I",
+      "kode_wilayah": "32.01.39.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.39"
+    },
+    {
+      "nama_wilayah": "Kalong II",
+      "kode_wilayah": "32.01.39.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.39"
+    },
+    {
+      "nama_wilayah": "Sadeng",
+      "kode_wilayah": "32.01.39.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.39"
+    },
+    {
+      "nama_wilayah": "Sibanteng",
+      "kode_wilayah": "32.01.39.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.39"
+    }
+  ]
+}

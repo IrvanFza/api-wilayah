@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Dusun Baru",
+      "kode_wilayah": "15.72.08.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.08"
+    },
+    {
+      "nama_wilayah": "Sumur Anyir",
+      "kode_wilayah": "15.72.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.08"
+    },
+    {
+      "nama_wilayah": "Koto Tinggi",
+      "kode_wilayah": "15.72.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.08"
+    },
+    {
+      "nama_wilayah": "Talang Lindung",
+      "kode_wilayah": "15.72.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.08"
+    },
+    {
+      "nama_wilayah": "Pelayang Raya",
+      "kode_wilayah": "15.72.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.08"
+    },
+    {
+      "nama_wilayah": "Sungai Ning",
+      "kode_wilayah": "15.72.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.08"
+    }
+  ]
+}

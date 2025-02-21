@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Bontobulaeng",
+      "kode_wilayah": "73.01.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.10"
+    },
+    {
+      "nama_wilayah": "Bontobaru",
+      "kode_wilayah": "73.01.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.10"
+    },
+    {
+      "nama_wilayah": "Bontomalling",
+      "kode_wilayah": "73.01.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.10"
+    },
+    {
+      "nama_wilayah": "Lembang Baji",
+      "kode_wilayah": "73.01.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.10"
+    },
+    {
+      "nama_wilayah": "Bontojati",
+      "kode_wilayah": "73.01.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.10"
+    },
+    {
+      "nama_wilayah": "Ujung",
+      "kode_wilayah": "73.01.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.10"
+    }
+  ]
+}

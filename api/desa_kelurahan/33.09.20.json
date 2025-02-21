@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Seboto",
+      "kode_wilayah": "33.09.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.20"
+    },
+    {
+      "nama_wilayah": "Kaligentong",
+      "kode_wilayah": "33.09.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.20"
+    },
+    {
+      "nama_wilayah": "Gladagsari",
+      "kode_wilayah": "33.09.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.20"
+    },
+    {
+      "nama_wilayah": "Kembang",
+      "kode_wilayah": "33.09.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.20"
+    },
+    {
+      "nama_wilayah": "Ngagrong",
+      "kode_wilayah": "33.09.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.20"
+    },
+    {
+      "nama_wilayah": "Candisari",
+      "kode_wilayah": "33.09.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.20"
+    },
+    {
+      "nama_wilayah": "Ngargoloka",
+      "kode_wilayah": "33.09.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.20"
+    },
+    {
+      "nama_wilayah": "Sampetan",
+      "kode_wilayah": "33.09.20.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.20"
+    },
+    {
+      "nama_wilayah": "Ngadirojo",
+      "kode_wilayah": "33.09.20.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.20"
+    },
+    {
+      "nama_wilayah": "Jlarem",
+      "kode_wilayah": "33.09.20.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.20"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Sabisa",
+      "kode_wilayah": "94.07.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.03"
+    },
+    {
+      "nama_wilayah": "Dubandoga",
+      "kode_wilayah": "94.07.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.03"
+    },
+    {
+      "nama_wilayah": "Debasiga I",
+      "kode_wilayah": "94.07.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.03"
+    },
+    {
+      "nama_wilayah": "Debasiga II",
+      "kode_wilayah": "94.07.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.03"
+    },
+    {
+      "nama_wilayah": "Isandoga",
+      "kode_wilayah": "94.07.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.03"
+    },
+    {
+      "nama_wilayah": "Mogalo",
+      "kode_wilayah": "94.07.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.03"
+    },
+    {
+      "nama_wilayah": "Jae",
+      "kode_wilayah": "94.07.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.03"
+    },
+    {
+      "nama_wilayah": "Mbugulo",
+      "kode_wilayah": "94.07.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.03"
+    },
+    {
+      "nama_wilayah": "Hulagupa",
+      "kode_wilayah": "94.07.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.03"
+    }
+  ]
+}

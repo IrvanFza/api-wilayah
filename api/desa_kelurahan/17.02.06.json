@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kota Padang",
+      "kode_wilayah": "17.02.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.06"
+    },
+    {
+      "nama_wilayah": "Bedeng SS.",
+      "kode_wilayah": "17.02.06.1015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.06"
+    },
+    {
+      "nama_wilayah": "Dusun Baru",
+      "kode_wilayah": "17.02.06.1016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.06"
+    },
+    {
+      "nama_wilayah": "Derati",
+      "kode_wilayah": "17.02.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.06"
+    },
+    {
+      "nama_wilayah": "Taba Anyar",
+      "kode_wilayah": "17.02.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.06"
+    },
+    {
+      "nama_wilayah": "Suka Rami",
+      "kode_wilayah": "17.02.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.06"
+    },
+    {
+      "nama_wilayah": "Lubuk Mumpo",
+      "kode_wilayah": "17.02.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.06"
+    },
+    {
+      "nama_wilayah": "Durian Mas",
+      "kode_wilayah": "17.02.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.06"
+    },
+    {
+      "nama_wilayah": "Kota Padang Baru",
+      "kode_wilayah": "17.02.06.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.06"
+    },
+    {
+      "nama_wilayah": "Tanjung Gelang",
+      "kode_wilayah": "17.02.06.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.06"
+    }
+  ]
+}

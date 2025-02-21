@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Fruata/Irowutu II",
+      "kode_wilayah": "92.06.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.08"
+    },
+    {
+      "nama_wilayah": "Meryedi",
+      "kode_wilayah": "92.06.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.08"
+    },
+    {
+      "nama_wilayah": "Riendo",
+      "kode_wilayah": "92.06.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.08"
+    }
+  ]
+}

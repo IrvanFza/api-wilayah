@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Purwanegara",
+      "kode_wilayah": "33.02.27.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.27"
+    },
+    {
+      "nama_wilayah": "Bancarkembar",
+      "kode_wilayah": "33.02.27.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.27"
+    },
+    {
+      "nama_wilayah": "Sumampir",
+      "kode_wilayah": "33.02.27.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.27"
+    },
+    {
+      "nama_wilayah": "Pabuwaran",
+      "kode_wilayah": "33.02.27.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.27"
+    },
+    {
+      "nama_wilayah": "Grendeng",
+      "kode_wilayah": "33.02.27.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.27"
+    },
+    {
+      "nama_wilayah": "Karangwangkal",
+      "kode_wilayah": "33.02.27.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.27"
+    },
+    {
+      "nama_wilayah": "Bobosan",
+      "kode_wilayah": "33.02.27.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.27"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Malalayang Satu",
+      "kode_wilayah": "71.71.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.09"
+    },
+    {
+      "nama_wilayah": "Bahu",
+      "kode_wilayah": "71.71.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.09"
+    },
+    {
+      "nama_wilayah": "Kleak",
+      "kode_wilayah": "71.71.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.09"
+    },
+    {
+      "nama_wilayah": "Batu Kota",
+      "kode_wilayah": "71.71.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.09"
+    },
+    {
+      "nama_wilayah": "Malalayang Satu Timur",
+      "kode_wilayah": "71.71.09.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.09"
+    },
+    {
+      "nama_wilayah": "Malalayang Satu Barat",
+      "kode_wilayah": "71.71.09.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.09"
+    },
+    {
+      "nama_wilayah": "Malalayang Dua",
+      "kode_wilayah": "71.71.09.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.09"
+    },
+    {
+      "nama_wilayah": "Winangun Satu",
+      "kode_wilayah": "71.71.09.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.09"
+    },
+    {
+      "nama_wilayah": "Winangun Dua",
+      "kode_wilayah": "71.71.09.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.09"
+    }
+  ]
+}

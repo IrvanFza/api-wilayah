@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Natarmage",
+      "kode_wilayah": "53.07.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.13"
+    },
+    {
+      "nama_wilayah": "Tanarawa",
+      "kode_wilayah": "53.07.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.13"
+    },
+    {
+      "nama_wilayah": "Pruda",
+      "kode_wilayah": "53.07.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.13"
+    },
+    {
+      "nama_wilayah": "Werang",
+      "kode_wilayah": "53.07.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.13"
+    },
+    {
+      "nama_wilayah": "Tua Bao",
+      "kode_wilayah": "53.07.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.13"
+    },
+    {
+      "nama_wilayah": "Ilinmedo",
+      "kode_wilayah": "53.07.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.13"
+    },
+    {
+      "nama_wilayah": "Watu Moning",
+      "kode_wilayah": "53.07.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.13"
+    }
+  ]
+}

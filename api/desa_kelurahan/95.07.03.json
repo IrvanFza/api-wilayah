@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Kemiri",
+      "kode_wilayah": "95.07.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.03"
+    },
+    {
+      "nama_wilayah": "Mamiri",
+      "kode_wilayah": "95.07.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.03"
+    },
+    {
+      "nama_wilayah": "Kotorambur",
+      "kode_wilayah": "95.07.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.03"
+    },
+    {
+      "nama_wilayah": "Yorenime",
+      "kode_wilayah": "95.07.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.03"
+    },
+    {
+      "nama_wilayah": "Waganenga",
+      "kode_wilayah": "95.07.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.03"
+    },
+    {
+      "nama_wilayah": "Gembilani",
+      "kode_wilayah": "95.07.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.03"
+    },
+    {
+      "nama_wilayah": "Nambume",
+      "kode_wilayah": "95.07.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.03"
+    },
+    {
+      "nama_wilayah": "Tengenawi",
+      "kode_wilayah": "95.07.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.03"
+    }
+  ]
+}

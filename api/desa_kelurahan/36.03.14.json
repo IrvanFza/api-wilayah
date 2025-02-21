@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kosambi Barat",
+      "kode_wilayah": "36.03.14.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.14"
+    },
+    {
+      "nama_wilayah": "Salembaran Jaya",
+      "kode_wilayah": "36.03.14.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.14"
+    },
+    {
+      "nama_wilayah": "Dadap",
+      "kode_wilayah": "36.03.14.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.14"
+    },
+    {
+      "nama_wilayah": "Kosambi Timur",
+      "kode_wilayah": "36.03.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.14"
+    },
+    {
+      "nama_wilayah": "Salembaran Jati",
+      "kode_wilayah": "36.03.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.14"
+    },
+    {
+      "nama_wilayah": "Rawa Rengas",
+      "kode_wilayah": "36.03.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.14"
+    },
+    {
+      "nama_wilayah": "Rawa Burung",
+      "kode_wilayah": "36.03.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.14"
+    },
+    {
+      "nama_wilayah": "Cengklong",
+      "kode_wilayah": "36.03.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.14"
+    },
+    {
+      "nama_wilayah": "Belimbing",
+      "kode_wilayah": "36.03.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.14"
+    },
+    {
+      "nama_wilayah": "Jati Mulya",
+      "kode_wilayah": "36.03.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.14"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Naringgul",
+      "kode_wilayah": "32.03.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.24"
+    },
+    {
+      "nama_wilayah": "Balegede",
+      "kode_wilayah": "32.03.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.24"
+    },
+    {
+      "nama_wilayah": "Wangunjaya",
+      "kode_wilayah": "32.03.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.24"
+    },
+    {
+      "nama_wilayah": "Mekarsari",
+      "kode_wilayah": "32.03.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.24"
+    },
+    {
+      "nama_wilayah": "Cinerang",
+      "kode_wilayah": "32.03.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.24"
+    },
+    {
+      "nama_wilayah": "Wanasari",
+      "kode_wilayah": "32.03.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.24"
+    },
+    {
+      "nama_wilayah": "Sukabakti",
+      "kode_wilayah": "32.03.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.24"
+    },
+    {
+      "nama_wilayah": "Malati",
+      "kode_wilayah": "32.03.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.24"
+    },
+    {
+      "nama_wilayah": "Wangunsari",
+      "kode_wilayah": "32.03.24.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.24"
+    },
+    {
+      "nama_wilayah": "Sukamulya",
+      "kode_wilayah": "32.03.24.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.24"
+    },
+    {
+      "nama_wilayah": "Margasari",
+      "kode_wilayah": "32.03.24.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.24"
+    }
+  ]
+}

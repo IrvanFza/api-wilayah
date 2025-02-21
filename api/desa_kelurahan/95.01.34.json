@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Iriliga",
+      "kode_wilayah": "95.01.34.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.34"
+    },
+    {
+      "nama_wilayah": "Onggobaga",
+      "kode_wilayah": "95.01.34.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.34"
+    },
+    {
+      "nama_wilayah": "Walakma",
+      "kode_wilayah": "95.01.34.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.34"
+    },
+    {
+      "nama_wilayah": "Ayoma",
+      "kode_wilayah": "95.01.34.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.34"
+    },
+    {
+      "nama_wilayah": "Dlonggoki",
+      "kode_wilayah": "95.01.34.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.34"
+    },
+    {
+      "nama_wilayah": "Tirunggu",
+      "kode_wilayah": "95.01.34.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.34"
+    },
+    {
+      "nama_wilayah": "Dlinggama",
+      "kode_wilayah": "95.01.34.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.34"
+    }
+  ]
+}

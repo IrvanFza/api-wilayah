@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Lahomi",
+      "kode_wilayah": "12.25.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.25",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Sirombu",
+      "kode_wilayah": "12.25.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.25",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Mandrehe Barat",
+      "kode_wilayah": "12.25.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.25",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Moro-o",
+      "kode_wilayah": "12.25.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.25",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Mandrehe",
+      "kode_wilayah": "12.25.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.25",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Mandrehe Utara",
+      "kode_wilayah": "12.25.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.25",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Lolofitu Moi",
+      "kode_wilayah": "12.25.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.25",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Ulu Moro-o",
+      "kode_wilayah": "12.25.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.25",
+      "kode_provinsi": "12"
+    }
+  ]
+}

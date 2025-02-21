@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Loa Deras",
+      "kode_wilayah": "64.07.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.07",
+      "kode_kecamatan": "64.07.13"
+    },
+    {
+      "nama_wilayah": "Minta",
+      "kode_wilayah": "64.07.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.07",
+      "kode_kecamatan": "64.07.13"
+    },
+    {
+      "nama_wilayah": "Tanjung Haur",
+      "kode_wilayah": "64.07.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.07",
+      "kode_kecamatan": "64.07.13"
+    },
+    {
+      "nama_wilayah": "Penyinggahan Ilir",
+      "kode_wilayah": "64.07.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.07",
+      "kode_kecamatan": "64.07.13"
+    },
+    {
+      "nama_wilayah": "Penyinggahan Ulu",
+      "kode_wilayah": "64.07.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.07",
+      "kode_kecamatan": "64.07.13"
+    },
+    {
+      "nama_wilayah": "Bakung",
+      "kode_wilayah": "64.07.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.07",
+      "kode_kecamatan": "64.07.13"
+    }
+  ]
+}

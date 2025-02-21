@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Bodi",
+      "kode_wilayah": "72.05.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.11"
+    },
+    {
+      "nama_wilayah": "Tayokan",
+      "kode_wilayah": "72.05.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.11"
+    },
+    {
+      "nama_wilayah": "Harmoni",
+      "kode_wilayah": "72.05.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.11"
+    },
+    {
+      "nama_wilayah": "Lunguto",
+      "kode_wilayah": "72.05.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.11"
+    },
+    {
+      "nama_wilayah": "Timbulon",
+      "kode_wilayah": "72.05.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.11"
+    },
+    {
+      "nama_wilayah": "Oyak",
+      "kode_wilayah": "72.05.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.11"
+    },
+    {
+      "nama_wilayah": "Hulubalang",
+      "kode_wilayah": "72.05.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.11"
+    }
+  ]
+}

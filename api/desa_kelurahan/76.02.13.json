@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Dungkait",
+      "kode_wilayah": "76.02.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.13"
+    },
+    {
+      "nama_wilayah": "Lebani",
+      "kode_wilayah": "76.02.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.13"
+    },
+    {
+      "nama_wilayah": "Labuang Rano",
+      "kode_wilayah": "76.02.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.13"
+    },
+    {
+      "nama_wilayah": "Pasabu",
+      "kode_wilayah": "76.02.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.13"
+    },
+    {
+      "nama_wilayah": "Tanete Pao",
+      "kode_wilayah": "76.02.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.13"
+    },
+    {
+      "nama_wilayah": "Pangasaan",
+      "kode_wilayah": "76.02.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.13"
+    },
+    {
+      "nama_wilayah": "Ahu",
+      "kode_wilayah": "76.02.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.13"
+    }
+  ]
+}

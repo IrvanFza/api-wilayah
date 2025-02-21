@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tiromanda",
+      "kode_wilayah": "73.18.29.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.29"
+    },
+    {
+      "nama_wilayah": "Sandabilik",
+      "kode_wilayah": "73.18.29.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.29"
+    },
+    {
+      "nama_wilayah": "Tosapan",
+      "kode_wilayah": "73.18.29.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.29"
+    },
+    {
+      "nama_wilayah": "Pasang",
+      "kode_wilayah": "73.18.29.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.29"
+    },
+    {
+      "nama_wilayah": "Randan Batu",
+      "kode_wilayah": "73.18.29.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.29"
+    },
+    {
+      "nama_wilayah": "Patekke",
+      "kode_wilayah": "73.18.29.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.29"
+    },
+    {
+      "nama_wilayah": "Pa-buaran",
+      "kode_wilayah": "73.18.29.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.29"
+    },
+    {
+      "nama_wilayah": "Bo-ne Buntu Sisong",
+      "kode_wilayah": "73.18.29.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.29"
+    }
+  ]
+}

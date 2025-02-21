@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Tang Paye",
+      "kode_wilayah": "65.03.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.17"
+    },
+    {
+      "nama_wilayah": "Long Rungan",
+      "kode_wilayah": "65.03.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.17"
+    },
+    {
+      "nama_wilayah": "Long Kelupan",
+      "kode_wilayah": "65.03.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.17"
+    },
+    {
+      "nama_wilayah": "Long Padi",
+      "kode_wilayah": "65.03.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.17"
+    },
+    {
+      "nama_wilayah": "Tang Badui",
+      "kode_wilayah": "65.03.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.17"
+    },
+    {
+      "nama_wilayah": "Binuang",
+      "kode_wilayah": "65.03.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.17"
+    },
+    {
+      "nama_wilayah": "Long Mutan",
+      "kode_wilayah": "65.03.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.17"
+    },
+    {
+      "nama_wilayah": "Pa- Milau",
+      "kode_wilayah": "65.03.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.17"
+    },
+    {
+      "nama_wilayah": "Ba- Liku",
+      "kode_wilayah": "65.03.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.17"
+    },
+    {
+      "nama_wilayah": "Long Rian",
+      "kode_wilayah": "65.03.17.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.17"
+    },
+    {
+      "nama_wilayah": "Pa- Yalau",
+      "kode_wilayah": "65.03.17.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.17"
+    }
+  ]
+}

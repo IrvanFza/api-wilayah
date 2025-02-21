@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Songbledeg",
+      "kode_wilayah": "33.12.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.24"
+    },
+    {
+      "nama_wilayah": "Ketos",
+      "kode_wilayah": "33.12.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.24"
+    },
+    {
+      "nama_wilayah": "Paranggupito",
+      "kode_wilayah": "33.12.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.24"
+    },
+    {
+      "nama_wilayah": "Gudangharjo",
+      "kode_wilayah": "33.12.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.24"
+    },
+    {
+      "nama_wilayah": "Gunturharjo",
+      "kode_wilayah": "33.12.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.24"
+    },
+    {
+      "nama_wilayah": "Sambiharjo",
+      "kode_wilayah": "33.12.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.24"
+    },
+    {
+      "nama_wilayah": "Johunut",
+      "kode_wilayah": "33.12.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.24"
+    },
+    {
+      "nama_wilayah": "Gendayakan",
+      "kode_wilayah": "33.12.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.24"
+    }
+  ]
+}

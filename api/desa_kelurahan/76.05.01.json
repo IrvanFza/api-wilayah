@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Banggae",
+      "kode_wilayah": "76.05.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.05",
+      "kode_kecamatan": "76.05.01"
+    },
+    {
+      "nama_wilayah": "Baru",
+      "kode_wilayah": "76.05.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.05",
+      "kode_kecamatan": "76.05.01"
+    },
+    {
+      "nama_wilayah": "Pangali Ali",
+      "kode_wilayah": "76.05.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.05",
+      "kode_kecamatan": "76.05.01"
+    },
+    {
+      "nama_wilayah": "Totoli",
+      "kode_wilayah": "76.05.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.05",
+      "kode_kecamatan": "76.05.01"
+    },
+    {
+      "nama_wilayah": "Rangas",
+      "kode_wilayah": "76.05.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.05",
+      "kode_kecamatan": "76.05.01"
+    },
+    {
+      "nama_wilayah": "Galung",
+      "kode_wilayah": "76.05.01.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.05",
+      "kode_kecamatan": "76.05.01"
+    },
+    {
+      "nama_wilayah": "Palipi Soreang",
+      "kode_wilayah": "76.05.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.05",
+      "kode_kecamatan": "76.05.01"
+    },
+    {
+      "nama_wilayah": "Pamboborang",
+      "kode_wilayah": "76.05.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.05",
+      "kode_kecamatan": "76.05.01"
+    }
+  ]
+}

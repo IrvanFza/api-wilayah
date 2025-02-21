@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pabatu",
+      "kode_wilayah": "12.76.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.01"
+    },
+    {
+      "nama_wilayah": "Lubuk Baru",
+      "kode_wilayah": "12.76.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.01"
+    },
+    {
+      "nama_wilayah": "Persiakan",
+      "kode_wilayah": "12.76.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.01"
+    },
+    {
+      "nama_wilayah": "Bandar Sono",
+      "kode_wilayah": "12.76.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.01"
+    },
+    {
+      "nama_wilayah": "Tualang",
+      "kode_wilayah": "12.76.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.01"
+    },
+    {
+      "nama_wilayah": "Padang Merbau",
+      "kode_wilayah": "12.76.01.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.01"
+    },
+    {
+      "nama_wilayah": "Lubuk Raya",
+      "kode_wilayah": "12.76.01.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.76",
+      "kode_kecamatan": "12.76.01"
+    }
+  ]
+}

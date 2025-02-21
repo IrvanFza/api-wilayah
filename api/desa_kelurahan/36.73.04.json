@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Curug",
+      "kode_wilayah": "36.73.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.73",
+      "kode_kecamatan": "36.73.04"
+    },
+    {
+      "nama_wilayah": "Tinggar",
+      "kode_wilayah": "36.73.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.73",
+      "kode_kecamatan": "36.73.04"
+    },
+    {
+      "nama_wilayah": "Kemanisan",
+      "kode_wilayah": "36.73.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.73",
+      "kode_kecamatan": "36.73.04"
+    },
+    {
+      "nama_wilayah": "Cipete",
+      "kode_wilayah": "36.73.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.73",
+      "kode_kecamatan": "36.73.04"
+    },
+    {
+      "nama_wilayah": "Cilaku",
+      "kode_wilayah": "36.73.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.73",
+      "kode_kecamatan": "36.73.04"
+    },
+    {
+      "nama_wilayah": "Pancalaksana",
+      "kode_wilayah": "36.73.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.73",
+      "kode_kecamatan": "36.73.04"
+    },
+    {
+      "nama_wilayah": "Sukawana",
+      "kode_wilayah": "36.73.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.73",
+      "kode_kecamatan": "36.73.04"
+    },
+    {
+      "nama_wilayah": "Sukalaksana",
+      "kode_wilayah": "36.73.04.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.73",
+      "kode_kecamatan": "36.73.04"
+    },
+    {
+      "nama_wilayah": "Curug Manis",
+      "kode_wilayah": "36.73.04.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.73",
+      "kode_kecamatan": "36.73.04"
+    },
+    {
+      "nama_wilayah": "Sukajaya",
+      "kode_wilayah": "36.73.04.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.73",
+      "kode_kecamatan": "36.73.04"
+    }
+  ]
+}

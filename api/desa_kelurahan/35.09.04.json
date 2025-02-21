@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Kepanjen",
+      "kode_wilayah": "35.09.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.04"
+    },
+    {
+      "nama_wilayah": "Mayangan",
+      "kode_wilayah": "35.09.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.04"
+    },
+    {
+      "nama_wilayah": "Gumukmas",
+      "kode_wilayah": "35.09.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.04"
+    },
+    {
+      "nama_wilayah": "Menampu",
+      "kode_wilayah": "35.09.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.04"
+    },
+    {
+      "nama_wilayah": "Tembokrejo",
+      "kode_wilayah": "35.09.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.04"
+    },
+    {
+      "nama_wilayah": "Purwoasri",
+      "kode_wilayah": "35.09.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.04"
+    },
+    {
+      "nama_wilayah": "Bagorejo",
+      "kode_wilayah": "35.09.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.04"
+    },
+    {
+      "nama_wilayah": "Karangrejo",
+      "kode_wilayah": "35.09.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.04"
+    }
+  ]
+}

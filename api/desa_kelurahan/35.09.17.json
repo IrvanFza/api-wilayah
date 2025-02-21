@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sukamakmur",
+      "kode_wilayah": "35.09.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.17"
+    },
+    {
+      "nama_wilayah": "Mangaran",
+      "kode_wilayah": "35.09.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.17"
+    },
+    {
+      "nama_wilayah": "Pancakarya",
+      "kode_wilayah": "35.09.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.17"
+    },
+    {
+      "nama_wilayah": "Ajung",
+      "kode_wilayah": "35.09.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.17"
+    },
+    {
+      "nama_wilayah": "Klompangan",
+      "kode_wilayah": "35.09.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.17"
+    },
+    {
+      "nama_wilayah": "Wirowongso",
+      "kode_wilayah": "35.09.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.17"
+    },
+    {
+      "nama_wilayah": "Rowoindah",
+      "kode_wilayah": "35.09.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.17"
+    }
+  ]
+}

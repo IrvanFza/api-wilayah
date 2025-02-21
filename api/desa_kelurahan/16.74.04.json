@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Rambang",
+      "kode_wilayah": "16.74.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.04"
+    },
+    {
+      "nama_wilayah": "Karya Mulya",
+      "kode_wilayah": "16.74.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.04"
+    },
+    {
+      "nama_wilayah": "Rambang Senuling",
+      "kode_wilayah": "16.74.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.04"
+    },
+    {
+      "nama_wilayah": "Jungai",
+      "kode_wilayah": "16.74.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.04"
+    },
+    {
+      "nama_wilayah": "Talang Batu",
+      "kode_wilayah": "16.74.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.04"
+    },
+    {
+      "nama_wilayah": "Karangan",
+      "kode_wilayah": "16.74.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.04"
+    },
+    {
+      "nama_wilayah": "Karang Bindu",
+      "kode_wilayah": "16.74.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.04"
+    },
+    {
+      "nama_wilayah": "Sinar Rambang",
+      "kode_wilayah": "16.74.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.04"
+    },
+    {
+      "nama_wilayah": "Kemang Tanduk",
+      "kode_wilayah": "16.74.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.04"
+    }
+  ]
+}

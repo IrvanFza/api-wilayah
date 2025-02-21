@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Klasman",
+      "kode_wilayah": "96.01.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.24"
+    },
+    {
+      "nama_wilayah": "Malasigit",
+      "kode_wilayah": "96.01.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.24"
+    },
+    {
+      "nama_wilayah": "Klagulu",
+      "kode_wilayah": "96.01.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.24"
+    },
+    {
+      "nama_wilayah": "Magatarum",
+      "kode_wilayah": "96.01.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.24"
+    },
+    {
+      "nama_wilayah": "Malamoja",
+      "kode_wilayah": "96.01.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.24"
+    },
+    {
+      "nama_wilayah": "Malajapa",
+      "kode_wilayah": "96.01.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.24"
+    },
+    {
+      "nama_wilayah": "Klamugun",
+      "kode_wilayah": "96.01.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.24"
+    },
+    {
+      "nama_wilayah": "Tanah Tinggi",
+      "kode_wilayah": "96.01.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.24"
+    },
+    {
+      "nama_wilayah": "Marik May",
+      "kode_wilayah": "96.01.24.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.24"
+    }
+  ]
+}

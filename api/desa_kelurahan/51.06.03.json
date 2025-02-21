@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Jehem",
+      "kode_wilayah": "51.06.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.06",
+      "kode_kecamatan": "51.06.03"
+    },
+    {
+      "nama_wilayah": "Tembuku",
+      "kode_wilayah": "51.06.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.06",
+      "kode_kecamatan": "51.06.03"
+    },
+    {
+      "nama_wilayah": "Yangapi",
+      "kode_wilayah": "51.06.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.06",
+      "kode_kecamatan": "51.06.03"
+    },
+    {
+      "nama_wilayah": "Undisan",
+      "kode_wilayah": "51.06.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.06",
+      "kode_kecamatan": "51.06.03"
+    },
+    {
+      "nama_wilayah": "Bangbang",
+      "kode_wilayah": "51.06.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.06",
+      "kode_kecamatan": "51.06.03"
+    },
+    {
+      "nama_wilayah": "Peninjoan",
+      "kode_wilayah": "51.06.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.06",
+      "kode_kecamatan": "51.06.03"
+    }
+  ]
+}

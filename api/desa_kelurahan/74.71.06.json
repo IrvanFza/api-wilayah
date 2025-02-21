@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Puday",
+      "kode_wilayah": "74.71.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.06"
+    },
+    {
+      "nama_wilayah": "Lapulu",
+      "kode_wilayah": "74.71.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.06"
+    },
+    {
+      "nama_wilayah": "Abeli",
+      "kode_wilayah": "74.71.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.06"
+    },
+    {
+      "nama_wilayah": "Benuanirae",
+      "kode_wilayah": "74.71.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.06"
+    },
+    {
+      "nama_wilayah": "Anggalomelai",
+      "kode_wilayah": "74.71.06.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.06"
+    },
+    {
+      "nama_wilayah": "Talia",
+      "kode_wilayah": "74.71.06.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.06"
+    },
+    {
+      "nama_wilayah": "Poasia",
+      "kode_wilayah": "74.71.06.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.06"
+    }
+  ]
+}

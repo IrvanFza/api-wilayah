@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tebang",
+      "kode_wilayah": "21.05.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.02"
+    },
+    {
+      "nama_wilayah": "Ladan",
+      "kode_wilayah": "21.05.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.02"
+    },
+    {
+      "nama_wilayah": "Piabung",
+      "kode_wilayah": "21.05.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.02"
+    },
+    {
+      "nama_wilayah": "Langir",
+      "kode_wilayah": "21.05.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.02"
+    },
+    {
+      "nama_wilayah": "Candi",
+      "kode_wilayah": "21.05.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.02"
+    },
+    {
+      "nama_wilayah": "Putik",
+      "kode_wilayah": "21.05.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.02"
+    },
+    {
+      "nama_wilayah": "Belibak",
+      "kode_wilayah": "21.05.02.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.02"
+    }
+  ]
+}

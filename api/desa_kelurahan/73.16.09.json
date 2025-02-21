@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Malua",
+      "kode_wilayah": "73.16.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.09"
+    },
+    {
+      "nama_wilayah": "Bonto",
+      "kode_wilayah": "73.16.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.09"
+    },
+    {
+      "nama_wilayah": "Tallung Tondok",
+      "kode_wilayah": "73.16.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.09"
+    },
+    {
+      "nama_wilayah": "Rante Mario",
+      "kode_wilayah": "73.16.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.09"
+    },
+    {
+      "nama_wilayah": "Tangru",
+      "kode_wilayah": "73.16.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.09"
+    },
+    {
+      "nama_wilayah": "Kolai",
+      "kode_wilayah": "73.16.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.09"
+    },
+    {
+      "nama_wilayah": "Dulang",
+      "kode_wilayah": "73.16.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.09"
+    },
+    {
+      "nama_wilayah": "Buntu Batuan",
+      "kode_wilayah": "73.16.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.09"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Kota Kulon",
+      "kode_wilayah": "32.05.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.01"
+    },
+    {
+      "nama_wilayah": "Kota Wetan",
+      "kode_wilayah": "32.05.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.01"
+    },
+    {
+      "nama_wilayah": "Margawati",
+      "kode_wilayah": "32.05.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.01"
+    },
+    {
+      "nama_wilayah": "Pakuwon",
+      "kode_wilayah": "32.05.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.01"
+    },
+    {
+      "nama_wilayah": "Muara Sanding",
+      "kode_wilayah": "32.05.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.01"
+    },
+    {
+      "nama_wilayah": "Sukamentri",
+      "kode_wilayah": "32.05.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.01"
+    },
+    {
+      "nama_wilayah": "Ciwalen",
+      "kode_wilayah": "32.05.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.01"
+    },
+    {
+      "nama_wilayah": "Paminggir",
+      "kode_wilayah": "32.05.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.01"
+    },
+    {
+      "nama_wilayah": "Regol",
+      "kode_wilayah": "32.05.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.01"
+    },
+    {
+      "nama_wilayah": "Sukanegla",
+      "kode_wilayah": "32.05.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.01"
+    },
+    {
+      "nama_wilayah": "Cimuncang",
+      "kode_wilayah": "32.05.01.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.01"
+    }
+  ]
+}

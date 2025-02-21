@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tabulo",
+      "kode_wilayah": "75.02.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.05"
+    },
+    {
+      "nama_wilayah": "Kaaruyan",
+      "kode_wilayah": "75.02.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.05"
+    },
+    {
+      "nama_wilayah": "Salilama",
+      "kode_wilayah": "75.02.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.05"
+    },
+    {
+      "nama_wilayah": "Bendungan",
+      "kode_wilayah": "75.02.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.05"
+    },
+    {
+      "nama_wilayah": "Mananggu",
+      "kode_wilayah": "75.02.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.05"
+    },
+    {
+      "nama_wilayah": "Buti",
+      "kode_wilayah": "75.02.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.05"
+    },
+    {
+      "nama_wilayah": "Pontolo",
+      "kode_wilayah": "75.02.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.05"
+    },
+    {
+      "nama_wilayah": "Kramat",
+      "kode_wilayah": "75.02.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.05"
+    },
+    {
+      "nama_wilayah": "Tabulo Selatan",
+      "kode_wilayah": "75.02.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.02",
+      "kode_kecamatan": "75.02.05"
+    }
+  ]
+}

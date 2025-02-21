@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Marobo",
+      "kode_wilayah": "73.22.04.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.04"
+    },
+    {
+      "nama_wilayah": "Sabbang",
+      "kode_wilayah": "73.22.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.04"
+    },
+    {
+      "nama_wilayah": "Pararra",
+      "kode_wilayah": "73.22.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.04"
+    },
+    {
+      "nama_wilayah": "Tandung",
+      "kode_wilayah": "73.22.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.04"
+    },
+    {
+      "nama_wilayah": "Malimbu",
+      "kode_wilayah": "73.22.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.04"
+    },
+    {
+      "nama_wilayah": "Tullak Tallu",
+      "kode_wilayah": "73.22.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.04"
+    },
+    {
+      "nama_wilayah": "Bakka",
+      "kode_wilayah": "73.22.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.04"
+    },
+    {
+      "nama_wilayah": "Buntu Torpedo",
+      "kode_wilayah": "73.22.04.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.04"
+    },
+    {
+      "nama_wilayah": "Pengkendekan",
+      "kode_wilayah": "73.22.04.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.04"
+    },
+    {
+      "nama_wilayah": "Salama",
+      "kode_wilayah": "73.22.04.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.04"
+    }
+  ]
+}

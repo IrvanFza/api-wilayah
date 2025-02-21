@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Mulia",
+      "kode_wilayah": "11.71.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.71",
+      "kode_kecamatan": "11.71.02"
+    },
+    {
+      "nama_wilayah": "Peunayong",
+      "kode_wilayah": "11.71.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.71",
+      "kode_kecamatan": "11.71.02"
+    },
+    {
+      "nama_wilayah": "Laksana",
+      "kode_wilayah": "11.71.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.71",
+      "kode_kecamatan": "11.71.02"
+    },
+    {
+      "nama_wilayah": "Keuramat",
+      "kode_wilayah": "11.71.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.71",
+      "kode_kecamatan": "11.71.02"
+    },
+    {
+      "nama_wilayah": "Kota Baru",
+      "kode_wilayah": "11.71.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.71",
+      "kode_kecamatan": "11.71.02"
+    },
+    {
+      "nama_wilayah": "Beurawe",
+      "kode_wilayah": "11.71.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.71",
+      "kode_kecamatan": "11.71.02"
+    },
+    {
+      "nama_wilayah": "Kuta Alam",
+      "kode_wilayah": "11.71.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.71",
+      "kode_kecamatan": "11.71.02"
+    },
+    {
+      "nama_wilayah": "Bandar Baru",
+      "kode_wilayah": "11.71.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.71",
+      "kode_kecamatan": "11.71.02"
+    },
+    {
+      "nama_wilayah": "Lamdingin",
+      "kode_wilayah": "11.71.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.71",
+      "kode_kecamatan": "11.71.02"
+    },
+    {
+      "nama_wilayah": "Lampulo",
+      "kode_wilayah": "11.71.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.71",
+      "kode_kecamatan": "11.71.02"
+    },
+    {
+      "nama_wilayah": "Lambaro Skep",
+      "kode_wilayah": "11.71.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.71",
+      "kode_kecamatan": "11.71.02"
+    }
+  ]
+}

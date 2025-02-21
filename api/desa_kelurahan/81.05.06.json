@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Danama",
+      "kode_wilayah": "81.05.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.06"
+    },
+    {
+      "nama_wilayah": "Kilmoy",
+      "kode_wilayah": "81.05.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.06"
+    },
+    {
+      "nama_wilayah": "Kilbat",
+      "kode_wilayah": "81.05.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.06"
+    },
+    {
+      "nama_wilayah": "Sesar",
+      "kode_wilayah": "81.05.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.06"
+    },
+    {
+      "nama_wilayah": "Airkasar",
+      "kode_wilayah": "81.05.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.06"
+    },
+    {
+      "nama_wilayah": "Waras-Waras",
+      "kode_wilayah": "81.05.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.06"
+    },
+    {
+      "nama_wilayah": "Gah",
+      "kode_wilayah": "81.05.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.06"
+    },
+    {
+      "nama_wilayah": "Walang Tenga",
+      "kode_wilayah": "81.05.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.06"
+    },
+    {
+      "nama_wilayah": "Bati Kilwouw",
+      "kode_wilayah": "81.05.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.06"
+    },
+    {
+      "nama_wilayah": "Taruy",
+      "kode_wilayah": "81.05.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.06"
+    },
+    {
+      "nama_wilayah": "Kufar",
+      "kode_wilayah": "81.05.06.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.05",
+      "kode_kecamatan": "81.05.06"
+    }
+  ]
+}

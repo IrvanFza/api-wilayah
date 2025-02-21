@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Waworaha",
+      "kode_wilayah": "74.02.16.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.16"
+    },
+    {
+      "nama_wilayah": "Latoma Jaya",
+      "kode_wilayah": "74.02.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.16"
+    },
+    {
+      "nama_wilayah": "Ambekaeri Utama",
+      "kode_wilayah": "74.02.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.16"
+    },
+    {
+      "nama_wilayah": "Amboniki",
+      "kode_wilayah": "74.02.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.16"
+    },
+    {
+      "nama_wilayah": "Pinole",
+      "kode_wilayah": "74.02.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.16"
+    },
+    {
+      "nama_wilayah": "Nesowi",
+      "kode_wilayah": "74.02.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.16"
+    },
+    {
+      "nama_wilayah": "Wawolatoma",
+      "kode_wilayah": "74.02.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.16"
+    },
+    {
+      "nama_wilayah": "Andoluto",
+      "kode_wilayah": "74.02.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.16"
+    },
+    {
+      "nama_wilayah": "Lalowata",
+      "kode_wilayah": "74.02.16.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.16"
+    },
+    {
+      "nama_wilayah": "Titiowa",
+      "kode_wilayah": "74.02.16.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.16"
+    },
+    {
+      "nama_wilayah": "Angonga",
+      "kode_wilayah": "74.02.16.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.16"
+    }
+  ]
+}

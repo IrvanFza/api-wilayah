@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Maroangin",
+      "kode_wilayah": "73.73.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.04"
+    },
+    {
+      "nama_wilayah": "Mancani",
+      "kode_wilayah": "73.73.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.04"
+    },
+    {
+      "nama_wilayah": "Sumarambu",
+      "kode_wilayah": "73.73.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.04"
+    },
+    {
+      "nama_wilayah": "Salubattang",
+      "kode_wilayah": "73.73.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.04"
+    },
+    {
+      "nama_wilayah": "Jaya",
+      "kode_wilayah": "73.73.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.04"
+    },
+    {
+      "nama_wilayah": "Batu Walenrang",
+      "kode_wilayah": "73.73.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.04"
+    },
+    {
+      "nama_wilayah": "Petonjangan",
+      "kode_wilayah": "73.73.04.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.04"
+    }
+  ]
+}

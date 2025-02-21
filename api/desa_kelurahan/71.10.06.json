@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Motongkad Utara",
+      "kode_wilayah": "71.10.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.06"
+    },
+    {
+      "nama_wilayah": "Motongkad",
+      "kode_wilayah": "71.10.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.06"
+    },
+    {
+      "nama_wilayah": "Motongkad Selatan",
+      "kode_wilayah": "71.10.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.06"
+    },
+    {
+      "nama_wilayah": "Atoga",
+      "kode_wilayah": "71.10.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.06"
+    },
+    {
+      "nama_wilayah": "Atoga Timur",
+      "kode_wilayah": "71.10.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.06"
+    },
+    {
+      "nama_wilayah": "Motongkad Tengah",
+      "kode_wilayah": "71.10.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.06"
+    },
+    {
+      "nama_wilayah": "Molobog",
+      "kode_wilayah": "71.10.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.06"
+    },
+    {
+      "nama_wilayah": "Molobog Barat",
+      "kode_wilayah": "71.10.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.06"
+    },
+    {
+      "nama_wilayah": "Jiko",
+      "kode_wilayah": "71.10.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.06"
+    },
+    {
+      "nama_wilayah": "Jiko Utara",
+      "kode_wilayah": "71.10.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.06"
+    },
+    {
+      "nama_wilayah": "Molobog Timur",
+      "kode_wilayah": "71.10.06.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.06"
+    }
+  ]
+}

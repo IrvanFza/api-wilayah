@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Inderapura Utara",
+      "kode_wilayah": "13.01.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.13"
+    },
+    {
+      "nama_wilayah": "Muara Inderapura",
+      "kode_wilayah": "13.01.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.13"
+    },
+    {
+      "nama_wilayah": "Damar Lapan Batang Inderapura",
+      "kode_wilayah": "13.01.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.13"
+    },
+    {
+      "nama_wilayah": "Lalang Panjang Inderapura",
+      "kode_wilayah": "13.01.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.13"
+    },
+    {
+      "nama_wilayah": "Palokan Inderapura",
+      "kode_wilayah": "13.01.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.13"
+    },
+    {
+      "nama_wilayah": "Lubuk Betung Inderapura",
+      "kode_wilayah": "13.01.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.13"
+    },
+    {
+      "nama_wilayah": "Tluk Kualo Inderapura",
+      "kode_wilayah": "13.01.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.13"
+    },
+    {
+      "nama_wilayah": "Tanah Bakali Inderapura",
+      "kode_wilayah": "13.01.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.13"
+    },
+    {
+      "nama_wilayah": "Inderapura Timur",
+      "kode_wilayah": "13.01.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.13"
+    },
+    {
+      "nama_wilayah": "Pulau Rajo Inderapura",
+      "kode_wilayah": "13.01.13.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.13"
+    }
+  ]
+}

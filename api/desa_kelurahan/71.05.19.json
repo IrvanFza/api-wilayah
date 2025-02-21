@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Paslaten",
+      "kode_wilayah": "71.05.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.19"
+    },
+    {
+      "nama_wilayah": "Sulu",
+      "kode_wilayah": "71.05.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.19"
+    },
+    {
+      "nama_wilayah": "Bajo",
+      "kode_wilayah": "71.05.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.19"
+    },
+    {
+      "nama_wilayah": "Wawona",
+      "kode_wilayah": "71.05.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.19"
+    },
+    {
+      "nama_wilayah": "Popareng",
+      "kode_wilayah": "71.05.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.19"
+    },
+    {
+      "nama_wilayah": "Wawontulap",
+      "kode_wilayah": "71.05.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.19"
+    },
+    {
+      "nama_wilayah": "Sondaken",
+      "kode_wilayah": "71.05.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.19"
+    },
+    {
+      "nama_wilayah": "Pungkol",
+      "kode_wilayah": "71.05.19.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.19"
+    },
+    {
+      "nama_wilayah": "Raprap",
+      "kode_wilayah": "71.05.19.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.19"
+    },
+    {
+      "nama_wilayah": "Paslaten Satu",
+      "kode_wilayah": "71.05.19.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.19"
+    },
+    {
+      "nama_wilayah": "Arakan",
+      "kode_wilayah": "71.05.19.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.19"
+    }
+  ]
+}

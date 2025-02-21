@@ -1,0 +1,90 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Temon",
+      "kode_wilayah": "34.01.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "34.01",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama_wilayah": "Wates",
+      "kode_wilayah": "34.01.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "34.01",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama_wilayah": "Panjatan",
+      "kode_wilayah": "34.01.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "34.01",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama_wilayah": "Galur",
+      "kode_wilayah": "34.01.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "34.01",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama_wilayah": "Lendah",
+      "kode_wilayah": "34.01.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "34.01",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama_wilayah": "Sentolo",
+      "kode_wilayah": "34.01.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "34.01",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama_wilayah": "Pengasih",
+      "kode_wilayah": "34.01.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "34.01",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama_wilayah": "Kokap",
+      "kode_wilayah": "34.01.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "34.01",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama_wilayah": "Girimulyo",
+      "kode_wilayah": "34.01.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "34.01",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama_wilayah": "Nanggulan",
+      "kode_wilayah": "34.01.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "34.01",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama_wilayah": "Samigaluh",
+      "kode_wilayah": "34.01.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "34.01",
+      "kode_provinsi": "34"
+    },
+    {
+      "nama_wilayah": "Kalibawang",
+      "kode_wilayah": "34.01.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "34.01",
+      "kode_provinsi": "34"
+    }
+  ]
+}

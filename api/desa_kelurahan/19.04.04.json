@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Simpang Katis",
+      "kode_wilayah": "19.04.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.04",
+      "kode_kecamatan": "19.04.04"
+    },
+    {
+      "nama_wilayah": "Celuak",
+      "kode_wilayah": "19.04.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.04",
+      "kode_kecamatan": "19.04.04"
+    },
+    {
+      "nama_wilayah": "Sungkap",
+      "kode_wilayah": "19.04.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.04",
+      "kode_kecamatan": "19.04.04"
+    },
+    {
+      "nama_wilayah": "Beruas",
+      "kode_wilayah": "19.04.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.04",
+      "kode_kecamatan": "19.04.04"
+    },
+    {
+      "nama_wilayah": "Puput",
+      "kode_wilayah": "19.04.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.04",
+      "kode_kecamatan": "19.04.04"
+    },
+    {
+      "nama_wilayah": "Teru",
+      "kode_wilayah": "19.04.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.04",
+      "kode_kecamatan": "19.04.04"
+    },
+    {
+      "nama_wilayah": "Terak",
+      "kode_wilayah": "19.04.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.04",
+      "kode_kecamatan": "19.04.04"
+    },
+    {
+      "nama_wilayah": "Pasir Garam",
+      "kode_wilayah": "19.04.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.04",
+      "kode_kecamatan": "19.04.04"
+    },
+    {
+      "nama_wilayah": "Katis",
+      "kode_wilayah": "19.04.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.04",
+      "kode_kecamatan": "19.04.04"
+    },
+    {
+      "nama_wilayah": "Pinang Sebatang",
+      "kode_wilayah": "19.04.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.04",
+      "kode_kecamatan": "19.04.04"
+    }
+  ]
+}

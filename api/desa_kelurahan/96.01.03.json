@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Matawolot",
+      "kode_wilayah": "96.01.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.03"
+    },
+    {
+      "nama_wilayah": "Rawa Sugi",
+      "kode_wilayah": "96.01.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.03"
+    },
+    {
+      "nama_wilayah": "Walal",
+      "kode_wilayah": "96.01.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.03"
+    },
+    {
+      "nama_wilayah": "Malaus",
+      "kode_wilayah": "96.01.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.03"
+    },
+    {
+      "nama_wilayah": "Majener",
+      "kode_wilayah": "96.01.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.03"
+    },
+    {
+      "nama_wilayah": "Majaran",
+      "kode_wilayah": "96.01.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.03"
+    },
+    {
+      "nama_wilayah": "Katinim",
+      "kode_wilayah": "96.01.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.03"
+    }
+  ]
+}

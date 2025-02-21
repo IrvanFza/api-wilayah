@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tarus",
+      "kode_wilayah": "53.01.08.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.08"
+    },
+    {
+      "nama_wilayah": "Oelnasi",
+      "kode_wilayah": "53.01.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.08"
+    },
+    {
+      "nama_wilayah": "Noelbaki",
+      "kode_wilayah": "53.01.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.08"
+    },
+    {
+      "nama_wilayah": "Oelpuah",
+      "kode_wilayah": "53.01.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.08"
+    },
+    {
+      "nama_wilayah": "Oebelo",
+      "kode_wilayah": "53.01.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.08"
+    },
+    {
+      "nama_wilayah": "Penfui Timur",
+      "kode_wilayah": "53.01.08.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.08"
+    },
+    {
+      "nama_wilayah": "Tanah Merah",
+      "kode_wilayah": "53.01.08.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.08"
+    },
+    {
+      "nama_wilayah": "Mata Air",
+      "kode_wilayah": "53.01.08.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.08"
+    }
+  ]
+}

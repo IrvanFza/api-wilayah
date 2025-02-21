@@ -1,0 +1,166 @@
+{
+  "status": "success",
+  "total": 20,
+  "data": [
+    {
+      "nama_wilayah": "Pongo",
+      "kode_wilayah": "74.07.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.01"
+    },
+    {
+      "nama_wilayah": "Wanci",
+      "kode_wilayah": "74.07.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.01"
+    },
+    {
+      "nama_wilayah": "Wandoka",
+      "kode_wilayah": "74.07.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.01"
+    },
+    {
+      "nama_wilayah": "Waetuno",
+      "kode_wilayah": "74.07.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.01"
+    },
+    {
+      "nama_wilayah": "Wandoka Utara",
+      "kode_wilayah": "74.07.01.1025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.01"
+    },
+    {
+      "nama_wilayah": "Wandoka Selatan",
+      "kode_wilayah": "74.07.01.1026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.01"
+    },
+    {
+      "nama_wilayah": "Sombu",
+      "kode_wilayah": "74.07.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.01"
+    },
+    {
+      "nama_wilayah": "Waha",
+      "kode_wilayah": "74.07.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.01"
+    },
+    {
+      "nama_wilayah": "Tindoi",
+      "kode_wilayah": "74.07.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.01"
+    },
+    {
+      "nama_wilayah": "Maleko",
+      "kode_wilayah": "74.07.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.01"
+    },
+    {
+      "nama_wilayah": "Longa",
+      "kode_wilayah": "74.07.01.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.01"
+    },
+    {
+      "nama_wilayah": "Pada Raya Makmur",
+      "kode_wilayah": "74.07.01.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.01"
+    },
+    {
+      "nama_wilayah": "Waelumu",
+      "kode_wilayah": "74.07.01.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.01"
+    },
+    {
+      "nama_wilayah": "Patuno",
+      "kode_wilayah": "74.07.01.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.01"
+    },
+    {
+      "nama_wilayah": "Waginopo",
+      "kode_wilayah": "74.07.01.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.01"
+    },
+    {
+      "nama_wilayah": "Tindoi Timur",
+      "kode_wilayah": "74.07.01.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.01"
+    },
+    {
+      "nama_wilayah": "Posalu",
+      "kode_wilayah": "74.07.01.2029",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.01"
+    },
+    {
+      "nama_wilayah": "Koroe Onawa",
+      "kode_wilayah": "74.07.01.2030",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.01"
+    },
+    {
+      "nama_wilayah": "Wapia-pia",
+      "kode_wilayah": "74.07.01.2031",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.01"
+    },
+    {
+      "nama_wilayah": "Pookambua",
+      "kode_wilayah": "74.07.01.2032",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.07",
+      "kode_kecamatan": "74.07.01"
+    }
+  ]
+}

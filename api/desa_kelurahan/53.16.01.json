@@ -1,0 +1,150 @@
+{
+  "status": "success",
+  "total": 18,
+  "data": [
+    {
+      "nama_wilayah": "Dhawe",
+      "kode_wilayah": "53.16.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.16",
+      "kode_kecamatan": "53.16.01"
+    },
+    {
+      "nama_wilayah": "Mbay I",
+      "kode_wilayah": "53.16.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.16",
+      "kode_kecamatan": "53.16.01"
+    },
+    {
+      "nama_wilayah": "Towak",
+      "kode_wilayah": "53.16.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.16",
+      "kode_kecamatan": "53.16.01"
+    },
+    {
+      "nama_wilayah": "Mbay II",
+      "kode_wilayah": "53.16.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.16",
+      "kode_kecamatan": "53.16.01"
+    },
+    {
+      "nama_wilayah": "Danga",
+      "kode_wilayah": "53.16.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.16",
+      "kode_kecamatan": "53.16.01"
+    },
+    {
+      "nama_wilayah": "Lape",
+      "kode_wilayah": "53.16.01.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.16",
+      "kode_kecamatan": "53.16.01"
+    },
+    {
+      "nama_wilayah": "Labolewa",
+      "kode_wilayah": "53.16.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.16",
+      "kode_kecamatan": "53.16.01"
+    },
+    {
+      "nama_wilayah": "Tedamude",
+      "kode_wilayah": "53.16.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.16",
+      "kode_kecamatan": "53.16.01"
+    },
+    {
+      "nama_wilayah": "Nggolonio",
+      "kode_wilayah": "53.16.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.16",
+      "kode_kecamatan": "53.16.01"
+    },
+    {
+      "nama_wilayah": "Olaia",
+      "kode_wilayah": "53.16.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.16",
+      "kode_kecamatan": "53.16.01"
+    },
+    {
+      "nama_wilayah": "Aerama",
+      "kode_wilayah": "53.16.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.16",
+      "kode_kecamatan": "53.16.01"
+    },
+    {
+      "nama_wilayah": "Marapokot",
+      "kode_wilayah": "53.16.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.16",
+      "kode_kecamatan": "53.16.01"
+    },
+    {
+      "nama_wilayah": "Tonggurambang",
+      "kode_wilayah": "53.16.01.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.16",
+      "kode_kecamatan": "53.16.01"
+    },
+    {
+      "nama_wilayah": "Waekokak",
+      "kode_wilayah": "53.16.01.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.16",
+      "kode_kecamatan": "53.16.01"
+    },
+    {
+      "nama_wilayah": "Ngegedhawe",
+      "kode_wilayah": "53.16.01.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.16",
+      "kode_kecamatan": "53.16.01"
+    },
+    {
+      "nama_wilayah": "Tadakisa",
+      "kode_wilayah": "53.16.01.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.16",
+      "kode_kecamatan": "53.16.01"
+    },
+    {
+      "nama_wilayah": "Nggolombay",
+      "kode_wilayah": "53.16.01.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.16",
+      "kode_kecamatan": "53.16.01"
+    },
+    {
+      "nama_wilayah": "Nangadhero",
+      "kode_wilayah": "53.16.01.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.16",
+      "kode_kecamatan": "53.16.01"
+    }
+  ]
+}

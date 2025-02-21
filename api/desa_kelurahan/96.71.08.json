@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Klasuat\r",
+      "kode_wilayah": "96.71.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.71",
+      "kode_kecamatan": "96.71.08"
+    },
+    {
+      "nama_wilayah": "Klablim\r",
+      "kode_wilayah": "96.71.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.71",
+      "kode_kecamatan": "96.71.08"
+    },
+    {
+      "nama_wilayah": "Klasaman\r",
+      "kode_wilayah": "96.71.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.71",
+      "kode_kecamatan": "96.71.08"
+    },
+    {
+      "nama_wilayah": "Giwu\r",
+      "kode_wilayah": "96.71.08.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.71",
+      "kode_kecamatan": "96.71.08"
+    }
+  ]
+}

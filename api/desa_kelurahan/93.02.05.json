@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Getentiri",
+      "kode_wilayah": "93.02.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.05"
+    },
+    {
+      "nama_wilayah": "Anggai",
+      "kode_wilayah": "93.02.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.05"
+    },
+    {
+      "nama_wilayah": "Butiptiri",
+      "kode_wilayah": "93.02.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.05"
+    },
+    {
+      "nama_wilayah": "Asiki",
+      "kode_wilayah": "93.02.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.05"
+    },
+    {
+      "nama_wilayah": "Kapogu",
+      "kode_wilayah": "93.02.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.05"
+    },
+    {
+      "nama_wilayah": "Miri",
+      "kode_wilayah": "93.02.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.05"
+    }
+  ]
+}

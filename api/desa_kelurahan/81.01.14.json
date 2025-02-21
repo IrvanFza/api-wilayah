@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Liang",
+      "kode_wilayah": "81.01.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.14"
+    },
+    {
+      "nama_wilayah": "Waai",
+      "kode_wilayah": "81.01.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.14"
+    },
+    {
+      "nama_wilayah": "Tulehu",
+      "kode_wilayah": "81.01.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.14"
+    },
+    {
+      "nama_wilayah": "Tial",
+      "kode_wilayah": "81.01.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.14"
+    },
+    {
+      "nama_wilayah": "Tengah Tengah",
+      "kode_wilayah": "81.01.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.14"
+    },
+    {
+      "nama_wilayah": "Suli",
+      "kode_wilayah": "81.01.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.01",
+      "kode_kecamatan": "81.01.14"
+    }
+  ]
+}

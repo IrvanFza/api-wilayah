@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Jailolo",
+      "kode_wilayah": "82.01.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.01",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Loloda",
+      "kode_wilayah": "82.01.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.01",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Ibu",
+      "kode_wilayah": "82.01.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.01",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Sahu",
+      "kode_wilayah": "82.01.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.01",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Jailolo Selatan",
+      "kode_wilayah": "82.01.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.01",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Ibu Utara",
+      "kode_wilayah": "82.01.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.01",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Ibu Selatan",
+      "kode_wilayah": "82.01.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.01",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Sahu Timur",
+      "kode_wilayah": "82.01.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.01",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Loloda Tengah",
+      "kode_wilayah": "82.01.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.01",
+      "kode_provinsi": "82"
+    }
+  ]
+}

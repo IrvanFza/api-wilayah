@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bonto-Bonto",
+      "kode_wilayah": "73.10.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.08"
+    },
+    {
+      "nama_wilayah": "Talaka",
+      "kode_wilayah": "73.10.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.08"
+    },
+    {
+      "nama_wilayah": "Ma-rang",
+      "kode_wilayah": "73.10.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.08"
+    },
+    {
+      "nama_wilayah": "Attang Salo",
+      "kode_wilayah": "73.10.08.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.08"
+    },
+    {
+      "nama_wilayah": "Padang Lampe",
+      "kode_wilayah": "73.10.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.08"
+    },
+    {
+      "nama_wilayah": "Tamangapa",
+      "kode_wilayah": "73.10.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.08"
+    },
+    {
+      "nama_wilayah": "Pitusunggu",
+      "kode_wilayah": "73.10.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.08"
+    },
+    {
+      "nama_wilayah": "Pitue",
+      "kode_wilayah": "73.10.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.08"
+    },
+    {
+      "nama_wilayah": "Punranga",
+      "kode_wilayah": "73.10.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.08"
+    },
+    {
+      "nama_wilayah": "Alesipitto",
+      "kode_wilayah": "73.10.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.08"
+    }
+  ]
+}

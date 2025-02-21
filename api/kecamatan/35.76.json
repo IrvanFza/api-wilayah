@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Prajuritkulon",
+      "kode_wilayah": "35.76.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "35.76",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama_wilayah": "Magersari",
+      "kode_wilayah": "35.76.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "35.76",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama_wilayah": "Kranggan",
+      "kode_wilayah": "35.76.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "35.76",
+      "kode_provinsi": "35"
+    }
+  ]
+}

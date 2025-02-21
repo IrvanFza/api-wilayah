@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Pakning",
+      "kode_wilayah": "14.03.03.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.03"
+    },
+    {
+      "nama_wilayah": "Sejangat",
+      "kode_wilayah": "14.03.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.03"
+    },
+    {
+      "nama_wilayah": "Dompas",
+      "kode_wilayah": "14.03.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.03"
+    },
+    {
+      "nama_wilayah": "Pangkalan Jambi",
+      "kode_wilayah": "14.03.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.03"
+    },
+    {
+      "nama_wilayah": "Sungai Selari",
+      "kode_wilayah": "14.03.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.03"
+    },
+    {
+      "nama_wilayah": "Buruk Bakul",
+      "kode_wilayah": "14.03.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.03"
+    },
+    {
+      "nama_wilayah": "Bukit Batu",
+      "kode_wilayah": "14.03.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.03"
+    },
+    {
+      "nama_wilayah": "Sukajadi",
+      "kode_wilayah": "14.03.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.03"
+    },
+    {
+      "nama_wilayah": "Batang Duku",
+      "kode_wilayah": "14.03.03.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.03"
+    },
+    {
+      "nama_wilayah": "Pakning Asal",
+      "kode_wilayah": "14.03.03.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.03"
+    }
+  ]
+}

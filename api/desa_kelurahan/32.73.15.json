@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Cijerah",
+      "kode_wilayah": "32.73.15.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.15"
+    },
+    {
+      "nama_wilayah": "Cibuntu",
+      "kode_wilayah": "32.73.15.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.15"
+    },
+    {
+      "nama_wilayah": "Warung Muncang",
+      "kode_wilayah": "32.73.15.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.15"
+    },
+    {
+      "nama_wilayah": "Caringin",
+      "kode_wilayah": "32.73.15.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.15"
+    },
+    {
+      "nama_wilayah": "Cigondewah Kaler",
+      "kode_wilayah": "32.73.15.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.15"
+    },
+    {
+      "nama_wilayah": "Gempol Sari",
+      "kode_wilayah": "32.73.15.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.15"
+    },
+    {
+      "nama_wilayah": "Cigondewah Rahayu",
+      "kode_wilayah": "32.73.15.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.15"
+    },
+    {
+      "nama_wilayah": "Cigondewah Kidul",
+      "kode_wilayah": "32.73.15.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.15"
+    }
+  ]
+}

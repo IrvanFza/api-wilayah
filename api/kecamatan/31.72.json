@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Penjaringan",
+      "kode_wilayah": "31.72.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.72",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Tanjung Priok",
+      "kode_wilayah": "31.72.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.72",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Koja",
+      "kode_wilayah": "31.72.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.72",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Cilincing",
+      "kode_wilayah": "31.72.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.72",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Pademangan",
+      "kode_wilayah": "31.72.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.72",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Kelapa Gading",
+      "kode_wilayah": "31.72.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.72",
+      "kode_provinsi": "31"
+    }
+  ]
+}

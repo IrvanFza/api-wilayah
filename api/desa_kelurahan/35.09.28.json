@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lembengan",
+      "kode_wilayah": "35.09.28.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.28"
+    },
+    {
+      "nama_wilayah": "Suren",
+      "kode_wilayah": "35.09.28.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.28"
+    },
+    {
+      "nama_wilayah": "Karangpaiton",
+      "kode_wilayah": "35.09.28.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.28"
+    },
+    {
+      "nama_wilayah": "Sumberanget",
+      "kode_wilayah": "35.09.28.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.28"
+    },
+    {
+      "nama_wilayah": "Sukogidri",
+      "kode_wilayah": "35.09.28.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.28"
+    },
+    {
+      "nama_wilayah": "Ledokombo",
+      "kode_wilayah": "35.09.28.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.28"
+    },
+    {
+      "nama_wilayah": "Sumberlesung",
+      "kode_wilayah": "35.09.28.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.28"
+    },
+    {
+      "nama_wilayah": "Sumbersalak",
+      "kode_wilayah": "35.09.28.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.28"
+    },
+    {
+      "nama_wilayah": "Slateng",
+      "kode_wilayah": "35.09.28.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.28"
+    },
+    {
+      "nama_wilayah": "Sumberbulus",
+      "kode_wilayah": "35.09.28.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.28"
+    }
+  ]
+}

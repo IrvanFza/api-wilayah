@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bangkaloa Ilir",
+      "kode_wilayah": "32.12.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.07"
+    },
+    {
+      "nama_wilayah": "Widasari",
+      "kode_wilayah": "32.12.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.07"
+    },
+    {
+      "nama_wilayah": "Kalensari",
+      "kode_wilayah": "32.12.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.07"
+    },
+    {
+      "nama_wilayah": "Bunder",
+      "kode_wilayah": "32.12.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.07"
+    },
+    {
+      "nama_wilayah": "Ujungaris",
+      "kode_wilayah": "32.12.07.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.07"
+    },
+    {
+      "nama_wilayah": "Kongsijaya",
+      "kode_wilayah": "32.12.07.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.07"
+    },
+    {
+      "nama_wilayah": "Ujungjaya",
+      "kode_wilayah": "32.12.07.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.07"
+    },
+    {
+      "nama_wilayah": "Ujungpondok Jaya",
+      "kode_wilayah": "32.12.07.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.07"
+    },
+    {
+      "nama_wilayah": "Leuwigede",
+      "kode_wilayah": "32.12.07.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.07"
+    },
+    {
+      "nama_wilayah": "Kasmaran",
+      "kode_wilayah": "32.12.07.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.07"
+    }
+  ]
+}

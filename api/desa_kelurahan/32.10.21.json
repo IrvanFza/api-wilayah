@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bantaragung",
+      "kode_wilayah": "32.10.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.21"
+    },
+    {
+      "nama_wilayah": "Padaherang",
+      "kode_wilayah": "32.10.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.21"
+    },
+    {
+      "nama_wilayah": "Lengkong Kulon",
+      "kode_wilayah": "32.10.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.21"
+    },
+    {
+      "nama_wilayah": "Jerukleueut",
+      "kode_wilayah": "32.10.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.21"
+    },
+    {
+      "nama_wilayah": "Sindangwangi",
+      "kode_wilayah": "32.10.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.21"
+    },
+    {
+      "nama_wilayah": "Buahkapas",
+      "kode_wilayah": "32.10.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.21"
+    },
+    {
+      "nama_wilayah": "Ujungberung",
+      "kode_wilayah": "32.10.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.21"
+    },
+    {
+      "nama_wilayah": "Balagedog",
+      "kode_wilayah": "32.10.21.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.21"
+    },
+    {
+      "nama_wilayah": "Leuwilaja",
+      "kode_wilayah": "32.10.21.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.21"
+    },
+    {
+      "nama_wilayah": "Lengkong Wetan",
+      "kode_wilayah": "32.10.21.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.21"
+    }
+  ]
+}

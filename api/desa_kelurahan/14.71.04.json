@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Rintis",
+      "kode_wilayah": "14.71.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.04"
+    },
+    {
+      "nama_wilayah": "Tanjung RHU",
+      "kode_wilayah": "14.71.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.04"
+    },
+    {
+      "nama_wilayah": "Pesisir",
+      "kode_wilayah": "14.71.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.04"
+    },
+    {
+      "nama_wilayah": "Sekip",
+      "kode_wilayah": "14.71.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.04"
+    }
+  ]
+}

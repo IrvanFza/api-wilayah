@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kafo Foo",
+      "kode_wilayah": "74.03.30.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.30"
+    },
+    {
+      "nama_wilayah": "Lembo",
+      "kode_wilayah": "74.03.30.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.30"
+    },
+    {
+      "nama_wilayah": "Kilambibito",
+      "kode_wilayah": "74.03.30.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.30"
+    },
+    {
+      "nama_wilayah": "Bahutara",
+      "kode_wilayah": "74.03.30.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.30"
+    },
+    {
+      "nama_wilayah": "Kontu Kowuna",
+      "kode_wilayah": "74.03.30.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.30"
+    },
+    {
+      "nama_wilayah": "Lahorio",
+      "kode_wilayah": "74.03.30.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.30"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Simpang Kanan",
+      "kode_wilayah": "14.07.11.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.11"
+    },
+    {
+      "nama_wilayah": "Kota Parit",
+      "kode_wilayah": "14.07.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.11"
+    },
+    {
+      "nama_wilayah": "Bagan Nibung",
+      "kode_wilayah": "14.07.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.11"
+    },
+    {
+      "nama_wilayah": "Bukit Damar",
+      "kode_wilayah": "14.07.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.11"
+    },
+    {
+      "nama_wilayah": "Bukit Mas",
+      "kode_wilayah": "14.07.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.11"
+    },
+    {
+      "nama_wilayah": "Bukit Selamat",
+      "kode_wilayah": "14.07.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.11"
+    }
+  ]
+}

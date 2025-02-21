@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Cigedug",
+      "kode_wilayah": "32.05.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.18"
+    },
+    {
+      "nama_wilayah": "Barusuda",
+      "kode_wilayah": "32.05.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.18"
+    },
+    {
+      "nama_wilayah": "Sukahurip",
+      "kode_wilayah": "32.05.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.18"
+    },
+    {
+      "nama_wilayah": "Sindangsari",
+      "kode_wilayah": "32.05.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.18"
+    },
+    {
+      "nama_wilayah": "Cintanagara",
+      "kode_wilayah": "32.05.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.18"
+    }
+  ]
+}

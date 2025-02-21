@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Lengkong",
+      "kode_wilayah": "35.09.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.23"
+    },
+    {
+      "nama_wilayah": "Kawangrejo",
+      "kode_wilayah": "35.09.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.23"
+    },
+    {
+      "nama_wilayah": "Tamansari",
+      "kode_wilayah": "35.09.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.23"
+    },
+    {
+      "nama_wilayah": "Mumbulsari",
+      "kode_wilayah": "35.09.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.23"
+    },
+    {
+      "nama_wilayah": "Suco",
+      "kode_wilayah": "35.09.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.23"
+    },
+    {
+      "nama_wilayah": "Lampeji",
+      "kode_wilayah": "35.09.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.23"
+    },
+    {
+      "nama_wilayah": "Karang Kedawung",
+      "kode_wilayah": "35.09.23.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.23"
+    }
+  ]
+}

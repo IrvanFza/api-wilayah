@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bandar Pulau Pekan",
+      "kode_wilayah": "12.09.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.15"
+    },
+    {
+      "nama_wilayah": "Buntu Maraja",
+      "kode_wilayah": "12.09.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.15"
+    },
+    {
+      "nama_wilayah": "Gonting Malaha",
+      "kode_wilayah": "12.09.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.15"
+    },
+    {
+      "nama_wilayah": "Padang Pulau",
+      "kode_wilayah": "12.09.15.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.15"
+    },
+    {
+      "nama_wilayah": "Perkebunan Aek Tarum",
+      "kode_wilayah": "12.09.15.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.15"
+    },
+    {
+      "nama_wilayah": "Perkebunan Padang Pulau",
+      "kode_wilayah": "12.09.15.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.15"
+    },
+    {
+      "nama_wilayah": "Huta Rao",
+      "kode_wilayah": "12.09.15.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.15"
+    },
+    {
+      "nama_wilayah": "Aek Nagali",
+      "kode_wilayah": "12.09.15.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.15"
+    },
+    {
+      "nama_wilayah": "Gajah Sakti",
+      "kode_wilayah": "12.09.15.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.15"
+    },
+    {
+      "nama_wilayah": "Gunung Berkat",
+      "kode_wilayah": "12.09.15.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.15"
+    }
+  ]
+}

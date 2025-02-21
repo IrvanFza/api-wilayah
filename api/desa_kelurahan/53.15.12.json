@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Golo Lewe",
+      "kode_wilayah": "53.15.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.15",
+      "kode_kecamatan": "53.15.12"
+    },
+    {
+      "nama_wilayah": "Tueng",
+      "kode_wilayah": "53.15.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.15",
+      "kode_kecamatan": "53.15.12"
+    },
+    {
+      "nama_wilayah": "Sompang Kolang",
+      "kode_wilayah": "53.15.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.15",
+      "kode_kecamatan": "53.15.12"
+    },
+    {
+      "nama_wilayah": "Wajur",
+      "kode_wilayah": "53.15.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.15",
+      "kode_kecamatan": "53.15.12"
+    },
+    {
+      "nama_wilayah": "Kolang",
+      "kode_wilayah": "53.15.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.15",
+      "kode_kecamatan": "53.15.12"
+    },
+    {
+      "nama_wilayah": "Golo Riwu",
+      "kode_wilayah": "53.15.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.15",
+      "kode_kecamatan": "53.15.12"
+    },
+    {
+      "nama_wilayah": "Compang Kules",
+      "kode_wilayah": "53.15.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.15",
+      "kode_kecamatan": "53.15.12"
+    },
+    {
+      "nama_wilayah": "Tengku",
+      "kode_wilayah": "53.15.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.15",
+      "kode_kecamatan": "53.15.12"
+    },
+    {
+      "nama_wilayah": "Golo Wedong",
+      "kode_wilayah": "53.15.12.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.15",
+      "kode_kecamatan": "53.15.12"
+    },
+    {
+      "nama_wilayah": "Ranggu",
+      "kode_wilayah": "53.15.12.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.15",
+      "kode_kecamatan": "53.15.12"
+    }
+  ]
+}

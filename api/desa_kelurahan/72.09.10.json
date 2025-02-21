@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Uentanaga Bawah",
+      "kode_wilayah": "72.09.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.10"
+    },
+    {
+      "nama_wilayah": "Uentanaga Atas",
+      "kode_wilayah": "72.09.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.10"
+    },
+    {
+      "nama_wilayah": "Dondo",
+      "kode_wilayah": "72.09.10.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.10"
+    },
+    {
+      "nama_wilayah": "Uamalingku",
+      "kode_wilayah": "72.09.10.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.10"
+    },
+    {
+      "nama_wilayah": "Dondo Barat",
+      "kode_wilayah": "72.09.10.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.10"
+    },
+    {
+      "nama_wilayah": "Muara Toba",
+      "kode_wilayah": "72.09.10.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.10"
+    },
+    {
+      "nama_wilayah": "Sumoli",
+      "kode_wilayah": "72.09.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.10"
+    },
+    {
+      "nama_wilayah": "Sabulira Toba",
+      "kode_wilayah": "72.09.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.10"
+    },
+    {
+      "nama_wilayah": "Labuan",
+      "kode_wilayah": "72.09.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.10"
+    },
+    {
+      "nama_wilayah": "Patingko",
+      "kode_wilayah": "72.09.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.10"
+    }
+  ]
+}

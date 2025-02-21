@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Cihapit",
+      "kode_wilayah": "32.73.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.09"
+    },
+    {
+      "nama_wilayah": "Taman Sari",
+      "kode_wilayah": "32.73.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.09"
+    },
+    {
+      "nama_wilayah": "Citarum",
+      "kode_wilayah": "32.73.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.09"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Paniki Bawah",
+      "kode_wilayah": "71.71.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.08"
+    },
+    {
+      "nama_wilayah": "Lapangan",
+      "kode_wilayah": "71.71.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.08"
+    },
+    {
+      "nama_wilayah": "Mapanget Barat",
+      "kode_wilayah": "71.71.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.08"
+    },
+    {
+      "nama_wilayah": "Kima Atas",
+      "kode_wilayah": "71.71.08.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.08"
+    },
+    {
+      "nama_wilayah": "Buha",
+      "kode_wilayah": "71.71.08.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.08"
+    },
+    {
+      "nama_wilayah": "Bengkol",
+      "kode_wilayah": "71.71.08.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.08"
+    },
+    {
+      "nama_wilayah": "Kairagi Satu",
+      "kode_wilayah": "71.71.08.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.08"
+    },
+    {
+      "nama_wilayah": "Kairagi Dua",
+      "kode_wilayah": "71.71.08.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.08"
+    },
+    {
+      "nama_wilayah": "Paniki Satu",
+      "kode_wilayah": "71.71.08.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.08"
+    },
+    {
+      "nama_wilayah": "Paniki Dua",
+      "kode_wilayah": "71.71.08.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.08"
+    }
+  ]
+}

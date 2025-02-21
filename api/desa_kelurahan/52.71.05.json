@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Mataram Barat",
+      "kode_wilayah": "52.71.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.05"
+    },
+    {
+      "nama_wilayah": "Dasan Agung",
+      "kode_wilayah": "52.71.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.05"
+    },
+    {
+      "nama_wilayah": "Monjok",
+      "kode_wilayah": "52.71.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.05"
+    },
+    {
+      "nama_wilayah": "Karang Baru",
+      "kode_wilayah": "52.71.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.05"
+    },
+    {
+      "nama_wilayah": "Rembiga",
+      "kode_wilayah": "52.71.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.05"
+    },
+    {
+      "nama_wilayah": "Gomong",
+      "kode_wilayah": "52.71.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.05"
+    },
+    {
+      "nama_wilayah": "Dasan Agung Baru",
+      "kode_wilayah": "52.71.05.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.05"
+    },
+    {
+      "nama_wilayah": "Monjok Timur",
+      "kode_wilayah": "52.71.05.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.05"
+    },
+    {
+      "nama_wilayah": "Monjok Barat",
+      "kode_wilayah": "52.71.05.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.71",
+      "kode_kecamatan": "52.71.05"
+    }
+  ]
+}

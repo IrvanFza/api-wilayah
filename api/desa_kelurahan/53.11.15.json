@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Prai Bakul",
+      "kode_wilayah": "53.11.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.15"
+    },
+    {
+      "nama_wilayah": "Katikutana",
+      "kode_wilayah": "53.11.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.15"
+    },
+    {
+      "nama_wilayah": "Karipi",
+      "kode_wilayah": "53.11.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.15"
+    },
+    {
+      "nama_wilayah": "Wangga Meti",
+      "kode_wilayah": "53.11.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.15"
+    },
+    {
+      "nama_wilayah": "Katiku Wai",
+      "kode_wilayah": "53.11.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.15"
+    },
+    {
+      "nama_wilayah": "Katiku Luku",
+      "kode_wilayah": "53.11.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.15"
+    }
+  ]
+}

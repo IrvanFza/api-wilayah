@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tarusa",
+      "kode_wilayah": "52.04.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.20"
+    },
+    {
+      "nama_wilayah": "Juru  Mapin",
+      "kode_wilayah": "52.04.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.20"
+    },
+    {
+      "nama_wilayah": "Kalabeso",
+      "kode_wilayah": "52.04.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.20"
+    },
+    {
+      "nama_wilayah": "Labuhan Burung",
+      "kode_wilayah": "52.04.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.20"
+    },
+    {
+      "nama_wilayah": "Pulau Kaung",
+      "kode_wilayah": "52.04.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.20"
+    },
+    {
+      "nama_wilayah": "Buin Baru",
+      "kode_wilayah": "52.04.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.20"
+    }
+  ]
+}

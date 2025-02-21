@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kandang",
+      "kode_wilayah": "35.12.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.10"
+    },
+    {
+      "nama_wilayah": "Curah Cottok",
+      "kode_wilayah": "35.12.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.10"
+    },
+    {
+      "nama_wilayah": "Peleyan",
+      "kode_wilayah": "35.12.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.10"
+    },
+    {
+      "nama_wilayah": "Wonokoyo",
+      "kode_wilayah": "35.12.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.10"
+    },
+    {
+      "nama_wilayah": "Seletreng",
+      "kode_wilayah": "35.12.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.10"
+    },
+    {
+      "nama_wilayah": "Landangan",
+      "kode_wilayah": "35.12.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.10"
+    },
+    {
+      "nama_wilayah": "Kapongan",
+      "kode_wilayah": "35.12.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.10"
+    },
+    {
+      "nama_wilayah": "Kesambirampak",
+      "kode_wilayah": "35.12.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.10"
+    },
+    {
+      "nama_wilayah": "Gebangan",
+      "kode_wilayah": "35.12.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.10"
+    },
+    {
+      "nama_wilayah": "Pokaan",
+      "kode_wilayah": "35.12.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.10"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Menawi",
+      "kode_wilayah": "91.05.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.04"
+    },
+    {
+      "nama_wilayah": "Wadapi",
+      "kode_wilayah": "91.05.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.04"
+    },
+    {
+      "nama_wilayah": "Kainui I",
+      "kode_wilayah": "91.05.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.04"
+    },
+    {
+      "nama_wilayah": "Aitiri",
+      "kode_wilayah": "91.05.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.04"
+    },
+    {
+      "nama_wilayah": "Wawuti",
+      "kode_wilayah": "91.05.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.04"
+    },
+    {
+      "nama_wilayah": "Roipi",
+      "kode_wilayah": "91.05.04.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.04"
+    },
+    {
+      "nama_wilayah": "Ransarnoni",
+      "kode_wilayah": "91.05.04.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.04"
+    },
+    {
+      "nama_wilayah": "Kainui II",
+      "kode_wilayah": "91.05.04.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.04"
+    },
+    {
+      "nama_wilayah": "Wanampompi",
+      "kode_wilayah": "91.05.04.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.04"
+    },
+    {
+      "nama_wilayah": "Mananayam",
+      "kode_wilayah": "91.05.04.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.04"
+    },
+    {
+      "nama_wilayah": "Roipi Dua",
+      "kode_wilayah": "91.05.04.2030",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.05",
+      "kode_kecamatan": "91.05.04"
+    }
+  ]
+}

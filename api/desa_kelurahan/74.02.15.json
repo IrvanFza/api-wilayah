@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tongauna",
+      "kode_wilayah": "74.02.15.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.15"
+    },
+    {
+      "nama_wilayah": "Mata Iwoi",
+      "kode_wilayah": "74.02.15.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.15"
+    },
+    {
+      "nama_wilayah": "Puosu",
+      "kode_wilayah": "74.02.15.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.15"
+    },
+    {
+      "nama_wilayah": "Sendang Mulya Sari",
+      "kode_wilayah": "74.02.15.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.15"
+    },
+    {
+      "nama_wilayah": "Mekar Sari",
+      "kode_wilayah": "74.02.15.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.15"
+    },
+    {
+      "nama_wilayah": "Lalonggowuna",
+      "kode_wilayah": "74.02.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.15"
+    },
+    {
+      "nama_wilayah": "Asao",
+      "kode_wilayah": "74.02.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.15"
+    },
+    {
+      "nama_wilayah": "Andeposandu",
+      "kode_wilayah": "74.02.15.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.15"
+    },
+    {
+      "nama_wilayah": "Momea",
+      "kode_wilayah": "74.02.15.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.15"
+    },
+    {
+      "nama_wilayah": "Ambepulu",
+      "kode_wilayah": "74.02.15.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.02",
+      "kode_kecamatan": "74.02.15"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tabarfane",
+      "kode_wilayah": "81.07.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.07",
+      "kode_kecamatan": "81.07.10"
+    },
+    {
+      "nama_wilayah": "Rebi",
+      "kode_wilayah": "81.07.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.07",
+      "kode_kecamatan": "81.07.10"
+    },
+    {
+      "nama_wilayah": "Lutur",
+      "kode_wilayah": "81.07.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.07",
+      "kode_kecamatan": "81.07.10"
+    },
+    {
+      "nama_wilayah": "Hokmar",
+      "kode_wilayah": "81.07.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.07",
+      "kode_kecamatan": "81.07.10"
+    },
+    {
+      "nama_wilayah": "Juring",
+      "kode_wilayah": "81.07.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.07",
+      "kode_kecamatan": "81.07.10"
+    },
+    {
+      "nama_wilayah": "Erersin",
+      "kode_wilayah": "81.07.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.07",
+      "kode_kecamatan": "81.07.10"
+    },
+    {
+      "nama_wilayah": "Maekor",
+      "kode_wilayah": "81.07.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.07",
+      "kode_kecamatan": "81.07.10"
+    }
+  ]
+}

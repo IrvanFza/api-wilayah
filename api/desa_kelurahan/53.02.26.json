@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Naip",
+      "kode_wilayah": "53.02.26.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.26"
+    },
+    {
+      "nama_wilayah": "Fatutnana",
+      "kode_wilayah": "53.02.26.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.26"
+    },
+    {
+      "nama_wilayah": "Oepliki",
+      "kode_wilayah": "53.02.26.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.26"
+    },
+    {
+      "nama_wilayah": "Oe-ekam",
+      "kode_wilayah": "53.02.26.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.26"
+    },
+    {
+      "nama_wilayah": "Teas",
+      "kode_wilayah": "53.02.26.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.26"
+    },
+    {
+      "nama_wilayah": "Oebaki",
+      "kode_wilayah": "53.02.26.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.26"
+    },
+    {
+      "nama_wilayah": "Eno Nabuasa",
+      "kode_wilayah": "53.02.26.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.26"
+    }
+  ]
+}

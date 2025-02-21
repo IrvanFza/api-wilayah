@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Panti",
+      "kode_wilayah": "13.08.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.07"
+    },
+    {
+      "nama_wilayah": "Panti Timur",
+      "kode_wilayah": "13.08.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.07"
+    },
+    {
+      "nama_wilayah": "Panti Selatan",
+      "kode_wilayah": "13.08.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.07"
+    },
+    {
+      "nama_wilayah": "Panti Utara",
+      "kode_wilayah": "13.08.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.07"
+    }
+  ]
+}

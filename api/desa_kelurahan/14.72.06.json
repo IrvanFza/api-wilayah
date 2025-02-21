@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Laksamana",
+      "kode_wilayah": "14.72.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.72",
+      "kode_kecamatan": "14.72.06"
+    },
+    {
+      "nama_wilayah": "Rimba Sekampung",
+      "kode_wilayah": "14.72.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.72",
+      "kode_kecamatan": "14.72.06"
+    },
+    {
+      "nama_wilayah": "Dumai Kota",
+      "kode_wilayah": "14.72.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.72",
+      "kode_kecamatan": "14.72.06"
+    },
+    {
+      "nama_wilayah": "Bintan",
+      "kode_wilayah": "14.72.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.72",
+      "kode_kecamatan": "14.72.06"
+    },
+    {
+      "nama_wilayah": "Sukajadi",
+      "kode_wilayah": "14.72.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.72",
+      "kode_kecamatan": "14.72.06"
+    }
+  ]
+}

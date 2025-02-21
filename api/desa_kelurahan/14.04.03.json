@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sapat",
+      "kode_wilayah": "14.04.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.03"
+    },
+    {
+      "nama_wilayah": "Sungaibuluh",
+      "kode_wilayah": "14.04.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.03"
+    },
+    {
+      "nama_wilayah": "Tanjunglajau",
+      "kode_wilayah": "14.04.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.03"
+    },
+    {
+      "nama_wilayah": "Sungaibela",
+      "kode_wilayah": "14.04.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.03"
+    },
+    {
+      "nama_wilayah": "Telukdalam",
+      "kode_wilayah": "14.04.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.03"
+    },
+    {
+      "nama_wilayah": "Sungaipiyai",
+      "kode_wilayah": "14.04.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.03"
+    },
+    {
+      "nama_wilayah": "Perigi Raja",
+      "kode_wilayah": "14.04.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.03"
+    },
+    {
+      "nama_wilayah": "Tanjungmelayu",
+      "kode_wilayah": "14.04.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.03"
+    }
+  ]
+}

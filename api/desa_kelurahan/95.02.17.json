@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Arintap",
+      "kode_wilayah": "95.02.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.17"
+    },
+    {
+      "nama_wilayah": "Tarngop",
+      "kode_wilayah": "95.02.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.17"
+    },
+    {
+      "nama_wilayah": "Kawor",
+      "kode_wilayah": "95.02.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.17"
+    },
+    {
+      "nama_wilayah": "Sakup",
+      "kode_wilayah": "95.02.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.17"
+    },
+    {
+      "nama_wilayah": "Umding",
+      "kode_wilayah": "95.02.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.17"
+    },
+    {
+      "nama_wilayah": "Nanum",
+      "kode_wilayah": "95.02.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.17"
+    },
+    {
+      "nama_wilayah": "Ater",
+      "kode_wilayah": "95.02.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.17"
+    }
+  ]
+}

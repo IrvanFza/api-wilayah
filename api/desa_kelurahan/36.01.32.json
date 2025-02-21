@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Koranji",
+      "kode_wilayah": "36.01.32.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.32"
+    },
+    {
+      "nama_wilayah": "Banjarwangi",
+      "kode_wilayah": "36.01.32.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.32"
+    },
+    {
+      "nama_wilayah": "Sukasari",
+      "kode_wilayah": "36.01.32.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.32"
+    },
+    {
+      "nama_wilayah": "Karyawangi",
+      "kode_wilayah": "36.01.32.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.32"
+    },
+    {
+      "nama_wilayah": "Sukaraja",
+      "kode_wilayah": "36.01.32.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.32"
+    },
+    {
+      "nama_wilayah": "Kaduhejo",
+      "kode_wilayah": "36.01.32.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.32"
+    },
+    {
+      "nama_wilayah": "Banjarnegara",
+      "kode_wilayah": "36.01.32.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.32"
+    },
+    {
+      "nama_wilayah": "Sanghiangdengdek",
+      "kode_wilayah": "36.01.32.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.32"
+    },
+    {
+      "nama_wilayah": "Cilentung",
+      "kode_wilayah": "36.01.32.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.32"
+    }
+  ]
+}

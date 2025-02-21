@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Banjarmasin",
+      "kode_wilayah": "36.01.28.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.28"
+    },
+    {
+      "nama_wilayah": "Carita",
+      "kode_wilayah": "36.01.28.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.28"
+    },
+    {
+      "nama_wilayah": "Sukarame",
+      "kode_wilayah": "36.01.28.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.28"
+    },
+    {
+      "nama_wilayah": "Sukanegara",
+      "kode_wilayah": "36.01.28.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.28"
+    },
+    {
+      "nama_wilayah": "Cinoyong",
+      "kode_wilayah": "36.01.28.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.28"
+    },
+    {
+      "nama_wilayah": "Pejamben",
+      "kode_wilayah": "36.01.28.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.28"
+    },
+    {
+      "nama_wilayah": "Sukajadi",
+      "kode_wilayah": "36.01.28.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.28"
+    },
+    {
+      "nama_wilayah": "Kawoyang",
+      "kode_wilayah": "36.01.28.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.28"
+    },
+    {
+      "nama_wilayah": "Tembong",
+      "kode_wilayah": "36.01.28.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.28"
+    },
+    {
+      "nama_wilayah": "Sindanglaut",
+      "kode_wilayah": "36.01.28.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.28"
+    }
+  ]
+}

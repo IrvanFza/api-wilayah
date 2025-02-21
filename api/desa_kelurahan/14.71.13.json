@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sidomulyo Barat",
+      "kode_wilayah": "14.71.13.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.13"
+    },
+    {
+      "nama_wilayah": "Sialangmunggu",
+      "kode_wilayah": "14.71.13.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.13"
+    },
+    {
+      "nama_wilayah": "Tuahkarya",
+      "kode_wilayah": "14.71.13.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.13"
+    },
+    {
+      "nama_wilayah": "Tuahmadani",
+      "kode_wilayah": "14.71.13.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.13"
+    },
+    {
+      "nama_wilayah": "Airputih",
+      "kode_wilayah": "14.71.13.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.13"
+    }
+  ]
+}

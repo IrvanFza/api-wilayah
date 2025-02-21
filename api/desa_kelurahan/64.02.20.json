@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bukit Merdeka",
+      "kode_wilayah": "64.02.20.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.20"
+    },
+    {
+      "nama_wilayah": "Sungai Merdeka",
+      "kode_wilayah": "64.02.20.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.20"
+    },
+    {
+      "nama_wilayah": "Karya Merdeka",
+      "kode_wilayah": "64.02.20.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.20"
+    },
+    {
+      "nama_wilayah": "Amborawang Darat",
+      "kode_wilayah": "64.02.20.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.20"
+    },
+    {
+      "nama_wilayah": "Argo Sari",
+      "kode_wilayah": "64.02.20.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.20"
+    },
+    {
+      "nama_wilayah": "Salok Api Darat",
+      "kode_wilayah": "64.02.20.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.20"
+    },
+    {
+      "nama_wilayah": "Salok Api Laut",
+      "kode_wilayah": "64.02.20.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.20"
+    },
+    {
+      "nama_wilayah": "Amborawang Laut",
+      "kode_wilayah": "64.02.20.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.20"
+    },
+    {
+      "nama_wilayah": "Margomulyo",
+      "kode_wilayah": "64.02.20.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.20"
+    },
+    {
+      "nama_wilayah": "Tani Bhakti",
+      "kode_wilayah": "64.02.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.20"
+    }
+  ]
+}

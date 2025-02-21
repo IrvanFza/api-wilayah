@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Sukamaju",
+      "kode_wilayah": "32.01.26.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.26"
+    },
+    {
+      "nama_wilayah": "Kuta",
+      "kode_wilayah": "32.01.26.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.26"
+    },
+    {
+      "nama_wilayah": "Gadog",
+      "kode_wilayah": "32.01.26.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.26"
+    },
+    {
+      "nama_wilayah": "Sukakarya",
+      "kode_wilayah": "32.01.26.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.26"
+    },
+    {
+      "nama_wilayah": "Megamendung",
+      "kode_wilayah": "32.01.26.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.26"
+    },
+    {
+      "nama_wilayah": "Cipayung",
+      "kode_wilayah": "32.01.26.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.26"
+    },
+    {
+      "nama_wilayah": "Sukamanah",
+      "kode_wilayah": "32.01.26.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.26"
+    },
+    {
+      "nama_wilayah": "Sukagalih",
+      "kode_wilayah": "32.01.26.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.26"
+    },
+    {
+      "nama_wilayah": "Cipayung Girang",
+      "kode_wilayah": "32.01.26.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.26"
+    },
+    {
+      "nama_wilayah": "Sukamahi",
+      "kode_wilayah": "32.01.26.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.26"
+    },
+    {
+      "nama_wilayah": "Sukaresmi",
+      "kode_wilayah": "32.01.26.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.26"
+    },
+    {
+      "nama_wilayah": "Pasir Angin",
+      "kode_wilayah": "32.01.26.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.26"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Marang",
+      "kode_wilayah": "62.71.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.02"
+    },
+    {
+      "nama_wilayah": "Tumbang Tahai",
+      "kode_wilayah": "62.71.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.02"
+    },
+    {
+      "nama_wilayah": "Banturung",
+      "kode_wilayah": "62.71.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.02"
+    },
+    {
+      "nama_wilayah": "Tangkiling",
+      "kode_wilayah": "62.71.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.02"
+    },
+    {
+      "nama_wilayah": "Sei Gohong",
+      "kode_wilayah": "62.71.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.02"
+    },
+    {
+      "nama_wilayah": "Kanarakan",
+      "kode_wilayah": "62.71.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.02"
+    },
+    {
+      "nama_wilayah": "Habaring Hurung",
+      "kode_wilayah": "62.71.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.71",
+      "kode_kecamatan": "62.71.02"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tabongo Timur",
+      "kode_wilayah": "75.01.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.19"
+    },
+    {
+      "nama_wilayah": "Tabongo Barat",
+      "kode_wilayah": "75.01.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.19"
+    },
+    {
+      "nama_wilayah": "Limehe Barat",
+      "kode_wilayah": "75.01.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.19"
+    },
+    {
+      "nama_wilayah": "Limehe Timur",
+      "kode_wilayah": "75.01.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.19"
+    },
+    {
+      "nama_wilayah": "Ilomangga",
+      "kode_wilayah": "75.01.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.19"
+    },
+    {
+      "nama_wilayah": "Motinelo",
+      "kode_wilayah": "75.01.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.19"
+    },
+    {
+      "nama_wilayah": "Moahudu",
+      "kode_wilayah": "75.01.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.19"
+    },
+    {
+      "nama_wilayah": "Teratai",
+      "kode_wilayah": "75.01.19.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.19"
+    },
+    {
+      "nama_wilayah": "Limehu",
+      "kode_wilayah": "75.01.19.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.19"
+    }
+  ]
+}

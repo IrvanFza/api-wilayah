@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Oelbubuk",
+      "kode_wilayah": "53.02.30.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.30"
+    },
+    {
+      "nama_wilayah": "Nekemunifeto",
+      "kode_wilayah": "53.02.30.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.30"
+    },
+    {
+      "nama_wilayah": "Binaus",
+      "kode_wilayah": "53.02.30.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.30"
+    },
+    {
+      "nama_wilayah": "Oel-Ekam",
+      "kode_wilayah": "53.02.30.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.30"
+    },
+    {
+      "nama_wilayah": "Kualeu",
+      "kode_wilayah": "53.02.30.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.30"
+    },
+    {
+      "nama_wilayah": "Pika",
+      "kode_wilayah": "53.02.30.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.30"
+    }
+  ]
+}

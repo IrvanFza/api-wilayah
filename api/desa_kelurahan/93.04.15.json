@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kawem",
+      "kode_wilayah": "93.04.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.15"
+    },
+    {
+      "nama_wilayah": "Hahare",
+      "kode_wilayah": "93.04.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.15"
+    },
+    {
+      "nama_wilayah": "Aikut",
+      "kode_wilayah": "93.04.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.15"
+    },
+    {
+      "nama_wilayah": "Sanem",
+      "kode_wilayah": "93.04.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.15"
+    },
+    {
+      "nama_wilayah": "Kaipom",
+      "kode_wilayah": "93.04.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.15"
+    },
+    {
+      "nama_wilayah": "Airo Sapem",
+      "kode_wilayah": "93.04.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.15"
+    },
+    {
+      "nama_wilayah": "Simipit",
+      "kode_wilayah": "93.04.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.15"
+    },
+    {
+      "nama_wilayah": "Heiyaram",
+      "kode_wilayah": "93.04.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.15"
+    },
+    {
+      "nama_wilayah": "Wagasu",
+      "kode_wilayah": "93.04.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.15"
+    },
+    {
+      "nama_wilayah": "Sasime",
+      "kode_wilayah": "93.04.15.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.15"
+    }
+  ]
+}

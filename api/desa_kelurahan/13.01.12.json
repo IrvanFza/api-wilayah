@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Puluik-Puluik",
+      "kode_wilayah": "13.01.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.12"
+    },
+    {
+      "nama_wilayah": "Koto Ranah",
+      "kode_wilayah": "13.01.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.12"
+    },
+    {
+      "nama_wilayah": "Muaro Aie",
+      "kode_wilayah": "13.01.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.12"
+    },
+    {
+      "nama_wilayah": "Pancuang Taba",
+      "kode_wilayah": "13.01.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.12"
+    },
+    {
+      "nama_wilayah": "Puluik-Puluik Selatan",
+      "kode_wilayah": "13.01.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.12"
+    },
+    {
+      "nama_wilayah": "Limau Gadang Pancung Taba",
+      "kode_wilayah": "13.01.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.12"
+    }
+  ]
+}

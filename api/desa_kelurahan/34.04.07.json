@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Caturtunggal",
+      "kode_wilayah": "34.04.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.07"
+    },
+    {
+      "nama_wilayah": "Maguwoharjo",
+      "kode_wilayah": "34.04.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.07"
+    },
+    {
+      "nama_wilayah": "Condongcatur",
+      "kode_wilayah": "34.04.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.07"
+    }
+  ]
+}

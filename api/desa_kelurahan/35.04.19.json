@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kresikan",
+      "kode_wilayah": "35.04.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.19"
+    },
+    {
+      "nama_wilayah": "Jengglungharjo",
+      "kode_wilayah": "35.04.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.19"
+    },
+    {
+      "nama_wilayah": "Ngrejo",
+      "kode_wilayah": "35.04.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.19"
+    },
+    {
+      "nama_wilayah": "Tanggunggunung",
+      "kode_wilayah": "35.04.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.19"
+    },
+    {
+      "nama_wilayah": "Ngepoh",
+      "kode_wilayah": "35.04.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.19"
+    },
+    {
+      "nama_wilayah": "Tenggarejo",
+      "kode_wilayah": "35.04.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.19"
+    },
+    {
+      "nama_wilayah": "Pakisrejo",
+      "kode_wilayah": "35.04.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.19"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Beru",
+      "kode_wilayah": "35.05.17.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.17"
+    },
+    {
+      "nama_wilayah": "Babadan",
+      "kode_wilayah": "35.05.17.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.17"
+    },
+    {
+      "nama_wilayah": "Tangkil",
+      "kode_wilayah": "35.05.17.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.17"
+    },
+    {
+      "nama_wilayah": "Wlingi",
+      "kode_wilayah": "35.05.17.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.17"
+    },
+    {
+      "nama_wilayah": "Klemunan",
+      "kode_wilayah": "35.05.17.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.17"
+    },
+    {
+      "nama_wilayah": "Tembalang",
+      "kode_wilayah": "35.05.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.17"
+    },
+    {
+      "nama_wilayah": "Ngadirenggo",
+      "kode_wilayah": "35.05.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.17"
+    },
+    {
+      "nama_wilayah": "Tegalasri",
+      "kode_wilayah": "35.05.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.17"
+    },
+    {
+      "nama_wilayah": "Balerejo",
+      "kode_wilayah": "35.05.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.17"
+    }
+  ]
+}

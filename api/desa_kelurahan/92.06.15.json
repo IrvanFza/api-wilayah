@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sara",
+      "kode_wilayah": "92.06.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.15"
+    },
+    {
+      "nama_wilayah": "Warga Nusa I",
+      "kode_wilayah": "92.06.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.15"
+    },
+    {
+      "nama_wilayah": "Warga Nusa II",
+      "kode_wilayah": "92.06.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.15"
+    },
+    {
+      "nama_wilayah": "Tugarama",
+      "kode_wilayah": "92.06.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.15"
+    },
+    {
+      "nama_wilayah": "Suga",
+      "kode_wilayah": "92.06.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.15"
+    }
+  ]
+}

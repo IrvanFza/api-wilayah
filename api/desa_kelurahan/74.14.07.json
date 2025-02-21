@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tolandona",
+      "kode_wilayah": "74.14.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.14",
+      "kode_kecamatan": "74.14.07"
+    },
+    {
+      "nama_wilayah": "Baruta Lestari",
+      "kode_wilayah": "74.14.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.14",
+      "kode_kecamatan": "74.14.07"
+    },
+    {
+      "nama_wilayah": "Doda Bahari",
+      "kode_wilayah": "74.14.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.14",
+      "kode_kecamatan": "74.14.07"
+    },
+    {
+      "nama_wilayah": "Baruta",
+      "kode_wilayah": "74.14.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.14",
+      "kode_kecamatan": "74.14.07"
+    },
+    {
+      "nama_wilayah": "Baruta Analalaki",
+      "kode_wilayah": "74.14.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.14",
+      "kode_kecamatan": "74.14.07"
+    },
+    {
+      "nama_wilayah": "Tolandona Matanaeo",
+      "kode_wilayah": "74.14.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.14",
+      "kode_kecamatan": "74.14.07"
+    }
+  ]
+}

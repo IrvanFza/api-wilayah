@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Benuamelayu Laut",
+      "kode_wilayah": "61.71.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.71",
+      "kode_kecamatan": "61.71.01"
+    },
+    {
+      "nama_wilayah": "Benuamelayu Darat",
+      "kode_wilayah": "61.71.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.71",
+      "kode_kecamatan": "61.71.01"
+    },
+    {
+      "nama_wilayah": "Parittokaya",
+      "kode_wilayah": "61.71.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.71",
+      "kode_kecamatan": "61.71.01"
+    },
+    {
+      "nama_wilayah": "Kotabaru",
+      "kode_wilayah": "61.71.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.71",
+      "kode_kecamatan": "61.71.01"
+    },
+    {
+      "nama_wilayah": "Akcaya",
+      "kode_wilayah": "61.71.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.71",
+      "kode_kecamatan": "61.71.01"
+    }
+  ]
+}

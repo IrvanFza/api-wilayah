@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Ampenan",
+      "kode_wilayah": "52.71.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.71",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Mataram",
+      "kode_wilayah": "52.71.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.71",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Cakranegara",
+      "kode_wilayah": "52.71.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.71",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Sekarbela",
+      "kode_wilayah": "52.71.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.71",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Selaprang",
+      "kode_wilayah": "52.71.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.71",
+      "kode_provinsi": "52"
+    },
+    {
+      "nama_wilayah": "Sandubaya",
+      "kode_wilayah": "52.71.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "52.71",
+      "kode_provinsi": "52"
+    }
+  ]
+}

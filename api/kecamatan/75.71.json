@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Kota Barat",
+      "kode_wilayah": "75.71.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.71",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Kota Selatan",
+      "kode_wilayah": "75.71.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.71",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Kota Utara",
+      "kode_wilayah": "75.71.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.71",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Dungingi",
+      "kode_wilayah": "75.71.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.71",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Kota Timur",
+      "kode_wilayah": "75.71.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.71",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Kota Tengah",
+      "kode_wilayah": "75.71.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.71",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Sipatana",
+      "kode_wilayah": "75.71.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.71",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Dumbo Raya",
+      "kode_wilayah": "75.71.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.71",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Hulonthalangi",
+      "kode_wilayah": "75.71.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.71",
+      "kode_provinsi": "75"
+    }
+  ]
+}

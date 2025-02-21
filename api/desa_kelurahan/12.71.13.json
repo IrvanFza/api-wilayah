@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Pekan Labuhan",
+      "kode_wilayah": "12.71.13.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.13"
+    },
+    {
+      "nama_wilayah": "Sei Mati",
+      "kode_wilayah": "12.71.13.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.13"
+    },
+    {
+      "nama_wilayah": "Besar",
+      "kode_wilayah": "12.71.13.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.13"
+    },
+    {
+      "nama_wilayah": "Martubung",
+      "kode_wilayah": "12.71.13.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.13"
+    },
+    {
+      "nama_wilayah": "Nelayan Indah",
+      "kode_wilayah": "12.71.13.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.13"
+    },
+    {
+      "nama_wilayah": "Tangkahan",
+      "kode_wilayah": "12.71.13.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.13"
+    }
+  ]
+}

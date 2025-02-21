@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Aranday",
+      "kode_wilayah": "92.06.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.04"
+    },
+    {
+      "nama_wilayah": "Kampung Baru",
+      "kode_wilayah": "92.06.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.04"
+    },
+    {
+      "nama_wilayah": "Kecap",
+      "kode_wilayah": "92.06.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.04"
+    },
+    {
+      "nama_wilayah": "Manunggal Karya",
+      "kode_wilayah": "92.06.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.04"
+    }
+  ]
+}

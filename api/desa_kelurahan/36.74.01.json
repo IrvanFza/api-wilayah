@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Ciater",
+      "kode_wilayah": "36.74.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.01"
+    },
+    {
+      "nama_wilayah": "Rawabuntu",
+      "kode_wilayah": "36.74.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.01"
+    },
+    {
+      "nama_wilayah": "Rawa Mekar Jaya",
+      "kode_wilayah": "36.74.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.01"
+    },
+    {
+      "nama_wilayah": "Lengkong Gudang",
+      "kode_wilayah": "36.74.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.01"
+    },
+    {
+      "nama_wilayah": "Lengkong Wetan",
+      "kode_wilayah": "36.74.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.01"
+    },
+    {
+      "nama_wilayah": "Buaran",
+      "kode_wilayah": "36.74.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.01"
+    },
+    {
+      "nama_wilayah": "Lengkong Gudang Timur",
+      "kode_wilayah": "36.74.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.01"
+    },
+    {
+      "nama_wilayah": "Cilenggang",
+      "kode_wilayah": "36.74.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.01"
+    },
+    {
+      "nama_wilayah": "Serpong",
+      "kode_wilayah": "36.74.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.01"
+    }
+  ]
+}

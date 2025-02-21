@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Mekarmukti",
+      "kode_wilayah": "32.05.32.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.32"
+    },
+    {
+      "nama_wilayah": "Karangwangi",
+      "kode_wilayah": "32.05.32.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.32"
+    },
+    {
+      "nama_wilayah": "Jayabaya",
+      "kode_wilayah": "32.05.32.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.32"
+    },
+    {
+      "nama_wilayah": "Cijayana",
+      "kode_wilayah": "32.05.32.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.32"
+    },
+    {
+      "nama_wilayah": "Mekarsari",
+      "kode_wilayah": "32.05.32.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.32"
+    }
+  ]
+}

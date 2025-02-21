@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tunbes",
+      "kode_wilayah": "53.03.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.23"
+    },
+    {
+      "nama_wilayah": "Luniup",
+      "kode_wilayah": "53.03.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.23"
+    },
+    {
+      "nama_wilayah": "Matabesi",
+      "kode_wilayah": "53.03.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.23"
+    },
+    {
+      "nama_wilayah": "Oepuah",
+      "kode_wilayah": "53.03.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.23"
+    },
+    {
+      "nama_wilayah": "Kaubele",
+      "kode_wilayah": "53.03.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.23"
+    },
+    {
+      "nama_wilayah": "Oepuah Utara",
+      "kode_wilayah": "53.03.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.23"
+    },
+    {
+      "nama_wilayah": "Oepuah Selatan",
+      "kode_wilayah": "53.03.23.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.23"
+    }
+  ]
+}

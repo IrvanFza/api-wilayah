@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Yamara",
+      "kode_wilayah": "91.11.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.11",
+      "kode_kecamatan": "91.11.09"
+    },
+    {
+      "nama_wilayah": "Wembi",
+      "kode_wilayah": "91.11.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.11",
+      "kode_kecamatan": "91.11.09"
+    },
+    {
+      "nama_wilayah": "Wonorejo",
+      "kode_wilayah": "91.11.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.11",
+      "kode_kecamatan": "91.11.09"
+    },
+    {
+      "nama_wilayah": "Pyawi",
+      "kode_wilayah": "91.11.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.11",
+      "kode_kecamatan": "91.11.09"
+    },
+    {
+      "nama_wilayah": "Sawyatami",
+      "kode_wilayah": "91.11.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.11",
+      "kode_kecamatan": "91.11.09"
+    },
+    {
+      "nama_wilayah": "Wambes",
+      "kode_wilayah": "91.11.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.11",
+      "kode_kecamatan": "91.11.09"
+    },
+    {
+      "nama_wilayah": "Uskwar",
+      "kode_wilayah": "91.11.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.11",
+      "kode_kecamatan": "91.11.09"
+    }
+  ]
+}

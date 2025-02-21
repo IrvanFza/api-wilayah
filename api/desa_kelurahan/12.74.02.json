@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Tanjungbalai Kota III",
+      "kode_wilayah": "12.74.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.02"
+    },
+    {
+      "nama_wilayah": "Tanjungbalai Kota IV",
+      "kode_wilayah": "12.74.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.02"
+    },
+    {
+      "nama_wilayah": "Sejahtera",
+      "kode_wilayah": "12.74.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.02"
+    },
+    {
+      "nama_wilayah": "Kuala Silo Bestari",
+      "kode_wilayah": "12.74.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.02"
+    },
+    {
+      "nama_wilayah": "Matahalasan",
+      "kode_wilayah": "12.74.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.02"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Banjararum",
+      "kode_wilayah": "34.01.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.12"
+    },
+    {
+      "nama_wilayah": "Banjarasri",
+      "kode_wilayah": "34.01.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.12"
+    },
+    {
+      "nama_wilayah": "Banjarharjo",
+      "kode_wilayah": "34.01.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.12"
+    },
+    {
+      "nama_wilayah": "Banjaroyo",
+      "kode_wilayah": "34.01.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.12"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Molof",
+      "kode_wilayah": "91.11.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.11",
+      "kode_kecamatan": "91.11.03"
+    },
+    {
+      "nama_wilayah": "Senggi",
+      "kode_wilayah": "91.11.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.11",
+      "kode_kecamatan": "91.11.03"
+    },
+    {
+      "nama_wilayah": "Warlef",
+      "kode_wilayah": "91.11.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.11",
+      "kode_kecamatan": "91.11.03"
+    },
+    {
+      "nama_wilayah": "Usku",
+      "kode_wilayah": "91.11.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.11",
+      "kode_kecamatan": "91.11.03"
+    },
+    {
+      "nama_wilayah": "Woslay",
+      "kode_wilayah": "91.11.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.11",
+      "kode_kecamatan": "91.11.03"
+    },
+    {
+      "nama_wilayah": "Namla",
+      "kode_wilayah": "91.11.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.11",
+      "kode_kecamatan": "91.11.03"
+    },
+    {
+      "nama_wilayah": "Waley",
+      "kode_wilayah": "91.11.03.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.11",
+      "kode_kecamatan": "91.11.03"
+    }
+  ]
+}

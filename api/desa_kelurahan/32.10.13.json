@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Heuleut",
+      "kode_wilayah": "32.10.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.13"
+    },
+    {
+      "nama_wilayah": "Kadipaten",
+      "kode_wilayah": "32.10.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.13"
+    },
+    {
+      "nama_wilayah": "Babakananyar",
+      "kode_wilayah": "32.10.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.13"
+    },
+    {
+      "nama_wilayah": "Karangsambung",
+      "kode_wilayah": "32.10.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.13"
+    },
+    {
+      "nama_wilayah": "Liangjulang",
+      "kode_wilayah": "32.10.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.13"
+    },
+    {
+      "nama_wilayah": "Pagandon",
+      "kode_wilayah": "32.10.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.13"
+    },
+    {
+      "nama_wilayah": "Cipaku",
+      "kode_wilayah": "32.10.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.10",
+      "kode_kecamatan": "32.10.13"
+    }
+  ]
+}

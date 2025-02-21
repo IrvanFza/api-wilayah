@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Libuo",
+      "kode_wilayah": "75.04.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.05"
+    },
+    {
+      "nama_wilayah": "Pentadu",
+      "kode_wilayah": "75.04.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.05"
+    },
+    {
+      "nama_wilayah": "Siduan",
+      "kode_wilayah": "75.04.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.05"
+    },
+    {
+      "nama_wilayah": "Bunuyo",
+      "kode_wilayah": "75.04.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.05"
+    },
+    {
+      "nama_wilayah": "Sipayo",
+      "kode_wilayah": "75.04.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.05"
+    },
+    {
+      "nama_wilayah": "Soginti",
+      "kode_wilayah": "75.04.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.05"
+    },
+    {
+      "nama_wilayah": "Bumbulan",
+      "kode_wilayah": "75.04.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.05"
+    },
+    {
+      "nama_wilayah": "Maleo",
+      "kode_wilayah": "75.04.05.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.05"
+    },
+    {
+      "nama_wilayah": "Molamahu",
+      "kode_wilayah": "75.04.05.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.05"
+    },
+    {
+      "nama_wilayah": "Buhu Jaya",
+      "kode_wilayah": "75.04.05.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.05"
+    },
+    {
+      "nama_wilayah": "Kemiri",
+      "kode_wilayah": "75.04.05.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.05"
+    }
+  ]
+}

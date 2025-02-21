@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Karanggupito",
+      "kode_wilayah": "35.21.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.04"
+    },
+    {
+      "nama_wilayah": "Karangrejo",
+      "kode_wilayah": "35.21.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.04"
+    },
+    {
+      "nama_wilayah": "Simo",
+      "kode_wilayah": "35.21.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.04"
+    },
+    {
+      "nama_wilayah": "Ploso",
+      "kode_wilayah": "35.21.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.04"
+    },
+    {
+      "nama_wilayah": "Majasem",
+      "kode_wilayah": "35.21.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.04"
+    },
+    {
+      "nama_wilayah": "Kendal",
+      "kode_wilayah": "35.21.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.04"
+    },
+    {
+      "nama_wilayah": "Sidorejo",
+      "kode_wilayah": "35.21.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.04"
+    },
+    {
+      "nama_wilayah": "Gayam",
+      "kode_wilayah": "35.21.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.04"
+    },
+    {
+      "nama_wilayah": "Dadapan",
+      "kode_wilayah": "35.21.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.04"
+    },
+    {
+      "nama_wilayah": "Patalan",
+      "kode_wilayah": "35.21.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.04"
+    }
+  ]
+}

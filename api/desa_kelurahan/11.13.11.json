@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Seneren",
+      "kode_wilayah": "11.13.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.11"
+    },
+    {
+      "nama_wilayah": "Remukut",
+      "kode_wilayah": "11.13.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.11"
+    },
+    {
+      "nama_wilayah": "Kenyaran",
+      "kode_wilayah": "11.13.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.11"
+    },
+    {
+      "nama_wilayah": "Tetingi",
+      "kode_wilayah": "11.13.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.11"
+    },
+    {
+      "nama_wilayah": "Atu Kapur",
+      "kode_wilayah": "11.13.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.11"
+    },
+    {
+      "nama_wilayah": "Suri Musara",
+      "kode_wilayah": "11.13.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.11"
+    },
+    {
+      "nama_wilayah": "UPT Aih Selah",
+      "kode_wilayah": "11.13.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.11"
+    },
+    {
+      "nama_wilayah": "Cane Baru",
+      "kode_wilayah": "11.13.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.11"
+    },
+    {
+      "nama_wilayah": "Kurnia",
+      "kode_wilayah": "11.13.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.11"
+    }
+  ]
+}

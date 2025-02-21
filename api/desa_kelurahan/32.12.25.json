@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Bantarwaru",
+      "kode_wilayah": "32.12.25.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.25"
+    },
+    {
+      "nama_wilayah": "Sanca",
+      "kode_wilayah": "32.12.25.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.25"
+    },
+    {
+      "nama_wilayah": "Mekarjaya",
+      "kode_wilayah": "32.12.25.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.25"
+    },
+    {
+      "nama_wilayah": "Gantar",
+      "kode_wilayah": "32.12.25.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.25"
+    },
+    {
+      "nama_wilayah": "Situraja",
+      "kode_wilayah": "32.12.25.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.25"
+    },
+    {
+      "nama_wilayah": "Balareja",
+      "kode_wilayah": "32.12.25.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.25"
+    },
+    {
+      "nama_wilayah": "Mekarwaru",
+      "kode_wilayah": "32.12.25.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.25"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kuta Babo",
+      "kode_wilayah": "12.15.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.07"
+    },
+    {
+      "nama_wilayah": "Tinada",
+      "kode_wilayah": "12.15.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.07"
+    },
+    {
+      "nama_wilayah": "Silima Kuta",
+      "kode_wilayah": "12.15.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.07"
+    },
+    {
+      "nama_wilayah": "Mahala",
+      "kode_wilayah": "12.15.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.07"
+    },
+    {
+      "nama_wilayah": "Prongil",
+      "kode_wilayah": "12.15.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.07"
+    },
+    {
+      "nama_wilayah": "Buluh Tellang",
+      "kode_wilayah": "12.15.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.07"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Batulicin",
+      "kode_wilayah": "63.10.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.01"
+    },
+    {
+      "nama_wilayah": "Gunungtinggi",
+      "kode_wilayah": "63.10.01.1028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.01"
+    },
+    {
+      "nama_wilayah": "Segumbang",
+      "kode_wilayah": "63.10.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.01"
+    },
+    {
+      "nama_wilayah": "Kersik Putih",
+      "kode_wilayah": "63.10.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.01"
+    },
+    {
+      "nama_wilayah": "Maju Makmur",
+      "kode_wilayah": "63.10.01.2029",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.01"
+    },
+    {
+      "nama_wilayah": "Maju Bersama",
+      "kode_wilayah": "63.10.01.2030",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.01"
+    },
+    {
+      "nama_wilayah": "Sukamaju",
+      "kode_wilayah": "63.10.01.2031",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.01"
+    },
+    {
+      "nama_wilayah": "Polewali Marajae",
+      "kode_wilayah": "63.10.01.2032",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.01"
+    },
+    {
+      "nama_wilayah": "Danauindah",
+      "kode_wilayah": "63.10.01.2033",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.01"
+    }
+  ]
+}

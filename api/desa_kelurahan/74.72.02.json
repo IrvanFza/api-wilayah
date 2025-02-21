@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Wale",
+      "kode_wilayah": "74.72.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.02"
+    },
+    {
+      "nama_wilayah": "Tomba",
+      "kode_wilayah": "74.72.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.02"
+    },
+    {
+      "nama_wilayah": "Bataraguru",
+      "kode_wilayah": "74.72.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.02"
+    },
+    {
+      "nama_wilayah": "Wangkanapi",
+      "kode_wilayah": "74.72.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.02"
+    },
+    {
+      "nama_wilayah": "Batulo",
+      "kode_wilayah": "74.72.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.02"
+    },
+    {
+      "nama_wilayah": "Kadolo Katapi",
+      "kode_wilayah": "74.72.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.02"
+    },
+    {
+      "nama_wilayah": "Bukit Wolio Indah",
+      "kode_wilayah": "74.72.02.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.02"
+    }
+  ]
+}

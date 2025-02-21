@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Babadan",
+      "kode_wilayah": "35.21.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.14"
+    },
+    {
+      "nama_wilayah": "Pohkonyal",
+      "kode_wilayah": "35.21.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.14"
+    },
+    {
+      "nama_wilayah": "Sumber",
+      "kode_wilayah": "35.21.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.14"
+    },
+    {
+      "nama_wilayah": "Gandri",
+      "kode_wilayah": "35.21.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.14"
+    },
+    {
+      "nama_wilayah": "Pleset",
+      "kode_wilayah": "35.21.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.14"
+    },
+    {
+      "nama_wilayah": "Waruktengah",
+      "kode_wilayah": "35.21.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.14"
+    },
+    {
+      "nama_wilayah": "Ngompro",
+      "kode_wilayah": "35.21.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.14"
+    },
+    {
+      "nama_wilayah": "Pangkur",
+      "kode_wilayah": "35.21.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.14"
+    },
+    {
+      "nama_wilayah": "Paras",
+      "kode_wilayah": "35.21.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.21",
+      "kode_kecamatan": "35.21.14"
+    }
+  ]
+}

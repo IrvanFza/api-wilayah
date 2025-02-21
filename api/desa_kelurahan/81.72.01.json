@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Fiditan",
+      "kode_wilayah": "81.72.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.72",
+      "kode_kecamatan": "81.72.01"
+    },
+    {
+      "nama_wilayah": "Ngadi",
+      "kode_wilayah": "81.72.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.72",
+      "kode_kecamatan": "81.72.01"
+    },
+    {
+      "nama_wilayah": "Dullah",
+      "kode_wilayah": "81.72.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.72",
+      "kode_kecamatan": "81.72.01"
+    },
+    {
+      "nama_wilayah": "Labetawi",
+      "kode_wilayah": "81.72.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.72",
+      "kode_kecamatan": "81.72.01"
+    },
+    {
+      "nama_wilayah": "Tamedan",
+      "kode_wilayah": "81.72.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.72",
+      "kode_kecamatan": "81.72.01"
+    },
+    {
+      "nama_wilayah": "Ohoitahit",
+      "kode_wilayah": "81.72.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.72",
+      "kode_kecamatan": "81.72.01"
+    },
+    {
+      "nama_wilayah": "Ohoitel",
+      "kode_wilayah": "81.72.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.72",
+      "kode_kecamatan": "81.72.01"
+    },
+    {
+      "nama_wilayah": "Dullah Laut",
+      "kode_wilayah": "81.72.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.72",
+      "kode_kecamatan": "81.72.01"
+    }
+  ]
+}

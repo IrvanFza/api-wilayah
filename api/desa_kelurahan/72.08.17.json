@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Marantale",
+      "kode_wilayah": "72.08.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.17"
+    },
+    {
+      "nama_wilayah": "Tandaigi",
+      "kode_wilayah": "72.08.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.17"
+    },
+    {
+      "nama_wilayah": "Silanga",
+      "kode_wilayah": "72.08.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.17"
+    },
+    {
+      "nama_wilayah": "Siniu",
+      "kode_wilayah": "72.08.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.17"
+    },
+    {
+      "nama_wilayah": "Towera",
+      "kode_wilayah": "72.08.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.17"
+    },
+    {
+      "nama_wilayah": "Toraranga",
+      "kode_wilayah": "72.08.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.17"
+    },
+    {
+      "nama_wilayah": "Uevolo",
+      "kode_wilayah": "72.08.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.17"
+    },
+    {
+      "nama_wilayah": "Siniu Sayogindano",
+      "kode_wilayah": "72.08.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.17"
+    },
+    {
+      "nama_wilayah": "Silanga Barat",
+      "kode_wilayah": "72.08.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.17"
+    }
+  ]
+}

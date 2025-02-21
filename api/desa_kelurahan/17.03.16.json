@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Pasar Bembah",
+      "kode_wilayah": "17.03.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.16"
+    },
+    {
+      "nama_wilayah": "Tepi Laut",
+      "kode_wilayah": "17.03.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.16"
+    },
+    {
+      "nama_wilayah": "Pasar Kerkap",
+      "kode_wilayah": "17.03.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.16"
+    },
+    {
+      "nama_wilayah": "Air Napal",
+      "kode_wilayah": "17.03.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.16"
+    },
+    {
+      "nama_wilayah": "Talang Kering",
+      "kode_wilayah": "17.03.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.16"
+    },
+    {
+      "nama_wilayah": "Selubuk",
+      "kode_wilayah": "17.03.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.16"
+    },
+    {
+      "nama_wilayah": "Pasar Tebat",
+      "kode_wilayah": "17.03.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.16"
+    },
+    {
+      "nama_wilayah": "Lubuk Tanjung",
+      "kode_wilayah": "17.03.16.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.16"
+    },
+    {
+      "nama_wilayah": "Pukur",
+      "kode_wilayah": "17.03.16.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.16"
+    },
+    {
+      "nama_wilayah": "Pasar Palik",
+      "kode_wilayah": "17.03.16.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.16"
+    },
+    {
+      "nama_wilayah": "Tebing Kandang",
+      "kode_wilayah": "17.03.16.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.16"
+    },
+    {
+      "nama_wilayah": "Talang Jarang",
+      "kode_wilayah": "17.03.16.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.03",
+      "kode_kecamatan": "17.03.16"
+    }
+  ]
+}

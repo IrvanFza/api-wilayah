@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Dapurang",
+      "kode_wilayah": "76.01.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.05"
+    },
+    {
+      "nama_wilayah": "Benggaulu",
+      "kode_wilayah": "76.01.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.05"
+    },
+    {
+      "nama_wilayah": "Tirtabuana",
+      "kode_wilayah": "76.01.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.05"
+    },
+    {
+      "nama_wilayah": "Bulu Bonggu",
+      "kode_wilayah": "76.01.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.05"
+    },
+    {
+      "nama_wilayah": "Sarasa",
+      "kode_wilayah": "76.01.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.05"
+    }
+  ]
+}

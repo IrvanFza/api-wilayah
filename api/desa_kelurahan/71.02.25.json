@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pinaesaan",
+      "kode_wilayah": "71.02.25.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.25"
+    },
+    {
+      "nama_wilayah": "Tompaso Dua",
+      "kode_wilayah": "71.02.25.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.25"
+    },
+    {
+      "nama_wilayah": "Tompaso II Utara",
+      "kode_wilayah": "71.02.25.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.25"
+    },
+    {
+      "nama_wilayah": "Pinabetengan Utara",
+      "kode_wilayah": "71.02.25.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.25"
+    },
+    {
+      "nama_wilayah": "Pinabetengan",
+      "kode_wilayah": "71.02.25.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.25"
+    },
+    {
+      "nama_wilayah": "Pinabetengan Selatan",
+      "kode_wilayah": "71.02.25.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.25"
+    },
+    {
+      "nama_wilayah": "Tonsewer",
+      "kode_wilayah": "71.02.25.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.25"
+    },
+    {
+      "nama_wilayah": "Tonsewer Selatan",
+      "kode_wilayah": "71.02.25.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.25"
+    },
+    {
+      "nama_wilayah": "Touure",
+      "kode_wilayah": "71.02.25.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.25"
+    },
+    {
+      "nama_wilayah": "Touure Dua",
+      "kode_wilayah": "71.02.25.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.25"
+    }
+  ]
+}

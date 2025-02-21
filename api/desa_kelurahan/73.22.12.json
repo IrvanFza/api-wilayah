@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bungapati",
+      "kode_wilayah": "73.22.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.12"
+    },
+    {
+      "nama_wilayah": "Bungadidi",
+      "kode_wilayah": "73.22.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.12"
+    },
+    {
+      "nama_wilayah": "Poreang",
+      "kode_wilayah": "73.22.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.12"
+    },
+    {
+      "nama_wilayah": "Sumberdadi",
+      "kode_wilayah": "73.22.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.12"
+    },
+    {
+      "nama_wilayah": "Patila",
+      "kode_wilayah": "73.22.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.12"
+    },
+    {
+      "nama_wilayah": "Sidobinangun",
+      "kode_wilayah": "73.22.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.12"
+    },
+    {
+      "nama_wilayah": "Rampoang",
+      "kode_wilayah": "73.22.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.12"
+    },
+    {
+      "nama_wilayah": "Karondang",
+      "kode_wilayah": "73.22.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.12"
+    },
+    {
+      "nama_wilayah": "Munte",
+      "kode_wilayah": "73.22.12.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.12"
+    },
+    {
+      "nama_wilayah": "Sidomakmur",
+      "kode_wilayah": "73.22.12.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.22",
+      "kode_kecamatan": "73.22.12"
+    }
+  ]
+}

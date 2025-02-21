@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Curug Kulon",
+      "kode_wilayah": "36.03.17.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.17"
+    },
+    {
+      "nama_wilayah": "Sukabakti",
+      "kode_wilayah": "36.03.17.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.17"
+    },
+    {
+      "nama_wilayah": "Binong",
+      "kode_wilayah": "36.03.17.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.17"
+    },
+    {
+      "nama_wilayah": "Curug Wetan",
+      "kode_wilayah": "36.03.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.17"
+    },
+    {
+      "nama_wilayah": "Kadu",
+      "kode_wilayah": "36.03.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.17"
+    },
+    {
+      "nama_wilayah": "Kadu Jaya",
+      "kode_wilayah": "36.03.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.17"
+    },
+    {
+      "nama_wilayah": "Cukanggalih",
+      "kode_wilayah": "36.03.17.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.17"
+    }
+  ]
+}

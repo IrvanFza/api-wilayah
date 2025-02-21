@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kabianggama",
+      "kode_wilayah": "95.03.44.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.44"
+    },
+    {
+      "nama_wilayah": "Sohobma",
+      "kode_wilayah": "95.03.44.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.44"
+    },
+    {
+      "nama_wilayah": "Sohal",
+      "kode_wilayah": "95.03.44.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.44"
+    },
+    {
+      "nama_wilayah": "Bahabolma",
+      "kode_wilayah": "95.03.44.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.44"
+    },
+    {
+      "nama_wilayah": "Subayo",
+      "kode_wilayah": "95.03.44.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.44"
+    },
+    {
+      "nama_wilayah": "Buahun",
+      "kode_wilayah": "95.03.44.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.44"
+    },
+    {
+      "nama_wilayah": "Domul",
+      "kode_wilayah": "95.03.44.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.44"
+    }
+  ]
+}

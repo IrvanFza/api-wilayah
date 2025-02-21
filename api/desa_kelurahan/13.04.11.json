@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "total": 2,
+  "data": [
+    {
+      "nama_wilayah": "Atar",
+      "kode_wilayah": "13.04.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.11"
+    },
+    {
+      "nama_wilayah": "Padang Ganting",
+      "kode_wilayah": "13.04.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.11"
+    }
+  ]
+}

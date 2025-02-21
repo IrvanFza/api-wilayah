@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tabang",
+      "kode_wilayah": "76.03.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.10"
+    },
+    {
+      "nama_wilayah": "Tadokalua",
+      "kode_wilayah": "76.03.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.10"
+    },
+    {
+      "nama_wilayah": "Tabang Barat",
+      "kode_wilayah": "76.03.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.10"
+    },
+    {
+      "nama_wilayah": "Masupu",
+      "kode_wilayah": "76.03.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.10"
+    },
+    {
+      "nama_wilayah": "Kalama",
+      "kode_wilayah": "76.03.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.10"
+    },
+    {
+      "nama_wilayah": "Bakadisura",
+      "kode_wilayah": "76.03.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.10"
+    },
+    {
+      "nama_wilayah": "Salukona",
+      "kode_wilayah": "76.03.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.10"
+    }
+  ]
+}

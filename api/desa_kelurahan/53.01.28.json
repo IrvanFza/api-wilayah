@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Oelbiteno",
+      "kode_wilayah": "53.01.28.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.28"
+    },
+    {
+      "nama_wilayah": "Nonbaun",
+      "kode_wilayah": "53.01.28.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.28"
+    },
+    {
+      "nama_wilayah": "Nunsaen",
+      "kode_wilayah": "53.01.28.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.28"
+    },
+    {
+      "nama_wilayah": "Passi",
+      "kode_wilayah": "53.01.28.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.28"
+    }
+  ]
+}

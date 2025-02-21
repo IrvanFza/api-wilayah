@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Dubesi",
+      "kode_wilayah": "53.04.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.23"
+    },
+    {
+      "nama_wilayah": "Nanaet",
+      "kode_wilayah": "53.04.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.23"
+    },
+    {
+      "nama_wilayah": "Fohoeka",
+      "kode_wilayah": "53.04.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.23"
+    },
+    {
+      "nama_wilayah": "Nanaenoe",
+      "kode_wilayah": "53.04.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.23"
+    }
+  ]
+}

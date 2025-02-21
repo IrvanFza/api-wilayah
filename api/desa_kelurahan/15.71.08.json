@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Talang Jauh",
+      "kode_wilayah": "15.71.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.08"
+    },
+    {
+      "nama_wilayah": "Cempaka Putih",
+      "kode_wilayah": "15.71.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.08"
+    },
+    {
+      "nama_wilayah": "Kebun Handil",
+      "kode_wilayah": "15.71.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.08"
+    },
+    {
+      "nama_wilayah": "Lebak Bandung",
+      "kode_wilayah": "15.71.08.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.08"
+    },
+    {
+      "nama_wilayah": "Payo Lebar",
+      "kode_wilayah": "15.71.08.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.08"
+    },
+    {
+      "nama_wilayah": "Jelutung",
+      "kode_wilayah": "15.71.08.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.08"
+    },
+    {
+      "nama_wilayah": "Handil Jaya",
+      "kode_wilayah": "15.71.08.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.08"
+    }
+  ]
+}

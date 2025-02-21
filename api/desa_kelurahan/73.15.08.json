@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Cempa",
+      "kode_wilayah": "73.15.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.08"
+    },
+    {
+      "nama_wilayah": "Mangki",
+      "kode_wilayah": "73.15.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.08"
+    },
+    {
+      "nama_wilayah": "Mattunru Tunrue",
+      "kode_wilayah": "73.15.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.08"
+    },
+    {
+      "nama_wilayah": "Sikkuale",
+      "kode_wilayah": "73.15.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.08"
+    },
+    {
+      "nama_wilayah": "Tadang Palie",
+      "kode_wilayah": "73.15.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.08"
+    },
+    {
+      "nama_wilayah": "Salipolo",
+      "kode_wilayah": "73.15.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.08"
+    },
+    {
+      "nama_wilayah": "Tanra Tuo",
+      "kode_wilayah": "73.15.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.08"
+    }
+  ]
+}

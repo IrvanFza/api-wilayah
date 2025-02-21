@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Hulawa",
+      "kode_wilayah": "75.04.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.09"
+    },
+    {
+      "nama_wilayah": "Karya Indah",
+      "kode_wilayah": "75.04.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.09"
+    },
+    {
+      "nama_wilayah": "Taluduyunu",
+      "kode_wilayah": "75.04.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.09"
+    },
+    {
+      "nama_wilayah": "Buntulia Utara",
+      "kode_wilayah": "75.04.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.09"
+    },
+    {
+      "nama_wilayah": "Buntulia Tengah",
+      "kode_wilayah": "75.04.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.09"
+    },
+    {
+      "nama_wilayah": "Taluduyunu Utara",
+      "kode_wilayah": "75.04.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.09"
+    },
+    {
+      "nama_wilayah": "Sipatana",
+      "kode_wilayah": "75.04.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.09"
+    }
+  ]
+}

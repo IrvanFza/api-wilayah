@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Opas Indah",
+      "kode_wilayah": "19.71.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.02"
+    },
+    {
+      "nama_wilayah": "Gedung Nasional",
+      "kode_wilayah": "19.71.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.02"
+    },
+    {
+      "nama_wilayah": "Batin Tikal",
+      "kode_wilayah": "19.71.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.02"
+    },
+    {
+      "nama_wilayah": "Rawa Bangun",
+      "kode_wilayah": "19.71.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.02"
+    },
+    {
+      "nama_wilayah": "Kejaksaan",
+      "kode_wilayah": "19.71.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.02"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pasar Prabumulih I",
+      "kode_wilayah": "16.74.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.05"
+    },
+    {
+      "nama_wilayah": "Pasar Prabumulih II",
+      "kode_wilayah": "16.74.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.05"
+    },
+    {
+      "nama_wilayah": "Wonosari",
+      "kode_wilayah": "16.74.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.05"
+    },
+    {
+      "nama_wilayah": "Mangga Besar",
+      "kode_wilayah": "16.74.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.05"
+    },
+    {
+      "nama_wilayah": "Anak Petai",
+      "kode_wilayah": "16.74.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.05"
+    },
+    {
+      "nama_wilayah": "Sidomulyo",
+      "kode_wilayah": "16.74.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.05"
+    },
+    {
+      "nama_wilayah": "Sidogede",
+      "kode_wilayah": "16.74.05.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.74",
+      "kode_kecamatan": "16.74.05"
+    }
+  ]
+}

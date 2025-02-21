@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tampumia Radda",
+      "kode_wilayah": "73.17.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.07"
+    },
+    {
+      "nama_wilayah": "Tanamanai",
+      "kode_wilayah": "73.17.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.07"
+    },
+    {
+      "nama_wilayah": "Senga",
+      "kode_wilayah": "73.17.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.07"
+    },
+    {
+      "nama_wilayah": "Balo-Balo",
+      "kode_wilayah": "73.17.07.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.07"
+    },
+    {
+      "nama_wilayah": "Kurrusumanga",
+      "kode_wilayah": "73.17.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.07"
+    },
+    {
+      "nama_wilayah": "Belopa",
+      "kode_wilayah": "73.17.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.07"
+    },
+    {
+      "nama_wilayah": "Senga Selatan",
+      "kode_wilayah": "73.17.07.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.07"
+    },
+    {
+      "nama_wilayah": "Balubu",
+      "kode_wilayah": "73.17.07.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.07"
+    },
+    {
+      "nama_wilayah": "Pasamai",
+      "kode_wilayah": "73.17.07.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.07"
+    }
+  ]
+}

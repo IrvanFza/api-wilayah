@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Limpas",
+      "kode_wilayah": "32.12.31.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.31"
+    },
+    {
+      "nama_wilayah": "Mekarsari",
+      "kode_wilayah": "32.12.31.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.31"
+    },
+    {
+      "nama_wilayah": "Patrol Baru",
+      "kode_wilayah": "32.12.31.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.31"
+    },
+    {
+      "nama_wilayah": "Patrol Lor",
+      "kode_wilayah": "32.12.31.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.31"
+    },
+    {
+      "nama_wilayah": "Patrol",
+      "kode_wilayah": "32.12.31.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.31"
+    },
+    {
+      "nama_wilayah": "Bugel",
+      "kode_wilayah": "32.12.31.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.31"
+    },
+    {
+      "nama_wilayah": "Arjasari",
+      "kode_wilayah": "32.12.31.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.31"
+    },
+    {
+      "nama_wilayah": "Sukahaji",
+      "kode_wilayah": "32.12.31.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.31"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Melong",
+      "kode_wilayah": "32.77.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.77",
+      "kode_kecamatan": "32.77.01"
+    },
+    {
+      "nama_wilayah": "Cibeureum",
+      "kode_wilayah": "32.77.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.77",
+      "kode_kecamatan": "32.77.01"
+    },
+    {
+      "nama_wilayah": "Utama",
+      "kode_wilayah": "32.77.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.77",
+      "kode_kecamatan": "32.77.01"
+    },
+    {
+      "nama_wilayah": "Leuwigajah",
+      "kode_wilayah": "32.77.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.77",
+      "kode_kecamatan": "32.77.01"
+    },
+    {
+      "nama_wilayah": "Cibeber",
+      "kode_wilayah": "32.77.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.77",
+      "kode_kecamatan": "32.77.01"
+    }
+  ]
+}

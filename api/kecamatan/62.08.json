@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sukamara",
+      "kode_wilayah": "62.08.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.08",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Jelai",
+      "kode_wilayah": "62.08.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.08",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Balai Riam",
+      "kode_wilayah": "62.08.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.08",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Pantai Lunci",
+      "kode_wilayah": "62.08.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.08",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Permata Kecubung",
+      "kode_wilayah": "62.08.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.08",
+      "kode_provinsi": "62"
+    }
+  ]
+}

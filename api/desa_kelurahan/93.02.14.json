@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Yaniruma",
+      "kode_wilayah": "93.02.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.14"
+    },
+    {
+      "nama_wilayah": "Manggemahe",
+      "kode_wilayah": "93.02.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.14"
+    },
+    {
+      "nama_wilayah": "Fefero",
+      "kode_wilayah": "93.02.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.14"
+    }
+  ]
+}

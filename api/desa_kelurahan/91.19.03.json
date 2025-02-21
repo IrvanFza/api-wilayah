@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Yawerma",
+      "kode_wilayah": "91.19.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.03"
+    },
+    {
+      "nama_wilayah": "Wombonda",
+      "kode_wilayah": "91.19.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.03"
+    },
+    {
+      "nama_wilayah": "Marsram",
+      "kode_wilayah": "91.19.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.03"
+    },
+    {
+      "nama_wilayah": "Duber",
+      "kode_wilayah": "91.19.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.03"
+    },
+    {
+      "nama_wilayah": "Sauyas",
+      "kode_wilayah": "91.19.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.03"
+    },
+    {
+      "nama_wilayah": "Wafor",
+      "kode_wilayah": "91.19.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.03"
+    },
+    {
+      "nama_wilayah": "Sorendidori",
+      "kode_wilayah": "91.19.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.03"
+    },
+    {
+      "nama_wilayah": "Waryesi",
+      "kode_wilayah": "91.19.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.03"
+    },
+    {
+      "nama_wilayah": "Syurdori",
+      "kode_wilayah": "91.19.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.03"
+    },
+    {
+      "nama_wilayah": "Douwbo",
+      "kode_wilayah": "91.19.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.03"
+    }
+  ]
+}

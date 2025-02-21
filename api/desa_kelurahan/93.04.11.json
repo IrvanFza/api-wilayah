@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Yamas",
+      "kode_wilayah": "93.04.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.11"
+    },
+    {
+      "nama_wilayah": "Yeni",
+      "kode_wilayah": "93.04.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.11"
+    },
+    {
+      "nama_wilayah": "Omor",
+      "kode_wilayah": "93.04.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.11"
+    },
+    {
+      "nama_wilayah": "Jufri",
+      "kode_wilayah": "93.04.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.11"
+    },
+    {
+      "nama_wilayah": "Yaun",
+      "kode_wilayah": "93.04.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.11"
+    },
+    {
+      "nama_wilayah": "Onavai",
+      "kode_wilayah": "93.04.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.04",
+      "kode_kecamatan": "93.04.11"
+    }
+  ]
+}

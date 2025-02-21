@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Cimanis",
+      "kode_wilayah": "36.01.35.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.35"
+    },
+    {
+      "nama_wilayah": "Teluklada",
+      "kode_wilayah": "36.01.35.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.35"
+    },
+    {
+      "nama_wilayah": "Kertaraharja",
+      "kode_wilayah": "36.01.35.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.35"
+    },
+    {
+      "nama_wilayah": "Bojen",
+      "kode_wilayah": "36.01.35.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.35"
+    },
+    {
+      "nama_wilayah": "Kutamekar",
+      "kode_wilayah": "36.01.35.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.35"
+    },
+    {
+      "nama_wilayah": "Sobang",
+      "kode_wilayah": "36.01.35.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.35"
+    },
+    {
+      "nama_wilayah": "Pangkalan",
+      "kode_wilayah": "36.01.35.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.35"
+    },
+    {
+      "nama_wilayah": "Bojenwetan",
+      "kode_wilayah": "36.01.35.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.35"
+    }
+  ]
+}

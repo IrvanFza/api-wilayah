@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lepak Aru",
+      "kode_wilayah": "65.01.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.07"
+    },
+    {
+      "nama_wilayah": "Long Lasan",
+      "kode_wilayah": "65.01.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.07"
+    },
+    {
+      "nama_wilayah": "Long Peso",
+      "kode_wilayah": "65.01.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.07"
+    },
+    {
+      "nama_wilayah": "Long Bia",
+      "kode_wilayah": "65.01.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.07"
+    },
+    {
+      "nama_wilayah": "Muara Pangean",
+      "kode_wilayah": "65.01.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.07"
+    },
+    {
+      "nama_wilayah": "Long Lian",
+      "kode_wilayah": "65.01.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.07"
+    },
+    {
+      "nama_wilayah": "Long Pelaah",
+      "kode_wilayah": "65.01.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.07"
+    },
+    {
+      "nama_wilayah": "Long Lejuh",
+      "kode_wilayah": "65.01.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.07"
+    },
+    {
+      "nama_wilayah": "Long Pelban",
+      "kode_wilayah": "65.01.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.07"
+    },
+    {
+      "nama_wilayah": "Long Buang",
+      "kode_wilayah": "65.01.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.07"
+    }
+  ]
+}

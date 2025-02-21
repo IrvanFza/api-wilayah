@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lenek",
+      "kode_wilayah": "52.03.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.21"
+    },
+    {
+      "nama_wilayah": "Lenek Lauk",
+      "kode_wilayah": "52.03.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.21"
+    },
+    {
+      "nama_wilayah": "Lenek Daya",
+      "kode_wilayah": "52.03.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.21"
+    },
+    {
+      "nama_wilayah": "Lenek Baru",
+      "kode_wilayah": "52.03.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.21"
+    },
+    {
+      "nama_wilayah": "Lenek Kalibambang",
+      "kode_wilayah": "52.03.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.21"
+    },
+    {
+      "nama_wilayah": "Lenek Pesiraman",
+      "kode_wilayah": "52.03.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.21"
+    },
+    {
+      "nama_wilayah": "Lenek Ramban Biak",
+      "kode_wilayah": "52.03.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.21"
+    },
+    {
+      "nama_wilayah": "Lenek Duren",
+      "kode_wilayah": "52.03.21.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.21"
+    },
+    {
+      "nama_wilayah": "Sukarema",
+      "kode_wilayah": "52.03.21.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.21"
+    },
+    {
+      "nama_wilayah": "Kalijaga Baru",
+      "kode_wilayah": "52.03.21.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.03",
+      "kode_kecamatan": "52.03.21"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Madawat",
+      "kode_wilayah": "53.07.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.05"
+    },
+    {
+      "nama_wilayah": "Nangalimang",
+      "kode_wilayah": "53.07.05.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.05"
+    },
+    {
+      "nama_wilayah": "Kabor",
+      "kode_wilayah": "53.07.05.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.05"
+    },
+    {
+      "nama_wilayah": "Kota Uneng",
+      "kode_wilayah": "53.07.05.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.05"
+    },
+    {
+      "nama_wilayah": "Pemana",
+      "kode_wilayah": "53.07.05.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.05"
+    },
+    {
+      "nama_wilayah": "Samparong",
+      "kode_wilayah": "53.07.05.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.05"
+    },
+    {
+      "nama_wilayah": "Gunung Sari",
+      "kode_wilayah": "53.07.05.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.05"
+    }
+  ]
+}

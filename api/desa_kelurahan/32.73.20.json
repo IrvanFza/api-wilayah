@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Antapani Kulon",
+      "kode_wilayah": "32.73.20.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.20"
+    },
+    {
+      "nama_wilayah": "Antapani Tengah",
+      "kode_wilayah": "32.73.20.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.20"
+    },
+    {
+      "nama_wilayah": "Antapani Kidul",
+      "kode_wilayah": "32.73.20.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.20"
+    },
+    {
+      "nama_wilayah": "Antapani Wetan",
+      "kode_wilayah": "32.73.20.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.20"
+    }
+  ]
+}

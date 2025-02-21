@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Demangrejo",
+      "kode_wilayah": "34.01.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.06"
+    },
+    {
+      "nama_wilayah": "Srikayangan",
+      "kode_wilayah": "34.01.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.06"
+    },
+    {
+      "nama_wilayah": "Tuksono",
+      "kode_wilayah": "34.01.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.06"
+    },
+    {
+      "nama_wilayah": "Salamrejo",
+      "kode_wilayah": "34.01.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.06"
+    },
+    {
+      "nama_wilayah": "Sukoreno",
+      "kode_wilayah": "34.01.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.06"
+    },
+    {
+      "nama_wilayah": "Kaliagung",
+      "kode_wilayah": "34.01.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.06"
+    },
+    {
+      "nama_wilayah": "Sentolo",
+      "kode_wilayah": "34.01.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.06"
+    },
+    {
+      "nama_wilayah": "Banguncipto",
+      "kode_wilayah": "34.01.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.01",
+      "kode_kecamatan": "34.01.06"
+    }
+  ]
+}

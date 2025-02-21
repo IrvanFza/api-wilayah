@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Pejengkolan",
+      "kode_wilayah": "33.05.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.05",
+      "kode_kecamatan": "33.05.24"
+    },
+    {
+      "nama_wilayah": "Balingasal",
+      "kode_wilayah": "33.05.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.05",
+      "kode_kecamatan": "33.05.24"
+    },
+    {
+      "nama_wilayah": "Merden",
+      "kode_wilayah": "33.05.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.05",
+      "kode_kecamatan": "33.05.24"
+    },
+    {
+      "nama_wilayah": "Kalijering",
+      "kode_wilayah": "33.05.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.05",
+      "kode_kecamatan": "33.05.24"
+    },
+    {
+      "nama_wilayah": "Kaligubug",
+      "kode_wilayah": "33.05.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.05",
+      "kode_kecamatan": "33.05.24"
+    },
+    {
+      "nama_wilayah": "Sidototo",
+      "kode_wilayah": "33.05.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.05",
+      "kode_kecamatan": "33.05.24"
+    },
+    {
+      "nama_wilayah": "Rahayu",
+      "kode_wilayah": "33.05.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.05",
+      "kode_kecamatan": "33.05.24"
+    },
+    {
+      "nama_wilayah": "Sendangdalem",
+      "kode_wilayah": "33.05.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.05",
+      "kode_kecamatan": "33.05.24"
+    },
+    {
+      "nama_wilayah": "Padureso",
+      "kode_wilayah": "33.05.24.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.05",
+      "kode_kecamatan": "33.05.24"
+    }
+  ]
+}

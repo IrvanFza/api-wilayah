@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Ilwaki",
+      "kode_wilayah": "81.08.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.06"
+    },
+    {
+      "nama_wilayah": "Ilputih",
+      "kode_wilayah": "81.08.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.06"
+    },
+    {
+      "nama_wilayah": "Mahuan",
+      "kode_wilayah": "81.08.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.06"
+    },
+    {
+      "nama_wilayah": "Masapun",
+      "kode_wilayah": "81.08.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.06"
+    },
+    {
+      "nama_wilayah": "Arnau",
+      "kode_wilayah": "81.08.06.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.06"
+    },
+    {
+      "nama_wilayah": "Hiay",
+      "kode_wilayah": "81.08.06.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.06"
+    }
+  ]
+}

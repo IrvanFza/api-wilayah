@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Suga Suga Hutagodang",
+      "kode_wilayah": "12.01.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.16"
+    },
+    {
+      "nama_wilayah": "Suka Maju",
+      "kode_wilayah": "12.01.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.16"
+    },
+    {
+      "nama_wilayah": "Makmur",
+      "kode_wilayah": "12.01.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.16"
+    },
+    {
+      "nama_wilayah": "Pasaribu Tobing",
+      "kode_wilayah": "12.01.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.16"
+    },
+    {
+      "nama_wilayah": "Aek Nadua",
+      "kode_wilayah": "12.01.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.16"
+    },
+    {
+      "nama_wilayah": "Simargarap",
+      "kode_wilayah": "12.01.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.16"
+    },
+    {
+      "nama_wilayah": "Sidaling",
+      "kode_wilayah": "12.01.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.16"
+    },
+    {
+      "nama_wilayah": "Sipakpahi",
+      "kode_wilayah": "12.01.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.16"
+    },
+    {
+      "nama_wilayah": "PO Simargarap",
+      "kode_wilayah": "12.01.16.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.16"
+    }
+  ]
+}

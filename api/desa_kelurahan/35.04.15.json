@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Besole",
+      "kode_wilayah": "35.04.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.15"
+    },
+    {
+      "nama_wilayah": "Tanggulwelahan",
+      "kode_wilayah": "35.04.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.15"
+    },
+    {
+      "nama_wilayah": "Besuki",
+      "kode_wilayah": "35.04.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.15"
+    },
+    {
+      "nama_wilayah": "Keboireng",
+      "kode_wilayah": "35.04.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.15"
+    },
+    {
+      "nama_wilayah": "Tanggulturus",
+      "kode_wilayah": "35.04.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.15"
+    },
+    {
+      "nama_wilayah": "Sedayugunung",
+      "kode_wilayah": "35.04.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.15"
+    },
+    {
+      "nama_wilayah": "Tanggulkundung",
+      "kode_wilayah": "35.04.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.15"
+    },
+    {
+      "nama_wilayah": "WatesKroyo",
+      "kode_wilayah": "35.04.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.15"
+    },
+    {
+      "nama_wilayah": "Siyotobagus",
+      "kode_wilayah": "35.04.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.15"
+    },
+    {
+      "nama_wilayah": "Tulungrejo",
+      "kode_wilayah": "35.04.15.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.15"
+    }
+  ]
+}

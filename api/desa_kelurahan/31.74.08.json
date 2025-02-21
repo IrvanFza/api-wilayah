@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Pancoran",
+      "kode_wilayah": "31.74.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.08"
+    },
+    {
+      "nama_wilayah": "Kalibata",
+      "kode_wilayah": "31.74.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.08"
+    },
+    {
+      "nama_wilayah": "Rawajati",
+      "kode_wilayah": "31.74.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.08"
+    },
+    {
+      "nama_wilayah": "Duren Tiga",
+      "kode_wilayah": "31.74.08.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.08"
+    },
+    {
+      "nama_wilayah": "Pengadegan",
+      "kode_wilayah": "31.74.08.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.08"
+    },
+    {
+      "nama_wilayah": "Cikoko",
+      "kode_wilayah": "31.74.08.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.08"
+    }
+  ]
+}

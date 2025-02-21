@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Kasongan Baru",
+      "kode_wilayah": "62.06.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.02"
+    },
+    {
+      "nama_wilayah": "Kasongan Lama",
+      "kode_wilayah": "62.06.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.02"
+    },
+    {
+      "nama_wilayah": "Tewang Kadamba",
+      "kode_wilayah": "62.06.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.02"
+    },
+    {
+      "nama_wilayah": "Tumbang Liting",
+      "kode_wilayah": "62.06.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.02"
+    },
+    {
+      "nama_wilayah": "Talian Kereng",
+      "kode_wilayah": "62.06.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.02"
+    },
+    {
+      "nama_wilayah": "Banut Kalanaman",
+      "kode_wilayah": "62.06.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.02"
+    },
+    {
+      "nama_wilayah": "Talangkah",
+      "kode_wilayah": "62.06.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.02"
+    },
+    {
+      "nama_wilayah": "Hampalit",
+      "kode_wilayah": "62.06.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.02"
+    }
+  ]
+}

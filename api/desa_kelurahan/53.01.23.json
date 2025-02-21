@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Akle",
+      "kode_wilayah": "53.01.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.23"
+    },
+    {
+      "nama_wilayah": "Uitiuh Ana",
+      "kode_wilayah": "53.01.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.23"
+    },
+    {
+      "nama_wilayah": "Onansila",
+      "kode_wilayah": "53.01.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.23"
+    },
+    {
+      "nama_wilayah": "Uitiuh Tuan",
+      "kode_wilayah": "53.01.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.23"
+    },
+    {
+      "nama_wilayah": "Naikean",
+      "kode_wilayah": "53.01.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.23"
+    },
+    {
+      "nama_wilayah": "Uiboa",
+      "kode_wilayah": "53.01.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.23"
+    }
+  ]
+}

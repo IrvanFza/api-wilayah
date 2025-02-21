@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Tosuraya",
+      "kode_wilayah": "71.07.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.01"
+    },
+    {
+      "nama_wilayah": "Wawali",
+      "kode_wilayah": "71.07.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.01"
+    },
+    {
+      "nama_wilayah": "Lowu Dua",
+      "kode_wilayah": "71.07.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.01"
+    },
+    {
+      "nama_wilayah": "Lowu Satu",
+      "kode_wilayah": "71.07.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.01"
+    },
+    {
+      "nama_wilayah": "Lowu Utara",
+      "kode_wilayah": "71.07.01.1016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.01"
+    },
+    {
+      "nama_wilayah": "Nataan",
+      "kode_wilayah": "71.07.01.1017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.01"
+    },
+    {
+      "nama_wilayah": "Tosuraya Barat",
+      "kode_wilayah": "71.07.01.1018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.01"
+    },
+    {
+      "nama_wilayah": "Tosuraya Selatan",
+      "kode_wilayah": "71.07.01.1019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.01"
+    },
+    {
+      "nama_wilayah": "Wawali Pasan",
+      "kode_wilayah": "71.07.01.1020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.01"
+    },
+    {
+      "nama_wilayah": "Rasi",
+      "kode_wilayah": "71.07.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.01"
+    },
+    {
+      "nama_wilayah": "Rasi Satu",
+      "kode_wilayah": "71.07.01.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.07",
+      "kode_kecamatan": "71.07.01"
+    }
+  ]
+}

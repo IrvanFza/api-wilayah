@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Paowan",
+      "kode_wilayah": "35.12.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.06"
+    },
+    {
+      "nama_wilayah": "Sumberkolak",
+      "kode_wilayah": "35.12.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.06"
+    },
+    {
+      "nama_wilayah": "Wringinanom",
+      "kode_wilayah": "35.12.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.06"
+    },
+    {
+      "nama_wilayah": "Kilensari",
+      "kode_wilayah": "35.12.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.06"
+    },
+    {
+      "nama_wilayah": "Peleyan",
+      "kode_wilayah": "35.12.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.06"
+    },
+    {
+      "nama_wilayah": "Alasmalang",
+      "kode_wilayah": "35.12.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.06"
+    },
+    {
+      "nama_wilayah": "Duwet",
+      "kode_wilayah": "35.12.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.06"
+    },
+    {
+      "nama_wilayah": "Gelung",
+      "kode_wilayah": "35.12.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.06"
+    }
+  ]
+}

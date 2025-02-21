@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Unito",
+      "kode_wilayah": "94.06.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.05"
+    },
+    {
+      "nama_wilayah": "Sukikai",
+      "kode_wilayah": "94.06.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.05"
+    },
+    {
+      "nama_wilayah": "Iyaro",
+      "kode_wilayah": "94.06.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.05"
+    },
+    {
+      "nama_wilayah": "Wigoumakida",
+      "kode_wilayah": "94.06.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.05"
+    }
+  ]
+}

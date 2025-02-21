@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Kembes II",
+      "kode_wilayah": "71.02.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.14"
+    },
+    {
+      "nama_wilayah": "Kembes I",
+      "kode_wilayah": "71.02.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.14"
+    },
+    {
+      "nama_wilayah": "Toumbuluan",
+      "kode_wilayah": "71.02.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.14"
+    },
+    {
+      "nama_wilayah": "Koka",
+      "kode_wilayah": "71.02.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.14"
+    },
+    {
+      "nama_wilayah": "Suluan",
+      "kode_wilayah": "71.02.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.14"
+    },
+    {
+      "nama_wilayah": "Kamangta",
+      "kode_wilayah": "71.02.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.14"
+    },
+    {
+      "nama_wilayah": "Sawangan",
+      "kode_wilayah": "71.02.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.14"
+    },
+    {
+      "nama_wilayah": "Rumengkor",
+      "kode_wilayah": "71.02.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.14"
+    },
+    {
+      "nama_wilayah": "Tikela",
+      "kode_wilayah": "71.02.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.14"
+    },
+    {
+      "nama_wilayah": "Rumengkor Satu",
+      "kode_wilayah": "71.02.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.14"
+    },
+    {
+      "nama_wilayah": "Rumengkor Dua",
+      "kode_wilayah": "71.02.14.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.14"
+    }
+  ]
+}

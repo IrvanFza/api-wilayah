@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Guradog",
+      "kode_wilayah": "36.02.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.23"
+    },
+    {
+      "nama_wilayah": "Curugbitung",
+      "kode_wilayah": "36.02.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.23"
+    },
+    {
+      "nama_wilayah": "Candi",
+      "kode_wilayah": "36.02.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.23"
+    },
+    {
+      "nama_wilayah": "Mayak",
+      "kode_wilayah": "36.02.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.23"
+    },
+    {
+      "nama_wilayah": "Cipining",
+      "kode_wilayah": "36.02.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.23"
+    },
+    {
+      "nama_wilayah": "Cilayang",
+      "kode_wilayah": "36.02.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.23"
+    },
+    {
+      "nama_wilayah": "Ciburuy",
+      "kode_wilayah": "36.02.23.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.23"
+    },
+    {
+      "nama_wilayah": "Sekarwangi",
+      "kode_wilayah": "36.02.23.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.23"
+    },
+    {
+      "nama_wilayah": "Cidadap",
+      "kode_wilayah": "36.02.23.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.23"
+    },
+    {
+      "nama_wilayah": "Lebakasih",
+      "kode_wilayah": "36.02.23.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.23"
+    }
+  ]
+}

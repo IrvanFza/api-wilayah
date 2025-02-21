@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Yeloba",
+      "kode_wilayah": "93.03.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.03",
+      "kode_kecamatan": "93.03.13"
+    },
+    {
+      "nama_wilayah": "Konebi",
+      "kode_wilayah": "93.03.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.03",
+      "kode_kecamatan": "93.03.13"
+    },
+    {
+      "nama_wilayah": "Sibi",
+      "kode_wilayah": "93.03.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.03",
+      "kode_kecamatan": "93.03.13"
+    },
+    {
+      "nama_wilayah": "Tagaimon Sino",
+      "kode_wilayah": "93.03.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.03",
+      "kode_kecamatan": "93.03.13"
+    },
+    {
+      "nama_wilayah": "Tagaimon Karome",
+      "kode_wilayah": "93.03.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.03",
+      "kode_kecamatan": "93.03.13"
+    }
+  ]
+}

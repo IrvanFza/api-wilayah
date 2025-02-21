@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Padang Selatan",
+      "kode_wilayah": "13.71.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.71",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Padang Timur",
+      "kode_wilayah": "13.71.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.71",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Padang Barat",
+      "kode_wilayah": "13.71.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.71",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Padang Utara",
+      "kode_wilayah": "13.71.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.71",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Bungus Teluk Kabung",
+      "kode_wilayah": "13.71.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.71",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Lubuk Begalung",
+      "kode_wilayah": "13.71.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.71",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Lubuk Kilangan",
+      "kode_wilayah": "13.71.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.71",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Pauh",
+      "kode_wilayah": "13.71.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.71",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Kuranji",
+      "kode_wilayah": "13.71.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.71",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Nanggalo",
+      "kode_wilayah": "13.71.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.71",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Koto Tangah",
+      "kode_wilayah": "13.71.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.71",
+      "kode_provinsi": "13"
+    }
+  ]
+}

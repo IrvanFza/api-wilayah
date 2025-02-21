@@ -1,0 +1,110 @@
+{
+  "status": "success",
+  "total": 13,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Pinang",
+      "kode_wilayah": "16.10.12.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.12"
+    },
+    {
+      "nama_wilayah": "Serijabo",
+      "kode_wilayah": "16.10.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.12"
+    },
+    {
+      "nama_wilayah": "Sungai Pinang II",
+      "kode_wilayah": "16.10.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.12"
+    },
+    {
+      "nama_wilayah": "Talang Dukun",
+      "kode_wilayah": "16.10.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.12"
+    },
+    {
+      "nama_wilayah": "Tanjung Serian",
+      "kode_wilayah": "16.10.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.12"
+    },
+    {
+      "nama_wilayah": "Penyandingan",
+      "kode_wilayah": "16.10.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.12"
+    },
+    {
+      "nama_wilayah": "Sungai Pinang III",
+      "kode_wilayah": "16.10.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.12"
+    },
+    {
+      "nama_wilayah": "Pinang Jaya",
+      "kode_wilayah": "16.10.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.12"
+    },
+    {
+      "nama_wilayah": "Sungai Pinang I",
+      "kode_wilayah": "16.10.12.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.12"
+    },
+    {
+      "nama_wilayah": "Pinang Mas",
+      "kode_wilayah": "16.10.12.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.12"
+    },
+    {
+      "nama_wilayah": "S. Pinang Lagati",
+      "kode_wilayah": "16.10.12.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.12"
+    },
+    {
+      "nama_wilayah": "S. Pinang Nibung",
+      "kode_wilayah": "16.10.12.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.12"
+    },
+    {
+      "nama_wilayah": "Seri Jabo Baru",
+      "kode_wilayah": "16.10.12.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.10",
+      "kode_kecamatan": "16.10.12"
+    }
+  ]
+}

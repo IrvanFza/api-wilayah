@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Panglayungan",
+      "kode_wilayah": "32.78.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.02"
+    },
+    {
+      "nama_wilayah": "Cipedes",
+      "kode_wilayah": "32.78.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.02"
+    },
+    {
+      "nama_wilayah": "Nagarasari",
+      "kode_wilayah": "32.78.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.02"
+    },
+    {
+      "nama_wilayah": "Sukamanah",
+      "kode_wilayah": "32.78.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.02"
+    }
+  ]
+}

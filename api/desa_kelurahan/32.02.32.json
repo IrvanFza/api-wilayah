@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Parungseah",
+      "kode_wilayah": "32.02.32.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.32"
+    },
+    {
+      "nama_wilayah": "Sudajayagirang",
+      "kode_wilayah": "32.02.32.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.32"
+    },
+    {
+      "nama_wilayah": "Karawang",
+      "kode_wilayah": "32.02.32.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.32"
+    },
+    {
+      "nama_wilayah": "Warnasari",
+      "kode_wilayah": "32.02.32.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.32"
+    },
+    {
+      "nama_wilayah": "Sukajaya",
+      "kode_wilayah": "32.02.32.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.32"
+    },
+    {
+      "nama_wilayah": "Perbawati",
+      "kode_wilayah": "32.02.32.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.32"
+    }
+  ]
+}

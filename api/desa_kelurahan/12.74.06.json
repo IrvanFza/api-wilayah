@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Pulau Simardan",
+      "kode_wilayah": "12.74.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.06"
+    },
+    {
+      "nama_wilayah": "Semula Jadi",
+      "kode_wilayah": "12.74.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.06"
+    },
+    {
+      "nama_wilayah": "Selat Lancang",
+      "kode_wilayah": "12.74.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.06"
+    },
+    {
+      "nama_wilayah": "Bunga Tanjung",
+      "kode_wilayah": "12.74.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.06"
+    },
+    {
+      "nama_wilayah": "Selat Tanjung Medan",
+      "kode_wilayah": "12.74.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.06"
+    }
+  ]
+}

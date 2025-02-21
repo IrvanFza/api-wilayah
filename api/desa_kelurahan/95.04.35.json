@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Telenggeme",
+      "kode_wilayah": "95.04.35.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.35"
+    },
+    {
+      "nama_wilayah": "Aukuni",
+      "kode_wilayah": "95.04.35.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.35"
+    },
+    {
+      "nama_wilayah": "Tenek",
+      "kode_wilayah": "95.04.35.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.35"
+    },
+    {
+      "nama_wilayah": "Kimunuk",
+      "kode_wilayah": "95.04.35.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.35"
+    },
+    {
+      "nama_wilayah": "Kimugu",
+      "kode_wilayah": "95.04.35.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.35"
+    },
+    {
+      "nama_wilayah": "Yagagobak",
+      "kode_wilayah": "95.04.35.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.35"
+    },
+    {
+      "nama_wilayah": "Linggira",
+      "kode_wilayah": "95.04.35.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.35"
+    },
+    {
+      "nama_wilayah": "Wekaru",
+      "kode_wilayah": "95.04.35.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.35"
+    },
+    {
+      "nama_wilayah": "Dolunggun",
+      "kode_wilayah": "95.04.35.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.35"
+    },
+    {
+      "nama_wilayah": "Kagi",
+      "kode_wilayah": "95.04.35.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.35"
+    }
+  ]
+}

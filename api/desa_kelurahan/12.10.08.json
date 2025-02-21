@@ -1,0 +1,110 @@
+{
+  "status": "success",
+  "total": 13,
+  "data": [
+    {
+      "nama_wilayah": "Negeri Lama",
+      "kode_wilayah": "12.10.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.08"
+    },
+    {
+      "nama_wilayah": "Negeri Baru",
+      "kode_wilayah": "12.10.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.08"
+    },
+    {
+      "nama_wilayah": "Perkebunan Sennah",
+      "kode_wilayah": "12.10.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.08"
+    },
+    {
+      "nama_wilayah": "Perkebunan Negeri Lama",
+      "kode_wilayah": "12.10.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.08"
+    },
+    {
+      "nama_wilayah": "Perkebunan Bilah",
+      "kode_wilayah": "12.10.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.08"
+    },
+    {
+      "nama_wilayah": "Kampung Bilah",
+      "kode_wilayah": "12.10.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.08"
+    },
+    {
+      "nama_wilayah": "Negeri Lama Seberang",
+      "kode_wilayah": "12.10.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.08"
+    },
+    {
+      "nama_wilayah": "Sei Tampang",
+      "kode_wilayah": "12.10.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.08"
+    },
+    {
+      "nama_wilayah": "Selat Besar",
+      "kode_wilayah": "12.10.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.08"
+    },
+    {
+      "nama_wilayah": "Tanjung Haloban",
+      "kode_wilayah": "12.10.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.08"
+    },
+    {
+      "nama_wilayah": "Sidomulyo",
+      "kode_wilayah": "12.10.08.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.08"
+    },
+    {
+      "nama_wilayah": "Sei Tarolat",
+      "kode_wilayah": "12.10.08.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.08"
+    },
+    {
+      "nama_wilayah": "Sei Kasih",
+      "kode_wilayah": "12.10.08.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.08"
+    }
+  ]
+}

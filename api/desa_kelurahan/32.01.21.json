@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Malasari",
+      "kode_wilayah": "32.01.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.21"
+    },
+    {
+      "nama_wilayah": "Curugbitung",
+      "kode_wilayah": "32.01.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.21"
+    },
+    {
+      "nama_wilayah": "Cisarua",
+      "kode_wilayah": "32.01.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.21"
+    },
+    {
+      "nama_wilayah": "Bantarkaret",
+      "kode_wilayah": "32.01.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.21"
+    },
+    {
+      "nama_wilayah": "Hambaro",
+      "kode_wilayah": "32.01.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.21"
+    },
+    {
+      "nama_wilayah": "Kalongliud",
+      "kode_wilayah": "32.01.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.21"
+    },
+    {
+      "nama_wilayah": "Nanggung",
+      "kode_wilayah": "32.01.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.21"
+    },
+    {
+      "nama_wilayah": "Parakanmuncang",
+      "kode_wilayah": "32.01.21.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.21"
+    },
+    {
+      "nama_wilayah": "Pangkaljaya",
+      "kode_wilayah": "32.01.21.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.21"
+    },
+    {
+      "nama_wilayah": "Sukaluyu",
+      "kode_wilayah": "32.01.21.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.21"
+    },
+    {
+      "nama_wilayah": "Batu Tulis",
+      "kode_wilayah": "32.01.21.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.21"
+    }
+  ]
+}

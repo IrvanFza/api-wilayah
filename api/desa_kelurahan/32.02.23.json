@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kalibunder",
+      "kode_wilayah": "32.02.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.23"
+    },
+    {
+      "nama_wilayah": "Bojong",
+      "kode_wilayah": "32.02.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.23"
+    },
+    {
+      "nama_wilayah": "Cimahpar",
+      "kode_wilayah": "32.02.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.23"
+    },
+    {
+      "nama_wilayah": "Sekarsari",
+      "kode_wilayah": "32.02.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.23"
+    },
+    {
+      "nama_wilayah": "Sukaluyu",
+      "kode_wilayah": "32.02.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.23"
+    },
+    {
+      "nama_wilayah": "Balekambang",
+      "kode_wilayah": "32.02.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.23"
+    },
+    {
+      "nama_wilayah": "Mekarwangi",
+      "kode_wilayah": "32.02.23.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.23"
+    }
+  ]
+}

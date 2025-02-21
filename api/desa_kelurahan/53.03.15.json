@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Buk",
+      "kode_wilayah": "53.03.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.15"
+    },
+    {
+      "nama_wilayah": "Oenenu",
+      "kode_wilayah": "53.03.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.15"
+    },
+    {
+      "nama_wilayah": "Nimasi",
+      "kode_wilayah": "53.03.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.15"
+    },
+    {
+      "nama_wilayah": "Oelbonak",
+      "kode_wilayah": "53.03.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.15"
+    },
+    {
+      "nama_wilayah": "Kuenak",
+      "kode_wilayah": "53.03.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.15"
+    },
+    {
+      "nama_wilayah": "Oenino",
+      "kode_wilayah": "53.03.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.15"
+    },
+    {
+      "nama_wilayah": "Oenenu Utara",
+      "kode_wilayah": "53.03.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.15"
+    },
+    {
+      "nama_wilayah": "Oenenu Selatan",
+      "kode_wilayah": "53.03.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.15"
+    },
+    {
+      "nama_wilayah": "Sono",
+      "kode_wilayah": "53.03.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.15"
+    }
+  ]
+}

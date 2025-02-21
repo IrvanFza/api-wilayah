@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Tamansari",
+      "kode_wilayah": "36.72.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.03"
+    },
+    {
+      "nama_wilayah": "Lebakgede",
+      "kode_wilayah": "36.72.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.03"
+    },
+    {
+      "nama_wilayah": "Mekarsari",
+      "kode_wilayah": "36.72.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.03"
+    },
+    {
+      "nama_wilayah": "Suralaya",
+      "kode_wilayah": "36.72.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.03"
+    }
+  ]
+}

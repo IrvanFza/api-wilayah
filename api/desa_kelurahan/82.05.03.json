@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Wai Ina",
+      "kode_wilayah": "82.05.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.03"
+    },
+    {
+      "nama_wilayah": "Kabau Pantai",
+      "kode_wilayah": "82.05.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.03"
+    },
+    {
+      "nama_wilayah": "Ona",
+      "kode_wilayah": "82.05.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.03"
+    },
+    {
+      "nama_wilayah": "Kabau Darat",
+      "kode_wilayah": "82.05.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.03"
+    },
+    {
+      "nama_wilayah": "Nahi",
+      "kode_wilayah": "82.05.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.03"
+    },
+    {
+      "nama_wilayah": "Paratina",
+      "kode_wilayah": "82.05.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.03"
+    }
+  ]
+}

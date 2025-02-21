@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Lubuak Tarok",
+      "kode_wilayah": "13.03.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.03",
+      "kode_kecamatan": "13.03.07"
+    },
+    {
+      "nama_wilayah": "Lalan",
+      "kode_wilayah": "13.03.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.03",
+      "kode_kecamatan": "13.03.07"
+    },
+    {
+      "nama_wilayah": "Buluah Kasok",
+      "kode_wilayah": "13.03.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.03",
+      "kode_kecamatan": "13.03.07"
+    },
+    {
+      "nama_wilayah": "Kampung Dalam",
+      "kode_wilayah": "13.03.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.03",
+      "kode_kecamatan": "13.03.07"
+    },
+    {
+      "nama_wilayah": "Silongo",
+      "kode_wilayah": "13.03.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.03",
+      "kode_kecamatan": "13.03.07"
+    },
+    {
+      "nama_wilayah": "Latang",
+      "kode_wilayah": "13.03.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.03",
+      "kode_kecamatan": "13.03.07"
+    }
+  ]
+}

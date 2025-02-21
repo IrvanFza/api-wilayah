@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Siantan",
+      "kode_wilayah": "21.05.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.05",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Palmatak",
+      "kode_wilayah": "21.05.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.05",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Siantan Timur",
+      "kode_wilayah": "21.05.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.05",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Siantan Selatan",
+      "kode_wilayah": "21.05.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.05",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Jemaja Timur",
+      "kode_wilayah": "21.05.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.05",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Jemaja",
+      "kode_wilayah": "21.05.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.05",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Siantan Tengah",
+      "kode_wilayah": "21.05.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.05",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Siantan Utara",
+      "kode_wilayah": "21.05.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.05",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Jemaja Barat",
+      "kode_wilayah": "21.05.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.05",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Kute Siantan",
+      "kode_wilayah": "21.05.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.05",
+      "kode_provinsi": "21"
+    }
+  ]
+}

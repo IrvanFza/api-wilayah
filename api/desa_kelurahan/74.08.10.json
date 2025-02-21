@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lanipa",
+      "kode_wilayah": "74.08.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.10"
+    },
+    {
+      "nama_wilayah": "Majapahit",
+      "kode_wilayah": "74.08.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.10"
+    },
+    {
+      "nama_wilayah": "Labipi",
+      "kode_wilayah": "74.08.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.10"
+    },
+    {
+      "nama_wilayah": "Latali",
+      "kode_wilayah": "74.08.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.10"
+    },
+    {
+      "nama_wilayah": "Pasampang",
+      "kode_wilayah": "74.08.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.10"
+    },
+    {
+      "nama_wilayah": "Tarengga",
+      "kode_wilayah": "74.08.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.10"
+    },
+    {
+      "nama_wilayah": "To-lemo",
+      "kode_wilayah": "74.08.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.10"
+    },
+    {
+      "nama_wilayah": "Salulotong",
+      "kode_wilayah": "74.08.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.10"
+    },
+    {
+      "nama_wilayah": "Powalaa",
+      "kode_wilayah": "74.08.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.10"
+    },
+    {
+      "nama_wilayah": "Kalahunde",
+      "kode_wilayah": "74.08.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.08",
+      "kode_kecamatan": "74.08.10"
+    }
+  ]
+}

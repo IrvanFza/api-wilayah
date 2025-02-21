@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "IV Koto Hilie",
+      "kode_wilayah": "13.01.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.04"
+    },
+    {
+      "nama_wilayah": "IV Koto Mudiek",
+      "kode_wilayah": "13.01.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.04"
+    },
+    {
+      "nama_wilayah": "Taluak",
+      "kode_wilayah": "13.01.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.04"
+    },
+    {
+      "nama_wilayah": "Koto Nan Duo IV Koto Hilie",
+      "kode_wilayah": "13.01.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.04"
+    },
+    {
+      "nama_wilayah": "Koto Nan Tigo IV Koto Hilie",
+      "kode_wilayah": "13.01.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.04"
+    },
+    {
+      "nama_wilayah": "Teratak Tempatih IV Koto Mudiek",
+      "kode_wilayah": "13.01.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.04"
+    },
+    {
+      "nama_wilayah": "Tuik IV Koto Mudiek",
+      "kode_wilayah": "13.01.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.04"
+    },
+    {
+      "nama_wilayah": "Sungai Nyalo IV Koto Mudiek",
+      "kode_wilayah": "13.01.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.04"
+    },
+    {
+      "nama_wilayah": "Taluk Tigo Sakato",
+      "kode_wilayah": "13.01.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.01",
+      "kode_kecamatan": "13.01.04"
+    }
+  ]
+}

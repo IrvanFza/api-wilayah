@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Lape",
+      "kode_wilayah": "52.04.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.12"
+    },
+    {
+      "nama_wilayah": "Labuhan Kuris",
+      "kode_wilayah": "52.04.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.12"
+    },
+    {
+      "nama_wilayah": "Dete",
+      "kode_wilayah": "52.04.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.12"
+    },
+    {
+      "nama_wilayah": "Hijrah",
+      "kode_wilayah": "52.04.12.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.12"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bulukerto",
+      "kode_wilayah": "33.12.18.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.18"
+    },
+    {
+      "nama_wilayah": "Domas",
+      "kode_wilayah": "33.12.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.18"
+    },
+    {
+      "nama_wilayah": "Nadi",
+      "kode_wilayah": "33.12.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.18"
+    },
+    {
+      "nama_wilayah": "Ngaglik",
+      "kode_wilayah": "33.12.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.18"
+    },
+    {
+      "nama_wilayah": "Bulurejo",
+      "kode_wilayah": "33.12.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.18"
+    },
+    {
+      "nama_wilayah": "Krandegan",
+      "kode_wilayah": "33.12.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.18"
+    },
+    {
+      "nama_wilayah": "Tanjung",
+      "kode_wilayah": "33.12.18.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.18"
+    },
+    {
+      "nama_wilayah": "Sugihan",
+      "kode_wilayah": "33.12.18.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.18"
+    },
+    {
+      "nama_wilayah": "Conto",
+      "kode_wilayah": "33.12.18.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.18"
+    },
+    {
+      "nama_wilayah": "Geneng",
+      "kode_wilayah": "33.12.18.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.18"
+    }
+  ]
+}

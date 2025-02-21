@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Mekar Indah",
+      "kode_wilayah": "62.07.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.06"
+    },
+    {
+      "nama_wilayah": "Halimaung Jaya",
+      "kode_wilayah": "62.07.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.06"
+    },
+    {
+      "nama_wilayah": "Bangun Harja",
+      "kode_wilayah": "62.07.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.06"
+    },
+    {
+      "nama_wilayah": "Kartika Bhakti",
+      "kode_wilayah": "62.07.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.06"
+    },
+    {
+      "nama_wilayah": "Pematang Panjang",
+      "kode_wilayah": "62.07.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.06"
+    },
+    {
+      "nama_wilayah": "Sungai Bakau",
+      "kode_wilayah": "62.07.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.06"
+    }
+  ]
+}

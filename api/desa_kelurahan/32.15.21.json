@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Majalaya",
+      "kode_wilayah": "32.15.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.21"
+    },
+    {
+      "nama_wilayah": "Ciranggon",
+      "kode_wilayah": "32.15.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.21"
+    },
+    {
+      "nama_wilayah": "Pasirjengkol",
+      "kode_wilayah": "32.15.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.21"
+    },
+    {
+      "nama_wilayah": "Sarijaya",
+      "kode_wilayah": "32.15.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.21"
+    },
+    {
+      "nama_wilayah": "Pasirmulya",
+      "kode_wilayah": "32.15.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.21"
+    },
+    {
+      "nama_wilayah": "Lemahmulya",
+      "kode_wilayah": "32.15.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.21"
+    },
+    {
+      "nama_wilayah": "Bengle",
+      "kode_wilayah": "32.15.21.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.21"
+    }
+  ]
+}

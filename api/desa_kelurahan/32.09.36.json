@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tegalsari",
+      "kode_wilayah": "32.09.36.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.36"
+    },
+    {
+      "nama_wilayah": "Kaliwulu",
+      "kode_wilayah": "32.09.36.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.36"
+    },
+    {
+      "nama_wilayah": "Panembahan",
+      "kode_wilayah": "32.09.36.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.36"
+    },
+    {
+      "nama_wilayah": "Trusmi Wetan",
+      "kode_wilayah": "32.09.36.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.36"
+    },
+    {
+      "nama_wilayah": "Trusmi Kulon",
+      "kode_wilayah": "32.09.36.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.36"
+    },
+    {
+      "nama_wilayah": "Wotgali",
+      "kode_wilayah": "32.09.36.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.36"
+    },
+    {
+      "nama_wilayah": "Gamel",
+      "kode_wilayah": "32.09.36.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.36"
+    },
+    {
+      "nama_wilayah": "Sarabau",
+      "kode_wilayah": "32.09.36.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.36"
+    },
+    {
+      "nama_wilayah": "Cangkring",
+      "kode_wilayah": "32.09.36.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.36"
+    },
+    {
+      "nama_wilayah": "Pangkalan",
+      "kode_wilayah": "32.09.36.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.36"
+    }
+  ]
+}

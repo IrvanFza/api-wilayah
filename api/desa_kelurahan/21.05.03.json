@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Nyamuk",
+      "kode_wilayah": "21.05.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.03"
+    },
+    {
+      "nama_wilayah": "Batu Belah",
+      "kode_wilayah": "21.05.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.03"
+    },
+    {
+      "nama_wilayah": "Munjan",
+      "kode_wilayah": "21.05.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.03"
+    },
+    {
+      "nama_wilayah": "Serat",
+      "kode_wilayah": "21.05.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.03"
+    },
+    {
+      "nama_wilayah": "Air Putih",
+      "kode_wilayah": "21.05.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.03"
+    },
+    {
+      "nama_wilayah": "Temburun",
+      "kode_wilayah": "21.05.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.03"
+    }
+  ]
+}

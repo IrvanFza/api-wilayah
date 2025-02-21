@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lembeyan Kulon",
+      "kode_wilayah": "35.20.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.03"
+    },
+    {
+      "nama_wilayah": "Kediren",
+      "kode_wilayah": "35.20.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.03"
+    },
+    {
+      "nama_wilayah": "Lembeyan Wetan",
+      "kode_wilayah": "35.20.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.03"
+    },
+    {
+      "nama_wilayah": "Tunggur",
+      "kode_wilayah": "35.20.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.03"
+    },
+    {
+      "nama_wilayah": "Dukuh",
+      "kode_wilayah": "35.20.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.03"
+    },
+    {
+      "nama_wilayah": "Kedungpanji",
+      "kode_wilayah": "35.20.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.03"
+    },
+    {
+      "nama_wilayah": "Nguri",
+      "kode_wilayah": "35.20.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.03"
+    },
+    {
+      "nama_wilayah": "Pupus",
+      "kode_wilayah": "35.20.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.03"
+    },
+    {
+      "nama_wilayah": "Tapen",
+      "kode_wilayah": "35.20.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.03"
+    },
+    {
+      "nama_wilayah": "Krowe",
+      "kode_wilayah": "35.20.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.03"
+    }
+  ]
+}

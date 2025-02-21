@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Gondang",
+      "kode_wilayah": "35.01.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.07"
+    },
+    {
+      "nama_wilayah": "Mujing",
+      "kode_wilayah": "35.01.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.07"
+    },
+    {
+      "nama_wilayah": "Sempu",
+      "kode_wilayah": "35.01.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.07"
+    },
+    {
+      "nama_wilayah": "Nawangan",
+      "kode_wilayah": "35.01.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.07"
+    },
+    {
+      "nama_wilayah": "Tokawi",
+      "kode_wilayah": "35.01.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.07"
+    },
+    {
+      "nama_wilayah": "Jetis Lor",
+      "kode_wilayah": "35.01.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.07"
+    },
+    {
+      "nama_wilayah": "Penggung",
+      "kode_wilayah": "35.01.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.07"
+    },
+    {
+      "nama_wilayah": "Pakis Baru",
+      "kode_wilayah": "35.01.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.07"
+    },
+    {
+      "nama_wilayah": "Ngromo",
+      "kode_wilayah": "35.01.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.07"
+    }
+  ]
+}

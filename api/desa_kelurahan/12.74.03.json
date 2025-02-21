@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Keramat Kubah",
+      "kode_wilayah": "12.74.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.03"
+    },
+    {
+      "nama_wilayah": "Sumber Sari",
+      "kode_wilayah": "12.74.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.03"
+    },
+    {
+      "nama_wilayah": "Muara Sentosa",
+      "kode_wilayah": "12.74.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.03"
+    },
+    {
+      "nama_wilayah": "Pasar Baru",
+      "kode_wilayah": "12.74.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.03"
+    },
+    {
+      "nama_wilayah": "Sei Raja",
+      "kode_wilayah": "12.74.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.74",
+      "kode_kecamatan": "12.74.03"
+    }
+  ]
+}

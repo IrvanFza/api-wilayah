@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Muara Payang",
+      "kode_wilayah": "16.04.28.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.28"
+    },
+    {
+      "nama_wilayah": "Muara Gelumpai",
+      "kode_wilayah": "16.04.28.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.28"
+    },
+    {
+      "nama_wilayah": "Talang Tinggi",
+      "kode_wilayah": "16.04.28.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.28"
+    },
+    {
+      "nama_wilayah": "Lawang Agung Lama",
+      "kode_wilayah": "16.04.28.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.28"
+    },
+    {
+      "nama_wilayah": "Lawang Agung Baru",
+      "kode_wilayah": "16.04.28.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.28"
+    },
+    {
+      "nama_wilayah": "Muara Jauh",
+      "kode_wilayah": "16.04.28.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.28"
+    },
+    {
+      "nama_wilayah": "Bandu Agung",
+      "kode_wilayah": "16.04.28.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.28"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Batu Menyan",
+      "kode_wilayah": "18.09.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.09",
+      "kode_kecamatan": "18.09.10"
+    },
+    {
+      "nama_wilayah": "Cilimus",
+      "kode_wilayah": "18.09.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.09",
+      "kode_kecamatan": "18.09.10"
+    },
+    {
+      "nama_wilayah": "Gebang",
+      "kode_wilayah": "18.09.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.09",
+      "kode_kecamatan": "18.09.10"
+    },
+    {
+      "nama_wilayah": "Hanura",
+      "kode_wilayah": "18.09.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.09",
+      "kode_kecamatan": "18.09.10"
+    },
+    {
+      "nama_wilayah": "Hurun",
+      "kode_wilayah": "18.09.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.09",
+      "kode_kecamatan": "18.09.10"
+    },
+    {
+      "nama_wilayah": "Munca",
+      "kode_wilayah": "18.09.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.09",
+      "kode_kecamatan": "18.09.10"
+    },
+    {
+      "nama_wilayah": "Sidodadi",
+      "kode_wilayah": "18.09.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.09",
+      "kode_kecamatan": "18.09.10"
+    },
+    {
+      "nama_wilayah": "Sukajaya Lempasing",
+      "kode_wilayah": "18.09.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.09",
+      "kode_kecamatan": "18.09.10"
+    },
+    {
+      "nama_wilayah": "Talang Mulya",
+      "kode_wilayah": "18.09.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.09",
+      "kode_kecamatan": "18.09.10"
+    },
+    {
+      "nama_wilayah": "Tanjung Agung",
+      "kode_wilayah": "18.09.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.09",
+      "kode_kecamatan": "18.09.10"
+    }
+  ]
+}

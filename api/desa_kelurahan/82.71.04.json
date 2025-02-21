@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Takofi",
+      "kode_wilayah": "82.71.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.04"
+    },
+    {
+      "nama_wilayah": "Moti Kota",
+      "kode_wilayah": "82.71.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.04"
+    },
+    {
+      "nama_wilayah": "Tafamutu",
+      "kode_wilayah": "82.71.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.04"
+    },
+    {
+      "nama_wilayah": "Tafaga",
+      "kode_wilayah": "82.71.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.04"
+    },
+    {
+      "nama_wilayah": "Figur",
+      "kode_wilayah": "82.71.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.04"
+    },
+    {
+      "nama_wilayah": "Tadenas",
+      "kode_wilayah": "82.71.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.04"
+    }
+  ]
+}

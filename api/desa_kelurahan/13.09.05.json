@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Simatalu",
+      "kode_wilayah": "13.09.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.05"
+    },
+    {
+      "nama_wilayah": "Simalegi",
+      "kode_wilayah": "13.09.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.05"
+    },
+    {
+      "nama_wilayah": "Sigapokna",
+      "kode_wilayah": "13.09.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.05"
+    }
+  ]
+}

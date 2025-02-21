@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Siberuang",
+      "kode_wilayah": "14.01.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.21"
+    },
+    {
+      "nama_wilayah": "Bandur Picak",
+      "kode_wilayah": "14.01.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.21"
+    },
+    {
+      "nama_wilayah": "Gunung Malelo",
+      "kode_wilayah": "14.01.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.21"
+    },
+    {
+      "nama_wilayah": "Tabing",
+      "kode_wilayah": "14.01.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.21"
+    },
+    {
+      "nama_wilayah": "Pongkai",
+      "kode_wilayah": "14.01.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.21"
+    },
+    {
+      "nama_wilayah": "Tanjung",
+      "kode_wilayah": "14.01.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.01",
+      "kode_kecamatan": "14.01.21"
+    }
+  ]
+}

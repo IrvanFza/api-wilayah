@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Mura",
+      "kode_wilayah": "52.07.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.07",
+      "kode_kecamatan": "52.07.07"
+    },
+    {
+      "nama_wilayah": "Kalimantong",
+      "kode_wilayah": "52.07.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.07",
+      "kode_kecamatan": "52.07.07"
+    },
+    {
+      "nama_wilayah": "Lampok",
+      "kode_wilayah": "52.07.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.07",
+      "kode_kecamatan": "52.07.07"
+    },
+    {
+      "nama_wilayah": "Manemeng",
+      "kode_wilayah": "52.07.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.07",
+      "kode_kecamatan": "52.07.07"
+    },
+    {
+      "nama_wilayah": "Mujahiddin",
+      "kode_wilayah": "52.07.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.07",
+      "kode_kecamatan": "52.07.07"
+    },
+    {
+      "nama_wilayah": "Mataiyang",
+      "kode_wilayah": "52.07.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.07",
+      "kode_kecamatan": "52.07.07"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Padasuka",
+      "kode_wilayah": "32.01.29.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.29"
+    },
+    {
+      "nama_wilayah": "Mekarjaya",
+      "kode_wilayah": "32.01.29.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.29"
+    },
+    {
+      "nama_wilayah": "Sukaharja",
+      "kode_wilayah": "32.01.29.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.29"
+    },
+    {
+      "nama_wilayah": "Parakan",
+      "kode_wilayah": "32.01.29.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.29"
+    },
+    {
+      "nama_wilayah": "Ciomas",
+      "kode_wilayah": "32.01.29.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.29"
+    },
+    {
+      "nama_wilayah": "Pagelaran",
+      "kode_wilayah": "32.01.29.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.29"
+    },
+    {
+      "nama_wilayah": "Sukamakmur",
+      "kode_wilayah": "32.01.29.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.29"
+    },
+    {
+      "nama_wilayah": "Ciapus",
+      "kode_wilayah": "32.01.29.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.29"
+    },
+    {
+      "nama_wilayah": "Kota Batu",
+      "kode_wilayah": "32.01.29.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.29"
+    },
+    {
+      "nama_wilayah": "Laladon",
+      "kode_wilayah": "32.01.29.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.29"
+    },
+    {
+      "nama_wilayah": "Ciomas Rahayu",
+      "kode_wilayah": "32.01.29.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.29"
+    }
+  ]
+}

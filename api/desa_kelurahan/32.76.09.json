@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Cinere",
+      "kode_wilayah": "32.76.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.09"
+    },
+    {
+      "nama_wilayah": "Gandul",
+      "kode_wilayah": "32.76.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.09"
+    },
+    {
+      "nama_wilayah": "Pangkalan Jati",
+      "kode_wilayah": "32.76.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.09"
+    },
+    {
+      "nama_wilayah": "Pangkalan Jati Baru",
+      "kode_wilayah": "32.76.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.09"
+    }
+  ]
+}

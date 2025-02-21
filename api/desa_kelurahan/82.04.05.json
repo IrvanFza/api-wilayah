@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Wayaloar",
+      "kode_wilayah": "82.04.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.05"
+    },
+    {
+      "nama_wilayah": "Fluk",
+      "kode_wilayah": "82.04.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.05"
+    },
+    {
+      "nama_wilayah": "Bobo",
+      "kode_wilayah": "82.04.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.05"
+    },
+    {
+      "nama_wilayah": "Mano",
+      "kode_wilayah": "82.04.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.05"
+    },
+    {
+      "nama_wilayah": "Loleo",
+      "kode_wilayah": "82.04.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.05"
+    },
+    {
+      "nama_wilayah": "Soligi",
+      "kode_wilayah": "82.04.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.05"
+    },
+    {
+      "nama_wilayah": "Gambaru",
+      "kode_wilayah": "82.04.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.05"
+    },
+    {
+      "nama_wilayah": "Ocimaloleo",
+      "kode_wilayah": "82.04.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.05"
+    }
+  ]
+}

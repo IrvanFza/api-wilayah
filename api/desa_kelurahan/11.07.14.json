@@ -1,0 +1,518 @@
+{
+  "status": "success",
+  "total": 64,
+  "data": [
+    {
+      "nama_wilayah": "Mesjid Kunyet",
+      "kode_wilayah": "11.07.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Piala Kunyet",
+      "kode_wilayah": "11.07.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Hagu Kunyet",
+      "kode_wilayah": "11.07.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Baro Kunyet",
+      "kode_wilayah": "11.07.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Dayah Tanoh Kunyet",
+      "kode_wilayah": "11.07.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Kambuek Nicah Kunyet",
+      "kode_wilayah": "11.07.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Kambuek Payapi Kunyet",
+      "kode_wilayah": "11.07.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Seunadeu Kunyet",
+      "kode_wilayah": "11.07.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Blang Gunci Kunyet",
+      "kode_wilayah": "11.07.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Dayah Baroh Kunyet",
+      "kode_wilayah": "11.07.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Blang Geuleudieng",
+      "kode_wilayah": "11.07.14.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Geulumpang Geuleudieng",
+      "kode_wilayah": "11.07.14.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Mesjid Geuleudieng",
+      "kode_wilayah": "11.07.14.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Sukon Peudaya",
+      "kode_wilayah": "11.07.14.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Mesjid Peudaya",
+      "kode_wilayah": "11.07.14.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Cut Peudaya",
+      "kode_wilayah": "11.07.14.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Buloh Peudaya",
+      "kode_wilayah": "11.07.14.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Perlak Peudaya",
+      "kode_wilayah": "11.07.14.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Dayah Peudaya",
+      "kode_wilayah": "11.07.14.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Teungoh Peudaya",
+      "kode_wilayah": "11.07.14.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Tuha Peudaya",
+      "kode_wilayah": "11.07.14.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Tunong Peudaya",
+      "kode_wilayah": "11.07.14.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Buni Reulieng Peudaya",
+      "kode_wilayah": "11.07.14.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Trieng Paloh",
+      "kode_wilayah": "11.07.14.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Leuhob Paloh",
+      "kode_wilayah": "11.07.14.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Jurong Gampong Cot Paloh",
+      "kode_wilayah": "11.07.14.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Suyo Paloh",
+      "kode_wilayah": "11.07.14.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Kreet Paloh",
+      "kode_wilayah": "11.07.14.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Capa Paloh",
+      "kode_wilayah": "11.07.14.2029",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Jurong Anoe Paloh",
+      "kode_wilayah": "11.07.14.2030",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Balee Paloh",
+      "kode_wilayah": "11.07.14.2031",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Siron Paloh",
+      "kode_wilayah": "11.07.14.2032",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Gampong Cut Paloh",
+      "kode_wilayah": "11.07.14.2033",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Pante Cermen Paloh",
+      "kode_wilayah": "11.07.14.2034",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Pasar Paloh",
+      "kode_wilayah": "11.07.14.2035",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Cot Kunyet",
+      "kode_wilayah": "11.07.14.2036",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Meuke Beurabo",
+      "kode_wilayah": "11.07.14.2037",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Mesjid Beurabo",
+      "kode_wilayah": "11.07.14.2038",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Seukeumbrok Beurabo",
+      "kode_wilayah": "11.07.14.2039",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Baro Beurabo",
+      "kode_wilayah": "11.07.14.2040",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Adang Beurabo",
+      "kode_wilayah": "11.07.14.2041",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Paloh Jeurat Beurabo",
+      "kode_wilayah": "11.07.14.2042",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Seuleunggieng Beurabo",
+      "kode_wilayah": "11.07.14.2043",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Teungoh Drien Gogo",
+      "kode_wilayah": "11.07.14.2044",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Kumbang Gogo",
+      "kode_wilayah": "11.07.14.2045",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Mesjid Gogo",
+      "kode_wilayah": "11.07.14.2046",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Tuha Gogo",
+      "kode_wilayah": "11.07.14.2047",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Glee Gogo",
+      "kode_wilayah": "11.07.14.2048",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Meuke Gogo",
+      "kode_wilayah": "11.07.14.2049",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Raya Gogo",
+      "kode_wilayah": "11.07.14.2050",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Grong-Grong Gogo",
+      "kode_wilayah": "11.07.14.2051",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Aron Bunot Gogo",
+      "kode_wilayah": "11.07.14.2052",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Buloh Gogo",
+      "kode_wilayah": "11.07.14.2053",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Tunong Tanjong",
+      "kode_wilayah": "11.07.14.2054",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Keupula Tanjong",
+      "kode_wilayah": "11.07.14.2055",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Jok Tanjong",
+      "kode_wilayah": "11.07.14.2056",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Leun Tanjong",
+      "kode_wilayah": "11.07.14.2057",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Pante Crueng Tanjong",
+      "kode_wilayah": "11.07.14.2058",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Cot Keutapang Tanjong",
+      "kode_wilayah": "11.07.14.2059",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Siron Tanjong",
+      "kode_wilayah": "11.07.14.2060",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Mesjid Tanjong",
+      "kode_wilayah": "11.07.14.2061",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Khang Tanjong",
+      "kode_wilayah": "11.07.14.2062",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Meuriya Tanjong",
+      "kode_wilayah": "11.07.14.2063",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    },
+    {
+      "nama_wilayah": "Pulo Hagu Tanjong",
+      "kode_wilayah": "11.07.14.2064",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.14"
+    }
+  ]
+}

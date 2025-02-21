@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Grobogan",
+      "kode_wilayah": "33.15.12.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.12"
+    },
+    {
+      "nama_wilayah": "Getasrejo",
+      "kode_wilayah": "33.15.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.12"
+    },
+    {
+      "nama_wilayah": "Rejosari",
+      "kode_wilayah": "33.15.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.12"
+    },
+    {
+      "nama_wilayah": "Tanggungharjo",
+      "kode_wilayah": "33.15.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.12"
+    },
+    {
+      "nama_wilayah": "Teguhan",
+      "kode_wilayah": "33.15.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.12"
+    },
+    {
+      "nama_wilayah": "Ngabenrejo",
+      "kode_wilayah": "33.15.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.12"
+    },
+    {
+      "nama_wilayah": "Karangrejo",
+      "kode_wilayah": "33.15.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.12"
+    },
+    {
+      "nama_wilayah": "Putatsari",
+      "kode_wilayah": "33.15.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.12"
+    },
+    {
+      "nama_wilayah": "Lebak",
+      "kode_wilayah": "33.15.12.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.12"
+    },
+    {
+      "nama_wilayah": "Lebengjumuk",
+      "kode_wilayah": "33.15.12.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.12"
+    },
+    {
+      "nama_wilayah": "Sedayu",
+      "kode_wilayah": "33.15.12.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.12"
+    },
+    {
+      "nama_wilayah": "Sumberjatipohon",
+      "kode_wilayah": "33.15.12.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.12"
+    }
+  ]
+}

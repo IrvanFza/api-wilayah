@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sumber Tani",
+      "kode_wilayah": "12.19.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.11"
+    },
+    {
+      "nama_wilayah": "Sei Muka",
+      "kode_wilayah": "12.19.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.11"
+    },
+    {
+      "nama_wilayah": "Perkebunan Tanah Datar",
+      "kode_wilayah": "12.19.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.11"
+    },
+    {
+      "nama_wilayah": "Binjai Baru",
+      "kode_wilayah": "12.19.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.11"
+    },
+    {
+      "nama_wilayah": "Bangun Sari",
+      "kode_wilayah": "12.19.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.11"
+    },
+    {
+      "nama_wilayah": "Karang Baru",
+      "kode_wilayah": "12.19.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.11"
+    },
+    {
+      "nama_wilayah": "Perkebunan Petatal",
+      "kode_wilayah": "12.19.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.11"
+    },
+    {
+      "nama_wilayah": "Mekar Baru",
+      "kode_wilayah": "12.19.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.11"
+    },
+    {
+      "nama_wilayah": "Petatal",
+      "kode_wilayah": "12.19.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.11"
+    },
+    {
+      "nama_wilayah": "Glugur Makmur",
+      "kode_wilayah": "12.19.11.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.19",
+      "kode_kecamatan": "12.19.11"
+    }
+  ]
+}

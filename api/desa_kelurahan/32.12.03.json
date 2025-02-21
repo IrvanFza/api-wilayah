@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kedungdawa",
+      "kode_wilayah": "32.12.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.03"
+    },
+    {
+      "nama_wilayah": "Babakanjaya",
+      "kode_wilayah": "32.12.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.03"
+    },
+    {
+      "nama_wilayah": "Gabus Kulon",
+      "kode_wilayah": "32.12.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.03"
+    },
+    {
+      "nama_wilayah": "Sekarmulya",
+      "kode_wilayah": "32.12.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.03"
+    },
+    {
+      "nama_wilayah": "Kedokangabus",
+      "kode_wilayah": "32.12.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.03"
+    },
+    {
+      "nama_wilayah": "Rancamulya",
+      "kode_wilayah": "32.12.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.03"
+    },
+    {
+      "nama_wilayah": "Rancahan",
+      "kode_wilayah": "32.12.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.03"
+    },
+    {
+      "nama_wilayah": "Gabuswetan",
+      "kode_wilayah": "32.12.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.03"
+    },
+    {
+      "nama_wilayah": "Drunten Wetan",
+      "kode_wilayah": "32.12.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.03"
+    },
+    {
+      "nama_wilayah": "Drunten Kulon",
+      "kode_wilayah": "32.12.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.03"
+    }
+  ]
+}

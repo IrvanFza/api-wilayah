@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Anawi",
+      "kode_wilayah": "95.04.36.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.36"
+    },
+    {
+      "nama_wilayah": "Yalipura",
+      "kode_wilayah": "95.04.36.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.36"
+    },
+    {
+      "nama_wilayah": "Kotori",
+      "kode_wilayah": "95.04.36.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.36"
+    },
+    {
+      "nama_wilayah": "Bieleme",
+      "kode_wilayah": "95.04.36.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.36"
+    },
+    {
+      "nama_wilayah": "Yalokobak",
+      "kode_wilayah": "95.04.36.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.36"
+    },
+    {
+      "nama_wilayah": "Linggira",
+      "kode_wilayah": "95.04.36.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.36"
+    },
+    {
+      "nama_wilayah": "Aridunda",
+      "kode_wilayah": "95.04.36.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.36"
+    },
+    {
+      "nama_wilayah": "Loguk",
+      "kode_wilayah": "95.04.36.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.36"
+    },
+    {
+      "nama_wilayah": "Imurik",
+      "kode_wilayah": "95.04.36.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.36"
+    },
+    {
+      "nama_wilayah": "Gineri",
+      "kode_wilayah": "95.04.36.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.36"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Jawa Kanan",
+      "kode_wilayah": "16.73.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.05"
+    },
+    {
+      "nama_wilayah": "Jawa Kanan SS",
+      "kode_wilayah": "16.73.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.05"
+    },
+    {
+      "nama_wilayah": "Wira Karya",
+      "kode_wilayah": "16.73.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.05"
+    },
+    {
+      "nama_wilayah": "Dempo",
+      "kode_wilayah": "16.73.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.05"
+    },
+    {
+      "nama_wilayah": "Jawa Kiri",
+      "kode_wilayah": "16.73.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.05"
+    },
+    {
+      "nama_wilayah": "Karya Bakti",
+      "kode_wilayah": "16.73.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.05"
+    },
+    {
+      "nama_wilayah": "Mesat Jaya",
+      "kode_wilayah": "16.73.05.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.05"
+    },
+    {
+      "nama_wilayah": "Mesat Seni",
+      "kode_wilayah": "16.73.05.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.05"
+    },
+    {
+      "nama_wilayah": "Cereme Taba",
+      "kode_wilayah": "16.73.05.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.05"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Tarakan Barat",
+      "kode_wilayah": "65.71.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "65.71",
+      "kode_provinsi": "65"
+    },
+    {
+      "nama_wilayah": "Tarakan Tengah",
+      "kode_wilayah": "65.71.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "65.71",
+      "kode_provinsi": "65"
+    },
+    {
+      "nama_wilayah": "Tarakan Timur",
+      "kode_wilayah": "65.71.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "65.71",
+      "kode_provinsi": "65"
+    },
+    {
+      "nama_wilayah": "Tarakan Utara",
+      "kode_wilayah": "65.71.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "65.71",
+      "kode_provinsi": "65"
+    }
+  ]
+}

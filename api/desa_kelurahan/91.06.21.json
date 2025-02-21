@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Wopes",
+      "kode_wilayah": "91.06.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.06",
+      "kode_kecamatan": "91.06.21"
+    },
+    {
+      "nama_wilayah": "Wandos",
+      "kode_wilayah": "91.06.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.06",
+      "kode_kecamatan": "91.06.21"
+    },
+    {
+      "nama_wilayah": "Doubo",
+      "kode_wilayah": "91.06.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.06",
+      "kode_kecamatan": "91.06.21"
+    },
+    {
+      "nama_wilayah": "Syurdori",
+      "kode_wilayah": "91.06.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.06",
+      "kode_kecamatan": "91.06.21"
+    },
+    {
+      "nama_wilayah": "Sansundi",
+      "kode_wilayah": "91.06.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.06",
+      "kode_kecamatan": "91.06.21"
+    }
+  ]
+}

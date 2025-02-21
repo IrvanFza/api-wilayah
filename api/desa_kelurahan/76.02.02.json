@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Galung",
+      "kode_wilayah": "76.02.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.02"
+    },
+    {
+      "nama_wilayah": "Kasambang",
+      "kode_wilayah": "76.02.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.02"
+    },
+    {
+      "nama_wilayah": "Dayanginna",
+      "kode_wilayah": "76.02.02.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.02"
+    },
+    {
+      "nama_wilayah": "Orobatu",
+      "kode_wilayah": "76.02.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.02"
+    },
+    {
+      "nama_wilayah": "Takandeang",
+      "kode_wilayah": "76.02.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.02"
+    },
+    {
+      "nama_wilayah": "Bela",
+      "kode_wilayah": "76.02.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.02"
+    },
+    {
+      "nama_wilayah": "Taan",
+      "kode_wilayah": "76.02.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.02"
+    },
+    {
+      "nama_wilayah": "Tampalang",
+      "kode_wilayah": "76.02.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.02"
+    },
+    {
+      "nama_wilayah": "Rantedoda",
+      "kode_wilayah": "76.02.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.02"
+    },
+    {
+      "nama_wilayah": "Kopeang",
+      "kode_wilayah": "76.02.02.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.02",
+      "kode_kecamatan": "76.02.02"
+    }
+  ]
+}

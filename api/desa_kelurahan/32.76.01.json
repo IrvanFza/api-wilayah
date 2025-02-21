@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Depok",
+      "kode_wilayah": "32.76.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.01"
+    },
+    {
+      "nama_wilayah": "Depok Jaya",
+      "kode_wilayah": "32.76.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.01"
+    },
+    {
+      "nama_wilayah": "Pancoran Mas",
+      "kode_wilayah": "32.76.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.01"
+    },
+    {
+      "nama_wilayah": "Mampang",
+      "kode_wilayah": "32.76.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.01"
+    },
+    {
+      "nama_wilayah": "Rangkapan Jaya Baru",
+      "kode_wilayah": "32.76.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.01"
+    },
+    {
+      "nama_wilayah": "Rangkapan Jaya",
+      "kode_wilayah": "32.76.01.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.01"
+    }
+  ]
+}

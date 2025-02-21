@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Malotong",
+      "kode_wilayah": "72.09.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.05"
+    },
+    {
+      "nama_wilayah": "Bailo",
+      "kode_wilayah": "72.09.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.05"
+    },
+    {
+      "nama_wilayah": "Ampana",
+      "kode_wilayah": "72.09.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.05"
+    },
+    {
+      "nama_wilayah": "Bone Rato",
+      "kode_wilayah": "72.09.05.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.05"
+    },
+    {
+      "nama_wilayah": "Bailo Baru",
+      "kode_wilayah": "72.09.05.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.05"
+    },
+    {
+      "nama_wilayah": "Labiabae",
+      "kode_wilayah": "72.09.05.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.05"
+    },
+    {
+      "nama_wilayah": "Sansarino",
+      "kode_wilayah": "72.09.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.05"
+    },
+    {
+      "nama_wilayah": "Padang Tumbuo",
+      "kode_wilayah": "72.09.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.05"
+    },
+    {
+      "nama_wilayah": "Saluaba",
+      "kode_wilayah": "72.09.05.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.05"
+    },
+    {
+      "nama_wilayah": "Buntongi",
+      "kode_wilayah": "72.09.05.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.09",
+      "kode_kecamatan": "72.09.05"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Watugede",
+      "kode_wilayah": "33.09.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.17"
+    },
+    {
+      "nama_wilayah": "Kedungrejo",
+      "kode_wilayah": "33.09.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.17"
+    },
+    {
+      "nama_wilayah": "Sarimulyo",
+      "kode_wilayah": "33.09.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.17"
+    },
+    {
+      "nama_wilayah": "Klewor",
+      "kode_wilayah": "33.09.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.17"
+    },
+    {
+      "nama_wilayah": "Bawu",
+      "kode_wilayah": "33.09.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.17"
+    },
+    {
+      "nama_wilayah": "Kendel",
+      "kode_wilayah": "33.09.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.17"
+    },
+    {
+      "nama_wilayah": "Kemusu",
+      "kode_wilayah": "33.09.17.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.17"
+    },
+    {
+      "nama_wilayah": "Genengsari",
+      "kode_wilayah": "33.09.17.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.17"
+    },
+    {
+      "nama_wilayah": "Kedungmulyo",
+      "kode_wilayah": "33.09.17.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.17"
+    },
+    {
+      "nama_wilayah": "Wonoharjo",
+      "kode_wilayah": "33.09.17.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.17"
+    }
+  ]
+}

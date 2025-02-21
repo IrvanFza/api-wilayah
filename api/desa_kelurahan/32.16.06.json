@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Jatimulya",
+      "kode_wilayah": "32.16.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.06"
+    },
+    {
+      "nama_wilayah": "Lambangsari",
+      "kode_wilayah": "32.16.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.06"
+    },
+    {
+      "nama_wilayah": "Lambangjaya",
+      "kode_wilayah": "32.16.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.06"
+    },
+    {
+      "nama_wilayah": "Tambun",
+      "kode_wilayah": "32.16.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.06"
+    },
+    {
+      "nama_wilayah": "Setiadarma",
+      "kode_wilayah": "32.16.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.06"
+    },
+    {
+      "nama_wilayah": "Setiamekar",
+      "kode_wilayah": "32.16.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.06"
+    },
+    {
+      "nama_wilayah": "Mekarsari",
+      "kode_wilayah": "32.16.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.06"
+    },
+    {
+      "nama_wilayah": "Tridaya Sakti",
+      "kode_wilayah": "32.16.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.06"
+    },
+    {
+      "nama_wilayah": "Mangunjaya",
+      "kode_wilayah": "32.16.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.06"
+    },
+    {
+      "nama_wilayah": "Sumberjaya",
+      "kode_wilayah": "32.16.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.06"
+    }
+  ]
+}

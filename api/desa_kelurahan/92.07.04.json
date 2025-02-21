@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Wondiboy",
+      "kode_wilayah": "92.07.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.04"
+    },
+    {
+      "nama_wilayah": "Kabouw",
+      "kode_wilayah": "92.07.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.04"
+    },
+    {
+      "nama_wilayah": "Issui",
+      "kode_wilayah": "92.07.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.04"
+    },
+    {
+      "nama_wilayah": "Kaibi",
+      "kode_wilayah": "92.07.04.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.04"
+    }
+  ]
+}

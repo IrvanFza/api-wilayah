@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Parigi",
+      "kode_wilayah": "32.18.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.18",
+      "kode_kecamatan": "32.18.01"
+    },
+    {
+      "nama_wilayah": "Karangbenda",
+      "kode_wilayah": "32.18.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.18",
+      "kode_kecamatan": "32.18.01"
+    },
+    {
+      "nama_wilayah": "Ciliang",
+      "kode_wilayah": "32.18.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.18",
+      "kode_kecamatan": "32.18.01"
+    },
+    {
+      "nama_wilayah": "Bojong",
+      "kode_wilayah": "32.18.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.18",
+      "kode_kecamatan": "32.18.01"
+    },
+    {
+      "nama_wilayah": "Cintaratu",
+      "kode_wilayah": "32.18.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.18",
+      "kode_kecamatan": "32.18.01"
+    },
+    {
+      "nama_wilayah": "Selasari",
+      "kode_wilayah": "32.18.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.18",
+      "kode_kecamatan": "32.18.01"
+    },
+    {
+      "nama_wilayah": "Karangjaladri",
+      "kode_wilayah": "32.18.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.18",
+      "kode_kecamatan": "32.18.01"
+    },
+    {
+      "nama_wilayah": "Cibenda",
+      "kode_wilayah": "32.18.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.18",
+      "kode_kecamatan": "32.18.01"
+    },
+    {
+      "nama_wilayah": "Cintakarya",
+      "kode_wilayah": "32.18.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.18",
+      "kode_kecamatan": "32.18.01"
+    },
+    {
+      "nama_wilayah": "Parakanmanggu",
+      "kode_wilayah": "32.18.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.18",
+      "kode_kecamatan": "32.18.01"
+    }
+  ]
+}

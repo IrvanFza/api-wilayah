@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tampan",
+      "kode_wilayah": "14.71.11.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.11"
+    },
+    {
+      "nama_wilayah": "Labuh Baru Timur",
+      "kode_wilayah": "14.71.11.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.11"
+    },
+    {
+      "nama_wilayah": "Labuh Baru Barat",
+      "kode_wilayah": "14.71.11.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.11"
+    },
+    {
+      "nama_wilayah": "Air Hitam",
+      "kode_wilayah": "14.71.11.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.11"
+    },
+    {
+      "nama_wilayah": "Bandarraya",
+      "kode_wilayah": "14.71.11.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.11"
+    },
+    {
+      "nama_wilayah": "Tirtasiak",
+      "kode_wilayah": "14.71.11.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.11"
+    }
+  ]
+}

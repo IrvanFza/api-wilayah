@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Bantimurung",
+      "kode_wilayah": "73.10.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.12"
+    },
+    {
+      "nama_wilayah": "Tondongkura",
+      "kode_wilayah": "73.10.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.12"
+    },
+    {
+      "nama_wilayah": "Lanne",
+      "kode_wilayah": "73.10.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.12"
+    },
+    {
+      "nama_wilayah": "Bulu Tellue",
+      "kode_wilayah": "73.10.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.12"
+    },
+    {
+      "nama_wilayah": "Malaka",
+      "kode_wilayah": "73.10.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.12"
+    },
+    {
+      "nama_wilayah": "Bonto Birao",
+      "kode_wilayah": "73.10.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.12"
+    }
+  ]
+}

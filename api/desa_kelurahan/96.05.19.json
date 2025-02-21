@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Karfa",
+      "kode_wilayah": "96.05.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.19"
+    },
+    {
+      "nama_wilayah": "Mapura",
+      "kode_wilayah": "96.05.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.19"
+    },
+    {
+      "nama_wilayah": "Kosah",
+      "kode_wilayah": "96.05.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.19"
+    },
+    {
+      "nama_wilayah": "Frabo",
+      "kode_wilayah": "96.05.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.19"
+    },
+    {
+      "nama_wilayah": "Suwiam",
+      "kode_wilayah": "96.05.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.19"
+    },
+    {
+      "nama_wilayah": "Kona",
+      "kode_wilayah": "96.05.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.19"
+    },
+    {
+      "nama_wilayah": "Tomase",
+      "kode_wilayah": "96.05.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.19"
+    }
+  ]
+}

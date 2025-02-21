@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Sukowidi",
+      "kode_wilayah": "35.20.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.17"
+    },
+    {
+      "nama_wilayah": "Semen",
+      "kode_wilayah": "35.20.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.17"
+    },
+    {
+      "nama_wilayah": "Goranggareng",
+      "kode_wilayah": "35.20.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.17"
+    },
+    {
+      "nama_wilayah": "Petungrejo",
+      "kode_wilayah": "35.20.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.17"
+    },
+    {
+      "nama_wilayah": "Nguntoronadi",
+      "kode_wilayah": "35.20.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.17"
+    },
+    {
+      "nama_wilayah": "Simbatan",
+      "kode_wilayah": "35.20.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.17"
+    },
+    {
+      "nama_wilayah": "Purworejo",
+      "kode_wilayah": "35.20.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.17"
+    },
+    {
+      "nama_wilayah": "Kenongomulyo",
+      "kode_wilayah": "35.20.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.17"
+    },
+    {
+      "nama_wilayah": "Driyorejo",
+      "kode_wilayah": "35.20.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.20",
+      "kode_kecamatan": "35.20.17"
+    }
+  ]
+}

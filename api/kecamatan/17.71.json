@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Selebar",
+      "kode_wilayah": "17.71.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.71",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Gading Cempaka",
+      "kode_wilayah": "17.71.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.71",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Teluk Segara",
+      "kode_wilayah": "17.71.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.71",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Muara Bangka Hulu",
+      "kode_wilayah": "17.71.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.71",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Kampung Melayu",
+      "kode_wilayah": "17.71.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.71",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Ratu Agung",
+      "kode_wilayah": "17.71.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.71",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Ratu Samban",
+      "kode_wilayah": "17.71.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.71",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Sungai Serut",
+      "kode_wilayah": "17.71.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.71",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Singaran Pati",
+      "kode_wilayah": "17.71.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.71",
+      "kode_provinsi": "17"
+    }
+  ]
+}

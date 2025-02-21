@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Boronubaen Timur",
+      "kode_wilayah": "53.03.06.1015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.06"
+    },
+    {
+      "nama_wilayah": "Boronubaen",
+      "kode_wilayah": "53.03.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.06"
+    },
+    {
+      "nama_wilayah": "Hautaes",
+      "kode_wilayah": "53.03.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.06"
+    },
+    {
+      "nama_wilayah": "Tualena",
+      "kode_wilayah": "53.03.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.06"
+    },
+    {
+      "nama_wilayah": "Biloe",
+      "kode_wilayah": "53.03.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.06"
+    },
+    {
+      "nama_wilayah": "Taunbaen",
+      "kode_wilayah": "53.03.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.06"
+    },
+    {
+      "nama_wilayah": "Sapaen",
+      "kode_wilayah": "53.03.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.06"
+    },
+    {
+      "nama_wilayah": "Lokomea",
+      "kode_wilayah": "53.03.06.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.06"
+    },
+    {
+      "nama_wilayah": "Taunbaen Timur",
+      "kode_wilayah": "53.03.06.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.06"
+    },
+    {
+      "nama_wilayah": "Hauteas Barat",
+      "kode_wilayah": "53.03.06.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.06"
+    }
+  ]
+}

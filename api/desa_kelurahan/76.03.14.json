@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Tawalian",
+      "kode_wilayah": "76.03.14.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.14"
+    },
+    {
+      "nama_wilayah": "Tawalian Timur",
+      "kode_wilayah": "76.03.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.14"
+    },
+    {
+      "nama_wilayah": "Kariango",
+      "kode_wilayah": "76.03.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.14"
+    },
+    {
+      "nama_wilayah": "Rantetangnga",
+      "kode_wilayah": "76.03.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.14"
+    }
+  ]
+}

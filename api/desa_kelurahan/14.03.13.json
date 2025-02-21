@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Titian Antui",
+      "kode_wilayah": "14.03.13.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.13"
+    },
+    {
+      "nama_wilayah": "Balai Raja",
+      "kode_wilayah": "14.03.13.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.13"
+    },
+    {
+      "nama_wilayah": "Balai Pungut",
+      "kode_wilayah": "14.03.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.13"
+    },
+    {
+      "nama_wilayah": "Muara Basung",
+      "kode_wilayah": "14.03.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.13"
+    },
+    {
+      "nama_wilayah": "Pinggir",
+      "kode_wilayah": "14.03.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.13"
+    },
+    {
+      "nama_wilayah": "Semunai",
+      "kode_wilayah": "14.03.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.13"
+    },
+    {
+      "nama_wilayah": "Tengganau",
+      "kode_wilayah": "14.03.13.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.13"
+    },
+    {
+      "nama_wilayah": "Sungai Meranti",
+      "kode_wilayah": "14.03.13.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.13"
+    },
+    {
+      "nama_wilayah": "Pangkalan Libut",
+      "kode_wilayah": "14.03.13.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.13"
+    },
+    {
+      "nama_wilayah": "Buluh Apo",
+      "kode_wilayah": "14.03.13.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.03",
+      "kode_kecamatan": "14.03.13"
+    }
+  ]
+}

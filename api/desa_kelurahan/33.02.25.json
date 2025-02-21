@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Karanglewas Lor",
+      "kode_wilayah": "33.02.25.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.25"
+    },
+    {
+      "nama_wilayah": "Pasir Kidul",
+      "kode_wilayah": "33.02.25.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.25"
+    },
+    {
+      "nama_wilayah": "Rejasari",
+      "kode_wilayah": "33.02.25.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.25"
+    },
+    {
+      "nama_wilayah": "Pasirmuncang",
+      "kode_wilayah": "33.02.25.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.25"
+    },
+    {
+      "nama_wilayah": "Bantarsoka",
+      "kode_wilayah": "33.02.25.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.25"
+    },
+    {
+      "nama_wilayah": "Kober",
+      "kode_wilayah": "33.02.25.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.25"
+    },
+    {
+      "nama_wilayah": "Kedungwuluh",
+      "kode_wilayah": "33.02.25.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.25"
+    }
+  ]
+}

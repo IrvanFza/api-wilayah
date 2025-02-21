@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Harapan Rejo",
+      "kode_wilayah": "18.02.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.16"
+    },
+    {
+      "nama_wilayah": "Endang Rejo",
+      "kode_wilayah": "18.02.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.16"
+    },
+    {
+      "nama_wilayah": "Dono Arum",
+      "kode_wilayah": "18.02.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.16"
+    },
+    {
+      "nama_wilayah": "Simpang Agung",
+      "kode_wilayah": "18.02.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.16"
+    },
+    {
+      "nama_wilayah": "Bumi Kencana",
+      "kode_wilayah": "18.02.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.16"
+    },
+    {
+      "nama_wilayah": "Gayau Sakti",
+      "kode_wilayah": "18.02.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.16"
+    },
+    {
+      "nama_wilayah": "Fajar Asri",
+      "kode_wilayah": "18.02.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.16"
+    },
+    {
+      "nama_wilayah": "Muji Rahayu",
+      "kode_wilayah": "18.02.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.16"
+    },
+    {
+      "nama_wilayah": "Sulusuban",
+      "kode_wilayah": "18.02.16.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.16"
+    },
+    {
+      "nama_wilayah": "Bumi Mas",
+      "kode_wilayah": "18.02.16.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.02",
+      "kode_kecamatan": "18.02.16"
+    }
+  ]
+}

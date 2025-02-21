@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bululi",
+      "kode_wilayah": "75.01.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.21"
+    },
+    {
+      "nama_wilayah": "Mohiyolo",
+      "kode_wilayah": "75.01.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.21"
+    },
+    {
+      "nama_wilayah": "Pangahu",
+      "kode_wilayah": "75.01.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.21"
+    },
+    {
+      "nama_wilayah": "Karya Indah",
+      "kode_wilayah": "75.01.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.21"
+    },
+    {
+      "nama_wilayah": "Prima",
+      "kode_wilayah": "75.01.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.21"
+    },
+    {
+      "nama_wilayah": "Tiohu",
+      "kode_wilayah": "75.01.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.21"
+    },
+    {
+      "nama_wilayah": "Olimohulo",
+      "kode_wilayah": "75.01.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.21"
+    },
+    {
+      "nama_wilayah": "Karya Baru",
+      "kode_wilayah": "75.01.21.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.21"
+    },
+    {
+      "nama_wilayah": "Bontula",
+      "kode_wilayah": "75.01.21.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.21"
+    },
+    {
+      "nama_wilayah": "Bihe",
+      "kode_wilayah": "75.01.21.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.21"
+    }
+  ]
+}

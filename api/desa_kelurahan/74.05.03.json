@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Alangga",
+      "kode_wilayah": "74.05.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.05",
+      "kode_kecamatan": "74.05.03"
+    },
+    {
+      "nama_wilayah": "Potoro",
+      "kode_wilayah": "74.05.03.1018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.05",
+      "kode_kecamatan": "74.05.03"
+    },
+    {
+      "nama_wilayah": "Andoolo",
+      "kode_wilayah": "74.05.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.05",
+      "kode_kecamatan": "74.05.03"
+    },
+    {
+      "nama_wilayah": "Alengge Agung",
+      "kode_wilayah": "74.05.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.05",
+      "kode_kecamatan": "74.05.03"
+    },
+    {
+      "nama_wilayah": "Bumi Raya",
+      "kode_wilayah": "74.05.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.05",
+      "kode_kecamatan": "74.05.03"
+    },
+    {
+      "nama_wilayah": "Lalobao",
+      "kode_wilayah": "74.05.03.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.05",
+      "kode_kecamatan": "74.05.03"
+    },
+    {
+      "nama_wilayah": "Lalonggombu",
+      "kode_wilayah": "74.05.03.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.05",
+      "kode_kecamatan": "74.05.03"
+    },
+    {
+      "nama_wilayah": "Wunduwatu",
+      "kode_wilayah": "74.05.03.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.05",
+      "kode_kecamatan": "74.05.03"
+    },
+    {
+      "nama_wilayah": "Punggapu",
+      "kode_wilayah": "74.05.03.2031",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.05",
+      "kode_kecamatan": "74.05.03"
+    },
+    {
+      "nama_wilayah": "Ataku",
+      "kode_wilayah": "74.05.03.2033",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.05",
+      "kode_kecamatan": "74.05.03"
+    }
+  ]
+}

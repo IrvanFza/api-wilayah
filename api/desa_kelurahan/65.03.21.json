@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tau Lumbis",
+      "kode_wilayah": "65.03.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.21"
+    },
+    {
+      "nama_wilayah": "Lipaga",
+      "kode_wilayah": "65.03.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.21"
+    },
+    {
+      "nama_wilayah": "Bululaun Hulu",
+      "kode_wilayah": "65.03.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.21"
+    },
+    {
+      "nama_wilayah": "Kalisun",
+      "kode_wilayah": "65.03.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.21"
+    },
+    {
+      "nama_wilayah": "Mamasin",
+      "kode_wilayah": "65.03.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.21"
+    },
+    {
+      "nama_wilayah": "Sibalu",
+      "kode_wilayah": "65.03.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.21"
+    },
+    {
+      "nama_wilayah": "Duyan",
+      "kode_wilayah": "65.03.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.21"
+    },
+    {
+      "nama_wilayah": "Tuntulibing",
+      "kode_wilayah": "65.03.21.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.21"
+    },
+    {
+      "nama_wilayah": "Tetagas",
+      "kode_wilayah": "65.03.21.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.21"
+    },
+    {
+      "nama_wilayah": "Kabungolor",
+      "kode_wilayah": "65.03.21.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.03",
+      "kode_kecamatan": "65.03.21"
+    }
+  ]
+}

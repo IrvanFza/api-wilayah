@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Karang Sari",
+      "kode_wilayah": "16.07.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.20"
+    },
+    {
+      "nama_wilayah": "Maju Ria",
+      "kode_wilayah": "16.07.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.20"
+    },
+    {
+      "nama_wilayah": "Sri Agung",
+      "kode_wilayah": "16.07.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.20"
+    },
+    {
+      "nama_wilayah": "Sumber Rejeki",
+      "kode_wilayah": "16.07.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.20"
+    },
+    {
+      "nama_wilayah": "Tabala Jaya",
+      "kode_wilayah": "16.07.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.20"
+    },
+    {
+      "nama_wilayah": "Jati Sari",
+      "kode_wilayah": "16.07.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.20"
+    },
+    {
+      "nama_wilayah": "Mekar Sari",
+      "kode_wilayah": "16.07.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.07",
+      "kode_kecamatan": "16.07.20"
+    }
+  ]
+}

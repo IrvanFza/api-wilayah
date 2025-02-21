@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Pinang Barat",
+      "kode_wilayah": "21.72.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.72",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Tanjung Pinang Timur",
+      "kode_wilayah": "21.72.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.72",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Tanjung Pinang Kota",
+      "kode_wilayah": "21.72.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.72",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Bukit Bestari",
+      "kode_wilayah": "21.72.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.72",
+      "kode_provinsi": "21"
+    }
+  ]
+}

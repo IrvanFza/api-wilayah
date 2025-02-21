@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Kairatu",
+      "kode_wilayah": "81.06.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.06",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Seram Barat",
+      "kode_wilayah": "81.06.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.06",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Taniwel",
+      "kode_wilayah": "81.06.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.06",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Huamual Belakang",
+      "kode_wilayah": "81.06.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.06",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Amalatu",
+      "kode_wilayah": "81.06.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.06",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Inamosol",
+      "kode_wilayah": "81.06.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.06",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Kairatu Barat",
+      "kode_wilayah": "81.06.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.06",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Huamual",
+      "kode_wilayah": "81.06.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.06",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Kepulauan Manipa",
+      "kode_wilayah": "81.06.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.06",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Taniwel Timur",
+      "kode_wilayah": "81.06.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.06",
+      "kode_provinsi": "81"
+    },
+    {
+      "nama_wilayah": "Elpaputih",
+      "kode_wilayah": "81.06.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "81.06",
+      "kode_provinsi": "81"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Laiwui",
+      "kode_wilayah": "82.04.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.06"
+    },
+    {
+      "nama_wilayah": "Baru",
+      "kode_wilayah": "82.04.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.06"
+    },
+    {
+      "nama_wilayah": "Buton",
+      "kode_wilayah": "82.04.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.06"
+    },
+    {
+      "nama_wilayah": "Jikotamo",
+      "kode_wilayah": "82.04.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.06"
+    },
+    {
+      "nama_wilayah": "Sambiki",
+      "kode_wilayah": "82.04.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.06"
+    },
+    {
+      "nama_wilayah": "Anggai",
+      "kode_wilayah": "82.04.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.06"
+    },
+    {
+      "nama_wilayah": "Air Mangga Indah",
+      "kode_wilayah": "82.04.06.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.06"
+    },
+    {
+      "nama_wilayah": "Akegula",
+      "kode_wilayah": "82.04.06.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.06"
+    },
+    {
+      "nama_wilayah": "Kawasi",
+      "kode_wilayah": "82.04.06.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.06"
+    }
+  ]
+}

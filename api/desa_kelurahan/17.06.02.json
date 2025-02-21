@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Pasar Muko-Muko",
+      "kode_wilayah": "17.06.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.02"
+    },
+    {
+      "nama_wilayah": "Koto Jaya",
+      "kode_wilayah": "17.06.02.1017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.02"
+    },
+    {
+      "nama_wilayah": "Bandar Ratu",
+      "kode_wilayah": "17.06.02.1018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.02"
+    },
+    {
+      "nama_wilayah": "Pasar Sebelah",
+      "kode_wilayah": "17.06.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.02"
+    },
+    {
+      "nama_wilayah": "Ujung Padang",
+      "kode_wilayah": "17.06.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.02"
+    },
+    {
+      "nama_wilayah": "Pondok Batu",
+      "kode_wilayah": "17.06.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.02"
+    },
+    {
+      "nama_wilayah": "Tanah Rekah",
+      "kode_wilayah": "17.06.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.02"
+    },
+    {
+      "nama_wilayah": "Selagan Jaya",
+      "kode_wilayah": "17.06.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.02"
+    },
+    {
+      "nama_wilayah": "Tanah Harapan",
+      "kode_wilayah": "17.06.02.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.06",
+      "kode_kecamatan": "17.06.02"
+    }
+  ]
+}

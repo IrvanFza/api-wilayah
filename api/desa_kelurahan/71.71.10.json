@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Bunaken",
+      "kode_wilayah": "71.71.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.10"
+    },
+    {
+      "nama_wilayah": "Manado Tua Satu",
+      "kode_wilayah": "71.71.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.10"
+    },
+    {
+      "nama_wilayah": "Manado Tua Dua",
+      "kode_wilayah": "71.71.10.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.10"
+    },
+    {
+      "nama_wilayah": "Alung Banua",
+      "kode_wilayah": "71.71.10.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.71",
+      "kode_kecamatan": "71.71.10"
+    }
+  ]
+}

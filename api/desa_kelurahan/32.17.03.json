@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Jambudipa",
+      "kode_wilayah": "32.17.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.03"
+    },
+    {
+      "nama_wilayah": "Padaasih",
+      "kode_wilayah": "32.17.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.03"
+    },
+    {
+      "nama_wilayah": "Pasirhalang",
+      "kode_wilayah": "32.17.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.03"
+    },
+    {
+      "nama_wilayah": "Pasirlangu",
+      "kode_wilayah": "32.17.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.03"
+    },
+    {
+      "nama_wilayah": "Cipada",
+      "kode_wilayah": "32.17.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.03"
+    },
+    {
+      "nama_wilayah": "Kertawangi",
+      "kode_wilayah": "32.17.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.03"
+    },
+    {
+      "nama_wilayah": "Tugumukti",
+      "kode_wilayah": "32.17.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.03"
+    },
+    {
+      "nama_wilayah": "Sadangmekar",
+      "kode_wilayah": "32.17.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.17",
+      "kode_kecamatan": "32.17.03"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Bonti",
+      "kode_wilayah": "61.03.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.05"
+    },
+    {
+      "nama_wilayah": "Sami",
+      "kode_wilayah": "61.03.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.05"
+    },
+    {
+      "nama_wilayah": "Bahta",
+      "kode_wilayah": "61.03.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.05"
+    },
+    {
+      "nama_wilayah": "Upe",
+      "kode_wilayah": "61.03.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.05"
+    },
+    {
+      "nama_wilayah": "Tunggul Boyok",
+      "kode_wilayah": "61.03.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.05"
+    },
+    {
+      "nama_wilayah": "Empodis",
+      "kode_wilayah": "61.03.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.05"
+    },
+    {
+      "nama_wilayah": "Kampuh",
+      "kode_wilayah": "61.03.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.05"
+    },
+    {
+      "nama_wilayah": "Bantai",
+      "kode_wilayah": "61.03.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.05"
+    },
+    {
+      "nama_wilayah": "Majel",
+      "kode_wilayah": "61.03.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.03",
+      "kode_kecamatan": "61.03.05"
+    }
+  ]
+}

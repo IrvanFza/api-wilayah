@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Buong Baru",
+      "kode_wilayah": "65.04.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.04",
+      "kode_kecamatan": "65.04.04"
+    },
+    {
+      "nama_wilayah": "Bebakung",
+      "kode_wilayah": "65.04.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.04",
+      "kode_kecamatan": "65.04.04"
+    },
+    {
+      "nama_wilayah": "Kujau",
+      "kode_wilayah": "65.04.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.04",
+      "kode_kecamatan": "65.04.04"
+    },
+    {
+      "nama_wilayah": "Mendupo",
+      "kode_wilayah": "65.04.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.04",
+      "kode_kecamatan": "65.04.04"
+    },
+    {
+      "nama_wilayah": "Maning",
+      "kode_wilayah": "65.04.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.04",
+      "kode_kecamatan": "65.04.04"
+    },
+    {
+      "nama_wilayah": "Periuk",
+      "kode_wilayah": "65.04.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.04",
+      "kode_kecamatan": "65.04.04"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kanggime",
+      "kode_wilayah": "95.04.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.03"
+    },
+    {
+      "nama_wilayah": "Marlo",
+      "kode_wilayah": "95.04.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.03"
+    },
+    {
+      "nama_wilayah": "Logon",
+      "kode_wilayah": "95.04.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.03"
+    },
+    {
+      "nama_wilayah": "Aulani",
+      "kode_wilayah": "95.04.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.03"
+    },
+    {
+      "nama_wilayah": "Ligiibak",
+      "kode_wilayah": "95.04.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.03"
+    },
+    {
+      "nama_wilayah": "Kerena",
+      "kode_wilayah": "95.04.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.03"
+    },
+    {
+      "nama_wilayah": "Purugi",
+      "kode_wilayah": "95.04.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.03"
+    },
+    {
+      "nama_wilayah": "Lawor",
+      "kode_wilayah": "95.04.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.03"
+    },
+    {
+      "nama_wilayah": "Kagimaluk",
+      "kode_wilayah": "95.04.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.03"
+    },
+    {
+      "nama_wilayah": "Dundu",
+      "kode_wilayah": "95.04.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.03"
+    }
+  ]
+}

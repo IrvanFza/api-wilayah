@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Fanindi",
+      "kode_wilayah": "91.19.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.01"
+    },
+    {
+      "nama_wilayah": "Odori",
+      "kode_wilayah": "91.19.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.01"
+    },
+    {
+      "nama_wilayah": "Biniki",
+      "kode_wilayah": "91.19.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.01"
+    },
+    {
+      "nama_wilayah": "Didiabolo",
+      "kode_wilayah": "91.19.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.01"
+    },
+    {
+      "nama_wilayah": "Warbefondi",
+      "kode_wilayah": "91.19.01.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.01"
+    },
+    {
+      "nama_wilayah": "Awaki",
+      "kode_wilayah": "91.19.01.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.01"
+    },
+    {
+      "nama_wilayah": "Maryaidori",
+      "kode_wilayah": "91.19.01.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.19",
+      "kode_kecamatan": "91.19.01"
+    }
+  ]
+}

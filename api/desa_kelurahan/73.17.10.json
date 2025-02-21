@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bone Pute",
+      "kode_wilayah": "73.17.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.10"
+    },
+    {
+      "nama_wilayah": "Temboe",
+      "kode_wilayah": "73.17.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.10"
+    },
+    {
+      "nama_wilayah": "Sampano",
+      "kode_wilayah": "73.17.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.10"
+    },
+    {
+      "nama_wilayah": "Babang",
+      "kode_wilayah": "73.17.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.10"
+    },
+    {
+      "nama_wilayah": "La-loa",
+      "kode_wilayah": "73.17.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.10"
+    },
+    {
+      "nama_wilayah": "Batulappa",
+      "kode_wilayah": "73.17.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.10"
+    },
+    {
+      "nama_wilayah": "Malewong",
+      "kode_wilayah": "73.17.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.10"
+    },
+    {
+      "nama_wilayah": "Salusana",
+      "kode_wilayah": "73.17.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.10"
+    },
+    {
+      "nama_wilayah": "Dadeko",
+      "kode_wilayah": "73.17.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.10"
+    },
+    {
+      "nama_wilayah": "Gandang Batu",
+      "kode_wilayah": "73.17.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.10"
+    }
+  ]
+}

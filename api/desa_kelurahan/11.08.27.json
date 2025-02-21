@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Alue Dua",
+      "kode_wilayah": "11.08.27.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.08",
+      "kode_kecamatan": "11.08.27"
+    },
+    {
+      "nama_wilayah": "Seumirah",
+      "kode_wilayah": "11.08.27.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.08",
+      "kode_kecamatan": "11.08.27"
+    },
+    {
+      "nama_wilayah": "Darussalam",
+      "kode_wilayah": "11.08.27.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.08",
+      "kode_kecamatan": "11.08.27"
+    },
+    {
+      "nama_wilayah": "Alue Papeun",
+      "kode_wilayah": "11.08.27.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.08",
+      "kode_kecamatan": "11.08.27"
+    },
+    {
+      "nama_wilayah": "Blang Jrat",
+      "kode_wilayah": "11.08.27.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.08",
+      "kode_kecamatan": "11.08.27"
+    },
+    {
+      "nama_wilayah": "Blang Pohroh",
+      "kode_wilayah": "11.08.27.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.08",
+      "kode_kecamatan": "11.08.27"
+    }
+  ]
+}

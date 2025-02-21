@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Hiliwaloo II",
+      "kode_wilayah": "12.25.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.25",
+      "kode_kecamatan": "12.25.04"
+    },
+    {
+      "nama_wilayah": "Gunungbaru",
+      "kode_wilayah": "12.25.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.25",
+      "kode_kecamatan": "12.25.04"
+    },
+    {
+      "nama_wilayah": "Hilisoromi",
+      "kode_wilayah": "12.25.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.25",
+      "kode_kecamatan": "12.25.04"
+    },
+    {
+      "nama_wilayah": "Siduahili",
+      "kode_wilayah": "12.25.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.25",
+      "kode_kecamatan": "12.25.04"
+    },
+    {
+      "nama_wilayah": "Sitolubanua Fadoro",
+      "kode_wilayah": "12.25.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.25",
+      "kode_kecamatan": "12.25.04"
+    },
+    {
+      "nama_wilayah": "Halifadolo",
+      "kode_wilayah": "12.25.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.25",
+      "kode_kecamatan": "12.25.04"
+    },
+    {
+      "nama_wilayah": "Lasara Bahili",
+      "kode_wilayah": "12.25.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.25",
+      "kode_kecamatan": "12.25.04"
+    },
+    {
+      "nama_wilayah": "Hiliwaele",
+      "kode_wilayah": "12.25.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.25",
+      "kode_kecamatan": "12.25.04"
+    },
+    {
+      "nama_wilayah": "Sitoluewali",
+      "kode_wilayah": "12.25.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.25",
+      "kode_kecamatan": "12.25.04"
+    },
+    {
+      "nama_wilayah": "Onozalukhu You",
+      "kode_wilayah": "12.25.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.25",
+      "kode_kecamatan": "12.25.04"
+    }
+  ]
+}

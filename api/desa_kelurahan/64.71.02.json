@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Baru Ilir",
+      "kode_wilayah": "64.71.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.02"
+    },
+    {
+      "nama_wilayah": "Baru Tengah",
+      "kode_wilayah": "64.71.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.02"
+    },
+    {
+      "nama_wilayah": "Baru Ulu",
+      "kode_wilayah": "64.71.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.02"
+    },
+    {
+      "nama_wilayah": "Kariangau",
+      "kode_wilayah": "64.71.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.02"
+    },
+    {
+      "nama_wilayah": "Margo Mulyo",
+      "kode_wilayah": "64.71.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.02"
+    },
+    {
+      "nama_wilayah": "Marga Sari",
+      "kode_wilayah": "64.71.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.02"
+    }
+  ]
+}

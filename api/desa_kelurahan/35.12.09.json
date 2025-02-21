@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Glugur",
+      "kode_wilayah": "35.12.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.09"
+    },
+    {
+      "nama_wilayah": "Mangaran",
+      "kode_wilayah": "35.12.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.09"
+    },
+    {
+      "nama_wilayah": "Tanjung Kamal",
+      "kode_wilayah": "35.12.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.09"
+    },
+    {
+      "nama_wilayah": "Semiring",
+      "kode_wilayah": "35.12.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.09"
+    },
+    {
+      "nama_wilayah": "Tanjung Pecinan",
+      "kode_wilayah": "35.12.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.09"
+    },
+    {
+      "nama_wilayah": "Trebungan",
+      "kode_wilayah": "35.12.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.12",
+      "kode_kecamatan": "35.12.09"
+    }
+  ]
+}

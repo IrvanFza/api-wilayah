@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Oeltuah",
+      "kode_wilayah": "53.01.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.24"
+    },
+    {
+      "nama_wilayah": "Baumata",
+      "kode_wilayah": "53.01.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.24"
+    },
+    {
+      "nama_wilayah": "Kuaklalo",
+      "kode_wilayah": "53.01.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.24"
+    },
+    {
+      "nama_wilayah": "Oeletsala",
+      "kode_wilayah": "53.01.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.24"
+    },
+    {
+      "nama_wilayah": "Bokong",
+      "kode_wilayah": "53.01.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.24"
+    },
+    {
+      "nama_wilayah": "Baumata Utara",
+      "kode_wilayah": "53.01.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.24"
+    },
+    {
+      "nama_wilayah": "Baumata Timur",
+      "kode_wilayah": "53.01.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.24"
+    },
+    {
+      "nama_wilayah": "Baumata Barat",
+      "kode_wilayah": "53.01.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.24"
+    }
+  ]
+}

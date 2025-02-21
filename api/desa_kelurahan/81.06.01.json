@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kamarian",
+      "kode_wilayah": "81.06.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.01"
+    },
+    {
+      "nama_wilayah": "Seruawan",
+      "kode_wilayah": "81.06.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.01"
+    },
+    {
+      "nama_wilayah": "Kairatu",
+      "kode_wilayah": "81.06.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.01"
+    },
+    {
+      "nama_wilayah": "Waimital",
+      "kode_wilayah": "81.06.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.01"
+    },
+    {
+      "nama_wilayah": "Hatusua",
+      "kode_wilayah": "81.06.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.01"
+    },
+    {
+      "nama_wilayah": "Waipirit",
+      "kode_wilayah": "81.06.01.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.01"
+    },
+    {
+      "nama_wilayah": "Uraur",
+      "kode_wilayah": "81.06.01.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.01"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Cihideung",
+      "kode_wilayah": "32.78.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.78",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cipedes",
+      "kode_wilayah": "32.78.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.78",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Tawang",
+      "kode_wilayah": "32.78.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.78",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Indihiang",
+      "kode_wilayah": "32.78.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.78",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Kawalu",
+      "kode_wilayah": "32.78.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.78",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cibeureum",
+      "kode_wilayah": "32.78.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.78",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Tamansari",
+      "kode_wilayah": "32.78.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.78",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Mangkubumi",
+      "kode_wilayah": "32.78.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.78",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Bungursari",
+      "kode_wilayah": "32.78.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.78",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Purbaratu",
+      "kode_wilayah": "32.78.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.78",
+      "kode_provinsi": "32"
+    }
+  ]
+}

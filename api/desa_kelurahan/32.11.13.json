@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Cigendel",
+      "kode_wilayah": "32.11.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.13"
+    },
+    {
+      "nama_wilayah": "Cijeruk",
+      "kode_wilayah": "32.11.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.13"
+    },
+    {
+      "nama_wilayah": "Pamulihan",
+      "kode_wilayah": "32.11.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.13"
+    },
+    {
+      "nama_wilayah": "Haurngombong",
+      "kode_wilayah": "32.11.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.13"
+    },
+    {
+      "nama_wilayah": "Cilembu",
+      "kode_wilayah": "32.11.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.13"
+    },
+    {
+      "nama_wilayah": "Cimarias",
+      "kode_wilayah": "32.11.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.13"
+    },
+    {
+      "nama_wilayah": "Cinanggerang",
+      "kode_wilayah": "32.11.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.13"
+    },
+    {
+      "nama_wilayah": "Mekarbakti",
+      "kode_wilayah": "32.11.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.13"
+    },
+    {
+      "nama_wilayah": "Sukawangi",
+      "kode_wilayah": "32.11.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.13"
+    },
+    {
+      "nama_wilayah": "Ciptasari",
+      "kode_wilayah": "32.11.13.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.13"
+    },
+    {
+      "nama_wilayah": "Citali",
+      "kode_wilayah": "32.11.13.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.13"
+    }
+  ]
+}

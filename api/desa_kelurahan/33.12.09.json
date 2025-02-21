@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Mojopuro",
+      "kode_wilayah": "33.12.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.09"
+    },
+    {
+      "nama_wilayah": "Wuryantoro",
+      "kode_wilayah": "33.12.09.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.09"
+    },
+    {
+      "nama_wilayah": "Genukharjo",
+      "kode_wilayah": "33.12.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.09"
+    },
+    {
+      "nama_wilayah": "Sumberejo",
+      "kode_wilayah": "33.12.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.09"
+    },
+    {
+      "nama_wilayah": "Mlopoharjo",
+      "kode_wilayah": "33.12.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.09"
+    },
+    {
+      "nama_wilayah": "Pulutan Kulon",
+      "kode_wilayah": "33.12.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.09"
+    },
+    {
+      "nama_wilayah": "Pulutan Wetan",
+      "kode_wilayah": "33.12.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.09"
+    },
+    {
+      "nama_wilayah": "Gumiwang Lor",
+      "kode_wilayah": "33.12.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.09"
+    }
+  ]
+}

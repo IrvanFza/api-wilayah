@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Bulila",
+      "kode_wilayah": "75.01.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.02"
+    },
+    {
+      "nama_wilayah": "Mongolato",
+      "kode_wilayah": "75.01.02.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.02"
+    },
+    {
+      "nama_wilayah": "Luhu",
+      "kode_wilayah": "75.01.02.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.02"
+    },
+    {
+      "nama_wilayah": "Hulawa",
+      "kode_wilayah": "75.01.02.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.02"
+    },
+    {
+      "nama_wilayah": "Pilohayanga",
+      "kode_wilayah": "75.01.02.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.02"
+    },
+    {
+      "nama_wilayah": "Dulamayo Selatan",
+      "kode_wilayah": "75.01.02.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.02"
+    },
+    {
+      "nama_wilayah": "Dulamayo Barat",
+      "kode_wilayah": "75.01.02.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.02"
+    },
+    {
+      "nama_wilayah": "Dulohupa",
+      "kode_wilayah": "75.01.02.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.02"
+    },
+    {
+      "nama_wilayah": "Pilohayanga Barat",
+      "kode_wilayah": "75.01.02.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.02"
+    }
+  ]
+}

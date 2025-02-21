@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Deta",
+      "kode_wilayah": "94.03.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.22"
+    },
+    {
+      "nama_wilayah": "Tuguwai",
+      "kode_wilayah": "94.03.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.22"
+    },
+    {
+      "nama_wilayah": "Tuguwai Moma",
+      "kode_wilayah": "94.03.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.22"
+    },
+    {
+      "nama_wilayah": "Bumaida",
+      "kode_wilayah": "94.03.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.22"
+    },
+    {
+      "nama_wilayah": "Debaiye",
+      "kode_wilayah": "94.03.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.22"
+    },
+    {
+      "nama_wilayah": "Komopa",
+      "kode_wilayah": "94.03.22.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.22"
+    }
+  ]
+}

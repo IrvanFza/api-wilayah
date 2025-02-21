@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Salimbatu",
+      "kode_wilayah": "65.01.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.06"
+    },
+    {
+      "nama_wilayah": "Silva Rahayu",
+      "kode_wilayah": "65.01.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.06"
+    },
+    {
+      "nama_wilayah": "Tanjung Buka",
+      "kode_wilayah": "65.01.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.06"
+    }
+  ]
+}

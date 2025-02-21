@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Tentena",
+      "kode_wilayah": "72.02.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.04"
+    },
+    {
+      "nama_wilayah": "Pamona",
+      "kode_wilayah": "72.02.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.04"
+    },
+    {
+      "nama_wilayah": "Sangele",
+      "kode_wilayah": "72.02.04.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.04"
+    },
+    {
+      "nama_wilayah": "Tonusu",
+      "kode_wilayah": "72.02.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.04"
+    },
+    {
+      "nama_wilayah": "Mayakeli",
+      "kode_wilayah": "72.02.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.04"
+    },
+    {
+      "nama_wilayah": "Buyumpondoli",
+      "kode_wilayah": "72.02.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.04"
+    },
+    {
+      "nama_wilayah": "Peura",
+      "kode_wilayah": "72.02.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.04"
+    },
+    {
+      "nama_wilayah": "Dulumai",
+      "kode_wilayah": "72.02.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.04"
+    },
+    {
+      "nama_wilayah": "Soe",
+      "kode_wilayah": "72.02.04.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.04"
+    },
+    {
+      "nama_wilayah": "Leboni",
+      "kode_wilayah": "72.02.04.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.04"
+    },
+    {
+      "nama_wilayah": "Wera",
+      "kode_wilayah": "72.02.04.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.04"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Besana",
+      "kode_wilayah": "53.02.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.22"
+    },
+    {
+      "nama_wilayah": "Fatukoko",
+      "kode_wilayah": "53.02.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.22"
+    },
+    {
+      "nama_wilayah": "Koa",
+      "kode_wilayah": "53.02.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.22"
+    },
+    {
+      "nama_wilayah": "Oel Uban",
+      "kode_wilayah": "53.02.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.22"
+    },
+    {
+      "nama_wilayah": "Salbait",
+      "kode_wilayah": "53.02.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.22"
+    }
+  ]
+}

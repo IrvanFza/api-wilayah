@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Madang",
+      "kode_wilayah": "63.09.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.08"
+    },
+    {
+      "nama_wilayah": "Tantaringin",
+      "kode_wilayah": "63.09.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.08"
+    },
+    {
+      "nama_wilayah": "Murung Karangan",
+      "kode_wilayah": "63.09.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.08"
+    },
+    {
+      "nama_wilayah": "Padangin",
+      "kode_wilayah": "63.09.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.08"
+    },
+    {
+      "nama_wilayah": "Manduin",
+      "kode_wilayah": "63.09.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.08"
+    },
+    {
+      "nama_wilayah": "Mantuil",
+      "kode_wilayah": "63.09.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.08"
+    },
+    {
+      "nama_wilayah": "Harus",
+      "kode_wilayah": "63.09.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.09",
+      "kode_kecamatan": "63.09.08"
+    }
+  ]
+}

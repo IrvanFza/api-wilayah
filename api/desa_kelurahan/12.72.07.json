@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Gurilla",
+      "kode_wilayah": "12.72.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.07"
+    },
+    {
+      "nama_wilayah": "Bah Kapul",
+      "kode_wilayah": "12.72.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.07"
+    },
+    {
+      "nama_wilayah": "Setia Negara",
+      "kode_wilayah": "12.72.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.07"
+    },
+    {
+      "nama_wilayah": "Bukit Sofa",
+      "kode_wilayah": "12.72.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.07"
+    },
+    {
+      "nama_wilayah": "Bah Sorma",
+      "kode_wilayah": "12.72.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.07"
+    }
+  ]
+}

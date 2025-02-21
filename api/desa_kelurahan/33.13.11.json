@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Suruhkalang",
+      "kode_wilayah": "33.13.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.11"
+    },
+    {
+      "nama_wilayah": "Jati",
+      "kode_wilayah": "33.13.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.11"
+    },
+    {
+      "nama_wilayah": "Jaten",
+      "kode_wilayah": "33.13.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.11"
+    },
+    {
+      "nama_wilayah": "Dagen",
+      "kode_wilayah": "33.13.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.11"
+    },
+    {
+      "nama_wilayah": "Ngringo",
+      "kode_wilayah": "33.13.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.11"
+    },
+    {
+      "nama_wilayah": "Jetis",
+      "kode_wilayah": "33.13.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.11"
+    },
+    {
+      "nama_wilayah": "Sroyo",
+      "kode_wilayah": "33.13.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.11"
+    },
+    {
+      "nama_wilayah": "Brujul",
+      "kode_wilayah": "33.13.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.11"
+    }
+  ]
+}

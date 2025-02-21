@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Saringan",
+      "kode_wilayah": "13.73.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.73",
+      "kode_kecamatan": "13.73.02"
+    },
+    {
+      "nama_wilayah": "Lubang Panjang",
+      "kode_wilayah": "13.73.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.73",
+      "kode_kecamatan": "13.73.02"
+    },
+    {
+      "nama_wilayah": "Durian I",
+      "kode_wilayah": "13.73.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.73",
+      "kode_kecamatan": "13.73.02"
+    },
+    {
+      "nama_wilayah": "Durian II",
+      "kode_wilayah": "13.73.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.73",
+      "kode_kecamatan": "13.73.02"
+    },
+    {
+      "nama_wilayah": "Santur",
+      "kode_wilayah": "13.73.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.73",
+      "kode_kecamatan": "13.73.02"
+    },
+    {
+      "nama_wilayah": "Kolok Mudiak",
+      "kode_wilayah": "13.73.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.73",
+      "kode_kecamatan": "13.73.02"
+    },
+    {
+      "nama_wilayah": "Kolok Nan Tuo",
+      "kode_wilayah": "13.73.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.73",
+      "kode_kecamatan": "13.73.02"
+    },
+    {
+      "nama_wilayah": "Talago Gunung",
+      "kode_wilayah": "13.73.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.73",
+      "kode_kecamatan": "13.73.02"
+    },
+    {
+      "nama_wilayah": "Lumindai",
+      "kode_wilayah": "13.73.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.73",
+      "kode_kecamatan": "13.73.02"
+    },
+    {
+      "nama_wilayah": "Balai Batu Sandaran",
+      "kode_wilayah": "13.73.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.73",
+      "kode_kecamatan": "13.73.02"
+    }
+  ]
+}

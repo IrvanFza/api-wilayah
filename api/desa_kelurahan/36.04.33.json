@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Gunungsari",
+      "kode_wilayah": "36.04.33.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.33"
+    },
+    {
+      "nama_wilayah": "Ciherang",
+      "kode_wilayah": "36.04.33.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.33"
+    },
+    {
+      "nama_wilayah": "Tamiang",
+      "kode_wilayah": "36.04.33.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.33"
+    },
+    {
+      "nama_wilayah": "Sukalaba",
+      "kode_wilayah": "36.04.33.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.33"
+    },
+    {
+      "nama_wilayah": "Kadu Agung",
+      "kode_wilayah": "36.04.33.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.33"
+    },
+    {
+      "nama_wilayah": "Luwuk",
+      "kode_wilayah": "36.04.33.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.33"
+    },
+    {
+      "nama_wilayah": "Curug Sulanjana",
+      "kode_wilayah": "36.04.33.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.33"
+    }
+  ]
+}

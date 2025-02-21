@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kayumoyondi",
+      "kode_wilayah": "71.10.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.01"
+    },
+    {
+      "nama_wilayah": "Tombolikat",
+      "kode_wilayah": "71.10.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.01"
+    },
+    {
+      "nama_wilayah": "Tutuyan",
+      "kode_wilayah": "71.10.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.01"
+    },
+    {
+      "nama_wilayah": "Togid",
+      "kode_wilayah": "71.10.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.01"
+    },
+    {
+      "nama_wilayah": "Dodap",
+      "kode_wilayah": "71.10.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.01"
+    },
+    {
+      "nama_wilayah": "Dodap Pantai",
+      "kode_wilayah": "71.10.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.01"
+    },
+    {
+      "nama_wilayah": "Tutuyan II",
+      "kode_wilayah": "71.10.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.01"
+    },
+    {
+      "nama_wilayah": "Tutuyan III",
+      "kode_wilayah": "71.10.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.01"
+    },
+    {
+      "nama_wilayah": "Tombolikat Selatan",
+      "kode_wilayah": "71.10.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.01"
+    },
+    {
+      "nama_wilayah": "Dodop Mikasa",
+      "kode_wilayah": "71.10.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.01"
+    }
+  ]
+}

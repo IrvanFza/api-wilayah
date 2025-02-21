@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Cibeureum Hilir",
+      "kode_wilayah": "32.72.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.72",
+      "kode_kecamatan": "32.72.07"
+    },
+    {
+      "nama_wilayah": "Babakan",
+      "kode_wilayah": "32.72.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.72",
+      "kode_kecamatan": "32.72.07"
+    },
+    {
+      "nama_wilayah": "Sindangpalay",
+      "kode_wilayah": "32.72.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.72",
+      "kode_kecamatan": "32.72.07"
+    },
+    {
+      "nama_wilayah": "Limusnunggal",
+      "kode_wilayah": "32.72.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.72",
+      "kode_kecamatan": "32.72.07"
+    }
+  ]
+}

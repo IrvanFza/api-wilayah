@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Dumaring",
+      "kode_wilayah": "64.03.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.02"
+    },
+    {
+      "nama_wilayah": "Talisayan",
+      "kode_wilayah": "64.03.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.02"
+    },
+    {
+      "nama_wilayah": "Campur Sari",
+      "kode_wilayah": "64.03.02.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.02"
+    },
+    {
+      "nama_wilayah": "Bumi Jaya",
+      "kode_wilayah": "64.03.02.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.02"
+    },
+    {
+      "nama_wilayah": "Tunggal Bumi",
+      "kode_wilayah": "64.03.02.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.02"
+    },
+    {
+      "nama_wilayah": "Sumber Mulya",
+      "kode_wilayah": "64.03.02.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.02"
+    },
+    {
+      "nama_wilayah": "Suka Murya",
+      "kode_wilayah": "64.03.02.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.02"
+    },
+    {
+      "nama_wilayah": "Purna Sari Jaya",
+      "kode_wilayah": "64.03.02.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.02"
+    },
+    {
+      "nama_wilayah": "Eka Sapta",
+      "kode_wilayah": "64.03.02.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.02"
+    },
+    {
+      "nama_wilayah": "Capuak",
+      "kode_wilayah": "64.03.02.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.02"
+    }
+  ]
+}

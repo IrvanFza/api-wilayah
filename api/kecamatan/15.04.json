@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Mersam",
+      "kode_wilayah": "15.04.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.04",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Muara Tembesi",
+      "kode_wilayah": "15.04.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.04",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Muara Bulian",
+      "kode_wilayah": "15.04.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.04",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Batin XXIV",
+      "kode_wilayah": "15.04.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.04",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Pemayung",
+      "kode_wilayah": "15.04.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.04",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Maro Sebo Ulu",
+      "kode_wilayah": "15.04.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.04",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Bajubang",
+      "kode_wilayah": "15.04.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.04",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Maro Sebo Ilir",
+      "kode_wilayah": "15.04.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.04",
+      "kode_provinsi": "15"
+    }
+  ]
+}

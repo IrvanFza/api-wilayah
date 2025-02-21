@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Bisui",
+      "kode_wilayah": "82.04.27.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.27"
+    },
+    {
+      "nama_wilayah": "Lelewi",
+      "kode_wilayah": "82.04.27.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.27"
+    },
+    {
+      "nama_wilayah": "Luim",
+      "kode_wilayah": "82.04.27.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.27"
+    },
+    {
+      "nama_wilayah": "Matuting",
+      "kode_wilayah": "82.04.27.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.27"
+    },
+    {
+      "nama_wilayah": "Matuting Tanjung",
+      "kode_wilayah": "82.04.27.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.27"
+    },
+    {
+      "nama_wilayah": "Tabahidayah",
+      "kode_wilayah": "82.04.27.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.27"
+    },
+    {
+      "nama_wilayah": "Tabahijrah",
+      "kode_wilayah": "82.04.27.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.27"
+    },
+    {
+      "nama_wilayah": "Tagia",
+      "kode_wilayah": "82.04.27.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.04",
+      "kode_kecamatan": "82.04.27"
+    }
+  ]
+}

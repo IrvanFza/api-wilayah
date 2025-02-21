@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tapos",
+      "kode_wilayah": "32.76.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.10"
+    },
+    {
+      "nama_wilayah": "Leuwinanggung",
+      "kode_wilayah": "32.76.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.10"
+    },
+    {
+      "nama_wilayah": "Sukatani",
+      "kode_wilayah": "32.76.10.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.10"
+    },
+    {
+      "nama_wilayah": "Sukamaju Baru",
+      "kode_wilayah": "32.76.10.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.10"
+    },
+    {
+      "nama_wilayah": "Jatijajar",
+      "kode_wilayah": "32.76.10.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.10"
+    },
+    {
+      "nama_wilayah": "Cilangkap",
+      "kode_wilayah": "32.76.10.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.10"
+    },
+    {
+      "nama_wilayah": "Cimpaeun",
+      "kode_wilayah": "32.76.10.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.76",
+      "kode_kecamatan": "32.76.10"
+    }
+  ]
+}

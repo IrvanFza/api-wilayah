@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Paguyaman",
+      "kode_wilayah": "75.02.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.02",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Wonosari",
+      "kode_wilayah": "75.02.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.02",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Dulupi",
+      "kode_wilayah": "75.02.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.02",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Tilamuta",
+      "kode_wilayah": "75.02.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.02",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Mananggu",
+      "kode_wilayah": "75.02.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.02",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Botumoito",
+      "kode_wilayah": "75.02.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.02",
+      "kode_provinsi": "75"
+    },
+    {
+      "nama_wilayah": "Paguyaman Pantai",
+      "kode_wilayah": "75.02.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "75.02",
+      "kode_provinsi": "75"
+    }
+  ]
+}

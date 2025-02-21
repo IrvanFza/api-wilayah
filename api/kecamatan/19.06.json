@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Manggar",
+      "kode_wilayah": "19.06.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.06",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Gantung",
+      "kode_wilayah": "19.06.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.06",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Dendang",
+      "kode_wilayah": "19.06.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.06",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Kelapa Kampit",
+      "kode_wilayah": "19.06.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.06",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Damar",
+      "kode_wilayah": "19.06.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.06",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Simpang Renggiang",
+      "kode_wilayah": "19.06.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.06",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Simpang Pesak",
+      "kode_wilayah": "19.06.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.06",
+      "kode_provinsi": "19"
+    }
+  ]
+}

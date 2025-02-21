@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Pining",
+      "kode_wilayah": "11.13.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.05"
+    },
+    {
+      "nama_wilayah": "Pertik",
+      "kode_wilayah": "11.13.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.05"
+    },
+    {
+      "nama_wilayah": "Ekan",
+      "kode_wilayah": "11.13.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.05"
+    },
+    {
+      "nama_wilayah": "Uring",
+      "kode_wilayah": "11.13.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.05"
+    },
+    {
+      "nama_wilayah": "Gajah",
+      "kode_wilayah": "11.13.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.05"
+    },
+    {
+      "nama_wilayah": "Pintu Rime",
+      "kode_wilayah": "11.13.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.05"
+    },
+    {
+      "nama_wilayah": "Pepelah",
+      "kode_wilayah": "11.13.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.05"
+    },
+    {
+      "nama_wilayah": "Pasir Putih",
+      "kode_wilayah": "11.13.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.05"
+    },
+    {
+      "nama_wilayah": "Lesten",
+      "kode_wilayah": "11.13.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.05"
+    }
+  ]
+}

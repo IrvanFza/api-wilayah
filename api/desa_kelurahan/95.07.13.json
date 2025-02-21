@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tepogi",
+      "kode_wilayah": "95.07.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.13"
+    },
+    {
+      "nama_wilayah": "Ninabua",
+      "kode_wilayah": "95.07.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.13"
+    },
+    {
+      "nama_wilayah": "Golikme",
+      "kode_wilayah": "95.07.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.13"
+    },
+    {
+      "nama_wilayah": "Ninengwa",
+      "kode_wilayah": "95.07.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.13"
+    },
+    {
+      "nama_wilayah": "Weri",
+      "kode_wilayah": "95.07.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.13"
+    },
+    {
+      "nama_wilayah": "Gumagame",
+      "kode_wilayah": "95.07.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.13"
+    },
+    {
+      "nama_wilayah": "Abua",
+      "kode_wilayah": "95.07.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.13"
+    }
+  ]
+}

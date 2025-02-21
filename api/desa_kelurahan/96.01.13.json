@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Klagen",
+      "kode_wilayah": "96.01.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.13"
+    },
+    {
+      "nama_wilayah": "Safdesa",
+      "kode_wilayah": "96.01.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.13"
+    },
+    {
+      "nama_wilayah": "Suluh",
+      "kode_wilayah": "96.01.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.13"
+    },
+    {
+      "nama_wilayah": "Klatim",
+      "kode_wilayah": "96.01.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.13"
+    },
+    {
+      "nama_wilayah": "Kamuyar",
+      "kode_wilayah": "96.01.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.13"
+    },
+    {
+      "nama_wilayah": "Klaos",
+      "kode_wilayah": "96.01.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.13"
+    },
+    {
+      "nama_wilayah": "Klaka",
+      "kode_wilayah": "96.01.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.13"
+    },
+    {
+      "nama_wilayah": "Bousui",
+      "kode_wilayah": "96.01.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.13"
+    },
+    {
+      "nama_wilayah": "Luwelala",
+      "kode_wilayah": "96.01.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.13"
+    }
+  ]
+}

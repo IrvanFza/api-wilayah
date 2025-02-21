@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Salakiti",
+      "kode_wilayah": "92.03.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.16"
+    },
+    {
+      "nama_wilayah": "Tawar",
+      "kode_wilayah": "92.03.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.16"
+    },
+    {
+      "nama_wilayah": "Gar",
+      "kode_wilayah": "92.03.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.16"
+    },
+    {
+      "nama_wilayah": "Rumbati",
+      "kode_wilayah": "92.03.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.16"
+    },
+    {
+      "nama_wilayah": "Werfra",
+      "kode_wilayah": "92.03.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.16"
+    },
+    {
+      "nama_wilayah": "Tanehamur",
+      "kode_wilayah": "92.03.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.16"
+    },
+    {
+      "nama_wilayah": "Sengkiti",
+      "kode_wilayah": "92.03.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.16"
+    },
+    {
+      "nama_wilayah": "Twootkindik",
+      "kode_wilayah": "92.03.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.16"
+    }
+  ]
+}

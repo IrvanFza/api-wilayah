@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Wiyung",
+      "kode_wilayah": "35.78.20.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.20"
+    },
+    {
+      "nama_wilayah": "Jajar Tunggal",
+      "kode_wilayah": "35.78.20.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.20"
+    },
+    {
+      "nama_wilayah": "Babatan",
+      "kode_wilayah": "35.78.20.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.20"
+    },
+    {
+      "nama_wilayah": "Balas Klumprik",
+      "kode_wilayah": "35.78.20.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.20"
+    }
+  ]
+}

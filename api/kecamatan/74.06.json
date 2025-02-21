@@ -1,0 +1,160 @@
+{
+  "status": "success",
+  "total": 22,
+  "data": [
+    {
+      "nama_wilayah": "Poleang",
+      "kode_wilayah": "74.06.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Poleang Timur",
+      "kode_wilayah": "74.06.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Rarowatu",
+      "kode_wilayah": "74.06.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Rumbia",
+      "kode_wilayah": "74.06.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Kabaena",
+      "kode_wilayah": "74.06.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Kabaena Timur",
+      "kode_wilayah": "74.06.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Poleang Barat",
+      "kode_wilayah": "74.06.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Mata Oleo",
+      "kode_wilayah": "74.06.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Rarowatu Utara",
+      "kode_wilayah": "74.06.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Poleang Utara",
+      "kode_wilayah": "74.06.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Poleang Selatan",
+      "kode_wilayah": "74.06.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Poleang Tenggara",
+      "kode_wilayah": "74.06.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Kabaena Selatan",
+      "kode_wilayah": "74.06.13",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Kabaena Barat",
+      "kode_wilayah": "74.06.14",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Kabaena Utara",
+      "kode_wilayah": "74.06.15",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Kabaena Tengah",
+      "kode_wilayah": "74.06.16",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Kep. Masaloka Raya",
+      "kode_wilayah": "74.06.17",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Rumbia Tengah",
+      "kode_wilayah": "74.06.18",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Poleang Tengah",
+      "kode_wilayah": "74.06.19",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Tontonunu",
+      "kode_wilayah": "74.06.20",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Lantari Jaya",
+      "kode_wilayah": "74.06.21",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    },
+    {
+      "nama_wilayah": "Mata Usu",
+      "kode_wilayah": "74.06.22",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "74.06",
+      "kode_provinsi": "74"
+    }
+  ]
+}

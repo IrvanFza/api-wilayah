@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Bandar Jaya",
+      "kode_wilayah": "15.07.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.04"
+    },
+    {
+      "nama_wilayah": "Rantau Rasau I",
+      "kode_wilayah": "15.07.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.04"
+    },
+    {
+      "nama_wilayah": "Rantau Rasau II",
+      "kode_wilayah": "15.07.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.04"
+    },
+    {
+      "nama_wilayah": "Harapan Makmur",
+      "kode_wilayah": "15.07.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.04"
+    },
+    {
+      "nama_wilayah": "Bangun Karya",
+      "kode_wilayah": "15.07.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.04"
+    },
+    {
+      "nama_wilayah": "Rantau Jaya",
+      "kode_wilayah": "15.07.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.04"
+    },
+    {
+      "nama_wilayah": "Sungai Dusun",
+      "kode_wilayah": "15.07.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.04"
+    },
+    {
+      "nama_wilayah": "Karya Bakti",
+      "kode_wilayah": "15.07.04.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.04"
+    },
+    {
+      "nama_wilayah": "Marga Mulya",
+      "kode_wilayah": "15.07.04.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.04"
+    },
+    {
+      "nama_wilayah": "Pematang Mayan",
+      "kode_wilayah": "15.07.04.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.04"
+    },
+    {
+      "nama_wilayah": "Tri Mulyo",
+      "kode_wilayah": "15.07.04.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.04"
+    }
+  ]
+}

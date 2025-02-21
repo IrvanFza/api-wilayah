@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Medewi",
+      "kode_wilayah": "51.01.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.03"
+    },
+    {
+      "nama_wilayah": "Pulukan",
+      "kode_wilayah": "51.01.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.03"
+    },
+    {
+      "nama_wilayah": "Asahduren",
+      "kode_wilayah": "51.01.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.03"
+    },
+    {
+      "nama_wilayah": "Pekutatan",
+      "kode_wilayah": "51.01.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.03"
+    },
+    {
+      "nama_wilayah": "Pangyangan",
+      "kode_wilayah": "51.01.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.03"
+    },
+    {
+      "nama_wilayah": "Gumbrih",
+      "kode_wilayah": "51.01.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.03"
+    },
+    {
+      "nama_wilayah": "Manggissari",
+      "kode_wilayah": "51.01.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.03"
+    },
+    {
+      "nama_wilayah": "Pengeragoan",
+      "kode_wilayah": "51.01.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.03"
+    }
+  ]
+}

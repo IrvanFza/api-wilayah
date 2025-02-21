@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "total": 2,
+  "data": [
+    {
+      "nama_wilayah": "Pulau Panjang",
+      "kode_wilayah": "21.03.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.23"
+    },
+    {
+      "nama_wilayah": "Pulau Kerdau",
+      "kode_wilayah": "21.03.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.23"
+    }
+  ]
+}

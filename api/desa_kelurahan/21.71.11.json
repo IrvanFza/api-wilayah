@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tembesi",
+      "kode_wilayah": "21.71.11.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.11"
+    },
+    {
+      "nama_wilayah": "Sungai Binti",
+      "kode_wilayah": "21.71.11.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.11"
+    },
+    {
+      "nama_wilayah": "Sungai Lekop",
+      "kode_wilayah": "21.71.11.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.11"
+    },
+    {
+      "nama_wilayah": "Sagulung Kota",
+      "kode_wilayah": "21.71.11.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.11"
+    },
+    {
+      "nama_wilayah": "Sungai Langkai",
+      "kode_wilayah": "21.71.11.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.11"
+    },
+    {
+      "nama_wilayah": "Sungai Pelunggut",
+      "kode_wilayah": "21.71.11.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.71",
+      "kode_kecamatan": "21.71.11"
+    }
+  ]
+}

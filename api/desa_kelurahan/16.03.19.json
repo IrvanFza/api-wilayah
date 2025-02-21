@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Padang Bindu",
+      "kode_wilayah": "16.03.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.19"
+    },
+    {
+      "nama_wilayah": "Betung",
+      "kode_wilayah": "16.03.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.19"
+    },
+    {
+      "nama_wilayah": "Pagar Dewa",
+      "kode_wilayah": "16.03.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.19"
+    },
+    {
+      "nama_wilayah": "Pagarjati",
+      "kode_wilayah": "16.03.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.19"
+    },
+    {
+      "nama_wilayah": "Hidup Baru",
+      "kode_wilayah": "16.03.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.19"
+    },
+    {
+      "nama_wilayah": "Rami Pasai",
+      "kode_wilayah": "16.03.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.19"
+    }
+  ]
+}

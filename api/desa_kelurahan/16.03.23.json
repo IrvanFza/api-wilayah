@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung",
+      "kode_wilayah": "16.03.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.23"
+    },
+    {
+      "nama_wilayah": "Simpang Tanjung",
+      "kode_wilayah": "16.03.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.23"
+    },
+    {
+      "nama_wilayah": "Cinta Kasih",
+      "kode_wilayah": "16.03.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.23"
+    },
+    {
+      "nama_wilayah": "Teluk Lubuk",
+      "kode_wilayah": "16.03.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.23"
+    },
+    {
+      "nama_wilayah": "Berugo",
+      "kode_wilayah": "16.03.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.23"
+    },
+    {
+      "nama_wilayah": "Belimbing",
+      "kode_wilayah": "16.03.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.23"
+    },
+    {
+      "nama_wilayah": "Bulang",
+      "kode_wilayah": "16.03.23.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.23"
+    },
+    {
+      "nama_wilayah": "Belimbing Jaya",
+      "kode_wilayah": "16.03.23.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.23"
+    },
+    {
+      "nama_wilayah": "Darmo Kasih",
+      "kode_wilayah": "16.03.23.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.23"
+    },
+    {
+      "nama_wilayah": "Dalam",
+      "kode_wilayah": "16.03.23.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.23"
+    }
+  ]
+}

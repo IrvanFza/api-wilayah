@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Padangsidimpuan Utara",
+      "kode_wilayah": "12.77.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.77",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Padangsidimpuan Selatan",
+      "kode_wilayah": "12.77.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.77",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Padangsidimpuan Batunadua",
+      "kode_wilayah": "12.77.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.77",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Padangsidimpuan Hutaimbaru",
+      "kode_wilayah": "12.77.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.77",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Padangsidimpuan Tenggara",
+      "kode_wilayah": "12.77.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.77",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Padangsidimpuan Angkola Julu",
+      "kode_wilayah": "12.77.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.77",
+      "kode_provinsi": "12"
+    }
+  ]
+}

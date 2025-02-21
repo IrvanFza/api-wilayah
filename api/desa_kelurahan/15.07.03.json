@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Mendahara Ilir",
+      "kode_wilayah": "15.07.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.03"
+    },
+    {
+      "nama_wilayah": "Pangkal Duri",
+      "kode_wilayah": "15.07.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.03"
+    },
+    {
+      "nama_wilayah": "Mendahara Tengah",
+      "kode_wilayah": "15.07.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.03"
+    },
+    {
+      "nama_wilayah": "Lagan Ilir",
+      "kode_wilayah": "15.07.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.03"
+    },
+    {
+      "nama_wilayah": "Sinar Kalimantan",
+      "kode_wilayah": "15.07.03.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.03"
+    },
+    {
+      "nama_wilayah": "Sungai Tawar",
+      "kode_wilayah": "15.07.03.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.03"
+    },
+    {
+      "nama_wilayah": "Bakti Idaman",
+      "kode_wilayah": "15.07.03.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.03"
+    },
+    {
+      "nama_wilayah": "Merbau",
+      "kode_wilayah": "15.07.03.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.03"
+    },
+    {
+      "nama_wilayah": "Pangkal Duri Ilir",
+      "kode_wilayah": "15.07.03.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.03"
+    }
+  ]
+}

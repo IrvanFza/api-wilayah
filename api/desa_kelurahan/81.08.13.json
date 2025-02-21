@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Nabar",
+      "kode_wilayah": "81.08.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.13"
+    },
+    {
+      "nama_wilayah": "Elsulith",
+      "kode_wilayah": "81.08.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.13"
+    },
+    {
+      "nama_wilayah": "Naumatang",
+      "kode_wilayah": "81.08.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.13"
+    },
+    {
+      "nama_wilayah": "Lurang",
+      "kode_wilayah": "81.08.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.13"
+    },
+    {
+      "nama_wilayah": "Uhak",
+      "kode_wilayah": "81.08.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.13"
+    },
+    {
+      "nama_wilayah": "Eray",
+      "kode_wilayah": "81.08.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.13"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Puldama",
+      "kode_wilayah": "95.03.30.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.30"
+    },
+    {
+      "nama_wilayah": "Kasen",
+      "kode_wilayah": "95.03.30.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.30"
+    },
+    {
+      "nama_wilayah": "Bako",
+      "kode_wilayah": "95.03.30.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.30"
+    },
+    {
+      "nama_wilayah": "Balsek",
+      "kode_wilayah": "95.03.30.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.30"
+    },
+    {
+      "nama_wilayah": "Manbolak",
+      "kode_wilayah": "95.03.30.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.30"
+    },
+    {
+      "nama_wilayah": "Famek",
+      "kode_wilayah": "95.03.30.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.30"
+    },
+    {
+      "nama_wilayah": "Semlu",
+      "kode_wilayah": "95.03.30.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.30"
+    },
+    {
+      "nama_wilayah": "Baru",
+      "kode_wilayah": "95.03.30.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.30"
+    }
+  ]
+}

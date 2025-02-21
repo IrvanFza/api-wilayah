@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Pupugoba",
+      "kode_wilayah": "95.01.38.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.38"
+    },
+    {
+      "nama_wilayah": "Waima",
+      "kode_wilayah": "95.01.38.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.38"
+    },
+    {
+      "nama_wilayah": "Yomote",
+      "kode_wilayah": "95.01.38.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.38"
+    },
+    {
+      "nama_wilayah": "Yelelo",
+      "kode_wilayah": "95.01.38.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.38"
+    }
+  ]
+}

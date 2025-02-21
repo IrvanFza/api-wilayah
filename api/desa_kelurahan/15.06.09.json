@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Rantau Badak",
+      "kode_wilayah": "15.06.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.09"
+    },
+    {
+      "nama_wilayah": "Dusun Mudo",
+      "kode_wilayah": "15.06.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.09"
+    },
+    {
+      "nama_wilayah": "Intan Jaya",
+      "kode_wilayah": "15.06.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.09"
+    },
+    {
+      "nama_wilayah": "Bukit Indah",
+      "kode_wilayah": "15.06.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.09"
+    },
+    {
+      "nama_wilayah": "Kemang Manis",
+      "kode_wilayah": "15.06.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.09"
+    },
+    {
+      "nama_wilayah": "Rantau Badak Lamo",
+      "kode_wilayah": "15.06.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.09"
+    },
+    {
+      "nama_wilayah": "Lubuk Sebontan",
+      "kode_wilayah": "15.06.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.09"
+    },
+    {
+      "nama_wilayah": "Sungai Papauh",
+      "kode_wilayah": "15.06.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.09"
+    },
+    {
+      "nama_wilayah": "Sungai Muluk",
+      "kode_wilayah": "15.06.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.09"
+    },
+    {
+      "nama_wilayah": "Pematang Balam",
+      "kode_wilayah": "15.06.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.09"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Cisauk",
+      "kode_wilayah": "36.03.23.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.23"
+    },
+    {
+      "nama_wilayah": "Mekar Wangi",
+      "kode_wilayah": "36.03.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.23"
+    },
+    {
+      "nama_wilayah": "Suradita",
+      "kode_wilayah": "36.03.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.23"
+    },
+    {
+      "nama_wilayah": "Sampora",
+      "kode_wilayah": "36.03.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.23"
+    },
+    {
+      "nama_wilayah": "Dangdang",
+      "kode_wilayah": "36.03.23.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.23"
+    },
+    {
+      "nama_wilayah": "Cibogo",
+      "kode_wilayah": "36.03.23.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.23"
+    }
+  ]
+}

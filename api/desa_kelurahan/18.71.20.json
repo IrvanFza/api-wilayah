@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sukaraja",
+      "kode_wilayah": "18.71.20.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.20"
+    },
+    {
+      "nama_wilayah": "Bumi Waras",
+      "kode_wilayah": "18.71.20.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.20"
+    },
+    {
+      "nama_wilayah": "Garuntang",
+      "kode_wilayah": "18.71.20.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.20"
+    },
+    {
+      "nama_wilayah": "Bumi Raya",
+      "kode_wilayah": "18.71.20.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.20"
+    },
+    {
+      "nama_wilayah": "Kangkung",
+      "kode_wilayah": "18.71.20.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.20"
+    }
+  ]
+}

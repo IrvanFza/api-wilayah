@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Ilan Batu",
+      "kode_wilayah": "73.17.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.15"
+    },
+    {
+      "nama_wilayah": "Ilan Batu Uru",
+      "kode_wilayah": "73.17.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.15"
+    },
+    {
+      "nama_wilayah": "Lempe Pasang",
+      "kode_wilayah": "73.17.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.15"
+    },
+    {
+      "nama_wilayah": "Lamasi Hulu",
+      "kode_wilayah": "73.17.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.15"
+    },
+    {
+      "nama_wilayah": "Lempe",
+      "kode_wilayah": "73.17.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.15"
+    },
+    {
+      "nama_wilayah": "Lewandi",
+      "kode_wilayah": "73.17.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.15"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Lamaknen",
+      "kode_wilayah": "53.04.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.04",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "TasifetoTimur",
+      "kode_wilayah": "53.04.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.04",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Raihat",
+      "kode_wilayah": "53.04.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.04",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Tasifeto Barat",
+      "kode_wilayah": "53.04.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.04",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Kakuluk Mesak",
+      "kode_wilayah": "53.04.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.04",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Kota Atambua",
+      "kode_wilayah": "53.04.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.04",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Raimanuk",
+      "kode_wilayah": "53.04.13",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.04",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Lasiolat",
+      "kode_wilayah": "53.04.17",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.04",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Lamaknen Selatan",
+      "kode_wilayah": "53.04.18",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.04",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Atambua Barat",
+      "kode_wilayah": "53.04.21",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.04",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Atambua Selatan",
+      "kode_wilayah": "53.04.22",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.04",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Nanaet Duabesi",
+      "kode_wilayah": "53.04.23",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.04",
+      "kode_provinsi": "53"
+    }
+  ]
+}

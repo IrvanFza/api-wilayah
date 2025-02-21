@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Lhang",
+      "kode_wilayah": "11.12.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.12",
+      "kode_kecamatan": "11.12.07"
+    },
+    {
+      "nama_wilayah": "Rambong",
+      "kode_wilayah": "11.12.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.12",
+      "kode_kecamatan": "11.12.07"
+    },
+    {
+      "nama_wilayah": "Pisang",
+      "kode_wilayah": "11.12.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.12",
+      "kode_kecamatan": "11.12.07"
+    },
+    {
+      "nama_wilayah": "Ujung Tanah",
+      "kode_wilayah": "11.12.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.12",
+      "kode_kecamatan": "11.12.07"
+    },
+    {
+      "nama_wilayah": "Alue Dama",
+      "kode_wilayah": "11.12.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.12",
+      "kode_kecamatan": "11.12.07"
+    },
+    {
+      "nama_wilayah": "Tangan-Tangan Cut",
+      "kode_wilayah": "11.12.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.12",
+      "kode_kecamatan": "11.12.07"
+    },
+    {
+      "nama_wilayah": "Mon Mameh",
+      "kode_wilayah": "11.12.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.12",
+      "kode_kecamatan": "11.12.07"
+    },
+    {
+      "nama_wilayah": "Cinta Makmur",
+      "kode_wilayah": "11.12.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.12",
+      "kode_kecamatan": "11.12.07"
+    },
+    {
+      "nama_wilayah": "Kuta Murni",
+      "kode_wilayah": "11.12.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.12",
+      "kode_kecamatan": "11.12.07"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pasir Agung",
+      "kode_wilayah": "14.06.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.10"
+    },
+    {
+      "nama_wilayah": "Pasir Intan",
+      "kode_wilayah": "14.06.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.10"
+    },
+    {
+      "nama_wilayah": "Rambah Jaya",
+      "kode_wilayah": "14.06.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.10"
+    },
+    {
+      "nama_wilayah": "Bangun Purba",
+      "kode_wilayah": "14.06.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.10"
+    },
+    {
+      "nama_wilayah": "Bangun Purba Timur Jaya",
+      "kode_wilayah": "14.06.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.10"
+    },
+    {
+      "nama_wilayah": "Bangun Purba Barat",
+      "kode_wilayah": "14.06.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.10"
+    },
+    {
+      "nama_wilayah": "Tangun",
+      "kode_wilayah": "14.06.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.06",
+      "kode_kecamatan": "14.06.10"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Katiku Tana",
+      "kode_wilayah": "53.17.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.17",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Umbu Ratu Nggay Barat",
+      "kode_wilayah": "53.17.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.17",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Mamboro",
+      "kode_wilayah": "53.17.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.17",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Umbu Ratu Nggay",
+      "kode_wilayah": "53.17.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.17",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Katiku Tana Selatan",
+      "kode_wilayah": "53.17.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.17",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Umbu Ratu Nggay Tengah",
+      "kode_wilayah": "53.17.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.17",
+      "kode_provinsi": "53"
+    }
+  ]
+}

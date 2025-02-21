@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sanahu",
+      "kode_wilayah": "81.06.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.11"
+    },
+    {
+      "nama_wilayah": "Wasia",
+      "kode_wilayah": "81.06.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.11"
+    },
+    {
+      "nama_wilayah": "Sumeith Pasinaro",
+      "kode_wilayah": "81.06.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.11"
+    },
+    {
+      "nama_wilayah": "Watui",
+      "kode_wilayah": "81.06.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.11"
+    },
+    {
+      "nama_wilayah": "Abio Ahiolo",
+      "kode_wilayah": "81.06.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.11"
+    },
+    {
+      "nama_wilayah": "Huku Kecil",
+      "kode_wilayah": "81.06.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.11"
+    },
+    {
+      "nama_wilayah": "Elpaputih",
+      "kode_wilayah": "81.06.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.11"
+    }
+  ]
+}

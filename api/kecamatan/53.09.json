@@ -1,0 +1,90 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Aimere",
+      "kode_wilayah": "53.09.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.09",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Golewa",
+      "kode_wilayah": "53.09.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.09",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Bajawa",
+      "kode_wilayah": "53.09.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.09",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Soa",
+      "kode_wilayah": "53.09.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.09",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Riung",
+      "kode_wilayah": "53.09.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.09",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Jerebuu",
+      "kode_wilayah": "53.09.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.09",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Riung Barat",
+      "kode_wilayah": "53.09.14",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.09",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Bajawa Utara",
+      "kode_wilayah": "53.09.15",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.09",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Wolomeze",
+      "kode_wilayah": "53.09.16",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.09",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Golewa Selatan",
+      "kode_wilayah": "53.09.18",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.09",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Golewa Barat",
+      "kode_wilayah": "53.09.19",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.09",
+      "kode_provinsi": "53"
+    },
+    {
+      "nama_wilayah": "Inerie",
+      "kode_wilayah": "53.09.20",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "53.09",
+      "kode_provinsi": "53"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pesajian",
+      "kode_wilayah": "14.02.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.14"
+    },
+    {
+      "nama_wilayah": "Punti Kayu",
+      "kode_wilayah": "14.02.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.14"
+    },
+    {
+      "nama_wilayah": "Pematang",
+      "kode_wilayah": "14.02.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.14"
+    },
+    {
+      "nama_wilayah": "Selunak",
+      "kode_wilayah": "14.02.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.14"
+    },
+    {
+      "nama_wilayah": "Suka Maju",
+      "kode_wilayah": "14.02.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.14"
+    },
+    {
+      "nama_wilayah": "Pematang Benteng",
+      "kode_wilayah": "14.02.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.14"
+    },
+    {
+      "nama_wilayah": "Sencano Jaya",
+      "kode_wilayah": "14.02.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.14"
+    },
+    {
+      "nama_wilayah": "Sungai Aur",
+      "kode_wilayah": "14.02.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.14"
+    },
+    {
+      "nama_wilayah": "Peladangan",
+      "kode_wilayah": "14.02.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.14"
+    },
+    {
+      "nama_wilayah": "Koto Tuo",
+      "kode_wilayah": "14.02.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.02",
+      "kode_kecamatan": "14.02.14"
+    }
+  ]
+}

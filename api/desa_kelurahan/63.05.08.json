@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Pipitak Jaya",
+      "kode_wilayah": "63.05.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.05",
+      "kode_kecamatan": "63.05.08"
+    },
+    {
+      "nama_wilayah": "Miawa",
+      "kode_wilayah": "63.05.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.05",
+      "kode_kecamatan": "63.05.08"
+    },
+    {
+      "nama_wilayah": "Batu Ampar",
+      "kode_wilayah": "63.05.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.05",
+      "kode_kecamatan": "63.05.08"
+    },
+    {
+      "nama_wilayah": "Harakit",
+      "kode_wilayah": "63.05.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.05",
+      "kode_kecamatan": "63.05.08"
+    },
+    {
+      "nama_wilayah": "Batung",
+      "kode_wilayah": "63.05.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.05",
+      "kode_kecamatan": "63.05.08"
+    },
+    {
+      "nama_wilayah": "Balawaian",
+      "kode_wilayah": "63.05.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.05",
+      "kode_kecamatan": "63.05.08"
+    },
+    {
+      "nama_wilayah": "Baramban",
+      "kode_wilayah": "63.05.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.05",
+      "kode_kecamatan": "63.05.08"
+    },
+    {
+      "nama_wilayah": "Buniin Jaya",
+      "kode_wilayah": "63.05.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.05",
+      "kode_kecamatan": "63.05.08"
+    }
+  ]
+}

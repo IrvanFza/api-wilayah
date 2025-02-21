@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Barulak",
+      "kode_wilayah": "13.04.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.05"
+    },
+    {
+      "nama_wilayah": "Saruaso",
+      "kode_wilayah": "13.04.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.05"
+    },
+    {
+      "nama_wilayah": "Koto Tangah",
+      "kode_wilayah": "13.04.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.05"
+    },
+    {
+      "nama_wilayah": "Pagaruyung",
+      "kode_wilayah": "13.04.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.05"
+    }
+  ]
+}

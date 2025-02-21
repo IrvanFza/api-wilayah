@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Bulontiyo Timur",
+      "kode_wilayah": "75.05.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.04"
+    },
+    {
+      "nama_wilayah": "Bulontiyo Barat",
+      "kode_wilayah": "75.05.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.04"
+    },
+    {
+      "nama_wilayah": "Buloila",
+      "kode_wilayah": "75.05.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.04"
+    },
+    {
+      "nama_wilayah": "Kasia",
+      "kode_wilayah": "75.05.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.04"
+    },
+    {
+      "nama_wilayah": "Kikia",
+      "kode_wilayah": "75.05.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.04"
+    },
+    {
+      "nama_wilayah": "Tumba",
+      "kode_wilayah": "75.05.04.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.04"
+    },
+    {
+      "nama_wilayah": "Mebongo",
+      "kode_wilayah": "75.05.04.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.04"
+    },
+    {
+      "nama_wilayah": "Lelato",
+      "kode_wilayah": "75.05.04.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.04"
+    },
+    {
+      "nama_wilayah": "Pulohenti",
+      "kode_wilayah": "75.05.04.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.04"
+    },
+    {
+      "nama_wilayah": "Puncak Mandiri",
+      "kode_wilayah": "75.05.04.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.04"
+    },
+    {
+      "nama_wilayah": "Hutakalo",
+      "kode_wilayah": "75.05.04.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.05",
+      "kode_kecamatan": "75.05.04"
+    }
+  ]
+}

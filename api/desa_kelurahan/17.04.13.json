@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Datar Lebar",
+      "kode_wilayah": "17.04.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.13"
+    },
+    {
+      "nama_wilayah": "Tanjung Bunian",
+      "kode_wilayah": "17.04.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.13"
+    },
+    {
+      "nama_wilayah": "Sinar Bulan",
+      "kode_wilayah": "17.04.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.13"
+    },
+    {
+      "nama_wilayah": "Sukananti",
+      "kode_wilayah": "17.04.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.13"
+    },
+    {
+      "nama_wilayah": "Lawang Agung",
+      "kode_wilayah": "17.04.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.13"
+    },
+    {
+      "nama_wilayah": "Tanjung Kurung",
+      "kode_wilayah": "17.04.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.13"
+    },
+    {
+      "nama_wilayah": "Senak",
+      "kode_wilayah": "17.04.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.13"
+    },
+    {
+      "nama_wilayah": "Datar Lebar II",
+      "kode_wilayah": "17.04.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.13"
+    },
+    {
+      "nama_wilayah": "Aur Gading",
+      "kode_wilayah": "17.04.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.04",
+      "kode_kecamatan": "17.04.13"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kedaton",
+      "kode_wilayah": "18.71.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.01"
+    },
+    {
+      "nama_wilayah": "Surabaya",
+      "kode_wilayah": "18.71.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.01"
+    },
+    {
+      "nama_wilayah": "Sukamenanti",
+      "kode_wilayah": "18.71.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.01"
+    },
+    {
+      "nama_wilayah": "Sidodadi",
+      "kode_wilayah": "18.71.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.01"
+    },
+    {
+      "nama_wilayah": "Sukamenanti Baru",
+      "kode_wilayah": "18.71.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.01"
+    },
+    {
+      "nama_wilayah": "Penengahan",
+      "kode_wilayah": "18.71.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.01"
+    },
+    {
+      "nama_wilayah": "Penengahan Raya",
+      "kode_wilayah": "18.71.01.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.01"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Badau",
+      "kode_wilayah": "19.02.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.02",
+      "kode_kecamatan": "19.02.05"
+    },
+    {
+      "nama_wilayah": "Air Batu Buding",
+      "kode_wilayah": "19.02.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.02",
+      "kode_kecamatan": "19.02.05"
+    },
+    {
+      "nama_wilayah": "Sungai Samak",
+      "kode_wilayah": "19.02.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.02",
+      "kode_kecamatan": "19.02.05"
+    },
+    {
+      "nama_wilayah": "Kacang Butor",
+      "kode_wilayah": "19.02.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.02",
+      "kode_kecamatan": "19.02.05"
+    },
+    {
+      "nama_wilayah": "Cerucuk",
+      "kode_wilayah": "19.02.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.02",
+      "kode_kecamatan": "19.02.05"
+    },
+    {
+      "nama_wilayah": "Pegantungan",
+      "kode_wilayah": "19.02.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.02",
+      "kode_kecamatan": "19.02.05"
+    },
+    {
+      "nama_wilayah": "Ibul",
+      "kode_wilayah": "19.02.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.02",
+      "kode_kecamatan": "19.02.05"
+    }
+  ]
+}

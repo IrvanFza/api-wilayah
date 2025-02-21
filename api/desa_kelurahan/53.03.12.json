@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Oelneke",
+      "kode_wilayah": "53.03.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.12"
+    },
+    {
+      "nama_wilayah": "Oetulu",
+      "kode_wilayah": "53.03.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.12"
+    },
+    {
+      "nama_wilayah": "Oeolo",
+      "kode_wilayah": "53.03.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.12"
+    },
+    {
+      "nama_wilayah": "Ainan",
+      "kode_wilayah": "53.03.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.12"
+    },
+    {
+      "nama_wilayah": "Bisafe",
+      "kode_wilayah": "53.03.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.12"
+    },
+    {
+      "nama_wilayah": "Batnes",
+      "kode_wilayah": "53.03.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.12"
+    }
+  ]
+}

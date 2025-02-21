@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Wonorejo",
+      "kode_wilayah": "35.04.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.06"
+    },
+    {
+      "nama_wilayah": "Kedungcangkring",
+      "kode_wilayah": "35.04.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.06"
+    },
+    {
+      "nama_wilayah": "Mulyosari",
+      "kode_wilayah": "35.04.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.06"
+    },
+    {
+      "nama_wilayah": "Segawe",
+      "kode_wilayah": "35.04.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.06"
+    },
+    {
+      "nama_wilayah": "Samar",
+      "kode_wilayah": "35.04.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.06"
+    },
+    {
+      "nama_wilayah": "Penjor",
+      "kode_wilayah": "35.04.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.06"
+    },
+    {
+      "nama_wilayah": "Pagerwojo",
+      "kode_wilayah": "35.04.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.06"
+    },
+    {
+      "nama_wilayah": "Kradinan",
+      "kode_wilayah": "35.04.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.06"
+    },
+    {
+      "nama_wilayah": "Sidomulyo",
+      "kode_wilayah": "35.04.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.06"
+    },
+    {
+      "nama_wilayah": "Gondanggunung",
+      "kode_wilayah": "35.04.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.06"
+    },
+    {
+      "nama_wilayah": "Gambiran",
+      "kode_wilayah": "35.04.06.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.04",
+      "kode_kecamatan": "35.04.06"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Bukit Nenas",
+      "kode_wilayah": "14.72.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.72",
+      "kode_kecamatan": "14.72.03"
+    },
+    {
+      "nama_wilayah": "Bukit Kayu Kapur",
+      "kode_wilayah": "14.72.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.72",
+      "kode_kecamatan": "14.72.03"
+    },
+    {
+      "nama_wilayah": "Gurun Panjang",
+      "kode_wilayah": "14.72.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.72",
+      "kode_kecamatan": "14.72.03"
+    },
+    {
+      "nama_wilayah": "Bagan Besar",
+      "kode_wilayah": "14.72.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.72",
+      "kode_kecamatan": "14.72.03"
+    },
+    {
+      "nama_wilayah": "Kampung Baru",
+      "kode_wilayah": "14.72.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.72",
+      "kode_kecamatan": "14.72.03"
+    },
+    {
+      "nama_wilayah": "Bagan Besar Timur",
+      "kode_wilayah": "14.72.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.72",
+      "kode_kecamatan": "14.72.03"
+    },
+    {
+      "nama_wilayah": "Bukit Kapur",
+      "kode_wilayah": "14.72.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.72",
+      "kode_kecamatan": "14.72.03"
+    }
+  ]
+}

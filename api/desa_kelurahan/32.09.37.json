@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Cikeusal",
+      "kode_wilayah": "32.09.37.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.37"
+    },
+    {
+      "nama_wilayah": "Palimanan Barat",
+      "kode_wilayah": "32.09.37.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.37"
+    },
+    {
+      "nama_wilayah": "Kedungbunder",
+      "kode_wilayah": "32.09.37.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.37"
+    },
+    {
+      "nama_wilayah": "Cupang",
+      "kode_wilayah": "32.09.37.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.37"
+    },
+    {
+      "nama_wilayah": "Gempol",
+      "kode_wilayah": "32.09.37.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.37"
+    },
+    {
+      "nama_wilayah": "Walahar",
+      "kode_wilayah": "32.09.37.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.37"
+    },
+    {
+      "nama_wilayah": "Kempek",
+      "kode_wilayah": "32.09.37.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.37"
+    },
+    {
+      "nama_wilayah": "Winong",
+      "kode_wilayah": "32.09.37.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.37"
+    }
+  ]
+}

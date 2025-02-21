@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tiakur",
+      "kode_wilayah": "81.08.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.01"
+    },
+    {
+      "nama_wilayah": "Klis",
+      "kode_wilayah": "81.08.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.01"
+    },
+    {
+      "nama_wilayah": "Patti",
+      "kode_wilayah": "81.08.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.01"
+    },
+    {
+      "nama_wilayah": "Wakarleli",
+      "kode_wilayah": "81.08.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.01"
+    },
+    {
+      "nama_wilayah": "Kaiwatu",
+      "kode_wilayah": "81.08.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.01"
+    },
+    {
+      "nama_wilayah": "Werwaru",
+      "kode_wilayah": "81.08.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.01"
+    },
+    {
+      "nama_wilayah": "Tounwawan",
+      "kode_wilayah": "81.08.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.01"
+    },
+    {
+      "nama_wilayah": "Moain",
+      "kode_wilayah": "81.08.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.01"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Kendahe I",
+      "kode_wilayah": "71.03.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.16"
+    },
+    {
+      "nama_wilayah": "Kendahe II",
+      "kode_wilayah": "71.03.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.16"
+    },
+    {
+      "nama_wilayah": "Talawid",
+      "kode_wilayah": "71.03.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.16"
+    },
+    {
+      "nama_wilayah": "Tariang Lama",
+      "kode_wilayah": "71.03.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.16"
+    },
+    {
+      "nama_wilayah": "Pempalaraeng",
+      "kode_wilayah": "71.03.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.16"
+    },
+    {
+      "nama_wilayah": "Mohong Sawang",
+      "kode_wilayah": "71.03.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.16"
+    },
+    {
+      "nama_wilayah": "Lipang",
+      "kode_wilayah": "71.03.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.16"
+    },
+    {
+      "nama_wilayah": "Kawaluso",
+      "kode_wilayah": "71.03.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.16"
+    }
+  ]
+}

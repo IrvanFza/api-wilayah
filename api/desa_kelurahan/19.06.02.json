@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Gantung",
+      "kode_wilayah": "19.06.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.02"
+    },
+    {
+      "nama_wilayah": "Selingsing",
+      "kode_wilayah": "19.06.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.02"
+    },
+    {
+      "nama_wilayah": "Jangkar Asam",
+      "kode_wilayah": "19.06.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.02"
+    },
+    {
+      "nama_wilayah": "Lilangan",
+      "kode_wilayah": "19.06.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.02"
+    },
+    {
+      "nama_wilayah": "Lenggang",
+      "kode_wilayah": "19.06.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.02"
+    },
+    {
+      "nama_wilayah": "Batu Penyu",
+      "kode_wilayah": "19.06.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.02"
+    },
+    {
+      "nama_wilayah": "Limbongan",
+      "kode_wilayah": "19.06.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.02"
+    }
+  ]
+}

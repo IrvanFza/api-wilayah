@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lamasi",
+      "kode_wilayah": "73.17.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.09"
+    },
+    {
+      "nama_wilayah": "Salujambu",
+      "kode_wilayah": "73.17.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.09"
+    },
+    {
+      "nama_wilayah": "Wiwitan",
+      "kode_wilayah": "73.17.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.09"
+    },
+    {
+      "nama_wilayah": "Setiarejo",
+      "kode_wilayah": "73.17.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.09"
+    },
+    {
+      "nama_wilayah": "Pongsamelung",
+      "kode_wilayah": "73.17.09.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.09"
+    },
+    {
+      "nama_wilayah": "Padang Kalua",
+      "kode_wilayah": "73.17.09.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.09"
+    },
+    {
+      "nama_wilayah": "To-pongo",
+      "kode_wilayah": "73.17.09.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.09"
+    },
+    {
+      "nama_wilayah": "Se-pon",
+      "kode_wilayah": "73.17.09.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.09"
+    },
+    {
+      "nama_wilayah": "Awo- Gading",
+      "kode_wilayah": "73.17.09.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.09"
+    },
+    {
+      "nama_wilayah": "Wiwitan Timur",
+      "kode_wilayah": "73.17.09.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.09"
+    }
+  ]
+}

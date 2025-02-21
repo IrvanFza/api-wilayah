@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Mertajaya",
+      "kode_wilayah": "32.06.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.09"
+    },
+    {
+      "nama_wilayah": "Cikadongdong",
+      "kode_wilayah": "32.06.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.09"
+    },
+    {
+      "nama_wilayah": "Bojongasih",
+      "kode_wilayah": "32.06.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.09"
+    },
+    {
+      "nama_wilayah": "Sindangsari",
+      "kode_wilayah": "32.06.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.09"
+    },
+    {
+      "nama_wilayah": "Girijaya",
+      "kode_wilayah": "32.06.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.09"
+    },
+    {
+      "nama_wilayah": "Toblongan",
+      "kode_wilayah": "32.06.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.09"
+    }
+  ]
+}

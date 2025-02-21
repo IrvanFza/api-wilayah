@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Mulaeno",
+      "kode_wilayah": "74.06.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.19"
+    },
+    {
+      "nama_wilayah": "Lebo Ea",
+      "kode_wilayah": "74.06.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.19"
+    },
+    {
+      "nama_wilayah": "Paria",
+      "kode_wilayah": "74.06.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.19"
+    },
+    {
+      "nama_wilayah": "Poleondro",
+      "kode_wilayah": "74.06.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.19"
+    }
+  ]
+}

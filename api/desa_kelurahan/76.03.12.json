@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Balla",
+      "kode_wilayah": "76.03.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.12"
+    },
+    {
+      "nama_wilayah": "Balla Barat",
+      "kode_wilayah": "76.03.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.12"
+    },
+    {
+      "nama_wilayah": "Balla Satanetean",
+      "kode_wilayah": "76.03.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.12"
+    },
+    {
+      "nama_wilayah": "Balla Tumuka",
+      "kode_wilayah": "76.03.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.12"
+    },
+    {
+      "nama_wilayah": "Sepakuan",
+      "kode_wilayah": "76.03.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.12"
+    },
+    {
+      "nama_wilayah": "Pidara",
+      "kode_wilayah": "76.03.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.12"
+    },
+    {
+      "nama_wilayah": "Bambapuang",
+      "kode_wilayah": "76.03.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.12"
+    },
+    {
+      "nama_wilayah": "Balla Timur",
+      "kode_wilayah": "76.03.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.03",
+      "kode_kecamatan": "76.03.12"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Buniara",
+      "kode_wilayah": "32.13.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.14"
+    },
+    {
+      "nama_wilayah": "Tanjungsiang",
+      "kode_wilayah": "32.13.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.14"
+    },
+    {
+      "nama_wilayah": "Cimeuhmal",
+      "kode_wilayah": "32.13.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.14"
+    },
+    {
+      "nama_wilayah": "Sirap",
+      "kode_wilayah": "32.13.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.14"
+    },
+    {
+      "nama_wilayah": "Kawungluwuk",
+      "kode_wilayah": "32.13.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.14"
+    },
+    {
+      "nama_wilayah": "Cibuluh",
+      "kode_wilayah": "32.13.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.14"
+    },
+    {
+      "nama_wilayah": "Sindanglaya",
+      "kode_wilayah": "32.13.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.14"
+    },
+    {
+      "nama_wilayah": "Rancamanggung",
+      "kode_wilayah": "32.13.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.14"
+    },
+    {
+      "nama_wilayah": "Cikawung",
+      "kode_wilayah": "32.13.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.14"
+    },
+    {
+      "nama_wilayah": "Gandasoli",
+      "kode_wilayah": "32.13.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.14"
+    }
+  ]
+}

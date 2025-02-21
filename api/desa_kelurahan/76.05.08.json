@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Baurung",
+      "kode_wilayah": "76.05.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.05",
+      "kode_kecamatan": "76.05.08"
+    },
+    {
+      "nama_wilayah": "Baruga",
+      "kode_wilayah": "76.05.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.05",
+      "kode_kecamatan": "76.05.08"
+    },
+    {
+      "nama_wilayah": "Baruga Dhua",
+      "kode_wilayah": "76.05.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.05",
+      "kode_kecamatan": "76.05.08"
+    },
+    {
+      "nama_wilayah": "Labuang",
+      "kode_wilayah": "76.05.08.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.05",
+      "kode_kecamatan": "76.05.08"
+    },
+    {
+      "nama_wilayah": "Tande",
+      "kode_wilayah": "76.05.08.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.05",
+      "kode_kecamatan": "76.05.08"
+    },
+    {
+      "nama_wilayah": "Lembang",
+      "kode_wilayah": "76.05.08.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.05",
+      "kode_kecamatan": "76.05.08"
+    },
+    {
+      "nama_wilayah": "Labuang Utara",
+      "kode_wilayah": "76.05.08.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.05",
+      "kode_kecamatan": "76.05.08"
+    },
+    {
+      "nama_wilayah": "Tande Timur",
+      "kode_wilayah": "76.05.08.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.05",
+      "kode_kecamatan": "76.05.08"
+    },
+    {
+      "nama_wilayah": "Buttu Baruga",
+      "kode_wilayah": "76.05.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.05",
+      "kode_kecamatan": "76.05.08"
+    }
+  ]
+}

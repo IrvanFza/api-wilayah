@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Mataram Baru",
+      "kode_wilayah": "18.07.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.16"
+    },
+    {
+      "nama_wilayah": "Rajabasa Baru",
+      "kode_wilayah": "18.07.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.16"
+    },
+    {
+      "nama_wilayah": "Teluk Dalem",
+      "kode_wilayah": "18.07.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.16"
+    },
+    {
+      "nama_wilayah": "Way Areng",
+      "kode_wilayah": "18.07.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.16"
+    },
+    {
+      "nama_wilayah": "Tulung Pasik",
+      "kode_wilayah": "18.07.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.16"
+    },
+    {
+      "nama_wilayah": "Mandala Sari",
+      "kode_wilayah": "18.07.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.16"
+    },
+    {
+      "nama_wilayah": "Kebon Damar",
+      "kode_wilayah": "18.07.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.16"
+    }
+  ]
+}

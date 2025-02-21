@@ -1,0 +1,110 @@
+{
+  "status": "success",
+  "total": 13,
+  "data": [
+    {
+      "nama_wilayah": "Sarulla",
+      "kode_wilayah": "12.02.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.02",
+      "kode_kecamatan": "12.02.06"
+    },
+    {
+      "nama_wilayah": "Tordolok Nauli",
+      "kode_wilayah": "12.02.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.02",
+      "kode_kecamatan": "12.02.06"
+    },
+    {
+      "nama_wilayah": "Sigurung-gurung",
+      "kode_wilayah": "12.02.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.02",
+      "kode_kecamatan": "12.02.06"
+    },
+    {
+      "nama_wilayah": "Silangkitang",
+      "kode_wilayah": "12.02.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.02",
+      "kode_kecamatan": "12.02.06"
+    },
+    {
+      "nama_wilayah": "Sitoluompu",
+      "kode_wilayah": "12.02.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.02",
+      "kode_kecamatan": "12.02.06"
+    },
+    {
+      "nama_wilayah": "Siopat Bahal",
+      "kode_wilayah": "12.02.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.02",
+      "kode_kecamatan": "12.02.06"
+    },
+    {
+      "nama_wilayah": "Pardomuan Nainggolan",
+      "kode_wilayah": "12.02.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.02",
+      "kode_kecamatan": "12.02.06"
+    },
+    {
+      "nama_wilayah": "Nahornop Marsada",
+      "kode_wilayah": "12.02.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.02",
+      "kode_kecamatan": "12.02.06"
+    },
+    {
+      "nama_wilayah": "Parsaoran Samosir",
+      "kode_wilayah": "12.02.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.02",
+      "kode_kecamatan": "12.02.06"
+    },
+    {
+      "nama_wilayah": "Suka Maju",
+      "kode_wilayah": "12.02.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.02",
+      "kode_kecamatan": "12.02.06"
+    },
+    {
+      "nama_wilayah": "Setia",
+      "kode_wilayah": "12.02.06.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.02",
+      "kode_kecamatan": "12.02.06"
+    },
+    {
+      "nama_wilayah": "Parsaoran Nainggolan",
+      "kode_wilayah": "12.02.06.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.02",
+      "kode_kecamatan": "12.02.06"
+    },
+    {
+      "nama_wilayah": "Pardamean Nainggolan",
+      "kode_wilayah": "12.02.06.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.02",
+      "kode_kecamatan": "12.02.06"
+    }
+  ]
+}

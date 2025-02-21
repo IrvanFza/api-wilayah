@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sungkung  I",
+      "kode_wilayah": "61.07.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.12"
+    },
+    {
+      "nama_wilayah": "Siding",
+      "kode_wilayah": "61.07.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.12"
+    },
+    {
+      "nama_wilayah": "Hli Buei",
+      "kode_wilayah": "61.07.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.12"
+    },
+    {
+      "nama_wilayah": "Tangguh",
+      "kode_wilayah": "61.07.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.12"
+    },
+    {
+      "nama_wilayah": "Sungkung II",
+      "kode_wilayah": "61.07.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.12"
+    },
+    {
+      "nama_wilayah": "Sungkung III",
+      "kode_wilayah": "61.07.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.12"
+    },
+    {
+      "nama_wilayah": "Tamong",
+      "kode_wilayah": "61.07.12.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.12"
+    },
+    {
+      "nama_wilayah": "Tawang",
+      "kode_wilayah": "61.07.12.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.07",
+      "kode_kecamatan": "61.07.12"
+    }
+  ]
+}

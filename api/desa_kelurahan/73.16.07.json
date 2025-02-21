@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Cendana",
+      "kode_wilayah": "73.16.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.07"
+    },
+    {
+      "nama_wilayah": "Taulan",
+      "kode_wilayah": "73.16.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.07"
+    },
+    {
+      "nama_wilayah": "Pinang",
+      "kode_wilayah": "73.16.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.07"
+    },
+    {
+      "nama_wilayah": "Malalin",
+      "kode_wilayah": "73.16.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.07"
+    },
+    {
+      "nama_wilayah": "Karrang",
+      "kode_wilayah": "73.16.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.07"
+    },
+    {
+      "nama_wilayah": "Lebang",
+      "kode_wilayah": "73.16.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.07"
+    },
+    {
+      "nama_wilayah": "Pundi Lemo",
+      "kode_wilayah": "73.16.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.07"
+    }
+  ]
+}

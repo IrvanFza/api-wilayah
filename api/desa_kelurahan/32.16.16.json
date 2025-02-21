@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Jayabakti",
+      "kode_wilayah": "32.16.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.16"
+    },
+    {
+      "nama_wilayah": "Jayalaksana",
+      "kode_wilayah": "32.16.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.16"
+    },
+    {
+      "nama_wilayah": "Sindangsari",
+      "kode_wilayah": "32.16.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.16"
+    },
+    {
+      "nama_wilayah": "Sindangjaya",
+      "kode_wilayah": "32.16.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.16"
+    },
+    {
+      "nama_wilayah": "Setialaksana",
+      "kode_wilayah": "32.16.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.16"
+    },
+    {
+      "nama_wilayah": "Setiajaya",
+      "kode_wilayah": "32.16.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.16"
+    },
+    {
+      "nama_wilayah": "Lenggahjaya",
+      "kode_wilayah": "32.16.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.16"
+    },
+    {
+      "nama_wilayah": "Lenggahsari",
+      "kode_wilayah": "32.16.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.16"
+    }
+  ]
+}

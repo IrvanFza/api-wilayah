@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Pasir Panjang",
+      "kode_wilayah": "15.71.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.06"
+    },
+    {
+      "nama_wilayah": "Tanjung Raden",
+      "kode_wilayah": "15.71.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.06"
+    },
+    {
+      "nama_wilayah": "Olak Kemang",
+      "kode_wilayah": "15.71.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.06"
+    },
+    {
+      "nama_wilayah": "Tanjung Pasir",
+      "kode_wilayah": "15.71.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.06"
+    },
+    {
+      "nama_wilayah": "Ulu Gedong",
+      "kode_wilayah": "15.71.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.06"
+    }
+  ]
+}

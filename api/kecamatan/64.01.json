@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Batu Sopang",
+      "kode_wilayah": "64.01.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.01",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Tanjung Harapan",
+      "kode_wilayah": "64.01.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.01",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Paser Belengkong",
+      "kode_wilayah": "64.01.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.01",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Tanah Grogot",
+      "kode_wilayah": "64.01.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.01",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Kuaro",
+      "kode_wilayah": "64.01.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.01",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Long Ikis",
+      "kode_wilayah": "64.01.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.01",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Muara Komam",
+      "kode_wilayah": "64.01.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.01",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Long Kali",
+      "kode_wilayah": "64.01.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.01",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Batu Engau",
+      "kode_wilayah": "64.01.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.01",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Muara Samu",
+      "kode_wilayah": "64.01.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.01",
+      "kode_provinsi": "64"
+    }
+  ]
+}

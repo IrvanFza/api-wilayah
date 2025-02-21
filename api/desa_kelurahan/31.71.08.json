@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Johar Baru",
+      "kode_wilayah": "31.71.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.08"
+    },
+    {
+      "nama_wilayah": "Kampung Rawa",
+      "kode_wilayah": "31.71.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.08"
+    },
+    {
+      "nama_wilayah": "Galur",
+      "kode_wilayah": "31.71.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.08"
+    },
+    {
+      "nama_wilayah": "Tanah Tinggi",
+      "kode_wilayah": "31.71.08.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.71",
+      "kode_kecamatan": "31.71.08"
+    }
+  ]
+}

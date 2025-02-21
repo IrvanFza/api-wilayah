@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Karawang Kulon",
+      "kode_wilayah": "32.15.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.01"
+    },
+    {
+      "nama_wilayah": "Adiarsa Barat",
+      "kode_wilayah": "32.15.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.01"
+    },
+    {
+      "nama_wilayah": "Tanjungpura",
+      "kode_wilayah": "32.15.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.01"
+    },
+    {
+      "nama_wilayah": "Tanjungmekar",
+      "kode_wilayah": "32.15.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.01"
+    },
+    {
+      "nama_wilayah": "Tunggakjati",
+      "kode_wilayah": "32.15.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.01"
+    },
+    {
+      "nama_wilayah": "Karangpawitan",
+      "kode_wilayah": "32.15.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.01"
+    },
+    {
+      "nama_wilayah": "Nagasari",
+      "kode_wilayah": "32.15.01.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.01"
+    },
+    {
+      "nama_wilayah": "Mekarjati",
+      "kode_wilayah": "32.15.01.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.01"
+    }
+  ]
+}

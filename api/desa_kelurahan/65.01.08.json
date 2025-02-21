@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Long Tungu",
+      "kode_wilayah": "65.01.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.08"
+    },
+    {
+      "nama_wilayah": "Long Bang",
+      "kode_wilayah": "65.01.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.08"
+    },
+    {
+      "nama_wilayah": "Long Telenjau",
+      "kode_wilayah": "65.01.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.08"
+    },
+    {
+      "nama_wilayah": "Naha Aya",
+      "kode_wilayah": "65.01.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.08"
+    },
+    {
+      "nama_wilayah": "Long Lembu",
+      "kode_wilayah": "65.01.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.08"
+    },
+    {
+      "nama_wilayah": "Long Bang Hulu",
+      "kode_wilayah": "65.01.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.08"
+    }
+  ]
+}

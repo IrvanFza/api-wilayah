@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kamal",
+      "kode_wilayah": "35.26.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.26",
+      "kode_kecamatan": "35.26.04"
+    },
+    {
+      "nama_wilayah": "Banyuajuh",
+      "kode_wilayah": "35.26.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.26",
+      "kode_kecamatan": "35.26.04"
+    },
+    {
+      "nama_wilayah": "Gili Barat",
+      "kode_wilayah": "35.26.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.26",
+      "kode_kecamatan": "35.26.04"
+    },
+    {
+      "nama_wilayah": "Gili Timur",
+      "kode_wilayah": "35.26.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.26",
+      "kode_kecamatan": "35.26.04"
+    },
+    {
+      "nama_wilayah": "Gili Anyar",
+      "kode_wilayah": "35.26.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.26",
+      "kode_kecamatan": "35.26.04"
+    },
+    {
+      "nama_wilayah": "Telang",
+      "kode_wilayah": "35.26.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.26",
+      "kode_kecamatan": "35.26.04"
+    },
+    {
+      "nama_wilayah": "Pendabah",
+      "kode_wilayah": "35.26.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.26",
+      "kode_kecamatan": "35.26.04"
+    },
+    {
+      "nama_wilayah": "Tajungan",
+      "kode_wilayah": "35.26.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.26",
+      "kode_kecamatan": "35.26.04"
+    },
+    {
+      "nama_wilayah": "Kebun",
+      "kode_wilayah": "35.26.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.26",
+      "kode_kecamatan": "35.26.04"
+    },
+    {
+      "nama_wilayah": "Tangjungjati",
+      "kode_wilayah": "35.26.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.26",
+      "kode_kecamatan": "35.26.04"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Cinta Raja",
+      "kode_wilayah": "14.71.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.03"
+    },
+    {
+      "nama_wilayah": "Sukamulya",
+      "kode_wilayah": "14.71.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.03"
+    },
+    {
+      "nama_wilayah": "Sukamaju",
+      "kode_wilayah": "14.71.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.03"
+    }
+  ]
+}

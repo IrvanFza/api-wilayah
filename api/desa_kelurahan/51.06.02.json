@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Bebalang",
+      "kode_wilayah": "51.06.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.06",
+      "kode_kecamatan": "51.06.02"
+    },
+    {
+      "nama_wilayah": "Kawan",
+      "kode_wilayah": "51.06.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.06",
+      "kode_kecamatan": "51.06.02"
+    },
+    {
+      "nama_wilayah": "Cempaga",
+      "kode_wilayah": "51.06.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.06",
+      "kode_kecamatan": "51.06.02"
+    },
+    {
+      "nama_wilayah": "Kubu",
+      "kode_wilayah": "51.06.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.06",
+      "kode_kecamatan": "51.06.02"
+    },
+    {
+      "nama_wilayah": "Bunutin",
+      "kode_wilayah": "51.06.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.06",
+      "kode_kecamatan": "51.06.02"
+    },
+    {
+      "nama_wilayah": "Tamanbali",
+      "kode_wilayah": "51.06.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.06",
+      "kode_kecamatan": "51.06.02"
+    },
+    {
+      "nama_wilayah": "Kayubihi",
+      "kode_wilayah": "51.06.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.06",
+      "kode_kecamatan": "51.06.02"
+    },
+    {
+      "nama_wilayah": "Pengotan",
+      "kode_wilayah": "51.06.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.06",
+      "kode_kecamatan": "51.06.02"
+    },
+    {
+      "nama_wilayah": "Landih",
+      "kode_wilayah": "51.06.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.06",
+      "kode_kecamatan": "51.06.02"
+    }
+  ]
+}

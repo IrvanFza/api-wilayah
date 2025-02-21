@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Oreng",
+      "kode_wilayah": "62.12.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.07"
+    },
+    {
+      "nama_wilayah": "Olung Muro",
+      "kode_wilayah": "62.12.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.07"
+    },
+    {
+      "nama_wilayah": "Olung Hanangan",
+      "kode_wilayah": "62.12.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.07"
+    },
+    {
+      "nama_wilayah": "Dirung Lingkin",
+      "kode_wilayah": "62.12.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.07"
+    },
+    {
+      "nama_wilayah": "Datah Kotou",
+      "kode_wilayah": "62.12.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.07"
+    },
+    {
+      "nama_wilayah": "Tahujan Ontu",
+      "kode_wilayah": "62.12.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.07"
+    },
+    {
+      "nama_wilayah": "Puruk Kambang",
+      "kode_wilayah": "62.12.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.07"
+    }
+  ]
+}

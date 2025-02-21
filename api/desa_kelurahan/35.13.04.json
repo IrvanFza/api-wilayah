@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Gunungtugel",
+      "kode_wilayah": "35.13.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.04"
+    },
+    {
+      "nama_wilayah": "Kedungrejo",
+      "kode_wilayah": "35.13.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.04"
+    },
+    {
+      "nama_wilayah": "Patokan",
+      "kode_wilayah": "35.13.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.04"
+    },
+    {
+      "nama_wilayah": "Bantaran",
+      "kode_wilayah": "35.13.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.04"
+    },
+    {
+      "nama_wilayah": "Legundi",
+      "kode_wilayah": "35.13.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.04"
+    },
+    {
+      "nama_wilayah": "Tempuran",
+      "kode_wilayah": "35.13.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.04"
+    },
+    {
+      "nama_wilayah": "Kropak",
+      "kode_wilayah": "35.13.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.04"
+    },
+    {
+      "nama_wilayah": "Besuk",
+      "kode_wilayah": "35.13.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.04"
+    },
+    {
+      "nama_wilayah": "Kramatagung",
+      "kode_wilayah": "35.13.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.04"
+    },
+    {
+      "nama_wilayah": "Karanganyar",
+      "kode_wilayah": "35.13.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.13",
+      "kode_kecamatan": "35.13.04"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Mangadu",
+      "kode_wilayah": "73.05.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.02"
+    },
+    {
+      "nama_wilayah": "Lengkese",
+      "kode_wilayah": "73.05.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.02"
+    },
+    {
+      "nama_wilayah": "Topejawa",
+      "kode_wilayah": "73.05.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.02"
+    },
+    {
+      "nama_wilayah": "Lakatong",
+      "kode_wilayah": "73.05.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.02"
+    },
+    {
+      "nama_wilayah": "Banggae",
+      "kode_wilayah": "73.05.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.02"
+    },
+    {
+      "nama_wilayah": "Bontomanai",
+      "kode_wilayah": "73.05.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.02"
+    }
+  ]
+}

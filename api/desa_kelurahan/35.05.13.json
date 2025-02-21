@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Serang",
+      "kode_wilayah": "35.05.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.13"
+    },
+    {
+      "nama_wilayah": "Kalitengah",
+      "kode_wilayah": "35.05.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.13"
+    },
+    {
+      "nama_wilayah": "Margomulyo",
+      "kode_wilayah": "35.05.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.13"
+    },
+    {
+      "nama_wilayah": "Panggungrejo",
+      "kode_wilayah": "35.05.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.13"
+    },
+    {
+      "nama_wilayah": "Sumbersih",
+      "kode_wilayah": "35.05.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.13"
+    },
+    {
+      "nama_wilayah": "Kaligambir",
+      "kode_wilayah": "35.05.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.13"
+    },
+    {
+      "nama_wilayah": "Bumiayu",
+      "kode_wilayah": "35.05.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.13"
+    },
+    {
+      "nama_wilayah": "Panggungasri",
+      "kode_wilayah": "35.05.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.13"
+    },
+    {
+      "nama_wilayah": "Sumberagung",
+      "kode_wilayah": "35.05.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.13"
+    },
+    {
+      "nama_wilayah": "Balerejo",
+      "kode_wilayah": "35.05.13.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.13"
+    }
+  ]
+}

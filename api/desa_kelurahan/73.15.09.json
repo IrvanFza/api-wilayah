@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Pammase",
+      "kode_wilayah": "73.15.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.09"
+    },
+    {
+      "nama_wilayah": "Marawi",
+      "kode_wilayah": "73.15.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.09"
+    },
+    {
+      "nama_wilayah": "Fakkie",
+      "kode_wilayah": "73.15.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.09"
+    },
+    {
+      "nama_wilayah": "Tiroang",
+      "kode_wilayah": "73.15.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.09"
+    },
+    {
+      "nama_wilayah": "Mattiro Deceng",
+      "kode_wilayah": "73.15.09.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.09"
+    },
+    {
+      "nama_wilayah": "Samaturue",
+      "kode_wilayah": "73.15.09.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.09"
+    }
+  ]
+}

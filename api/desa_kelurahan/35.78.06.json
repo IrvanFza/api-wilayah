@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Petemon",
+      "kode_wilayah": "35.78.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.06"
+    },
+    {
+      "nama_wilayah": "Sawahan",
+      "kode_wilayah": "35.78.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.06"
+    },
+    {
+      "nama_wilayah": "Banyu Urip",
+      "kode_wilayah": "35.78.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.06"
+    },
+    {
+      "nama_wilayah": "Putat Jaya",
+      "kode_wilayah": "35.78.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.06"
+    },
+    {
+      "nama_wilayah": "Kupang Krajan",
+      "kode_wilayah": "35.78.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.06"
+    },
+    {
+      "nama_wilayah": "Pakis",
+      "kode_wilayah": "35.78.06.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.06"
+    }
+  ]
+}

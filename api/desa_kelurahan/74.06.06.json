@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Dongkala",
+      "kode_wilayah": "74.06.06.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.06"
+    },
+    {
+      "nama_wilayah": "Lambale",
+      "kode_wilayah": "74.06.06.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.06"
+    },
+    {
+      "nama_wilayah": "Wumbuburo",
+      "kode_wilayah": "74.06.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.06"
+    },
+    {
+      "nama_wilayah": "Balo",
+      "kode_wilayah": "74.06.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.06"
+    },
+    {
+      "nama_wilayah": "Toli-Toli",
+      "kode_wilayah": "74.06.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.06"
+    },
+    {
+      "nama_wilayah": "Tapuhaka",
+      "kode_wilayah": "74.06.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.06"
+    },
+    {
+      "nama_wilayah": "Bungi-Bungi",
+      "kode_wilayah": "74.06.06.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.06"
+    }
+  ]
+}

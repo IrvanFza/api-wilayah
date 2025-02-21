@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pendahara",
+      "kode_wilayah": "62.06.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.03"
+    },
+    {
+      "nama_wilayah": "Tewang Baringin",
+      "kode_wilayah": "62.06.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.03"
+    },
+    {
+      "nama_wilayah": "Hapalam",
+      "kode_wilayah": "62.06.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.03"
+    },
+    {
+      "nama_wilayah": "Tewang Rangas",
+      "kode_wilayah": "62.06.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.03"
+    },
+    {
+      "nama_wilayah": "Bangkuang",
+      "kode_wilayah": "62.06.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.03"
+    },
+    {
+      "nama_wilayah": "Tarusan Danum",
+      "kode_wilayah": "62.06.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.03"
+    },
+    {
+      "nama_wilayah": "Tumbang Tarusan",
+      "kode_wilayah": "62.06.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.03"
+    },
+    {
+      "nama_wilayah": "Tewang Rangkang",
+      "kode_wilayah": "62.06.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.03"
+    },
+    {
+      "nama_wilayah": "Tewang Manyangen",
+      "kode_wilayah": "62.06.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.03"
+    },
+    {
+      "nama_wilayah": "Karya Unggang",
+      "kode_wilayah": "62.06.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.06",
+      "kode_kecamatan": "62.06.03"
+    }
+  ]
+}

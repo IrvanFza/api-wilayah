@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Perlang",
+      "kode_wilayah": "19.04.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.04",
+      "kode_kecamatan": "19.04.06"
+    },
+    {
+      "nama_wilayah": "Batu Beriga",
+      "kode_wilayah": "19.04.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.04",
+      "kode_kecamatan": "19.04.06"
+    },
+    {
+      "nama_wilayah": "Lubuk Besar",
+      "kode_wilayah": "19.04.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.04",
+      "kode_kecamatan": "19.04.06"
+    },
+    {
+      "nama_wilayah": "Kulur",
+      "kode_wilayah": "19.04.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.04",
+      "kode_kecamatan": "19.04.06"
+    },
+    {
+      "nama_wilayah": "Lubuk Lingkuk",
+      "kode_wilayah": "19.04.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.04",
+      "kode_kecamatan": "19.04.06"
+    },
+    {
+      "nama_wilayah": "Lubuk Pabrik",
+      "kode_wilayah": "19.04.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.04",
+      "kode_kecamatan": "19.04.06"
+    },
+    {
+      "nama_wilayah": "Trubus",
+      "kode_wilayah": "19.04.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.04",
+      "kode_kecamatan": "19.04.06"
+    },
+    {
+      "nama_wilayah": "Kulur Ilir",
+      "kode_wilayah": "19.04.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.04",
+      "kode_kecamatan": "19.04.06"
+    },
+    {
+      "nama_wilayah": "Belimbing",
+      "kode_wilayah": "19.04.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.04",
+      "kode_kecamatan": "19.04.06"
+    }
+  ]
+}

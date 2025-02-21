@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sumanik",
+      "kode_wilayah": "13.04.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.10"
+    },
+    {
+      "nama_wilayah": "Situmbuk",
+      "kode_wilayah": "13.04.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.10"
+    },
+    {
+      "nama_wilayah": "Lawang Mandahiling",
+      "kode_wilayah": "13.04.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.10"
+    },
+    {
+      "nama_wilayah": "Supayang",
+      "kode_wilayah": "13.04.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.10"
+    },
+    {
+      "nama_wilayah": "Salimpaung",
+      "kode_wilayah": "13.04.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.10"
+    },
+    {
+      "nama_wilayah": "Tabek Patah",
+      "kode_wilayah": "13.04.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.04",
+      "kode_kecamatan": "13.04.10"
+    }
+  ]
+}

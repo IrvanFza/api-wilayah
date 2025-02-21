@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Prapatan",
+      "kode_wilayah": "64.71.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.06"
+    },
+    {
+      "nama_wilayah": "Telaga Sari",
+      "kode_wilayah": "64.71.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.06"
+    },
+    {
+      "nama_wilayah": "Klandasan Ulu",
+      "kode_wilayah": "64.71.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.06"
+    },
+    {
+      "nama_wilayah": "Klandasan Ilir",
+      "kode_wilayah": "64.71.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.06"
+    },
+    {
+      "nama_wilayah": "Damai",
+      "kode_wilayah": "64.71.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.71",
+      "kode_kecamatan": "64.71.06"
+    }
+  ]
+}

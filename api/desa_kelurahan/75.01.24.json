@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pilolalenga",
+      "kode_wilayah": "75.01.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.24"
+    },
+    {
+      "nama_wilayah": "Kaliyoso",
+      "kode_wilayah": "75.01.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.24"
+    },
+    {
+      "nama_wilayah": "Dungaliyo",
+      "kode_wilayah": "75.01.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.24"
+    },
+    {
+      "nama_wilayah": "Ambara",
+      "kode_wilayah": "75.01.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.24"
+    },
+    {
+      "nama_wilayah": "Bongomeme",
+      "kode_wilayah": "75.01.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.24"
+    },
+    {
+      "nama_wilayah": "Duwanga",
+      "kode_wilayah": "75.01.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.24"
+    },
+    {
+      "nama_wilayah": "Ayuhula",
+      "kode_wilayah": "75.01.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.24"
+    },
+    {
+      "nama_wilayah": "Pangadaa",
+      "kode_wilayah": "75.01.24.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.24"
+    },
+    {
+      "nama_wilayah": "Botubulowe",
+      "kode_wilayah": "75.01.24.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.24"
+    },
+    {
+      "nama_wilayah": "Momala",
+      "kode_wilayah": "75.01.24.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.24"
+    }
+  ]
+}

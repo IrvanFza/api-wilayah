@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tinambung",
+      "kode_wilayah": "76.04.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.01"
+    },
+    {
+      "nama_wilayah": "Karama",
+      "kode_wilayah": "76.04.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.01"
+    },
+    {
+      "nama_wilayah": "Tangnga Tangnga",
+      "kode_wilayah": "76.04.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.01"
+    },
+    {
+      "nama_wilayah": "Lekopadis",
+      "kode_wilayah": "76.04.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.01"
+    },
+    {
+      "nama_wilayah": "Galung Lombok",
+      "kode_wilayah": "76.04.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.01"
+    },
+    {
+      "nama_wilayah": "Tandung",
+      "kode_wilayah": "76.04.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.01"
+    },
+    {
+      "nama_wilayah": "Batulaya",
+      "kode_wilayah": "76.04.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.01"
+    },
+    {
+      "nama_wilayah": "Sepabatu",
+      "kode_wilayah": "76.04.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.01"
+    }
+  ]
+}

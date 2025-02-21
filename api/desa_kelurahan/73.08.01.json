@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Kahu",
+      "kode_wilayah": "73.08.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.08",
+      "kode_kecamatan": "73.08.01"
+    },
+    {
+      "nama_wilayah": "Watang Cani",
+      "kode_wilayah": "73.08.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.08",
+      "kode_kecamatan": "73.08.01"
+    },
+    {
+      "nama_wilayah": "Pattuku",
+      "kode_wilayah": "73.08.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.08",
+      "kode_kecamatan": "73.08.01"
+    },
+    {
+      "nama_wilayah": "Bontojai",
+      "kode_wilayah": "73.08.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.08",
+      "kode_kecamatan": "73.08.01"
+    },
+    {
+      "nama_wilayah": "Bana",
+      "kode_wilayah": "73.08.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.08",
+      "kode_kecamatan": "73.08.01"
+    },
+    {
+      "nama_wilayah": "Pammusureng",
+      "kode_wilayah": "73.08.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.08",
+      "kode_kecamatan": "73.08.01"
+    },
+    {
+      "nama_wilayah": "Langi",
+      "kode_wilayah": "73.08.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.08",
+      "kode_kecamatan": "73.08.01"
+    },
+    {
+      "nama_wilayah": "Ere Cinnong",
+      "kode_wilayah": "73.08.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.08",
+      "kode_kecamatan": "73.08.01"
+    },
+    {
+      "nama_wilayah": "Bulu Sirua",
+      "kode_wilayah": "73.08.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.08",
+      "kode_kecamatan": "73.08.01"
+    },
+    {
+      "nama_wilayah": "Lamoncong",
+      "kode_wilayah": "73.08.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.08",
+      "kode_kecamatan": "73.08.01"
+    },
+    {
+      "nama_wilayah": "Mattirowalie",
+      "kode_wilayah": "73.08.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.08",
+      "kode_kecamatan": "73.08.01"
+    }
+  ]
+}

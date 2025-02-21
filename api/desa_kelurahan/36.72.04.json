@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Banjar Negara",
+      "kode_wilayah": "36.72.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.04"
+    },
+    {
+      "nama_wilayah": "Tegal Ratu",
+      "kode_wilayah": "36.72.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.04"
+    },
+    {
+      "nama_wilayah": "Kubangsari",
+      "kode_wilayah": "36.72.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.04"
+    },
+    {
+      "nama_wilayah": "Gunung Sugih",
+      "kode_wilayah": "36.72.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.04"
+    },
+    {
+      "nama_wilayah": "Kepuh",
+      "kode_wilayah": "36.72.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.04"
+    },
+    {
+      "nama_wilayah": "Randakari",
+      "kode_wilayah": "36.72.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.04"
+    }
+  ]
+}

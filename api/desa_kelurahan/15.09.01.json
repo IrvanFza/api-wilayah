@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Muara Tebo",
+      "kode_wilayah": "15.09.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.01"
+    },
+    {
+      "nama_wilayah": "Tebing Tinggi",
+      "kode_wilayah": "15.09.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.01"
+    },
+    {
+      "nama_wilayah": "Bedaro Rampak",
+      "kode_wilayah": "15.09.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.01"
+    },
+    {
+      "nama_wilayah": "Mangun Jayo",
+      "kode_wilayah": "15.09.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.01"
+    },
+    {
+      "nama_wilayah": "Teluk Pandak",
+      "kode_wilayah": "15.09.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.01"
+    },
+    {
+      "nama_wilayah": "Tengah Ulu",
+      "kode_wilayah": "15.09.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.01"
+    },
+    {
+      "nama_wilayah": "Semabu",
+      "kode_wilayah": "15.09.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.01"
+    },
+    {
+      "nama_wilayah": "Kandang",
+      "kode_wilayah": "15.09.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.01"
+    },
+    {
+      "nama_wilayah": "Pelayang",
+      "kode_wilayah": "15.09.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.01"
+    },
+    {
+      "nama_wilayah": "Sungai Keruh",
+      "kode_wilayah": "15.09.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.01"
+    },
+    {
+      "nama_wilayah": "Aburan Batang Tebo",
+      "kode_wilayah": "15.09.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.01"
+    },
+    {
+      "nama_wilayah": "Sungai Alai",
+      "kode_wilayah": "15.09.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.01"
+    }
+  ]
+}

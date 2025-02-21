@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Tambarangan",
+      "kode_wilayah": "63.05.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.05",
+      "kode_kecamatan": "63.05.02"
+    },
+    {
+      "nama_wilayah": "Tatakan",
+      "kode_wilayah": "63.05.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.05",
+      "kode_kecamatan": "63.05.02"
+    },
+    {
+      "nama_wilayah": "Suato Tatakan",
+      "kode_wilayah": "63.05.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.05",
+      "kode_kecamatan": "63.05.02"
+    },
+    {
+      "nama_wilayah": "Sawang",
+      "kode_wilayah": "63.05.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.05",
+      "kode_kecamatan": "63.05.02"
+    },
+    {
+      "nama_wilayah": "Lawahan",
+      "kode_wilayah": "63.05.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.05",
+      "kode_kecamatan": "63.05.02"
+    },
+    {
+      "nama_wilayah": "Timbaan",
+      "kode_wilayah": "63.05.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.05",
+      "kode_kecamatan": "63.05.02"
+    },
+    {
+      "nama_wilayah": "Rumintin",
+      "kode_wilayah": "63.05.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.05",
+      "kode_kecamatan": "63.05.02"
+    },
+    {
+      "nama_wilayah": "Cempaka",
+      "kode_wilayah": "63.05.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.05",
+      "kode_kecamatan": "63.05.02"
+    },
+    {
+      "nama_wilayah": "Harapan Masa",
+      "kode_wilayah": "63.05.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.05",
+      "kode_kecamatan": "63.05.02"
+    },
+    {
+      "nama_wilayah": "Tandui",
+      "kode_wilayah": "63.05.02.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.05",
+      "kode_kecamatan": "63.05.02"
+    },
+    {
+      "nama_wilayah": "Hatiwin",
+      "kode_wilayah": "63.05.02.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.05",
+      "kode_kecamatan": "63.05.02"
+    }
+  ]
+}

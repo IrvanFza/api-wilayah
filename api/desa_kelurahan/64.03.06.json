@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Gunung Tabur",
+      "kode_wilayah": "64.03.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.06"
+    },
+    {
+      "nama_wilayah": "Tasuk",
+      "kode_wilayah": "64.03.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.06"
+    },
+    {
+      "nama_wilayah": "Birang",
+      "kode_wilayah": "64.03.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.06"
+    },
+    {
+      "nama_wilayah": "Maluang",
+      "kode_wilayah": "64.03.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.06"
+    },
+    {
+      "nama_wilayah": "Samburakat",
+      "kode_wilayah": "64.03.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.06"
+    },
+    {
+      "nama_wilayah": "Sambakungan",
+      "kode_wilayah": "64.03.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.06"
+    },
+    {
+      "nama_wilayah": "Merancang Ulu",
+      "kode_wilayah": "64.03.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.06"
+    },
+    {
+      "nama_wilayah": "Merancang Ilir",
+      "kode_wilayah": "64.03.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.06"
+    },
+    {
+      "nama_wilayah": "Pulau Besing",
+      "kode_wilayah": "64.03.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.06"
+    },
+    {
+      "nama_wilayah": "Melati Jaya",
+      "kode_wilayah": "64.03.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.06"
+    },
+    {
+      "nama_wilayah": "Batu-Batu",
+      "kode_wilayah": "64.03.06.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.06"
+    }
+  ]
+}

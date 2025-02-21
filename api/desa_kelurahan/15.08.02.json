@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Rantau Duku",
+      "kode_wilayah": "15.08.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.02"
+    },
+    {
+      "nama_wilayah": "Talang Sungai Bungo",
+      "kode_wilayah": "15.08.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.02"
+    },
+    {
+      "nama_wilayah": "Rantau Pandan",
+      "kode_wilayah": "15.08.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.02"
+    },
+    {
+      "nama_wilayah": "Leban",
+      "kode_wilayah": "15.08.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.02"
+    },
+    {
+      "nama_wilayah": "Lubuk Kayu Aro",
+      "kode_wilayah": "15.08.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.02"
+    },
+    {
+      "nama_wilayah": "Lubuk Mayan",
+      "kode_wilayah": "15.08.02.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.02"
+    }
+  ]
+}

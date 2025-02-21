@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Guguak Panjang",
+      "kode_wilayah": "13.75.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.75",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Mandiangin Koto Selayan",
+      "kode_wilayah": "13.75.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.75",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Aur Birugo Tigo Baleh",
+      "kode_wilayah": "13.75.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.75",
+      "kode_provinsi": "13"
+    }
+  ]
+}

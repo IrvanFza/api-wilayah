@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Mentawak",
+      "kode_wilayah": "19.06.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.04"
+    },
+    {
+      "nama_wilayah": "Senyubuk",
+      "kode_wilayah": "19.06.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.04"
+    },
+    {
+      "nama_wilayah": "Cendil",
+      "kode_wilayah": "19.06.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.04"
+    },
+    {
+      "nama_wilayah": "Buding",
+      "kode_wilayah": "19.06.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.04"
+    },
+    {
+      "nama_wilayah": "Mayang",
+      "kode_wilayah": "19.06.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.04"
+    },
+    {
+      "nama_wilayah": "Pembaharuan",
+      "kode_wilayah": "19.06.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.06",
+      "kode_kecamatan": "19.06.04"
+    }
+  ]
+}

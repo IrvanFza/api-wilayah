@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Kalideres",
+      "kode_wilayah": "32.09.29.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.29"
+    },
+    {
+      "nama_wilayah": "Prajawinangun Kulon",
+      "kode_wilayah": "32.09.29.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.29"
+    },
+    {
+      "nama_wilayah": "Prajawinangun Wetan",
+      "kode_wilayah": "32.09.29.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.29"
+    },
+    {
+      "nama_wilayah": "Ujungsemi",
+      "kode_wilayah": "32.09.29.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.29"
+    },
+    {
+      "nama_wilayah": "Wargabinangun",
+      "kode_wilayah": "32.09.29.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.29"
+    },
+    {
+      "nama_wilayah": "Kaliwedi Lor",
+      "kode_wilayah": "32.09.29.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.29"
+    },
+    {
+      "nama_wilayah": "Kaliwedi Kidul",
+      "kode_wilayah": "32.09.29.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.29"
+    },
+    {
+      "nama_wilayah": "Guwa Kidul",
+      "kode_wilayah": "32.09.29.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.29"
+    },
+    {
+      "nama_wilayah": "Guwa Lor",
+      "kode_wilayah": "32.09.29.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.29"
+    }
+  ]
+}

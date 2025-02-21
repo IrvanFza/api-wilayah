@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Buki",
+      "kode_wilayah": "73.01.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.11"
+    },
+    {
+      "nama_wilayah": "Lalang Bata",
+      "kode_wilayah": "73.01.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.11"
+    },
+    {
+      "nama_wilayah": "Balang Butung",
+      "kode_wilayah": "73.01.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.11"
+    },
+    {
+      "nama_wilayah": "Kohala",
+      "kode_wilayah": "73.01.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.11"
+    },
+    {
+      "nama_wilayah": "Bontolempangan",
+      "kode_wilayah": "73.01.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.11"
+    },
+    {
+      "nama_wilayah": "Mekar Indah",
+      "kode_wilayah": "73.01.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.11"
+    },
+    {
+      "nama_wilayah": "Buki Timur",
+      "kode_wilayah": "73.01.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.11"
+    }
+  ]
+}

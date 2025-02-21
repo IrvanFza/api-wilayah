@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Baruga",
+      "kode_wilayah": "74.71.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.03"
+    },
+    {
+      "nama_wilayah": "Lepo Lepo",
+      "kode_wilayah": "74.71.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.03"
+    },
+    {
+      "nama_wilayah": "Watubangga",
+      "kode_wilayah": "74.71.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.03"
+    },
+    {
+      "nama_wilayah": "Wundudopi",
+      "kode_wilayah": "74.71.03.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.03"
+    }
+  ]
+}

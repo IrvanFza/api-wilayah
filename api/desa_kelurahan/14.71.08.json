@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Simpangbaru",
+      "kode_wilayah": "14.71.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.08"
+    },
+    {
+      "nama_wilayah": "Delima",
+      "kode_wilayah": "14.71.08.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.08"
+    },
+    {
+      "nama_wilayah": "Tobekgodang",
+      "kode_wilayah": "14.71.08.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.08"
+    },
+    {
+      "nama_wilayah": "Binawidya",
+      "kode_wilayah": "14.71.08.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.08"
+    },
+    {
+      "nama_wilayah": "Sungaisibam",
+      "kode_wilayah": "14.71.08.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.08"
+    }
+  ]
+}

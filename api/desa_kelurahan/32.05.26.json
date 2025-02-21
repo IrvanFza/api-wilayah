@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Peundeuy",
+      "kode_wilayah": "32.05.26.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.26"
+    },
+    {
+      "nama_wilayah": "Toblong",
+      "kode_wilayah": "32.05.26.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.26"
+    },
+    {
+      "nama_wilayah": "Saribakti",
+      "kode_wilayah": "32.05.26.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.26"
+    },
+    {
+      "nama_wilayah": "Pangrumasan",
+      "kode_wilayah": "32.05.26.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.26"
+    },
+    {
+      "nama_wilayah": "Sukanagara",
+      "kode_wilayah": "32.05.26.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.26"
+    },
+    {
+      "nama_wilayah": "Purwajaya",
+      "kode_wilayah": "32.05.26.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.26"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bendosari",
+      "kode_wilayah": "35.07.26.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.26"
+    },
+    {
+      "nama_wilayah": "Sukomulyo",
+      "kode_wilayah": "35.07.26.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.26"
+    },
+    {
+      "nama_wilayah": "Pujonkidul",
+      "kode_wilayah": "35.07.26.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.26"
+    },
+    {
+      "nama_wilayah": "Pandesari",
+      "kode_wilayah": "35.07.26.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.26"
+    },
+    {
+      "nama_wilayah": "Pujon Lor",
+      "kode_wilayah": "35.07.26.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.26"
+    },
+    {
+      "nama_wilayah": "Ngroto",
+      "kode_wilayah": "35.07.26.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.26"
+    },
+    {
+      "nama_wilayah": "Ngabab",
+      "kode_wilayah": "35.07.26.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.26"
+    },
+    {
+      "nama_wilayah": "Tawangsari",
+      "kode_wilayah": "35.07.26.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.26"
+    },
+    {
+      "nama_wilayah": "Madiredo",
+      "kode_wilayah": "35.07.26.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.26"
+    },
+    {
+      "nama_wilayah": "Wiyurejo",
+      "kode_wilayah": "35.07.26.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.26"
+    }
+  ]
+}

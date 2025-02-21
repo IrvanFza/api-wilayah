@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Beras Basah",
+      "kode_wilayah": "12.05.15.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.15"
+    },
+    {
+      "nama_wilayah": "Bukit Jengkol",
+      "kode_wilayah": "12.05.15.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.15"
+    },
+    {
+      "nama_wilayah": "Alur Cempedak",
+      "kode_wilayah": "12.05.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.15"
+    },
+    {
+      "nama_wilayah": "Sei Siur",
+      "kode_wilayah": "12.05.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.15"
+    },
+    {
+      "nama_wilayah": "Tanjung Pasir",
+      "kode_wilayah": "12.05.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.15"
+    },
+    {
+      "nama_wilayah": "Paya Tampak",
+      "kode_wilayah": "12.05.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.15"
+    },
+    {
+      "nama_wilayah": "Pintu Air",
+      "kode_wilayah": "12.05.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.15"
+    },
+    {
+      "nama_wilayah": "Sei Meran",
+      "kode_wilayah": "12.05.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.15"
+    },
+    {
+      "nama_wilayah": "Pulau Sembilan",
+      "kode_wilayah": "12.05.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.15"
+    },
+    {
+      "nama_wilayah": "Pulau Kampai",
+      "kode_wilayah": "12.05.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.15"
+    },
+    {
+      "nama_wilayah": "Pangkalan Siata",
+      "kode_wilayah": "12.05.15.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.05",
+      "kode_kecamatan": "12.05.15"
+    }
+  ]
+}

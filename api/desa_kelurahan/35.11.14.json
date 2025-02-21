@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Karang Anyar",
+      "kode_wilayah": "35.11.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.14"
+    },
+    {
+      "nama_wilayah": "Blimbing",
+      "kode_wilayah": "35.11.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.14"
+    },
+    {
+      "nama_wilayah": "Karang Sengon",
+      "kode_wilayah": "35.11.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.14"
+    },
+    {
+      "nama_wilayah": "Wonokerto",
+      "kode_wilayah": "35.11.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.14"
+    },
+    {
+      "nama_wilayah": "Klabang",
+      "kode_wilayah": "35.11.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.14"
+    },
+    {
+      "nama_wilayah": "Klampokan",
+      "kode_wilayah": "35.11.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.14"
+    },
+    {
+      "nama_wilayah": "Sumber Suko",
+      "kode_wilayah": "35.11.14.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.14"
+    },
+    {
+      "nama_wilayah": "Besuk",
+      "kode_wilayah": "35.11.14.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.14"
+    },
+    {
+      "nama_wilayah": "Pandak",
+      "kode_wilayah": "35.11.14.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.14"
+    },
+    {
+      "nama_wilayah": "Leprak",
+      "kode_wilayah": "35.11.14.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.14"
+    },
+    {
+      "nama_wilayah": "Wonoboyo",
+      "kode_wilayah": "35.11.14.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.14"
+    }
+  ]
+}

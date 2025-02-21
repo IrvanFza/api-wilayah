@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Kalipuro",
+      "kode_wilayah": "35.10.21.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.21"
+    },
+    {
+      "nama_wilayah": "Klatak",
+      "kode_wilayah": "35.10.21.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.21"
+    },
+    {
+      "nama_wilayah": "Gombengsari",
+      "kode_wilayah": "35.10.21.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.21"
+    },
+    {
+      "nama_wilayah": "Bulusan",
+      "kode_wilayah": "35.10.21.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.21"
+    },
+    {
+      "nama_wilayah": "Ketapang",
+      "kode_wilayah": "35.10.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.21"
+    },
+    {
+      "nama_wilayah": "Pesucen",
+      "kode_wilayah": "35.10.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.21"
+    },
+    {
+      "nama_wilayah": "Kelir",
+      "kode_wilayah": "35.10.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.21"
+    },
+    {
+      "nama_wilayah": "Telemung",
+      "kode_wilayah": "35.10.21.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.21"
+    },
+    {
+      "nama_wilayah": "Bulusari",
+      "kode_wilayah": "35.10.21.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.21"
+    }
+  ]
+}

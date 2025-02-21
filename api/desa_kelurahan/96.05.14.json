@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Womba",
+      "kode_wilayah": "96.05.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.14"
+    },
+    {
+      "nama_wilayah": "Wormu",
+      "kode_wilayah": "96.05.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.14"
+    },
+    {
+      "nama_wilayah": "Srumate",
+      "kode_wilayah": "96.05.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.14"
+    },
+    {
+      "nama_wilayah": "Makiri",
+      "kode_wilayah": "96.05.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.14"
+    },
+    {
+      "nama_wilayah": "Warba",
+      "kode_wilayah": "96.05.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.14"
+    },
+    {
+      "nama_wilayah": "Winuni",
+      "kode_wilayah": "96.05.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.14"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Raya",
+      "kode_wilayah": "63.06.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.06",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Padang Batung",
+      "kode_wilayah": "63.06.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.06",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Telaga Langsat",
+      "kode_wilayah": "63.06.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.06",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Angkinang",
+      "kode_wilayah": "63.06.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.06",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Kandangan",
+      "kode_wilayah": "63.06.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.06",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Simpur",
+      "kode_wilayah": "63.06.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.06",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Daha Selatan",
+      "kode_wilayah": "63.06.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.06",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Daha Utara",
+      "kode_wilayah": "63.06.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.06",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Kalumpang",
+      "kode_wilayah": "63.06.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.06",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Loksado",
+      "kode_wilayah": "63.06.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.06",
+      "kode_provinsi": "63"
+    },
+    {
+      "nama_wilayah": "Daha Barat",
+      "kode_wilayah": "63.06.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "63.06",
+      "kode_provinsi": "63"
+    }
+  ]
+}

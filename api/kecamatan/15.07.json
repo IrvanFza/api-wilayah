@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Muara Sabak Timur",
+      "kode_wilayah": "15.07.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.07",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Nipah Panjang",
+      "kode_wilayah": "15.07.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.07",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Mendahara",
+      "kode_wilayah": "15.07.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.07",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Rantau Rasau",
+      "kode_wilayah": "15.07.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.07",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "S a d u",
+      "kode_wilayah": "15.07.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.07",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Dendang",
+      "kode_wilayah": "15.07.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.07",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Muara Sabak Barat",
+      "kode_wilayah": "15.07.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.07",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Kuala Jambi",
+      "kode_wilayah": "15.07.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.07",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Mendahara Ulu",
+      "kode_wilayah": "15.07.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.07",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Geragai",
+      "kode_wilayah": "15.07.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.07",
+      "kode_provinsi": "15"
+    },
+    {
+      "nama_wilayah": "Berbak",
+      "kode_wilayah": "15.07.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "15.07",
+      "kode_provinsi": "15"
+    }
+  ]
+}

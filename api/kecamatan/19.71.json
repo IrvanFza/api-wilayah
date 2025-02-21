@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Bukit Intan",
+      "kode_wilayah": "19.71.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.71",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Taman Sari",
+      "kode_wilayah": "19.71.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.71",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Pangkal Balam",
+      "kode_wilayah": "19.71.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.71",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Rangkui",
+      "kode_wilayah": "19.71.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.71",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Gerunggang",
+      "kode_wilayah": "19.71.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.71",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Gabek",
+      "kode_wilayah": "19.71.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.71",
+      "kode_provinsi": "19"
+    },
+    {
+      "nama_wilayah": "Girimaya",
+      "kode_wilayah": "19.71.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "19.71",
+      "kode_provinsi": "19"
+    }
+  ]
+}

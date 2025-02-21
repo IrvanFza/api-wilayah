@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Rimbo Pengadang",
+      "kode_wilayah": "17.07.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.05"
+    },
+    {
+      "nama_wilayah": "Talang Ratau",
+      "kode_wilayah": "17.07.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.05"
+    },
+    {
+      "nama_wilayah": "Bioa Sengok",
+      "kode_wilayah": "17.07.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.05"
+    },
+    {
+      "nama_wilayah": "Tik Kuto",
+      "kode_wilayah": "17.07.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.05"
+    },
+    {
+      "nama_wilayah": "Teluk Dien",
+      "kode_wilayah": "17.07.05.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.05"
+    },
+    {
+      "nama_wilayah": "Bajok",
+      "kode_wilayah": "17.07.05.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.07",
+      "kode_kecamatan": "17.07.05"
+    }
+  ]
+}

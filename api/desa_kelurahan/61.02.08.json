@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Wajok Hilir",
+      "kode_wilayah": "61.02.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.08"
+    },
+    {
+      "nama_wilayah": "Sungai Nipah",
+      "kode_wilayah": "61.02.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.08"
+    },
+    {
+      "nama_wilayah": "Peniti Luar",
+      "kode_wilayah": "61.02.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.08"
+    },
+    {
+      "nama_wilayah": "Wajok Hulu",
+      "kode_wilayah": "61.02.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.08"
+    },
+    {
+      "nama_wilayah": "Jungkat",
+      "kode_wilayah": "61.02.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.02",
+      "kode_kecamatan": "61.02.08"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Amk",
+      "kode_wilayah": "93.03.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.03",
+      "kode_kecamatan": "93.03.12"
+    },
+    {
+      "nama_wilayah": "Yame",
+      "kode_wilayah": "93.03.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.03",
+      "kode_kecamatan": "93.03.12"
+    },
+    {
+      "nama_wilayah": "Benggo",
+      "kode_wilayah": "93.03.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.03",
+      "kode_kecamatan": "93.03.12"
+    },
+    {
+      "nama_wilayah": "Kokoya",
+      "kode_wilayah": "93.03.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.03",
+      "kode_kecamatan": "93.03.12"
+    },
+    {
+      "nama_wilayah": "Borohaba",
+      "kode_wilayah": "93.03.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.03",
+      "kode_kecamatan": "93.03.12"
+    },
+    {
+      "nama_wilayah": "Ogorito",
+      "kode_wilayah": "93.03.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.03",
+      "kode_kecamatan": "93.03.12"
+    },
+    {
+      "nama_wilayah": "Hebeske",
+      "kode_wilayah": "93.03.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.03",
+      "kode_kecamatan": "93.03.12"
+    }
+  ]
+}

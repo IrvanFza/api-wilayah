@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Karangbolong",
+      "kode_wilayah": "36.01.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.05"
+    },
+    {
+      "nama_wilayah": "Katumbiri",
+      "kode_wilayah": "36.01.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.05"
+    },
+    {
+      "nama_wilayah": "Waringinjaya",
+      "kode_wilayah": "36.01.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.05"
+    },
+    {
+      "nama_wilayah": "Karyabuana",
+      "kode_wilayah": "36.01.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.05"
+    },
+    {
+      "nama_wilayah": "Tarumanagara",
+      "kode_wilayah": "36.01.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.05"
+    },
+    {
+      "nama_wilayah": "Ciseureuheun",
+      "kode_wilayah": "36.01.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.05"
+    },
+    {
+      "nama_wilayah": "Banyuasih",
+      "kode_wilayah": "36.01.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.05"
+    },
+    {
+      "nama_wilayah": "Cigeulis",
+      "kode_wilayah": "36.01.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.05"
+    },
+    {
+      "nama_wilayah": "Sinarjaya",
+      "kode_wilayah": "36.01.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.05"
+    }
+  ]
+}

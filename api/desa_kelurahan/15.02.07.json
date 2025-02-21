@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Muara Jernih",
+      "kode_wilayah": "15.02.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.07"
+    },
+    {
+      "nama_wilayah": "Kapuk",
+      "kode_wilayah": "15.02.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.07"
+    },
+    {
+      "nama_wilayah": "Pulau Aro",
+      "kode_wilayah": "15.02.07.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.07"
+    },
+    {
+      "nama_wilayah": "Rantau Ngarau",
+      "kode_wilayah": "15.02.07.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.07"
+    },
+    {
+      "nama_wilayah": "Medan Baru",
+      "kode_wilayah": "15.02.07.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.07"
+    },
+    {
+      "nama_wilayah": "Muaro Seketuk",
+      "kode_wilayah": "15.02.07.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.07"
+    }
+  ]
+}

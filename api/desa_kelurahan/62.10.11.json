@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tehang",
+      "kode_wilayah": "62.10.11.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.10",
+      "kode_kecamatan": "62.10.11"
+    },
+    {
+      "nama_wilayah": "Tumbang Samui",
+      "kode_wilayah": "62.10.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.10",
+      "kode_kecamatan": "62.10.11"
+    },
+    {
+      "nama_wilayah": "Tumbang Oroi",
+      "kode_wilayah": "62.10.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.10",
+      "kode_kecamatan": "62.10.11"
+    },
+    {
+      "nama_wilayah": "Luwuk Tukau",
+      "kode_wilayah": "62.10.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.10",
+      "kode_kecamatan": "62.10.11"
+    },
+    {
+      "nama_wilayah": "Putat Durei",
+      "kode_wilayah": "62.10.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.10",
+      "kode_kecamatan": "62.10.11"
+    },
+    {
+      "nama_wilayah": "Tumbang Mantuhe",
+      "kode_wilayah": "62.10.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.10",
+      "kode_kecamatan": "62.10.11"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Dirwemna",
+      "kode_wilayah": "95.03.33.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.33"
+    },
+    {
+      "nama_wilayah": "Aksal",
+      "kode_wilayah": "95.03.33.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.33"
+    },
+    {
+      "nama_wilayah": "Dolsen",
+      "kode_wilayah": "95.03.33.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.33"
+    },
+    {
+      "nama_wilayah": "Salengkomo",
+      "kode_wilayah": "95.03.33.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.33"
+    },
+    {
+      "nama_wilayah": "Silion",
+      "kode_wilayah": "95.03.33.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.33"
+    }
+  ]
+}

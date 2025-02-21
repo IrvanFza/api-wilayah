@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Fawi",
+      "kode_wilayah": "94.02.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.03"
+    },
+    {
+      "nama_wilayah": "Bakusi",
+      "kode_wilayah": "94.02.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.03"
+    },
+    {
+      "nama_wilayah": "Turumo",
+      "kode_wilayah": "94.02.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.03"
+    },
+    {
+      "nama_wilayah": "Kaho",
+      "kode_wilayah": "94.02.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.03"
+    },
+    {
+      "nama_wilayah": "Biricare",
+      "kode_wilayah": "94.02.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.03"
+    },
+    {
+      "nama_wilayah": "Dorey",
+      "kode_wilayah": "94.02.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.03"
+    },
+    {
+      "nama_wilayah": "Fii",
+      "kode_wilayah": "94.02.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.03"
+    },
+    {
+      "nama_wilayah": "Evo",
+      "kode_wilayah": "94.02.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.03"
+    },
+    {
+      "nama_wilayah": "Yerei",
+      "kode_wilayah": "94.02.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.03"
+    }
+  ]
+}

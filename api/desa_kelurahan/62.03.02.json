@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Mambulau",
+      "kode_wilayah": "62.03.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.02"
+    },
+    {
+      "nama_wilayah": "Hampatung",
+      "kode_wilayah": "62.03.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.02"
+    },
+    {
+      "nama_wilayah": "Dahirang",
+      "kode_wilayah": "62.03.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.02"
+    },
+    {
+      "nama_wilayah": "Barimba",
+      "kode_wilayah": "62.03.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.02"
+    },
+    {
+      "nama_wilayah": "Sei Pasah",
+      "kode_wilayah": "62.03.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.02"
+    },
+    {
+      "nama_wilayah": "Bakungin",
+      "kode_wilayah": "62.03.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.02"
+    },
+    {
+      "nama_wilayah": "Sei Asam",
+      "kode_wilayah": "62.03.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.02"
+    },
+    {
+      "nama_wilayah": "Saka Batur",
+      "kode_wilayah": "62.03.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.02"
+    }
+  ]
+}

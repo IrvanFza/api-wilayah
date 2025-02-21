@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Rajabasa",
+      "kode_wilayah": "18.71.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.10"
+    },
+    {
+      "nama_wilayah": "Gedong Meneng",
+      "kode_wilayah": "18.71.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.10"
+    },
+    {
+      "nama_wilayah": "Rajabasa Nunyai",
+      "kode_wilayah": "18.71.10.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.10"
+    },
+    {
+      "nama_wilayah": "Rajabasa Pemuka",
+      "kode_wilayah": "18.71.10.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.10"
+    },
+    {
+      "nama_wilayah": "Gedong Meneng Baru",
+      "kode_wilayah": "18.71.10.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.10"
+    },
+    {
+      "nama_wilayah": "Rajabasa Raya",
+      "kode_wilayah": "18.71.10.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.10"
+    },
+    {
+      "nama_wilayah": "Rajabasa Jaya",
+      "kode_wilayah": "18.71.10.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.10"
+    }
+  ]
+}

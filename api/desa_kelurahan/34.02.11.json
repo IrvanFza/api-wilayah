@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Mangunan",
+      "kode_wilayah": "34.02.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.11"
+    },
+    {
+      "nama_wilayah": "Muntuk",
+      "kode_wilayah": "34.02.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.11"
+    },
+    {
+      "nama_wilayah": "Dlingo",
+      "kode_wilayah": "34.02.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.11"
+    },
+    {
+      "nama_wilayah": "Temuwuh",
+      "kode_wilayah": "34.02.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.11"
+    },
+    {
+      "nama_wilayah": "Terong",
+      "kode_wilayah": "34.02.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.11"
+    },
+    {
+      "nama_wilayah": "Jatimulyo",
+      "kode_wilayah": "34.02.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.11"
+    }
+  ]
+}

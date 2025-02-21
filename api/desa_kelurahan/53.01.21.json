@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Manubelon",
+      "kode_wilayah": "53.01.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.21"
+    },
+    {
+      "nama_wilayah": "Letkole",
+      "kode_wilayah": "53.01.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.21"
+    },
+    {
+      "nama_wilayah": "Nefoneut",
+      "kode_wilayah": "53.01.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.21"
+    },
+    {
+      "nama_wilayah": "Bioba Baru",
+      "kode_wilayah": "53.01.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.21"
+    }
+  ]
+}

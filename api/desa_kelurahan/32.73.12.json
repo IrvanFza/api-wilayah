@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Gumuruh",
+      "kode_wilayah": "32.73.12.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.12"
+    },
+    {
+      "nama_wilayah": "Maleer",
+      "kode_wilayah": "32.73.12.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.12"
+    },
+    {
+      "nama_wilayah": "Cibangkong",
+      "kode_wilayah": "32.73.12.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.12"
+    },
+    {
+      "nama_wilayah": "Kacapiring",
+      "kode_wilayah": "32.73.12.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.12"
+    },
+    {
+      "nama_wilayah": "Kebon Waru",
+      "kode_wilayah": "32.73.12.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.12"
+    },
+    {
+      "nama_wilayah": "Kebon Gedang",
+      "kode_wilayah": "32.73.12.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.12"
+    },
+    {
+      "nama_wilayah": "Samoja",
+      "kode_wilayah": "32.73.12.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.12"
+    },
+    {
+      "nama_wilayah": "Binong",
+      "kode_wilayah": "32.73.12.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.12"
+    }
+  ]
+}

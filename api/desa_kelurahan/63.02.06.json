@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kotabaru Hulu",
+      "kode_wilayah": "63.02.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.06"
+    },
+    {
+      "nama_wilayah": "Megasari",
+      "kode_wilayah": "63.02.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.06"
+    },
+    {
+      "nama_wilayah": "Sebelimbingan",
+      "kode_wilayah": "63.02.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.06"
+    },
+    {
+      "nama_wilayah": "Stagen",
+      "kode_wilayah": "63.02.06.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.06"
+    },
+    {
+      "nama_wilayah": "Rampa",
+      "kode_wilayah": "63.02.06.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.06"
+    },
+    {
+      "nama_wilayah": "Sungai Taib",
+      "kode_wilayah": "63.02.06.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.06"
+    },
+    {
+      "nama_wilayah": "Semayap",
+      "kode_wilayah": "63.02.06.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.06"
+    },
+    {
+      "nama_wilayah": "Dirgahayu",
+      "kode_wilayah": "63.02.06.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.06"
+    },
+    {
+      "nama_wilayah": "Gunung Ulin",
+      "kode_wilayah": "63.02.06.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.06"
+    },
+    {
+      "nama_wilayah": "Gunung Sari",
+      "kode_wilayah": "63.02.06.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.06"
+    }
+  ]
+}

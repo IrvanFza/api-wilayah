@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Payung",
+      "kode_wilayah": "19.03.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.05"
+    },
+    {
+      "nama_wilayah": "Malik",
+      "kode_wilayah": "19.03.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.05"
+    },
+    {
+      "nama_wilayah": "Sengir",
+      "kode_wilayah": "19.03.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.05"
+    },
+    {
+      "nama_wilayah": "Pangkal Buluh",
+      "kode_wilayah": "19.03.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.05"
+    },
+    {
+      "nama_wilayah": "Irat",
+      "kode_wilayah": "19.03.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.05"
+    },
+    {
+      "nama_wilayah": "Bedengung",
+      "kode_wilayah": "19.03.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.05"
+    },
+    {
+      "nama_wilayah": "Nadung",
+      "kode_wilayah": "19.03.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.05"
+    },
+    {
+      "nama_wilayah": "Ranggung",
+      "kode_wilayah": "19.03.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.05"
+    },
+    {
+      "nama_wilayah": "Paku",
+      "kode_wilayah": "19.03.05.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.05"
+    }
+  ]
+}

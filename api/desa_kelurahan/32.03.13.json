@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Cikanyere",
+      "kode_wilayah": "32.03.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.13"
+    },
+    {
+      "nama_wilayah": "Cikancana",
+      "kode_wilayah": "32.03.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.13"
+    },
+    {
+      "nama_wilayah": "Ciwalen",
+      "kode_wilayah": "32.03.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.13"
+    },
+    {
+      "nama_wilayah": "Kawungluwuk",
+      "kode_wilayah": "32.03.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.13"
+    },
+    {
+      "nama_wilayah": "Cibadak",
+      "kode_wilayah": "32.03.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.13"
+    },
+    {
+      "nama_wilayah": "Sukamahi",
+      "kode_wilayah": "32.03.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.13"
+    },
+    {
+      "nama_wilayah": "Sukaresmi",
+      "kode_wilayah": "32.03.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.13"
+    },
+    {
+      "nama_wilayah": "Cibanteng",
+      "kode_wilayah": "32.03.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.13"
+    },
+    {
+      "nama_wilayah": "Kubang",
+      "kode_wilayah": "32.03.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.13"
+    },
+    {
+      "nama_wilayah": "Pakuon",
+      "kode_wilayah": "32.03.13.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.13"
+    },
+    {
+      "nama_wilayah": "Rawabelut",
+      "kode_wilayah": "32.03.13.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.03",
+      "kode_kecamatan": "32.03.13"
+    }
+  ]
+}

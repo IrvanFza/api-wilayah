@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kogholifano",
+      "kode_wilayah": "74.03.28.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.28"
+    },
+    {
+      "nama_wilayah": "Pola",
+      "kode_wilayah": "74.03.28.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.28"
+    },
+    {
+      "nama_wilayah": "Kamosope",
+      "kode_wilayah": "74.03.28.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.28"
+    },
+    {
+      "nama_wilayah": "Liwumetingki",
+      "kode_wilayah": "74.03.28.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.28"
+    },
+    {
+      "nama_wilayah": "Labulawa",
+      "kode_wilayah": "74.03.28.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.28"
+    },
+    {
+      "nama_wilayah": "Bumbu",
+      "kode_wilayah": "74.03.28.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.28"
+    }
+  ]
+}

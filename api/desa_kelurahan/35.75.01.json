@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Karangketug",
+      "kode_wilayah": "35.75.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.75",
+      "kode_kecamatan": "35.75.01"
+    },
+    {
+      "nama_wilayah": "Gentong",
+      "kode_wilayah": "35.75.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.75",
+      "kode_kecamatan": "35.75.01"
+    },
+    {
+      "nama_wilayah": "Sebani",
+      "kode_wilayah": "35.75.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.75",
+      "kode_kecamatan": "35.75.01"
+    },
+    {
+      "nama_wilayah": "Petahunan",
+      "kode_wilayah": "35.75.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.75",
+      "kode_kecamatan": "35.75.01"
+    },
+    {
+      "nama_wilayah": "Bukir",
+      "kode_wilayah": "35.75.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.75",
+      "kode_kecamatan": "35.75.01"
+    },
+    {
+      "nama_wilayah": "Randusari",
+      "kode_wilayah": "35.75.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.75",
+      "kode_kecamatan": "35.75.01"
+    },
+    {
+      "nama_wilayah": "Krapyakrejo",
+      "kode_wilayah": "35.75.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.75",
+      "kode_kecamatan": "35.75.01"
+    },
+    {
+      "nama_wilayah": "Gadingrejo",
+      "kode_wilayah": "35.75.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.75",
+      "kode_kecamatan": "35.75.01"
+    }
+  ]
+}

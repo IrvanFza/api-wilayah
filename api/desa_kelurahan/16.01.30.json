@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Batu Marta I",
+      "kode_wilayah": "16.01.30.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.30"
+    },
+    {
+      "nama_wilayah": "Batu Marta II",
+      "kode_wilayah": "16.01.30.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.30"
+    },
+    {
+      "nama_wilayah": "Lekis Rejo",
+      "kode_wilayah": "16.01.30.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.30"
+    },
+    {
+      "nama_wilayah": "Lubuk Banjar",
+      "kode_wilayah": "16.01.30.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.30"
+    },
+    {
+      "nama_wilayah": "Marta Jaya",
+      "kode_wilayah": "16.01.30.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.30"
+    },
+    {
+      "nama_wilayah": "Batu Raden",
+      "kode_wilayah": "16.01.30.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.30"
+    },
+    {
+      "nama_wilayah": "Battu Winangun",
+      "kode_wilayah": "16.01.30.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.30"
+    }
+  ]
+}

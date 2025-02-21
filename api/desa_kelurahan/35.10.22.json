@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Buluagung",
+      "kode_wilayah": "35.10.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.22"
+    },
+    {
+      "nama_wilayah": "Siliragung",
+      "kode_wilayah": "35.10.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.22"
+    },
+    {
+      "nama_wilayah": "Kesilir",
+      "kode_wilayah": "35.10.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.22"
+    },
+    {
+      "nama_wilayah": "Seneporejo",
+      "kode_wilayah": "35.10.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.22"
+    },
+    {
+      "nama_wilayah": "Barurejo",
+      "kode_wilayah": "35.10.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.22"
+    }
+  ]
+}

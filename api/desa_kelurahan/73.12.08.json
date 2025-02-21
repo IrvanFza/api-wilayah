@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Citta",
+      "kode_wilayah": "73.12.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.08"
+    },
+    {
+      "nama_wilayah": "Kampiri",
+      "kode_wilayah": "73.12.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.08"
+    },
+    {
+      "nama_wilayah": "Labae",
+      "kode_wilayah": "73.12.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.08"
+    },
+    {
+      "nama_wilayah": "Tinco",
+      "kode_wilayah": "73.12.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.08"
+    }
+  ]
+}

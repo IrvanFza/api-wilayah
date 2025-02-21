@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "total": 23,
+  "data": [
+    {
+      "nama_wilayah": "Bandar Bireuen",
+      "kode_wilayah": "11.11.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Bireuen Meunasah Reulet",
+      "kode_wilayah": "11.11.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Bireuen Meunasah Blang",
+      "kode_wilayah": "11.11.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Bireuen Meunasah Capa",
+      "kode_wilayah": "11.11.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Bireuen Meunasah Dayah",
+      "kode_wilayah": "11.11.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Bireuen Meunasah Tgk Digadong",
+      "kode_wilayah": "11.11.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Geudong-Geudong",
+      "kode_wilayah": "11.11.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Pulo Ara Geudong Teungoh",
+      "kode_wilayah": "11.11.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Geudong Alue",
+      "kode_wilayah": "11.11.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Pulo Kiton",
+      "kode_wilayah": "11.11.13.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Lhok Awe Teungoh",
+      "kode_wilayah": "11.11.13.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Geulanggang Teungoh",
+      "kode_wilayah": "11.11.13.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Cot Gapu",
+      "kode_wilayah": "11.11.13.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Geulanggang Kulam",
+      "kode_wilayah": "11.11.13.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Geulanggang Gampong",
+      "kode_wilayah": "11.11.13.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Blang Tingkeum",
+      "kode_wilayah": "11.11.13.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Buket Teukueh",
+      "kode_wilayah": "11.11.13.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Blang Reuling",
+      "kode_wilayah": "11.11.13.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Cot Jrat",
+      "kode_wilayah": "11.11.13.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Cot Peutek",
+      "kode_wilayah": "11.11.13.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Uteun Reutoh",
+      "kode_wilayah": "11.11.13.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Geulanggang Baro",
+      "kode_wilayah": "11.11.13.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    },
+    {
+      "nama_wilayah": "Gampong Baro",
+      "kode_wilayah": "11.11.13.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.11",
+      "kode_kecamatan": "11.11.13"
+    }
+  ]
+}

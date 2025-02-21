@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Cempaka Putih",
+      "kode_wilayah": "36.74.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.05"
+    },
+    {
+      "nama_wilayah": "Pondok Ranji",
+      "kode_wilayah": "36.74.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.05"
+    },
+    {
+      "nama_wilayah": "Pisangan",
+      "kode_wilayah": "36.74.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.05"
+    },
+    {
+      "nama_wilayah": "Cireundeu",
+      "kode_wilayah": "36.74.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.05"
+    },
+    {
+      "nama_wilayah": "Rempoa",
+      "kode_wilayah": "36.74.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.05"
+    },
+    {
+      "nama_wilayah": "Rengas",
+      "kode_wilayah": "36.74.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.05"
+    }
+  ]
+}

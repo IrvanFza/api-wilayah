@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Kramat",
+      "kode_wilayah": "75.71.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.09"
+    },
+    {
+      "nama_wilayah": "Pohe",
+      "kode_wilayah": "75.71.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.09"
+    },
+    {
+      "nama_wilayah": "Tenda",
+      "kode_wilayah": "75.71.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.09"
+    },
+    {
+      "nama_wilayah": "Donggala",
+      "kode_wilayah": "75.71.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.09"
+    },
+    {
+      "nama_wilayah": "Siendeng",
+      "kode_wilayah": "75.71.09.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.09"
+    }
+  ]
+}

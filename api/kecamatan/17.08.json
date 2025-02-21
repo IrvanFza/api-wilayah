@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Bermani Ilir",
+      "kode_wilayah": "17.08.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.08",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Ujan Mas",
+      "kode_wilayah": "17.08.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.08",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Tebat Karai",
+      "kode_wilayah": "17.08.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.08",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Kepahiang",
+      "kode_wilayah": "17.08.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.08",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Merigi",
+      "kode_wilayah": "17.08.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.08",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Kebawetan",
+      "kode_wilayah": "17.08.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.08",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Seberang Musi",
+      "kode_wilayah": "17.08.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.08",
+      "kode_provinsi": "17"
+    },
+    {
+      "nama_wilayah": "Muara Kemumu",
+      "kode_wilayah": "17.08.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "17.08",
+      "kode_provinsi": "17"
+    }
+  ]
+}

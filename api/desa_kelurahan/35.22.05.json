@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Bubulan",
+      "kode_wilayah": "35.22.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.22",
+      "kode_kecamatan": "35.22.05"
+    },
+    {
+      "nama_wilayah": "Cancung",
+      "kode_wilayah": "35.22.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.22",
+      "kode_kecamatan": "35.22.05"
+    },
+    {
+      "nama_wilayah": "Clebung",
+      "kode_wilayah": "35.22.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.22",
+      "kode_kecamatan": "35.22.05"
+    },
+    {
+      "nama_wilayah": "Sumberbendo",
+      "kode_wilayah": "35.22.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.22",
+      "kode_kecamatan": "35.22.05"
+    },
+    {
+      "nama_wilayah": "Ngorogunung",
+      "kode_wilayah": "35.22.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.22",
+      "kode_kecamatan": "35.22.05"
+    }
+  ]
+}

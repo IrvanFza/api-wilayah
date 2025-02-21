@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Cikembar",
+      "kode_wilayah": "32.02.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.10"
+    },
+    {
+      "nama_wilayah": "Parakanlima",
+      "kode_wilayah": "32.02.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.10"
+    },
+    {
+      "nama_wilayah": "Bojong",
+      "kode_wilayah": "32.02.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.10"
+    },
+    {
+      "nama_wilayah": "Cimanggu",
+      "kode_wilayah": "32.02.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.10"
+    },
+    {
+      "nama_wilayah": "Bojongkembar",
+      "kode_wilayah": "32.02.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.10"
+    },
+    {
+      "nama_wilayah": "Sukamaju",
+      "kode_wilayah": "32.02.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.10"
+    },
+    {
+      "nama_wilayah": "Cibatu",
+      "kode_wilayah": "32.02.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.10"
+    },
+    {
+      "nama_wilayah": "Kertaraharja",
+      "kode_wilayah": "32.02.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.10"
+    },
+    {
+      "nama_wilayah": "Sukamulya",
+      "kode_wilayah": "32.02.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.10"
+    },
+    {
+      "nama_wilayah": "Bojongraharja",
+      "kode_wilayah": "32.02.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.02",
+      "kode_kecamatan": "32.02.10"
+    }
+  ]
+}

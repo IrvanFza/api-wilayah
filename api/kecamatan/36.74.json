@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Serpong",
+      "kode_wilayah": "36.74.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "36.74",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama_wilayah": "Serpong Utara",
+      "kode_wilayah": "36.74.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "36.74",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama_wilayah": "Pondok Aren",
+      "kode_wilayah": "36.74.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "36.74",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama_wilayah": "Ciputat",
+      "kode_wilayah": "36.74.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "36.74",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama_wilayah": "Ciputat Timur",
+      "kode_wilayah": "36.74.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "36.74",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama_wilayah": "Pamulang",
+      "kode_wilayah": "36.74.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "36.74",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama_wilayah": "Setu",
+      "kode_wilayah": "36.74.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "36.74",
+      "kode_provinsi": "36"
+    }
+  ]
+}

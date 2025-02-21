@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Kampung Dalam",
+      "kode_wilayah": "14.08.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.01"
+    },
+    {
+      "nama_wilayah": "Kampung Rempak",
+      "kode_wilayah": "14.08.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.01"
+    },
+    {
+      "nama_wilayah": "Langkai",
+      "kode_wilayah": "14.08.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.01"
+    },
+    {
+      "nama_wilayah": "Tumang",
+      "kode_wilayah": "14.08.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.01"
+    },
+    {
+      "nama_wilayah": "Merempan Hulu",
+      "kode_wilayah": "14.08.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.01"
+    },
+    {
+      "nama_wilayah": "Rawang Air Putih",
+      "kode_wilayah": "14.08.01.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.01"
+    },
+    {
+      "nama_wilayah": "Suak Lanjut",
+      "kode_wilayah": "14.08.01.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.01"
+    },
+    {
+      "nama_wilayah": "Buantan Besar",
+      "kode_wilayah": "14.08.01.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.01"
+    }
+  ]
+}

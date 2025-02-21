@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Huangobotu",
+      "kode_wilayah": "75.71.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.04"
+    },
+    {
+      "nama_wilayah": "Libuo",
+      "kode_wilayah": "75.71.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.04"
+    },
+    {
+      "nama_wilayah": "Tomulabutao",
+      "kode_wilayah": "75.71.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.04"
+    },
+    {
+      "nama_wilayah": "Tuladenggi",
+      "kode_wilayah": "75.71.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.04"
+    },
+    {
+      "nama_wilayah": "Tomulabutao Selatan",
+      "kode_wilayah": "75.71.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.71",
+      "kode_kecamatan": "75.71.04"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Kebun Tebeng",
+      "kode_wilayah": "17.71.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.06"
+    },
+    {
+      "nama_wilayah": "Tanah Patah",
+      "kode_wilayah": "17.71.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.06"
+    },
+    {
+      "nama_wilayah": "Nusa Indah",
+      "kode_wilayah": "17.71.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.06"
+    },
+    {
+      "nama_wilayah": "Kebun Beler",
+      "kode_wilayah": "17.71.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.06"
+    },
+    {
+      "nama_wilayah": "Kebun Kenanga",
+      "kode_wilayah": "17.71.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.06"
+    },
+    {
+      "nama_wilayah": "Sawah Lebar",
+      "kode_wilayah": "17.71.06.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.06"
+    },
+    {
+      "nama_wilayah": "Sawah Lebar Baru",
+      "kode_wilayah": "17.71.06.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.06"
+    },
+    {
+      "nama_wilayah": "Lempuing",
+      "kode_wilayah": "17.71.06.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.71",
+      "kode_kecamatan": "17.71.06"
+    }
+  ]
+}

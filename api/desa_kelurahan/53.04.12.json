@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Kota Atambua",
+      "kode_wilayah": "53.04.12.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.12"
+    },
+    {
+      "nama_wilayah": "Tenukiik",
+      "kode_wilayah": "53.04.12.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.12"
+    },
+    {
+      "nama_wilayah": "Manumutin",
+      "kode_wilayah": "53.04.12.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.12"
+    },
+    {
+      "nama_wilayah": "Fatubenao",
+      "kode_wilayah": "53.04.12.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.04",
+      "kode_kecamatan": "53.04.12"
+    }
+  ]
+}

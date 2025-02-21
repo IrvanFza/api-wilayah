@@ -1,0 +1,398 @@
+{
+  "status": "success",
+  "total": 49,
+  "data": [
+    {
+      "nama_wilayah": "Balue Tanoh",
+      "kode_wilayah": "11.07.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Balue Kulu",
+      "kode_wilayah": "11.07.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Lhok Empeh",
+      "kode_wilayah": "11.07.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Cot Sukon",
+      "kode_wilayah": "11.07.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Dayah Tuha",
+      "kode_wilayah": "11.07.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Kampong Cot",
+      "kode_wilayah": "11.07.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Paloh Jeureula",
+      "kode_wilayah": "11.07.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Barieh",
+      "kode_wilayah": "11.07.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Kandang",
+      "kode_wilayah": "11.07.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Riweuek",
+      "kode_wilayah": "11.07.17.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Mancang",
+      "kode_wilayah": "11.07.17.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Kampong Pisang Bucue",
+      "kode_wilayah": "11.07.17.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Bucue",
+      "kode_wilayah": "11.07.17.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Lhok Panah",
+      "kode_wilayah": "11.07.17.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Murong Cot",
+      "kode_wilayah": "11.07.17.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Cumbok Lie",
+      "kode_wilayah": "11.07.17.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Lam Ujong",
+      "kode_wilayah": "11.07.17.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Murong Lhok",
+      "kode_wilayah": "11.07.17.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Blang Cot",
+      "kode_wilayah": "11.07.17.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Cot Cantek",
+      "kode_wilayah": "11.07.17.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Blang Kumot Baroh",
+      "kode_wilayah": "11.07.17.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Blang Kumot Tunong",
+      "kode_wilayah": "11.07.17.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Cumbok Niwa",
+      "kode_wilayah": "11.07.17.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Leupeuem Mesjid",
+      "kode_wilayah": "11.07.17.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Pulo Jeumpa",
+      "kode_wilayah": "11.07.17.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Beutong Pocut",
+      "kode_wilayah": "11.07.17.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Beutong Perlak",
+      "kode_wilayah": "11.07.17.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Kampong Jeumpa",
+      "kode_wilayah": "11.07.17.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Pante Krueng",
+      "kode_wilayah": "11.07.17.2029",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Jurong Pante",
+      "kode_wilayah": "11.07.17.2030",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Mali Lamkuta",
+      "kode_wilayah": "11.07.17.2032",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Mali Uke",
+      "kode_wilayah": "11.07.17.2033",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Mali Mesjid",
+      "kode_wilayah": "11.07.17.2034",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Mali Cot",
+      "kode_wilayah": "11.07.17.2035",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Tangkueng",
+      "kode_wilayah": "11.07.17.2036",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Lhok Mee",
+      "kode_wilayah": "11.07.17.2037",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Lameue Mns. Raya",
+      "kode_wilayah": "11.07.17.2038",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Lameue Mns. Baro",
+      "kode_wilayah": "11.07.17.2039",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Lameue Mns. Lueng",
+      "kode_wilayah": "11.07.17.2040",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Pulo Keureumbok",
+      "kode_wilayah": "11.07.17.2041",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Dayah Kp Pisang",
+      "kode_wilayah": "11.07.17.2042",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Mns Blang Sakti",
+      "kode_wilayah": "11.07.17.2043",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Perlak Baroh",
+      "kode_wilayah": "11.07.17.2044",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Lingkok",
+      "kode_wilayah": "11.07.17.2045",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Pasar Kota Bakti",
+      "kode_wilayah": "11.07.17.2046",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Mns Balee",
+      "kode_wilayah": "11.07.17.2047",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Perlak Asan",
+      "kode_wilayah": "11.07.17.2048",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Kampong Baro",
+      "kode_wilayah": "11.07.17.2049",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    },
+    {
+      "nama_wilayah": "Mali Guyui",
+      "kode_wilayah": "11.07.17.2050",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.07",
+      "kode_kecamatan": "11.07.17"
+    }
+  ]
+}

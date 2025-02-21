@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Joyotakan",
+      "kode_wilayah": "33.72.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.72",
+      "kode_kecamatan": "33.72.02"
+    },
+    {
+      "nama_wilayah": "Danukusuman",
+      "kode_wilayah": "33.72.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.72",
+      "kode_kecamatan": "33.72.02"
+    },
+    {
+      "nama_wilayah": "Serengan",
+      "kode_wilayah": "33.72.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.72",
+      "kode_kecamatan": "33.72.02"
+    },
+    {
+      "nama_wilayah": "Tipes",
+      "kode_wilayah": "33.72.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.72",
+      "kode_kecamatan": "33.72.02"
+    },
+    {
+      "nama_wilayah": "Kratonan",
+      "kode_wilayah": "33.72.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.72",
+      "kode_kecamatan": "33.72.02"
+    },
+    {
+      "nama_wilayah": "Jayengan",
+      "kode_wilayah": "33.72.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.72",
+      "kode_kecamatan": "33.72.02"
+    },
+    {
+      "nama_wilayah": "Kemlayan",
+      "kode_wilayah": "33.72.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.72",
+      "kode_kecamatan": "33.72.02"
+    }
+  ]
+}

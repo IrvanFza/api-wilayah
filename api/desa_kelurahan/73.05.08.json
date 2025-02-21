@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Laguruda",
+      "kode_wilayah": "73.05.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.08"
+    },
+    {
+      "nama_wilayah": "Banyuanyara",
+      "kode_wilayah": "73.05.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.08"
+    },
+    {
+      "nama_wilayah": "Sanrobone",
+      "kode_wilayah": "73.05.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.08"
+    },
+    {
+      "nama_wilayah": "Paddinging",
+      "kode_wilayah": "73.05.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.08"
+    },
+    {
+      "nama_wilayah": "Ujung Baji",
+      "kode_wilayah": "73.05.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.08"
+    },
+    {
+      "nama_wilayah": "Tonasa",
+      "kode_wilayah": "73.05.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.05",
+      "kode_kecamatan": "73.05.08"
+    }
+  ]
+}

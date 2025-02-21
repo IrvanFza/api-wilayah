@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Temengeng",
+      "kode_wilayah": "33.16.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.16",
+      "kode_kecamatan": "33.16.06"
+    },
+    {
+      "nama_wilayah": "Sambongrejo",
+      "kode_wilayah": "33.16.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.16",
+      "kode_kecamatan": "33.16.06"
+    },
+    {
+      "nama_wilayah": "Gadu",
+      "kode_wilayah": "33.16.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.16",
+      "kode_kecamatan": "33.16.06"
+    },
+    {
+      "nama_wilayah": "Sambong",
+      "kode_wilayah": "33.16.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.16",
+      "kode_kecamatan": "33.16.06"
+    },
+    {
+      "nama_wilayah": "Pojokwatu",
+      "kode_wilayah": "33.16.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.16",
+      "kode_kecamatan": "33.16.06"
+    },
+    {
+      "nama_wilayah": "Gagakan",
+      "kode_wilayah": "33.16.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.16",
+      "kode_kecamatan": "33.16.06"
+    },
+    {
+      "nama_wilayah": "Biting",
+      "kode_wilayah": "33.16.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.16",
+      "kode_kecamatan": "33.16.06"
+    },
+    {
+      "nama_wilayah": "Brabowan",
+      "kode_wilayah": "33.16.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.16",
+      "kode_kecamatan": "33.16.06"
+    },
+    {
+      "nama_wilayah": "Ledok",
+      "kode_wilayah": "33.16.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.16",
+      "kode_kecamatan": "33.16.06"
+    },
+    {
+      "nama_wilayah": "Giyanti",
+      "kode_wilayah": "33.16.06.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.16",
+      "kode_kecamatan": "33.16.06"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Haloban",
+      "kode_wilayah": "11.10.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.16"
+    },
+    {
+      "nama_wilayah": "Asantola",
+      "kode_wilayah": "11.10.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.16"
+    },
+    {
+      "nama_wilayah": "Ujung Sialit",
+      "kode_wilayah": "11.10.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.16"
+    },
+    {
+      "nama_wilayah": "Suka Makmur",
+      "kode_wilayah": "11.10.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.16"
+    }
+  ]
+}

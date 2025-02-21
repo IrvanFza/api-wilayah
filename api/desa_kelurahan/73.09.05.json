@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Bontoa",
+      "kode_wilayah": "73.09.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.05"
+    },
+    {
+      "nama_wilayah": "Pajjukukang",
+      "kode_wilayah": "73.09.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.05"
+    },
+    {
+      "nama_wilayah": "Tunikamaseang",
+      "kode_wilayah": "73.09.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.05"
+    },
+    {
+      "nama_wilayah": "Tupabbiring",
+      "kode_wilayah": "73.09.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.05"
+    },
+    {
+      "nama_wilayah": "Botolempangang",
+      "kode_wilayah": "73.09.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.05"
+    },
+    {
+      "nama_wilayah": "Salenrang",
+      "kode_wilayah": "73.09.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.05"
+    },
+    {
+      "nama_wilayah": "Minasa Upa",
+      "kode_wilayah": "73.09.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.05"
+    },
+    {
+      "nama_wilayah": "Ampekale",
+      "kode_wilayah": "73.09.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.05"
+    },
+    {
+      "nama_wilayah": "Bonto Bahari",
+      "kode_wilayah": "73.09.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.05"
+    }
+  ]
+}

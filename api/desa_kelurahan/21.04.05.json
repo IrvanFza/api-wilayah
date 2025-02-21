@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pancur",
+      "kode_wilayah": "21.04.05.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.05"
+    },
+    {
+      "nama_wilayah": "Bukit Harapan",
+      "kode_wilayah": "21.04.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.05"
+    },
+    {
+      "nama_wilayah": "Duara",
+      "kode_wilayah": "21.04.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.05"
+    },
+    {
+      "nama_wilayah": "Limbung",
+      "kode_wilayah": "21.04.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.05"
+    },
+    {
+      "nama_wilayah": "Resun",
+      "kode_wilayah": "21.04.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.05"
+    },
+    {
+      "nama_wilayah": "Sekanah",
+      "kode_wilayah": "21.04.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.05"
+    },
+    {
+      "nama_wilayah": "Linau",
+      "kode_wilayah": "21.04.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.05"
+    },
+    {
+      "nama_wilayah": "Sungaibesar",
+      "kode_wilayah": "21.04.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.05"
+    },
+    {
+      "nama_wilayah": "Rantau Panjang",
+      "kode_wilayah": "21.04.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.05"
+    },
+    {
+      "nama_wilayah": "Resun Pesisir",
+      "kode_wilayah": "21.04.05.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.04",
+      "kode_kecamatan": "21.04.05"
+    }
+  ]
+}

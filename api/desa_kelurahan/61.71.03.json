@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Pallima",
+      "kode_wilayah": "61.71.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.71",
+      "kode_kecamatan": "61.71.03"
+    },
+    {
+      "nama_wilayah": "Sungaijawi Dalam",
+      "kode_wilayah": "61.71.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.71",
+      "kode_kecamatan": "61.71.03"
+    },
+    {
+      "nama_wilayah": "Sungaijawi Luar",
+      "kode_wilayah": "61.71.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.71",
+      "kode_kecamatan": "61.71.03"
+    },
+    {
+      "nama_wilayah": "Sungaibeliung",
+      "kode_wilayah": "61.71.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.71",
+      "kode_kecamatan": "61.71.03"
+    }
+  ]
+}

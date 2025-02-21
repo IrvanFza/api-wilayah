@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Masalle",
+      "kode_wilayah": "73.16.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.11"
+    },
+    {
+      "nama_wilayah": "Batu Ke-de",
+      "kode_wilayah": "73.16.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.11"
+    },
+    {
+      "nama_wilayah": "Mundan",
+      "kode_wilayah": "73.16.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.11"
+    },
+    {
+      "nama_wilayah": "Buntu Sarong",
+      "kode_wilayah": "73.16.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.11"
+    },
+    {
+      "nama_wilayah": "Rampunan",
+      "kode_wilayah": "73.16.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.11"
+    },
+    {
+      "nama_wilayah": "Tongkonan Basse",
+      "kode_wilayah": "73.16.11.2055",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.16",
+      "kode_kecamatan": "73.16.11"
+    }
+  ]
+}

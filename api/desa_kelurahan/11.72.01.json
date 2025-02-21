@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Krueng Raya",
+      "kode_wilayah": "11.72.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.72",
+      "kode_kecamatan": "11.72.01"
+    },
+    {
+      "nama_wilayah": "Aneuk Laot",
+      "kode_wilayah": "11.72.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.72",
+      "kode_kecamatan": "11.72.01"
+    },
+    {
+      "nama_wilayah": "Kuta Timu",
+      "kode_wilayah": "11.72.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.72",
+      "kode_kecamatan": "11.72.01"
+    },
+    {
+      "nama_wilayah": "Kuta Barat",
+      "kode_wilayah": "11.72.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.72",
+      "kode_kecamatan": "11.72.01"
+    },
+    {
+      "nama_wilayah": "Kuta Ateuh",
+      "kode_wilayah": "11.72.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.72",
+      "kode_kecamatan": "11.72.01"
+    }
+  ]
+}

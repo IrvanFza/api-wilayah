@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tagafo",
+      "kode_wilayah": "82.71.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.08"
+    },
+    {
+      "nama_wilayah": "Loto",
+      "kode_wilayah": "82.71.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.08"
+    },
+    {
+      "nama_wilayah": "Takome",
+      "kode_wilayah": "82.71.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.08"
+    },
+    {
+      "nama_wilayah": "Sulamadaha",
+      "kode_wilayah": "82.71.08.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.08"
+    },
+    {
+      "nama_wilayah": "Tobololo",
+      "kode_wilayah": "82.71.08.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.08"
+    },
+    {
+      "nama_wilayah": "Bula",
+      "kode_wilayah": "82.71.08.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.08"
+    },
+    {
+      "nama_wilayah": "Kulaba",
+      "kode_wilayah": "82.71.08.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.71",
+      "kode_kecamatan": "82.71.08"
+    }
+  ]
+}

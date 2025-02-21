@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Keude Bakongan",
+      "kode_wilayah": "11.01.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.01"
+    },
+    {
+      "nama_wilayah": "Ujong Mangki",
+      "kode_wilayah": "11.01.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.01"
+    },
+    {
+      "nama_wilayah": "Ujong Padang",
+      "kode_wilayah": "11.01.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.01"
+    },
+    {
+      "nama_wilayah": "Gampong Drien",
+      "kode_wilayah": "11.01.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.01"
+    },
+    {
+      "nama_wilayah": "Darul Ikhsan",
+      "kode_wilayah": "11.01.01.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.01"
+    },
+    {
+      "nama_wilayah": "Padang Beurahan",
+      "kode_wilayah": "11.01.01.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.01"
+    },
+    {
+      "nama_wilayah": "Gampong Baro",
+      "kode_wilayah": "11.01.01.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.01"
+    }
+  ]
+}

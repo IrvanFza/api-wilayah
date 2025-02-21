@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Kalitami I",
+      "kode_wilayah": "92.06.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.20"
+    },
+    {
+      "nama_wilayah": "Kalitami II",
+      "kode_wilayah": "92.06.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.20"
+    },
+    {
+      "nama_wilayah": "Kenara",
+      "kode_wilayah": "92.06.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.20"
+    },
+    {
+      "nama_wilayah": "Bibiram",
+      "kode_wilayah": "92.06.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.20"
+    }
+  ]
+}

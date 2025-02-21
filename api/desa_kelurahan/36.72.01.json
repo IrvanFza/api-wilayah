@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Cibeber",
+      "kode_wilayah": "36.72.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.01"
+    },
+    {
+      "nama_wilayah": "Kedaleman",
+      "kode_wilayah": "36.72.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.01"
+    },
+    {
+      "nama_wilayah": "Bulakan",
+      "kode_wilayah": "36.72.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.01"
+    },
+    {
+      "nama_wilayah": "Cikerai",
+      "kode_wilayah": "36.72.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.01"
+    },
+    {
+      "nama_wilayah": "Karang Asem",
+      "kode_wilayah": "36.72.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.01"
+    },
+    {
+      "nama_wilayah": "Kalitimbang",
+      "kode_wilayah": "36.72.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.72",
+      "kode_kecamatan": "36.72.01"
+    }
+  ]
+}

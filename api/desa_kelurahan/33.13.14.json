@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Banjarharjo",
+      "kode_wilayah": "33.13.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.14"
+    },
+    {
+      "nama_wilayah": "Alastuwo",
+      "kode_wilayah": "33.13.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.14"
+    },
+    {
+      "nama_wilayah": "Macanan",
+      "kode_wilayah": "33.13.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.14"
+    },
+    {
+      "nama_wilayah": "Nangsri",
+      "kode_wilayah": "33.13.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.14"
+    },
+    {
+      "nama_wilayah": "Kemiri",
+      "kode_wilayah": "33.13.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.14"
+    },
+    {
+      "nama_wilayah": "Kebak",
+      "kode_wilayah": "33.13.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.14"
+    },
+    {
+      "nama_wilayah": "Waru",
+      "kode_wilayah": "33.13.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.14"
+    },
+    {
+      "nama_wilayah": "Pulosari",
+      "kode_wilayah": "33.13.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.14"
+    },
+    {
+      "nama_wilayah": "Malanggaten",
+      "kode_wilayah": "33.13.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.14"
+    },
+    {
+      "nama_wilayah": "Kaliwuluh",
+      "kode_wilayah": "33.13.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.14"
+    }
+  ]
+}

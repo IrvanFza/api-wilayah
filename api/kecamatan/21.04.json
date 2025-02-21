@@ -1,0 +1,97 @@
+{
+  "status": "success",
+  "total": 13,
+  "data": [
+    {
+      "nama_wilayah": "Singkep",
+      "kode_wilayah": "21.04.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.04",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Lingga",
+      "kode_wilayah": "21.04.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.04",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Senayang",
+      "kode_wilayah": "21.04.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.04",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Singkep Barat",
+      "kode_wilayah": "21.04.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.04",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Lingga Utara",
+      "kode_wilayah": "21.04.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.04",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Singkep Pesisir",
+      "kode_wilayah": "21.04.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.04",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Lingga Timur",
+      "kode_wilayah": "21.04.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.04",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Selayar",
+      "kode_wilayah": "21.04.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.04",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Singkep Selatan",
+      "kode_wilayah": "21.04.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.04",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Kepulauan Posek",
+      "kode_wilayah": "21.04.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.04",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Katang Bidare",
+      "kode_wilayah": "21.04.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.04",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Temiang Pesisir",
+      "kode_wilayah": "21.04.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.04",
+      "kode_provinsi": "21"
+    },
+    {
+      "nama_wilayah": "Bakung Serumpun",
+      "kode_wilayah": "21.04.13",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "21.04",
+      "kode_provinsi": "21"
+    }
+  ]
+}

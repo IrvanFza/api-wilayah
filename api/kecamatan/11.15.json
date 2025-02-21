@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kuala",
+      "kode_wilayah": "11.15.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.15",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Seunagan",
+      "kode_wilayah": "11.15.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.15",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Seunagan Timur",
+      "kode_wilayah": "11.15.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.15",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Beutong",
+      "kode_wilayah": "11.15.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.15",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Darul Makmur",
+      "kode_wilayah": "11.15.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.15",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Suka Makmue",
+      "kode_wilayah": "11.15.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.15",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Kuala Pesisir",
+      "kode_wilayah": "11.15.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.15",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Tadu Raya",
+      "kode_wilayah": "11.15.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.15",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Tripa Makmur",
+      "kode_wilayah": "11.15.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.15",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Beutong Ateuh Banggalang",
+      "kode_wilayah": "11.15.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.15",
+      "kode_provinsi": "11"
+    }
+  ]
+}

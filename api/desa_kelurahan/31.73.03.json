@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Taman Sari",
+      "kode_wilayah": "31.73.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.03"
+    },
+    {
+      "nama_wilayah": "Krukut",
+      "kode_wilayah": "31.73.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.03"
+    },
+    {
+      "nama_wilayah": "Maphar",
+      "kode_wilayah": "31.73.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.03"
+    },
+    {
+      "nama_wilayah": "Tangki",
+      "kode_wilayah": "31.73.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.03"
+    },
+    {
+      "nama_wilayah": "Mangga Besar",
+      "kode_wilayah": "31.73.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.03"
+    },
+    {
+      "nama_wilayah": "Keagungan",
+      "kode_wilayah": "31.73.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.03"
+    },
+    {
+      "nama_wilayah": "Glodok",
+      "kode_wilayah": "31.73.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.03"
+    },
+    {
+      "nama_wilayah": "Pinangsia",
+      "kode_wilayah": "31.73.03.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.03"
+    }
+  ]
+}

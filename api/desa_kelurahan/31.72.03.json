@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Koja",
+      "kode_wilayah": "31.72.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.03"
+    },
+    {
+      "nama_wilayah": "Tugu Utara",
+      "kode_wilayah": "31.72.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.03"
+    },
+    {
+      "nama_wilayah": "Lagoa",
+      "kode_wilayah": "31.72.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.03"
+    },
+    {
+      "nama_wilayah": "Rawa Badak Utara",
+      "kode_wilayah": "31.72.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.03"
+    },
+    {
+      "nama_wilayah": "Tugu Selatan",
+      "kode_wilayah": "31.72.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.03"
+    },
+    {
+      "nama_wilayah": "Rawa Badak Selatan",
+      "kode_wilayah": "31.72.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.72",
+      "kode_kecamatan": "31.72.03"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Teluk Kepayang",
+      "kode_wilayah": "63.10.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.12"
+    },
+    {
+      "nama_wilayah": "Guntung",
+      "kode_wilayah": "63.10.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.12"
+    },
+    {
+      "nama_wilayah": "Mangkalapi",
+      "kode_wilayah": "63.10.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.12"
+    },
+    {
+      "nama_wilayah": "Tibarau Panjang",
+      "kode_wilayah": "63.10.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.12"
+    },
+    {
+      "nama_wilayah": "Darasan Binjai",
+      "kode_wilayah": "63.10.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.12"
+    },
+    {
+      "nama_wilayah": "Tapus",
+      "kode_wilayah": "63.10.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.12"
+    },
+    {
+      "nama_wilayah": "Hati-if",
+      "kode_wilayah": "63.10.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.12"
+    },
+    {
+      "nama_wilayah": "Batu Bulan",
+      "kode_wilayah": "63.10.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.12"
+    },
+    {
+      "nama_wilayah": "Tamunih",
+      "kode_wilayah": "63.10.12.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.12"
+    },
+    {
+      "nama_wilayah": "Dadap Kusan Raya",
+      "kode_wilayah": "63.10.12.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.10",
+      "kode_kecamatan": "63.10.12"
+    }
+  ]
+}

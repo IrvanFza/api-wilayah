@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sesayap",
+      "kode_wilayah": "65.04.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.04",
+      "kode_kecamatan": "65.04.02"
+    },
+    {
+      "nama_wilayah": "Sengkong",
+      "kode_wilayah": "65.04.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.04",
+      "kode_kecamatan": "65.04.02"
+    },
+    {
+      "nama_wilayah": "Bebatu",
+      "kode_wilayah": "65.04.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.04",
+      "kode_kecamatan": "65.04.02"
+    },
+    {
+      "nama_wilayah": "Bandan Bikis",
+      "kode_wilayah": "65.04.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.04",
+      "kode_kecamatan": "65.04.02"
+    },
+    {
+      "nama_wilayah": "Sepala Dalung",
+      "kode_wilayah": "65.04.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.04",
+      "kode_kecamatan": "65.04.02"
+    },
+    {
+      "nama_wilayah": "Seludau",
+      "kode_wilayah": "65.04.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.04",
+      "kode_kecamatan": "65.04.02"
+    },
+    {
+      "nama_wilayah": "Menjelutung",
+      "kode_wilayah": "65.04.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.04",
+      "kode_kecamatan": "65.04.02"
+    },
+    {
+      "nama_wilayah": "Sesayap Selor",
+      "kode_wilayah": "65.04.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.04",
+      "kode_kecamatan": "65.04.02"
+    }
+  ]
+}

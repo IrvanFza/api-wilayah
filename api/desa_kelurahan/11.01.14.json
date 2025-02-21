@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Paya Dapur",
+      "kode_wilayah": "11.01.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.14"
+    },
+    {
+      "nama_wilayah": "Sapik",
+      "kode_wilayah": "11.01.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.14"
+    },
+    {
+      "nama_wilayah": "Alai",
+      "kode_wilayah": "11.01.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.14"
+    },
+    {
+      "nama_wilayah": "Durian Kawan",
+      "kode_wilayah": "11.01.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.14"
+    },
+    {
+      "nama_wilayah": "Lawe Sawah",
+      "kode_wilayah": "11.01.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.14"
+    },
+    {
+      "nama_wilayah": "Lawe Buluh Didi",
+      "kode_wilayah": "11.01.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.14"
+    },
+    {
+      "nama_wilayah": "Pucuk Lembang",
+      "kode_wilayah": "11.01.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.14"
+    },
+    {
+      "nama_wilayah": "Paya Laba",
+      "kode_wilayah": "11.01.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.14"
+    },
+    {
+      "nama_wilayah": "Lawe Cimanok",
+      "kode_wilayah": "11.01.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.01",
+      "kode_kecamatan": "11.01.14"
+    }
+  ]
+}

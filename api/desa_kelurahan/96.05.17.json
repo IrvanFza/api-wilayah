@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kofait",
+      "kode_wilayah": "96.05.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.17"
+    },
+    {
+      "nama_wilayah": "Isnum",
+      "kode_wilayah": "96.05.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.17"
+    },
+    {
+      "nama_wilayah": "Sufu",
+      "kode_wilayah": "96.05.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.17"
+    },
+    {
+      "nama_wilayah": "Faitsimar",
+      "kode_wilayah": "96.05.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.17"
+    },
+    {
+      "nama_wilayah": "Fait Nigre",
+      "kode_wilayah": "96.05.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.17"
+    },
+    {
+      "nama_wilayah": "Arus",
+      "kode_wilayah": "96.05.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.17"
+    },
+    {
+      "nama_wilayah": "Asses",
+      "kode_wilayah": "96.05.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.05",
+      "kode_kecamatan": "96.05.17"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Banso",
+      "kode_wilayah": "96.04.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.07"
+    },
+    {
+      "nama_wilayah": "Syujak",
+      "kode_wilayah": "96.04.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.07"
+    },
+    {
+      "nama_wilayah": "Frafane",
+      "kode_wilayah": "96.04.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.07"
+    },
+    {
+      "nama_wilayah": "Iof",
+      "kode_wilayah": "96.04.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.07"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tanah Tinggi",
+      "kode_wilayah": "12.75.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.04"
+    },
+    {
+      "nama_wilayah": "Dataran Tinggi",
+      "kode_wilayah": "12.75.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.04"
+    },
+    {
+      "nama_wilayah": "Timbang Langkat",
+      "kode_wilayah": "12.75.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.04"
+    },
+    {
+      "nama_wilayah": "Mencirim",
+      "kode_wilayah": "12.75.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.04"
+    },
+    {
+      "nama_wilayah": "Tunggurono",
+      "kode_wilayah": "12.75.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.04"
+    },
+    {
+      "nama_wilayah": "Sumber Mulyorejo",
+      "kode_wilayah": "12.75.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.04"
+    },
+    {
+      "nama_wilayah": "Sumber Karya",
+      "kode_wilayah": "12.75.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.75",
+      "kode_kecamatan": "12.75.04"
+    }
+  ]
+}

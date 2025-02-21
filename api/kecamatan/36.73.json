@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Serang",
+      "kode_wilayah": "36.73.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "36.73",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama_wilayah": "Kasemen",
+      "kode_wilayah": "36.73.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "36.73",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama_wilayah": "Walantaka",
+      "kode_wilayah": "36.73.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "36.73",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama_wilayah": "Curug",
+      "kode_wilayah": "36.73.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "36.73",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama_wilayah": "Cipocok Jaya",
+      "kode_wilayah": "36.73.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "36.73",
+      "kode_provinsi": "36"
+    },
+    {
+      "nama_wilayah": "Taktakan",
+      "kode_wilayah": "36.73.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "36.73",
+      "kode_provinsi": "36"
+    }
+  ]
+}

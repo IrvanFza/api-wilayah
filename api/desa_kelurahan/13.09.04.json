@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Bojakan",
+      "kode_wilayah": "13.09.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.04"
+    },
+    {
+      "nama_wilayah": "Sotboyak",
+      "kode_wilayah": "13.09.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.04"
+    },
+    {
+      "nama_wilayah": "Mongan Poula",
+      "kode_wilayah": "13.09.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.04"
+    },
+    {
+      "nama_wilayah": "Muara Sikabaluan",
+      "kode_wilayah": "13.09.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.04"
+    },
+    {
+      "nama_wilayah": "Sirilogui",
+      "kode_wilayah": "13.09.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.04"
+    },
+    {
+      "nama_wilayah": "Malancan",
+      "kode_wilayah": "13.09.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.09",
+      "kode_kecamatan": "13.09.04"
+    }
+  ]
+}

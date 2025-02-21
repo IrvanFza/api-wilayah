@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Pulo Pakkat",
+      "kode_wilayah": "12.01.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.18"
+    },
+    {
+      "nama_wilayah": "Tebing Tinggi",
+      "kode_wilayah": "12.01.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.18"
+    },
+    {
+      "nama_wilayah": "Pulo Pakkat II",
+      "kode_wilayah": "12.01.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.18"
+    },
+    {
+      "nama_wilayah": "Janji Maria",
+      "kode_wilayah": "12.01.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.18"
+    },
+    {
+      "nama_wilayah": "Sihadatuon",
+      "kode_wilayah": "12.01.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.18"
+    },
+    {
+      "nama_wilayah": "Sihapas",
+      "kode_wilayah": "12.01.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.18"
+    }
+  ]
+}

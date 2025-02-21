@@ -1,0 +1,206 @@
+{
+  "status": "success",
+  "total": 25,
+  "data": [
+    {
+      "nama_wilayah": "Sidoharjo",
+      "kode_wilayah": "35.01.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Ploso",
+      "kode_wilayah": "35.01.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Baleharjo",
+      "kode_wilayah": "35.01.04.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Pucangsewu",
+      "kode_wilayah": "35.01.04.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Pacitan",
+      "kode_wilayah": "35.01.04.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Kembang",
+      "kode_wilayah": "35.01.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Sukoharjo",
+      "kode_wilayah": "35.01.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Kayen",
+      "kode_wilayah": "35.01.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Sirnoboyo",
+      "kode_wilayah": "35.01.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Arjowinangun",
+      "kode_wilayah": "35.01.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Bangunsari",
+      "kode_wilayah": "35.01.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Sedeng",
+      "kode_wilayah": "35.01.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Sumberharjo",
+      "kode_wilayah": "35.01.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Tanjungsari",
+      "kode_wilayah": "35.01.04.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Menadi",
+      "kode_wilayah": "35.01.04.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Mentoro",
+      "kode_wilayah": "35.01.04.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Purworejo",
+      "kode_wilayah": "35.01.04.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Nanggungan",
+      "kode_wilayah": "35.01.04.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Widoro",
+      "kode_wilayah": "35.01.04.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Semanten",
+      "kode_wilayah": "35.01.04.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Sambong",
+      "kode_wilayah": "35.01.04.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Banjarsari",
+      "kode_wilayah": "35.01.04.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Bolosingo",
+      "kode_wilayah": "35.01.04.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Ponggok",
+      "kode_wilayah": "35.01.04.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    },
+    {
+      "nama_wilayah": "Tambakrejo",
+      "kode_wilayah": "35.01.04.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.01",
+      "kode_kecamatan": "35.01.04"
+    }
+  ]
+}

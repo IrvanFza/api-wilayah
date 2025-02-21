@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Lamokato",
+      "kode_wilayah": "74.01.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.04"
+    },
+    {
+      "nama_wilayah": "Watuliandu",
+      "kode_wilayah": "74.01.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.04"
+    },
+    {
+      "nama_wilayah": "Balandete",
+      "kode_wilayah": "74.01.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.04"
+    },
+    {
+      "nama_wilayah": "Lalombaa",
+      "kode_wilayah": "74.01.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.04"
+    },
+    {
+      "nama_wilayah": "Sabilambo",
+      "kode_wilayah": "74.01.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.04"
+    },
+    {
+      "nama_wilayah": "Laloeha",
+      "kode_wilayah": "74.01.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.04"
+    },
+    {
+      "nama_wilayah": "Tahoa",
+      "kode_wilayah": "74.01.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.04"
+    }
+  ]
+}

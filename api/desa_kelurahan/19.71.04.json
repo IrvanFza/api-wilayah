@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Pintu Air",
+      "kode_wilayah": "19.71.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.04"
+    },
+    {
+      "nama_wilayah": "Bintang",
+      "kode_wilayah": "19.71.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.04"
+    },
+    {
+      "nama_wilayah": "Masjid Jamik",
+      "kode_wilayah": "19.71.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.04"
+    },
+    {
+      "nama_wilayah": "Asam",
+      "kode_wilayah": "19.71.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.04"
+    },
+    {
+      "nama_wilayah": "Melintang",
+      "kode_wilayah": "19.71.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.04"
+    },
+    {
+      "nama_wilayah": "Parit Lalang",
+      "kode_wilayah": "19.71.04.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.04"
+    },
+    {
+      "nama_wilayah": "Keramat",
+      "kode_wilayah": "19.71.04.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.04"
+    },
+    {
+      "nama_wilayah": "Gajah Mada",
+      "kode_wilayah": "19.71.04.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.71",
+      "kode_kecamatan": "19.71.04"
+    }
+  ]
+}

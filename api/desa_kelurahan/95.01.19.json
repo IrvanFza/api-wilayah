@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Lukaken",
+      "kode_wilayah": "95.01.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.19"
+    },
+    {
+      "nama_wilayah": "Miami",
+      "kode_wilayah": "95.01.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.19"
+    },
+    {
+      "nama_wilayah": "Waroba",
+      "kode_wilayah": "95.01.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.19"
+    },
+    {
+      "nama_wilayah": "Yogonima",
+      "kode_wilayah": "95.01.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.19"
+    },
+    {
+      "nama_wilayah": "Tomisa",
+      "kode_wilayah": "95.01.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.19"
+    },
+    {
+      "nama_wilayah": "Helepalegem",
+      "kode_wilayah": "95.01.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.19"
+    },
+    {
+      "nama_wilayah": "Siliwa",
+      "kode_wilayah": "95.01.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.19"
+    },
+    {
+      "nama_wilayah": "Sumunikama",
+      "kode_wilayah": "95.01.19.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.19"
+    },
+    {
+      "nama_wilayah": "Kemisake",
+      "kode_wilayah": "95.01.19.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.19"
+    }
+  ]
+}

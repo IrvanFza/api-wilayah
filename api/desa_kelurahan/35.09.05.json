@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sukoreno",
+      "kode_wilayah": "35.09.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.05"
+    },
+    {
+      "nama_wilayah": "Sidorejo",
+      "kode_wilayah": "35.09.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.05"
+    },
+    {
+      "nama_wilayah": "Gunungsari",
+      "kode_wilayah": "35.09.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.05"
+    },
+    {
+      "nama_wilayah": "Gadingrejo",
+      "kode_wilayah": "35.09.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.05"
+    },
+    {
+      "nama_wilayah": "Umbulrejo",
+      "kode_wilayah": "35.09.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.05"
+    },
+    {
+      "nama_wilayah": "Umbulsari",
+      "kode_wilayah": "35.09.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.05"
+    },
+    {
+      "nama_wilayah": "Tanjungsari",
+      "kode_wilayah": "35.09.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.05"
+    },
+    {
+      "nama_wilayah": "Tegalwangi",
+      "kode_wilayah": "35.09.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.05"
+    },
+    {
+      "nama_wilayah": "Paleran",
+      "kode_wilayah": "35.09.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.05"
+    },
+    {
+      "nama_wilayah": "Mundurejo",
+      "kode_wilayah": "35.09.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.05"
+    }
+  ]
+}

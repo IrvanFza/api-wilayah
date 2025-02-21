@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Girsang",
+      "kode_wilayah": "12.08.16.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.16"
+    },
+    {
+      "nama_wilayah": "Parapat",
+      "kode_wilayah": "12.08.16.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.16"
+    },
+    {
+      "nama_wilayah": "Tiga Raja",
+      "kode_wilayah": "12.08.16.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.16"
+    },
+    {
+      "nama_wilayah": "Sipangan Bolon",
+      "kode_wilayah": "12.08.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.16"
+    },
+    {
+      "nama_wilayah": "Sibaganding",
+      "kode_wilayah": "12.08.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.16"
+    },
+    {
+      "nama_wilayah": "Sipangan Bolon Mekar",
+      "kode_wilayah": "12.08.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.08",
+      "kode_kecamatan": "12.08.16"
+    }
+  ]
+}

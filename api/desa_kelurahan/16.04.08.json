@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Mulak",
+      "kode_wilayah": "16.04.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.08"
+    },
+    {
+      "nama_wilayah": "Pulau Pinang",
+      "kode_wilayah": "16.04.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.08"
+    },
+    {
+      "nama_wilayah": "Tanjung Sirih",
+      "kode_wilayah": "16.04.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.08"
+    },
+    {
+      "nama_wilayah": "Lubuk Sepang",
+      "kode_wilayah": "16.04.08.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.08"
+    },
+    {
+      "nama_wilayah": "Karang Dalam",
+      "kode_wilayah": "16.04.08.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.08"
+    },
+    {
+      "nama_wilayah": "Kuba",
+      "kode_wilayah": "16.04.08.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.08"
+    },
+    {
+      "nama_wilayah": "Jati",
+      "kode_wilayah": "16.04.08.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.08"
+    },
+    {
+      "nama_wilayah": "Pagar Batu",
+      "kode_wilayah": "16.04.08.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.08"
+    },
+    {
+      "nama_wilayah": "Muara Siban",
+      "kode_wilayah": "16.04.08.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.08"
+    },
+    {
+      "nama_wilayah": "Perigi",
+      "kode_wilayah": "16.04.08.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.08"
+    }
+  ]
+}

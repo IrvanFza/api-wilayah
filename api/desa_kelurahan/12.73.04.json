@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Pancuran Kerambil",
+      "kode_wilayah": "12.73.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.73",
+      "kode_kecamatan": "12.73.04"
+    },
+    {
+      "nama_wilayah": "Pancuran Dewa",
+      "kode_wilayah": "12.73.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.73",
+      "kode_kecamatan": "12.73.04"
+    },
+    {
+      "nama_wilayah": "Pancuran Pinang",
+      "kode_wilayah": "12.73.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.73",
+      "kode_kecamatan": "12.73.04"
+    },
+    {
+      "nama_wilayah": "Pancuran Bambu",
+      "kode_wilayah": "12.73.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.73",
+      "kode_kecamatan": "12.73.04"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Polewali",
+      "kode_wilayah": "76.04.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.04"
+    },
+    {
+      "nama_wilayah": "Wattang",
+      "kode_wilayah": "76.04.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.04"
+    },
+    {
+      "nama_wilayah": "Sulewatang",
+      "kode_wilayah": "76.04.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.04"
+    },
+    {
+      "nama_wilayah": "Lantora",
+      "kode_wilayah": "76.04.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.04"
+    },
+    {
+      "nama_wilayah": "Takatidung",
+      "kode_wilayah": "76.04.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.04"
+    },
+    {
+      "nama_wilayah": "Pekkabata",
+      "kode_wilayah": "76.04.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.04"
+    },
+    {
+      "nama_wilayah": "Madatte",
+      "kode_wilayah": "76.04.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.04"
+    },
+    {
+      "nama_wilayah": "Manding",
+      "kode_wilayah": "76.04.04.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.04"
+    },
+    {
+      "nama_wilayah": "Darma",
+      "kode_wilayah": "76.04.04.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.04"
+    }
+  ]
+}

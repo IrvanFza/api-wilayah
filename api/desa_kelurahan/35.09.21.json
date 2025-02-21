@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kebonsari",
+      "kode_wilayah": "35.09.21.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.21"
+    },
+    {
+      "nama_wilayah": "Sumbersari",
+      "kode_wilayah": "35.09.21.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.21"
+    },
+    {
+      "nama_wilayah": "Kranjingan",
+      "kode_wilayah": "35.09.21.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.21"
+    },
+    {
+      "nama_wilayah": "Karangrejo",
+      "kode_wilayah": "35.09.21.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.21"
+    },
+    {
+      "nama_wilayah": "Tegalgede",
+      "kode_wilayah": "35.09.21.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.21"
+    },
+    {
+      "nama_wilayah": "Wirolegi",
+      "kode_wilayah": "35.09.21.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.21"
+    },
+    {
+      "nama_wilayah": "Antirogo",
+      "kode_wilayah": "35.09.21.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.21"
+    }
+  ]
+}

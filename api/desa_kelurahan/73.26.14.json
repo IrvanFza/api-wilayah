@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Baruppu Selatan",
+      "kode_wilayah": "73.26.14.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.14"
+    },
+    {
+      "nama_wilayah": "Baruppu- Utara",
+      "kode_wilayah": "73.26.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.14"
+    },
+    {
+      "nama_wilayah": "Baruppu Benteng Batu",
+      "kode_wilayah": "73.26.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.14"
+    },
+    {
+      "nama_wilayah": "Baruppu- Parodo",
+      "kode_wilayah": "73.26.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.14"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Juata Laut",
+      "kode_wilayah": "65.71.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.71",
+      "kode_kecamatan": "65.71.04"
+    },
+    {
+      "nama_wilayah": "Juata Permai",
+      "kode_wilayah": "65.71.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.71",
+      "kode_kecamatan": "65.71.04"
+    },
+    {
+      "nama_wilayah": "Juata Kerikil",
+      "kode_wilayah": "65.71.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.71",
+      "kode_kecamatan": "65.71.04"
+    }
+  ]
+}

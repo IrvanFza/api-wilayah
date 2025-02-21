@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Klagete\r",
+      "kode_wilayah": "96.71.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.71",
+      "kode_kecamatan": "96.71.09"
+    },
+    {
+      "nama_wilayah": "Malaingkedi\r",
+      "kode_wilayah": "96.71.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.71",
+      "kode_kecamatan": "96.71.09"
+    },
+    {
+      "nama_wilayah": "Malamso\r",
+      "kode_wilayah": "96.71.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.71",
+      "kode_kecamatan": "96.71.09"
+    },
+    {
+      "nama_wilayah": "Klabulu\r",
+      "kode_wilayah": "96.71.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.71",
+      "kode_kecamatan": "96.71.09"
+    }
+  ]
+}

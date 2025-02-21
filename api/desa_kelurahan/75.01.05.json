@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tontayuo",
+      "kode_wilayah": "75.01.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.05"
+    },
+    {
+      "nama_wilayah": "Biluhu Timur",
+      "kode_wilayah": "75.01.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.05"
+    },
+    {
+      "nama_wilayah": "Kayubulan",
+      "kode_wilayah": "75.01.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.05"
+    },
+    {
+      "nama_wilayah": "Bongo",
+      "kode_wilayah": "75.01.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.05"
+    },
+    {
+      "nama_wilayah": "Lopo",
+      "kode_wilayah": "75.01.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.05"
+    },
+    {
+      "nama_wilayah": "Lamu",
+      "kode_wilayah": "75.01.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.05"
+    },
+    {
+      "nama_wilayah": "Olimoo-o",
+      "kode_wilayah": "75.01.05.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.05"
+    },
+    {
+      "nama_wilayah": "Buhudaa",
+      "kode_wilayah": "75.01.05.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.05"
+    },
+    {
+      "nama_wilayah": "Langgula",
+      "kode_wilayah": "75.01.05.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.05"
+    }
+  ]
+}

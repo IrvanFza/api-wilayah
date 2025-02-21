@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Balai Kencana",
+      "kode_wilayah": "18.13.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.08"
+    },
+    {
+      "nama_wilayah": "Way Suluh",
+      "kode_wilayah": "18.13.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.08"
+    },
+    {
+      "nama_wilayah": "Way Napal",
+      "kode_wilayah": "18.13.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.08"
+    },
+    {
+      "nama_wilayah": "Padang Haluan",
+      "kode_wilayah": "18.13.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.08"
+    },
+    {
+      "nama_wilayah": "Lintik",
+      "kode_wilayah": "18.13.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.08"
+    },
+    {
+      "nama_wilayah": "Walur",
+      "kode_wilayah": "18.13.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.08"
+    },
+    {
+      "nama_wilayah": "Pemerihan",
+      "kode_wilayah": "18.13.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.08"
+    },
+    {
+      "nama_wilayah": "Mandiri Sejati",
+      "kode_wilayah": "18.13.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.08"
+    },
+    {
+      "nama_wilayah": "Padang Raya",
+      "kode_wilayah": "18.13.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.08"
+    },
+    {
+      "nama_wilayah": "Suka Jadi",
+      "kode_wilayah": "18.13.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.13",
+      "kode_kecamatan": "18.13.08"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Lubuk Gadang",
+      "kode_wilayah": "13.11.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.11",
+      "kode_kecamatan": "13.11.01"
+    },
+    {
+      "nama_wilayah": "Lubuk Gadang Timur",
+      "kode_wilayah": "13.11.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.11",
+      "kode_kecamatan": "13.11.01"
+    },
+    {
+      "nama_wilayah": "Lubuk Gadang Selatan",
+      "kode_wilayah": "13.11.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.11",
+      "kode_kecamatan": "13.11.01"
+    },
+    {
+      "nama_wilayah": "Lubuk Gadang Utara",
+      "kode_wilayah": "13.11.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.11",
+      "kode_kecamatan": "13.11.01"
+    }
+  ]
+}

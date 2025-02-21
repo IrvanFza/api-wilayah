@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Lapandewa Makmur",
+      "kode_wilayah": "74.15.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.03"
+    },
+    {
+      "nama_wilayah": "Gaya Baru",
+      "kode_wilayah": "74.15.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.03"
+    },
+    {
+      "nama_wilayah": "Burangasi Rumbia",
+      "kode_wilayah": "74.15.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.03"
+    },
+    {
+      "nama_wilayah": "Burangasi",
+      "kode_wilayah": "74.15.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.03"
+    },
+    {
+      "nama_wilayah": "Lapandewa Kaindea",
+      "kode_wilayah": "74.15.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.03"
+    },
+    {
+      "nama_wilayah": "Lapandewa",
+      "kode_wilayah": "74.15.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.03"
+    },
+    {
+      "nama_wilayah": "Lapandewa Jaya",
+      "kode_wilayah": "74.15.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.15",
+      "kode_kecamatan": "74.15.03"
+    }
+  ]
+}

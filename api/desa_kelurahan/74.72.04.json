@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Liabuku",
+      "kode_wilayah": "74.72.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.04"
+    },
+    {
+      "nama_wilayah": "Ngkaring Karing",
+      "kode_wilayah": "74.72.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.04"
+    },
+    {
+      "nama_wilayah": "Kampeonaho",
+      "kode_wilayah": "74.72.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.04"
+    },
+    {
+      "nama_wilayah": "Waliabuku",
+      "kode_wilayah": "74.72.04.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.04"
+    },
+    {
+      "nama_wilayah": "Tampuna",
+      "kode_wilayah": "74.72.04.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.72",
+      "kode_kecamatan": "74.72.04"
+    }
+  ]
+}

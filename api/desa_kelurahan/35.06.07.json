@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sempu",
+      "kode_wilayah": "35.06.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.06",
+      "kode_kecamatan": "35.06.07"
+    },
+    {
+      "nama_wilayah": "Pandantoyo",
+      "kode_wilayah": "35.06.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.06",
+      "kode_kecamatan": "35.06.07"
+    },
+    {
+      "nama_wilayah": "Margourip",
+      "kode_wilayah": "35.06.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.06",
+      "kode_kecamatan": "35.06.07"
+    },
+    {
+      "nama_wilayah": "Bedali",
+      "kode_wilayah": "35.06.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.06",
+      "kode_kecamatan": "35.06.07"
+    },
+    {
+      "nama_wilayah": "Kunjang",
+      "kode_wilayah": "35.06.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.06",
+      "kode_kecamatan": "35.06.07"
+    },
+    {
+      "nama_wilayah": "Manggis",
+      "kode_wilayah": "35.06.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.06",
+      "kode_kecamatan": "35.06.07"
+    },
+    {
+      "nama_wilayah": "Ngancar",
+      "kode_wilayah": "35.06.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.06",
+      "kode_kecamatan": "35.06.07"
+    },
+    {
+      "nama_wilayah": "Sugihwaras",
+      "kode_wilayah": "35.06.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.06",
+      "kode_kecamatan": "35.06.07"
+    },
+    {
+      "nama_wilayah": "Babadan",
+      "kode_wilayah": "35.06.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.06",
+      "kode_kecamatan": "35.06.07"
+    },
+    {
+      "nama_wilayah": "Jagul",
+      "kode_wilayah": "35.06.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.06",
+      "kode_kecamatan": "35.06.07"
+    }
+  ]
+}

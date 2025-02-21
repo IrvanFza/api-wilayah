@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sidomulyo",
+      "kode_wilayah": "35.03.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.03",
+      "kode_kecamatan": "35.03.03"
+    },
+    {
+      "nama_wilayah": "Puyung",
+      "kode_wilayah": "35.03.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.03",
+      "kode_kecamatan": "35.03.03"
+    },
+    {
+      "nama_wilayah": "Joho",
+      "kode_wilayah": "35.03.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.03",
+      "kode_kecamatan": "35.03.03"
+    },
+    {
+      "nama_wilayah": "Kembangan",
+      "kode_wilayah": "35.03.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.03",
+      "kode_kecamatan": "35.03.03"
+    },
+    {
+      "nama_wilayah": "Pakel",
+      "kode_wilayah": "35.03.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.03",
+      "kode_kecamatan": "35.03.03"
+    },
+    {
+      "nama_wilayah": "Pule",
+      "kode_wilayah": "35.03.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.03",
+      "kode_kecamatan": "35.03.03"
+    },
+    {
+      "nama_wilayah": "Tanggaran",
+      "kode_wilayah": "35.03.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.03",
+      "kode_kecamatan": "35.03.03"
+    },
+    {
+      "nama_wilayah": "Karanganyar",
+      "kode_wilayah": "35.03.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.03",
+      "kode_kecamatan": "35.03.03"
+    },
+    {
+      "nama_wilayah": "Jombok",
+      "kode_wilayah": "35.03.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.03",
+      "kode_kecamatan": "35.03.03"
+    },
+    {
+      "nama_wilayah": "Sukokidul",
+      "kode_wilayah": "35.03.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.03",
+      "kode_kecamatan": "35.03.03"
+    }
+  ]
+}

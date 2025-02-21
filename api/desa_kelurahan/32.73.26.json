@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Pasir Endah",
+      "kode_wilayah": "32.73.26.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.26"
+    },
+    {
+      "nama_wilayah": "Cigending",
+      "kode_wilayah": "32.73.26.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.26"
+    },
+    {
+      "nama_wilayah": "Pasirwangi",
+      "kode_wilayah": "32.73.26.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.26"
+    },
+    {
+      "nama_wilayah": "Pasirjati",
+      "kode_wilayah": "32.73.26.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.26"
+    },
+    {
+      "nama_wilayah": "Pasanggrahan",
+      "kode_wilayah": "32.73.26.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.26"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Toboali",
+      "kode_wilayah": "19.03.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.01"
+    },
+    {
+      "nama_wilayah": "Teladan",
+      "kode_wilayah": "19.03.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.01"
+    },
+    {
+      "nama_wilayah": "Tanjung Ketapang",
+      "kode_wilayah": "19.03.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.01"
+    },
+    {
+      "nama_wilayah": "Serdang",
+      "kode_wilayah": "19.03.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.01"
+    },
+    {
+      "nama_wilayah": "Jeriji",
+      "kode_wilayah": "19.03.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.01"
+    },
+    {
+      "nama_wilayah": "Bikang",
+      "kode_wilayah": "19.03.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.01"
+    },
+    {
+      "nama_wilayah": "Gadung",
+      "kode_wilayah": "19.03.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.01"
+    },
+    {
+      "nama_wilayah": "Rias",
+      "kode_wilayah": "19.03.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.01"
+    },
+    {
+      "nama_wilayah": "Kepoh",
+      "kode_wilayah": "19.03.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.01"
+    },
+    {
+      "nama_wilayah": "Keposang",
+      "kode_wilayah": "19.03.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.01"
+    },
+    {
+      "nama_wilayah": "Rindik",
+      "kode_wilayah": "19.03.01.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.03",
+      "kode_kecamatan": "19.03.01"
+    }
+  ]
+}

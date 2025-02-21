@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kenali",
+      "kode_wilayah": "18.04.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.06"
+    },
+    {
+      "nama_wilayah": "Kejadian",
+      "kode_wilayah": "18.04.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.06"
+    },
+    {
+      "nama_wilayah": "Bumi Agung",
+      "kode_wilayah": "18.04.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.06"
+    },
+    {
+      "nama_wilayah": "Turgak",
+      "kode_wilayah": "18.04.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.06"
+    },
+    {
+      "nama_wilayah": "Bedudu",
+      "kode_wilayah": "18.04.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.06"
+    },
+    {
+      "nama_wilayah": "Sukarame",
+      "kode_wilayah": "18.04.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.06"
+    },
+    {
+      "nama_wilayah": "Hujung",
+      "kode_wilayah": "18.04.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.06"
+    },
+    {
+      "nama_wilayah": "Serungkuk",
+      "kode_wilayah": "18.04.06.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.06"
+    },
+    {
+      "nama_wilayah": "Suka Makmur",
+      "kode_wilayah": "18.04.06.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.06"
+    },
+    {
+      "nama_wilayah": "Fajar Agung",
+      "kode_wilayah": "18.04.06.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.06"
+    }
+  ]
+}

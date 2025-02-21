@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sukanagara",
+      "kode_wilayah": "32.78.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.10"
+    },
+    {
+      "nama_wilayah": "Sukamenak",
+      "kode_wilayah": "32.78.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.10"
+    },
+    {
+      "nama_wilayah": "Purbaratu",
+      "kode_wilayah": "32.78.10.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.10"
+    },
+    {
+      "nama_wilayah": "Sukaasih",
+      "kode_wilayah": "32.78.10.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.10"
+    },
+    {
+      "nama_wilayah": "Sukajaya",
+      "kode_wilayah": "32.78.10.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.10"
+    },
+    {
+      "nama_wilayah": "Singkup",
+      "kode_wilayah": "32.78.10.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.10"
+    }
+  ]
+}

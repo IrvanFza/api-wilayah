@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Lotu",
+      "kode_wilayah": "12.24.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.24",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Sawo",
+      "kode_wilayah": "12.24.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.24",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Tuhemberua",
+      "kode_wilayah": "12.24.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.24",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Sitolu Ori",
+      "kode_wilayah": "12.24.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.24",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Namohalu Esiwa",
+      "kode_wilayah": "12.24.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.24",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Alasa Talumuzoi",
+      "kode_wilayah": "12.24.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.24",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Alasa",
+      "kode_wilayah": "12.24.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.24",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Tugala Oyo",
+      "kode_wilayah": "12.24.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.24",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Afulu",
+      "kode_wilayah": "12.24.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.24",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Lahewa",
+      "kode_wilayah": "12.24.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.24",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Lahewa Timur",
+      "kode_wilayah": "12.24.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.24",
+      "kode_provinsi": "12"
+    }
+  ]
+}

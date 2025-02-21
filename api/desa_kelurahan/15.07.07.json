@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kampung Singkep",
+      "kode_wilayah": "15.07.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.07"
+    },
+    {
+      "nama_wilayah": "Nibung Putih",
+      "kode_wilayah": "15.07.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.07"
+    },
+    {
+      "nama_wilayah": "Rano",
+      "kode_wilayah": "15.07.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.07"
+    },
+    {
+      "nama_wilayah": "Talang Babat",
+      "kode_wilayah": "15.07.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.07"
+    },
+    {
+      "nama_wilayah": "Parit Culum I",
+      "kode_wilayah": "15.07.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.07"
+    },
+    {
+      "nama_wilayah": "Parit Culum II",
+      "kode_wilayah": "15.07.07.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.07"
+    },
+    {
+      "nama_wilayah": "Teluk Dawan",
+      "kode_wilayah": "15.07.07.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.07"
+    }
+  ]
+}

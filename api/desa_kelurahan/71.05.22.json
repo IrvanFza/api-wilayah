@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Karimbow",
+      "kode_wilayah": "71.05.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.22"
+    },
+    {
+      "nama_wilayah": "Karimbow Talikuran",
+      "kode_wilayah": "71.05.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.22"
+    },
+    {
+      "nama_wilayah": "Tokin",
+      "kode_wilayah": "71.05.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.22"
+    },
+    {
+      "nama_wilayah": "Tokin Baru",
+      "kode_wilayah": "71.05.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.22"
+    },
+    {
+      "nama_wilayah": "Wanga Amongena",
+      "kode_wilayah": "71.05.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.22"
+    },
+    {
+      "nama_wilayah": "Wanga",
+      "kode_wilayah": "71.05.22.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.22"
+    },
+    {
+      "nama_wilayah": "Picuan",
+      "kode_wilayah": "71.05.22.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.22"
+    },
+    {
+      "nama_wilayah": "Picuan Satu",
+      "kode_wilayah": "71.05.22.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.22"
+    }
+  ]
+}

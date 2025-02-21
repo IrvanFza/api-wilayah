@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Arahan Kidul",
+      "kode_wilayah": "32.12.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.19"
+    },
+    {
+      "nama_wilayah": "Arahan Lor",
+      "kode_wilayah": "32.12.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.19"
+    },
+    {
+      "nama_wilayah": "Linggajati",
+      "kode_wilayah": "32.12.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.19"
+    },
+    {
+      "nama_wilayah": "Cidempet",
+      "kode_wilayah": "32.12.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.19"
+    },
+    {
+      "nama_wilayah": "Sukadadi",
+      "kode_wilayah": "32.12.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.19"
+    },
+    {
+      "nama_wilayah": "Pranggong",
+      "kode_wilayah": "32.12.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.19"
+    },
+    {
+      "nama_wilayah": "Sukasari",
+      "kode_wilayah": "32.12.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.19"
+    },
+    {
+      "nama_wilayah": "Tawangsari",
+      "kode_wilayah": "32.12.19.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.19"
+    }
+  ]
+}

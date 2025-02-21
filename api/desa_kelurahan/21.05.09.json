@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Impol",
+      "kode_wilayah": "21.05.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.09"
+    },
+    {
+      "nama_wilayah": "Keramut",
+      "kode_wilayah": "21.05.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.09"
+    },
+    {
+      "nama_wilayah": "Sunggak",
+      "kode_wilayah": "21.05.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.09"
+    }
+  ]
+}

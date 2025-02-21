@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sucopangepok",
+      "kode_wilayah": "35.09.25.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.25"
+    },
+    {
+      "nama_wilayah": "Panduman",
+      "kode_wilayah": "35.09.25.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.25"
+    },
+    {
+      "nama_wilayah": "Sukojember",
+      "kode_wilayah": "35.09.25.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.25"
+    },
+    {
+      "nama_wilayah": "Jelbuk",
+      "kode_wilayah": "35.09.25.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.25"
+    },
+    {
+      "nama_wilayah": "Sukowiryo",
+      "kode_wilayah": "35.09.25.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.25"
+    },
+    {
+      "nama_wilayah": "Sugerkidul",
+      "kode_wilayah": "35.09.25.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.25"
+    }
+  ]
+}

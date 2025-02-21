@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Rawang Lama",
+      "kode_wilayah": "12.09.29.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.29"
+    },
+    {
+      "nama_wilayah": "Rawang Baru",
+      "kode_wilayah": "12.09.29.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.29"
+    },
+    {
+      "nama_wilayah": "Rawang Pasar IV",
+      "kode_wilayah": "12.09.29.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.29"
+    },
+    {
+      "nama_wilayah": "Rawang Pasar V",
+      "kode_wilayah": "12.09.29.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.29"
+    },
+    {
+      "nama_wilayah": "Pondok Bungur",
+      "kode_wilayah": "12.09.29.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.29"
+    },
+    {
+      "nama_wilayah": "Panca Arga",
+      "kode_wilayah": "12.09.29.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.29"
+    },
+    {
+      "nama_wilayah": "Rawang Pasar VI",
+      "kode_wilayah": "12.09.29.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.09",
+      "kode_kecamatan": "12.09.29"
+    }
+  ]
+}

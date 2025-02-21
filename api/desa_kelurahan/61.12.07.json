@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Rasau Jaya Umum",
+      "kode_wilayah": "61.12.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.12",
+      "kode_kecamatan": "61.12.07"
+    },
+    {
+      "nama_wilayah": "Rasau Jaya Satu",
+      "kode_wilayah": "61.12.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.12",
+      "kode_kecamatan": "61.12.07"
+    },
+    {
+      "nama_wilayah": "Rasau Jaya Dua",
+      "kode_wilayah": "61.12.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.12",
+      "kode_kecamatan": "61.12.07"
+    },
+    {
+      "nama_wilayah": "Rasau Jaya Tiga",
+      "kode_wilayah": "61.12.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.12",
+      "kode_kecamatan": "61.12.07"
+    },
+    {
+      "nama_wilayah": "Bintang Mas",
+      "kode_wilayah": "61.12.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.12",
+      "kode_kecamatan": "61.12.07"
+    },
+    {
+      "nama_wilayah": "Pematang Tujuh",
+      "kode_wilayah": "61.12.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.12",
+      "kode_kecamatan": "61.12.07"
+    }
+  ]
+}

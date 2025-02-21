@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Iboih",
+      "kode_wilayah": "11.72.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.72",
+      "kode_kecamatan": "11.72.03"
+    },
+    {
+      "nama_wilayah": "Batee Shok",
+      "kode_wilayah": "11.72.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.72",
+      "kode_kecamatan": "11.72.03"
+    },
+    {
+      "nama_wilayah": "Paya Seunara",
+      "kode_wilayah": "11.72.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.72",
+      "kode_kecamatan": "11.72.03"
+    },
+    {
+      "nama_wilayah": "Paya",
+      "kode_wilayah": "11.72.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.72",
+      "kode_kecamatan": "11.72.03"
+    },
+    {
+      "nama_wilayah": "Keunekai",
+      "kode_wilayah": "11.72.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.72",
+      "kode_kecamatan": "11.72.03"
+    },
+    {
+      "nama_wilayah": "Beurawang",
+      "kode_wilayah": "11.72.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.72",
+      "kode_kecamatan": "11.72.03"
+    }
+  ]
+}

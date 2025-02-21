@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Lebin",
+      "kode_wilayah": "52.04.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.11"
+    },
+    {
+      "nama_wilayah": "Lebangkar",
+      "kode_wilayah": "52.04.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.11"
+    },
+    {
+      "nama_wilayah": "Ropang",
+      "kode_wilayah": "52.04.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.11"
+    },
+    {
+      "nama_wilayah": "Lawin",
+      "kode_wilayah": "52.04.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.11"
+    },
+    {
+      "nama_wilayah": "Ranan",
+      "kode_wilayah": "52.04.11.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.04",
+      "kode_kecamatan": "52.04.11"
+    }
+  ]
+}

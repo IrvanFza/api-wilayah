@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Husein Sastranegara",
+      "kode_wilayah": "32.73.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.06"
+    },
+    {
+      "nama_wilayah": "Arjuna",
+      "kode_wilayah": "32.73.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.06"
+    },
+    {
+      "nama_wilayah": "Pajajaran",
+      "kode_wilayah": "32.73.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.06"
+    },
+    {
+      "nama_wilayah": "Pasirkaliki",
+      "kode_wilayah": "32.73.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.06"
+    },
+    {
+      "nama_wilayah": "Pamoyanan",
+      "kode_wilayah": "32.73.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.06"
+    },
+    {
+      "nama_wilayah": "Sukaraja",
+      "kode_wilayah": "32.73.06.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.06"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Negeri Agung",
+      "kode_wilayah": "18.07.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.18"
+    },
+    {
+      "nama_wilayah": "Pempen",
+      "kode_wilayah": "18.07.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.18"
+    },
+    {
+      "nama_wilayah": "Way Mili",
+      "kode_wilayah": "18.07.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.18"
+    },
+    {
+      "nama_wilayah": "Pelindung Jaya",
+      "kode_wilayah": "18.07.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.18"
+    },
+    {
+      "nama_wilayah": "Nibung",
+      "kode_wilayah": "18.07.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.18"
+    }
+  ]
+}

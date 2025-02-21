@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Satu Ulu",
+      "kode_wilayah": "16.71.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.02"
+    },
+    {
+      "nama_wilayah": "Dua Ulu",
+      "kode_wilayah": "16.71.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.02"
+    },
+    {
+      "nama_wilayah": "Tiga Empat Ulu",
+      "kode_wilayah": "16.71.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.02"
+    },
+    {
+      "nama_wilayah": "Lima Ulu",
+      "kode_wilayah": "16.71.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.02"
+    },
+    {
+      "nama_wilayah": "Tujuh Ulu",
+      "kode_wilayah": "16.71.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.02"
+    }
+  ]
+}

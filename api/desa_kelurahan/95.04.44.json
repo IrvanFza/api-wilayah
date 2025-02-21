@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Wiyaluk",
+      "kode_wilayah": "95.04.44.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.44"
+    },
+    {
+      "nama_wilayah": "Aburage",
+      "kode_wilayah": "95.04.44.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.44"
+    },
+    {
+      "nama_wilayah": "Kogoyapura",
+      "kode_wilayah": "95.04.44.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.44"
+    },
+    {
+      "nama_wilayah": "Erimbur",
+      "kode_wilayah": "95.04.44.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.44"
+    },
+    {
+      "nama_wilayah": "Leragawi/Megagirakuk",
+      "kode_wilayah": "95.04.44.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.44"
+    },
+    {
+      "nama_wilayah": "Longgoboma",
+      "kode_wilayah": "95.04.44.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.44"
+    },
+    {
+      "nama_wilayah": "Tingwi",
+      "kode_wilayah": "95.04.44.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.44"
+    },
+    {
+      "nama_wilayah": "Gubura",
+      "kode_wilayah": "95.04.44.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.44"
+    },
+    {
+      "nama_wilayah": "Lubuk",
+      "kode_wilayah": "95.04.44.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.44"
+    },
+    {
+      "nama_wilayah": "Bogome",
+      "kode_wilayah": "95.04.44.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.44"
+    }
+  ]
+}

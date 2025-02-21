@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Sukaraja",
+      "kode_wilayah": "17.02.17.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.17"
+    },
+    {
+      "nama_wilayah": "Kesambe Baru",
+      "kode_wilayah": "17.02.17.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.17"
+    },
+    {
+      "nama_wilayah": "Karang Anyar",
+      "kode_wilayah": "17.02.17.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.17"
+    },
+    {
+      "nama_wilayah": "Talang Ulu",
+      "kode_wilayah": "17.02.17.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.17"
+    },
+    {
+      "nama_wilayah": "Duku Ulu",
+      "kode_wilayah": "17.02.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.17"
+    },
+    {
+      "nama_wilayah": "Duku Ilir",
+      "kode_wilayah": "17.02.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.17"
+    },
+    {
+      "nama_wilayah": "Air Meles Bawah",
+      "kode_wilayah": "17.02.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.17"
+    },
+    {
+      "nama_wilayah": "Kampung Delima",
+      "kode_wilayah": "17.02.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.17"
+    },
+    {
+      "nama_wilayah": "Kesambe Lama",
+      "kode_wilayah": "17.02.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.02",
+      "kode_kecamatan": "17.02.17"
+    }
+  ]
+}

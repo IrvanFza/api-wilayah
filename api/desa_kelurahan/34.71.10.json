@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "total": 2,
+  "data": [
+    {
+      "nama_wilayah": "Ngupasan",
+      "kode_wilayah": "34.71.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.71",
+      "kode_kecamatan": "34.71.10"
+    },
+    {
+      "nama_wilayah": "Prawirodirjan",
+      "kode_wilayah": "34.71.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.71",
+      "kode_kecamatan": "34.71.10"
+    }
+  ]
+}

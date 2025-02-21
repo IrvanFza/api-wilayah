@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Bajamas",
+      "kode_wilayah": "12.01.11.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.11"
+    },
+    {
+      "nama_wilayah": "Sampang Maruhur",
+      "kode_wilayah": "12.01.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.11"
+    },
+    {
+      "nama_wilayah": "Siordang",
+      "kode_wilayah": "12.01.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.11"
+    },
+    {
+      "nama_wilayah": "Pardomuan",
+      "kode_wilayah": "12.01.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.11"
+    },
+    {
+      "nama_wilayah": "Simpang III Lae Bingke",
+      "kode_wilayah": "12.01.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.11"
+    },
+    {
+      "nama_wilayah": "Sigodung",
+      "kode_wilayah": "12.01.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.11"
+    },
+    {
+      "nama_wilayah": "Masnauli",
+      "kode_wilayah": "12.01.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.11"
+    },
+    {
+      "nama_wilayah": "Muara Ode",
+      "kode_wilayah": "12.01.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.11"
+    }
+  ]
+}

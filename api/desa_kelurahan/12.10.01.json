@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Padang Matinggi",
+      "kode_wilayah": "12.10.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.01"
+    },
+    {
+      "nama_wilayah": "Siringo-Ringo",
+      "kode_wilayah": "12.10.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.01"
+    },
+    {
+      "nama_wilayah": "Sirandorung",
+      "kode_wilayah": "12.10.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.01"
+    },
+    {
+      "nama_wilayah": "Rantauprapat",
+      "kode_wilayah": "12.10.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.01"
+    },
+    {
+      "nama_wilayah": "Kartini",
+      "kode_wilayah": "12.10.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.01"
+    },
+    {
+      "nama_wilayah": "Cendana",
+      "kode_wilayah": "12.10.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.01"
+    },
+    {
+      "nama_wilayah": "Binaraga",
+      "kode_wilayah": "12.10.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.01"
+    },
+    {
+      "nama_wilayah": "Pulo Padang",
+      "kode_wilayah": "12.10.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.01"
+    },
+    {
+      "nama_wilayah": "Padang Bulan",
+      "kode_wilayah": "12.10.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.01"
+    },
+    {
+      "nama_wilayah": "Aek Paing",
+      "kode_wilayah": "12.10.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.10",
+      "kode_kecamatan": "12.10.01"
+    }
+  ]
+}

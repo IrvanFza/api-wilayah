@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Lubuk Jering",
+      "kode_wilayah": "15.03.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.03",
+      "kode_kecamatan": "15.03.07"
+    },
+    {
+      "nama_wilayah": "Jernih",
+      "kode_wilayah": "15.03.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.03",
+      "kode_kecamatan": "15.03.07"
+    },
+    {
+      "nama_wilayah": "Desa Baru",
+      "kode_wilayah": "15.03.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.03",
+      "kode_kecamatan": "15.03.07"
+    },
+    {
+      "nama_wilayah": "Semurung",
+      "kode_wilayah": "15.03.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.03",
+      "kode_kecamatan": "15.03.07"
+    },
+    {
+      "nama_wilayah": "Lubuk Kepayang",
+      "kode_wilayah": "15.03.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.03",
+      "kode_kecamatan": "15.03.07"
+    },
+    {
+      "nama_wilayah": "Pematang Kabau",
+      "kode_wilayah": "15.03.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.03",
+      "kode_kecamatan": "15.03.07"
+    },
+    {
+      "nama_wilayah": "Bukit Suban",
+      "kode_wilayah": "15.03.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.03",
+      "kode_kecamatan": "15.03.07"
+    },
+    {
+      "nama_wilayah": "Mentawak Baru",
+      "kode_wilayah": "15.03.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.03",
+      "kode_kecamatan": "15.03.07"
+    },
+    {
+      "nama_wilayah": "Mentawak Ulu",
+      "kode_wilayah": "15.03.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.03",
+      "kode_kecamatan": "15.03.07"
+    }
+  ]
+}

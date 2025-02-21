@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sidorejo",
+      "kode_wilayah": "16.72.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.02"
+    },
+    {
+      "nama_wilayah": "Nendagung",
+      "kode_wilayah": "16.72.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.02"
+    },
+    {
+      "nama_wilayah": "Gunung Dempo",
+      "kode_wilayah": "16.72.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.02"
+    },
+    {
+      "nama_wilayah": "Tebat Giri Indah",
+      "kode_wilayah": "16.72.02.1018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.02"
+    },
+    {
+      "nama_wilayah": "Tumbak Ulas",
+      "kode_wilayah": "16.72.02.1019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.02"
+    },
+    {
+      "nama_wilayah": "Ulu Rurah",
+      "kode_wilayah": "16.72.02.1020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.02"
+    },
+    {
+      "nama_wilayah": "Tanjung Agung",
+      "kode_wilayah": "16.72.02.1021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.02"
+    },
+    {
+      "nama_wilayah": "Besemah Serasan",
+      "kode_wilayah": "16.72.02.1022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.02"
+    }
+  ]
+}

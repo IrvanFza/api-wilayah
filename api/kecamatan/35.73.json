@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Blimbing",
+      "kode_wilayah": "35.73.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "35.73",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama_wilayah": "Klojen",
+      "kode_wilayah": "35.73.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "35.73",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama_wilayah": "Kedungkandang",
+      "kode_wilayah": "35.73.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "35.73",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama_wilayah": "Sukun",
+      "kode_wilayah": "35.73.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "35.73",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama_wilayah": "Lowokwaru",
+      "kode_wilayah": "35.73.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "35.73",
+      "kode_provinsi": "35"
+    }
+  ]
+}

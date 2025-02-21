@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Oebesi",
+      "kode_wilayah": "53.01.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.19"
+    },
+    {
+      "nama_wilayah": "Pakubaun",
+      "kode_wilayah": "53.01.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.19"
+    },
+    {
+      "nama_wilayah": "Rabeka",
+      "kode_wilayah": "53.01.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.19"
+    },
+    {
+      "nama_wilayah": "Enoraen",
+      "kode_wilayah": "53.01.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.19"
+    }
+  ]
+}

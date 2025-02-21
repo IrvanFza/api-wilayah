@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Parigimpu-u",
+      "kode_wilayah": "72.08.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.16"
+    },
+    {
+      "nama_wilayah": "Baliara",
+      "kode_wilayah": "72.08.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.16"
+    },
+    {
+      "nama_wilayah": "Kayuboko",
+      "kode_wilayah": "72.08.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.16"
+    },
+    {
+      "nama_wilayah": "Jono Kalora",
+      "kode_wilayah": "72.08.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.16"
+    },
+    {
+      "nama_wilayah": "Air Panas",
+      "kode_wilayah": "72.08.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.16"
+    },
+    {
+      "nama_wilayah": "Lobu Mandiri",
+      "kode_wilayah": "72.08.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.16"
+    }
+  ]
+}

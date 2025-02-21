@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Tonrorita",
+      "kode_wilayah": "73.06.11.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.11"
+    },
+    {
+      "nama_wilayah": "Lauwa",
+      "kode_wilayah": "73.06.11.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.11"
+    },
+    {
+      "nama_wilayah": "Taring",
+      "kode_wilayah": "73.06.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.11"
+    },
+    {
+      "nama_wilayah": "Pencong",
+      "kode_wilayah": "73.06.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.11"
+    },
+    {
+      "nama_wilayah": "Berutallasa",
+      "kode_wilayah": "73.06.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.11"
+    },
+    {
+      "nama_wilayah": "Parangloe",
+      "kode_wilayah": "73.06.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.11"
+    },
+    {
+      "nama_wilayah": "Baturappe",
+      "kode_wilayah": "73.06.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.11"
+    },
+    {
+      "nama_wilayah": "Batumalonro",
+      "kode_wilayah": "73.06.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.11"
+    },
+    {
+      "nama_wilayah": "Borimasunggu",
+      "kode_wilayah": "73.06.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.11"
+    },
+    {
+      "nama_wilayah": "Lembangloe",
+      "kode_wilayah": "73.06.11.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.11"
+    },
+    {
+      "nama_wilayah": "Julukanaya",
+      "kode_wilayah": "73.06.11.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.11"
+    }
+  ]
+}

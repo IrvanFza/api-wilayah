@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Oksop",
+      "kode_wilayah": "95.02.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.14"
+    },
+    {
+      "nama_wilayah": "Mimin",
+      "kode_wilayah": "95.02.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.14"
+    },
+    {
+      "nama_wilayah": "Atenor",
+      "kode_wilayah": "95.02.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.14"
+    },
+    {
+      "nama_wilayah": "Oktumi",
+      "kode_wilayah": "95.02.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.14"
+    },
+    {
+      "nama_wilayah": "Alutbakon",
+      "kode_wilayah": "95.02.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.14"
+    }
+  ]
+}

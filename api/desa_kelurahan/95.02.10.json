@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bime",
+      "kode_wilayah": "95.02.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.10"
+    },
+    {
+      "nama_wilayah": "Bob",
+      "kode_wilayah": "95.02.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.10"
+    },
+    {
+      "nama_wilayah": "Kameme",
+      "kode_wilayah": "95.02.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.10"
+    },
+    {
+      "nama_wilayah": "Calab",
+      "kode_wilayah": "95.02.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.10"
+    },
+    {
+      "nama_wilayah": "Limiri",
+      "kode_wilayah": "95.02.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.10"
+    },
+    {
+      "nama_wilayah": "Teli",
+      "kode_wilayah": "95.02.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.10"
+    },
+    {
+      "nama_wilayah": "Lim Lim",
+      "kode_wilayah": "95.02.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.10"
+    },
+    {
+      "nama_wilayah": "Bunggon",
+      "kode_wilayah": "95.02.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.10"
+    },
+    {
+      "nama_wilayah": "Perem",
+      "kode_wilayah": "95.02.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.10"
+    },
+    {
+      "nama_wilayah": "Turwe",
+      "kode_wilayah": "95.02.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.10"
+    }
+  ]
+}

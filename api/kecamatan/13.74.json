@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "total": 2,
+  "data": [
+    {
+      "nama_wilayah": "Padang Panjang Timur",
+      "kode_wilayah": "13.74.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.74",
+      "kode_provinsi": "13"
+    },
+    {
+      "nama_wilayah": "Padang Panjang Barat",
+      "kode_wilayah": "13.74.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "13.74",
+      "kode_provinsi": "13"
+    }
+  ]
+}

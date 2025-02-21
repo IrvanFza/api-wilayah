@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Allepolea",
+      "kode_wilayah": "73.09.12.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.12"
+    },
+    {
+      "nama_wilayah": "Maccini Baji",
+      "kode_wilayah": "73.09.12.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.12"
+    },
+    {
+      "nama_wilayah": "Soreang",
+      "kode_wilayah": "73.09.12.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.12"
+    },
+    {
+      "nama_wilayah": "Mattirodeceng",
+      "kode_wilayah": "73.09.12.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.12"
+    },
+    {
+      "nama_wilayah": "Marannu",
+      "kode_wilayah": "73.09.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.12"
+    },
+    {
+      "nama_wilayah": "Bonto Marannu",
+      "kode_wilayah": "73.09.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.09",
+      "kode_kecamatan": "73.09.12"
+    }
+  ]
+}

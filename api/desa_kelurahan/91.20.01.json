@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Burmeso",
+      "kode_wilayah": "91.20.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.01"
+    },
+    {
+      "nama_wilayah": "Anggreso",
+      "kode_wilayah": "91.20.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.01"
+    },
+    {
+      "nama_wilayah": "Kasonaweja",
+      "kode_wilayah": "91.20.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.01"
+    },
+    {
+      "nama_wilayah": "Metaweja",
+      "kode_wilayah": "91.20.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.01"
+    },
+    {
+      "nama_wilayah": "Namunaweja",
+      "kode_wilayah": "91.20.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.01"
+    },
+    {
+      "nama_wilayah": "Danau Bira",
+      "kode_wilayah": "91.20.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.01"
+    },
+    {
+      "nama_wilayah": "Muru Mare",
+      "kode_wilayah": "91.20.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.01"
+    },
+    {
+      "nama_wilayah": "Kwerba",
+      "kode_wilayah": "91.20.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.01"
+    },
+    {
+      "nama_wilayah": "Sasakwesar",
+      "kode_wilayah": "91.20.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.01"
+    },
+    {
+      "nama_wilayah": "Babija",
+      "kode_wilayah": "91.20.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.01"
+    },
+    {
+      "nama_wilayah": "Marina Valen",
+      "kode_wilayah": "91.20.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.20",
+      "kode_kecamatan": "91.20.01"
+    }
+  ]
+}

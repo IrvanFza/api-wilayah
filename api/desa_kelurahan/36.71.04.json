@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Belendung",
+      "kode_wilayah": "36.71.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.04"
+    },
+    {
+      "nama_wilayah": "Jurumudi",
+      "kode_wilayah": "36.71.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.04"
+    },
+    {
+      "nama_wilayah": "Benda",
+      "kode_wilayah": "36.71.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.04"
+    },
+    {
+      "nama_wilayah": "Pajang",
+      "kode_wilayah": "36.71.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.04"
+    },
+    {
+      "nama_wilayah": "Jurumudi Baru",
+      "kode_wilayah": "36.71.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.04"
+    }
+  ]
+}

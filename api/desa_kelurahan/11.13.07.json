@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Gumpang",
+      "kode_wilayah": "11.13.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.07"
+    },
+    {
+      "nama_wilayah": "Marpunge",
+      "kode_wilayah": "11.13.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.07"
+    },
+    {
+      "nama_wilayah": "Ramung Musara",
+      "kode_wilayah": "11.13.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.07"
+    },
+    {
+      "nama_wilayah": "Meloak Sepakat",
+      "kode_wilayah": "11.13.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.07"
+    },
+    {
+      "nama_wilayah": "Kutelengat Sepakat",
+      "kode_wilayah": "11.13.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.07"
+    },
+    {
+      "nama_wilayah": "Singah Mulo",
+      "kode_wilayah": "11.13.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.07"
+    },
+    {
+      "nama_wilayah": "Uning Pune",
+      "kode_wilayah": "11.13.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.07"
+    },
+    {
+      "nama_wilayah": "Gumpang Lempuh",
+      "kode_wilayah": "11.13.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.07"
+    },
+    {
+      "nama_wilayah": "Putri Betung",
+      "kode_wilayah": "11.13.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.13",
+      "kode_kecamatan": "11.13.07"
+    }
+  ]
+}

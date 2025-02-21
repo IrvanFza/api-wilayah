@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Kijang Kota",
+      "kode_wilayah": "21.01.06.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.06"
+    },
+    {
+      "nama_wilayah": "Sungai Lekop",
+      "kode_wilayah": "21.01.06.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.06"
+    },
+    {
+      "nama_wilayah": "Gunung Lengkuas",
+      "kode_wilayah": "21.01.06.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.06"
+    },
+    {
+      "nama_wilayah": "Sungai Enam",
+      "kode_wilayah": "21.01.06.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.01",
+      "kode_kecamatan": "21.01.06"
+    }
+  ]
+}

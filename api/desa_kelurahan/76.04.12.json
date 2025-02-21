@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Balanipa",
+      "kode_wilayah": "76.04.12.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.12"
+    },
+    {
+      "nama_wilayah": "Tammajarra",
+      "kode_wilayah": "76.04.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.12"
+    },
+    {
+      "nama_wilayah": "Tammangalle",
+      "kode_wilayah": "76.04.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.12"
+    },
+    {
+      "nama_wilayah": "Mosso",
+      "kode_wilayah": "76.04.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.12"
+    },
+    {
+      "nama_wilayah": "Galung Tuluk",
+      "kode_wilayah": "76.04.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.12"
+    },
+    {
+      "nama_wilayah": "Sabang Subik",
+      "kode_wilayah": "76.04.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.12"
+    },
+    {
+      "nama_wilayah": "Pambusuang",
+      "kode_wilayah": "76.04.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.12"
+    },
+    {
+      "nama_wilayah": "Bala",
+      "kode_wilayah": "76.04.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.12"
+    },
+    {
+      "nama_wilayah": "Lambanan",
+      "kode_wilayah": "76.04.12.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.12"
+    },
+    {
+      "nama_wilayah": "Lego",
+      "kode_wilayah": "76.04.12.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.12"
+    },
+    {
+      "nama_wilayah": "Pallis",
+      "kode_wilayah": "76.04.12.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.12"
+    }
+  ]
+}

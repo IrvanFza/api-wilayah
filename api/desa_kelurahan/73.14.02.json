@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Amparita",
+      "kode_wilayah": "73.14.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.02"
+    },
+    {
+      "nama_wilayah": "Massepe",
+      "kode_wilayah": "73.14.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.02"
+    },
+    {
+      "nama_wilayah": "Toddang Pulu",
+      "kode_wilayah": "73.14.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.02"
+    },
+    {
+      "nama_wilayah": "Pajalele",
+      "kode_wilayah": "73.14.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.02"
+    },
+    {
+      "nama_wilayah": "Baula",
+      "kode_wilayah": "73.14.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.02"
+    },
+    {
+      "nama_wilayah": "Arateng",
+      "kode_wilayah": "73.14.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.02"
+    },
+    {
+      "nama_wilayah": "Teteaji",
+      "kode_wilayah": "73.14.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.02"
+    },
+    {
+      "nama_wilayah": "Polewali",
+      "kode_wilayah": "73.14.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.02"
+    },
+    {
+      "nama_wilayah": "Teppo",
+      "kode_wilayah": "73.14.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.02"
+    }
+  ]
+}

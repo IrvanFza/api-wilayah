@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Rantau Kopar",
+      "kode_wilayah": "14.07.13.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.13"
+    },
+    {
+      "nama_wilayah": "Sungai Rangau",
+      "kode_wilayah": "14.07.13.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.13"
+    },
+    {
+      "nama_wilayah": "Sekapas",
+      "kode_wilayah": "14.07.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.13"
+    },
+    {
+      "nama_wilayah": "Bagan Cempedak",
+      "kode_wilayah": "14.07.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.07",
+      "kode_kecamatan": "14.07.13"
+    }
+  ]
+}

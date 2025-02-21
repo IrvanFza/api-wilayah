@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Buol",
+      "kode_wilayah": "72.05.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.06"
+    },
+    {
+      "nama_wilayah": "Kali",
+      "kode_wilayah": "72.05.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.06"
+    },
+    {
+      "nama_wilayah": "Leok II",
+      "kode_wilayah": "72.05.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.06"
+    },
+    {
+      "nama_wilayah": "Leok I",
+      "kode_wilayah": "72.05.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.06"
+    },
+    {
+      "nama_wilayah": "Kumaligon",
+      "kode_wilayah": "72.05.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.06"
+    },
+    {
+      "nama_wilayah": "Kulango",
+      "kode_wilayah": "72.05.06.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.06"
+    },
+    {
+      "nama_wilayah": "Bugis",
+      "kode_wilayah": "72.05.06.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.06"
+    }
+  ]
+}

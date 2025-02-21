@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Araf Mafat",
+      "kode_wilayah": "96.04.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.19"
+    },
+    {
+      "nama_wilayah": "Tabamsere",
+      "kode_wilayah": "96.04.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.19"
+    },
+    {
+      "nama_wilayah": "Esyuom",
+      "kode_wilayah": "96.04.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.19"
+    },
+    {
+      "nama_wilayah": "Sayam",
+      "kode_wilayah": "96.04.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.19"
+    }
+  ]
+}

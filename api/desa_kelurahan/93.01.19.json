@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Konorau",
+      "kode_wilayah": "93.01.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.19"
+    },
+    {
+      "nama_wilayah": "Waan",
+      "kode_wilayah": "93.01.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.19"
+    },
+    {
+      "nama_wilayah": "Toor",
+      "kode_wilayah": "93.01.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.19"
+    },
+    {
+      "nama_wilayah": "Kladar",
+      "kode_wilayah": "93.01.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.19"
+    },
+    {
+      "nama_wilayah": "Sabon",
+      "kode_wilayah": "93.01.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.19"
+    },
+    {
+      "nama_wilayah": "Dafnawanga",
+      "kode_wilayah": "93.01.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.19"
+    }
+  ]
+}

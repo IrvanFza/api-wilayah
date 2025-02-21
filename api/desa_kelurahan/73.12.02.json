@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Appanang",
+      "kode_wilayah": "73.12.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.02"
+    },
+    {
+      "nama_wilayah": "Jennae",
+      "kode_wilayah": "73.12.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.02"
+    },
+    {
+      "nama_wilayah": "Galung",
+      "kode_wilayah": "73.12.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.02"
+    },
+    {
+      "nama_wilayah": "Jampu",
+      "kode_wilayah": "73.12.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.02"
+    },
+    {
+      "nama_wilayah": "Pattojo",
+      "kode_wilayah": "73.12.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.02"
+    },
+    {
+      "nama_wilayah": "Timusu",
+      "kode_wilayah": "73.12.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.02"
+    },
+    {
+      "nama_wilayah": "Rompegading",
+      "kode_wilayah": "73.12.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.02"
+    },
+    {
+      "nama_wilayah": "Barang",
+      "kode_wilayah": "73.12.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.12",
+      "kode_kecamatan": "73.12.02"
+    }
+  ]
+}

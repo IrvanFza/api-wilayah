@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Lelogama",
+      "kode_wilayah": "53.01.12.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.12"
+    },
+    {
+      "nama_wilayah": "Fatusuki",
+      "kode_wilayah": "53.01.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.12"
+    },
+    {
+      "nama_wilayah": "Oelbanu",
+      "kode_wilayah": "53.01.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.12"
+    },
+    {
+      "nama_wilayah": "Fatumetan",
+      "kode_wilayah": "53.01.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.12"
+    },
+    {
+      "nama_wilayah": "Oh-aem",
+      "kode_wilayah": "53.01.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.12"
+    },
+    {
+      "nama_wilayah": "Leloboko",
+      "kode_wilayah": "53.01.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.12"
+    },
+    {
+      "nama_wilayah": "Oh-aem II",
+      "kode_wilayah": "53.01.12.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.12"
+    }
+  ]
+}

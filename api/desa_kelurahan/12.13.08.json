@@ -1,0 +1,294 @@
+{
+  "status": "success",
+  "total": 36,
+  "data": [
+    {
+      "nama_wilayah": "Tamiang",
+      "kode_wilayah": "12.13.08.1032",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Pasar Kotanopan",
+      "kode_wilayah": "12.13.08.1036",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Batahan",
+      "kode_wilayah": "12.13.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Botung",
+      "kode_wilayah": "12.13.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Gading Bain",
+      "kode_wilayah": "12.13.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Gunung Tua MS",
+      "kode_wilayah": "12.13.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Gunung Tua SM",
+      "kode_wilayah": "12.13.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Hutapuli",
+      "kode_wilayah": "12.13.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Huta Padang MS",
+      "kode_wilayah": "12.13.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Hutarimbaru SM",
+      "kode_wilayah": "12.13.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Huta Baringin TB",
+      "kode_wilayah": "12.13.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Huta Pungkut Jae",
+      "kode_wilayah": "12.13.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Huta Pungkut Tonga",
+      "kode_wilayah": "12.13.08.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Huta Pungkut Julu",
+      "kode_wilayah": "12.13.08.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Huta Dangka",
+      "kode_wilayah": "12.13.08.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Muara Potan",
+      "kode_wilayah": "12.13.08.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Muara Siambak",
+      "kode_wilayah": "12.13.08.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Manambin",
+      "kode_wilayah": "12.13.08.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Muara Pungkut",
+      "kode_wilayah": "12.13.08.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Muara Botung",
+      "kode_wilayah": "12.13.08.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Pagar Gunung",
+      "kode_wilayah": "12.13.08.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Padang Bulan",
+      "kode_wilayah": "12.13.08.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Patialo",
+      "kode_wilayah": "12.13.08.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Saba Dolok",
+      "kode_wilayah": "12.13.08.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Singengu Jae",
+      "kode_wilayah": "12.13.08.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Singengu Julu",
+      "kode_wilayah": "12.13.08.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Sayur Maincat",
+      "kode_wilayah": "12.13.08.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Simpang Tolang Jae",
+      "kode_wilayah": "12.13.08.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Simpang Tolang Julu",
+      "kode_wilayah": "12.13.08.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Sibio Bio",
+      "kode_wilayah": "12.13.08.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Sopo Sorik",
+      "kode_wilayah": "12.13.08.2029",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Simandolam",
+      "kode_wilayah": "12.13.08.2030",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Tombang Bustak",
+      "kode_wilayah": "12.13.08.2031",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Tobang",
+      "kode_wilayah": "12.13.08.2033",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Ujung Marisi",
+      "kode_wilayah": "12.13.08.2034",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    },
+    {
+      "nama_wilayah": "Usor Tolang",
+      "kode_wilayah": "12.13.08.2035",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.08"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Ngadiluwih",
+      "kode_wilayah": "33.13.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.05"
+    },
+    {
+      "nama_wilayah": "Dawung",
+      "kode_wilayah": "33.13.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.05"
+    },
+    {
+      "nama_wilayah": "Matesih",
+      "kode_wilayah": "33.13.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.05"
+    },
+    {
+      "nama_wilayah": "Karangbangun",
+      "kode_wilayah": "33.13.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.05"
+    },
+    {
+      "nama_wilayah": "Koripan",
+      "kode_wilayah": "33.13.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.05"
+    },
+    {
+      "nama_wilayah": "Girilayu",
+      "kode_wilayah": "33.13.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.05"
+    },
+    {
+      "nama_wilayah": "Pablengan",
+      "kode_wilayah": "33.13.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.05"
+    },
+    {
+      "nama_wilayah": "Plosorejo",
+      "kode_wilayah": "33.13.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.05"
+    },
+    {
+      "nama_wilayah": "Gantiwarno",
+      "kode_wilayah": "33.13.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.13",
+      "kode_kecamatan": "33.13.05"
+    }
+  ]
+}

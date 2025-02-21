@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Gadingsari",
+      "kode_wilayah": "35.11.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.20"
+    },
+    {
+      "nama_wilayah": "Sumber Waru",
+      "kode_wilayah": "35.11.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.20"
+    },
+    {
+      "nama_wilayah": "Kembangan",
+      "kode_wilayah": "35.11.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.20"
+    },
+    {
+      "nama_wilayah": "Baratan",
+      "kode_wilayah": "35.11.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.20"
+    },
+    {
+      "nama_wilayah": "Binakal",
+      "kode_wilayah": "35.11.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.20"
+    },
+    {
+      "nama_wilayah": "Jeruksoksok",
+      "kode_wilayah": "35.11.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.20"
+    },
+    {
+      "nama_wilayah": "Sumber Tengah",
+      "kode_wilayah": "35.11.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.20"
+    },
+    {
+      "nama_wilayah": "Bendelan",
+      "kode_wilayah": "35.11.20.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.11",
+      "kode_kecamatan": "35.11.20"
+    }
+  ]
+}

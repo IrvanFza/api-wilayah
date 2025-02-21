@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Kejaksan",
+      "kode_wilayah": "32.74.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.74",
+      "kode_kecamatan": "32.74.01"
+    },
+    {
+      "nama_wilayah": "Sukapura",
+      "kode_wilayah": "32.74.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.74",
+      "kode_kecamatan": "32.74.01"
+    },
+    {
+      "nama_wilayah": "Kesenden",
+      "kode_wilayah": "32.74.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.74",
+      "kode_kecamatan": "32.74.01"
+    },
+    {
+      "nama_wilayah": "Kebonbaru",
+      "kode_wilayah": "32.74.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.74",
+      "kode_kecamatan": "32.74.01"
+    }
+  ]
+}

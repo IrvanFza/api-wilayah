@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tembilahan Hulu",
+      "kode_wilayah": "14.04.13.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.13"
+    },
+    {
+      "nama_wilayah": "Tembilahan Barat",
+      "kode_wilayah": "14.04.13.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.13"
+    },
+    {
+      "nama_wilayah": "Pekan Kamis",
+      "kode_wilayah": "14.04.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.13"
+    },
+    {
+      "nama_wilayah": "Pulaupalas",
+      "kode_wilayah": "14.04.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.13"
+    },
+    {
+      "nama_wilayah": "Sialang Panjang",
+      "kode_wilayah": "14.04.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.13"
+    },
+    {
+      "nama_wilayah": "Sungaiintan",
+      "kode_wilayah": "14.04.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.04",
+      "kode_kecamatan": "14.04.13"
+    }
+  ]
+}

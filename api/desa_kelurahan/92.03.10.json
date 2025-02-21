@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Wagom",
+      "kode_wilayah": "92.03.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.10"
+    },
+    {
+      "nama_wilayah": "Wagom Utara",
+      "kode_wilayah": "92.03.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.10"
+    },
+    {
+      "nama_wilayah": "Dulanpokpok",
+      "kode_wilayah": "92.03.10.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.10"
+    },
+    {
+      "nama_wilayah": "Tanama",
+      "kode_wilayah": "92.03.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.10"
+    },
+    {
+      "nama_wilayah": "Kapaurtutin",
+      "kode_wilayah": "92.03.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.10"
+    },
+    {
+      "nama_wilayah": "Sekban",
+      "kode_wilayah": "92.03.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.10"
+    },
+    {
+      "nama_wilayah": "Torea",
+      "kode_wilayah": "92.03.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.10"
+    },
+    {
+      "nama_wilayah": "Sekru",
+      "kode_wilayah": "92.03.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.10"
+    },
+    {
+      "nama_wilayah": "Sukuru Tuare",
+      "kode_wilayah": "92.03.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.03",
+      "kode_kecamatan": "92.03.10"
+    }
+  ]
+}

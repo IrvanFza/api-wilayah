@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Mongkonai",
+      "kode_wilayah": "71.74.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.04"
+    },
+    {
+      "nama_wilayah": "Molinow",
+      "kode_wilayah": "71.74.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.04"
+    },
+    {
+      "nama_wilayah": "Mogolaing",
+      "kode_wilayah": "71.74.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.04"
+    },
+    {
+      "nama_wilayah": "Gogagoman",
+      "kode_wilayah": "71.74.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.04"
+    },
+    {
+      "nama_wilayah": "Kotamobagu",
+      "kode_wilayah": "71.74.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.04"
+    },
+    {
+      "nama_wilayah": "Mongkonai Barat",
+      "kode_wilayah": "71.74.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.04"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Mempawah Hilir",
+      "kode_wilayah": "61.02.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.02",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Toho",
+      "kode_wilayah": "61.02.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.02",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Sungai Pinyuh",
+      "kode_wilayah": "61.02.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.02",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Jongkat",
+      "kode_wilayah": "61.02.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.02",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Sungai Kunyit",
+      "kode_wilayah": "61.02.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.02",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Segedong",
+      "kode_wilayah": "61.02.15",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.02",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Anjongan",
+      "kode_wilayah": "61.02.16",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.02",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Sadaniang",
+      "kode_wilayah": "61.02.17",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.02",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Mempawah Timur",
+      "kode_wilayah": "61.02.18",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.02",
+      "kode_provinsi": "61"
+    }
+  ]
+}

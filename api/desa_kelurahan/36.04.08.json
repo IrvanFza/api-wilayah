@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Pulo Ampel",
+      "kode_wilayah": "36.04.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.08"
+    },
+    {
+      "nama_wilayah": "Sumuranja",
+      "kode_wilayah": "36.04.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.08"
+    },
+    {
+      "nama_wilayah": "Mangunreja",
+      "kode_wilayah": "36.04.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.08"
+    },
+    {
+      "nama_wilayah": "Kedungsoka",
+      "kode_wilayah": "36.04.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.08"
+    },
+    {
+      "nama_wilayah": "Salira",
+      "kode_wilayah": "36.04.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.08"
+    },
+    {
+      "nama_wilayah": "Argawana",
+      "kode_wilayah": "36.04.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.08"
+    },
+    {
+      "nama_wilayah": "Banyuwangi",
+      "kode_wilayah": "36.04.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.08"
+    },
+    {
+      "nama_wilayah": "Margasari",
+      "kode_wilayah": "36.04.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.08"
+    },
+    {
+      "nama_wilayah": "Pulo Panjang",
+      "kode_wilayah": "36.04.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.08"
+    }
+  ]
+}

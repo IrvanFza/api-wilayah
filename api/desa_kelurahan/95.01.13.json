@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Napua",
+      "kode_wilayah": "95.01.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.13"
+    },
+    {
+      "nama_wilayah": "Holima",
+      "kode_wilayah": "95.01.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.13"
+    },
+    {
+      "nama_wilayah": "Lani Matuan",
+      "kode_wilayah": "95.01.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.13"
+    },
+    {
+      "nama_wilayah": "Okilik",
+      "kode_wilayah": "95.01.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.13"
+    },
+    {
+      "nama_wilayah": "Healekma",
+      "kode_wilayah": "95.01.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.13"
+    },
+    {
+      "nama_wilayah": "Yelekama",
+      "kode_wilayah": "95.01.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.13"
+    },
+    {
+      "nama_wilayah": "Sapalek",
+      "kode_wilayah": "95.01.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.13"
+    },
+    {
+      "nama_wilayah": "Yomaima",
+      "kode_wilayah": "95.01.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.13"
+    },
+    {
+      "nama_wilayah": "Wilekama",
+      "kode_wilayah": "95.01.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.13"
+    }
+  ]
+}

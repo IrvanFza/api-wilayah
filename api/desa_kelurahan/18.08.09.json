@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lebak Peniangan",
+      "kode_wilayah": "18.08.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.08",
+      "kode_kecamatan": "18.08.09"
+    },
+    {
+      "nama_wilayah": "Tanjung Tiga",
+      "kode_wilayah": "18.08.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.08",
+      "kode_kecamatan": "18.08.09"
+    },
+    {
+      "nama_wilayah": "Madang Jaya",
+      "kode_wilayah": "18.08.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.08",
+      "kode_kecamatan": "18.08.09"
+    },
+    {
+      "nama_wilayah": "Air Ringkih",
+      "kode_wilayah": "18.08.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.08",
+      "kode_kecamatan": "18.08.09"
+    },
+    {
+      "nama_wilayah": "Gunung Sari",
+      "kode_wilayah": "18.08.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.08",
+      "kode_kecamatan": "18.08.09"
+    },
+    {
+      "nama_wilayah": "Simpang Tiga",
+      "kode_wilayah": "18.08.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.08",
+      "kode_kecamatan": "18.08.09"
+    },
+    {
+      "nama_wilayah": "Tanjung Raya",
+      "kode_wilayah": "18.08.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.08",
+      "kode_kecamatan": "18.08.09"
+    },
+    {
+      "nama_wilayah": "Beringin Jaya",
+      "kode_wilayah": "18.08.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.08",
+      "kode_kecamatan": "18.08.09"
+    },
+    {
+      "nama_wilayah": "Karya Maju",
+      "kode_wilayah": "18.08.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.08",
+      "kode_kecamatan": "18.08.09"
+    },
+    {
+      "nama_wilayah": "Mulya Jaya",
+      "kode_wilayah": "18.08.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.08",
+      "kode_kecamatan": "18.08.09"
+    }
+  ]
+}

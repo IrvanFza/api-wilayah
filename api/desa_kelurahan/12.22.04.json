@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Langga Payung",
+      "kode_wilayah": "12.22.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.22",
+      "kode_kecamatan": "12.22.04"
+    },
+    {
+      "nama_wilayah": "Batang Nadenggan",
+      "kode_wilayah": "12.22.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.22",
+      "kode_kecamatan": "12.22.04"
+    },
+    {
+      "nama_wilayah": "Sabungan",
+      "kode_wilayah": "12.22.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.22",
+      "kode_kecamatan": "12.22.04"
+    },
+    {
+      "nama_wilayah": "Hajoran",
+      "kode_wilayah": "12.22.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.22",
+      "kode_kecamatan": "12.22.04"
+    },
+    {
+      "nama_wilayah": "Ujung Gading",
+      "kode_wilayah": "12.22.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.22",
+      "kode_kecamatan": "12.22.04"
+    },
+    {
+      "nama_wilayah": "Huta Godang",
+      "kode_wilayah": "12.22.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.22",
+      "kode_kecamatan": "12.22.04"
+    },
+    {
+      "nama_wilayah": "Parimburan",
+      "kode_wilayah": "12.22.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.22",
+      "kode_kecamatan": "12.22.04"
+    },
+    {
+      "nama_wilayah": "Sampean",
+      "kode_wilayah": "12.22.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.22",
+      "kode_kecamatan": "12.22.04"
+    },
+    {
+      "nama_wilayah": "Marsonja",
+      "kode_wilayah": "12.22.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.22",
+      "kode_kecamatan": "12.22.04"
+    }
+  ]
+}

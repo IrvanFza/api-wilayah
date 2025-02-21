@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Bogor",
+      "kode_wilayah": "32.12.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.24"
+    },
+    {
+      "nama_wilayah": "Sukra",
+      "kode_wilayah": "32.12.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.24"
+    },
+    {
+      "nama_wilayah": "Ujunggebang",
+      "kode_wilayah": "32.12.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.24"
+    },
+    {
+      "nama_wilayah": "Tegaltaman",
+      "kode_wilayah": "32.12.24.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.24"
+    },
+    {
+      "nama_wilayah": "Sukra Wetan",
+      "kode_wilayah": "32.12.24.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.24"
+    },
+    {
+      "nama_wilayah": "Sumuradem",
+      "kode_wilayah": "32.12.24.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.24"
+    },
+    {
+      "nama_wilayah": "Sumuradem Timur",
+      "kode_wilayah": "32.12.24.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.24"
+    },
+    {
+      "nama_wilayah": "Karanglayung",
+      "kode_wilayah": "32.12.24.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.12",
+      "kode_kecamatan": "32.12.24"
+    }
+  ]
+}

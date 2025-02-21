@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Metto",
+      "kode_wilayah": "93.02.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.19"
+    },
+    {
+      "nama_wilayah": "Obinangge",
+      "kode_wilayah": "93.02.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.19"
+    },
+    {
+      "nama_wilayah": "Watemu",
+      "kode_wilayah": "93.02.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.19"
+    },
+    {
+      "nama_wilayah": "Ujungkia",
+      "kode_wilayah": "93.02.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.02",
+      "kode_kecamatan": "93.02.19"
+    }
+  ]
+}

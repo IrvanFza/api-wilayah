@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Jawai Laut",
+      "kode_wilayah": "61.01.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.16"
+    },
+    {
+      "nama_wilayah": "Jelu Air",
+      "kode_wilayah": "61.01.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.16"
+    },
+    {
+      "nama_wilayah": "Matang Terap",
+      "kode_wilayah": "61.01.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.16"
+    },
+    {
+      "nama_wilayah": "Suah Api",
+      "kode_wilayah": "61.01.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.16"
+    },
+    {
+      "nama_wilayah": "Sarilaba A",
+      "kode_wilayah": "61.01.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.16"
+    },
+    {
+      "nama_wilayah": "Sarilaba B",
+      "kode_wilayah": "61.01.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.16"
+    },
+    {
+      "nama_wilayah": "Semperiuk A",
+      "kode_wilayah": "61.01.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.16"
+    },
+    {
+      "nama_wilayah": "Semperiuk B",
+      "kode_wilayah": "61.01.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.16"
+    },
+    {
+      "nama_wilayah": "Sabaran",
+      "kode_wilayah": "61.01.16.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.16"
+    }
+  ]
+}

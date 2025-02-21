@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tima",
+      "kode_wilayah": "95.07.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.07"
+    },
+    {
+      "nama_wilayah": "Balime",
+      "kode_wilayah": "95.07.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.07"
+    },
+    {
+      "nama_wilayah": "Balingga",
+      "kode_wilayah": "95.07.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.07"
+    },
+    {
+      "nama_wilayah": "Gume",
+      "kode_wilayah": "95.07.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.07"
+    },
+    {
+      "nama_wilayah": "Timonikime",
+      "kode_wilayah": "95.07.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.07"
+    },
+    {
+      "nama_wilayah": "Binolanggen",
+      "kode_wilayah": "95.07.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.07"
+    },
+    {
+      "nama_wilayah": "Dewaka",
+      "kode_wilayah": "95.07.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.07"
+    },
+    {
+      "nama_wilayah": "Yialo",
+      "kode_wilayah": "95.07.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.07"
+    },
+    {
+      "nama_wilayah": "Towewak",
+      "kode_wilayah": "95.07.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.07"
+    },
+    {
+      "nama_wilayah": "Yumaneri",
+      "kode_wilayah": "95.07.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.07"
+    }
+  ]
+}

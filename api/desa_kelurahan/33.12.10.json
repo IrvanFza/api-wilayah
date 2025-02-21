@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pagutan",
+      "kode_wilayah": "33.12.10.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.10"
+    },
+    {
+      "nama_wilayah": "Punduhsari",
+      "kode_wilayah": "33.12.10.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.10"
+    },
+    {
+      "nama_wilayah": "Kepuhsari",
+      "kode_wilayah": "33.12.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.10"
+    },
+    {
+      "nama_wilayah": "Pijiharjo",
+      "kode_wilayah": "33.12.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.10"
+    },
+    {
+      "nama_wilayah": "Bero",
+      "kode_wilayah": "33.12.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.10"
+    },
+    {
+      "nama_wilayah": "Gunungan",
+      "kode_wilayah": "33.12.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.10"
+    },
+    {
+      "nama_wilayah": "Karanglor",
+      "kode_wilayah": "33.12.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.10"
+    }
+  ]
+}

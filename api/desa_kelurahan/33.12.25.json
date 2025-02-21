@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Giriharjo",
+      "kode_wilayah": "33.12.25.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.25"
+    },
+    {
+      "nama_wilayah": "Puhpelem",
+      "kode_wilayah": "33.12.25.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.25"
+    },
+    {
+      "nama_wilayah": "Nguneng",
+      "kode_wilayah": "33.12.25.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.25"
+    },
+    {
+      "nama_wilayah": "Sukorejo",
+      "kode_wilayah": "33.12.25.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.25"
+    },
+    {
+      "nama_wilayah": "Tengger",
+      "kode_wilayah": "33.12.25.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.25"
+    },
+    {
+      "nama_wilayah": "Golo",
+      "kode_wilayah": "33.12.25.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.12",
+      "kode_kecamatan": "33.12.25"
+    }
+  ]
+}

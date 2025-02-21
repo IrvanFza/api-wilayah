@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Seuseupan",
+      "kode_wilayah": "36.01.29.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.29"
+    },
+    {
+      "nama_wilayah": "Karyasari",
+      "kode_wilayah": "36.01.29.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.29"
+    },
+    {
+      "nama_wilayah": "Perdana",
+      "kode_wilayah": "36.01.29.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.29"
+    },
+    {
+      "nama_wilayah": "Sukaresmi",
+      "kode_wilayah": "36.01.29.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.29"
+    },
+    {
+      "nama_wilayah": "Pasirkadu",
+      "kode_wilayah": "36.01.29.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.29"
+    },
+    {
+      "nama_wilayah": "Kubangkampil",
+      "kode_wilayah": "36.01.29.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.29"
+    },
+    {
+      "nama_wilayah": "Sidamukti",
+      "kode_wilayah": "36.01.29.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.29"
+    },
+    {
+      "nama_wilayah": "Cibungur",
+      "kode_wilayah": "36.01.29.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.29"
+    },
+    {
+      "nama_wilayah": "Weru",
+      "kode_wilayah": "36.01.29.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.29"
+    },
+    {
+      "nama_wilayah": "Cikuya",
+      "kode_wilayah": "36.01.29.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.29"
+    }
+  ]
+}

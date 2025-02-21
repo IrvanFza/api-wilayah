@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sukaringin",
+      "kode_wilayah": "32.16.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.03"
+    },
+    {
+      "nama_wilayah": "Sukabudi",
+      "kode_wilayah": "32.16.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.03"
+    },
+    {
+      "nama_wilayah": "Sukadaya",
+      "kode_wilayah": "32.16.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.03"
+    },
+    {
+      "nama_wilayah": "Sukawangi",
+      "kode_wilayah": "32.16.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.03"
+    },
+    {
+      "nama_wilayah": "Sukakerta",
+      "kode_wilayah": "32.16.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.03"
+    },
+    {
+      "nama_wilayah": "Sukatenang",
+      "kode_wilayah": "32.16.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.03"
+    },
+    {
+      "nama_wilayah": "Sukamekar",
+      "kode_wilayah": "32.16.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.03"
+    }
+  ]
+}

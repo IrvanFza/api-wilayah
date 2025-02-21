@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Boeara",
+      "kode_wilayah": "74.06.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.01"
+    },
+    {
+      "nama_wilayah": "Kastarib",
+      "kode_wilayah": "74.06.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.01"
+    },
+    {
+      "nama_wilayah": "Boepinang",
+      "kode_wilayah": "74.06.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.01"
+    },
+    {
+      "nama_wilayah": "Boepinang Barat",
+      "kode_wilayah": "74.06.01.1015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.01"
+    },
+    {
+      "nama_wilayah": "Barangka",
+      "kode_wilayah": "74.06.01.1016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.01"
+    },
+    {
+      "nama_wilayah": "Kasabolo",
+      "kode_wilayah": "74.06.01.1017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.01"
+    },
+    {
+      "nama_wilayah": "Pokohrumba",
+      "kode_wilayah": "74.06.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.01"
+    },
+    {
+      "nama_wilayah": "Pallimae",
+      "kode_wilayah": "74.06.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.01"
+    },
+    {
+      "nama_wilayah": "Salosa",
+      "kode_wilayah": "74.06.01.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.01"
+    },
+    {
+      "nama_wilayah": "Matiro Walie",
+      "kode_wilayah": "74.06.01.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.01"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Satriajaya",
+      "kode_wilayah": "32.16.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.05"
+    },
+    {
+      "nama_wilayah": "Jejalenjaya",
+      "kode_wilayah": "32.16.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.05"
+    },
+    {
+      "nama_wilayah": "Satriamekar",
+      "kode_wilayah": "32.16.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.05"
+    },
+    {
+      "nama_wilayah": "Sriamur",
+      "kode_wilayah": "32.16.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.05"
+    },
+    {
+      "nama_wilayah": "Srimukti",
+      "kode_wilayah": "32.16.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.05"
+    },
+    {
+      "nama_wilayah": "Srijaya",
+      "kode_wilayah": "32.16.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.05"
+    },
+    {
+      "nama_wilayah": "Srimahi",
+      "kode_wilayah": "32.16.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.05"
+    },
+    {
+      "nama_wilayah": "Karangsatria",
+      "kode_wilayah": "32.16.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.16",
+      "kode_kecamatan": "32.16.05"
+    }
+  ]
+}

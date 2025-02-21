@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Abidon",
+      "kode_wilayah": "96.03.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.23"
+    },
+    {
+      "nama_wilayah": "Rutum",
+      "kode_wilayah": "96.03.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.23"
+    },
+    {
+      "nama_wilayah": "Meosbekwan",
+      "kode_wilayah": "96.03.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.23"
+    },
+    {
+      "nama_wilayah": "Reni",
+      "kode_wilayah": "96.03.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.23"
+    }
+  ]
+}

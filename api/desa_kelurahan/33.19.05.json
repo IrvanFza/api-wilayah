@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Gulang",
+      "kode_wilayah": "33.19.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.05"
+    },
+    {
+      "nama_wilayah": "Jepang",
+      "kode_wilayah": "33.19.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.05"
+    },
+    {
+      "nama_wilayah": "Payaman",
+      "kode_wilayah": "33.19.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.05"
+    },
+    {
+      "nama_wilayah": "Kirig",
+      "kode_wilayah": "33.19.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.05"
+    },
+    {
+      "nama_wilayah": "Temulus",
+      "kode_wilayah": "33.19.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.05"
+    },
+    {
+      "nama_wilayah": "Kesambi",
+      "kode_wilayah": "33.19.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.05"
+    },
+    {
+      "nama_wilayah": "Jojo",
+      "kode_wilayah": "33.19.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.05"
+    },
+    {
+      "nama_wilayah": "Hadiwarno",
+      "kode_wilayah": "33.19.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.05"
+    },
+    {
+      "nama_wilayah": "Mejobo",
+      "kode_wilayah": "33.19.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.05"
+    },
+    {
+      "nama_wilayah": "Golantepus",
+      "kode_wilayah": "33.19.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.05"
+    },
+    {
+      "nama_wilayah": "Tenggeles",
+      "kode_wilayah": "33.19.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.19",
+      "kode_kecamatan": "33.19.05"
+    }
+  ]
+}

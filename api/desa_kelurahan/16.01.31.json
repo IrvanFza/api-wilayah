@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kemala Jaya",
+      "kode_wilayah": "16.01.31.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.31"
+    },
+    {
+      "nama_wilayah": "Lontar",
+      "kode_wilayah": "16.01.31.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.31"
+    },
+    {
+      "nama_wilayah": "Muara Saeh",
+      "kode_wilayah": "16.01.31.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.31"
+    },
+    {
+      "nama_wilayah": "Lubuk Tupak",
+      "kode_wilayah": "16.01.31.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.31"
+    },
+    {
+      "nama_wilayah": "Beringin",
+      "kode_wilayah": "16.01.31.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.31"
+    },
+    {
+      "nama_wilayah": "Surau",
+      "kode_wilayah": "16.01.31.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.31"
+    },
+    {
+      "nama_wilayah": "Karang Lantang",
+      "kode_wilayah": "16.01.31.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.31"
+    }
+  ]
+}

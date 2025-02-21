@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Hilipuk",
+      "kode_wilayah": "95.03.47.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.47"
+    },
+    {
+      "nama_wilayah": "Homidipmu",
+      "kode_wilayah": "95.03.47.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.47"
+    },
+    {
+      "nama_wilayah": "Kini",
+      "kode_wilayah": "95.03.47.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.47"
+    },
+    {
+      "nama_wilayah": "Yaruhuk",
+      "kode_wilayah": "95.03.47.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.47"
+    },
+    {
+      "nama_wilayah": "Jamin",
+      "kode_wilayah": "95.03.47.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.47"
+    },
+    {
+      "nama_wilayah": "Dindok",
+      "kode_wilayah": "95.03.47.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.47"
+    },
+    {
+      "nama_wilayah": "Sohondipmu",
+      "kode_wilayah": "95.03.47.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.47"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Landia",
+      "kode_wilayah": "13.06.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.05"
+    },
+    {
+      "nama_wilayah": "Balingka",
+      "kode_wilayah": "13.06.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.05"
+    },
+    {
+      "nama_wilayah": "Koto Tuo",
+      "kode_wilayah": "13.06.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.05"
+    },
+    {
+      "nama_wilayah": "Guguak Tabek Sarojo",
+      "kode_wilayah": "13.06.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.05"
+    },
+    {
+      "nama_wilayah": "Koto Panjang",
+      "kode_wilayah": "13.06.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.05"
+    },
+    {
+      "nama_wilayah": "Sianok Anam Suku",
+      "kode_wilayah": "13.06.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.05"
+    },
+    {
+      "nama_wilayah": "Koto Gadang",
+      "kode_wilayah": "13.06.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.05"
+    }
+  ]
+}

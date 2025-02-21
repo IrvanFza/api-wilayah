@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Pompengan",
+      "kode_wilayah": "73.17.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.18"
+    },
+    {
+      "nama_wilayah": "Bulolondong",
+      "kode_wilayah": "73.17.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.18"
+    },
+    {
+      "nama_wilayah": "Pompengan pantai",
+      "kode_wilayah": "73.17.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.18"
+    },
+    {
+      "nama_wilayah": "Seriti",
+      "kode_wilayah": "73.17.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.18"
+    },
+    {
+      "nama_wilayah": "Salupao",
+      "kode_wilayah": "73.17.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.18"
+    },
+    {
+      "nama_wilayah": "To-lemo",
+      "kode_wilayah": "73.17.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.18"
+    },
+    {
+      "nama_wilayah": "Pelalan",
+      "kode_wilayah": "73.17.18.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.18"
+    },
+    {
+      "nama_wilayah": "Pompengan Tengah",
+      "kode_wilayah": "73.17.18.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.18"
+    },
+    {
+      "nama_wilayah": "Pompengan Utara",
+      "kode_wilayah": "73.17.18.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.18"
+    }
+  ]
+}

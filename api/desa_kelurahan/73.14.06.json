@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Rijang Panua",
+      "kode_wilayah": "73.14.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.06"
+    },
+    {
+      "nama_wilayah": "Kulo",
+      "kode_wilayah": "73.14.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.06"
+    },
+    {
+      "nama_wilayah": "Maddenra",
+      "kode_wilayah": "73.14.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.06"
+    },
+    {
+      "nama_wilayah": "Mario",
+      "kode_wilayah": "73.14.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.06"
+    },
+    {
+      "nama_wilayah": "Bina Baru",
+      "kode_wilayah": "73.14.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.06"
+    },
+    {
+      "nama_wilayah": "Abbokongang",
+      "kode_wilayah": "73.14.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.06"
+    }
+  ]
+}

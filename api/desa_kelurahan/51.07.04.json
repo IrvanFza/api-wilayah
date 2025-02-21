@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Subagan",
+      "kode_wilayah": "51.07.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.04"
+    },
+    {
+      "nama_wilayah": "Padangkerta",
+      "kode_wilayah": "51.07.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.04"
+    },
+    {
+      "nama_wilayah": "Karangasem",
+      "kode_wilayah": "51.07.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.04"
+    },
+    {
+      "nama_wilayah": "Bugbug",
+      "kode_wilayah": "51.07.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.04"
+    },
+    {
+      "nama_wilayah": "Tumbu",
+      "kode_wilayah": "51.07.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.04"
+    },
+    {
+      "nama_wilayah": "Seraya",
+      "kode_wilayah": "51.07.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.04"
+    },
+    {
+      "nama_wilayah": "Seraya Barat",
+      "kode_wilayah": "51.07.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.04"
+    },
+    {
+      "nama_wilayah": "Seraya Timur",
+      "kode_wilayah": "51.07.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.04"
+    },
+    {
+      "nama_wilayah": "Pertima",
+      "kode_wilayah": "51.07.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.04"
+    },
+    {
+      "nama_wilayah": "Tegalinggah",
+      "kode_wilayah": "51.07.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.04"
+    },
+    {
+      "nama_wilayah": "Bukit",
+      "kode_wilayah": "51.07.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.04"
+    }
+  ]
+}

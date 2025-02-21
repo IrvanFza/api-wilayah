@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Batu Panco",
+      "kode_wilayah": "17.01.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.09"
+    },
+    {
+      "nama_wilayah": "Batu Kuning",
+      "kode_wilayah": "17.01.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.09"
+    },
+    {
+      "nama_wilayah": "Bandar Agung",
+      "kode_wilayah": "17.01.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.09"
+    },
+    {
+      "nama_wilayah": "Merambung",
+      "kode_wilayah": "17.01.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.09"
+    },
+    {
+      "nama_wilayah": "Simpang Pino",
+      "kode_wilayah": "17.01.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.09"
+    },
+    {
+      "nama_wilayah": "Talang Tinggi",
+      "kode_wilayah": "17.01.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.09"
+    },
+    {
+      "nama_wilayah": "Keban Jati",
+      "kode_wilayah": "17.01.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.09"
+    },
+    {
+      "nama_wilayah": "Lubuk Tapi",
+      "kode_wilayah": "17.01.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.09"
+    },
+    {
+      "nama_wilayah": "Kayu Ajaran",
+      "kode_wilayah": "17.01.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.09"
+    },
+    {
+      "nama_wilayah": "Air Tenam",
+      "kode_wilayah": "17.01.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "17",
+      "kode_kabkota": "17.01",
+      "kode_kecamatan": "17.01.09"
+    }
+  ]
+}

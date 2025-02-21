@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Ukha",
+      "kode_wilayah": "95.03.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.19"
+    },
+    {
+      "nama_wilayah": "Kuleken",
+      "kode_wilayah": "95.03.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.19"
+    },
+    {
+      "nama_wilayah": "Amisangi",
+      "kode_wilayah": "95.03.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.19"
+    },
+    {
+      "nama_wilayah": "Wenapuk",
+      "kode_wilayah": "95.03.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.19"
+    },
+    {
+      "nama_wilayah": "Eki",
+      "kode_wilayah": "95.03.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.19"
+    },
+    {
+      "nama_wilayah": "Yelepunu",
+      "kode_wilayah": "95.03.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.19"
+    },
+    {
+      "nama_wilayah": "Siolorema",
+      "kode_wilayah": "95.03.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.19"
+    },
+    {
+      "nama_wilayah": "Musanarek",
+      "kode_wilayah": "95.03.19.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.19"
+    },
+    {
+      "nama_wilayah": "Walialema",
+      "kode_wilayah": "95.03.19.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.19"
+    },
+    {
+      "nama_wilayah": "Lua",
+      "kode_wilayah": "95.03.19.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.19"
+    }
+  ]
+}

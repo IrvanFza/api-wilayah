@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Fatukanutu",
+      "kode_wilayah": "53.01.25.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.25"
+    },
+    {
+      "nama_wilayah": "Kairane",
+      "kode_wilayah": "53.01.25.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.25"
+    },
+    {
+      "nama_wilayah": "Raknamo",
+      "kode_wilayah": "53.01.25.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.25"
+    },
+    {
+      "nama_wilayah": "Kuanheum",
+      "kode_wilayah": "53.01.25.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.25"
+    },
+    {
+      "nama_wilayah": "Fatuteta",
+      "kode_wilayah": "53.01.25.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.25"
+    },
+    {
+      "nama_wilayah": "Oefeto",
+      "kode_wilayah": "53.01.25.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.25"
+    },
+    {
+      "nama_wilayah": "Niunbaun",
+      "kode_wilayah": "53.01.25.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.25"
+    }
+  ]
+}

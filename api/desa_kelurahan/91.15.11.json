@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Botawa",
+      "kode_wilayah": "91.15.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.11"
+    },
+    {
+      "nama_wilayah": "Sowiwa",
+      "kode_wilayah": "91.15.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.11"
+    },
+    {
+      "nama_wilayah": "Baino Jaya",
+      "kode_wilayah": "91.15.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.11"
+    },
+    {
+      "nama_wilayah": "Nau",
+      "kode_wilayah": "91.15.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.11"
+    },
+    {
+      "nama_wilayah": "Rasawa",
+      "kode_wilayah": "91.15.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.11"
+    },
+    {
+      "nama_wilayah": "Ruambak Jaya",
+      "kode_wilayah": "91.15.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.11"
+    },
+    {
+      "nama_wilayah": "Moroa",
+      "kode_wilayah": "91.15.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.11"
+    },
+    {
+      "nama_wilayah": "Oiboa",
+      "kode_wilayah": "91.15.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.11"
+    }
+  ]
+}

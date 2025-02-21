@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Samurangau",
+      "kode_wilayah": "64.01.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.01",
+      "kode_kecamatan": "64.01.01"
+    },
+    {
+      "nama_wilayah": "Busui",
+      "kode_wilayah": "64.01.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.01",
+      "kode_kecamatan": "64.01.01"
+    },
+    {
+      "nama_wilayah": "Batu Kajang",
+      "kode_wilayah": "64.01.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.01",
+      "kode_kecamatan": "64.01.01"
+    },
+    {
+      "nama_wilayah": "Legai",
+      "kode_wilayah": "64.01.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.01",
+      "kode_kecamatan": "64.01.01"
+    },
+    {
+      "nama_wilayah": "Sungai Terik",
+      "kode_wilayah": "64.01.01.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.01",
+      "kode_kecamatan": "64.01.01"
+    },
+    {
+      "nama_wilayah": "Kasungai",
+      "kode_wilayah": "64.01.01.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.01",
+      "kode_kecamatan": "64.01.01"
+    },
+    {
+      "nama_wilayah": "Rantau Buta",
+      "kode_wilayah": "64.01.01.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.01",
+      "kode_kecamatan": "64.01.01"
+    },
+    {
+      "nama_wilayah": "Rantau Layung",
+      "kode_wilayah": "64.01.01.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.01",
+      "kode_kecamatan": "64.01.01"
+    },
+    {
+      "nama_wilayah": "Songka",
+      "kode_wilayah": "64.01.01.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.01",
+      "kode_kecamatan": "64.01.01"
+    }
+  ]
+}

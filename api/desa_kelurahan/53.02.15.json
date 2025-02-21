@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sabun",
+      "kode_wilayah": "53.02.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.15"
+    },
+    {
+      "nama_wilayah": "Nano",
+      "kode_wilayah": "53.02.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.15"
+    },
+    {
+      "nama_wilayah": "Boking",
+      "kode_wilayah": "53.02.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.15"
+    },
+    {
+      "nama_wilayah": "Baus",
+      "kode_wilayah": "53.02.15.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.15"
+    },
+    {
+      "nama_wilayah": "Meusin",
+      "kode_wilayah": "53.02.15.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.15"
+    },
+    {
+      "nama_wilayah": "Leonmeni",
+      "kode_wilayah": "53.02.15.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.15"
+    },
+    {
+      "nama_wilayah": "Fatu Manufui",
+      "kode_wilayah": "53.02.15.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.15"
+    }
+  ]
+}

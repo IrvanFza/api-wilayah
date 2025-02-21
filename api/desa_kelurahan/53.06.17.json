@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sagu",
+      "kode_wilayah": "53.06.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.17"
+    },
+    {
+      "nama_wilayah": "Kolimasang",
+      "kode_wilayah": "53.06.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.17"
+    },
+    {
+      "nama_wilayah": "Kolilanang",
+      "kode_wilayah": "53.06.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.17"
+    },
+    {
+      "nama_wilayah": "Tikatukan",
+      "kode_wilayah": "53.06.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.17"
+    },
+    {
+      "nama_wilayah": "Nisa Nulan",
+      "kode_wilayah": "53.06.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.17"
+    },
+    {
+      "nama_wilayah": "Lamahoda",
+      "kode_wilayah": "53.06.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.17"
+    },
+    {
+      "nama_wilayah": "Adonara",
+      "kode_wilayah": "53.06.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.17"
+    },
+    {
+      "nama_wilayah": "Kolipetung",
+      "kode_wilayah": "53.06.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.06",
+      "kode_kecamatan": "53.06.17"
+    }
+  ]
+}

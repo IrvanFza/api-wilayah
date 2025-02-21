@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Jagakarsa",
+      "kode_wilayah": "31.74.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.09"
+    },
+    {
+      "nama_wilayah": "Srengseng Sawah",
+      "kode_wilayah": "31.74.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.09"
+    },
+    {
+      "nama_wilayah": "Ciganjur",
+      "kode_wilayah": "31.74.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.09"
+    },
+    {
+      "nama_wilayah": "Lenteng Agung",
+      "kode_wilayah": "31.74.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.09"
+    },
+    {
+      "nama_wilayah": "Tanjung Barat",
+      "kode_wilayah": "31.74.09.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.09"
+    },
+    {
+      "nama_wilayah": "Cipedak",
+      "kode_wilayah": "31.74.09.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.09"
+    }
+  ]
+}

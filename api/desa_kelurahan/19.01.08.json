@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Puding Besar",
+      "kode_wilayah": "19.01.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.08"
+    },
+    {
+      "nama_wilayah": "Labu",
+      "kode_wilayah": "19.01.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.08"
+    },
+    {
+      "nama_wilayah": "Nibung",
+      "kode_wilayah": "19.01.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.08"
+    },
+    {
+      "nama_wilayah": "Tanah Bawah",
+      "kode_wilayah": "19.01.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.08"
+    },
+    {
+      "nama_wilayah": "Saing",
+      "kode_wilayah": "19.01.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.08"
+    },
+    {
+      "nama_wilayah": "Kota Waringin",
+      "kode_wilayah": "19.01.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.08"
+    },
+    {
+      "nama_wilayah": "Kayu Besi",
+      "kode_wilayah": "19.01.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.08"
+    }
+  ]
+}

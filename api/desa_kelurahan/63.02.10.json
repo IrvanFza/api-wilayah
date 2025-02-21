@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Hanyar",
+      "kode_wilayah": "63.02.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.10"
+    },
+    {
+      "nama_wilayah": "Sungai Seluang",
+      "kode_wilayah": "63.02.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.10"
+    },
+    {
+      "nama_wilayah": "Pudi",
+      "kode_wilayah": "63.02.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.10"
+    },
+    {
+      "nama_wilayah": "Mangga",
+      "kode_wilayah": "63.02.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.10"
+    },
+    {
+      "nama_wilayah": "Wilas",
+      "kode_wilayah": "63.02.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.10"
+    },
+    {
+      "nama_wilayah": "Pudi Seberang",
+      "kode_wilayah": "63.02.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.10"
+    },
+    {
+      "nama_wilayah": "Sulangkit",
+      "kode_wilayah": "63.02.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.10"
+    }
+  ]
+}

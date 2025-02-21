@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Lubuk Basung",
+      "kode_wilayah": "13.06.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.02"
+    },
+    {
+      "nama_wilayah": "Garagahan",
+      "kode_wilayah": "13.06.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.02"
+    },
+    {
+      "nama_wilayah": "Kampung Pinang",
+      "kode_wilayah": "13.06.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.02"
+    },
+    {
+      "nama_wilayah": "Kampung Tangah",
+      "kode_wilayah": "13.06.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.02"
+    },
+    {
+      "nama_wilayah": "Manggopoh",
+      "kode_wilayah": "13.06.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.06",
+      "kode_kecamatan": "13.06.02"
+    }
+  ]
+}

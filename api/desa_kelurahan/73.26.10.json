@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tagari",
+      "kode_wilayah": "73.26.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.10"
+    },
+    {
+      "nama_wilayah": "Balusu",
+      "kode_wilayah": "73.26.10.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.10"
+    },
+    {
+      "nama_wilayah": "Palangi-",
+      "kode_wilayah": "73.26.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.10"
+    },
+    {
+      "nama_wilayah": "Lilikira Ao-gading",
+      "kode_wilayah": "73.26.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.10"
+    },
+    {
+      "nama_wilayah": "Karua",
+      "kode_wilayah": "73.26.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.10"
+    },
+    {
+      "nama_wilayah": "Awa- Kawasik",
+      "kode_wilayah": "73.26.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.10"
+    },
+    {
+      "nama_wilayah": "Balusu Bangunlipu",
+      "kode_wilayah": "73.26.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.10"
+    }
+  ]
+}

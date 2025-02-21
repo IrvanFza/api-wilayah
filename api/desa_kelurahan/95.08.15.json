@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Alama",
+      "kode_wilayah": "95.08.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.15"
+    },
+    {
+      "nama_wilayah": "Nolit",
+      "kode_wilayah": "95.08.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.15"
+    },
+    {
+      "nama_wilayah": "Gin",
+      "kode_wilayah": "95.08.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.15"
+    },
+    {
+      "nama_wilayah": "Kulesa",
+      "kode_wilayah": "95.08.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.15"
+    }
+  ]
+}

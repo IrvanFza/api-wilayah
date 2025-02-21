@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Manggis",
+      "kode_wilayah": "15.08.11.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.11"
+    },
+    {
+      "nama_wilayah": "Bungo Taman Agung",
+      "kode_wilayah": "15.08.11.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.11"
+    },
+    {
+      "nama_wilayah": "Sungai Binjai",
+      "kode_wilayah": "15.08.11.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.11"
+    },
+    {
+      "nama_wilayah": "Lubuk Benteng",
+      "kode_wilayah": "15.08.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.11"
+    },
+    {
+      "nama_wilayah": "Air Gemuruh",
+      "kode_wilayah": "15.08.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.11"
+    },
+    {
+      "nama_wilayah": "Purwo Bakti",
+      "kode_wilayah": "15.08.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.11"
+    },
+    {
+      "nama_wilayah": "Sarana Jaya",
+      "kode_wilayah": "15.08.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.11"
+    },
+    {
+      "nama_wilayah": "Teluk Panjang",
+      "kode_wilayah": "15.08.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.11"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Dana",
+      "kode_wilayah": "74.03.19.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.19"
+    },
+    {
+      "nama_wilayah": "Wali",
+      "kode_wilayah": "74.03.19.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.19"
+    },
+    {
+      "nama_wilayah": "Lakapodo",
+      "kode_wilayah": "74.03.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.19"
+    },
+    {
+      "nama_wilayah": "Wakadia",
+      "kode_wilayah": "74.03.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.19"
+    },
+    {
+      "nama_wilayah": "Matarawa",
+      "kode_wilayah": "74.03.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.19"
+    },
+    {
+      "nama_wilayah": "Bhangkali Barat",
+      "kode_wilayah": "74.03.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.19"
+    },
+    {
+      "nama_wilayah": "Bangkali",
+      "kode_wilayah": "74.03.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.19"
+    },
+    {
+      "nama_wilayah": "Labaha",
+      "kode_wilayah": "74.03.19.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.03",
+      "kode_kecamatan": "74.03.19"
+    }
+  ]
+}

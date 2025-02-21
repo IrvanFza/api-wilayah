@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kajai",
+      "kode_wilayah": "13.12.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.04"
+    },
+    {
+      "nama_wilayah": "Talu",
+      "kode_wilayah": "13.12.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.04"
+    },
+    {
+      "nama_wilayah": "Sinuruik",
+      "kode_wilayah": "13.12.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.04"
+    },
+    {
+      "nama_wilayah": "Simpang Timbo Abu Kajai",
+      "kode_wilayah": "13.12.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.04"
+    },
+    {
+      "nama_wilayah": "Kajai Selatan",
+      "kode_wilayah": "13.12.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.04"
+    },
+    {
+      "nama_wilayah": "Sungai Janiah Talu",
+      "kode_wilayah": "13.12.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.04"
+    },
+    {
+      "nama_wilayah": "Tabek Sirah Talu",
+      "kode_wilayah": "13.12.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.12",
+      "kode_kecamatan": "13.12.04"
+    }
+  ]
+}

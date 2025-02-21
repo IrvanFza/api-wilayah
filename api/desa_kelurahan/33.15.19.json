@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Ringinpitu",
+      "kode_wilayah": "33.15.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.19"
+    },
+    {
+      "nama_wilayah": "Ngambakrejo",
+      "kode_wilayah": "33.15.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.19"
+    },
+    {
+      "nama_wilayah": "Kapung",
+      "kode_wilayah": "33.15.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.19"
+    },
+    {
+      "nama_wilayah": "Mrisi",
+      "kode_wilayah": "33.15.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.19"
+    },
+    {
+      "nama_wilayah": "Kaliwenang",
+      "kode_wilayah": "33.15.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.19"
+    },
+    {
+      "nama_wilayah": "Sugihmanik",
+      "kode_wilayah": "33.15.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.19"
+    },
+    {
+      "nama_wilayah": "Tanggungharjo",
+      "kode_wilayah": "33.15.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.19"
+    },
+    {
+      "nama_wilayah": "Brabo",
+      "kode_wilayah": "33.15.19.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.19"
+    },
+    {
+      "nama_wilayah": "Padang",
+      "kode_wilayah": "33.15.19.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.15",
+      "kode_kecamatan": "33.15.19"
+    }
+  ]
+}

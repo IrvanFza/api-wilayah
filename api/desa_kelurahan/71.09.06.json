@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Bulangan",
+      "kode_wilayah": "71.09.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.09",
+      "kode_kecamatan": "71.09.06"
+    },
+    {
+      "nama_wilayah": "Minanga",
+      "kode_wilayah": "71.09.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.09",
+      "kode_kecamatan": "71.09.06"
+    },
+    {
+      "nama_wilayah": "Wo",
+      "kode_wilayah": "71.09.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.09",
+      "kode_kecamatan": "71.09.06"
+    },
+    {
+      "nama_wilayah": "Bawoleu",
+      "kode_wilayah": "71.09.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.09",
+      "kode_kecamatan": "71.09.06"
+    },
+    {
+      "nama_wilayah": "Lumbo",
+      "kode_wilayah": "71.09.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.09",
+      "kode_kecamatan": "71.09.06"
+    },
+    {
+      "nama_wilayah": "Bawo",
+      "kode_wilayah": "71.09.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.09",
+      "kode_kecamatan": "71.09.06"
+    }
+  ]
+}

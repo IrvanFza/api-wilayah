@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Batu Banyak",
+      "kode_wilayah": "13.02.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.06"
+    },
+    {
+      "nama_wilayah": "Batu Bajanjang",
+      "kode_wilayah": "13.02.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.06"
+    },
+    {
+      "nama_wilayah": "Koto Laweh",
+      "kode_wilayah": "13.02.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.06"
+    },
+    {
+      "nama_wilayah": "Limau Lunggo",
+      "kode_wilayah": "13.02.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.06"
+    },
+    {
+      "nama_wilayah": "Koto Gadang Koto Anau",
+      "kode_wilayah": "13.02.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.06"
+    },
+    {
+      "nama_wilayah": "Selayo Tanang B. Sileh",
+      "kode_wilayah": "13.02.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.06"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tanah Garam",
+      "kode_wilayah": "13.72.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.72",
+      "kode_kecamatan": "13.72.01"
+    },
+    {
+      "nama_wilayah": "VI Suku",
+      "kode_wilayah": "13.72.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.72",
+      "kode_kecamatan": "13.72.01"
+    },
+    {
+      "nama_wilayah": "Sinapa Piliang",
+      "kode_wilayah": "13.72.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.72",
+      "kode_kecamatan": "13.72.01"
+    },
+    {
+      "nama_wilayah": "IX Korong",
+      "kode_wilayah": "13.72.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.72",
+      "kode_kecamatan": "13.72.01"
+    },
+    {
+      "nama_wilayah": "Kampai Tabu Karambia",
+      "kode_wilayah": "13.72.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.72",
+      "kode_kecamatan": "13.72.01"
+    },
+    {
+      "nama_wilayah": "Aro IV Korong",
+      "kode_wilayah": "13.72.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.72",
+      "kode_kecamatan": "13.72.01"
+    },
+    {
+      "nama_wilayah": "Simpang Rumbio",
+      "kode_wilayah": "13.72.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.72",
+      "kode_kecamatan": "13.72.01"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Bojong Rawalumbu",
+      "kode_wilayah": "32.75.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.05"
+    },
+    {
+      "nama_wilayah": "Pengasinan",
+      "kode_wilayah": "32.75.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.05"
+    },
+    {
+      "nama_wilayah": "Sepanjangjaya",
+      "kode_wilayah": "32.75.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.05"
+    },
+    {
+      "nama_wilayah": "Bojongmenteng",
+      "kode_wilayah": "32.75.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.05"
+    }
+  ]
+}

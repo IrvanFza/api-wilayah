@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Bawen",
+      "kode_wilayah": "33.22.11.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.11"
+    },
+    {
+      "nama_wilayah": "Harjosari",
+      "kode_wilayah": "33.22.11.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.11"
+    },
+    {
+      "nama_wilayah": "Doplang",
+      "kode_wilayah": "33.22.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.11"
+    },
+    {
+      "nama_wilayah": "Asinan",
+      "kode_wilayah": "33.22.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.11"
+    },
+    {
+      "nama_wilayah": "Polosiri",
+      "kode_wilayah": "33.22.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.11"
+    },
+    {
+      "nama_wilayah": "Kandangan",
+      "kode_wilayah": "33.22.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.11"
+    },
+    {
+      "nama_wilayah": "Lemahireng",
+      "kode_wilayah": "33.22.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.11"
+    },
+    {
+      "nama_wilayah": "Samban",
+      "kode_wilayah": "33.22.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.11"
+    },
+    {
+      "nama_wilayah": "Poncoruso",
+      "kode_wilayah": "33.22.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.11"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Palir",
+      "kode_wilayah": "32.09.35.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.35"
+    },
+    {
+      "nama_wilayah": "Astapada",
+      "kode_wilayah": "32.09.35.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.35"
+    },
+    {
+      "nama_wilayah": "Gesik",
+      "kode_wilayah": "32.09.35.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.35"
+    },
+    {
+      "nama_wilayah": "Kemlakagede",
+      "kode_wilayah": "32.09.35.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.35"
+    },
+    {
+      "nama_wilayah": "Dawuan",
+      "kode_wilayah": "32.09.35.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.35"
+    },
+    {
+      "nama_wilayah": "Battembat",
+      "kode_wilayah": "32.09.35.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.35"
+    },
+    {
+      "nama_wilayah": "Kalibaru",
+      "kode_wilayah": "32.09.35.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.35"
+    },
+    {
+      "nama_wilayah": "Kalitengah",
+      "kode_wilayah": "32.09.35.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.35"
+    }
+  ]
+}

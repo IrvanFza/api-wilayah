@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Pancoran Mas",
+      "kode_wilayah": "32.76.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.76",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cimanggis",
+      "kode_wilayah": "32.76.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.76",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Sawangan",
+      "kode_wilayah": "32.76.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.76",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Limo",
+      "kode_wilayah": "32.76.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.76",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Sukmajaya",
+      "kode_wilayah": "32.76.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.76",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Beji",
+      "kode_wilayah": "32.76.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.76",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cipayung",
+      "kode_wilayah": "32.76.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.76",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cilodong",
+      "kode_wilayah": "32.76.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.76",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Cinere",
+      "kode_wilayah": "32.76.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.76",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Tapos",
+      "kode_wilayah": "32.76.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.76",
+      "kode_provinsi": "32"
+    },
+    {
+      "nama_wilayah": "Bojongsari",
+      "kode_wilayah": "32.76.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "32.76",
+      "kode_provinsi": "32"
+    }
+  ]
+}

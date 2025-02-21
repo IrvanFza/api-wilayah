@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kopai I",
+      "kode_wilayah": "94.08.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.08",
+      "kode_kecamatan": "94.08.03"
+    },
+    {
+      "nama_wilayah": "Kopai II",
+      "kode_wilayah": "94.08.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.08",
+      "kode_kecamatan": "94.08.03"
+    },
+    {
+      "nama_wilayah": "Woge",
+      "kode_wilayah": "94.08.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.08",
+      "kode_kecamatan": "94.08.03"
+    },
+    {
+      "nama_wilayah": "Yewadide",
+      "kode_wilayah": "94.08.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.08",
+      "kode_kecamatan": "94.08.03"
+    },
+    {
+      "nama_wilayah": "Mudetadi",
+      "kode_wilayah": "94.08.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.08",
+      "kode_kecamatan": "94.08.03"
+    },
+    {
+      "nama_wilayah": "Diita",
+      "kode_wilayah": "94.08.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.08",
+      "kode_kecamatan": "94.08.03"
+    }
+  ]
+}

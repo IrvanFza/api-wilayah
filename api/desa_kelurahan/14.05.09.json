@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Teluk Meranti",
+      "kode_wilayah": "14.05.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.09"
+    },
+    {
+      "nama_wilayah": "Kuala Panduk",
+      "kode_wilayah": "14.05.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.09"
+    },
+    {
+      "nama_wilayah": "Petodaan",
+      "kode_wilayah": "14.05.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.09"
+    },
+    {
+      "nama_wilayah": "Teluk Binjai",
+      "kode_wilayah": "14.05.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.09"
+    },
+    {
+      "nama_wilayah": "Pulau Muda",
+      "kode_wilayah": "14.05.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.09"
+    },
+    {
+      "nama_wilayah": "Gambut Mutiara",
+      "kode_wilayah": "14.05.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.09"
+    },
+    {
+      "nama_wilayah": "Labuhan Bilik",
+      "kode_wilayah": "14.05.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.09"
+    },
+    {
+      "nama_wilayah": "Pangkalan Terap",
+      "kode_wilayah": "14.05.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.09"
+    },
+    {
+      "nama_wilayah": "Segamai",
+      "kode_wilayah": "14.05.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.09"
+    }
+  ]
+}

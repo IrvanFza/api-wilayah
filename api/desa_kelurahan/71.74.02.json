@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kotobangun",
+      "kode_wilayah": "71.74.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.02"
+    },
+    {
+      "nama_wilayah": "Tumubui",
+      "kode_wilayah": "71.74.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.02"
+    },
+    {
+      "nama_wilayah": "Sinindian",
+      "kode_wilayah": "71.74.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.02"
+    },
+    {
+      "nama_wilayah": "Matali",
+      "kode_wilayah": "71.74.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.02"
+    },
+    {
+      "nama_wilayah": "Motoboi Besar",
+      "kode_wilayah": "71.74.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.02"
+    },
+    {
+      "nama_wilayah": "Kobo Besar",
+      "kode_wilayah": "71.74.02.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.02"
+    },
+    {
+      "nama_wilayah": "Moyag",
+      "kode_wilayah": "71.74.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.02"
+    },
+    {
+      "nama_wilayah": "Kobo Kecil",
+      "kode_wilayah": "71.74.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.02"
+    },
+    {
+      "nama_wilayah": "Moyag Tampoan",
+      "kode_wilayah": "71.74.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.02"
+    },
+    {
+      "nama_wilayah": "Moyag Todulan",
+      "kode_wilayah": "71.74.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.74",
+      "kode_kecamatan": "71.74.02"
+    }
+  ]
+}

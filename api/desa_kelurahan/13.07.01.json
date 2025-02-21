@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kurai",
+      "kode_wilayah": "13.07.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.07",
+      "kode_kecamatan": "13.07.01"
+    },
+    {
+      "nama_wilayah": "Sungai Rimbang",
+      "kode_wilayah": "13.07.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.07",
+      "kode_kecamatan": "13.07.01"
+    },
+    {
+      "nama_wilayah": "Tanjuang Bungo",
+      "kode_wilayah": "13.07.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.07",
+      "kode_kecamatan": "13.07.01"
+    },
+    {
+      "nama_wilayah": "Suliki",
+      "kode_wilayah": "13.07.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.07",
+      "kode_kecamatan": "13.07.01"
+    },
+    {
+      "nama_wilayah": "Limbanang",
+      "kode_wilayah": "13.07.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.07",
+      "kode_kecamatan": "13.07.01"
+    },
+    {
+      "nama_wilayah": "Andiang",
+      "kode_wilayah": "13.07.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.07",
+      "kode_kecamatan": "13.07.01"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Padang",
+      "kode_wilayah": "14.10.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.08"
+    },
+    {
+      "nama_wilayah": "Putri Puyu",
+      "kode_wilayah": "14.10.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.08"
+    },
+    {
+      "nama_wilayah": "Mekar Delima",
+      "kode_wilayah": "14.10.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.08"
+    },
+    {
+      "nama_wilayah": "Dedap",
+      "kode_wilayah": "14.10.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.08"
+    },
+    {
+      "nama_wilayah": "Kudap",
+      "kode_wilayah": "14.10.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.08"
+    },
+    {
+      "nama_wilayah": "Bandul",
+      "kode_wilayah": "14.10.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.08"
+    },
+    {
+      "nama_wilayah": "Selat Akar",
+      "kode_wilayah": "14.10.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.08"
+    },
+    {
+      "nama_wilayah": "Tanjung Pisang",
+      "kode_wilayah": "14.10.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.08"
+    },
+    {
+      "nama_wilayah": "Mengkopot",
+      "kode_wilayah": "14.10.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.08"
+    },
+    {
+      "nama_wilayah": "Mengkirau",
+      "kode_wilayah": "14.10.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.10",
+      "kode_kecamatan": "14.10.08"
+    }
+  ]
+}

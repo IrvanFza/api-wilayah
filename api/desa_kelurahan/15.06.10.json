@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tungkal V",
+      "kode_wilayah": "15.06.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.10"
+    },
+    {
+      "nama_wilayah": "Tungkal IV Desa",
+      "kode_wilayah": "15.06.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.10"
+    },
+    {
+      "nama_wilayah": "Kuala Baru",
+      "kode_wilayah": "15.06.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.10"
+    },
+    {
+      "nama_wilayah": "Teluk Pulai Raya",
+      "kode_wilayah": "15.06.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.10"
+    },
+    {
+      "nama_wilayah": "Mekar Alam",
+      "kode_wilayah": "15.06.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.10"
+    },
+    {
+      "nama_wilayah": "Harapan Jaya",
+      "kode_wilayah": "15.06.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.10"
+    },
+    {
+      "nama_wilayah": "Kuala Kahar",
+      "kode_wilayah": "15.06.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.10"
+    },
+    {
+      "nama_wilayah": "Muara Seberang",
+      "kode_wilayah": "15.06.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.10"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Ketapang",
+      "kode_wilayah": "35.74.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.01"
+    },
+    {
+      "nama_wilayah": "Triwung Lor",
+      "kode_wilayah": "35.74.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.01"
+    },
+    {
+      "nama_wilayah": "Triwung Kidul",
+      "kode_wilayah": "35.74.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.01"
+    },
+    {
+      "nama_wilayah": "Pohsangit Kidul",
+      "kode_wilayah": "35.74.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.01"
+    },
+    {
+      "nama_wilayah": "Kademangan",
+      "kode_wilayah": "35.74.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.01"
+    },
+    {
+      "nama_wilayah": "Pilang",
+      "kode_wilayah": "35.74.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.01"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Pinang Barat",
+      "kode_wilayah": "21.72.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.72",
+      "kode_kecamatan": "21.72.01"
+    },
+    {
+      "nama_wilayah": "Kemboja",
+      "kode_wilayah": "21.72.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.72",
+      "kode_kecamatan": "21.72.01"
+    },
+    {
+      "nama_wilayah": "Kampung Baru",
+      "kode_wilayah": "21.72.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.72",
+      "kode_kecamatan": "21.72.01"
+    },
+    {
+      "nama_wilayah": "Bukit Cermin",
+      "kode_wilayah": "21.72.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.72",
+      "kode_kecamatan": "21.72.01"
+    }
+  ]
+}

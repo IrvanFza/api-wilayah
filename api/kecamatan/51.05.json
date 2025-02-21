@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Nusa Penida",
+      "kode_wilayah": "51.05.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.05",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Banjarangkan",
+      "kode_wilayah": "51.05.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.05",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Klungkung",
+      "kode_wilayah": "51.05.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.05",
+      "kode_provinsi": "51"
+    },
+    {
+      "nama_wilayah": "Dawan",
+      "kode_wilayah": "51.05.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "51.05",
+      "kode_provinsi": "51"
+    }
+  ]
+}

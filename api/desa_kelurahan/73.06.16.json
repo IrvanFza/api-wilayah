@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Bontoramba",
+      "kode_wilayah": "73.06.16.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.16"
+    },
+    {
+      "nama_wilayah": "Sengka",
+      "kode_wilayah": "73.06.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.16"
+    },
+    {
+      "nama_wilayah": "Tanrara",
+      "kode_wilayah": "73.06.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.16"
+    },
+    {
+      "nama_wilayah": "Tindang",
+      "kode_wilayah": "73.06.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.16"
+    },
+    {
+      "nama_wilayah": "Pa-bundukang",
+      "kode_wilayah": "73.06.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.16"
+    },
+    {
+      "nama_wilayah": "Bontosunggu",
+      "kode_wilayah": "73.06.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.16"
+    },
+    {
+      "nama_wilayah": "Salajangki",
+      "kode_wilayah": "73.06.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.16"
+    },
+    {
+      "nama_wilayah": "Salajo",
+      "kode_wilayah": "73.06.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.16"
+    },
+    {
+      "nama_wilayah": "Jipang",
+      "kode_wilayah": "73.06.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.06",
+      "kode_kecamatan": "73.06.16"
+    }
+  ]
+}

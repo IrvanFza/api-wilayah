@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Paris",
+      "kode_wilayah": "95.08.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.23"
+    },
+    {
+      "nama_wilayah": "Simie",
+      "kode_wilayah": "95.08.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.23"
+    },
+    {
+      "nama_wilayah": "Urugi",
+      "kode_wilayah": "95.08.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.23"
+    },
+    {
+      "nama_wilayah": "Pirim-Pirim",
+      "kode_wilayah": "95.08.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.23"
+    },
+    {
+      "nama_wilayah": "Tombisik",
+      "kode_wilayah": "95.08.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.23"
+    },
+    {
+      "nama_wilayah": "Yepma",
+      "kode_wilayah": "95.08.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.23"
+    },
+    {
+      "nama_wilayah": "Sokore",
+      "kode_wilayah": "95.08.23.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.23"
+    },
+    {
+      "nama_wilayah": "Tobonggom",
+      "kode_wilayah": "95.08.23.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.23"
+    },
+    {
+      "nama_wilayah": "Rapa",
+      "kode_wilayah": "95.08.23.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.23"
+    }
+  ]
+}

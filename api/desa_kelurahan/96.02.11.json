@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Adona",
+      "kode_wilayah": "96.02.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.11"
+    },
+    {
+      "nama_wilayah": "Benawa II",
+      "kode_wilayah": "96.02.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.11"
+    },
+    {
+      "nama_wilayah": "Kayubiro",
+      "kode_wilayah": "96.02.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.11"
+    },
+    {
+      "nama_wilayah": "Udagaga",
+      "kode_wilayah": "96.02.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.11"
+    },
+    {
+      "nama_wilayah": "Bubuko",
+      "kode_wilayah": "96.02.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.11"
+    },
+    {
+      "nama_wilayah": "Kamundan Dua",
+      "kode_wilayah": "96.02.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.11"
+    },
+    {
+      "nama_wilayah": "Atori",
+      "kode_wilayah": "96.02.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.11"
+    },
+    {
+      "nama_wilayah": "Kamundan Satu",
+      "kode_wilayah": "96.02.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.11"
+    },
+    {
+      "nama_wilayah": "Karirif",
+      "kode_wilayah": "96.02.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.11"
+    }
+  ]
+}

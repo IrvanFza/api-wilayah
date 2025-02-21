@@ -1,0 +1,406 @@
+{
+  "status": "success",
+  "total": 50,
+  "data": [
+    {
+      "nama_wilayah": "Lambaro",
+      "kode_wilayah": "11.06.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Meunasah Manyang Lam Garot",
+      "kode_wilayah": "11.06.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Bakoy",
+      "kode_wilayah": "11.06.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Meunasah Baro",
+      "kode_wilayah": "11.06.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Meunasah Deyah",
+      "kode_wilayah": "11.06.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Meunasah Tutong",
+      "kode_wilayah": "11.06.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Siron",
+      "kode_wilayah": "11.06.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Pasie Lamgarot",
+      "kode_wilayah": "11.06.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Dham Ceukok",
+      "kode_wilayah": "11.06.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Dham Pulo",
+      "kode_wilayah": "11.06.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Lubok Sukon",
+      "kode_wilayah": "11.06.10.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Lubok Gapuy",
+      "kode_wilayah": "11.06.10.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Pasie Lubuk",
+      "kode_wilayah": "11.06.10.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Bung Ceukok",
+      "kode_wilayah": "11.06.10.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Teubang Phuy",
+      "kode_wilayah": "11.06.10.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Ateuk Anggok",
+      "kode_wilayah": "11.06.10.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Ajee Rayeuk",
+      "kode_wilayah": "11.06.10.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Ajee Cut",
+      "kode_wilayah": "11.06.10.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Gani",
+      "kode_wilayah": "11.06.10.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Ateuk Lueng Ie",
+      "kode_wilayah": "11.06.10.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Cot Alue",
+      "kode_wilayah": "11.06.10.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Cot Suruy",
+      "kode_wilayah": "11.06.10.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Cot Bada",
+      "kode_wilayah": "11.06.10.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Ajee Pagar Air",
+      "kode_wilayah": "11.06.10.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Meunasah Krueng",
+      "kode_wilayah": "11.06.10.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Jurong Peujera",
+      "kode_wilayah": "11.06.10.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Lubok Batee",
+      "kode_wilayah": "11.06.10.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Bineh Blang",
+      "kode_wilayah": "11.06.10.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Pantee",
+      "kode_wilayah": "11.06.10.2029",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Kalut",
+      "kode_wilayah": "11.06.10.2030",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Meunasah Manyang Pagar Air",
+      "kode_wilayah": "11.06.10.2031",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Meunasah Manyet",
+      "kode_wilayah": "11.06.10.2032",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Santan",
+      "kode_wilayah": "11.06.10.2033",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Tanjong",
+      "kode_wilayah": "11.06.10.2034",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Reuloh",
+      "kode_wilayah": "11.06.10.2035",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Paleuh Blang",
+      "kode_wilayah": "11.06.10.2041",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Cot Mentiwan",
+      "kode_wilayah": "11.06.10.2042",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Lampreh Lam Jampok",
+      "kode_wilayah": "11.06.10.2043",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Paleuh Pulo",
+      "kode_wilayah": "11.06.10.2044",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Lamcot",
+      "kode_wilayah": "11.06.10.2045",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Lamsinyeu",
+      "kode_wilayah": "11.06.10.2046",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Lam Ue",
+      "kode_wilayah": "11.06.10.2047",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Cot Gud",
+      "kode_wilayah": "11.06.10.2048",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Lamdaya",
+      "kode_wilayah": "11.06.10.2049",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Lambada",
+      "kode_wilayah": "11.06.10.2050",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Ujong XII",
+      "kode_wilayah": "11.06.10.2051",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Bada",
+      "kode_wilayah": "11.06.10.2052",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Lamteungoh",
+      "kode_wilayah": "11.06.10.2053",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Kayee Lee",
+      "kode_wilayah": "11.06.10.2054",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    },
+    {
+      "nama_wilayah": "Lampreh Lamteungoh",
+      "kode_wilayah": "11.06.10.2056",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.06",
+      "kode_kecamatan": "11.06.10"
+    }
+  ]
+}

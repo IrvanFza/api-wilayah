@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Waris",
+      "kode_wilayah": "91.11.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.11",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Arso",
+      "kode_wilayah": "91.11.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.11",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Senggi",
+      "kode_wilayah": "91.11.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.11",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Web",
+      "kode_wilayah": "91.11.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.11",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Skanto",
+      "kode_wilayah": "91.11.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.11",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Arso Timur",
+      "kode_wilayah": "91.11.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.11",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Towe",
+      "kode_wilayah": "91.11.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.11",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Arso Barat",
+      "kode_wilayah": "91.11.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.11",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Mannem",
+      "kode_wilayah": "91.11.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.11",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Yaffi",
+      "kode_wilayah": "91.11.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.11",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Kaisenar",
+      "kode_wilayah": "91.11.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.11",
+      "kode_provinsi": "91"
+    }
+  ]
+}

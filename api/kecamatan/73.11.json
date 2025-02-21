@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tanete Riaja",
+      "kode_wilayah": "73.11.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.11",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Tanete Rilau",
+      "kode_wilayah": "73.11.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.11",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Barru",
+      "kode_wilayah": "73.11.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.11",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Soppeng Riaja",
+      "kode_wilayah": "73.11.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.11",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Mallusetasi",
+      "kode_wilayah": "73.11.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.11",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Pujananting",
+      "kode_wilayah": "73.11.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.11",
+      "kode_provinsi": "73"
+    },
+    {
+      "nama_wilayah": "Balusu",
+      "kode_wilayah": "73.11.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "73.11",
+      "kode_provinsi": "73"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "status": "success",
+  "total": 13,
+  "data": [
+    {
+      "nama_wilayah": "Perian",
+      "kode_wilayah": "64.02.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.01"
+    },
+    {
+      "nama_wilayah": "Muara Leka",
+      "kode_wilayah": "64.02.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.01"
+    },
+    {
+      "nama_wilayah": "Muara Aloh",
+      "kode_wilayah": "64.02.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.01"
+    },
+    {
+      "nama_wilayah": "Jantur",
+      "kode_wilayah": "64.02.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.01"
+    },
+    {
+      "nama_wilayah": "Batuq",
+      "kode_wilayah": "64.02.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.01"
+    },
+    {
+      "nama_wilayah": "Rebaq Rinding",
+      "kode_wilayah": "64.02.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.01"
+    },
+    {
+      "nama_wilayah": "Muara Muntai Ulu",
+      "kode_wilayah": "64.02.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.01"
+    },
+    {
+      "nama_wilayah": "Muara Muntai Ilir",
+      "kode_wilayah": "64.02.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.01"
+    },
+    {
+      "nama_wilayah": "Kayu Batu",
+      "kode_wilayah": "64.02.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.01"
+    },
+    {
+      "nama_wilayah": "Jantur Selatan",
+      "kode_wilayah": "64.02.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.01"
+    },
+    {
+      "nama_wilayah": "Tanjung Batuq Harapan",
+      "kode_wilayah": "64.02.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.01"
+    },
+    {
+      "nama_wilayah": "Pulau Harapan",
+      "kode_wilayah": "64.02.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.01"
+    },
+    {
+      "nama_wilayah": "Jantur Baru",
+      "kode_wilayah": "64.02.01.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.02",
+      "kode_kecamatan": "64.02.01"
+    }
+  ]
+}

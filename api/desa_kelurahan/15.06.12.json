@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Betara Kiri",
+      "kode_wilayah": "15.06.12.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.12"
+    },
+    {
+      "nama_wilayah": "Sungai Dualap",
+      "kode_wilayah": "15.06.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.12"
+    },
+    {
+      "nama_wilayah": "Betara Kanan",
+      "kode_wilayah": "15.06.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.12"
+    },
+    {
+      "nama_wilayah": "Sungai Gebar",
+      "kode_wilayah": "15.06.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.12"
+    },
+    {
+      "nama_wilayah": "Dataran Pinang",
+      "kode_wilayah": "15.06.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.12"
+    },
+    {
+      "nama_wilayah": "Tanjung Pasir",
+      "kode_wilayah": "15.06.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.12"
+    },
+    {
+      "nama_wilayah": "Sungai Gebar Barat",
+      "kode_wilayah": "15.06.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.12"
+    },
+    {
+      "nama_wilayah": "Sungai Dungun",
+      "kode_wilayah": "15.06.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.12"
+    },
+    {
+      "nama_wilayah": "Kuala Indah",
+      "kode_wilayah": "15.06.12.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.12"
+    },
+    {
+      "nama_wilayah": "Suak Labu",
+      "kode_wilayah": "15.06.12.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.12"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Bambaea",
+      "kode_wilayah": "74.06.02.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.02"
+    },
+    {
+      "nama_wilayah": "Puu Lemo",
+      "kode_wilayah": "74.06.02.1015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.02"
+    },
+    {
+      "nama_wilayah": "Teppoe",
+      "kode_wilayah": "74.06.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.02"
+    },
+    {
+      "nama_wilayah": "Biru",
+      "kode_wilayah": "74.06.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.02"
+    },
+    {
+      "nama_wilayah": "Mambo",
+      "kode_wilayah": "74.06.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.06",
+      "kode_kecamatan": "74.06.02"
+    }
+  ]
+}

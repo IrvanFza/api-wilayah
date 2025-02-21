@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Taraju",
+      "kode_wilayah": "32.06.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.13"
+    },
+    {
+      "nama_wilayah": "Cikubang",
+      "kode_wilayah": "32.06.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.13"
+    },
+    {
+      "nama_wilayah": "Deudeul",
+      "kode_wilayah": "32.06.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.13"
+    },
+    {
+      "nama_wilayah": "Purwarahayu",
+      "kode_wilayah": "32.06.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.13"
+    },
+    {
+      "nama_wilayah": "Singasari",
+      "kode_wilayah": "32.06.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.13"
+    },
+    {
+      "nama_wilayah": "Banyuasih",
+      "kode_wilayah": "32.06.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.13"
+    },
+    {
+      "nama_wilayah": "Raksasari",
+      "kode_wilayah": "32.06.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.13"
+    },
+    {
+      "nama_wilayah": "Kertaraharja",
+      "kode_wilayah": "32.06.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.13"
+    },
+    {
+      "nama_wilayah": "Pageralam",
+      "kode_wilayah": "32.06.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.06",
+      "kode_kecamatan": "32.06.13"
+    }
+  ]
+}

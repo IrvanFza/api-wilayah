@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Magani",
+      "kode_wilayah": "73.24.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.02"
+    },
+    {
+      "nama_wilayah": "Nuha",
+      "kode_wilayah": "73.24.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.02"
+    },
+    {
+      "nama_wilayah": "Nikkel",
+      "kode_wilayah": "73.24.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.02"
+    },
+    {
+      "nama_wilayah": "Matano",
+      "kode_wilayah": "73.24.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.02"
+    },
+    {
+      "nama_wilayah": "Sorowako",
+      "kode_wilayah": "73.24.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.02"
+    }
+  ]
+}

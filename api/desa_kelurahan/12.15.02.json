@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sukaramai",
+      "kode_wilayah": "12.15.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.02"
+    },
+    {
+      "nama_wilayah": "Kuta Saga",
+      "kode_wilayah": "12.15.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.02"
+    },
+    {
+      "nama_wilayah": "Kuta Meriah",
+      "kode_wilayah": "12.15.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.02"
+    },
+    {
+      "nama_wilayah": "Kuta Dame",
+      "kode_wilayah": "12.15.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.02"
+    },
+    {
+      "nama_wilayah": "Perpulungen",
+      "kode_wilayah": "12.15.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.02"
+    },
+    {
+      "nama_wilayah": "Pardomuan",
+      "kode_wilayah": "12.15.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.02"
+    },
+    {
+      "nama_wilayah": "Majanggut I",
+      "kode_wilayah": "12.15.02.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.02"
+    },
+    {
+      "nama_wilayah": "Majanggut II",
+      "kode_wilayah": "12.15.02.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.02"
+    },
+    {
+      "nama_wilayah": "Surung Mersada",
+      "kode_wilayah": "12.15.02.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.02"
+    },
+    {
+      "nama_wilayah": "Perduhapen",
+      "kode_wilayah": "12.15.02.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.02"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Ketsoblak",
+      "kode_wilayah": "81.72.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.72",
+      "kode_kecamatan": "81.72.02"
+    },
+    {
+      "nama_wilayah": "Masrum",
+      "kode_wilayah": "81.72.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.72",
+      "kode_kecamatan": "81.72.02"
+    },
+    {
+      "nama_wilayah": "Lodar El",
+      "kode_wilayah": "81.72.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.72",
+      "kode_kecamatan": "81.72.02"
+    },
+    {
+      "nama_wilayah": "Tual",
+      "kode_wilayah": "81.72.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.72",
+      "kode_kecamatan": "81.72.02"
+    },
+    {
+      "nama_wilayah": "Taar",
+      "kode_wilayah": "81.72.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.72",
+      "kode_kecamatan": "81.72.02"
+    }
+  ]
+}

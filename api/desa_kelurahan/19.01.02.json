@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Kuto Panji",
+      "kode_wilayah": "19.01.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.02"
+    },
+    {
+      "nama_wilayah": "Air Jukung",
+      "kode_wilayah": "19.01.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.02"
+    },
+    {
+      "nama_wilayah": "Bukit Ketok",
+      "kode_wilayah": "19.01.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.02"
+    },
+    {
+      "nama_wilayah": "Remodong Indah",
+      "kode_wilayah": "19.01.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.02"
+    },
+    {
+      "nama_wilayah": "Air Asam",
+      "kode_wilayah": "19.01.02.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.02"
+    },
+    {
+      "nama_wilayah": "Mantung",
+      "kode_wilayah": "19.01.02.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.02"
+    },
+    {
+      "nama_wilayah": "Belinyu",
+      "kode_wilayah": "19.01.02.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.02"
+    },
+    {
+      "nama_wilayah": "Gunung Muda",
+      "kode_wilayah": "19.01.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.02"
+    },
+    {
+      "nama_wilayah": "Gunung Pelawan",
+      "kode_wilayah": "19.01.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.02"
+    },
+    {
+      "nama_wilayah": "Riding Panjang",
+      "kode_wilayah": "19.01.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.02"
+    },
+    {
+      "nama_wilayah": "Lumut",
+      "kode_wilayah": "19.01.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.02"
+    },
+    {
+      "nama_wilayah": "Bintet",
+      "kode_wilayah": "19.01.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.02"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kersamenak",
+      "kode_wilayah": "32.78.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.05"
+    },
+    {
+      "nama_wilayah": "Cilamajang",
+      "kode_wilayah": "32.78.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.05"
+    },
+    {
+      "nama_wilayah": "Gunung Tandala",
+      "kode_wilayah": "32.78.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.05"
+    },
+    {
+      "nama_wilayah": "Urug",
+      "kode_wilayah": "32.78.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.05"
+    },
+    {
+      "nama_wilayah": "Tanjung",
+      "kode_wilayah": "32.78.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.05"
+    },
+    {
+      "nama_wilayah": "Cibeuti",
+      "kode_wilayah": "32.78.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.05"
+    },
+    {
+      "nama_wilayah": "Karanganyar",
+      "kode_wilayah": "32.78.05.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.05"
+    },
+    {
+      "nama_wilayah": "Talagasari",
+      "kode_wilayah": "32.78.05.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.05"
+    },
+    {
+      "nama_wilayah": "Leuwiliang",
+      "kode_wilayah": "32.78.05.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.05"
+    },
+    {
+      "nama_wilayah": "Gunung Gede",
+      "kode_wilayah": "32.78.05.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.05"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "status": "success",
+  "total": 23,
+  "data": [
+    {
+      "nama_wilayah": "Panyabungan",
+      "kode_wilayah": "12.13.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Panyabungan Utara",
+      "kode_wilayah": "12.13.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Panyabungan Timur",
+      "kode_wilayah": "12.13.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Panyabungan Selatan",
+      "kode_wilayah": "12.13.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Panyabungan Barat",
+      "kode_wilayah": "12.13.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Siabu",
+      "kode_wilayah": "12.13.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Bukit Malintang",
+      "kode_wilayah": "12.13.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Kotanopan",
+      "kode_wilayah": "12.13.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Lembah Sorik Marapi",
+      "kode_wilayah": "12.13.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Tambangan",
+      "kode_wilayah": "12.13.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Ulu Pungkut",
+      "kode_wilayah": "12.13.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Muara Sipongi",
+      "kode_wilayah": "12.13.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Batang Natal",
+      "kode_wilayah": "12.13.13",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Lingga Bayu",
+      "kode_wilayah": "12.13.14",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Batahan",
+      "kode_wilayah": "12.13.15",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Natal",
+      "kode_wilayah": "12.13.16",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Muara Batang Gadis",
+      "kode_wilayah": "12.13.17",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Ranto Baek",
+      "kode_wilayah": "12.13.18",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Huta Bargot",
+      "kode_wilayah": "12.13.19",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Puncak Sorik Marapi",
+      "kode_wilayah": "12.13.20",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Pakantan",
+      "kode_wilayah": "12.13.21",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Sinunukan",
+      "kode_wilayah": "12.13.22",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Naga Juang",
+      "kode_wilayah": "12.13.23",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.13",
+      "kode_provinsi": "12"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "B e o",
+      "kode_wilayah": "71.04.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.02"
+    },
+    {
+      "nama_wilayah": "Beo Timur",
+      "kode_wilayah": "71.04.02.1017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.02"
+    },
+    {
+      "nama_wilayah": "Beo Barat",
+      "kode_wilayah": "71.04.02.1018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.02"
+    },
+    {
+      "nama_wilayah": "Bantik",
+      "kode_wilayah": "71.04.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.02"
+    },
+    {
+      "nama_wilayah": "Bengel",
+      "kode_wilayah": "71.04.02.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.02"
+    },
+    {
+      "nama_wilayah": "Bantik Lama",
+      "kode_wilayah": "71.04.02.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.02"
+    }
+  ]
+}

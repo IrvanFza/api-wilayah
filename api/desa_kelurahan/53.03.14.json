@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Oelami",
+      "kode_wilayah": "53.03.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.14"
+    },
+    {
+      "nama_wilayah": "Kiusili",
+      "kode_wilayah": "53.03.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.14"
+    },
+    {
+      "nama_wilayah": "Naiola",
+      "kode_wilayah": "53.03.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.14"
+    },
+    {
+      "nama_wilayah": "Maurisu",
+      "kode_wilayah": "53.03.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.14"
+    },
+    {
+      "nama_wilayah": "Oetalus",
+      "kode_wilayah": "53.03.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.14"
+    },
+    {
+      "nama_wilayah": "Tublopo",
+      "kode_wilayah": "53.03.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.14"
+    },
+    {
+      "nama_wilayah": "Maurisu Utara",
+      "kode_wilayah": "53.03.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.14"
+    },
+    {
+      "nama_wilayah": "Maurisu Selatan",
+      "kode_wilayah": "53.03.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.14"
+    },
+    {
+      "nama_wilayah": "Maurisu Tengah",
+      "kode_wilayah": "53.03.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.14"
+    },
+    {
+      "nama_wilayah": "Naiola Timur",
+      "kode_wilayah": "53.03.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.14"
+    }
+  ]
+}

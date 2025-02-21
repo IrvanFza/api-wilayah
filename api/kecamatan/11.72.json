@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Sukakarya",
+      "kode_wilayah": "11.72.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.72",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Sukajaya",
+      "kode_wilayah": "11.72.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.72",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Sukamakmue",
+      "kode_wilayah": "11.72.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.72",
+      "kode_provinsi": "11"
+    }
+  ]
+}

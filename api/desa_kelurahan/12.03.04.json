@@ -1,0 +1,326 @@
+{
+  "status": "success",
+  "total": 40,
+  "data": [
+    {
+      "nama_wilayah": "Pasar Sipirok",
+      "kode_wilayah": "12.03.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Hutasuhut",
+      "kode_wilayah": "12.03.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Baringin",
+      "kode_wilayah": "12.03.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Bunga Bondar",
+      "kode_wilayah": "12.03.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Parau Sorat",
+      "kode_wilayah": "12.03.04.1061",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Sipirok Godang",
+      "kode_wilayah": "12.03.04.1114",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Bagas Lombang",
+      "kode_wilayah": "12.03.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Batu Satail",
+      "kode_wilayah": "12.03.04.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Hasang Marsada",
+      "kode_wilayah": "12.03.04.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Janji Mauli",
+      "kode_wilayah": "12.03.04.2034",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Paran Julu",
+      "kode_wilayah": "12.03.04.2048",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Pangaribuan",
+      "kode_wilayah": "12.03.04.2051",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Pargarutan",
+      "kode_wilayah": "12.03.04.2052",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Panaungan",
+      "kode_wilayah": "12.03.04.2054",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Padang Bujur",
+      "kode_wilayah": "12.03.04.2059",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Paran Padang",
+      "kode_wilayah": "12.03.04.2060",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Pangurabaan",
+      "kode_wilayah": "12.03.04.2064",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Ramba Sihasur",
+      "kode_wilayah": "12.03.04.2068",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Tolang",
+      "kode_wilayah": "12.03.04.2069",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Sampean",
+      "kode_wilayah": "12.03.04.2072",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Simaninggir",
+      "kode_wilayah": "12.03.04.2075",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Sibadoar",
+      "kode_wilayah": "12.03.04.2076",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Sialagundi",
+      "kode_wilayah": "12.03.04.2085",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Bulu Mario",
+      "kode_wilayah": "12.03.04.2096",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Barnang Koling",
+      "kode_wilayah": "12.03.04.2097",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Dolok Sordang Julu",
+      "kode_wilayah": "12.03.04.2101",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Situmba Julu",
+      "kode_wilayah": "12.03.04.2102",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Situmba",
+      "kode_wilayah": "12.03.04.2103",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Kilang Papan",
+      "kode_wilayah": "12.03.04.2104",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Sialaman",
+      "kode_wilayah": "12.03.04.2105",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Paran Dolok Mardomu",
+      "kode_wilayah": "12.03.04.2106",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Batang Tura Julu",
+      "kode_wilayah": "12.03.04.2107",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Batang Tura",
+      "kode_wilayah": "12.03.04.2108",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Dolok Sordang",
+      "kode_wilayah": "12.03.04.2109",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Pahae Aek Sagala",
+      "kode_wilayah": "12.03.04.2110",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Marsada",
+      "kode_wilayah": "12.03.04.2111",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Luat Lombang",
+      "kode_wilayah": "12.03.04.2112",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Aek Batang Paya",
+      "kode_wilayah": "12.03.04.2113",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Saba Batang Miha",
+      "kode_wilayah": "12.03.04.2115",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    },
+    {
+      "nama_wilayah": "Sarogodung",
+      "kode_wilayah": "12.03.04.2116",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.04"
+    }
+  ]
+}

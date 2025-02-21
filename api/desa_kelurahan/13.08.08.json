@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Muara Tais",
+      "kode_wilayah": "13.08.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.08"
+    },
+    {
+      "nama_wilayah": "Lubuak Gadang",
+      "kode_wilayah": "13.08.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.08"
+    },
+    {
+      "nama_wilayah": "Pintu Padang",
+      "kode_wilayah": "13.08.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.08"
+    },
+    {
+      "nama_wilayah": "Muaro Tais Koto Gadang",
+      "kode_wilayah": "13.08.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.08",
+      "kode_kecamatan": "13.08.08"
+    }
+  ]
+}

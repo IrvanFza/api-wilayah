@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Sukamaju",
+      "kode_wilayah": "16.71.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.08"
+    },
+    {
+      "nama_wilayah": "Sako",
+      "kode_wilayah": "16.71.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.08"
+    },
+    {
+      "nama_wilayah": "Sialang",
+      "kode_wilayah": "16.71.08.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.08"
+    },
+    {
+      "nama_wilayah": "Sako Baru",
+      "kode_wilayah": "16.71.08.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.08"
+    }
+  ]
+}

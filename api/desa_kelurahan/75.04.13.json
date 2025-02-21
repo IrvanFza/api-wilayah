@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Dudewulo",
+      "kode_wilayah": "75.04.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.13"
+    },
+    {
+      "nama_wilayah": "Tunas Jaya",
+      "kode_wilayah": "75.04.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.13"
+    },
+    {
+      "nama_wilayah": "Padengo",
+      "kode_wilayah": "75.04.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.13"
+    },
+    {
+      "nama_wilayah": "Molosipat",
+      "kode_wilayah": "75.04.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.13"
+    },
+    {
+      "nama_wilayah": "Butungale",
+      "kode_wilayah": "75.04.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.13"
+    },
+    {
+      "nama_wilayah": "Persatuan",
+      "kode_wilayah": "75.04.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.13"
+    },
+    {
+      "nama_wilayah": "Molosipat Utara",
+      "kode_wilayah": "75.04.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.13"
+    }
+  ]
+}

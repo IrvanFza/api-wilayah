@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Langensari",
+      "kode_wilayah": "32.79.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.79",
+      "kode_kecamatan": "32.79.04"
+    },
+    {
+      "nama_wilayah": "Rejasari",
+      "kode_wilayah": "32.79.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.79",
+      "kode_kecamatan": "32.79.04"
+    },
+    {
+      "nama_wilayah": "Waringinsari",
+      "kode_wilayah": "32.79.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.79",
+      "kode_kecamatan": "32.79.04"
+    },
+    {
+      "nama_wilayah": "Muktisari",
+      "kode_wilayah": "32.79.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.79",
+      "kode_kecamatan": "32.79.04"
+    },
+    {
+      "nama_wilayah": "Bojongkantong",
+      "kode_wilayah": "32.79.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.79",
+      "kode_kecamatan": "32.79.04"
+    },
+    {
+      "nama_wilayah": "Kujangsari",
+      "kode_wilayah": "32.79.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.79",
+      "kode_kecamatan": "32.79.04"
+    }
+  ]
+}

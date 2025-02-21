@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kupang Kota",
+      "kode_wilayah": "18.71.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.09"
+    },
+    {
+      "nama_wilayah": "Kupang Raya",
+      "kode_wilayah": "18.71.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.09"
+    },
+    {
+      "nama_wilayah": "Kupang Teba",
+      "kode_wilayah": "18.71.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.09"
+    },
+    {
+      "nama_wilayah": "Pengajaran",
+      "kode_wilayah": "18.71.09.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.09"
+    },
+    {
+      "nama_wilayah": "Gulak Galik",
+      "kode_wilayah": "18.71.09.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.09"
+    },
+    {
+      "nama_wilayah": "Sumur Batu",
+      "kode_wilayah": "18.71.09.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.71",
+      "kode_kecamatan": "18.71.09"
+    }
+  ]
+}

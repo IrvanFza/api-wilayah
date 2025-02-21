@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Mawali",
+      "kode_wilayah": "71.72.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.08"
+    },
+    {
+      "nama_wilayah": "Pintukota",
+      "kode_wilayah": "71.72.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.08"
+    },
+    {
+      "nama_wilayah": "Binuang",
+      "kode_wilayah": "71.72.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.08"
+    },
+    {
+      "nama_wilayah": "Motto",
+      "kode_wilayah": "71.72.08.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.08"
+    },
+    {
+      "nama_wilayah": "Lirang",
+      "kode_wilayah": "71.72.08.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.08"
+    },
+    {
+      "nama_wilayah": "Posokan",
+      "kode_wilayah": "71.72.08.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.08"
+    },
+    {
+      "nama_wilayah": "Nusu",
+      "kode_wilayah": "71.72.08.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.08"
+    },
+    {
+      "nama_wilayah": "Kareko",
+      "kode_wilayah": "71.72.08.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.08"
+    },
+    {
+      "nama_wilayah": "Gunung Woka",
+      "kode_wilayah": "71.72.08.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.08"
+    },
+    {
+      "nama_wilayah": "Batukota",
+      "kode_wilayah": "71.72.08.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.08"
+    }
+  ]
+}

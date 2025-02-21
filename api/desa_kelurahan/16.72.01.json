@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sukorejo",
+      "kode_wilayah": "16.72.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.01"
+    },
+    {
+      "nama_wilayah": "Bangun Rejo",
+      "kode_wilayah": "16.72.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.01"
+    },
+    {
+      "nama_wilayah": "Pagar Alam",
+      "kode_wilayah": "16.72.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.01"
+    },
+    {
+      "nama_wilayah": "Alun Dua",
+      "kode_wilayah": "16.72.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.01"
+    },
+    {
+      "nama_wilayah": "Selibar",
+      "kode_wilayah": "16.72.01.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.01"
+    },
+    {
+      "nama_wilayah": "Beringin Jaya",
+      "kode_wilayah": "16.72.01.1016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.01"
+    },
+    {
+      "nama_wilayah": "Dempo Makmur",
+      "kode_wilayah": "16.72.01.1018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.01"
+    },
+    {
+      "nama_wilayah": "Kuripan Babas",
+      "kode_wilayah": "16.72.01.1019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.01"
+    },
+    {
+      "nama_wilayah": "Bangun Jaya",
+      "kode_wilayah": "16.72.01.1020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.01"
+    },
+    {
+      "nama_wilayah": "Curup Jare",
+      "kode_wilayah": "16.72.01.1021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.01"
+    }
+  ]
+}

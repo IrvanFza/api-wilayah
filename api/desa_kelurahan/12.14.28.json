@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Gobo",
+      "kode_wilayah": "12.14.28.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.28"
+    },
+    {
+      "nama_wilayah": "Silina",
+      "kode_wilayah": "12.14.28.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.28"
+    },
+    {
+      "nama_wilayah": "Maufa",
+      "kode_wilayah": "12.14.28.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.28"
+    },
+    {
+      "nama_wilayah": "Gondia",
+      "kode_wilayah": "12.14.28.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.28"
+    },
+    {
+      "nama_wilayah": "Gobo Baru",
+      "kode_wilayah": "12.14.28.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.28"
+    },
+    {
+      "nama_wilayah": "Silina Baru",
+      "kode_wilayah": "12.14.28.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.28"
+    }
+  ]
+}

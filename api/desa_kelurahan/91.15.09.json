@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Somiangga",
+      "kode_wilayah": "91.15.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.09"
+    },
+    {
+      "nama_wilayah": "Toire",
+      "kode_wilayah": "91.15.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.09"
+    },
+    {
+      "nama_wilayah": "Harapan Jaya",
+      "kode_wilayah": "91.15.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.09"
+    },
+    {
+      "nama_wilayah": "Demisa",
+      "kode_wilayah": "91.15.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.09"
+    },
+    {
+      "nama_wilayah": "Otodemo",
+      "kode_wilayah": "91.15.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.09"
+    },
+    {
+      "nama_wilayah": "Awaso",
+      "kode_wilayah": "91.15.09.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.09"
+    },
+    {
+      "nama_wilayah": "Firo",
+      "kode_wilayah": "91.15.09.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.09"
+    }
+  ]
+}

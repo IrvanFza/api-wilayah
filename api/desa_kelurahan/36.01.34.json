@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sukaratu",
+      "kode_wilayah": "36.01.34.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.34"
+    },
+    {
+      "nama_wilayah": "Karaton",
+      "kode_wilayah": "36.01.34.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.34"
+    },
+    {
+      "nama_wilayah": "Saruni",
+      "kode_wilayah": "36.01.34.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.34"
+    },
+    {
+      "nama_wilayah": "Pagerbatu",
+      "kode_wilayah": "36.01.34.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.34"
+    },
+    {
+      "nama_wilayah": "Cilaja",
+      "kode_wilayah": "36.01.34.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.34"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Durian Rampak",
+      "kode_wilayah": "16.73.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.04"
+    },
+    {
+      "nama_wilayah": "Tanjung Raya",
+      "kode_wilayah": "16.73.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.04"
+    },
+    {
+      "nama_wilayah": "Sumber Agung",
+      "kode_wilayah": "16.73.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.04"
+    },
+    {
+      "nama_wilayah": "Marga Bakti",
+      "kode_wilayah": "16.73.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.04"
+    },
+    {
+      "nama_wilayah": "Belalau I",
+      "kode_wilayah": "16.73.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.04"
+    },
+    {
+      "nama_wilayah": "Belalau II",
+      "kode_wilayah": "16.73.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.04"
+    },
+    {
+      "nama_wilayah": "Taba Baru",
+      "kode_wilayah": "16.73.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.04"
+    },
+    {
+      "nama_wilayah": "Margorejo",
+      "kode_wilayah": "16.73.04.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.04"
+    },
+    {
+      "nama_wilayah": "Petanang Ulu",
+      "kode_wilayah": "16.73.04.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.04"
+    },
+    {
+      "nama_wilayah": "Petanang Ilir",
+      "kode_wilayah": "16.73.04.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.73",
+      "kode_kecamatan": "16.73.04"
+    }
+  ]
+}

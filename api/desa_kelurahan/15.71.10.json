@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Putri",
+      "kode_wilayah": "15.71.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.10"
+    },
+    {
+      "nama_wilayah": "Murni",
+      "kode_wilayah": "15.71.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.10"
+    },
+    {
+      "nama_wilayah": "Legok",
+      "kode_wilayah": "15.71.10.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.10"
+    },
+    {
+      "nama_wilayah": "Selamat",
+      "kode_wilayah": "15.71.10.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.10"
+    },
+    {
+      "nama_wilayah": "Solok Sipin",
+      "kode_wilayah": "15.71.10.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.10"
+    }
+  ]
+}

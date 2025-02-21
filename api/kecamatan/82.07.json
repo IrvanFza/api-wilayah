@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Morotai Selatan",
+      "kode_wilayah": "82.07.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.07",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Morotai Selatan Barat",
+      "kode_wilayah": "82.07.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.07",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Morotai Jaya",
+      "kode_wilayah": "82.07.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.07",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Morotai Utara",
+      "kode_wilayah": "82.07.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.07",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Morotai Timur",
+      "kode_wilayah": "82.07.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.07",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Pulau Rao",
+      "kode_wilayah": "82.07.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.07",
+      "kode_provinsi": "82"
+    }
+  ]
+}

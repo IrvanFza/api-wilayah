@@ -1,0 +1,206 @@
+{
+  "status": "success",
+  "total": 25,
+  "data": [
+    {
+      "nama_wilayah": "Kemantan Tinggi",
+      "kode_wilayah": "15.01.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Kemantan Kebalai",
+      "kode_wilayah": "15.01.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Kemantan Darat",
+      "kode_wilayah": "15.01.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Sungaiabu",
+      "kode_wilayah": "15.01.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Pondok Sungaiabu",
+      "kode_wilayah": "15.01.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Koto Tebat",
+      "kode_wilayah": "15.01.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Sungaimedang",
+      "kode_wilayah": "15.01.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Air Hangat",
+      "kode_wilayah": "15.01.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Baru Sungai Tutung",
+      "kode_wilayah": "15.01.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Pungut Tengah",
+      "kode_wilayah": "15.01.11.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Pungut Hilir",
+      "kode_wilayah": "15.01.11.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Pungut Mudik",
+      "kode_wilayah": "15.01.11.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Kemantan Hilir",
+      "kode_wilayah": "15.01.11.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Sungaitutung",
+      "kode_wilayah": "15.01.11.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Kemantan Agung",
+      "kode_wilayah": "15.01.11.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Sungaideras",
+      "kode_wilayah": "15.01.11.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Kemantan Mudik",
+      "kode_wilayah": "15.01.11.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Simpang Empat Sungai Tutung",
+      "kode_wilayah": "15.01.11.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Baru Sungaideras",
+      "kode_wilayah": "15.01.11.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Taman Jernih Sungaitutung",
+      "kode_wilayah": "15.01.11.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Baru Sungaimedang",
+      "kode_wilayah": "15.01.11.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Kemantan Raya",
+      "kode_wilayah": "15.01.11.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Baru Air Hangat",
+      "kode_wilayah": "15.01.11.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Air Panas Sungaiabu",
+      "kode_wilayah": "15.01.11.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    },
+    {
+      "nama_wilayah": "Baru Sungaiabu",
+      "kode_wilayah": "15.01.11.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.01",
+      "kode_kecamatan": "15.01.11"
+    }
+  ]
+}

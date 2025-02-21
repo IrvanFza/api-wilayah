@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Mot",
+      "kode_wilayah": "95.02.29.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.29"
+    },
+    {
+      "nama_wilayah": "Milki",
+      "kode_wilayah": "95.02.29.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.29"
+    },
+    {
+      "nama_wilayah": "Yubu",
+      "kode_wilayah": "95.02.29.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.29"
+    },
+    {
+      "nama_wilayah": "Muara Asbi",
+      "kode_wilayah": "95.02.29.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.29"
+    },
+    {
+      "nama_wilayah": "Tual",
+      "kode_wilayah": "95.02.29.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.29"
+    }
+  ]
+}

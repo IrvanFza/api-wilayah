@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Dairi",
+      "kode_wilayah": "91.15.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.10"
+    },
+    {
+      "nama_wilayah": "Spoiri",
+      "kode_wilayah": "91.15.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.10"
+    },
+    {
+      "nama_wilayah": "Sooh",
+      "kode_wilayah": "91.15.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.10"
+    },
+    {
+      "nama_wilayah": "Dirou",
+      "kode_wilayah": "91.15.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.10"
+    },
+    {
+      "nama_wilayah": "Diwah",
+      "kode_wilayah": "91.15.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.10"
+    },
+    {
+      "nama_wilayah": "Kuaisa",
+      "kode_wilayah": "91.15.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.10"
+    },
+    {
+      "nama_wilayah": "Aru Antu",
+      "kode_wilayah": "91.15.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.10"
+    },
+    {
+      "nama_wilayah": "Foira",
+      "kode_wilayah": "91.15.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.10"
+    },
+    {
+      "nama_wilayah": "Kawari",
+      "kode_wilayah": "91.15.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.10"
+    },
+    {
+      "nama_wilayah": "Wafuka",
+      "kode_wilayah": "91.15.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.15",
+      "kode_kecamatan": "91.15.10"
+    }
+  ]
+}

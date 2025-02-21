@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Inomata",
+      "kode_wilayah": "75.03.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.10"
+    },
+    {
+      "nama_wilayah": "Tumbulilato",
+      "kode_wilayah": "75.03.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.10"
+    },
+    {
+      "nama_wilayah": "Mootayu",
+      "kode_wilayah": "75.03.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.10"
+    },
+    {
+      "nama_wilayah": "Mootinelo",
+      "kode_wilayah": "75.03.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.10"
+    },
+    {
+      "nama_wilayah": "Pelita Jaya",
+      "kode_wilayah": "75.03.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.10"
+    },
+    {
+      "nama_wilayah": "Moopiya",
+      "kode_wilayah": "75.03.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.10"
+    },
+    {
+      "nama_wilayah": "Alo",
+      "kode_wilayah": "75.03.10.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.10"
+    },
+    {
+      "nama_wilayah": "Laut Biru",
+      "kode_wilayah": "75.03.10.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.10"
+    },
+    {
+      "nama_wilayah": "Bunga",
+      "kode_wilayah": "75.03.10.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.10"
+    },
+    {
+      "nama_wilayah": "Mootawa",
+      "kode_wilayah": "75.03.10.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.03",
+      "kode_kecamatan": "75.03.10"
+    }
+  ]
+}

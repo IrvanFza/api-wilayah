@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Wamesa I / Idoor",
+      "kode_wilayah": "92.06.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.07"
+    },
+    {
+      "nama_wilayah": "Wamesa II / Yakati",
+      "kode_wilayah": "92.06.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.07"
+    },
+    {
+      "nama_wilayah": "Yansei",
+      "kode_wilayah": "92.06.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.07"
+    },
+    {
+      "nama_wilayah": "Mamuranu",
+      "kode_wilayah": "92.06.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.07"
+    }
+  ]
+}

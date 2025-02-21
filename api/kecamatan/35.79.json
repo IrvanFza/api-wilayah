@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Batu",
+      "kode_wilayah": "35.79.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "35.79",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama_wilayah": "Bumiaji",
+      "kode_wilayah": "35.79.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "35.79",
+      "kode_provinsi": "35"
+    },
+    {
+      "nama_wilayah": "Junrejo",
+      "kode_wilayah": "35.79.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "35.79",
+      "kode_provinsi": "35"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Seruyan Hilir",
+      "kode_wilayah": "62.07.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.07",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Seruyan Tengah",
+      "kode_wilayah": "62.07.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.07",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Danau Sembuluh",
+      "kode_wilayah": "62.07.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.07",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Hanau",
+      "kode_wilayah": "62.07.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.07",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Seruyan Hulu",
+      "kode_wilayah": "62.07.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.07",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Seruyan Hilir Timur",
+      "kode_wilayah": "62.07.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.07",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Seruyan Raya",
+      "kode_wilayah": "62.07.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.07",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Danau Seluluk",
+      "kode_wilayah": "62.07.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.07",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Batu Ampar",
+      "kode_wilayah": "62.07.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.07",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Suling Tambun",
+      "kode_wilayah": "62.07.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.07",
+      "kode_provinsi": "62"
+    }
+  ]
+}

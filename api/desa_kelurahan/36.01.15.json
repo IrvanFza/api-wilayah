@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Palanyar",
+      "kode_wilayah": "36.01.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.15"
+    },
+    {
+      "nama_wilayah": "Baturanjang",
+      "kode_wilayah": "36.01.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.15"
+    },
+    {
+      "nama_wilayah": "Cikadueun",
+      "kode_wilayah": "36.01.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.15"
+    },
+    {
+      "nama_wilayah": "Koncang",
+      "kode_wilayah": "36.01.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.15"
+    },
+    {
+      "nama_wilayah": "Kadugadung",
+      "kode_wilayah": "36.01.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.15"
+    },
+    {
+      "nama_wilayah": "Parumasan",
+      "kode_wilayah": "36.01.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.15"
+    },
+    {
+      "nama_wilayah": "Curugbarang",
+      "kode_wilayah": "36.01.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.15"
+    },
+    {
+      "nama_wilayah": "Kalanggunung",
+      "kode_wilayah": "36.01.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.15"
+    },
+    {
+      "nama_wilayah": "Pasireurih",
+      "kode_wilayah": "36.01.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.15"
+    },
+    {
+      "nama_wilayah": "Pasirmae",
+      "kode_wilayah": "36.01.15.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.01",
+      "kode_kecamatan": "36.01.15"
+    }
+  ]
+}

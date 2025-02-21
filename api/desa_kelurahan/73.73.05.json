@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Surutanga",
+      "kode_wilayah": "73.73.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.05"
+    },
+    {
+      "nama_wilayah": "Benteng",
+      "kode_wilayah": "73.73.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.05"
+    },
+    {
+      "nama_wilayah": "Pontap",
+      "kode_wilayah": "73.73.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.05"
+    },
+    {
+      "nama_wilayah": "Malatunrung",
+      "kode_wilayah": "73.73.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.05"
+    },
+    {
+      "nama_wilayah": "Salekoe",
+      "kode_wilayah": "73.73.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.05"
+    },
+    {
+      "nama_wilayah": "Salotellue",
+      "kode_wilayah": "73.73.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.05"
+    },
+    {
+      "nama_wilayah": "Ponjalae",
+      "kode_wilayah": "73.73.05.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.73",
+      "kode_kecamatan": "73.73.05"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Balleangin",
+      "kode_wilayah": "73.10.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.05"
+    },
+    {
+      "nama_wilayah": "Balocci Baru",
+      "kode_wilayah": "73.10.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.05"
+    },
+    {
+      "nama_wilayah": "Kassi",
+      "kode_wilayah": "73.10.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.05"
+    },
+    {
+      "nama_wilayah": "Tonasa",
+      "kode_wilayah": "73.10.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.05"
+    },
+    {
+      "nama_wilayah": "Tompo Bulu",
+      "kode_wilayah": "73.10.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.10",
+      "kode_kecamatan": "73.10.05"
+    }
+  ]
+}

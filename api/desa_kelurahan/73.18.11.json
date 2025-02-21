@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tapparan",
+      "kode_wilayah": "73.18.11.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.11"
+    },
+    {
+      "nama_wilayah": "Rantetayo",
+      "kode_wilayah": "73.18.11.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.11"
+    },
+    {
+      "nama_wilayah": "Padangiring",
+      "kode_wilayah": "73.18.11.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.11"
+    },
+    {
+      "nama_wilayah": "Madandan",
+      "kode_wilayah": "73.18.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.11"
+    },
+    {
+      "nama_wilayah": "Tapparan Utara",
+      "kode_wilayah": "73.18.11.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.11"
+    },
+    {
+      "nama_wilayah": "Tonglo",
+      "kode_wilayah": "73.18.11.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.11"
+    }
+  ]
+}

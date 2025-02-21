@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Mafututu",
+      "kode_wilayah": "82.72.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.72",
+      "kode_kecamatan": "82.72.08"
+    },
+    {
+      "nama_wilayah": "Tosa",
+      "kode_wilayah": "82.72.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.72",
+      "kode_kecamatan": "82.72.08"
+    },
+    {
+      "nama_wilayah": "Dowora",
+      "kode_wilayah": "82.72.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.72",
+      "kode_kecamatan": "82.72.08"
+    },
+    {
+      "nama_wilayah": "Kalaodi",
+      "kode_wilayah": "82.72.08.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.72",
+      "kode_kecamatan": "82.72.08"
+    },
+    {
+      "nama_wilayah": "Cobodoe",
+      "kode_wilayah": "82.72.08.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.72",
+      "kode_kecamatan": "82.72.08"
+    },
+    {
+      "nama_wilayah": "Doyado",
+      "kode_wilayah": "82.72.08.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.72",
+      "kode_kecamatan": "82.72.08"
+    },
+    {
+      "nama_wilayah": "Jiko Cobo",
+      "kode_wilayah": "82.72.08.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.72",
+      "kode_kecamatan": "82.72.08"
+    }
+  ]
+}

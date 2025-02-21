@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Petanang",
+      "kode_wilayah": "16.03.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.17"
+    },
+    {
+      "nama_wilayah": "Talang Nangka",
+      "kode_wilayah": "16.03.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.17"
+    },
+    {
+      "nama_wilayah": "Alai",
+      "kode_wilayah": "16.03.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.17"
+    },
+    {
+      "nama_wilayah": "Sungai Duren",
+      "kode_wilayah": "16.03.17.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.17"
+    },
+    {
+      "nama_wilayah": "Tapus",
+      "kode_wilayah": "16.03.17.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.17"
+    },
+    {
+      "nama_wilayah": "Lembak",
+      "kode_wilayah": "16.03.17.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.17"
+    },
+    {
+      "nama_wilayah": "Kemang",
+      "kode_wilayah": "16.03.17.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.17"
+    },
+    {
+      "nama_wilayah": "Lubuk Enau",
+      "kode_wilayah": "16.03.17.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.17"
+    },
+    {
+      "nama_wilayah": "Alai Selatan",
+      "kode_wilayah": "16.03.17.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.17"
+    },
+    {
+      "nama_wilayah": "Tanjung Baru",
+      "kode_wilayah": "16.03.17.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.03",
+      "kode_kecamatan": "16.03.17"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kalarin",
+      "kode_wilayah": "95.05.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.05",
+      "kode_kecamatan": "95.05.05"
+    },
+    {
+      "nama_wilayah": "Melenggama",
+      "kode_wilayah": "95.05.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.05",
+      "kode_kecamatan": "95.05.05"
+    },
+    {
+      "nama_wilayah": "Ilugwa",
+      "kode_wilayah": "95.05.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.05",
+      "kode_kecamatan": "95.05.05"
+    },
+    {
+      "nama_wilayah": "Wirima",
+      "kode_wilayah": "95.05.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.05",
+      "kode_kecamatan": "95.05.05"
+    },
+    {
+      "nama_wilayah": "Danama",
+      "kode_wilayah": "95.05.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.05",
+      "kode_kecamatan": "95.05.05"
+    },
+    {
+      "nama_wilayah": "Illusilimo",
+      "kode_wilayah": "95.05.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.05",
+      "kode_kecamatan": "95.05.05"
+    }
+  ]
+}

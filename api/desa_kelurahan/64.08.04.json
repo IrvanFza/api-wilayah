@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Teluk Lingga",
+      "kode_wilayah": "64.08.04.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.04"
+    },
+    {
+      "nama_wilayah": "Sangatta Utara",
+      "kode_wilayah": "64.08.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.04"
+    },
+    {
+      "nama_wilayah": "Singa Gembara",
+      "kode_wilayah": "64.08.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.04"
+    },
+    {
+      "nama_wilayah": "Swarga Bara",
+      "kode_wilayah": "64.08.04.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.04"
+    }
+  ]
+}

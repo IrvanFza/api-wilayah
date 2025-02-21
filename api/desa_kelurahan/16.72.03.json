@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Jangkar Mas",
+      "kode_wilayah": "16.72.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.03"
+    },
+    {
+      "nama_wilayah": "Bumi Agung",
+      "kode_wilayah": "16.72.03.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.03"
+    },
+    {
+      "nama_wilayah": "Muara Siban",
+      "kode_wilayah": "16.72.03.1019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.03"
+    },
+    {
+      "nama_wilayah": "Agung Lawangan",
+      "kode_wilayah": "16.72.03.1022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.03"
+    },
+    {
+      "nama_wilayah": "Pagar Wangi",
+      "kode_wilayah": "16.72.03.1023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.03"
+    },
+    {
+      "nama_wilayah": "Burung Dinang",
+      "kode_wilayah": "16.72.03.1024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.03"
+    },
+    {
+      "nama_wilayah": "Rebah Tinggi",
+      "kode_wilayah": "16.72.03.1025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.03"
+    }
+  ]
+}

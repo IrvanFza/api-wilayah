@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Floyi",
+      "kode_wilayah": "96.01.27.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.27"
+    },
+    {
+      "nama_wilayah": "Klazelt",
+      "kode_wilayah": "96.01.27.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.27"
+    },
+    {
+      "nama_wilayah": "Brianlo",
+      "kode_wilayah": "96.01.27.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.27"
+    },
+    {
+      "nama_wilayah": "Hobard",
+      "kode_wilayah": "96.01.27.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.27"
+    },
+    {
+      "nama_wilayah": "Sfadon",
+      "kode_wilayah": "96.01.27.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.27"
+    },
+    {
+      "nama_wilayah": "Dais",
+      "kode_wilayah": "96.01.27.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.27"
+    },
+    {
+      "nama_wilayah": "Selol",
+      "kode_wilayah": "96.01.27.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.27"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Pasiran",
+      "kode_wilayah": "61.72.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.02"
+    },
+    {
+      "nama_wilayah": "Melayu",
+      "kode_wilayah": "61.72.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.02"
+    },
+    {
+      "nama_wilayah": "Tengah",
+      "kode_wilayah": "61.72.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.02"
+    },
+    {
+      "nama_wilayah": "Kuala",
+      "kode_wilayah": "61.72.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.02"
+    }
+  ]
+}

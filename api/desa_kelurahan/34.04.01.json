@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Balecatur",
+      "kode_wilayah": "34.04.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.01"
+    },
+    {
+      "nama_wilayah": "Ambarketawang",
+      "kode_wilayah": "34.04.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.01"
+    },
+    {
+      "nama_wilayah": "Banyuraden",
+      "kode_wilayah": "34.04.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.01"
+    },
+    {
+      "nama_wilayah": "Nogotirto",
+      "kode_wilayah": "34.04.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.01"
+    },
+    {
+      "nama_wilayah": "Trihanggo",
+      "kode_wilayah": "34.04.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.01"
+    }
+  ]
+}

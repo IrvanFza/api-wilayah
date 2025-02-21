@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Mandalasena",
+      "kode_wilayah": "12.22.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.22",
+      "kode_kecamatan": "12.22.05"
+    },
+    {
+      "nama_wilayah": "Binangadua",
+      "kode_wilayah": "12.22.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.22",
+      "kode_kecamatan": "12.22.05"
+    },
+    {
+      "nama_wilayah": "Aek Goti",
+      "kode_wilayah": "12.22.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.22",
+      "kode_kecamatan": "12.22.05"
+    },
+    {
+      "nama_wilayah": "Ulu Mahuam",
+      "kode_wilayah": "12.22.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.22",
+      "kode_kecamatan": "12.22.05"
+    },
+    {
+      "nama_wilayah": "Rintis",
+      "kode_wilayah": "12.22.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.22",
+      "kode_kecamatan": "12.22.05"
+    },
+    {
+      "nama_wilayah": "Sukadame",
+      "kode_wilayah": "12.22.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.22",
+      "kode_kecamatan": "12.22.05"
+    }
+  ]
+}

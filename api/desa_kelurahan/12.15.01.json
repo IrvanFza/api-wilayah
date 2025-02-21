@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Meriah",
+      "kode_wilayah": "12.15.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.01"
+    },
+    {
+      "nama_wilayah": "Tanjung Mulia",
+      "kode_wilayah": "12.15.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.01"
+    },
+    {
+      "nama_wilayah": "Kaban Tengah",
+      "kode_wilayah": "12.15.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.01"
+    },
+    {
+      "nama_wilayah": "Bandar Baru",
+      "kode_wilayah": "12.15.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.01"
+    },
+    {
+      "nama_wilayah": "Simberruna",
+      "kode_wilayah": "12.15.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.01"
+    },
+    {
+      "nama_wilayah": "Perolihen",
+      "kode_wilayah": "12.15.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.01"
+    },
+    {
+      "nama_wilayah": "Maholida",
+      "kode_wilayah": "12.15.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.01"
+    },
+    {
+      "nama_wilayah": "Perjaga",
+      "kode_wilayah": "12.15.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.01"
+    },
+    {
+      "nama_wilayah": "Malum",
+      "kode_wilayah": "12.15.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.01"
+    },
+    {
+      "nama_wilayah": "Mbinalun",
+      "kode_wilayah": "12.15.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.15",
+      "kode_kecamatan": "12.15.01"
+    }
+  ]
+}

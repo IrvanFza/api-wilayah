@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Yarmatum",
+      "kode_wilayah": "92.11.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.11",
+      "kode_kecamatan": "92.11.06"
+    },
+    {
+      "nama_wilayah": "Reyob",
+      "kode_wilayah": "92.11.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.11",
+      "kode_kecamatan": "92.11.06"
+    },
+    {
+      "nama_wilayah": "Kaprus",
+      "kode_wilayah": "92.11.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.11",
+      "kode_kecamatan": "92.11.06"
+    },
+    {
+      "nama_wilayah": "Seimeba",
+      "kode_wilayah": "92.11.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.11",
+      "kode_kecamatan": "92.11.06"
+    }
+  ]
+}

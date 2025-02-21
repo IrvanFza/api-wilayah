@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Mororejo",
+      "kode_wilayah": "33.20.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.20",
+      "kode_kecamatan": "33.20.07"
+    },
+    {
+      "nama_wilayah": "Suwawal",
+      "kode_wilayah": "33.20.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.20",
+      "kode_kecamatan": "33.20.07"
+    },
+    {
+      "nama_wilayah": "Sinanggul",
+      "kode_wilayah": "33.20.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.20",
+      "kode_kecamatan": "33.20.07"
+    },
+    {
+      "nama_wilayah": "Jambu",
+      "kode_wilayah": "33.20.07.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.20",
+      "kode_kecamatan": "33.20.07"
+    },
+    {
+      "nama_wilayah": "Srobyong",
+      "kode_wilayah": "33.20.07.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.20",
+      "kode_kecamatan": "33.20.07"
+    },
+    {
+      "nama_wilayah": "Sekuro",
+      "kode_wilayah": "33.20.07.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.20",
+      "kode_kecamatan": "33.20.07"
+    },
+    {
+      "nama_wilayah": "Karanggondang",
+      "kode_wilayah": "33.20.07.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.20",
+      "kode_kecamatan": "33.20.07"
+    },
+    {
+      "nama_wilayah": "Jambu Timur",
+      "kode_wilayah": "33.20.07.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.20",
+      "kode_kecamatan": "33.20.07"
+    }
+  ]
+}

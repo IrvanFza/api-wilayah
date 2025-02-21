@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kelumpang",
+      "kode_wilayah": "16.01.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.20"
+    },
+    {
+      "nama_wilayah": "Gunung Tiga",
+      "kode_wilayah": "16.01.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.20"
+    },
+    {
+      "nama_wilayah": "Mendingin",
+      "kode_wilayah": "16.01.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.20"
+    },
+    {
+      "nama_wilayah": "Ulak Lebar",
+      "kode_wilayah": "16.01.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.20"
+    },
+    {
+      "nama_wilayah": "Pedataran",
+      "kode_wilayah": "16.01.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.20"
+    },
+    {
+      "nama_wilayah": "Sukajadi",
+      "kode_wilayah": "16.01.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.20"
+    },
+    {
+      "nama_wilayah": "Belandang",
+      "kode_wilayah": "16.01.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.01",
+      "kode_kecamatan": "16.01.20"
+    }
+  ]
+}

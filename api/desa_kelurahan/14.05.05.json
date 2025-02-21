@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Langgam",
+      "kode_wilayah": "14.05.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.05"
+    },
+    {
+      "nama_wilayah": "Tambak",
+      "kode_wilayah": "14.05.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.05"
+    },
+    {
+      "nama_wilayah": "Penarikan",
+      "kode_wilayah": "14.05.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.05"
+    },
+    {
+      "nama_wilayah": "Segati",
+      "kode_wilayah": "14.05.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.05"
+    },
+    {
+      "nama_wilayah": "Sotol",
+      "kode_wilayah": "14.05.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.05"
+    },
+    {
+      "nama_wilayah": "Pangkalan Gondai",
+      "kode_wilayah": "14.05.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.05"
+    },
+    {
+      "nama_wilayah": "Langkan",
+      "kode_wilayah": "14.05.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.05"
+    },
+    {
+      "nama_wilayah": "Padang Luas",
+      "kode_wilayah": "14.05.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.05"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Bakam",
+      "kode_wilayah": "19.01.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.06"
+    },
+    {
+      "nama_wilayah": "Kapuk",
+      "kode_wilayah": "19.01.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.06"
+    },
+    {
+      "nama_wilayah": "Dalil",
+      "kode_wilayah": "19.01.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.06"
+    },
+    {
+      "nama_wilayah": "Neknang",
+      "kode_wilayah": "19.01.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.06"
+    },
+    {
+      "nama_wilayah": "Tiang Tarah",
+      "kode_wilayah": "19.01.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.06"
+    },
+    {
+      "nama_wilayah": "Mangka",
+      "kode_wilayah": "19.01.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.06"
+    },
+    {
+      "nama_wilayah": "Mabat",
+      "kode_wilayah": "19.01.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.06"
+    },
+    {
+      "nama_wilayah": "Bukit Layang",
+      "kode_wilayah": "19.01.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.06"
+    },
+    {
+      "nama_wilayah": "Maras Senang",
+      "kode_wilayah": "19.01.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.06"
+    }
+  ]
+}

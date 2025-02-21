@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Tuhiba",
+      "kode_wilayah": "92.06.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.12"
+    },
+    {
+      "nama_wilayah": "Tisaida",
+      "kode_wilayah": "92.06.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.12"
+    },
+    {
+      "nama_wilayah": "Kucir",
+      "kode_wilayah": "92.06.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.12"
+    },
+    {
+      "nama_wilayah": "Sibena Raya",
+      "kode_wilayah": "92.06.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.12"
+    },
+    {
+      "nama_wilayah": "Sibena Permai",
+      "kode_wilayah": "92.06.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.12"
+    }
+  ]
+}

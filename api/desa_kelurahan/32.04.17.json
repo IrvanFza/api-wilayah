@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Cimaung",
+      "kode_wilayah": "32.04.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.17"
+    },
+    {
+      "nama_wilayah": "Jagabaya",
+      "kode_wilayah": "32.04.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.17"
+    },
+    {
+      "nama_wilayah": "Pasirhuni",
+      "kode_wilayah": "32.04.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.17"
+    },
+    {
+      "nama_wilayah": "Campakamulya",
+      "kode_wilayah": "32.04.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.17"
+    },
+    {
+      "nama_wilayah": "Cipinang",
+      "kode_wilayah": "32.04.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.17"
+    },
+    {
+      "nama_wilayah": "Mekarsari",
+      "kode_wilayah": "32.04.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.17"
+    },
+    {
+      "nama_wilayah": "Sukamaju",
+      "kode_wilayah": "32.04.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.17"
+    },
+    {
+      "nama_wilayah": "Cikalong",
+      "kode_wilayah": "32.04.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.17"
+    },
+    {
+      "nama_wilayah": "Malasari",
+      "kode_wilayah": "32.04.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.17"
+    },
+    {
+      "nama_wilayah": "Warjabakti",
+      "kode_wilayah": "32.04.17.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.17"
+    }
+  ]
+}

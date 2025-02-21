@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tambelang",
+      "kode_wilayah": "32.09.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.06"
+    },
+    {
+      "nama_wilayah": "Karangsuwung",
+      "kode_wilayah": "32.09.06.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.06"
+    },
+    {
+      "nama_wilayah": "Karangtengah",
+      "kode_wilayah": "32.09.06.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.06"
+    },
+    {
+      "nama_wilayah": "Kalimeang",
+      "kode_wilayah": "32.09.06.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.06"
+    },
+    {
+      "nama_wilayah": "Karangmalang",
+      "kode_wilayah": "32.09.06.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.06"
+    },
+    {
+      "nama_wilayah": "Karangmekar",
+      "kode_wilayah": "32.09.06.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.06"
+    },
+    {
+      "nama_wilayah": "Kubangkarang",
+      "kode_wilayah": "32.09.06.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.06"
+    },
+    {
+      "nama_wilayah": "Karangsembung",
+      "kode_wilayah": "32.09.06.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.06"
+    }
+  ]
+}

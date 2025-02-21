@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Kalinyamat Wetan",
+      "kode_wilayah": "33.76.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.03"
+    },
+    {
+      "nama_wilayah": "Bandung",
+      "kode_wilayah": "33.76.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.03"
+    },
+    {
+      "nama_wilayah": "Debong Kidul",
+      "kode_wilayah": "33.76.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.03"
+    },
+    {
+      "nama_wilayah": "Tunon",
+      "kode_wilayah": "33.76.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.03"
+    },
+    {
+      "nama_wilayah": "Keturen",
+      "kode_wilayah": "33.76.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.03"
+    },
+    {
+      "nama_wilayah": "Debong Kulon",
+      "kode_wilayah": "33.76.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.03"
+    },
+    {
+      "nama_wilayah": "Debong Tengah",
+      "kode_wilayah": "33.76.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.03"
+    },
+    {
+      "nama_wilayah": "Randugunting",
+      "kode_wilayah": "33.76.03.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.03"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bu Selatan",
+      "kode_wilayah": "53.07.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.17"
+    },
+    {
+      "nama_wilayah": "Bu Utara",
+      "kode_wilayah": "53.07.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.17"
+    },
+    {
+      "nama_wilayah": "Bu Watuweti",
+      "kode_wilayah": "53.07.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.17"
+    },
+    {
+      "nama_wilayah": "Loke",
+      "kode_wilayah": "53.07.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.17"
+    },
+    {
+      "nama_wilayah": "Renggarasi",
+      "kode_wilayah": "53.07.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.17"
+    },
+    {
+      "nama_wilayah": "Detubinga",
+      "kode_wilayah": "53.07.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.17"
+    },
+    {
+      "nama_wilayah": "Tuwa",
+      "kode_wilayah": "53.07.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.17"
+    },
+    {
+      "nama_wilayah": "Poma",
+      "kode_wilayah": "53.07.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.17"
+    },
+    {
+      "nama_wilayah": "Bu Barat",
+      "kode_wilayah": "53.07.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.17"
+    },
+    {
+      "nama_wilayah": "Bu Nuapuâ€™u",
+      "kode_wilayah": "53.07.17.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.17"
+    }
+  ]
+}

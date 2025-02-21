@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Setulang",
+      "kode_wilayah": "61.06.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.12"
+    },
+    {
+      "nama_wilayah": "Sepandan",
+      "kode_wilayah": "61.06.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.12"
+    },
+    {
+      "nama_wilayah": "Sungai Ajung",
+      "kode_wilayah": "61.06.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.12"
+    },
+    {
+      "nama_wilayah": "Sungai Abau",
+      "kode_wilayah": "61.06.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.12"
+    },
+    {
+      "nama_wilayah": "Labian",
+      "kode_wilayah": "61.06.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.12"
+    },
+    {
+      "nama_wilayah": "Mensiau",
+      "kode_wilayah": "61.06.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.12"
+    },
+    {
+      "nama_wilayah": "Melemba",
+      "kode_wilayah": "61.06.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.12"
+    },
+    {
+      "nama_wilayah": "Lanjak Deras",
+      "kode_wilayah": "61.06.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.12"
+    },
+    {
+      "nama_wilayah": "Sungai Senunuk",
+      "kode_wilayah": "61.06.12.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.12"
+    },
+    {
+      "nama_wilayah": "Labian Ira-ang",
+      "kode_wilayah": "61.06.12.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.12"
+    }
+  ]
+}

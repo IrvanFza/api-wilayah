@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Ariate",
+      "kode_wilayah": "81.06.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.08"
+    },
+    {
+      "nama_wilayah": "Lokki",
+      "kode_wilayah": "81.06.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.08"
+    },
+    {
+      "nama_wilayah": "Luhu",
+      "kode_wilayah": "81.06.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.08"
+    },
+    {
+      "nama_wilayah": "Iha",
+      "kode_wilayah": "81.06.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.08"
+    },
+    {
+      "nama_wilayah": "Kulur",
+      "kode_wilayah": "81.06.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.06",
+      "kode_kecamatan": "81.06.08"
+    }
+  ]
+}

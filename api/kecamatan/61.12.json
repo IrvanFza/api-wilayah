@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Raya",
+      "kode_wilayah": "61.12.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.12",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Kuala Mandor B",
+      "kode_wilayah": "61.12.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.12",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Sungai Ambawang",
+      "kode_wilayah": "61.12.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.12",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Terentang",
+      "kode_wilayah": "61.12.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.12",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Batu Ampar",
+      "kode_wilayah": "61.12.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.12",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Kubu",
+      "kode_wilayah": "61.12.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.12",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Rasau Jaya",
+      "kode_wilayah": "61.12.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.12",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Teluk Pakedai",
+      "kode_wilayah": "61.12.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.12",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Sungai Kakap",
+      "kode_wilayah": "61.12.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.12",
+      "kode_provinsi": "61"
+    }
+  ]
+}

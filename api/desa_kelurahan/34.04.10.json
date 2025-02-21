@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Purwomartani",
+      "kode_wilayah": "34.04.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.10"
+    },
+    {
+      "nama_wilayah": "Tirtomartani",
+      "kode_wilayah": "34.04.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.10"
+    },
+    {
+      "nama_wilayah": "Tamanmartani",
+      "kode_wilayah": "34.04.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.10"
+    },
+    {
+      "nama_wilayah": "Selomartani",
+      "kode_wilayah": "34.04.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.04",
+      "kode_kecamatan": "34.04.10"
+    }
+  ]
+}

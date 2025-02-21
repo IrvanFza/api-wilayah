@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sidaharja",
+      "kode_wilayah": "32.07.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.17"
+    },
+    {
+      "nama_wilayah": "Kertajaya",
+      "kode_wilayah": "32.07.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.17"
+    },
+    {
+      "nama_wilayah": "Sukanagara",
+      "kode_wilayah": "32.07.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.17"
+    },
+    {
+      "nama_wilayah": "Cintajaya",
+      "kode_wilayah": "32.07.17.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.17"
+    },
+    {
+      "nama_wilayah": "Cintaratu",
+      "kode_wilayah": "32.07.17.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.17"
+    },
+    {
+      "nama_wilayah": "Sindangangin",
+      "kode_wilayah": "32.07.17.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.17"
+    },
+    {
+      "nama_wilayah": "Tambakreja",
+      "kode_wilayah": "32.07.17.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.17"
+    },
+    {
+      "nama_wilayah": "Baregbeg",
+      "kode_wilayah": "32.07.17.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.17"
+    },
+    {
+      "nama_wilayah": "Kalapasawit",
+      "kode_wilayah": "32.07.17.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.17"
+    },
+    {
+      "nama_wilayah": "Puloerang",
+      "kode_wilayah": "32.07.17.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.07",
+      "kode_kecamatan": "32.07.17"
+    }
+  ]
+}

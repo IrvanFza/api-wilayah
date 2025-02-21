@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Trahean",
+      "kode_wilayah": "62.05.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.08"
+    },
+    {
+      "nama_wilayah": "Trinsing",
+      "kode_wilayah": "62.05.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.08"
+    },
+    {
+      "nama_wilayah": "Bintang Ninggi I",
+      "kode_wilayah": "62.05.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.08"
+    },
+    {
+      "nama_wilayah": "Bintang Ninggi II",
+      "kode_wilayah": "62.05.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.08"
+    },
+    {
+      "nama_wilayah": "Butong",
+      "kode_wilayah": "62.05.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.08"
+    },
+    {
+      "nama_wilayah": "Buntok Baru",
+      "kode_wilayah": "62.05.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.08"
+    },
+    {
+      "nama_wilayah": "Bukit Sawit",
+      "kode_wilayah": "62.05.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.08"
+    },
+    {
+      "nama_wilayah": "Tawan Jaya",
+      "kode_wilayah": "62.05.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.08"
+    },
+    {
+      "nama_wilayah": "Pandran Raya",
+      "kode_wilayah": "62.05.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.08"
+    },
+    {
+      "nama_wilayah": "Pandran Permai",
+      "kode_wilayah": "62.05.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.05",
+      "kode_kecamatan": "62.05.08"
+    }
+  ]
+}

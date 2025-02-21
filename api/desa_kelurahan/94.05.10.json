@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Babe",
+      "kode_wilayah": "94.05.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.10"
+    },
+    {
+      "nama_wilayah": "Jambul",
+      "kode_wilayah": "94.05.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.10"
+    },
+    {
+      "nama_wilayah": "Nungai",
+      "kode_wilayah": "94.05.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.10"
+    },
+    {
+      "nama_wilayah": "Mugulip",
+      "kode_wilayah": "94.05.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.10"
+    },
+    {
+      "nama_wilayah": "Kelmabet",
+      "kode_wilayah": "94.05.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.10"
+    },
+    {
+      "nama_wilayah": "Jenggeren",
+      "kode_wilayah": "94.05.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.10"
+    }
+  ]
+}

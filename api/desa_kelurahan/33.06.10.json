@@ -1,0 +1,334 @@
+{
+  "status": "success",
+  "total": 41,
+  "data": [
+    {
+      "nama_wilayah": "Kedungmulyo",
+      "kode_wilayah": "33.06.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Mangunjayan",
+      "kode_wilayah": "33.06.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Karanganom",
+      "kode_wilayah": "33.06.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Tanjunganom",
+      "kode_wilayah": "33.06.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Sidomulyo",
+      "kode_wilayah": "33.06.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Sumbersari",
+      "kode_wilayah": "33.06.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Langenrejo",
+      "kode_wilayah": "33.06.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Tamansari",
+      "kode_wilayah": "33.06.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Wareng",
+      "kode_wilayah": "33.06.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Ketug",
+      "kode_wilayah": "33.06.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Rowodadi",
+      "kode_wilayah": "33.06.10.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Kedungsari",
+      "kode_wilayah": "33.06.10.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Sruwohdukuh",
+      "kode_wilayah": "33.06.10.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Wonodadi",
+      "kode_wilayah": "33.06.10.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Wonorejowetan",
+      "kode_wilayah": "33.06.10.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Wonorejokulon",
+      "kode_wilayah": "33.06.10.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Kunirejokulon",
+      "kode_wilayah": "33.06.10.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Kunirejowetan",
+      "kode_wilayah": "33.06.10.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Kedungsri",
+      "kode_wilayah": "33.06.10.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Kedungagung",
+      "kode_wilayah": "33.06.10.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Sruwohrejo",
+      "kode_wilayah": "33.06.10.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Lugurejo",
+      "kode_wilayah": "33.06.10.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Lugu",
+      "kode_wilayah": "33.06.10.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Kunir",
+      "kode_wilayah": "33.06.10.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Lubangdukuh",
+      "kode_wilayah": "33.06.10.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Tlogorejo",
+      "kode_wilayah": "33.06.10.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Polomarto",
+      "kode_wilayah": "33.06.10.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Tegalgondo",
+      "kode_wilayah": "33.06.10.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Lubanglor",
+      "kode_wilayah": "33.06.10.2029",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Lubangindangan",
+      "kode_wilayah": "33.06.10.2030",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Lubangkidul",
+      "kode_wilayah": "33.06.10.2031",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Lubangsampang",
+      "kode_wilayah": "33.06.10.2032",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Dlangu",
+      "kode_wilayah": "33.06.10.2033",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Andong",
+      "kode_wilayah": "33.06.10.2034",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Kaliwatubumi",
+      "kode_wilayah": "33.06.10.2035",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Kaliwatukranggan",
+      "kode_wilayah": "33.06.10.2036",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Panggeldlangu",
+      "kode_wilayah": "33.06.10.2037",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Binangun",
+      "kode_wilayah": "33.06.10.2038",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Butuh",
+      "kode_wilayah": "33.06.10.2039",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Klepu",
+      "kode_wilayah": "33.06.10.2040",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    },
+    {
+      "nama_wilayah": "Wironatan",
+      "kode_wilayah": "33.06.10.2041",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.06",
+      "kode_kecamatan": "33.06.10"
+    }
+  ]
+}

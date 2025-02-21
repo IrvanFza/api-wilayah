@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Ciracas",
+      "kode_wilayah": "31.75.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.09"
+    },
+    {
+      "nama_wilayah": "Cibubur",
+      "kode_wilayah": "31.75.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.09"
+    },
+    {
+      "nama_wilayah": "Kelapa Dua Wetan",
+      "kode_wilayah": "31.75.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.09"
+    },
+    {
+      "nama_wilayah": "Susukan",
+      "kode_wilayah": "31.75.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.09"
+    },
+    {
+      "nama_wilayah": "Rambutan",
+      "kode_wilayah": "31.75.09.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.09"
+    }
+  ]
+}

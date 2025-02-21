@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Ebungfa",
+      "kode_wilayah": "91.03.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.12"
+    },
+    {
+      "nama_wilayah": "Atabar",
+      "kode_wilayah": "91.03.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.12"
+    },
+    {
+      "nama_wilayah": "Khameyoka",
+      "kode_wilayah": "91.03.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.12"
+    },
+    {
+      "nama_wilayah": "Desa Adat Bobrongko",
+      "kode_wilayah": "91.03.12.3003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.12"
+    },
+    {
+      "nama_wilayah": "Desa Adat Homfolo",
+      "kode_wilayah": "91.03.12.3005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.12"
+    }
+  ]
+}

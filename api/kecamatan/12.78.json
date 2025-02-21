@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Gunungsitoli",
+      "kode_wilayah": "12.78.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.78",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Gunungsitoli Selatan",
+      "kode_wilayah": "12.78.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.78",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Gunungsitoli Utara",
+      "kode_wilayah": "12.78.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.78",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Gunungsitoli Idanoi",
+      "kode_wilayah": "12.78.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.78",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Gunungsitoli Alo-oa",
+      "kode_wilayah": "12.78.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.78",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Gunungsitoli Barat",
+      "kode_wilayah": "12.78.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.78",
+      "kode_provinsi": "12"
+    }
+  ]
+}

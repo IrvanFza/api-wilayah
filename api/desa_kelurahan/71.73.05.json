@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Paslaten Satu",
+      "kode_wilayah": "71.73.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.73",
+      "kode_kecamatan": "71.73.05"
+    },
+    {
+      "nama_wilayah": "Paslaten  Dua",
+      "kode_wilayah": "71.73.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.73",
+      "kode_kecamatan": "71.73.05"
+    },
+    {
+      "nama_wilayah": "Rurukan",
+      "kode_wilayah": "71.73.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.73",
+      "kode_kecamatan": "71.73.05"
+    },
+    {
+      "nama_wilayah": "Rurukan Satu",
+      "kode_wilayah": "71.73.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.73",
+      "kode_kecamatan": "71.73.05"
+    },
+    {
+      "nama_wilayah": "Kumelembuay",
+      "kode_wilayah": "71.73.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.73",
+      "kode_kecamatan": "71.73.05"
+    }
+  ]
+}

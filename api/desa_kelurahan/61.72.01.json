@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Roban",
+      "kode_wilayah": "61.72.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.01"
+    },
+    {
+      "nama_wilayah": "Condong",
+      "kode_wilayah": "61.72.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.01"
+    },
+    {
+      "nama_wilayah": "Sekip Lama",
+      "kode_wilayah": "61.72.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.01"
+    },
+    {
+      "nama_wilayah": "Jawa",
+      "kode_wilayah": "61.72.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.01"
+    },
+    {
+      "nama_wilayah": "Bukit Batu",
+      "kode_wilayah": "61.72.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.01"
+    },
+    {
+      "nama_wilayah": "Sungai Wie",
+      "kode_wilayah": "61.72.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.72",
+      "kode_kecamatan": "61.72.01"
+    }
+  ]
+}

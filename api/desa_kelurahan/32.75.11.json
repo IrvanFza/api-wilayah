@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Padurenan",
+      "kode_wilayah": "32.75.11.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.11"
+    },
+    {
+      "nama_wilayah": "Cimuning",
+      "kode_wilayah": "32.75.11.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.11"
+    },
+    {
+      "nama_wilayah": "Mustikajaya",
+      "kode_wilayah": "32.75.11.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.11"
+    },
+    {
+      "nama_wilayah": "Mustikasari",
+      "kode_wilayah": "32.75.11.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.75",
+      "kode_kecamatan": "32.75.11"
+    }
+  ]
+}

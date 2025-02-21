@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Cigereleng",
+      "kode_wilayah": "32.73.11.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.11"
+    },
+    {
+      "nama_wilayah": "Ancol",
+      "kode_wilayah": "32.73.11.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.11"
+    },
+    {
+      "nama_wilayah": "Pungkur",
+      "kode_wilayah": "32.73.11.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.11"
+    },
+    {
+      "nama_wilayah": "Balong Gede",
+      "kode_wilayah": "32.73.11.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.11"
+    },
+    {
+      "nama_wilayah": "Ciseureuh",
+      "kode_wilayah": "32.73.11.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.11"
+    },
+    {
+      "nama_wilayah": "Ciateul",
+      "kode_wilayah": "32.73.11.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.11"
+    },
+    {
+      "nama_wilayah": "Pasirluyu",
+      "kode_wilayah": "32.73.11.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.11"
+    }
+  ]
+}

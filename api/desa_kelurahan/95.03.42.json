@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Seradala",
+      "kode_wilayah": "95.03.42.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.42"
+    },
+    {
+      "nama_wilayah": "Moruf",
+      "kode_wilayah": "95.03.42.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.42"
+    },
+    {
+      "nama_wilayah": "Koper",
+      "kode_wilayah": "95.03.42.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.42"
+    },
+    {
+      "nama_wilayah": "Teret",
+      "kode_wilayah": "95.03.42.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.42"
+    },
+    {
+      "nama_wilayah": "Tokuni",
+      "kode_wilayah": "95.03.42.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.42"
+    },
+    {
+      "nama_wilayah": "Burupmakot",
+      "kode_wilayah": "95.03.42.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.42"
+    },
+    {
+      "nama_wilayah": "Yasip",
+      "kode_wilayah": "95.03.42.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.42"
+    },
+    {
+      "nama_wilayah": "Masomduba",
+      "kode_wilayah": "95.03.42.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.42"
+    },
+    {
+      "nama_wilayah": "Samboga",
+      "kode_wilayah": "95.03.42.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.42"
+    }
+  ]
+}

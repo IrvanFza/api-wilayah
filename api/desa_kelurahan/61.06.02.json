@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Teluk Sindur",
+      "kode_wilayah": "61.06.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.02"
+    },
+    {
+      "nama_wilayah": "Bika",
+      "kode_wilayah": "61.06.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.02"
+    },
+    {
+      "nama_wilayah": "Jelemuk",
+      "kode_wilayah": "61.06.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.02"
+    },
+    {
+      "nama_wilayah": "Bika Hulu",
+      "kode_wilayah": "61.06.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.02"
+    },
+    {
+      "nama_wilayah": "Nanga Manday",
+      "kode_wilayah": "61.06.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.02"
+    },
+    {
+      "nama_wilayah": "Melapi Manday",
+      "kode_wilayah": "61.06.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.02"
+    },
+    {
+      "nama_wilayah": "Penyeluang",
+      "kode_wilayah": "61.06.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.02"
+    },
+    {
+      "nama_wilayah": "Jongkong Manday",
+      "kode_wilayah": "61.06.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.06",
+      "kode_kecamatan": "61.06.02"
+    }
+  ]
+}

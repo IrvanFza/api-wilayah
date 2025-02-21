@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Irarutu III",
+      "kode_wilayah": "92.06.03.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.03"
+    },
+    {
+      "nama_wilayah": "Amutu",
+      "kode_wilayah": "92.06.03.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.03"
+    },
+    {
+      "nama_wilayah": "Nusei",
+      "kode_wilayah": "92.06.03.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.03"
+    },
+    {
+      "nama_wilayah": "Kasira",
+      "kode_wilayah": "92.06.03.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.03"
+    }
+  ]
+}

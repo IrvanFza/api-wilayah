@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Asuon",
+      "kode_wilayah": "96.04.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.15"
+    },
+    {
+      "nama_wilayah": "Frasayoah",
+      "kode_wilayah": "96.04.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.15"
+    },
+    {
+      "nama_wilayah": "Ases",
+      "kode_wilayah": "96.04.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.15"
+    },
+    {
+      "nama_wilayah": "Safotiek",
+      "kode_wilayah": "96.04.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.04",
+      "kode_kecamatan": "96.04.15"
+    }
+  ]
+}

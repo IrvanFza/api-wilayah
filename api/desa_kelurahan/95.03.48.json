@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Duram",
+      "kode_wilayah": "95.03.48.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.48"
+    },
+    {
+      "nama_wilayah": "Yeminikma",
+      "kode_wilayah": "95.03.48.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.48"
+    },
+    {
+      "nama_wilayah": "Goak",
+      "kode_wilayah": "95.03.48.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.48"
+    },
+    {
+      "nama_wilayah": "Digitme",
+      "kode_wilayah": "95.03.48.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.48"
+    },
+    {
+      "nama_wilayah": "Dengat",
+      "kode_wilayah": "95.03.48.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.48"
+    },
+    {
+      "nama_wilayah": "Niniwi",
+      "kode_wilayah": "95.03.48.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.03",
+      "kode_kecamatan": "95.03.48"
+    }
+  ]
+}

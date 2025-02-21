@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Ledu Ledu",
+      "kode_wilayah": "73.24.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.11"
+    },
+    {
+      "nama_wilayah": "Kawata",
+      "kode_wilayah": "73.24.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.11"
+    },
+    {
+      "nama_wilayah": "Tabarano",
+      "kode_wilayah": "73.24.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.11"
+    },
+    {
+      "nama_wilayah": "Wasuponda",
+      "kode_wilayah": "73.24.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.11"
+    },
+    {
+      "nama_wilayah": "Parumpanai",
+      "kode_wilayah": "73.24.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.11"
+    },
+    {
+      "nama_wilayah": "Balambano",
+      "kode_wilayah": "73.24.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.11"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Wamesa Tengah",
+      "kode_wilayah": "92.07.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.02"
+    },
+    {
+      "nama_wilayah": "Yopmeos",
+      "kode_wilayah": "92.07.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.02"
+    },
+    {
+      "nama_wilayah": "Sombokoro",
+      "kode_wilayah": "92.07.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.02"
+    },
+    {
+      "nama_wilayah": "Windesi",
+      "kode_wilayah": "92.07.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.02"
+    },
+    {
+      "nama_wilayah": "Sandey",
+      "kode_wilayah": "92.07.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.02"
+    }
+  ]
+}

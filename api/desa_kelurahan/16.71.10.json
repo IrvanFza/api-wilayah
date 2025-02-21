@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Bukitsangkal",
+      "kode_wilayah": "16.71.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.10"
+    },
+    {
+      "nama_wilayah": "Kalidoni",
+      "kode_wilayah": "16.71.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.10"
+    },
+    {
+      "nama_wilayah": "Sungaiselayur",
+      "kode_wilayah": "16.71.10.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.10"
+    },
+    {
+      "nama_wilayah": "Sungaiselincah",
+      "kode_wilayah": "16.71.10.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.10"
+    },
+    {
+      "nama_wilayah": "Sungailais",
+      "kode_wilayah": "16.71.10.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.10"
+    }
+  ]
+}

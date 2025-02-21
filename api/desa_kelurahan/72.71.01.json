@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Besusu Barat",
+      "kode_wilayah": "72.71.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.01"
+    },
+    {
+      "nama_wilayah": "Besusu Tengah",
+      "kode_wilayah": "72.71.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.01"
+    },
+    {
+      "nama_wilayah": "Besusu Timur",
+      "kode_wilayah": "72.71.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.01"
+    },
+    {
+      "nama_wilayah": "Lolu Selatan",
+      "kode_wilayah": "72.71.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.01"
+    },
+    {
+      "nama_wilayah": "Lolu Utara",
+      "kode_wilayah": "72.71.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.01"
+    }
+  ]
+}

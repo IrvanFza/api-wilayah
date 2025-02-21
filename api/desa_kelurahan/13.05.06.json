@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Campago",
+      "kode_wilayah": "13.05.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.06"
+    },
+    {
+      "nama_wilayah": "Sikucua",
+      "kode_wilayah": "13.05.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.06"
+    },
+    {
+      "nama_wilayah": "Campago Barat",
+      "kode_wilayah": "13.05.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.06"
+    },
+    {
+      "nama_wilayah": "Campago Selatan",
+      "kode_wilayah": "13.05.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.06"
+    },
+    {
+      "nama_wilayah": "Sikucua Utara",
+      "kode_wilayah": "13.05.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.06"
+    },
+    {
+      "nama_wilayah": "Sikucua Timur",
+      "kode_wilayah": "13.05.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.06"
+    },
+    {
+      "nama_wilayah": "Sikucua Tengah",
+      "kode_wilayah": "13.05.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.06"
+    },
+    {
+      "nama_wilayah": "Sikucua Barat",
+      "kode_wilayah": "13.05.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.05",
+      "kode_kecamatan": "13.05.06"
+    }
+  ]
+}

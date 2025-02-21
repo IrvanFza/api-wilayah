@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Long Beluah",
+      "kode_wilayah": "65.01.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.02"
+    },
+    {
+      "nama_wilayah": "Long Sam",
+      "kode_wilayah": "65.01.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.02"
+    },
+    {
+      "nama_wilayah": "Mara I",
+      "kode_wilayah": "65.01.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.02"
+    },
+    {
+      "nama_wilayah": "Mara Hilir",
+      "kode_wilayah": "65.01.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.02"
+    },
+    {
+      "nama_wilayah": "Long Pari",
+      "kode_wilayah": "65.01.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.02"
+    }
+  ]
+}

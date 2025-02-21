@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sukapura",
+      "kode_wilayah": "32.04.31.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.31"
+    },
+    {
+      "nama_wilayah": "Cibeureum",
+      "kode_wilayah": "32.04.31.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.31"
+    },
+    {
+      "nama_wilayah": "Santosa",
+      "kode_wilayah": "32.04.31.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.31"
+    },
+    {
+      "nama_wilayah": "Tarumajaya",
+      "kode_wilayah": "32.04.31.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.31"
+    },
+    {
+      "nama_wilayah": "Neglawangi",
+      "kode_wilayah": "32.04.31.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.31"
+    },
+    {
+      "nama_wilayah": "Cihawuk",
+      "kode_wilayah": "32.04.31.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.31"
+    },
+    {
+      "nama_wilayah": "Cikembang",
+      "kode_wilayah": "32.04.31.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.31"
+    },
+    {
+      "nama_wilayah": "Resmi Tingal",
+      "kode_wilayah": "32.04.31.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.31"
+    }
+  ]
+}

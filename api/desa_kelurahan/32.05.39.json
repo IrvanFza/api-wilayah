@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Selaawi",
+      "kode_wilayah": "32.05.39.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.39"
+    },
+    {
+      "nama_wilayah": "Putrajawa",
+      "kode_wilayah": "32.05.39.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.39"
+    },
+    {
+      "nama_wilayah": "Cigawir",
+      "kode_wilayah": "32.05.39.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.39"
+    },
+    {
+      "nama_wilayah": "Pelitaasih",
+      "kode_wilayah": "32.05.39.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.39"
+    },
+    {
+      "nama_wilayah": "Cirapuhan",
+      "kode_wilayah": "32.05.39.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.39"
+    },
+    {
+      "nama_wilayah": "Mekarsari",
+      "kode_wilayah": "32.05.39.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.39"
+    },
+    {
+      "nama_wilayah": "Samida",
+      "kode_wilayah": "32.05.39.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.05",
+      "kode_kecamatan": "32.05.39"
+    }
+  ]
+}

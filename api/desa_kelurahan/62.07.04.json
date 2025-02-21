@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tanjung Hanau",
+      "kode_wilayah": "62.07.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.04"
+    },
+    {
+      "nama_wilayah": "Parang Batang",
+      "kode_wilayah": "62.07.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.04"
+    },
+    {
+      "nama_wilayah": "Bahaur",
+      "kode_wilayah": "62.07.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.04"
+    },
+    {
+      "nama_wilayah": "Pembuang Hulu I",
+      "kode_wilayah": "62.07.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.04"
+    },
+    {
+      "nama_wilayah": "Pembuang Hulu II",
+      "kode_wilayah": "62.07.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.04"
+    },
+    {
+      "nama_wilayah": "Derangga",
+      "kode_wilayah": "62.07.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.04"
+    },
+    {
+      "nama_wilayah": "Paring Raya",
+      "kode_wilayah": "62.07.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.07",
+      "kode_kecamatan": "62.07.04"
+    }
+  ]
+}

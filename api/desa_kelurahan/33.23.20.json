@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Gemawang",
+      "kode_wilayah": "33.23.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.23",
+      "kode_kecamatan": "33.23.20"
+    },
+    {
+      "nama_wilayah": "Muncar",
+      "kode_wilayah": "33.23.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.23",
+      "kode_kecamatan": "33.23.20"
+    },
+    {
+      "nama_wilayah": "Kemiriombo",
+      "kode_wilayah": "33.23.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.23",
+      "kode_kecamatan": "33.23.20"
+    },
+    {
+      "nama_wilayah": "Ngadisepi",
+      "kode_wilayah": "33.23.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.23",
+      "kode_kecamatan": "33.23.20"
+    },
+    {
+      "nama_wilayah": "Krempong",
+      "kode_wilayah": "33.23.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.23",
+      "kode_kecamatan": "33.23.20"
+    },
+    {
+      "nama_wilayah": "Sucen",
+      "kode_wilayah": "33.23.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.23",
+      "kode_kecamatan": "33.23.20"
+    },
+    {
+      "nama_wilayah": "Karangseneng",
+      "kode_wilayah": "33.23.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.23",
+      "kode_kecamatan": "33.23.20"
+    },
+    {
+      "nama_wilayah": "Banaran",
+      "kode_wilayah": "33.23.20.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.23",
+      "kode_kecamatan": "33.23.20"
+    },
+    {
+      "nama_wilayah": "Kalibanger",
+      "kode_wilayah": "33.23.20.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.23",
+      "kode_kecamatan": "33.23.20"
+    },
+    {
+      "nama_wilayah": "Jambon",
+      "kode_wilayah": "33.23.20.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.23",
+      "kode_kecamatan": "33.23.20"
+    }
+  ]
+}

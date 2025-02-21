@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Sembung",
+      "kode_wilayah": "35.24.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.24",
+      "kode_kecamatan": "35.24.01"
+    },
+    {
+      "nama_wilayah": "Banggle",
+      "kode_wilayah": "35.24.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.24",
+      "kode_kecamatan": "35.24.01"
+    },
+    {
+      "nama_wilayah": "Kedungkumpul",
+      "kode_wilayah": "35.24.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.24",
+      "kode_kecamatan": "35.24.01"
+    },
+    {
+      "nama_wilayah": "Sukorame",
+      "kode_wilayah": "35.24.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.24",
+      "kode_kecamatan": "35.24.01"
+    },
+    {
+      "nama_wilayah": "Mragel",
+      "kode_wilayah": "35.24.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.24",
+      "kode_kecamatan": "35.24.01"
+    },
+    {
+      "nama_wilayah": "Kedungrejo",
+      "kode_wilayah": "35.24.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.24",
+      "kode_kecamatan": "35.24.01"
+    },
+    {
+      "nama_wilayah": "Sewor",
+      "kode_wilayah": "35.24.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.24",
+      "kode_kecamatan": "35.24.01"
+    },
+    {
+      "nama_wilayah": "Wedoro",
+      "kode_wilayah": "35.24.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.24",
+      "kode_kecamatan": "35.24.01"
+    },
+    {
+      "nama_wilayah": "Pendowokumpul",
+      "kode_wilayah": "35.24.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.24",
+      "kode_kecamatan": "35.24.01"
+    }
+  ]
+}

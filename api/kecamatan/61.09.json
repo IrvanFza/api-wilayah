@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sekadau Hilir",
+      "kode_wilayah": "61.09.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.09",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Sekadau Hulu",
+      "kode_wilayah": "61.09.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.09",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Nanga Taman",
+      "kode_wilayah": "61.09.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.09",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Nanga Mahap",
+      "kode_wilayah": "61.09.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.09",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Belitang Hilir",
+      "kode_wilayah": "61.09.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.09",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Belitang Hulu",
+      "kode_wilayah": "61.09.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.09",
+      "kode_provinsi": "61"
+    },
+    {
+      "nama_wilayah": "Belitang",
+      "kode_wilayah": "61.09.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "61.09",
+      "kode_provinsi": "61"
+    }
+  ]
+}

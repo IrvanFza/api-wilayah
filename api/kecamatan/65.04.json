@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sesayap",
+      "kode_wilayah": "65.04.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "65.04",
+      "kode_provinsi": "65"
+    },
+    {
+      "nama_wilayah": "Sesayap Hilir",
+      "kode_wilayah": "65.04.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "65.04",
+      "kode_provinsi": "65"
+    },
+    {
+      "nama_wilayah": "Tana Lia",
+      "kode_wilayah": "65.04.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "65.04",
+      "kode_provinsi": "65"
+    },
+    {
+      "nama_wilayah": "Betayau",
+      "kode_wilayah": "65.04.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "65.04",
+      "kode_provinsi": "65"
+    },
+    {
+      "nama_wilayah": "Muruk Rian",
+      "kode_wilayah": "65.04.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "65.04",
+      "kode_provinsi": "65"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Pandau Hilir",
+      "kode_wilayah": "12.71.18.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.18"
+    },
+    {
+      "nama_wilayah": "Pahlawan",
+      "kode_wilayah": "12.71.18.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.18"
+    },
+    {
+      "nama_wilayah": "Sei Kera Hilir I",
+      "kode_wilayah": "12.71.18.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.18"
+    },
+    {
+      "nama_wilayah": "Sei Kera Hilir II",
+      "kode_wilayah": "12.71.18.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.18"
+    },
+    {
+      "nama_wilayah": "Sei Kera Hulu",
+      "kode_wilayah": "12.71.18.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.18"
+    },
+    {
+      "nama_wilayah": "Sidorame Timur",
+      "kode_wilayah": "12.71.18.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.18"
+    },
+    {
+      "nama_wilayah": "Sidorame Barat I",
+      "kode_wilayah": "12.71.18.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.18"
+    },
+    {
+      "nama_wilayah": "Sidorame Barat II",
+      "kode_wilayah": "12.71.18.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.18"
+    },
+    {
+      "nama_wilayah": "Tegalrejo",
+      "kode_wilayah": "12.71.18.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.18"
+    }
+  ]
+}

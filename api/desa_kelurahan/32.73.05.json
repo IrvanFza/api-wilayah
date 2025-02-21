@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Maleber",
+      "kode_wilayah": "32.73.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.05"
+    },
+    {
+      "nama_wilayah": "Dungus Cariang",
+      "kode_wilayah": "32.73.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.05"
+    },
+    {
+      "nama_wilayah": "Ciroyom",
+      "kode_wilayah": "32.73.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.05"
+    },
+    {
+      "nama_wilayah": "Kebon Jeruk",
+      "kode_wilayah": "32.73.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.05"
+    },
+    {
+      "nama_wilayah": "Garuda",
+      "kode_wilayah": "32.73.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.05"
+    },
+    {
+      "nama_wilayah": "Campaka",
+      "kode_wilayah": "32.73.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.05"
+    }
+  ]
+}

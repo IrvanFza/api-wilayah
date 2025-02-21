@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tapos",
+      "kode_wilayah": "32.01.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.23"
+    },
+    {
+      "nama_wilayah": "Ciomas",
+      "kode_wilayah": "32.01.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.23"
+    },
+    {
+      "nama_wilayah": "Batok",
+      "kode_wilayah": "32.01.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.23"
+    },
+    {
+      "nama_wilayah": "Babakan",
+      "kode_wilayah": "32.01.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.23"
+    },
+    {
+      "nama_wilayah": "Tenjo",
+      "kode_wilayah": "32.01.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.23"
+    },
+    {
+      "nama_wilayah": "Cilaku",
+      "kode_wilayah": "32.01.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.23"
+    },
+    {
+      "nama_wilayah": "Singabraja",
+      "kode_wilayah": "32.01.23.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.23"
+    },
+    {
+      "nama_wilayah": "Singabangsa",
+      "kode_wilayah": "32.01.23.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.23"
+    },
+    {
+      "nama_wilayah": "Bojong",
+      "kode_wilayah": "32.01.23.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.23"
+    }
+  ]
+}

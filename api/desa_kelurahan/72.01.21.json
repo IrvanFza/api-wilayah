@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Kilongan",
+      "kode_wilayah": "72.01.21.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.21"
+    },
+    {
+      "nama_wilayah": "Kilongan Permai",
+      "kode_wilayah": "72.01.21.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.21"
+    },
+    {
+      "nama_wilayah": "Biak",
+      "kode_wilayah": "72.01.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.21"
+    },
+    {
+      "nama_wilayah": "Bunga",
+      "kode_wilayah": "72.01.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.21"
+    },
+    {
+      "nama_wilayah": "Kamumu",
+      "kode_wilayah": "72.01.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.21"
+    },
+    {
+      "nama_wilayah": "Salodik",
+      "kode_wilayah": "72.01.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.21"
+    },
+    {
+      "nama_wilayah": "Lenyek",
+      "kode_wilayah": "72.01.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.21"
+    },
+    {
+      "nama_wilayah": "Buon Mandiri",
+      "kode_wilayah": "72.01.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.21"
+    },
+    {
+      "nama_wilayah": "Boyou",
+      "kode_wilayah": "72.01.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.21"
+    },
+    {
+      "nama_wilayah": "Awu",
+      "kode_wilayah": "72.01.21.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.21"
+    },
+    {
+      "nama_wilayah": "Bumi Beringin",
+      "kode_wilayah": "72.01.21.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.01",
+      "kode_kecamatan": "72.01.21"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Baras",
+      "kode_wilayah": "76.01.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.03"
+    },
+    {
+      "nama_wilayah": "Balanti",
+      "kode_wilayah": "76.01.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.03"
+    },
+    {
+      "nama_wilayah": "Motu",
+      "kode_wilayah": "76.01.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.03"
+    },
+    {
+      "nama_wilayah": "Bulu Parigi",
+      "kode_wilayah": "76.01.03.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.03"
+    },
+    {
+      "nama_wilayah": "Towoni",
+      "kode_wilayah": "76.01.03.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.03"
+    },
+    {
+      "nama_wilayah": "Kasano",
+      "kode_wilayah": "76.01.03.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.01",
+      "kode_kecamatan": "76.01.03"
+    }
+  ]
+}

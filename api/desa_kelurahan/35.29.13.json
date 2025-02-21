@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Montorna",
+      "kode_wilayah": "35.29.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.13"
+    },
+    {
+      "nama_wilayah": "Prancak",
+      "kode_wilayah": "35.29.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.13"
+    },
+    {
+      "nama_wilayah": "Campaka",
+      "kode_wilayah": "35.29.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.13"
+    },
+    {
+      "nama_wilayah": "Rajun",
+      "kode_wilayah": "35.29.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.13"
+    },
+    {
+      "nama_wilayah": "Lebeng Timur",
+      "kode_wilayah": "35.29.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.13"
+    },
+    {
+      "nama_wilayah": "Lebeng Barat",
+      "kode_wilayah": "35.29.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.13"
+    },
+    {
+      "nama_wilayah": "Soddara",
+      "kode_wilayah": "35.29.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.13"
+    },
+    {
+      "nama_wilayah": "Pasongsongan",
+      "kode_wilayah": "35.29.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.13"
+    },
+    {
+      "nama_wilayah": "Padangdangan",
+      "kode_wilayah": "35.29.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.13"
+    },
+    {
+      "nama_wilayah": "Panaongan",
+      "kode_wilayah": "35.29.13.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.13"
+    }
+  ]
+}

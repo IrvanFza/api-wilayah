@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Billa",
+      "kode_wilayah": "53.11.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.05"
+    },
+    {
+      "nama_wilayah": "Karita",
+      "kode_wilayah": "53.11.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.05"
+    },
+    {
+      "nama_wilayah": "Kuki Talu",
+      "kode_wilayah": "53.11.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.05"
+    },
+    {
+      "nama_wilayah": "Tapil",
+      "kode_wilayah": "53.11.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.05"
+    },
+    {
+      "nama_wilayah": "Tarimbang",
+      "kode_wilayah": "53.11.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.05"
+    },
+    {
+      "nama_wilayah": "Waikanabu",
+      "kode_wilayah": "53.11.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.05"
+    },
+    {
+      "nama_wilayah": "Pindu Hurani",
+      "kode_wilayah": "53.11.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.05"
+    },
+    {
+      "nama_wilayah": "Praing Kareha",
+      "kode_wilayah": "53.11.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.05"
+    },
+    {
+      "nama_wilayah": "Wudi Pandak",
+      "kode_wilayah": "53.11.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.05"
+    },
+    {
+      "nama_wilayah": "Bangga Watu",
+      "kode_wilayah": "53.11.05.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.05"
+    }
+  ]
+}

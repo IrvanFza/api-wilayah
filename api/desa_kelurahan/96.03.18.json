@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Arawai",
+      "kode_wilayah": "96.03.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.18"
+    },
+    {
+      "nama_wilayah": "Go",
+      "kode_wilayah": "96.03.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.18"
+    },
+    {
+      "nama_wilayah": "Kabilol",
+      "kode_wilayah": "96.03.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.18"
+    },
+    {
+      "nama_wilayah": "Waisai",
+      "kode_wilayah": "96.03.18.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.18"
+    },
+    {
+      "nama_wilayah": "Waifoi",
+      "kode_wilayah": "96.03.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.18"
+    },
+    {
+      "nama_wilayah": "Beo",
+      "kode_wilayah": "96.03.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.18"
+    },
+    {
+      "nama_wilayah": "Bonkawir",
+      "kode_wilayah": "96.03.18.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.18"
+    },
+    {
+      "nama_wilayah": "Sapordanco",
+      "kode_wilayah": "96.03.18.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.18"
+    },
+    {
+      "nama_wilayah": "Warimak",
+      "kode_wilayah": "96.03.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.18"
+    },
+    {
+      "nama_wilayah": "Warmasen",
+      "kode_wilayah": "96.03.18.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.03",
+      "kode_kecamatan": "96.03.18"
+    }
+  ]
+}

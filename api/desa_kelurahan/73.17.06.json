@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Bulo",
+      "kode_wilayah": "73.17.06.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.06"
+    },
+    {
+      "nama_wilayah": "Tombang",
+      "kode_wilayah": "73.17.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.06"
+    },
+    {
+      "nama_wilayah": "Lalong",
+      "kode_wilayah": "73.17.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.06"
+    },
+    {
+      "nama_wilayah": "Harapan",
+      "kode_wilayah": "73.17.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.06"
+    },
+    {
+      "nama_wilayah": "Barammamase",
+      "kode_wilayah": "73.17.06.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.06"
+    },
+    {
+      "nama_wilayah": "Walenrang",
+      "kode_wilayah": "73.17.06.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.06"
+    },
+    {
+      "nama_wilayah": "Saragi",
+      "kode_wilayah": "73.17.06.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.06"
+    },
+    {
+      "nama_wilayah": "Batusitanduk",
+      "kode_wilayah": "73.17.06.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.06"
+    },
+    {
+      "nama_wilayah": "Kalibamamase",
+      "kode_wilayah": "73.17.06.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.17",
+      "kode_kecamatan": "73.17.06"
+    }
+  ]
+}

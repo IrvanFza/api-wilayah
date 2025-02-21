@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Pananekeng",
+      "kode_wilayah": "71.03.23.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.23"
+    },
+    {
+      "nama_wilayah": "Angges",
+      "kode_wilayah": "71.03.23.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.23"
+    },
+    {
+      "nama_wilayah": "Kolongan Mitung",
+      "kode_wilayah": "71.03.23.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.23"
+    },
+    {
+      "nama_wilayah": "Kolongan Beha",
+      "kode_wilayah": "71.03.23.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.23"
+    },
+    {
+      "nama_wilayah": "Kolongan Beha Baru",
+      "kode_wilayah": "71.03.23.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.23"
+    },
+    {
+      "nama_wilayah": "Kolongan Akembawi",
+      "kode_wilayah": "71.03.23.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.03",
+      "kode_kecamatan": "71.03.23"
+    }
+  ]
+}

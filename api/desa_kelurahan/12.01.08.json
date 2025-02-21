@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sibabangun",
+      "kode_wilayah": "12.01.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.08"
+    },
+    {
+      "nama_wilayah": "Mombang Boru",
+      "kode_wilayah": "12.01.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.08"
+    },
+    {
+      "nama_wilayah": "Anggoli",
+      "kode_wilayah": "12.01.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.08"
+    },
+    {
+      "nama_wilayah": "Muara Sibuntuon",
+      "kode_wilayah": "12.01.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.08"
+    },
+    {
+      "nama_wilayah": "Sibio bio",
+      "kode_wilayah": "12.01.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.08"
+    },
+    {
+      "nama_wilayah": "Simanosor",
+      "kode_wilayah": "12.01.08.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.08"
+    },
+    {
+      "nama_wilayah": "Hutagur-gur",
+      "kode_wilayah": "12.01.08.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.08"
+    }
+  ]
+}

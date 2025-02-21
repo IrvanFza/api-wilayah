@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sima",
+      "kode_wilayah": "73.18.09.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.09"
+    },
+    {
+      "nama_wilayah": "Simbuang",
+      "kode_wilayah": "73.18.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.09"
+    },
+    {
+      "nama_wilayah": "Pongbembe",
+      "kode_wilayah": "73.18.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.09"
+    },
+    {
+      "nama_wilayah": "Simbuang Batutallu",
+      "kode_wilayah": "73.18.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.09"
+    },
+    {
+      "nama_wilayah": "Makkodo",
+      "kode_wilayah": "73.18.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.09"
+    },
+    {
+      "nama_wilayah": "Puangbembe Mesakada",
+      "kode_wilayah": "73.18.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.09"
+    }
+  ]
+}

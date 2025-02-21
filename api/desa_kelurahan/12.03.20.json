@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Pasar Sempurna",
+      "kode_wilayah": "12.03.20.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.20"
+    },
+    {
+      "nama_wilayah": "Huraba",
+      "kode_wilayah": "12.03.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.20"
+    },
+    {
+      "nama_wilayah": "Gunung Binanga",
+      "kode_wilayah": "12.03.20.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.20"
+    },
+    {
+      "nama_wilayah": "Marancar Godang",
+      "kode_wilayah": "12.03.20.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.20"
+    },
+    {
+      "nama_wilayah": "Simaninggir",
+      "kode_wilayah": "12.03.20.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.20"
+    },
+    {
+      "nama_wilayah": "Sugi",
+      "kode_wilayah": "12.03.20.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.20"
+    },
+    {
+      "nama_wilayah": "Haunatas",
+      "kode_wilayah": "12.03.20.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.20"
+    },
+    {
+      "nama_wilayah": "Aek Nabara",
+      "kode_wilayah": "12.03.20.2032",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.20"
+    },
+    {
+      "nama_wilayah": "Gapuk Tua",
+      "kode_wilayah": "12.03.20.2033",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.20"
+    },
+    {
+      "nama_wilayah": "Marancar Julu",
+      "kode_wilayah": "12.03.20.2034",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.20"
+    },
+    {
+      "nama_wilayah": "Aek Sabaon",
+      "kode_wilayah": "12.03.20.2035",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.20"
+    },
+    {
+      "nama_wilayah": "Tanjung Dolok",
+      "kode_wilayah": "12.03.20.2036",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.20"
+    }
+  ]
+}

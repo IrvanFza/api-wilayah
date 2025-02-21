@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Ubung",
+      "kode_wilayah": "81.04.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.15"
+    },
+    {
+      "nama_wilayah": "Jikumerasa",
+      "kode_wilayah": "81.04.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.15"
+    },
+    {
+      "nama_wilayah": "Waemiting",
+      "kode_wilayah": "81.04.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.15"
+    },
+    {
+      "nama_wilayah": "Sawa",
+      "kode_wilayah": "81.04.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.15"
+    },
+    {
+      "nama_wilayah": "Waeperang",
+      "kode_wilayah": "81.04.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.04",
+      "kode_kecamatan": "81.04.15"
+    }
+  ]
+}

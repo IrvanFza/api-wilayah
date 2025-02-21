@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Dempar",
+      "kode_wilayah": "64.07.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.07",
+      "kode_kecamatan": "64.07.16"
+    },
+    {
+      "nama_wilayah": "Temula",
+      "kode_wilayah": "64.07.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.07",
+      "kode_kecamatan": "64.07.16"
+    },
+    {
+      "nama_wilayah": "Jontai",
+      "kode_wilayah": "64.07.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.07",
+      "kode_kecamatan": "64.07.16"
+    },
+    {
+      "nama_wilayah": "Sembuan",
+      "kode_wilayah": "64.07.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.07",
+      "kode_kecamatan": "64.07.16"
+    },
+    {
+      "nama_wilayah": "Intu Lingau",
+      "kode_wilayah": "64.07.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.07",
+      "kode_kecamatan": "64.07.16"
+    },
+    {
+      "nama_wilayah": "Mu-ut",
+      "kode_wilayah": "64.07.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.07",
+      "kode_kecamatan": "64.07.16"
+    },
+    {
+      "nama_wilayah": "Terajuk",
+      "kode_wilayah": "64.07.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.07",
+      "kode_kecamatan": "64.07.16"
+    },
+    {
+      "nama_wilayah": "Lakan Bilem",
+      "kode_wilayah": "64.07.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.07",
+      "kode_kecamatan": "64.07.16"
+    },
+    {
+      "nama_wilayah": "Sentalar",
+      "kode_wilayah": "64.07.16.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.07",
+      "kode_kecamatan": "64.07.16"
+    },
+    {
+      "nama_wilayah": "Awai",
+      "kode_wilayah": "64.07.16.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.07",
+      "kode_kecamatan": "64.07.16"
+    }
+  ]
+}

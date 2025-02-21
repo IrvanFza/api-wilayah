@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Motoling",
+      "kode_wilayah": "71.05.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.07"
+    },
+    {
+      "nama_wilayah": "Motoling Mawale",
+      "kode_wilayah": "71.05.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.07"
+    },
+    {
+      "nama_wilayah": "Motoling I",
+      "kode_wilayah": "71.05.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.07"
+    },
+    {
+      "nama_wilayah": "Motoling II",
+      "kode_wilayah": "71.05.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.07"
+    },
+    {
+      "nama_wilayah": "Picuan Baru",
+      "kode_wilayah": "71.05.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.07"
+    },
+    {
+      "nama_wilayah": "Lalumpe",
+      "kode_wilayah": "71.05.07.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.07"
+    },
+    {
+      "nama_wilayah": "Raanan Lama",
+      "kode_wilayah": "71.05.07.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.07"
+    }
+  ]
+}

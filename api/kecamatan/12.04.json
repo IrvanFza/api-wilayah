@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Hiliduho",
+      "kode_wilayah": "12.04.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.04",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Gido",
+      "kode_wilayah": "12.04.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.04",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Idanogawo",
+      "kode_wilayah": "12.04.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.04",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Bawolato",
+      "kode_wilayah": "12.04.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.04",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Hiliserangkai",
+      "kode_wilayah": "12.04.20",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.04",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Botomuzoi",
+      "kode_wilayah": "12.04.21",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.04",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Ulugawo",
+      "kode_wilayah": "12.04.27",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.04",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Ma-u",
+      "kode_wilayah": "12.04.28",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.04",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Somolo-molo",
+      "kode_wilayah": "12.04.29",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.04",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Sogae-adu",
+      "kode_wilayah": "12.04.35",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.04",
+      "kode_provinsi": "12"
+    }
+  ]
+}

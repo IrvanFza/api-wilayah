@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Ampah Kota",
+      "kode_wilayah": "62.13.05.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.05"
+    },
+    {
+      "nama_wilayah": "Saing",
+      "kode_wilayah": "62.13.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.05"
+    },
+    {
+      "nama_wilayah": "Rodok",
+      "kode_wilayah": "62.13.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.05"
+    },
+    {
+      "nama_wilayah": "Ampah II",
+      "kode_wilayah": "62.13.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.05"
+    },
+    {
+      "nama_wilayah": "Putai",
+      "kode_wilayah": "62.13.05.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.05"
+    },
+    {
+      "nama_wilayah": "Netampin",
+      "kode_wilayah": "62.13.05.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.05"
+    },
+    {
+      "nama_wilayah": "Sumber Garunggung",
+      "kode_wilayah": "62.13.05.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.05"
+    },
+    {
+      "nama_wilayah": "Muara Awang",
+      "kode_wilayah": "62.13.05.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.13",
+      "kode_kecamatan": "62.13.05"
+    }
+  ]
+}

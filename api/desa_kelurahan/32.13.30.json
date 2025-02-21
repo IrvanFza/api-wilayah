@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Kebondanas",
+      "kode_wilayah": "32.13.30.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.30"
+    },
+    {
+      "nama_wilayah": "Pusakajaya",
+      "kode_wilayah": "32.13.30.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.30"
+    },
+    {
+      "nama_wilayah": "Karanganyar",
+      "kode_wilayah": "32.13.30.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.30"
+    },
+    {
+      "nama_wilayah": "Bojongtengah",
+      "kode_wilayah": "32.13.30.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.30"
+    },
+    {
+      "nama_wilayah": "Bojongjaya",
+      "kode_wilayah": "32.13.30.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.30"
+    },
+    {
+      "nama_wilayah": "Cigugur",
+      "kode_wilayah": "32.13.30.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.30"
+    },
+    {
+      "nama_wilayah": "Cigugur Kaler",
+      "kode_wilayah": "32.13.30.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.30"
+    },
+    {
+      "nama_wilayah": "Rangdu",
+      "kode_wilayah": "32.13.30.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.13",
+      "kode_kecamatan": "32.13.30"
+    }
+  ]
+}

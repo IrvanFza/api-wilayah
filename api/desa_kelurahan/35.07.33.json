@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Clumprit",
+      "kode_wilayah": "35.07.33.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.33"
+    },
+    {
+      "nama_wilayah": "Suwaru",
+      "kode_wilayah": "35.07.33.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.33"
+    },
+    {
+      "nama_wilayah": "Kademangan",
+      "kode_wilayah": "35.07.33.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.33"
+    },
+    {
+      "nama_wilayah": "Balearjo",
+      "kode_wilayah": "35.07.33.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.33"
+    },
+    {
+      "nama_wilayah": "Kanigoro",
+      "kode_wilayah": "35.07.33.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.33"
+    },
+    {
+      "nama_wilayah": "Brongkal",
+      "kode_wilayah": "35.07.33.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.33"
+    },
+    {
+      "nama_wilayah": "Pagelaran",
+      "kode_wilayah": "35.07.33.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.33"
+    },
+    {
+      "nama_wilayah": "Banjarejo",
+      "kode_wilayah": "35.07.33.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.33"
+    },
+    {
+      "nama_wilayah": "Karangsuko",
+      "kode_wilayah": "35.07.33.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.33"
+    },
+    {
+      "nama_wilayah": "Sidorejo",
+      "kode_wilayah": "35.07.33.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.33"
+    }
+  ]
+}

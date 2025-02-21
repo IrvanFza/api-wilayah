@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sendangan",
+      "kode_wilayah": "71.02.12.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.12"
+    },
+    {
+      "nama_wilayah": "Kinali",
+      "kode_wilayah": "71.02.12.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.12"
+    },
+    {
+      "nama_wilayah": "Sendangan Selatan",
+      "kode_wilayah": "71.02.12.1019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.12"
+    },
+    {
+      "nama_wilayah": "Sendangan Tengah",
+      "kode_wilayah": "71.02.12.1020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.12"
+    },
+    {
+      "nama_wilayah": "Uner Satu",
+      "kode_wilayah": "71.02.12.1028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.12"
+    },
+    {
+      "nama_wilayah": "Kinali Satu",
+      "kode_wilayah": "71.02.12.1029",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.12"
+    },
+    {
+      "nama_wilayah": "Tondegesan",
+      "kode_wilayah": "71.02.12.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.12"
+    },
+    {
+      "nama_wilayah": "Kanonang Tiga",
+      "kode_wilayah": "71.02.12.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.12"
+    },
+    {
+      "nama_wilayah": "Tondegesan Satu",
+      "kode_wilayah": "71.02.12.2030",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.12"
+    },
+    {
+      "nama_wilayah": "Tondegesan Dua",
+      "kode_wilayah": "71.02.12.2031",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.12"
+    }
+  ]
+}

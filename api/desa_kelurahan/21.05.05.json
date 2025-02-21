@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Kuala Maras",
+      "kode_wilayah": "21.05.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.05"
+    },
+    {
+      "nama_wilayah": "Ulu Maras",
+      "kode_wilayah": "21.05.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.05"
+    },
+    {
+      "nama_wilayah": "Bukit Padi",
+      "kode_wilayah": "21.05.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.05"
+    },
+    {
+      "nama_wilayah": "Genting Pulur",
+      "kode_wilayah": "21.05.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.05",
+      "kode_kecamatan": "21.05.05"
+    }
+  ]
+}

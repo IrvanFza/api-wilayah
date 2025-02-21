@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Dagai",
+      "kode_wilayah": "94.02.25.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.25"
+    },
+    {
+      "nama_wilayah": "Dagai 2",
+      "kode_wilayah": "94.02.25.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.25"
+    },
+    {
+      "nama_wilayah": "Deide",
+      "kode_wilayah": "94.02.25.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.25"
+    },
+    {
+      "nama_wilayah": "Faride",
+      "kode_wilayah": "94.02.25.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.25"
+    },
+    {
+      "nama_wilayah": "Soi",
+      "kode_wilayah": "94.02.25.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.25"
+    },
+    {
+      "nama_wilayah": "Mbomban",
+      "kode_wilayah": "94.02.25.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.25"
+    },
+    {
+      "nama_wilayah": "Yeihneri",
+      "kode_wilayah": "94.02.25.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.25"
+    },
+    {
+      "nama_wilayah": "Mandara Lani",
+      "kode_wilayah": "94.02.25.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.25"
+    },
+    {
+      "nama_wilayah": "Debite",
+      "kode_wilayah": "94.02.25.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.25"
+    },
+    {
+      "nama_wilayah": "Gueri",
+      "kode_wilayah": "94.02.25.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.25"
+    }
+  ]
+}

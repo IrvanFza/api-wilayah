@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Yosodadi",
+      "kode_wilayah": "18.72.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.72",
+      "kode_kecamatan": "18.72.04"
+    },
+    {
+      "nama_wilayah": "Tejosari",
+      "kode_wilayah": "18.72.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.72",
+      "kode_kecamatan": "18.72.04"
+    },
+    {
+      "nama_wilayah": "Iring Mulyo",
+      "kode_wilayah": "18.72.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.72",
+      "kode_kecamatan": "18.72.04"
+    },
+    {
+      "nama_wilayah": "Yosorejo",
+      "kode_wilayah": "18.72.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.72",
+      "kode_kecamatan": "18.72.04"
+    },
+    {
+      "nama_wilayah": "Tejo Agung",
+      "kode_wilayah": "18.72.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.72",
+      "kode_kecamatan": "18.72.04"
+    }
+  ]
+}

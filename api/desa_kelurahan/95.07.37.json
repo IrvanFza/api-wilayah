@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Muara",
+      "kode_wilayah": "95.07.37.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.37"
+    },
+    {
+      "nama_wilayah": "Lualo",
+      "kode_wilayah": "95.07.37.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.37"
+    },
+    {
+      "nama_wilayah": "Abua",
+      "kode_wilayah": "95.07.37.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.37"
+    },
+    {
+      "nama_wilayah": "Gikur",
+      "kode_wilayah": "95.07.37.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.37"
+    },
+    {
+      "nama_wilayah": "Gipura",
+      "kode_wilayah": "95.07.37.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.37"
+    },
+    {
+      "nama_wilayah": "Gulu",
+      "kode_wilayah": "95.07.37.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.37"
+    },
+    {
+      "nama_wilayah": "Bogangi",
+      "kode_wilayah": "95.07.37.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.37"
+    },
+    {
+      "nama_wilayah": "Golome",
+      "kode_wilayah": "95.07.37.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.37"
+    },
+    {
+      "nama_wilayah": "Wiyapur",
+      "kode_wilayah": "95.07.37.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.37"
+    },
+    {
+      "nama_wilayah": "Kuruguneri",
+      "kode_wilayah": "95.07.37.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.37"
+    }
+  ]
+}

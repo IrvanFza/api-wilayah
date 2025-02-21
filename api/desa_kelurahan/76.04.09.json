@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Matangnga",
+      "kode_wilayah": "76.04.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.09"
+    },
+    {
+      "nama_wilayah": "Lilli",
+      "kode_wilayah": "76.04.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.09"
+    },
+    {
+      "nama_wilayah": "Rangoan",
+      "kode_wilayah": "76.04.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.09"
+    },
+    {
+      "nama_wilayah": "Tapua",
+      "kode_wilayah": "76.04.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.09"
+    },
+    {
+      "nama_wilayah": "Mambu Tapua",
+      "kode_wilayah": "76.04.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.09"
+    },
+    {
+      "nama_wilayah": "Ba-ba Tapua",
+      "kode_wilayah": "76.04.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.09"
+    },
+    {
+      "nama_wilayah": "Katimbang",
+      "kode_wilayah": "76.04.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.09"
+    }
+  ]
+}

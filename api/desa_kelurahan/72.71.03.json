@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Tatura Utara",
+      "kode_wilayah": "72.71.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.03"
+    },
+    {
+      "nama_wilayah": "Birobuli Utara",
+      "kode_wilayah": "72.71.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.03"
+    },
+    {
+      "nama_wilayah": "Petobo",
+      "kode_wilayah": "72.71.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.03"
+    },
+    {
+      "nama_wilayah": "Birobuli Selatan",
+      "kode_wilayah": "72.71.03.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.03"
+    },
+    {
+      "nama_wilayah": "Tatura Selatan",
+      "kode_wilayah": "72.71.03.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.03"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Mamboro",
+      "kode_wilayah": "72.71.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.04"
+    },
+    {
+      "nama_wilayah": "Taipa",
+      "kode_wilayah": "72.71.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.04"
+    },
+    {
+      "nama_wilayah": "Kayumalue Ngapa",
+      "kode_wilayah": "72.71.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.04"
+    },
+    {
+      "nama_wilayah": "Kayumalue Pajeko",
+      "kode_wilayah": "72.71.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.04"
+    },
+    {
+      "nama_wilayah": "Mamboro Barat",
+      "kode_wilayah": "72.71.04.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.04"
+    }
+  ]
+}

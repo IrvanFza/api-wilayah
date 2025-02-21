@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Silo",
+      "kode_wilayah": "95.04.31.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.31"
+    },
+    {
+      "nama_wilayah": "Logi",
+      "kode_wilayah": "95.04.31.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.31"
+    },
+    {
+      "nama_wilayah": "Tagi",
+      "kode_wilayah": "95.04.31.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.31"
+    },
+    {
+      "nama_wilayah": "Bini",
+      "kode_wilayah": "95.04.31.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.31"
+    },
+    {
+      "nama_wilayah": "Dunda",
+      "kode_wilayah": "95.04.31.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.31"
+    },
+    {
+      "nama_wilayah": "Getiem",
+      "kode_wilayah": "95.04.31.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.31"
+    },
+    {
+      "nama_wilayah": "Rumbepaga",
+      "kode_wilayah": "95.04.31.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.31"
+    },
+    {
+      "nama_wilayah": "Yimabnime",
+      "kode_wilayah": "95.04.31.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.31"
+    },
+    {
+      "nama_wilayah": "Wanuk",
+      "kode_wilayah": "95.04.31.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.31"
+    },
+    {
+      "nama_wilayah": "Lamaluk",
+      "kode_wilayah": "95.04.31.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.31"
+    }
+  ]
+}

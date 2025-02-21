@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Ladongi",
+      "kode_wilayah": "74.11.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.11",
+      "kode_kecamatan": "74.11.03"
+    },
+    {
+      "nama_wilayah": "Atula",
+      "kode_wilayah": "74.11.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.11",
+      "kode_kecamatan": "74.11.03"
+    },
+    {
+      "nama_wilayah": "Raa-Raa",
+      "kode_wilayah": "74.11.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.11",
+      "kode_kecamatan": "74.11.03"
+    },
+    {
+      "nama_wilayah": "Welala",
+      "kode_wilayah": "74.11.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.11",
+      "kode_kecamatan": "74.11.03"
+    },
+    {
+      "nama_wilayah": "Putemata",
+      "kode_wilayah": "74.11.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.11",
+      "kode_kecamatan": "74.11.03"
+    },
+    {
+      "nama_wilayah": "Lalowosula",
+      "kode_wilayah": "74.11.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.11",
+      "kode_kecamatan": "74.11.03"
+    },
+    {
+      "nama_wilayah": "Wunggoloko",
+      "kode_wilayah": "74.11.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.11",
+      "kode_kecamatan": "74.11.03"
+    },
+    {
+      "nama_wilayah": "Anggaloosi",
+      "kode_wilayah": "74.11.03.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.11",
+      "kode_kecamatan": "74.11.03"
+    },
+    {
+      "nama_wilayah": "Pombeyoha",
+      "kode_wilayah": "74.11.03.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.11",
+      "kode_kecamatan": "74.11.03"
+    },
+    {
+      "nama_wilayah": "Tongandiu",
+      "kode_wilayah": "74.11.03.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.11",
+      "kode_kecamatan": "74.11.03"
+    }
+  ]
+}

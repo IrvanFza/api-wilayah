@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Metro Pusat",
+      "kode_wilayah": "18.72.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.72",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Metro Utara",
+      "kode_wilayah": "18.72.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.72",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Metro Barat",
+      "kode_wilayah": "18.72.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.72",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Metro Timur",
+      "kode_wilayah": "18.72.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.72",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Metro Selatan",
+      "kode_wilayah": "18.72.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.72",
+      "kode_provinsi": "18"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Doping",
+      "kode_wilayah": "73.13.12.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.12"
+    },
+    {
+      "nama_wilayah": "Padaelo",
+      "kode_wilayah": "73.13.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.12"
+    },
+    {
+      "nama_wilayah": "Temmabarang",
+      "kode_wilayah": "73.13.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.12"
+    },
+    {
+      "nama_wilayah": "Penrang",
+      "kode_wilayah": "73.13.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.12"
+    },
+    {
+      "nama_wilayah": "Lawesso",
+      "kode_wilayah": "73.13.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.12"
+    },
+    {
+      "nama_wilayah": "Benteng",
+      "kode_wilayah": "73.13.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.12"
+    },
+    {
+      "nama_wilayah": "Walanga",
+      "kode_wilayah": "73.13.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.12"
+    },
+    {
+      "nama_wilayah": "Makmur",
+      "kode_wilayah": "73.13.12.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.12"
+    },
+    {
+      "nama_wilayah": "Tadangpalie",
+      "kode_wilayah": "73.13.12.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.12"
+    },
+    {
+      "nama_wilayah": "Raddae",
+      "kode_wilayah": "73.13.12.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.13",
+      "kode_kecamatan": "73.13.12"
+    }
+  ]
+}

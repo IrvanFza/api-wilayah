@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pakembaran",
+      "kode_wilayah": "33.28.10.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.28",
+      "kode_kecamatan": "33.28.10"
+    },
+    {
+      "nama_wilayah": "Kagok",
+      "kode_wilayah": "33.28.10.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.28",
+      "kode_kecamatan": "33.28.10"
+    },
+    {
+      "nama_wilayah": "Procot",
+      "kode_wilayah": "33.28.10.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.28",
+      "kode_kecamatan": "33.28.10"
+    },
+    {
+      "nama_wilayah": "Kudaile",
+      "kode_wilayah": "33.28.10.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.28",
+      "kode_kecamatan": "33.28.10"
+    },
+    {
+      "nama_wilayah": "Slawi Wetan",
+      "kode_wilayah": "33.28.10.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.28",
+      "kode_kecamatan": "33.28.10"
+    },
+    {
+      "nama_wilayah": "Kalisapu",
+      "kode_wilayah": "33.28.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.28",
+      "kode_kecamatan": "33.28.10"
+    },
+    {
+      "nama_wilayah": "Dukuhwringin",
+      "kode_wilayah": "33.28.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.28",
+      "kode_kecamatan": "33.28.10"
+    },
+    {
+      "nama_wilayah": "Dukuhsalam",
+      "kode_wilayah": "33.28.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.28",
+      "kode_kecamatan": "33.28.10"
+    },
+    {
+      "nama_wilayah": "Slawi Kulon",
+      "kode_wilayah": "33.28.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.28",
+      "kode_kecamatan": "33.28.10"
+    },
+    {
+      "nama_wilayah": "Trayeman",
+      "kode_wilayah": "33.28.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.28",
+      "kode_kecamatan": "33.28.10"
+    }
+  ]
+}

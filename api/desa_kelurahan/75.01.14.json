@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Paris",
+      "kode_wilayah": "75.01.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.14"
+    },
+    {
+      "nama_wilayah": "Helumo",
+      "kode_wilayah": "75.01.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.14"
+    },
+    {
+      "nama_wilayah": "Pilomonu",
+      "kode_wilayah": "75.01.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.14"
+    },
+    {
+      "nama_wilayah": "Satria",
+      "kode_wilayah": "75.01.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.14"
+    },
+    {
+      "nama_wilayah": "Karyamukti",
+      "kode_wilayah": "75.01.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.14"
+    },
+    {
+      "nama_wilayah": "Talumopatu",
+      "kode_wilayah": "75.01.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.14"
+    },
+    {
+      "nama_wilayah": "Sidomukti",
+      "kode_wilayah": "75.01.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.14"
+    },
+    {
+      "nama_wilayah": "Payu",
+      "kode_wilayah": "75.01.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.14"
+    },
+    {
+      "nama_wilayah": "Sukamaju",
+      "kode_wilayah": "75.01.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.14"
+    },
+    {
+      "nama_wilayah": "Huyula",
+      "kode_wilayah": "75.01.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.14"
+    }
+  ]
+}

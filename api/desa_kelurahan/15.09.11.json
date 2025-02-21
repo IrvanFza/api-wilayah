@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Teluk Kepayang Pulau Indah",
+      "kode_wilayah": "15.09.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.11"
+    },
+    {
+      "nama_wilayah": "Balai Rajo",
+      "kode_wilayah": "15.09.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.11"
+    },
+    {
+      "nama_wilayah": "Cermin Alam",
+      "kode_wilayah": "15.09.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.11"
+    },
+    {
+      "nama_wilayah": "Sungai Karang",
+      "kode_wilayah": "15.09.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.11"
+    },
+    {
+      "nama_wilayah": "Paseban",
+      "kode_wilayah": "15.09.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.11"
+    },
+    {
+      "nama_wilayah": "Pasir Mayang",
+      "kode_wilayah": "15.09.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.09",
+      "kode_kecamatan": "15.09.11"
+    }
+  ]
+}

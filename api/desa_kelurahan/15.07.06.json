@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Rantau Indah",
+      "kode_wilayah": "15.07.06.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.06"
+    },
+    {
+      "nama_wilayah": "Kuala Dendang",
+      "kode_wilayah": "15.07.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.06"
+    },
+    {
+      "nama_wilayah": "Koto Kandis Dendang",
+      "kode_wilayah": "15.07.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.06"
+    },
+    {
+      "nama_wilayah": "Koto Kandis",
+      "kode_wilayah": "15.07.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.06"
+    },
+    {
+      "nama_wilayah": "Sido Mukti",
+      "kode_wilayah": "15.07.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.06"
+    },
+    {
+      "nama_wilayah": "Catur Rahayu",
+      "kode_wilayah": "15.07.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.06"
+    },
+    {
+      "nama_wilayah": "Jati Mulyo",
+      "kode_wilayah": "15.07.06.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.07",
+      "kode_kecamatan": "15.07.06"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Kelapa Lima",
+      "kode_wilayah": "53.71.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.71",
+      "kode_kecamatan": "53.71.03"
+    },
+    {
+      "nama_wilayah": "Oesapa",
+      "kode_wilayah": "53.71.03.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.71",
+      "kode_kecamatan": "53.71.03"
+    },
+    {
+      "nama_wilayah": "Lasiana",
+      "kode_wilayah": "53.71.03.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.71",
+      "kode_kecamatan": "53.71.03"
+    },
+    {
+      "nama_wilayah": "Oesapa Barat",
+      "kode_wilayah": "53.71.03.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.71",
+      "kode_kecamatan": "53.71.03"
+    },
+    {
+      "nama_wilayah": "Oesapa Selatan",
+      "kode_wilayah": "53.71.03.1015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.71",
+      "kode_kecamatan": "53.71.03"
+    }
+  ]
+}

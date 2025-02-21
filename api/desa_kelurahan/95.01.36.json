@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sogokmo",
+      "kode_wilayah": "95.01.36.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.36"
+    },
+    {
+      "nama_wilayah": "Asotipo",
+      "kode_wilayah": "95.01.36.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.36"
+    },
+    {
+      "nama_wilayah": "Putagaima",
+      "kode_wilayah": "95.01.36.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.36"
+    },
+    {
+      "nama_wilayah": "Kuantapo",
+      "kode_wilayah": "95.01.36.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.36"
+    },
+    {
+      "nama_wilayah": "Heberima",
+      "kode_wilayah": "95.01.36.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.36"
+    },
+    {
+      "nama_wilayah": "Iwigima",
+      "kode_wilayah": "95.01.36.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.36"
+    },
+    {
+      "nama_wilayah": "Pobiatma",
+      "kode_wilayah": "95.01.36.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.36"
+    },
+    {
+      "nama_wilayah": "Hitigima",
+      "kode_wilayah": "95.01.36.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.36"
+    },
+    {
+      "nama_wilayah": "Air Garam",
+      "kode_wilayah": "95.01.36.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.36"
+    },
+    {
+      "nama_wilayah": "Hukulimo",
+      "kode_wilayah": "95.01.36.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.36"
+    }
+  ]
+}

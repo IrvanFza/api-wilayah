@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Cileunyi Kulon",
+      "kode_wilayah": "32.04.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.05"
+    },
+    {
+      "nama_wilayah": "Cileunyi Wetan",
+      "kode_wilayah": "32.04.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.05"
+    },
+    {
+      "nama_wilayah": "Cimekar",
+      "kode_wilayah": "32.04.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.05"
+    },
+    {
+      "nama_wilayah": "Cinunuk",
+      "kode_wilayah": "32.04.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.05"
+    },
+    {
+      "nama_wilayah": "Cibiru Hilir",
+      "kode_wilayah": "32.04.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.05"
+    },
+    {
+      "nama_wilayah": "Cibiru Wetan",
+      "kode_wilayah": "32.04.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.04",
+      "kode_kecamatan": "32.04.05"
+    }
+  ]
+}

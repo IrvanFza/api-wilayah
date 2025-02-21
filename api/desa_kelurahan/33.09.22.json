@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Ngablak",
+      "kode_wilayah": "33.09.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.22"
+    },
+    {
+      "nama_wilayah": "Kedungpilang",
+      "kode_wilayah": "33.09.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.22"
+    },
+    {
+      "nama_wilayah": "Kalinanas",
+      "kode_wilayah": "33.09.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.22"
+    },
+    {
+      "nama_wilayah": "Gilirejo",
+      "kode_wilayah": "33.09.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.22"
+    },
+    {
+      "nama_wilayah": "Jatilawang",
+      "kode_wilayah": "33.09.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.22"
+    },
+    {
+      "nama_wilayah": "Garangan",
+      "kode_wilayah": "33.09.22.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.22"
+    },
+    {
+      "nama_wilayah": "Bercak",
+      "kode_wilayah": "33.09.22.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.22"
+    },
+    {
+      "nama_wilayah": "Bengle",
+      "kode_wilayah": "33.09.22.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.22"
+    },
+    {
+      "nama_wilayah": "Gunungsari",
+      "kode_wilayah": "33.09.22.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.22"
+    },
+    {
+      "nama_wilayah": "Repaking",
+      "kode_wilayah": "33.09.22.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.09",
+      "kode_kecamatan": "33.09.22"
+    }
+  ]
+}

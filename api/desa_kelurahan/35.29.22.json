@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Ketupat",
+      "kode_wilayah": "35.29.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.22"
+    },
+    {
+      "nama_wilayah": "Jungkat",
+      "kode_wilayah": "35.29.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.22"
+    },
+    {
+      "nama_wilayah": "Kropoh",
+      "kode_wilayah": "35.29.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.22"
+    },
+    {
+      "nama_wilayah": "Karangnangka",
+      "kode_wilayah": "35.29.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.22"
+    },
+    {
+      "nama_wilayah": "Alas Malang",
+      "kode_wilayah": "35.29.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.22"
+    },
+    {
+      "nama_wilayah": "Poteran",
+      "kode_wilayah": "35.29.22.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.22"
+    },
+    {
+      "nama_wilayah": "Brakas",
+      "kode_wilayah": "35.29.22.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.22"
+    },
+    {
+      "nama_wilayah": "Tonduk",
+      "kode_wilayah": "35.29.22.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.22"
+    },
+    {
+      "nama_wilayah": "Guwa-Guwa",
+      "kode_wilayah": "35.29.22.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.22"
+    }
+  ]
+}

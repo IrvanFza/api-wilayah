@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Ambena",
+      "kode_wilayah": "95.07.28.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.28"
+    },
+    {
+      "nama_wilayah": "Kolayak",
+      "kode_wilayah": "95.07.28.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.28"
+    },
+    {
+      "nama_wilayah": "Wanuga",
+      "kode_wilayah": "95.07.28.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.28"
+    },
+    {
+      "nama_wilayah": "Labora",
+      "kode_wilayah": "95.07.28.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.28"
+    },
+    {
+      "nama_wilayah": "Kondena",
+      "kode_wilayah": "95.07.28.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.28"
+    },
+    {
+      "nama_wilayah": "Kolunggu",
+      "kode_wilayah": "95.07.28.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.28"
+    },
+    {
+      "nama_wilayah": "Yagarikme",
+      "kode_wilayah": "95.07.28.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.28"
+    },
+    {
+      "nama_wilayah": "Timotius",
+      "kode_wilayah": "95.07.28.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.28"
+    },
+    {
+      "nama_wilayah": "Gunumbur",
+      "kode_wilayah": "95.07.28.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.28"
+    },
+    {
+      "nama_wilayah": "Lalugume",
+      "kode_wilayah": "95.07.28.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.28"
+    }
+  ]
+}

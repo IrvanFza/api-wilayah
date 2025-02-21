@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Alam Pauh Duo",
+      "kode_wilayah": "13.11.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.11",
+      "kode_kecamatan": "13.11.06"
+    },
+    {
+      "nama_wilayah": "Kapau Alam Pauh Duo",
+      "kode_wilayah": "13.11.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.11",
+      "kode_kecamatan": "13.11.06"
+    },
+    {
+      "nama_wilayah": "Luak Kapau Alam Pauh Duo",
+      "kode_wilayah": "13.11.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.11",
+      "kode_kecamatan": "13.11.06"
+    },
+    {
+      "nama_wilayah": "Pauh Duo Nan Batigo",
+      "kode_wilayah": "13.11.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.11",
+      "kode_kecamatan": "13.11.06"
+    }
+  ]
+}

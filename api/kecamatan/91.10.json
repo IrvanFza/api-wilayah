@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sarmi",
+      "kode_wilayah": "91.10.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.10",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Tor Atas",
+      "kode_wilayah": "91.10.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.10",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Pantai Barat",
+      "kode_wilayah": "91.10.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.10",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Pantai Timur",
+      "kode_wilayah": "91.10.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.10",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Bonggo",
+      "kode_wilayah": "91.10.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.10",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Apawer Hulu",
+      "kode_wilayah": "91.10.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.10",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Sarmi Selatan",
+      "kode_wilayah": "91.10.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.10",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Sarmi Timur",
+      "kode_wilayah": "91.10.13",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.10",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Pantai Timur Bagian Barat",
+      "kode_wilayah": "91.10.14",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.10",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Bonggo Timur",
+      "kode_wilayah": "91.10.15",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.10",
+      "kode_provinsi": "91"
+    }
+  ]
+}

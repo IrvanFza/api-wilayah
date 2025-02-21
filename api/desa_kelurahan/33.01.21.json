@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sidakaya",
+      "kode_wilayah": "33.01.21.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.21"
+    },
+    {
+      "nama_wilayah": "Cilacap",
+      "kode_wilayah": "33.01.21.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.21"
+    },
+    {
+      "nama_wilayah": "Tambakreja",
+      "kode_wilayah": "33.01.21.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.21"
+    },
+    {
+      "nama_wilayah": "Tegalkamulyan",
+      "kode_wilayah": "33.01.21.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.21"
+    },
+    {
+      "nama_wilayah": "Tegalreja",
+      "kode_wilayah": "33.01.21.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.01",
+      "kode_kecamatan": "33.01.21"
+    }
+  ]
+}

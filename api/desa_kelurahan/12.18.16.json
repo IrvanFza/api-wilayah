@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Penggalian",
+      "kode_wilayah": "12.18.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.18",
+      "kode_kecamatan": "12.18.16"
+    },
+    {
+      "nama_wilayah": "Laut Tador",
+      "kode_wilayah": "12.18.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.18",
+      "kode_kecamatan": "12.18.16"
+    },
+    {
+      "nama_wilayah": "Tanah Besih",
+      "kode_wilayah": "12.18.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.18",
+      "kode_kecamatan": "12.18.16"
+    },
+    {
+      "nama_wilayah": "Binjai",
+      "kode_wilayah": "12.18.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.18",
+      "kode_kecamatan": "12.18.16"
+    },
+    {
+      "nama_wilayah": "Paya Pasir",
+      "kode_wilayah": "12.18.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.18",
+      "kode_kecamatan": "12.18.16"
+    },
+    {
+      "nama_wilayah": "Bahilang",
+      "kode_wilayah": "12.18.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.18",
+      "kode_kecamatan": "12.18.16"
+    },
+    {
+      "nama_wilayah": "Penggalangan",
+      "kode_wilayah": "12.18.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.18",
+      "kode_kecamatan": "12.18.16"
+    },
+    {
+      "nama_wilayah": "Paya Pinang",
+      "kode_wilayah": "12.18.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.18",
+      "kode_kecamatan": "12.18.16"
+    },
+    {
+      "nama_wilayah": "Kuta Pinang",
+      "kode_wilayah": "12.18.16.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.18",
+      "kode_kecamatan": "12.18.16"
+    },
+    {
+      "nama_wilayah": "Sibulan",
+      "kode_wilayah": "12.18.16.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.18",
+      "kode_kecamatan": "12.18.16"
+    }
+  ]
+}

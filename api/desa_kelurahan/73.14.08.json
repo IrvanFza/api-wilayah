@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Empagae",
+      "kode_wilayah": "73.14.08.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.08"
+    },
+    {
+      "nama_wilayah": "Sidenreng",
+      "kode_wilayah": "73.14.08.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.08"
+    },
+    {
+      "nama_wilayah": "Kanyuara",
+      "kode_wilayah": "73.14.08.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.08"
+    },
+    {
+      "nama_wilayah": "Mojong",
+      "kode_wilayah": "73.14.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.08"
+    },
+    {
+      "nama_wilayah": "Damai",
+      "kode_wilayah": "73.14.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.08"
+    },
+    {
+      "nama_wilayah": "Talumae",
+      "kode_wilayah": "73.14.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.08"
+    },
+    {
+      "nama_wilayah": "Aka-akae",
+      "kode_wilayah": "73.14.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.08"
+    },
+    {
+      "nama_wilayah": "Talawe",
+      "kode_wilayah": "73.14.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.14",
+      "kode_kecamatan": "73.14.08"
+    }
+  ]
+}

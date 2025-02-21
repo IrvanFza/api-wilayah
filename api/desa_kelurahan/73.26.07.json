@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Paepalean",
+      "kode_wilayah": "73.26.07.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.07"
+    },
+    {
+      "nama_wilayah": "La-bo-",
+      "kode_wilayah": "73.26.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.07"
+    },
+    {
+      "nama_wilayah": "Buntu La-bo-",
+      "kode_wilayah": "73.26.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.07"
+    },
+    {
+      "nama_wilayah": "Tallung Penanian",
+      "kode_wilayah": "73.26.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.07"
+    },
+    {
+      "nama_wilayah": "Pata-padang",
+      "kode_wilayah": "73.26.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.07"
+    },
+    {
+      "nama_wilayah": "Tandung La-bo-",
+      "kode_wilayah": "73.26.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.07"
+    }
+  ]
+}

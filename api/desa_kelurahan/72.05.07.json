@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Boilan",
+      "kode_wilayah": "72.05.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.07"
+    },
+    {
+      "nama_wilayah": "Kokobuka",
+      "kode_wilayah": "72.05.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.07"
+    },
+    {
+      "nama_wilayah": "Air Terang",
+      "kode_wilayah": "72.05.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.07"
+    },
+    {
+      "nama_wilayah": "Panilan Jaya",
+      "kode_wilayah": "72.05.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.07"
+    },
+    {
+      "nama_wilayah": "Jatimulya",
+      "kode_wilayah": "72.05.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.07"
+    },
+    {
+      "nama_wilayah": "Lomuli",
+      "kode_wilayah": "72.05.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.07"
+    },
+    {
+      "nama_wilayah": "Balau",
+      "kode_wilayah": "72.05.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.07"
+    },
+    {
+      "nama_wilayah": "Maniala",
+      "kode_wilayah": "72.05.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.07"
+    },
+    {
+      "nama_wilayah": "Monggonit",
+      "kode_wilayah": "72.05.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.05",
+      "kode_kecamatan": "72.05.07"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Benoa",
+      "kode_wilayah": "51.03.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.03",
+      "kode_kecamatan": "51.03.05"
+    },
+    {
+      "nama_wilayah": "Tanjung Benoa",
+      "kode_wilayah": "51.03.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.03",
+      "kode_kecamatan": "51.03.05"
+    },
+    {
+      "nama_wilayah": "Jimbaran",
+      "kode_wilayah": "51.03.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.03",
+      "kode_kecamatan": "51.03.05"
+    },
+    {
+      "nama_wilayah": "Pecatu",
+      "kode_wilayah": "51.03.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.03",
+      "kode_kecamatan": "51.03.05"
+    },
+    {
+      "nama_wilayah": "Ungasan",
+      "kode_wilayah": "51.03.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.03",
+      "kode_kecamatan": "51.03.05"
+    },
+    {
+      "nama_wilayah": "Kutuh",
+      "kode_wilayah": "51.03.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.03",
+      "kode_kecamatan": "51.03.05"
+    }
+  ]
+}

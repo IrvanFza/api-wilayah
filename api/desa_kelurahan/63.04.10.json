@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Lepasan",
+      "kode_wilayah": "63.04.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.04",
+      "kode_kecamatan": "63.04.10"
+    },
+    {
+      "nama_wilayah": "Banua Anyar",
+      "kode_wilayah": "63.04.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.04",
+      "kode_kecamatan": "63.04.10"
+    },
+    {
+      "nama_wilayah": "Murung Raya",
+      "kode_wilayah": "63.04.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.04",
+      "kode_kecamatan": "63.04.10"
+    },
+    {
+      "nama_wilayah": "Palingkau",
+      "kode_wilayah": "63.04.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.04",
+      "kode_kecamatan": "63.04.10"
+    },
+    {
+      "nama_wilayah": "Balukung",
+      "kode_wilayah": "63.04.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.04",
+      "kode_kecamatan": "63.04.10"
+    },
+    {
+      "nama_wilayah": "Banitan",
+      "kode_wilayah": "63.04.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.04",
+      "kode_kecamatan": "63.04.10"
+    },
+    {
+      "nama_wilayah": "Batik",
+      "kode_wilayah": "63.04.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.04",
+      "kode_kecamatan": "63.04.10"
+    },
+    {
+      "nama_wilayah": "Bahalayung",
+      "kode_wilayah": "63.04.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.04",
+      "kode_kecamatan": "63.04.10"
+    },
+    {
+      "nama_wilayah": "Sungai Selirik",
+      "kode_wilayah": "63.04.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.04",
+      "kode_kecamatan": "63.04.10"
+    }
+  ]
+}

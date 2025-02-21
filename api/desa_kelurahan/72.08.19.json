@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Avolua",
+      "kode_wilayah": "72.08.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.19"
+    },
+    {
+      "nama_wilayah": "Toboli",
+      "kode_wilayah": "72.08.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.19"
+    },
+    {
+      "nama_wilayah": "Toboli Barat",
+      "kode_wilayah": "72.08.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.19"
+    },
+    {
+      "nama_wilayah": "Pangi",
+      "kode_wilayah": "72.08.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.19"
+    },
+    {
+      "nama_wilayah": "Sakinah Jaya",
+      "kode_wilayah": "72.08.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.19"
+    }
+  ]
+}

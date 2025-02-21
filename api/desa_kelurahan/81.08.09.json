@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Latalola Besar",
+      "kode_wilayah": "81.08.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.09"
+    },
+    {
+      "nama_wilayah": "Serili",
+      "kode_wilayah": "81.08.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.09"
+    },
+    {
+      "nama_wilayah": "Latalola Kecil",
+      "kode_wilayah": "81.08.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.09"
+    },
+    {
+      "nama_wilayah": "Telalora",
+      "kode_wilayah": "81.08.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.09"
+    },
+    {
+      "nama_wilayah": "Marsela",
+      "kode_wilayah": "81.08.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.09"
+    },
+    {
+      "nama_wilayah": "Babiotang",
+      "kode_wilayah": "81.08.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.09"
+    },
+    {
+      "nama_wilayah": "Iblatmuntah",
+      "kode_wilayah": "81.08.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.09"
+    },
+    {
+      "nama_wilayah": "Ilbutung",
+      "kode_wilayah": "81.08.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.09"
+    },
+    {
+      "nama_wilayah": "Lawawang",
+      "kode_wilayah": "81.08.09.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.09"
+    },
+    {
+      "nama_wilayah": "Nura",
+      "kode_wilayah": "81.08.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.09"
+    },
+    {
+      "nama_wilayah": "Bululora",
+      "kode_wilayah": "81.08.09.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.09"
+    }
+  ]
+}

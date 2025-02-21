@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Ujuna",
+      "kode_wilayah": "72.71.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.02"
+    },
+    {
+      "nama_wilayah": "Balaroa",
+      "kode_wilayah": "72.71.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.02"
+    },
+    {
+      "nama_wilayah": "Kamonji",
+      "kode_wilayah": "72.71.02.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.02"
+    },
+    {
+      "nama_wilayah": "Baru",
+      "kode_wilayah": "72.71.02.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.02"
+    },
+    {
+      "nama_wilayah": "Lere",
+      "kode_wilayah": "72.71.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.02"
+    },
+    {
+      "nama_wilayah": "Siranindi",
+      "kode_wilayah": "72.71.02.1015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.02"
+    }
+  ]
+}

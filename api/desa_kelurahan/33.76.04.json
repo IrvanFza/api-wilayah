@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kaligangsa",
+      "kode_wilayah": "33.76.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.04"
+    },
+    {
+      "nama_wilayah": "Krandon",
+      "kode_wilayah": "33.76.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.04"
+    },
+    {
+      "nama_wilayah": "Cabawan",
+      "kode_wilayah": "33.76.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.04"
+    },
+    {
+      "nama_wilayah": "Kalinyamat Kulon",
+      "kode_wilayah": "33.76.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.04"
+    },
+    {
+      "nama_wilayah": "Margadana",
+      "kode_wilayah": "33.76.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.04"
+    },
+    {
+      "nama_wilayah": "Sumurpanggang",
+      "kode_wilayah": "33.76.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.04"
+    },
+    {
+      "nama_wilayah": "Pesurungan Lor",
+      "kode_wilayah": "33.76.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.04"
+    }
+  ]
+}

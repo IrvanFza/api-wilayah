@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Kaliorang",
+      "kode_wilayah": "64.08.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.10"
+    },
+    {
+      "nama_wilayah": "Bukit Makmur",
+      "kode_wilayah": "64.08.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.10"
+    },
+    {
+      "nama_wilayah": "Bukit Harapan",
+      "kode_wilayah": "64.08.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.10"
+    },
+    {
+      "nama_wilayah": "Citra Manunggal Jaya",
+      "kode_wilayah": "64.08.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.10"
+    },
+    {
+      "nama_wilayah": "Bangun Jaya",
+      "kode_wilayah": "64.08.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.10"
+    },
+    {
+      "nama_wilayah": "Bumi Sejahtera",
+      "kode_wilayah": "64.08.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.10"
+    },
+    {
+      "nama_wilayah": "Selangkau",
+      "kode_wilayah": "64.08.10.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.10"
+    }
+  ]
+}

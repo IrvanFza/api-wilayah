@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Daya Murni",
+      "kode_wilayah": "18.12.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.12",
+      "kode_kecamatan": "18.12.02"
+    },
+    {
+      "nama_wilayah": "Daya Sakti",
+      "kode_wilayah": "18.12.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.12",
+      "kode_kecamatan": "18.12.02"
+    },
+    {
+      "nama_wilayah": "Margo Mulyo",
+      "kode_wilayah": "18.12.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.12",
+      "kode_kecamatan": "18.12.02"
+    },
+    {
+      "nama_wilayah": "Makarti",
+      "kode_wilayah": "18.12.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.12",
+      "kode_kecamatan": "18.12.02"
+    },
+    {
+      "nama_wilayah": "Gunung Menanti",
+      "kode_wilayah": "18.12.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.12",
+      "kode_kecamatan": "18.12.02"
+    },
+    {
+      "nama_wilayah": "Daya Asri",
+      "kode_wilayah": "18.12.02.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.12",
+      "kode_kecamatan": "18.12.02"
+    },
+    {
+      "nama_wilayah": "Murni Jaya",
+      "kode_wilayah": "18.12.02.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.12",
+      "kode_kecamatan": "18.12.02"
+    },
+    {
+      "nama_wilayah": "Sumber Rejo",
+      "kode_wilayah": "18.12.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.12",
+      "kode_kecamatan": "18.12.02"
+    },
+    {
+      "nama_wilayah": "Margo Dadi",
+      "kode_wilayah": "18.12.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.12",
+      "kode_kecamatan": "18.12.02"
+    },
+    {
+      "nama_wilayah": "Gunung Timbul",
+      "kode_wilayah": "18.12.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.12",
+      "kode_kecamatan": "18.12.02"
+    }
+  ]
+}

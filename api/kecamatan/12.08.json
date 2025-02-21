@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "total": 32,
+  "data": [
+    {
+      "nama_wilayah": "Siantar",
+      "kode_wilayah": "12.08.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Gunung Malela",
+      "kode_wilayah": "12.08.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Gunung Maligas",
+      "kode_wilayah": "12.08.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Panei",
+      "kode_wilayah": "12.08.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Panombeian Panei",
+      "kode_wilayah": "12.08.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Jorlang Hataran",
+      "kode_wilayah": "12.08.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Raya Kahean",
+      "kode_wilayah": "12.08.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Bosar Maligas",
+      "kode_wilayah": "12.08.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Sidamanik",
+      "kode_wilayah": "12.08.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Pamatang Sidamanik",
+      "kode_wilayah": "12.08.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Tanah Jawa",
+      "kode_wilayah": "12.08.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Hatonduhan",
+      "kode_wilayah": "12.08.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Dolok Panribuan",
+      "kode_wilayah": "12.08.13",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Purba",
+      "kode_wilayah": "12.08.14",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Haranggaol Horisan",
+      "kode_wilayah": "12.08.15",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Girsang Sipangan Bolon",
+      "kode_wilayah": "12.08.16",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Dolok Batu Nanggar",
+      "kode_wilayah": "12.08.17",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Huta Bayu Raja",
+      "kode_wilayah": "12.08.18",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Jawa Maraja Bah Jambi",
+      "kode_wilayah": "12.08.19",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Dolok Pardamean",
+      "kode_wilayah": "12.08.20",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Pematang Bandar",
+      "kode_wilayah": "12.08.21",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Bandar Huluan",
+      "kode_wilayah": "12.08.22",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Bandar",
+      "kode_wilayah": "12.08.23",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Bandar Masilam",
+      "kode_wilayah": "12.08.24",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Silimakuta",
+      "kode_wilayah": "12.08.25",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Dolok Silou",
+      "kode_wilayah": "12.08.26",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Silou Kahean",
+      "kode_wilayah": "12.08.27",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Tapian Dolok",
+      "kode_wilayah": "12.08.28",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Raya",
+      "kode_wilayah": "12.08.29",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Ujung Padang",
+      "kode_wilayah": "12.08.30",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Pamatang Silima Huta",
+      "kode_wilayah": "12.08.31",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Dolog Masagal",
+      "kode_wilayah": "12.08.32",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.08",
+      "kode_provinsi": "12"
+    }
+  ]
+}

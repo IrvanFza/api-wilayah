@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kucur",
+      "kode_wilayah": "35.07.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.22"
+    },
+    {
+      "nama_wilayah": "Kalisongo",
+      "kode_wilayah": "35.07.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.22"
+    },
+    {
+      "nama_wilayah": "Karangwidoro",
+      "kode_wilayah": "35.07.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.22"
+    },
+    {
+      "nama_wilayah": "Petungsewu",
+      "kode_wilayah": "35.07.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.22"
+    },
+    {
+      "nama_wilayah": "Selorejo",
+      "kode_wilayah": "35.07.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.22"
+    },
+    {
+      "nama_wilayah": "Tegalweru",
+      "kode_wilayah": "35.07.22.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.22"
+    },
+    {
+      "nama_wilayah": "Landungsari",
+      "kode_wilayah": "35.07.22.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.22"
+    },
+    {
+      "nama_wilayah": "Mulyoagung",
+      "kode_wilayah": "35.07.22.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.22"
+    },
+    {
+      "nama_wilayah": "Gadingkulon",
+      "kode_wilayah": "35.07.22.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.22"
+    },
+    {
+      "nama_wilayah": "Sumbersekar",
+      "kode_wilayah": "35.07.22.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.07",
+      "kode_kecamatan": "35.07.22"
+    }
+  ]
+}

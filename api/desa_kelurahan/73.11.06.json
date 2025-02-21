@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Mattappawalie",
+      "kode_wilayah": "73.11.06.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.06"
+    },
+    {
+      "nama_wilayah": "Pujananting",
+      "kode_wilayah": "73.11.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.06"
+    },
+    {
+      "nama_wilayah": "Gattareng",
+      "kode_wilayah": "73.11.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.06"
+    },
+    {
+      "nama_wilayah": "Pattappa",
+      "kode_wilayah": "73.11.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.06"
+    },
+    {
+      "nama_wilayah": "Jangan Jangan",
+      "kode_wilayah": "73.11.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.06"
+    },
+    {
+      "nama_wilayah": "Bulo Bulo",
+      "kode_wilayah": "73.11.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.06"
+    },
+    {
+      "nama_wilayah": "Bacu Bacu",
+      "kode_wilayah": "73.11.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.11",
+      "kode_kecamatan": "73.11.06"
+    }
+  ]
+}

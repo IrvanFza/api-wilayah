@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Siayuh",
+      "kode_wilayah": "63.02.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.18"
+    },
+    {
+      "nama_wilayah": "Bungkukan",
+      "kode_wilayah": "63.02.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.18"
+    },
+    {
+      "nama_wilayah": "Batang Kulur",
+      "kode_wilayah": "63.02.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.18"
+    },
+    {
+      "nama_wilayah": "Tanjung Sari",
+      "kode_wilayah": "63.02.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.18"
+    },
+    {
+      "nama_wilayah": "Magalau Hilir",
+      "kode_wilayah": "63.02.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.18"
+    },
+    {
+      "nama_wilayah": "Magalau Hulu",
+      "kode_wilayah": "63.02.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.18"
+    }
+  ]
+}

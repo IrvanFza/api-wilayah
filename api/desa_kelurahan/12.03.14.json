@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Arse",
+      "kode_wilayah": "12.03.14.1039",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.14"
+    },
+    {
+      "nama_wilayah": "Lancat",
+      "kode_wilayah": "12.03.14.1040",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.14"
+    },
+    {
+      "nama_wilayah": "Sipogu",
+      "kode_wilayah": "12.03.14.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.14"
+    },
+    {
+      "nama_wilayah": "Pinagar",
+      "kode_wilayah": "12.03.14.2032",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.14"
+    },
+    {
+      "nama_wilayah": "Pardomuan",
+      "kode_wilayah": "12.03.14.2033",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.14"
+    },
+    {
+      "nama_wilayah": "Aek Haminjon",
+      "kode_wilayah": "12.03.14.2034",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.14"
+    },
+    {
+      "nama_wilayah": "Nanggar Jati Huta Padang",
+      "kode_wilayah": "12.03.14.2035",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.14"
+    },
+    {
+      "nama_wilayah": "Nanggar Jati",
+      "kode_wilayah": "12.03.14.2036",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.14"
+    },
+    {
+      "nama_wilayah": "Natambang Roncitan",
+      "kode_wilayah": "12.03.14.2037",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.14"
+    },
+    {
+      "nama_wilayah": "Dalihan Natolu",
+      "kode_wilayah": "12.03.14.2038",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.14"
+    }
+  ]
+}

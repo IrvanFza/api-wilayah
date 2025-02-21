@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Bokin",
+      "kode_wilayah": "73.26.18.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.18"
+    },
+    {
+      "nama_wilayah": "Buangin",
+      "kode_wilayah": "73.26.18.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.18"
+    },
+    {
+      "nama_wilayah": "Rantebua",
+      "kode_wilayah": "73.26.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.18"
+    },
+    {
+      "nama_wilayah": "Pitung Penanian",
+      "kode_wilayah": "73.26.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.18"
+    },
+    {
+      "nama_wilayah": "Ma-kuan Pare",
+      "kode_wilayah": "73.26.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.18"
+    },
+    {
+      "nama_wilayah": "Rantebua Sumalu",
+      "kode_wilayah": "73.26.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.18"
+    },
+    {
+      "nama_wilayah": "Rantebua Sanggalangi-",
+      "kode_wilayah": "73.26.18.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.26",
+      "kode_kecamatan": "73.26.18"
+    }
+  ]
+}

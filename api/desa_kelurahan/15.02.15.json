@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Limau",
+      "kode_wilayah": "15.02.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.15"
+    },
+    {
+      "nama_wilayah": "Sungai Bulian",
+      "kode_wilayah": "15.02.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.15"
+    },
+    {
+      "nama_wilayah": "Sri Sembilan",
+      "kode_wilayah": "15.02.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.15"
+    },
+    {
+      "nama_wilayah": "Bukit Subur",
+      "kode_wilayah": "15.02.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.02",
+      "kode_kecamatan": "15.02.15"
+    }
+  ]
+}

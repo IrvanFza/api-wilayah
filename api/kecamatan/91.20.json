@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Mamberamo Tengah",
+      "kode_wilayah": "91.20.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.20",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Mamberamo Hulu",
+      "kode_wilayah": "91.20.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.20",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Rufaer",
+      "kode_wilayah": "91.20.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.20",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Mamberamo Tengah Timur",
+      "kode_wilayah": "91.20.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.20",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Mamberamo Hilir",
+      "kode_wilayah": "91.20.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.20",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Waropen Atas",
+      "kode_wilayah": "91.20.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.20",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Benuki",
+      "kode_wilayah": "91.20.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.20",
+      "kode_provinsi": "91"
+    },
+    {
+      "nama_wilayah": "Sawai",
+      "kode_wilayah": "91.20.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "91.20",
+      "kode_provinsi": "91"
+    }
+  ]
+}

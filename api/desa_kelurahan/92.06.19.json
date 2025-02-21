@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Sebyar Rejosasi",
+      "kode_wilayah": "92.06.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.19"
+    },
+    {
+      "nama_wilayah": "Tomu",
+      "kode_wilayah": "92.06.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.19"
+    },
+    {
+      "nama_wilayah": "Taroy",
+      "kode_wilayah": "92.06.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.19"
+    },
+    {
+      "nama_wilayah": "Ekam",
+      "kode_wilayah": "92.06.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.19"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pohjentrek",
+      "kode_wilayah": "35.75.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.75",
+      "kode_kecamatan": "35.75.02"
+    },
+    {
+      "nama_wilayah": "Wirogunan",
+      "kode_wilayah": "35.75.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.75",
+      "kode_kecamatan": "35.75.02"
+    },
+    {
+      "nama_wilayah": "Tembokrejo",
+      "kode_wilayah": "35.75.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.75",
+      "kode_kecamatan": "35.75.02"
+    },
+    {
+      "nama_wilayah": "Purutrejo",
+      "kode_wilayah": "35.75.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.75",
+      "kode_kecamatan": "35.75.02"
+    },
+    {
+      "nama_wilayah": "Kebonagung",
+      "kode_wilayah": "35.75.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.75",
+      "kode_kecamatan": "35.75.02"
+    },
+    {
+      "nama_wilayah": "Purworejo",
+      "kode_wilayah": "35.75.02.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.75",
+      "kode_kecamatan": "35.75.02"
+    },
+    {
+      "nama_wilayah": "Sekargadung",
+      "kode_wilayah": "35.75.02.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.75",
+      "kode_kecamatan": "35.75.02"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Pesisir Tengah",
+      "kode_wilayah": "18.13.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.13",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Pesisir Selatan",
+      "kode_wilayah": "18.13.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.13",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Lemong",
+      "kode_wilayah": "18.13.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.13",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Pesisir Utara",
+      "kode_wilayah": "18.13.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.13",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Karya Penggawa",
+      "kode_wilayah": "18.13.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.13",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Pulau Pisang",
+      "kode_wilayah": "18.13.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.13",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Way Krui",
+      "kode_wilayah": "18.13.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.13",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Krui Selatan",
+      "kode_wilayah": "18.13.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.13",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Ngambur",
+      "kode_wilayah": "18.13.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.13",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Ngaras",
+      "kode_wilayah": "18.13.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.13",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Bangkunat",
+      "kode_wilayah": "18.13.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.13",
+      "kode_provinsi": "18"
+    }
+  ]
+}

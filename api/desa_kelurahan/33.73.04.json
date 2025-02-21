@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Kecandran",
+      "kode_wilayah": "33.73.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.73",
+      "kode_kecamatan": "33.73.04"
+    },
+    {
+      "nama_wilayah": "Dukuh",
+      "kode_wilayah": "33.73.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.73",
+      "kode_kecamatan": "33.73.04"
+    },
+    {
+      "nama_wilayah": "Mangunsari",
+      "kode_wilayah": "33.73.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.73",
+      "kode_kecamatan": "33.73.04"
+    },
+    {
+      "nama_wilayah": "Kalicacing",
+      "kode_wilayah": "33.73.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.73",
+      "kode_kecamatan": "33.73.04"
+    }
+  ]
+}

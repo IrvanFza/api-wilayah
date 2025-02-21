@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Ugimba",
+      "kode_wilayah": "94.07.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.07"
+    },
+    {
+      "nama_wilayah": "Bunaopa",
+      "kode_wilayah": "94.07.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.07"
+    },
+    {
+      "nama_wilayah": "Pigabu",
+      "kode_wilayah": "94.07.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.07"
+    },
+    {
+      "nama_wilayah": "Teteopa",
+      "kode_wilayah": "94.07.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.07"
+    },
+    {
+      "nama_wilayah": "Dukendopa",
+      "kode_wilayah": "94.07.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.07"
+    },
+    {
+      "nama_wilayah": "Nggamagae",
+      "kode_wilayah": "94.07.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.07",
+      "kode_kecamatan": "94.07.07"
+    }
+  ]
+}

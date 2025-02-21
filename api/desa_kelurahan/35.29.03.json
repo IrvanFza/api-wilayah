@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Kasengan",
+      "kode_wilayah": "35.29.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.03"
+    },
+    {
+      "nama_wilayah": "Lalangon",
+      "kode_wilayah": "35.29.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.03"
+    },
+    {
+      "nama_wilayah": "Tenonan",
+      "kode_wilayah": "35.29.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.03"
+    },
+    {
+      "nama_wilayah": "Lanjuk",
+      "kode_wilayah": "35.29.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.03"
+    },
+    {
+      "nama_wilayah": "Gadding",
+      "kode_wilayah": "35.29.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.03"
+    },
+    {
+      "nama_wilayah": "Giring",
+      "kode_wilayah": "35.29.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.03"
+    },
+    {
+      "nama_wilayah": "Gunung Kembar",
+      "kode_wilayah": "35.29.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.03"
+    },
+    {
+      "nama_wilayah": "Jaba-an",
+      "kode_wilayah": "35.29.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.03"
+    },
+    {
+      "nama_wilayah": "Manding Laok",
+      "kode_wilayah": "35.29.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.03"
+    },
+    {
+      "nama_wilayah": "Manding Timur",
+      "kode_wilayah": "35.29.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.03"
+    },
+    {
+      "nama_wilayah": "Manding Daya",
+      "kode_wilayah": "35.29.03.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.29",
+      "kode_kecamatan": "35.29.03"
+    }
+  ]
+}

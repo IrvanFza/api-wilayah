@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Plaju Ulu",
+      "kode_wilayah": "16.71.14.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.14"
+    },
+    {
+      "nama_wilayah": "Plaju Darat",
+      "kode_wilayah": "16.71.14.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.14"
+    },
+    {
+      "nama_wilayah": "Plaju Ilir",
+      "kode_wilayah": "16.71.14.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.14"
+    },
+    {
+      "nama_wilayah": "Baguskuning",
+      "kode_wilayah": "16.71.14.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.14"
+    },
+    {
+      "nama_wilayah": "Komperta",
+      "kode_wilayah": "16.71.14.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.14"
+    },
+    {
+      "nama_wilayah": "Talangputri",
+      "kode_wilayah": "16.71.14.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.14"
+    },
+    {
+      "nama_wilayah": "Talangbubuk",
+      "kode_wilayah": "16.71.14.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.14"
+    }
+  ]
+}

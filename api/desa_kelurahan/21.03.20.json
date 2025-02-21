@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Batubi Jaya",
+      "kode_wilayah": "21.03.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.20"
+    },
+    {
+      "nama_wilayah": "Gunung Putri",
+      "kode_wilayah": "21.03.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.20"
+    },
+    {
+      "nama_wilayah": "Sedarat Baru",
+      "kode_wilayah": "21.03.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.20"
+    },
+    {
+      "nama_wilayah": "Sedanau Timur",
+      "kode_wilayah": "21.03.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.20"
+    },
+    {
+      "nama_wilayah": "Semedang",
+      "kode_wilayah": "21.03.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.20"
+    }
+  ]
+}

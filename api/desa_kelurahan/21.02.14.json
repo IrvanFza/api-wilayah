@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sugie",
+      "kode_wilayah": "21.02.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.14"
+    },
+    {
+      "nama_wilayah": "Niur Permai",
+      "kode_wilayah": "21.02.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.14"
+    },
+    {
+      "nama_wilayah": "Keban",
+      "kode_wilayah": "21.02.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.14"
+    },
+    {
+      "nama_wilayah": "Rawa Jaya",
+      "kode_wilayah": "21.02.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.14"
+    },
+    {
+      "nama_wilayah": "Tanjung Pelanduk",
+      "kode_wilayah": "21.02.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.14"
+    },
+    {
+      "nama_wilayah": "Buluh Patah",
+      "kode_wilayah": "21.02.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.14"
+    },
+    {
+      "nama_wilayah": "Selat Mie",
+      "kode_wilayah": "21.02.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.02",
+      "kode_kecamatan": "21.02.14"
+    }
+  ]
+}

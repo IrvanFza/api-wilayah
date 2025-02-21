@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Kelarik Utara",
+      "kode_wilayah": "21.03.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.08"
+    },
+    {
+      "nama_wilayah": "Kelarik",
+      "kode_wilayah": "21.03.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.08"
+    },
+    {
+      "nama_wilayah": "Kelarik Air Mali",
+      "kode_wilayah": "21.03.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.08"
+    },
+    {
+      "nama_wilayah": "Teluk Buton",
+      "kode_wilayah": "21.03.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.08"
+    },
+    {
+      "nama_wilayah": "Belakang Gunung",
+      "kode_wilayah": "21.03.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.08"
+    },
+    {
+      "nama_wilayah": "Gunung Durian",
+      "kode_wilayah": "21.03.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.08"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Ambang I",
+      "kode_wilayah": "71.01.31.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.31"
+    },
+    {
+      "nama_wilayah": "Ambang II",
+      "kode_wilayah": "71.01.31.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.31"
+    },
+    {
+      "nama_wilayah": "Tadoy",
+      "kode_wilayah": "71.01.31.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.31"
+    },
+    {
+      "nama_wilayah": "Bolaang",
+      "kode_wilayah": "71.01.31.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.31"
+    },
+    {
+      "nama_wilayah": "Bantik",
+      "kode_wilayah": "71.01.31.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.31"
+    },
+    {
+      "nama_wilayah": "Lolan",
+      "kode_wilayah": "71.01.31.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.31"
+    },
+    {
+      "nama_wilayah": "Tadoy I",
+      "kode_wilayah": "71.01.31.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.31"
+    },
+    {
+      "nama_wilayah": "Bolaang Satu",
+      "kode_wilayah": "71.01.31.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.31"
+    },
+    {
+      "nama_wilayah": "Lolan Dua",
+      "kode_wilayah": "71.01.31.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.01",
+      "kode_kecamatan": "71.01.31"
+    }
+  ]
+}

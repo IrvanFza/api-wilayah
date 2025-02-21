@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Baler Bale Agung",
+      "kode_wilayah": "51.01.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.01"
+    },
+    {
+      "nama_wilayah": "Banjar Tengah",
+      "kode_wilayah": "51.01.01.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.01"
+    },
+    {
+      "nama_wilayah": "Lelateng",
+      "kode_wilayah": "51.01.01.1013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.01"
+    },
+    {
+      "nama_wilayah": "Loloan Barat",
+      "kode_wilayah": "51.01.01.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.01"
+    },
+    {
+      "nama_wilayah": "Cupel",
+      "kode_wilayah": "51.01.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.01"
+    },
+    {
+      "nama_wilayah": "Baluk",
+      "kode_wilayah": "51.01.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.01"
+    },
+    {
+      "nama_wilayah": "Banyubiru",
+      "kode_wilayah": "51.01.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.01"
+    },
+    {
+      "nama_wilayah": "Kaliakah",
+      "kode_wilayah": "51.01.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.01"
+    },
+    {
+      "nama_wilayah": "Berangbang",
+      "kode_wilayah": "51.01.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.01"
+    },
+    {
+      "nama_wilayah": "Tegal Badeng Timur",
+      "kode_wilayah": "51.01.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.01"
+    },
+    {
+      "nama_wilayah": "Tegal Badeng Barat",
+      "kode_wilayah": "51.01.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.01"
+    },
+    {
+      "nama_wilayah": "Pengambengan",
+      "kode_wilayah": "51.01.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.01",
+      "kode_kecamatan": "51.01.01"
+    }
+  ]
+}

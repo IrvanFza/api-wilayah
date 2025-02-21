@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tamborasi",
+      "kode_wilayah": "74.01.27.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.27"
+    },
+    {
+      "nama_wilayah": "Ladahai",
+      "kode_wilayah": "74.01.27.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.27"
+    },
+    {
+      "nama_wilayah": "Lasiroku",
+      "kode_wilayah": "74.01.27.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.27"
+    },
+    {
+      "nama_wilayah": "Iwoimendaa",
+      "kode_wilayah": "74.01.27.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.27"
+    },
+    {
+      "nama_wilayah": "Lambopini",
+      "kode_wilayah": "74.01.27.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.27"
+    },
+    {
+      "nama_wilayah": "Ulu Kalo",
+      "kode_wilayah": "74.01.27.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.27"
+    },
+    {
+      "nama_wilayah": "Wonualaku",
+      "kode_wilayah": "74.01.27.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.27"
+    },
+    {
+      "nama_wilayah": "Lawolia",
+      "kode_wilayah": "74.01.27.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.27"
+    },
+    {
+      "nama_wilayah": "Watumelewe",
+      "kode_wilayah": "74.01.27.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.27"
+    },
+    {
+      "nama_wilayah": "Landoula",
+      "kode_wilayah": "74.01.27.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.01",
+      "kode_kecamatan": "74.01.27"
+    }
+  ]
+}

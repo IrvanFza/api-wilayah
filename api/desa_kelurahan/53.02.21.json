@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Kualin",
+      "kode_wilayah": "53.02.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.21"
+    },
+    {
+      "nama_wilayah": "Oni",
+      "kode_wilayah": "53.02.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.21"
+    },
+    {
+      "nama_wilayah": "Nunusunu",
+      "kode_wilayah": "53.02.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.21"
+    },
+    {
+      "nama_wilayah": "Tuapakas",
+      "kode_wilayah": "53.02.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.21"
+    },
+    {
+      "nama_wilayah": "Toineke",
+      "kode_wilayah": "53.02.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.21"
+    },
+    {
+      "nama_wilayah": "Tuafanu",
+      "kode_wilayah": "53.02.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.21"
+    },
+    {
+      "nama_wilayah": "Kiufatu",
+      "kode_wilayah": "53.02.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.21"
+    },
+    {
+      "nama_wilayah": "Oemaman",
+      "kode_wilayah": "53.02.21.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.21"
+    }
+  ]
+}

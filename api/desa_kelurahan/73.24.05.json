@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tawakua",
+      "kode_wilayah": "73.24.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.05"
+    },
+    {
+      "nama_wilayah": "Tampinna",
+      "kode_wilayah": "73.24.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.05"
+    },
+    {
+      "nama_wilayah": "Solo",
+      "kode_wilayah": "73.24.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.05"
+    },
+    {
+      "nama_wilayah": "Taripa",
+      "kode_wilayah": "73.24.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.05"
+    },
+    {
+      "nama_wilayah": "Mantadulu",
+      "kode_wilayah": "73.24.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.05"
+    },
+    {
+      "nama_wilayah": "Balirejo",
+      "kode_wilayah": "73.24.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.05"
+    },
+    {
+      "nama_wilayah": "Maliwowo",
+      "kode_wilayah": "73.24.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.05"
+    },
+    {
+      "nama_wilayah": "Lamaeto",
+      "kode_wilayah": "73.24.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.05"
+    },
+    {
+      "nama_wilayah": "Watangpanua",
+      "kode_wilayah": "73.24.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.05"
+    },
+    {
+      "nama_wilayah": "Wanasari",
+      "kode_wilayah": "73.24.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.24",
+      "kode_kecamatan": "73.24.05"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bandungan",
+      "kode_wilayah": "33.22.20.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.20"
+    },
+    {
+      "nama_wilayah": "Mlilir",
+      "kode_wilayah": "33.22.20.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.20"
+    },
+    {
+      "nama_wilayah": "Duren",
+      "kode_wilayah": "33.22.20.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.20"
+    },
+    {
+      "nama_wilayah": "Jetis",
+      "kode_wilayah": "33.22.20.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.20"
+    },
+    {
+      "nama_wilayah": "Kenteng",
+      "kode_wilayah": "33.22.20.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.20"
+    },
+    {
+      "nama_wilayah": "Candi",
+      "kode_wilayah": "33.22.20.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.20"
+    },
+    {
+      "nama_wilayah": "Jimbaran",
+      "kode_wilayah": "33.22.20.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.20"
+    },
+    {
+      "nama_wilayah": "Pakopen",
+      "kode_wilayah": "33.22.20.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.20"
+    },
+    {
+      "nama_wilayah": "Sidomukti",
+      "kode_wilayah": "33.22.20.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.20"
+    },
+    {
+      "nama_wilayah": "Banyukuning",
+      "kode_wilayah": "33.22.20.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.22",
+      "kode_kecamatan": "33.22.20"
+    }
+  ]
+}

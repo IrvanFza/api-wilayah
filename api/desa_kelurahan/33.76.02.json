@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Kejambon",
+      "kode_wilayah": "33.76.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.02"
+    },
+    {
+      "nama_wilayah": "Slerok",
+      "kode_wilayah": "33.76.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.02"
+    },
+    {
+      "nama_wilayah": "Panggung",
+      "kode_wilayah": "33.76.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.02"
+    },
+    {
+      "nama_wilayah": "Mangkukusuman",
+      "kode_wilayah": "33.76.02.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.02"
+    },
+    {
+      "nama_wilayah": "Mintaragen",
+      "kode_wilayah": "33.76.02.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.76",
+      "kode_kecamatan": "33.76.02"
+    }
+  ]
+}

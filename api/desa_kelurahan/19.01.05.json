@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Air Ruai",
+      "kode_wilayah": "19.01.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.05"
+    },
+    {
+      "nama_wilayah": "Air Duren",
+      "kode_wilayah": "19.01.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.05"
+    },
+    {
+      "nama_wilayah": "Penyamun",
+      "kode_wilayah": "19.01.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.05"
+    },
+    {
+      "nama_wilayah": "Sempan",
+      "kode_wilayah": "19.01.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.05"
+    },
+    {
+      "nama_wilayah": "Pemali",
+      "kode_wilayah": "19.01.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.05"
+    },
+    {
+      "nama_wilayah": "Karya Makmur",
+      "kode_wilayah": "19.01.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "19",
+      "kode_kabkota": "19.01",
+      "kode_kecamatan": "19.01.05"
+    }
+  ]
+}

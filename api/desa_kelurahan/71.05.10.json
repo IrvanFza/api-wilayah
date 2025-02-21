@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Buyungon",
+      "kode_wilayah": "71.05.10.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.10"
+    },
+    {
+      "nama_wilayah": "Ranoyapo",
+      "kode_wilayah": "71.05.10.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.10"
+    },
+    {
+      "nama_wilayah": "Uwuran I",
+      "kode_wilayah": "71.05.10.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.10"
+    },
+    {
+      "nama_wilayah": "Uwuran II",
+      "kode_wilayah": "71.05.10.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.10"
+    },
+    {
+      "nama_wilayah": "Lewet",
+      "kode_wilayah": "71.05.10.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.10"
+    },
+    {
+      "nama_wilayah": "Bitung",
+      "kode_wilayah": "71.05.10.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.10"
+    },
+    {
+      "nama_wilayah": "Ranoketang Tua",
+      "kode_wilayah": "71.05.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.10"
+    },
+    {
+      "nama_wilayah": "Kilometer 3",
+      "kode_wilayah": "71.05.10.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.10"
+    }
+  ]
+}

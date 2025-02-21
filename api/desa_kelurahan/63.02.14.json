@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Hampang",
+      "kode_wilayah": "63.02.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.14"
+    },
+    {
+      "nama_wilayah": "Cantung Kiri Hulu",
+      "kode_wilayah": "63.02.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.14"
+    },
+    {
+      "nama_wilayah": "Cantung Kanan",
+      "kode_wilayah": "63.02.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.14"
+    },
+    {
+      "nama_wilayah": "Muara Orie",
+      "kode_wilayah": "63.02.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.14"
+    },
+    {
+      "nama_wilayah": "Lalapin",
+      "kode_wilayah": "63.02.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.14"
+    },
+    {
+      "nama_wilayah": "Peramasan Dua Kali Sanga",
+      "kode_wilayah": "63.02.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.14"
+    },
+    {
+      "nama_wilayah": "Limbur",
+      "kode_wilayah": "63.02.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.14"
+    },
+    {
+      "nama_wilayah": "Hulu Sampanahan",
+      "kode_wilayah": "63.02.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.14"
+    },
+    {
+      "nama_wilayah": "Limbungan",
+      "kode_wilayah": "63.02.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "63",
+      "kode_kabkota": "63.02",
+      "kode_kecamatan": "63.02.14"
+    }
+  ]
+}

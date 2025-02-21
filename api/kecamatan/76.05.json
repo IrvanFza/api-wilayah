@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Banggae",
+      "kode_wilayah": "76.05.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "76.05",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama_wilayah": "Pamboang",
+      "kode_wilayah": "76.05.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "76.05",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama_wilayah": "Sendana",
+      "kode_wilayah": "76.05.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "76.05",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama_wilayah": "Malunda",
+      "kode_wilayah": "76.05.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "76.05",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama_wilayah": "Ulumanda",
+      "kode_wilayah": "76.05.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "76.05",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama_wilayah": "Tammerodo Sendana",
+      "kode_wilayah": "76.05.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "76.05",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama_wilayah": "Tubo Sendana",
+      "kode_wilayah": "76.05.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "76.05",
+      "kode_provinsi": "76"
+    },
+    {
+      "nama_wilayah": "Banggae Timur",
+      "kode_wilayah": "76.05.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "76.05",
+      "kode_provinsi": "76"
+    }
+  ]
+}

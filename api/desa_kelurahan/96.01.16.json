@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Miskum",
+      "kode_wilayah": "96.01.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.16"
+    },
+    {
+      "nama_wilayah": "Klamugun",
+      "kode_wilayah": "96.01.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.16"
+    },
+    {
+      "nama_wilayah": "Siwis",
+      "kode_wilayah": "96.01.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.16"
+    },
+    {
+      "nama_wilayah": "Klalik",
+      "kode_wilayah": "96.01.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.16"
+    },
+    {
+      "nama_wilayah": "Sbaga",
+      "kode_wilayah": "96.01.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.16"
+    },
+    {
+      "nama_wilayah": "Malawhili",
+      "kode_wilayah": "96.01.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.16"
+    },
+    {
+      "nama_wilayah": "Klasou",
+      "kode_wilayah": "96.01.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.01",
+      "kode_kecamatan": "96.01.16"
+    }
+  ]
+}

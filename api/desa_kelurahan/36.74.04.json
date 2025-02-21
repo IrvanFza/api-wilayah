@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sawah Baru",
+      "kode_wilayah": "36.74.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.04"
+    },
+    {
+      "nama_wilayah": "Serua",
+      "kode_wilayah": "36.74.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.04"
+    },
+    {
+      "nama_wilayah": "Ciputat",
+      "kode_wilayah": "36.74.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.04"
+    },
+    {
+      "nama_wilayah": "Sawah",
+      "kode_wilayah": "36.74.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.04"
+    },
+    {
+      "nama_wilayah": "Serua Indah",
+      "kode_wilayah": "36.74.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.04"
+    },
+    {
+      "nama_wilayah": "Jombang",
+      "kode_wilayah": "36.74.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.04"
+    },
+    {
+      "nama_wilayah": "Cipayung",
+      "kode_wilayah": "36.74.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.74",
+      "kode_kecamatan": "36.74.04"
+    }
+  ]
+}

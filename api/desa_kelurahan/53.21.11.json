@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Babulu",
+      "kode_wilayah": "53.21.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.21",
+      "kode_kecamatan": "53.21.11"
+    },
+    {
+      "nama_wilayah": "Babulu Selatan",
+      "kode_wilayah": "53.21.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.21",
+      "kode_kecamatan": "53.21.11"
+    },
+    {
+      "nama_wilayah": "Sisi",
+      "kode_wilayah": "53.21.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.21",
+      "kode_kecamatan": "53.21.11"
+    },
+    {
+      "nama_wilayah": "Rainawe",
+      "kode_wilayah": "53.21.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.21",
+      "kode_kecamatan": "53.21.11"
+    },
+    {
+      "nama_wilayah": "Litamali",
+      "kode_wilayah": "53.21.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.21",
+      "kode_kecamatan": "53.21.11"
+    },
+    {
+      "nama_wilayah": "Lakekun Utara",
+      "kode_wilayah": "53.21.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.21",
+      "kode_kecamatan": "53.21.11"
+    },
+    {
+      "nama_wilayah": "Lakekun",
+      "kode_wilayah": "53.21.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.21",
+      "kode_kecamatan": "53.21.11"
+    },
+    {
+      "nama_wilayah": "Lakekun Barat",
+      "kode_wilayah": "53.21.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.21",
+      "kode_kecamatan": "53.21.11"
+    }
+  ]
+}

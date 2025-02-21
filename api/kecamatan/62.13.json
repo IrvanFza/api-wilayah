@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Dusun Timur",
+      "kode_wilayah": "62.13.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.13",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Banua Lima",
+      "kode_wilayah": "62.13.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.13",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Patangkep Tutui",
+      "kode_wilayah": "62.13.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.13",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Awang",
+      "kode_wilayah": "62.13.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.13",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Dusun Tengah",
+      "kode_wilayah": "62.13.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.13",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Pematang Karau",
+      "kode_wilayah": "62.13.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.13",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Paju Epat",
+      "kode_wilayah": "62.13.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.13",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Raren Batuah",
+      "kode_wilayah": "62.13.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.13",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Paku",
+      "kode_wilayah": "62.13.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.13",
+      "kode_provinsi": "62"
+    },
+    {
+      "nama_wilayah": "Karusen Janang",
+      "kode_wilayah": "62.13.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "62.13",
+      "kode_provinsi": "62"
+    }
+  ]
+}

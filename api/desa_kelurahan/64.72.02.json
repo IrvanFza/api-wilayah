@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Sungai Keledang",
+      "kode_wilayah": "64.72.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.02"
+    },
+    {
+      "nama_wilayah": "Baqa",
+      "kode_wilayah": "64.72.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.02"
+    },
+    {
+      "nama_wilayah": "Mesjid",
+      "kode_wilayah": "64.72.02.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.02"
+    },
+    {
+      "nama_wilayah": "Mangkupalas",
+      "kode_wilayah": "64.72.02.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.02"
+    },
+    {
+      "nama_wilayah": "Tenun Samarinda",
+      "kode_wilayah": "64.72.02.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.02"
+    },
+    {
+      "nama_wilayah": "Gunung Panjang",
+      "kode_wilayah": "64.72.02.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.02"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Matara",
+      "kode_wilayah": "93.01.05.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.05"
+    },
+    {
+      "nama_wilayah": "Waninggap Nanggo",
+      "kode_wilayah": "93.01.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.05"
+    },
+    {
+      "nama_wilayah": "Urumb",
+      "kode_wilayah": "93.01.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.05"
+    },
+    {
+      "nama_wilayah": "Sido Mulyo",
+      "kode_wilayah": "93.01.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.05"
+    },
+    {
+      "nama_wilayah": "Kuprik",
+      "kode_wilayah": "93.01.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.05"
+    },
+    {
+      "nama_wilayah": "Kuper",
+      "kode_wilayah": "93.01.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.05"
+    },
+    {
+      "nama_wilayah": "Semangga Jaya",
+      "kode_wilayah": "93.01.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.05"
+    },
+    {
+      "nama_wilayah": "Marga Mulya",
+      "kode_wilayah": "93.01.05.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.05"
+    },
+    {
+      "nama_wilayah": "Muram Sari",
+      "kode_wilayah": "93.01.05.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.05"
+    },
+    {
+      "nama_wilayah": "Waninggap Kai",
+      "kode_wilayah": "93.01.05.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.01",
+      "kode_kecamatan": "93.01.05"
+    }
+  ]
+}

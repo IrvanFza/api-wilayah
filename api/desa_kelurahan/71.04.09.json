@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Peret",
+      "kode_wilayah": "71.04.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.09"
+    },
+    {
+      "nama_wilayah": "Ighik",
+      "kode_wilayah": "71.04.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.09"
+    },
+    {
+      "nama_wilayah": "Birang",
+      "kode_wilayah": "71.04.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.09"
+    },
+    {
+      "nama_wilayah": "Akas",
+      "kode_wilayah": "71.04.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.09"
+    },
+    {
+      "nama_wilayah": "Damau",
+      "kode_wilayah": "71.04.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.09"
+    },
+    {
+      "nama_wilayah": "Damau Bowone",
+      "kode_wilayah": "71.04.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.09"
+    },
+    {
+      "nama_wilayah": "Taduwale",
+      "kode_wilayah": "71.04.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.09"
+    },
+    {
+      "nama_wilayah": "Akas Balane",
+      "kode_wilayah": "71.04.09.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.04",
+      "kode_kecamatan": "71.04.09"
+    }
+  ]
+}

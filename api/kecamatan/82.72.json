@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tidore",
+      "kode_wilayah": "82.72.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.72",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Oba Utara",
+      "kode_wilayah": "82.72.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.72",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Oba",
+      "kode_wilayah": "82.72.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.72",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Tidore Selatan",
+      "kode_wilayah": "82.72.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.72",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Tidore Utara",
+      "kode_wilayah": "82.72.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.72",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Oba Tengah",
+      "kode_wilayah": "82.72.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.72",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Oba Selatan",
+      "kode_wilayah": "82.72.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.72",
+      "kode_provinsi": "82"
+    },
+    {
+      "nama_wilayah": "Tidore Timur",
+      "kode_wilayah": "82.72.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "82.72",
+      "kode_provinsi": "82"
+    }
+  ]
+}

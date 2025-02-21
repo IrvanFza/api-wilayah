@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Sei Kijang",
+      "kode_wilayah": "14.05.11.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.11"
+    },
+    {
+      "nama_wilayah": "Lubuk Ogung",
+      "kode_wilayah": "14.05.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.11"
+    },
+    {
+      "nama_wilayah": "Simpang Beringin",
+      "kode_wilayah": "14.05.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.11"
+    },
+    {
+      "nama_wilayah": "Muda Setia",
+      "kode_wilayah": "14.05.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.11"
+    },
+    {
+      "nama_wilayah": "Kiab Jaya",
+      "kode_wilayah": "14.05.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.11"
+    }
+  ]
+}

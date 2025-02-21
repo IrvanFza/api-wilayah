@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Padang Hulu",
+      "kode_wilayah": "12.76.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.76",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Rambutan",
+      "kode_wilayah": "12.76.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.76",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Padang Hilir",
+      "kode_wilayah": "12.76.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.76",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Bajenis",
+      "kode_wilayah": "12.76.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.76",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Tebing Tinggi Kota",
+      "kode_wilayah": "12.76.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.76",
+      "kode_provinsi": "12"
+    }
+  ]
+}

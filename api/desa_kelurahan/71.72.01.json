@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Pasir Panjang",
+      "kode_wilayah": "71.72.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.01"
+    },
+    {
+      "nama_wilayah": "Paudean",
+      "kode_wilayah": "71.72.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.01"
+    },
+    {
+      "nama_wilayah": "Batulubang",
+      "kode_wilayah": "71.72.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.01"
+    },
+    {
+      "nama_wilayah": "Papusungan",
+      "kode_wilayah": "71.72.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.01"
+    },
+    {
+      "nama_wilayah": "Pancuran",
+      "kode_wilayah": "71.72.01.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.01"
+    },
+    {
+      "nama_wilayah": "Dorbolaang",
+      "kode_wilayah": "71.72.01.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.01"
+    },
+    {
+      "nama_wilayah": "Kelapa Dua",
+      "kode_wilayah": "71.72.01.1016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.72",
+      "kode_kecamatan": "71.72.01"
+    }
+  ]
+}

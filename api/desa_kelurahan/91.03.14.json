@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Sarmai Atas",
+      "kode_wilayah": "91.03.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.14"
+    },
+    {
+      "nama_wilayah": "Sarmai Bawah",
+      "kode_wilayah": "91.03.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.14"
+    },
+    {
+      "nama_wilayah": "Sanggai",
+      "kode_wilayah": "91.03.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.14"
+    },
+    {
+      "nama_wilayah": "Yakasib",
+      "kode_wilayah": "91.03.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.14"
+    },
+    {
+      "nama_wilayah": "Besum",
+      "kode_wilayah": "91.03.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.14"
+    },
+    {
+      "nama_wilayah": "Imestum",
+      "kode_wilayah": "91.03.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.14"
+    },
+    {
+      "nama_wilayah": "Karya Bumi",
+      "kode_wilayah": "91.03.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.14"
+    },
+    {
+      "nama_wilayah": "Hanggaiy Hamong",
+      "kode_wilayah": "91.03.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.14"
+    },
+    {
+      "nama_wilayah": "Sumbe",
+      "kode_wilayah": "91.03.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "91",
+      "kode_kabkota": "91.03",
+      "kode_kecamatan": "91.03.14"
+    }
+  ]
+}

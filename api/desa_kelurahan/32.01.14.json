@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Leuwiliang",
+      "kode_wilayah": "32.01.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.14"
+    },
+    {
+      "nama_wilayah": "Purasari",
+      "kode_wilayah": "32.01.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.14"
+    },
+    {
+      "nama_wilayah": "Karyasari",
+      "kode_wilayah": "32.01.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.14"
+    },
+    {
+      "nama_wilayah": "Pabangbon",
+      "kode_wilayah": "32.01.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.14"
+    },
+    {
+      "nama_wilayah": "Karacak",
+      "kode_wilayah": "32.01.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.14"
+    },
+    {
+      "nama_wilayah": "Barengkok",
+      "kode_wilayah": "32.01.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.14"
+    },
+    {
+      "nama_wilayah": "Leuwimekar",
+      "kode_wilayah": "32.01.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.14"
+    },
+    {
+      "nama_wilayah": "Puraseda",
+      "kode_wilayah": "32.01.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.14"
+    },
+    {
+      "nama_wilayah": "Cibeber I",
+      "kode_wilayah": "32.01.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.14"
+    },
+    {
+      "nama_wilayah": "Cibeber II",
+      "kode_wilayah": "32.01.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.14"
+    },
+    {
+      "nama_wilayah": "Karehkel",
+      "kode_wilayah": "32.01.14.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.01",
+      "kode_kecamatan": "32.01.14"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Lubuk Besar",
+      "kode_wilayah": "16.05.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.05",
+      "kode_kecamatan": "16.05.18"
+    },
+    {
+      "nama_wilayah": "Batu Bandung",
+      "kode_wilayah": "16.05.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.05",
+      "kode_kecamatan": "16.05.18"
+    },
+    {
+      "nama_wilayah": "Rantau Bingin",
+      "kode_wilayah": "16.05.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.05",
+      "kode_kecamatan": "16.05.18"
+    },
+    {
+      "nama_wilayah": "Rantau Serik",
+      "kode_wilayah": "16.05.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.05",
+      "kode_kecamatan": "16.05.18"
+    },
+    {
+      "nama_wilayah": "Muara Kati Lama",
+      "kode_wilayah": "16.05.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.05",
+      "kode_kecamatan": "16.05.18"
+    },
+    {
+      "nama_wilayah": "Muara Kati Baru I",
+      "kode_wilayah": "16.05.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.05",
+      "kode_kecamatan": "16.05.18"
+    },
+    {
+      "nama_wilayah": "Muara Kati Baru II",
+      "kode_wilayah": "16.05.18.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.05",
+      "kode_kecamatan": "16.05.18"
+    },
+    {
+      "nama_wilayah": "Kebur",
+      "kode_wilayah": "16.05.18.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.05",
+      "kode_kecamatan": "16.05.18"
+    },
+    {
+      "nama_wilayah": "Simpang Gegas Temuan",
+      "kode_wilayah": "16.05.18.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.05",
+      "kode_kecamatan": "16.05.18"
+    },
+    {
+      "nama_wilayah": "Kebur Jaya",
+      "kode_wilayah": "16.05.18.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.05",
+      "kode_kecamatan": "16.05.18"
+    }
+  ]
+}

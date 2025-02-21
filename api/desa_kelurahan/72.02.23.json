@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tuare",
+      "kode_wilayah": "72.02.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.23"
+    },
+    {
+      "nama_wilayah": "Kageroa",
+      "kode_wilayah": "72.02.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.23"
+    },
+    {
+      "nama_wilayah": "Tomehipi",
+      "kode_wilayah": "72.02.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.23"
+    },
+    {
+      "nama_wilayah": "Lengkeka",
+      "kode_wilayah": "72.02.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.23"
+    },
+    {
+      "nama_wilayah": "Kolori",
+      "kode_wilayah": "72.02.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.23"
+    },
+    {
+      "nama_wilayah": "Lelio",
+      "kode_wilayah": "72.02.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.02",
+      "kode_kecamatan": "72.02.23"
+    }
+  ]
+}

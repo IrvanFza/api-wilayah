@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Gumulung Lebak",
+      "kode_wilayah": "32.09.38.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.38"
+    },
+    {
+      "nama_wilayah": "Lebak Mekar",
+      "kode_wilayah": "32.09.38.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.38"
+    },
+    {
+      "nama_wilayah": "Gumulung Tonggoh",
+      "kode_wilayah": "32.09.38.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.38"
+    },
+    {
+      "nama_wilayah": "Kamarang",
+      "kode_wilayah": "32.09.38.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.38"
+    },
+    {
+      "nama_wilayah": "Greged",
+      "kode_wilayah": "32.09.38.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.38"
+    },
+    {
+      "nama_wilayah": "Kamarang Lebak",
+      "kode_wilayah": "32.09.38.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.38"
+    },
+    {
+      "nama_wilayah": "Durajaya",
+      "kode_wilayah": "32.09.38.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.38"
+    },
+    {
+      "nama_wilayah": "Jatipancur",
+      "kode_wilayah": "32.09.38.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.38"
+    },
+    {
+      "nama_wilayah": "Sindang Kempeng",
+      "kode_wilayah": "32.09.38.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.38"
+    },
+    {
+      "nama_wilayah": "Nanggela",
+      "kode_wilayah": "32.09.38.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.38"
+    }
+  ]
+}

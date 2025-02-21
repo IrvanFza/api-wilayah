@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Banjaririgasi",
+      "kode_wilayah": "36.02.25.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.25"
+    },
+    {
+      "nama_wilayah": "Ciladaeun",
+      "kode_wilayah": "36.02.25.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.25"
+    },
+    {
+      "nama_wilayah": "Lebakgedong",
+      "kode_wilayah": "36.02.25.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.25"
+    },
+    {
+      "nama_wilayah": "Banjarsari",
+      "kode_wilayah": "36.02.25.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.25"
+    },
+    {
+      "nama_wilayah": "Lebaksitu",
+      "kode_wilayah": "36.02.25.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.25"
+    },
+    {
+      "nama_wilayah": "Lebaksangka",
+      "kode_wilayah": "36.02.25.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.02",
+      "kode_kecamatan": "36.02.25"
+    }
+  ]
+}

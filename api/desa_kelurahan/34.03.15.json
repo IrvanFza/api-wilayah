@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Krambilsawit",
+      "kode_wilayah": "34.03.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.15"
+    },
+    {
+      "nama_wilayah": "Ngloro",
+      "kode_wilayah": "34.03.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.15"
+    },
+    {
+      "nama_wilayah": "Jetis",
+      "kode_wilayah": "34.03.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.15"
+    },
+    {
+      "nama_wilayah": "Kepek",
+      "kode_wilayah": "34.03.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.15"
+    },
+    {
+      "nama_wilayah": "Kanigoro",
+      "kode_wilayah": "34.03.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.15"
+    },
+    {
+      "nama_wilayah": "Monggol",
+      "kode_wilayah": "34.03.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.15"
+    },
+    {
+      "nama_wilayah": "Planjan",
+      "kode_wilayah": "34.03.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.03",
+      "kode_kecamatan": "34.03.15"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Tobungan",
+      "kode_wilayah": "35.28.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.03"
+    },
+    {
+      "nama_wilayah": "Konang",
+      "kode_wilayah": "35.28.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.03"
+    },
+    {
+      "nama_wilayah": "Pandan",
+      "kode_wilayah": "35.28.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.03"
+    },
+    {
+      "nama_wilayah": "Lembung",
+      "kode_wilayah": "35.28.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.03"
+    },
+    {
+      "nama_wilayah": "Galis",
+      "kode_wilayah": "35.28.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.03"
+    },
+    {
+      "nama_wilayah": "Bulay",
+      "kode_wilayah": "35.28.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.03"
+    },
+    {
+      "nama_wilayah": "Pagendingan",
+      "kode_wilayah": "35.28.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.03"
+    },
+    {
+      "nama_wilayah": "Ponteh",
+      "kode_wilayah": "35.28.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.03"
+    },
+    {
+      "nama_wilayah": "Polagan",
+      "kode_wilayah": "35.28.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.03"
+    },
+    {
+      "nama_wilayah": "Artodung",
+      "kode_wilayah": "35.28.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.28",
+      "kode_kecamatan": "35.28.03"
+    }
+  ]
+}

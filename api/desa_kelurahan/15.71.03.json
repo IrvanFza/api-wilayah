@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Sijenjang",
+      "kode_wilayah": "15.71.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.03"
+    },
+    {
+      "nama_wilayah": "Kasang Jaya",
+      "kode_wilayah": "15.71.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.03"
+    },
+    {
+      "nama_wilayah": "Talang Banjar",
+      "kode_wilayah": "15.71.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.03"
+    },
+    {
+      "nama_wilayah": "Budiman",
+      "kode_wilayah": "15.71.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.03"
+    },
+    {
+      "nama_wilayah": "Sulanjana",
+      "kode_wilayah": "15.71.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.03"
+    },
+    {
+      "nama_wilayah": "Kasang",
+      "kode_wilayah": "15.71.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.03"
+    },
+    {
+      "nama_wilayah": "Tanjung Sari",
+      "kode_wilayah": "15.71.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.03"
+    },
+    {
+      "nama_wilayah": "Rajawali",
+      "kode_wilayah": "15.71.03.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.03"
+    },
+    {
+      "nama_wilayah": "Tanjung Pinang",
+      "kode_wilayah": "15.71.03.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.03"
+    }
+  ]
+}

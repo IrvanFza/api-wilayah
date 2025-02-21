@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Iniye",
+      "kode_wilayah": "95.08.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.21"
+    },
+    {
+      "nama_wilayah": "Baklema",
+      "kode_wilayah": "95.08.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.21"
+    },
+    {
+      "nama_wilayah": "Kibendumu",
+      "kode_wilayah": "95.08.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.21"
+    },
+    {
+      "nama_wilayah": "Simiye",
+      "kode_wilayah": "95.08.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.21"
+    },
+    {
+      "nama_wilayah": "Embuklem",
+      "kode_wilayah": "95.08.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.21"
+    },
+    {
+      "nama_wilayah": "Kosobak",
+      "kode_wilayah": "95.08.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.21"
+    }
+  ]
+}

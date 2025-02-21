@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Braga",
+      "kode_wilayah": "32.73.19.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.19"
+    },
+    {
+      "nama_wilayah": "Merdeka",
+      "kode_wilayah": "32.73.19.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.19"
+    },
+    {
+      "nama_wilayah": "Kebon Pisang",
+      "kode_wilayah": "32.73.19.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.19"
+    },
+    {
+      "nama_wilayah": "Babakan Ciamis",
+      "kode_wilayah": "32.73.19.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.73",
+      "kode_kecamatan": "32.73.19"
+    }
+  ]
+}

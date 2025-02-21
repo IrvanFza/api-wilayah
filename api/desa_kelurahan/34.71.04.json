@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Suryatmajan",
+      "kode_wilayah": "34.71.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.71",
+      "kode_kecamatan": "34.71.04"
+    },
+    {
+      "nama_wilayah": "Tegalpanggung",
+      "kode_wilayah": "34.71.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.71",
+      "kode_kecamatan": "34.71.04"
+    },
+    {
+      "nama_wilayah": "Bausasran",
+      "kode_wilayah": "34.71.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.71",
+      "kode_kecamatan": "34.71.04"
+    }
+  ]
+}

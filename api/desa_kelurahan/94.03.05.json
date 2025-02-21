@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Bibida",
+      "kode_wilayah": "94.03.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.05"
+    },
+    {
+      "nama_wilayah": "Ugidimi",
+      "kode_wilayah": "94.03.05.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.05"
+    },
+    {
+      "nama_wilayah": "Odiyai",
+      "kode_wilayah": "94.03.05.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.05"
+    },
+    {
+      "nama_wilayah": "Tuwaktu",
+      "kode_wilayah": "94.03.05.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.05"
+    },
+    {
+      "nama_wilayah": "Kugaisiga",
+      "kode_wilayah": "94.03.05.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.05"
+    },
+    {
+      "nama_wilayah": "Kolaitaga",
+      "kode_wilayah": "94.03.05.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.05"
+    },
+    {
+      "nama_wilayah": "Dama-dama",
+      "kode_wilayah": "94.03.05.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.05"
+    }
+  ]
+}

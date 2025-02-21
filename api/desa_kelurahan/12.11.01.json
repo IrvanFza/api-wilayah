@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Kuta Gambir",
+      "kode_wilayah": "12.11.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.11",
+      "kode_kecamatan": "12.11.01"
+    },
+    {
+      "nama_wilayah": "Sidiangkat",
+      "kode_wilayah": "12.11.01.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.11",
+      "kode_kecamatan": "12.11.01"
+    },
+    {
+      "nama_wilayah": "Batang Beruh",
+      "kode_wilayah": "12.11.01.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.11",
+      "kode_kecamatan": "12.11.01"
+    },
+    {
+      "nama_wilayah": "Sidikalang",
+      "kode_wilayah": "12.11.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.11",
+      "kode_kecamatan": "12.11.01"
+    },
+    {
+      "nama_wilayah": "Bintang Hulu",
+      "kode_wilayah": "12.11.01.1015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.11",
+      "kode_kecamatan": "12.11.01"
+    },
+    {
+      "nama_wilayah": "Belang Malum",
+      "kode_wilayah": "12.11.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.11",
+      "kode_kecamatan": "12.11.01"
+    },
+    {
+      "nama_wilayah": "Huta Rakyat",
+      "kode_wilayah": "12.11.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.11",
+      "kode_kecamatan": "12.11.01"
+    },
+    {
+      "nama_wilayah": "Kalang",
+      "kode_wilayah": "12.11.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.11",
+      "kode_kecamatan": "12.11.01"
+    },
+    {
+      "nama_wilayah": "Bintang",
+      "kode_wilayah": "12.11.01.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.11",
+      "kode_kecamatan": "12.11.01"
+    },
+    {
+      "nama_wilayah": "Kalang Simbara",
+      "kode_wilayah": "12.11.01.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.11",
+      "kode_kecamatan": "12.11.01"
+    },
+    {
+      "nama_wilayah": "Bintang Mersada",
+      "kode_wilayah": "12.11.01.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.11",
+      "kode_kecamatan": "12.11.01"
+    }
+  ]
+}

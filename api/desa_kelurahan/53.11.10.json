@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Kaliuda",
+      "kode_wilayah": "53.11.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.10"
+    },
+    {
+      "nama_wilayah": "Kuruwaki",
+      "kode_wilayah": "53.11.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.10"
+    },
+    {
+      "nama_wilayah": "Tana Manang",
+      "kode_wilayah": "53.11.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.10"
+    },
+    {
+      "nama_wilayah": "Mburukulu",
+      "kode_wilayah": "53.11.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.10"
+    },
+    {
+      "nama_wilayah": "Pamburu",
+      "kode_wilayah": "53.11.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.10"
+    },
+    {
+      "nama_wilayah": "Lambakara",
+      "kode_wilayah": "53.11.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.10"
+    },
+    {
+      "nama_wilayah": "Tamma",
+      "kode_wilayah": "53.11.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.10"
+    },
+    {
+      "nama_wilayah": "Palanggai",
+      "kode_wilayah": "53.11.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.11",
+      "kode_kecamatan": "53.11.10"
+    }
+  ]
+}

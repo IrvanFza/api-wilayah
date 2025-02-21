@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Lebanu",
+      "kode_wilayah": "72.10.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.10",
+      "kode_kecamatan": "72.10.14"
+    },
+    {
+      "nama_wilayah": "Bomba",
+      "kode_wilayah": "72.10.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.10",
+      "kode_kecamatan": "72.10.14"
+    },
+    {
+      "nama_wilayah": "Beka",
+      "kode_wilayah": "72.10.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.10",
+      "kode_kecamatan": "72.10.14"
+    },
+    {
+      "nama_wilayah": "Sibedi",
+      "kode_wilayah": "72.10.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.10",
+      "kode_kecamatan": "72.10.14"
+    },
+    {
+      "nama_wilayah": "Padende",
+      "kode_wilayah": "72.10.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.10",
+      "kode_kecamatan": "72.10.14"
+    },
+    {
+      "nama_wilayah": "Sunju",
+      "kode_wilayah": "72.10.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.10",
+      "kode_kecamatan": "72.10.14"
+    },
+    {
+      "nama_wilayah": "Tinggede",
+      "kode_wilayah": "72.10.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.10",
+      "kode_kecamatan": "72.10.14"
+    },
+    {
+      "nama_wilayah": "Baliase",
+      "kode_wilayah": "72.10.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.10",
+      "kode_kecamatan": "72.10.14"
+    },
+    {
+      "nama_wilayah": "Binangga",
+      "kode_wilayah": "72.10.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.10",
+      "kode_kecamatan": "72.10.14"
+    },
+    {
+      "nama_wilayah": "Boyabaliase",
+      "kode_wilayah": "72.10.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.10",
+      "kode_kecamatan": "72.10.14"
+    },
+    {
+      "nama_wilayah": "Tinggede Selatan",
+      "kode_wilayah": "72.10.14.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.10",
+      "kode_kecamatan": "72.10.14"
+    }
+  ]
+}

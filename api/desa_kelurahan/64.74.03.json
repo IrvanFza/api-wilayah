@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Belimbing",
+      "kode_wilayah": "64.74.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.74",
+      "kode_kecamatan": "64.74.03"
+    },
+    {
+      "nama_wilayah": "Gunung Telihan",
+      "kode_wilayah": "64.74.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.74",
+      "kode_kecamatan": "64.74.03"
+    },
+    {
+      "nama_wilayah": "Kanaan",
+      "kode_wilayah": "64.74.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.74",
+      "kode_kecamatan": "64.74.03"
+    }
+  ]
+}

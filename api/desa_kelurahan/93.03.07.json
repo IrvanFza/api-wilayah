@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Amazu",
+      "kode_wilayah": "93.03.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.03",
+      "kode_kecamatan": "93.03.07"
+    },
+    {
+      "nama_wilayah": "Imembi",
+      "kode_wilayah": "93.03.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.03",
+      "kode_kecamatan": "93.03.07"
+    },
+    {
+      "nama_wilayah": "Yemu",
+      "kode_wilayah": "93.03.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.03",
+      "kode_kecamatan": "93.03.07"
+    },
+    {
+      "nama_wilayah": "Fomu",
+      "kode_wilayah": "93.03.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.03",
+      "kode_kecamatan": "93.03.07"
+    },
+    {
+      "nama_wilayah": "Tiau",
+      "kode_wilayah": "93.03.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.03",
+      "kode_kecamatan": "93.03.07"
+    },
+    {
+      "nama_wilayah": "Binerbis",
+      "kode_wilayah": "93.03.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.03",
+      "kode_kecamatan": "93.03.07"
+    },
+    {
+      "nama_wilayah": "Tayau",
+      "kode_wilayah": "93.03.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "93",
+      "kode_kabkota": "93.03",
+      "kode_kecamatan": "93.03.07"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sidodadi",
+      "kode_wilayah": "35.09.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.18"
+    },
+    {
+      "nama_wilayah": "Tempurejo",
+      "kode_wilayah": "35.09.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.18"
+    },
+    {
+      "nama_wilayah": "Andongrejo",
+      "kode_wilayah": "35.09.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.18"
+    },
+    {
+      "nama_wilayah": "Pondokrejo",
+      "kode_wilayah": "35.09.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.18"
+    },
+    {
+      "nama_wilayah": "Wonoasri",
+      "kode_wilayah": "35.09.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.18"
+    },
+    {
+      "nama_wilayah": "Curahnongko",
+      "kode_wilayah": "35.09.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.18"
+    },
+    {
+      "nama_wilayah": "Curahtakir",
+      "kode_wilayah": "35.09.18.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.18"
+    },
+    {
+      "nama_wilayah": "Sanenrejo",
+      "kode_wilayah": "35.09.18.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.09",
+      "kode_kecamatan": "35.09.18"
+    }
+  ]
+}

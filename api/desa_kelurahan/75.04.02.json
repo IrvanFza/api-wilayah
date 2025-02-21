@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Lemito",
+      "kode_wilayah": "75.04.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.02"
+    },
+    {
+      "nama_wilayah": "Wonggarasi Barat",
+      "kode_wilayah": "75.04.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.02"
+    },
+    {
+      "nama_wilayah": "Lomuli",
+      "kode_wilayah": "75.04.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.02"
+    },
+    {
+      "nama_wilayah": "Lemito Utara",
+      "kode_wilayah": "75.04.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.02"
+    },
+    {
+      "nama_wilayah": "Kenari",
+      "kode_wilayah": "75.04.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.02"
+    },
+    {
+      "nama_wilayah": "Wonggarasi Tengah",
+      "kode_wilayah": "75.04.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.02"
+    },
+    {
+      "nama_wilayah": "Suka Damai",
+      "kode_wilayah": "75.04.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.02"
+    },
+    {
+      "nama_wilayah": "Babalonge",
+      "kode_wilayah": "75.04.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.02"
+    }
+  ]
+}

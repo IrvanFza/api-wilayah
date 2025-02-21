@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pamebut",
+      "kode_wilayah": "94.05.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.17"
+    },
+    {
+      "nama_wilayah": "Agenggen",
+      "kode_wilayah": "94.05.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.17"
+    },
+    {
+      "nama_wilayah": "Yugumuak",
+      "kode_wilayah": "94.05.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.17"
+    },
+    {
+      "nama_wilayah": "Wilewak",
+      "kode_wilayah": "94.05.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.17"
+    },
+    {
+      "nama_wilayah": "Lambera",
+      "kode_wilayah": "94.05.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.17"
+    },
+    {
+      "nama_wilayah": "Wobulo",
+      "kode_wilayah": "94.05.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.17"
+    },
+    {
+      "nama_wilayah": "Mugalolo",
+      "kode_wilayah": "94.05.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.17"
+    },
+    {
+      "nama_wilayah": "Manggame",
+      "kode_wilayah": "94.05.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.17"
+    },
+    {
+      "nama_wilayah": "Jerusalem",
+      "kode_wilayah": "94.05.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.17"
+    },
+    {
+      "nama_wilayah": "Wiyabubu",
+      "kode_wilayah": "94.05.17.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.05",
+      "kode_kecamatan": "94.05.17"
+    }
+  ]
+}

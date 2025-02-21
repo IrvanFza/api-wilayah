@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tabalar Muara",
+      "kode_wilayah": "64.03.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.10"
+    },
+    {
+      "nama_wilayah": "Tubaan",
+      "kode_wilayah": "64.03.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.10"
+    },
+    {
+      "nama_wilayah": "Tabalar Ulu",
+      "kode_wilayah": "64.03.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.10"
+    },
+    {
+      "nama_wilayah": "Semurut",
+      "kode_wilayah": "64.03.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.10"
+    },
+    {
+      "nama_wilayah": "Buyung-Buyung",
+      "kode_wilayah": "64.03.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.10"
+    },
+    {
+      "nama_wilayah": "Harapan Maju",
+      "kode_wilayah": "64.03.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.03",
+      "kode_kecamatan": "64.03.10"
+    }
+  ]
+}

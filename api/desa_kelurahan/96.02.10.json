@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Nusa",
+      "kode_wilayah": "96.02.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.10"
+    },
+    {
+      "nama_wilayah": "Bedare",
+      "kode_wilayah": "96.02.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.10"
+    },
+    {
+      "nama_wilayah": "Puragi",
+      "kode_wilayah": "96.02.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.10"
+    },
+    {
+      "nama_wilayah": "Tawanggire",
+      "kode_wilayah": "96.02.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.10"
+    },
+    {
+      "nama_wilayah": "Mugim",
+      "kode_wilayah": "96.02.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.10"
+    },
+    {
+      "nama_wilayah": "Saga",
+      "kode_wilayah": "96.02.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "96",
+      "kode_kabkota": "96.02",
+      "kode_kecamatan": "96.02.10"
+    }
+  ]
+}

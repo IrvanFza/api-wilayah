@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tamansari",
+      "kode_wilayah": "32.78.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.07"
+    },
+    {
+      "nama_wilayah": "Mugarsari",
+      "kode_wilayah": "32.78.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.07"
+    },
+    {
+      "nama_wilayah": "Tamanjaya",
+      "kode_wilayah": "32.78.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.07"
+    },
+    {
+      "nama_wilayah": "Sumelap",
+      "kode_wilayah": "32.78.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.07"
+    },
+    {
+      "nama_wilayah": "Setiawargi",
+      "kode_wilayah": "32.78.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.07"
+    },
+    {
+      "nama_wilayah": "Mulyasari",
+      "kode_wilayah": "32.78.07.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.07"
+    },
+    {
+      "nama_wilayah": "Sukahurip",
+      "kode_wilayah": "32.78.07.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.07"
+    },
+    {
+      "nama_wilayah": "Setiamulya",
+      "kode_wilayah": "32.78.07.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.78",
+      "kode_kecamatan": "32.78.07"
+    }
+  ]
+}

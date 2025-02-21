@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Wana",
+      "kode_wilayah": "18.07.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.17"
+    },
+    {
+      "nama_wilayah": "Tanjung Aji",
+      "kode_wilayah": "18.07.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.17"
+    },
+    {
+      "nama_wilayah": "Tebing",
+      "kode_wilayah": "18.07.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.17"
+    },
+    {
+      "nama_wilayah": "Sido Makmur",
+      "kode_wilayah": "18.07.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.17"
+    },
+    {
+      "nama_wilayah": "Itik Renday",
+      "kode_wilayah": "18.07.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.17"
+    },
+    {
+      "nama_wilayah": "Sumber Hadi",
+      "kode_wilayah": "18.07.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.07",
+      "kode_kecamatan": "18.07.17"
+    }
+  ]
+}

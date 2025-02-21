@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pelabuhan Dagang",
+      "kode_wilayah": "15.06.01.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.01"
+    },
+    {
+      "nama_wilayah": "Badang",
+      "kode_wilayah": "15.06.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.01"
+    },
+    {
+      "nama_wilayah": "Tanjung Tayas",
+      "kode_wilayah": "15.06.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.01"
+    },
+    {
+      "nama_wilayah": "Kuala Dasal",
+      "kode_wilayah": "15.06.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.01"
+    },
+    {
+      "nama_wilayah": "Pematang Pauh",
+      "kode_wilayah": "15.06.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.01"
+    },
+    {
+      "nama_wilayah": "Taman Raja",
+      "kode_wilayah": "15.06.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.01"
+    },
+    {
+      "nama_wilayah": "Brasau",
+      "kode_wilayah": "15.06.01.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.01"
+    },
+    {
+      "nama_wilayah": "Gemuruh",
+      "kode_wilayah": "15.06.01.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.01"
+    },
+    {
+      "nama_wilayah": "Pematang Tembesu",
+      "kode_wilayah": "15.06.01.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.01"
+    },
+    {
+      "nama_wilayah": "Badang Sepakat",
+      "kode_wilayah": "15.06.01.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.06",
+      "kode_kecamatan": "15.06.01"
+    }
+  ]
+}

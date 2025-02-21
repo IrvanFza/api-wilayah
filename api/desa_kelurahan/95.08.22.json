@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Uburu",
+      "kode_wilayah": "95.08.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.22"
+    },
+    {
+      "nama_wilayah": "Kabolilangen",
+      "kode_wilayah": "95.08.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.22"
+    },
+    {
+      "nama_wilayah": "Kolma",
+      "kode_wilayah": "95.08.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.22"
+    },
+    {
+      "nama_wilayah": "Brambel",
+      "kode_wilayah": "95.08.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.22"
+    },
+    {
+      "nama_wilayah": "Kiabypma",
+      "kode_wilayah": "95.08.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.22"
+    },
+    {
+      "nama_wilayah": "Kibisim",
+      "kode_wilayah": "95.08.22.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.22"
+    },
+    {
+      "nama_wilayah": "Labrik",
+      "kode_wilayah": "95.08.22.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.08",
+      "kode_kecamatan": "95.08.22"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Bulu Jaya",
+      "kode_wilayah": "73.04.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.06"
+    },
+    {
+      "nama_wilayah": "Banrimanurung",
+      "kode_wilayah": "73.04.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.06"
+    },
+    {
+      "nama_wilayah": "Barana",
+      "kode_wilayah": "73.04.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.06"
+    },
+    {
+      "nama_wilayah": "Beroanging",
+      "kode_wilayah": "73.04.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.06"
+    },
+    {
+      "nama_wilayah": "Tuju",
+      "kode_wilayah": "73.04.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.06"
+    },
+    {
+      "nama_wilayah": "Garassikang",
+      "kode_wilayah": "73.04.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.06"
+    },
+    {
+      "nama_wilayah": "Pattiro",
+      "kode_wilayah": "73.04.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.06"
+    },
+    {
+      "nama_wilayah": "Pappalluang",
+      "kode_wilayah": "73.04.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.04",
+      "kode_kecamatan": "73.04.06"
+    }
+  ]
+}

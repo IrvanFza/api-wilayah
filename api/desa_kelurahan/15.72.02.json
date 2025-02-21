@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Koto Renah",
+      "kode_wilayah": "15.72.02.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.02"
+    },
+    {
+      "nama_wilayah": "Koto Keras",
+      "kode_wilayah": "15.72.02.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.02"
+    },
+    {
+      "nama_wilayah": "Koto Bento",
+      "kode_wilayah": "15.72.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.02"
+    },
+    {
+      "nama_wilayah": "Koto Lolo",
+      "kode_wilayah": "15.72.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.02"
+    },
+    {
+      "nama_wilayah": "Koto Tengah",
+      "kode_wilayah": "15.72.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.02"
+    },
+    {
+      "nama_wilayah": "Koto Duo",
+      "kode_wilayah": "15.72.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.02"
+    },
+    {
+      "nama_wilayah": "Sungai Liuk",
+      "kode_wilayah": "15.72.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.02"
+    },
+    {
+      "nama_wilayah": "Seberang",
+      "kode_wilayah": "15.72.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.02"
+    },
+    {
+      "nama_wilayah": "Sumur Gedang",
+      "kode_wilayah": "15.72.02.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.72",
+      "kode_kecamatan": "15.72.02"
+    }
+  ]
+}

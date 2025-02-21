@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Ikebo",
+      "kode_wilayah": "94.06.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.01"
+    },
+    {
+      "nama_wilayah": "Mauwa",
+      "kode_wilayah": "94.06.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.01"
+    },
+    {
+      "nama_wilayah": "Ekemanida",
+      "kode_wilayah": "94.06.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.01"
+    },
+    {
+      "nama_wilayah": "Bukapa",
+      "kode_wilayah": "94.06.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.01"
+    },
+    {
+      "nama_wilayah": "Kimupugi",
+      "kode_wilayah": "94.06.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.01"
+    },
+    {
+      "nama_wilayah": "Dikiyouwo",
+      "kode_wilayah": "94.06.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.01"
+    },
+    {
+      "nama_wilayah": "Idakotu",
+      "kode_wilayah": "94.06.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.01"
+    },
+    {
+      "nama_wilayah": "Putapa",
+      "kode_wilayah": "94.06.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.06",
+      "kode_kecamatan": "94.06.01"
+    }
+  ]
+}

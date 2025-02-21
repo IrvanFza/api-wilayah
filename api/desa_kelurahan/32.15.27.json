@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Margakaya",
+      "kode_wilayah": "32.15.27.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.27"
+    },
+    {
+      "nama_wilayah": "Margamulya",
+      "kode_wilayah": "32.15.27.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.27"
+    },
+    {
+      "nama_wilayah": "Karangligar",
+      "kode_wilayah": "32.15.27.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.27"
+    },
+    {
+      "nama_wilayah": "Mekarmulya",
+      "kode_wilayah": "32.15.27.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.27"
+    },
+    {
+      "nama_wilayah": "Parungsari",
+      "kode_wilayah": "32.15.27.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.27"
+    },
+    {
+      "nama_wilayah": "Karangmulya",
+      "kode_wilayah": "32.15.27.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.27"
+    },
+    {
+      "nama_wilayah": "Wanasari",
+      "kode_wilayah": "32.15.27.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.27"
+    },
+    {
+      "nama_wilayah": "Wanakerta",
+      "kode_wilayah": "32.15.27.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.27"
+    },
+    {
+      "nama_wilayah": "Wanajaya",
+      "kode_wilayah": "32.15.27.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.27"
+    },
+    {
+      "nama_wilayah": "Mulyajaya",
+      "kode_wilayah": "32.15.27.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.27"
+    }
+  ]
+}

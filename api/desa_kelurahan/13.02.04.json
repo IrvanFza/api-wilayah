@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Alahan Panjang",
+      "kode_wilayah": "13.02.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.04"
+    },
+    {
+      "nama_wilayah": "Sungai Nanam",
+      "kode_wilayah": "13.02.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.04"
+    },
+    {
+      "nama_wilayah": "Salimpat",
+      "kode_wilayah": "13.02.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.04"
+    },
+    {
+      "nama_wilayah": "Aie Dingin",
+      "kode_wilayah": "13.02.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "13",
+      "kode_kabkota": "13.02",
+      "kode_kecamatan": "13.02.04"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Langkuru",
+      "kode_wilayah": "53.05.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.13"
+    },
+    {
+      "nama_wilayah": "Purnama",
+      "kode_wilayah": "53.05.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.13"
+    },
+    {
+      "nama_wilayah": "Kailesa",
+      "kode_wilayah": "53.05.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.13"
+    },
+    {
+      "nama_wilayah": "Langkuru Utara",
+      "kode_wilayah": "53.05.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.05",
+      "kode_kecamatan": "53.05.13"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Kambu",
+      "kode_wilayah": "74.71.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.10"
+    },
+    {
+      "nama_wilayah": "Mokoau",
+      "kode_wilayah": "74.71.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.10"
+    },
+    {
+      "nama_wilayah": "Padaleu",
+      "kode_wilayah": "74.71.10.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.10"
+    },
+    {
+      "nama_wilayah": "Lalolara",
+      "kode_wilayah": "74.71.10.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.10"
+    }
+  ]
+}

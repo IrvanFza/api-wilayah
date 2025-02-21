@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sigumpar Dangsina",
+      "kode_wilayah": "12.12.19.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.19"
+    },
+    {
+      "nama_wilayah": "Marsangap",
+      "kode_wilayah": "12.12.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.19"
+    },
+    {
+      "nama_wilayah": "Nauli",
+      "kode_wilayah": "12.12.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.19"
+    },
+    {
+      "nama_wilayah": "Situa-tua",
+      "kode_wilayah": "12.12.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.19"
+    },
+    {
+      "nama_wilayah": "Sigumpar",
+      "kode_wilayah": "12.12.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.19"
+    },
+    {
+      "nama_wilayah": "Maju",
+      "kode_wilayah": "12.12.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.19"
+    },
+    {
+      "nama_wilayah": "Dolok Jior",
+      "kode_wilayah": "12.12.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.19"
+    },
+    {
+      "nama_wilayah": "Sigumpar Julu",
+      "kode_wilayah": "12.12.19.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.19"
+    },
+    {
+      "nama_wilayah": "Sigumpar Barat",
+      "kode_wilayah": "12.12.19.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.19"
+    },
+    {
+      "nama_wilayah": "Banua Huta",
+      "kode_wilayah": "12.12.19.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.12",
+      "kode_kecamatan": "12.12.19"
+    }
+  ]
+}

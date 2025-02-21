@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Tagime",
+      "kode_wilayah": "95.01.27.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.27"
+    },
+    {
+      "nama_wilayah": "Porome",
+      "kode_wilayah": "95.01.27.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.27"
+    },
+    {
+      "nama_wilayah": "Onggobalo",
+      "kode_wilayah": "95.01.27.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.27"
+    },
+    {
+      "nama_wilayah": "Lakwame",
+      "kode_wilayah": "95.01.27.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.27"
+    },
+    {
+      "nama_wilayah": "Yordania Tulak",
+      "kode_wilayah": "95.01.27.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.27"
+    },
+    {
+      "nama_wilayah": "Gume Kupari",
+      "kode_wilayah": "95.01.27.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.27"
+    },
+    {
+      "nama_wilayah": "Wandinggunie",
+      "kode_wilayah": "95.01.27.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.27"
+    },
+    {
+      "nama_wilayah": "Mulugame",
+      "kode_wilayah": "95.01.27.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.27"
+    },
+    {
+      "nama_wilayah": "Lapeyo",
+      "kode_wilayah": "95.01.27.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.27"
+    },
+    {
+      "nama_wilayah": "Yanggapura",
+      "kode_wilayah": "95.01.27.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.27"
+    },
+    {
+      "nama_wilayah": "Yogobur",
+      "kode_wilayah": "95.01.27.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.27"
+    }
+  ]
+}

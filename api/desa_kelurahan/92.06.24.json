@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Igomu",
+      "kode_wilayah": "92.06.24.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.24"
+    },
+    {
+      "nama_wilayah": "Mesna",
+      "kode_wilayah": "92.06.24.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.24"
+    },
+    {
+      "nama_wilayah": "Sumuy",
+      "kode_wilayah": "92.06.24.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.06",
+      "kode_kecamatan": "92.06.24"
+    }
+  ]
+}

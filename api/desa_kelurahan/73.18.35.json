@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Malimbong",
+      "kode_wilayah": "73.18.35.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.35"
+    },
+    {
+      "nama_wilayah": "Leppan",
+      "kode_wilayah": "73.18.35.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.35"
+    },
+    {
+      "nama_wilayah": "Kole Sawangan",
+      "kode_wilayah": "73.18.35.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.35"
+    },
+    {
+      "nama_wilayah": "Kole Barebatu",
+      "kode_wilayah": "73.18.35.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.35"
+    },
+    {
+      "nama_wilayah": "Lemo Menduruk",
+      "kode_wilayah": "73.18.35.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.35"
+    },
+    {
+      "nama_wilayah": "Balepe-",
+      "kode_wilayah": "73.18.35.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.18",
+      "kode_kecamatan": "73.18.35"
+    }
+  ]
+}

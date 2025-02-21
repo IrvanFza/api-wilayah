@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Dayakan",
+      "kode_wilayah": "35.02.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.13"
+    },
+    {
+      "nama_wilayah": "Karangan",
+      "kode_wilayah": "35.02.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.13"
+    },
+    {
+      "nama_wilayah": "Tanjunggunung",
+      "kode_wilayah": "35.02.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.13"
+    },
+    {
+      "nama_wilayah": "Karangjoho",
+      "kode_wilayah": "35.02.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.13"
+    },
+    {
+      "nama_wilayah": "Tanjungrejo",
+      "kode_wilayah": "35.02.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.13"
+    },
+    {
+      "nama_wilayah": "Bandaralim",
+      "kode_wilayah": "35.02.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.13"
+    },
+    {
+      "nama_wilayah": "Kapuran",
+      "kode_wilayah": "35.02.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.13"
+    },
+    {
+      "nama_wilayah": "Watubonang",
+      "kode_wilayah": "35.02.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.13"
+    },
+    {
+      "nama_wilayah": "Biting",
+      "kode_wilayah": "35.02.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.13"
+    },
+    {
+      "nama_wilayah": "Badegan",
+      "kode_wilayah": "35.02.13.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.02",
+      "kode_kecamatan": "35.02.13"
+    }
+  ]
+}

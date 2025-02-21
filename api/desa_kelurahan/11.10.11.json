@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Lae Balno",
+      "kode_wilayah": "11.10.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.11"
+    },
+    {
+      "nama_wilayah": "Napagaluh",
+      "kode_wilayah": "11.10.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.11"
+    },
+    {
+      "nama_wilayah": "Sikoran",
+      "kode_wilayah": "11.10.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.11"
+    },
+    {
+      "nama_wilayah": "Situbuh-tubuh",
+      "kode_wilayah": "11.10.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.11"
+    },
+    {
+      "nama_wilayah": "Biskang",
+      "kode_wilayah": "11.10.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.11"
+    },
+    {
+      "nama_wilayah": "Sintuban Makmur",
+      "kode_wilayah": "11.10.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "11",
+      "kode_kabkota": "11.10",
+      "kode_kecamatan": "11.10.11"
+    }
+  ]
+}

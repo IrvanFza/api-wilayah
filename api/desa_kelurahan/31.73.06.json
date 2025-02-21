@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Kalideres",
+      "kode_wilayah": "31.73.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.06"
+    },
+    {
+      "nama_wilayah": "Semanan",
+      "kode_wilayah": "31.73.06.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.06"
+    },
+    {
+      "nama_wilayah": "Tegal Alur",
+      "kode_wilayah": "31.73.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.06"
+    },
+    {
+      "nama_wilayah": "Kamal",
+      "kode_wilayah": "31.73.06.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.06"
+    },
+    {
+      "nama_wilayah": "Pegadungan",
+      "kode_wilayah": "31.73.06.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.73",
+      "kode_kecamatan": "31.73.06"
+    }
+  ]
+}

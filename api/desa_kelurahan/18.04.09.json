@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Suka Marga",
+      "kode_wilayah": "18.04.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.09"
+    },
+    {
+      "nama_wilayah": "Sumber Agung",
+      "kode_wilayah": "18.04.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.09"
+    },
+    {
+      "nama_wilayah": "Tugu Ratu",
+      "kode_wilayah": "18.04.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.09"
+    },
+    {
+      "nama_wilayah": "Banding Agung",
+      "kode_wilayah": "18.04.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.09"
+    },
+    {
+      "nama_wilayah": "Rowo Rejo",
+      "kode_wilayah": "18.04.09.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.09"
+    },
+    {
+      "nama_wilayah": "Sido Rejo",
+      "kode_wilayah": "18.04.09.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.09"
+    },
+    {
+      "nama_wilayah": "Ringin Sari",
+      "kode_wilayah": "18.04.09.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "18",
+      "kode_kabkota": "18.04",
+      "kode_kecamatan": "18.04.09"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Ilokama",
+      "kode_wilayah": "95.01.40.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.40"
+    },
+    {
+      "nama_wilayah": "Kama",
+      "kode_wilayah": "95.01.40.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.40"
+    },
+    {
+      "nama_wilayah": "Yaloaput",
+      "kode_wilayah": "95.01.40.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.40"
+    },
+    {
+      "nama_wilayah": "Mawampi",
+      "kode_wilayah": "95.01.40.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.40"
+    },
+    {
+      "nama_wilayah": "Parema",
+      "kode_wilayah": "95.01.40.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.40"
+    },
+    {
+      "nama_wilayah": "Agamoa",
+      "kode_wilayah": "95.01.40.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.40"
+    },
+    {
+      "nama_wilayah": "Silumarek",
+      "kode_wilayah": "95.01.40.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.40"
+    },
+    {
+      "nama_wilayah": "Wesaganya",
+      "kode_wilayah": "95.01.40.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.01",
+      "kode_kecamatan": "95.01.40"
+    }
+  ]
+}

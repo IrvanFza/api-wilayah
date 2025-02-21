@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Wuyukwi",
+      "kode_wilayah": "94.02.01.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.01"
+    },
+    {
+      "nama_wilayah": "Pagaleme",
+      "kode_wilayah": "94.02.01.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.01"
+    },
+    {
+      "nama_wilayah": "Pruleme",
+      "kode_wilayah": "94.02.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.01"
+    },
+    {
+      "nama_wilayah": "Wuyukwi",
+      "kode_wilayah": "94.02.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.01"
+    },
+    {
+      "nama_wilayah": "Wuyuneri",
+      "kode_wilayah": "94.02.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.01"
+    },
+    {
+      "nama_wilayah": "Pepera",
+      "kode_wilayah": "94.02.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.01"
+    },
+    {
+      "nama_wilayah": "Muliagambut",
+      "kode_wilayah": "94.02.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.01"
+    },
+    {
+      "nama_wilayah": "Trikora",
+      "kode_wilayah": "94.02.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.01"
+    },
+    {
+      "nama_wilayah": "Towogi",
+      "kode_wilayah": "94.02.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.01"
+    },
+    {
+      "nama_wilayah": "Birak Ambut",
+      "kode_wilayah": "94.02.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.01"
+    },
+    {
+      "nama_wilayah": "Usir",
+      "kode_wilayah": "94.02.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.02",
+      "kode_kecamatan": "94.02.01"
+    }
+  ]
+}

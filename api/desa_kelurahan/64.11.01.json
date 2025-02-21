@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Long Hurai",
+      "kode_wilayah": "64.11.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.01"
+    },
+    {
+      "nama_wilayah": "Long Melaham",
+      "kode_wilayah": "64.11.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.01"
+    },
+    {
+      "nama_wilayah": "Memahak Besar",
+      "kode_wilayah": "64.11.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.01"
+    },
+    {
+      "nama_wilayah": "Memahak Ulu",
+      "kode_wilayah": "64.11.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.01"
+    },
+    {
+      "nama_wilayah": "Batu Majang",
+      "kode_wilayah": "64.11.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.01"
+    },
+    {
+      "nama_wilayah": "Ujoh Bilang",
+      "kode_wilayah": "64.11.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.01"
+    },
+    {
+      "nama_wilayah": "Long Bagun Ilir",
+      "kode_wilayah": "64.11.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.01"
+    },
+    {
+      "nama_wilayah": "Long Bagun Ulu",
+      "kode_wilayah": "64.11.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.01"
+    },
+    {
+      "nama_wilayah": "Batoq Kelo",
+      "kode_wilayah": "64.11.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.01"
+    },
+    {
+      "nama_wilayah": "Long Merah",
+      "kode_wilayah": "64.11.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.01"
+    },
+    {
+      "nama_wilayah": "Rukun Damai",
+      "kode_wilayah": "64.11.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.11",
+      "kode_kecamatan": "64.11.01"
+    }
+  ]
+}

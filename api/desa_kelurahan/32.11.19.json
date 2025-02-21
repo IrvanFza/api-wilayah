@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Ganeas",
+      "kode_wilayah": "32.11.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.19"
+    },
+    {
+      "nama_wilayah": "Dayeuhluhur",
+      "kode_wilayah": "32.11.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.19"
+    },
+    {
+      "nama_wilayah": "Cikoneng",
+      "kode_wilayah": "32.11.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.19"
+    },
+    {
+      "nama_wilayah": "Sukaluyu",
+      "kode_wilayah": "32.11.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.19"
+    },
+    {
+      "nama_wilayah": "Sukawening",
+      "kode_wilayah": "32.11.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.19"
+    },
+    {
+      "nama_wilayah": "Tanjunghurip",
+      "kode_wilayah": "32.11.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.19"
+    },
+    {
+      "nama_wilayah": "Cikondang",
+      "kode_wilayah": "32.11.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.19"
+    },
+    {
+      "nama_wilayah": "Cikoneng Kulon",
+      "kode_wilayah": "32.11.19.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.19"
+    }
+  ]
+}

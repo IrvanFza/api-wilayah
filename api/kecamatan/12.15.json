@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Sitelu Tali Urang Jehe",
+      "kode_wilayah": "12.15.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.15",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Kerajaan",
+      "kode_wilayah": "12.15.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.15",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Salak",
+      "kode_wilayah": "12.15.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.15",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Sitelu Tali Urang Julu",
+      "kode_wilayah": "12.15.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.15",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Pergetteng Getteng Sengkut",
+      "kode_wilayah": "12.15.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.15",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Pagindar",
+      "kode_wilayah": "12.15.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.15",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Tinada",
+      "kode_wilayah": "12.15.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.15",
+      "kode_provinsi": "12"
+    },
+    {
+      "nama_wilayah": "Siempat Rube",
+      "kode_wilayah": "12.15.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "12.15",
+      "kode_provinsi": "12"
+    }
+  ]
+}

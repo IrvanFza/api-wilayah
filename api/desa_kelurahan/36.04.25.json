@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kopo",
+      "kode_wilayah": "36.04.25.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.25"
+    },
+    {
+      "nama_wilayah": "Garut",
+      "kode_wilayah": "36.04.25.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.25"
+    },
+    {
+      "nama_wilayah": "Nanggung",
+      "kode_wilayah": "36.04.25.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.25"
+    },
+    {
+      "nama_wilayah": "Cidahu",
+      "kode_wilayah": "36.04.25.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.25"
+    },
+    {
+      "nama_wilayah": "Nyompok",
+      "kode_wilayah": "36.04.25.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.25"
+    },
+    {
+      "nama_wilayah": "Gabus",
+      "kode_wilayah": "36.04.25.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.25"
+    },
+    {
+      "nama_wilayah": "Carenang Udik",
+      "kode_wilayah": "36.04.25.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.25"
+    },
+    {
+      "nama_wilayah": "Rancasumur",
+      "kode_wilayah": "36.04.25.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.25"
+    },
+    {
+      "nama_wilayah": "Babakanjaya",
+      "kode_wilayah": "36.04.25.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.25"
+    },
+    {
+      "nama_wilayah": "Mekarbaru",
+      "kode_wilayah": "36.04.25.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.04",
+      "kode_kecamatan": "36.04.25"
+    }
+  ]
+}

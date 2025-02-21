@@ -1,0 +1,246 @@
+{
+  "status": "success",
+  "total": 30,
+  "data": [
+    {
+      "nama_wilayah": "Lahat Tengah",
+      "kode_wilayah": "16.04.10.1031",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Gunung Gajah",
+      "kode_wilayah": "16.04.10.1032",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Pagar Agung",
+      "kode_wilayah": "16.04.10.1033",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Talang Jawa",
+      "kode_wilayah": "16.04.10.1037",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Pasar Baru",
+      "kode_wilayah": "16.04.10.1038",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Kota Baru",
+      "kode_wilayah": "16.04.10.1040",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Pasar Lama",
+      "kode_wilayah": "16.04.10.1041",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Pasar Bawah",
+      "kode_wilayah": "16.04.10.1042",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "RD. PJKA",
+      "kode_wilayah": "16.04.10.1043",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Bandar Agung",
+      "kode_wilayah": "16.04.10.1046",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Kota Negara",
+      "kode_wilayah": "16.04.10.1051",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Kota Jaya",
+      "kode_wilayah": "16.04.10.1052",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "RD. PJKA Bandar Agung",
+      "kode_wilayah": "16.04.10.1054",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Sari Bunga Mas",
+      "kode_wilayah": "16.04.10.1058",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Bandar Jaya",
+      "kode_wilayah": "16.04.10.1059",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Talang Jawa Selatan",
+      "kode_wilayah": "16.04.10.1060",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Talang Jawa Utara",
+      "kode_wilayah": "16.04.10.1061",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Padang Lengkuas",
+      "kode_wilayah": "16.04.10.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Selawi",
+      "kode_wilayah": "16.04.10.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Sukanegara",
+      "kode_wilayah": "16.04.10.2030",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Kota Raya",
+      "kode_wilayah": "16.04.10.2034",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Keban",
+      "kode_wilayah": "16.04.10.2035",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Pagar Sari",
+      "kode_wilayah": "16.04.10.2036",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Pagar Negara",
+      "kode_wilayah": "16.04.10.2039",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Senabing",
+      "kode_wilayah": "16.04.10.2049",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Manggul",
+      "kode_wilayah": "16.04.10.2050",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Ulak Lebar",
+      "kode_wilayah": "16.04.10.2053",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Giri Mulya",
+      "kode_wilayah": "16.04.10.2055",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Makarti Tama",
+      "kode_wilayah": "16.04.10.2056",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    },
+    {
+      "nama_wilayah": "Ulak Mas",
+      "kode_wilayah": "16.04.10.2057",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.04",
+      "kode_kecamatan": "16.04.10"
+    }
+  ]
+}

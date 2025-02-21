@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Kassa",
+      "kode_wilayah": "73.15.12.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.12"
+    },
+    {
+      "nama_wilayah": "Batulappa",
+      "kode_wilayah": "73.15.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.12"
+    },
+    {
+      "nama_wilayah": "Tapporang",
+      "kode_wilayah": "73.15.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.12"
+    },
+    {
+      "nama_wilayah": "Kaseralau",
+      "kode_wilayah": "73.15.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.12"
+    },
+    {
+      "nama_wilayah": "Watang Kassa",
+      "kode_wilayah": "73.15.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.12"
+    }
+  ]
+}

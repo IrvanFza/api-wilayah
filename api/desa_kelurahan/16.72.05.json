@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Karang Dalo",
+      "kode_wilayah": "16.72.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.05"
+    },
+    {
+      "nama_wilayah": "Pelang Kenidai",
+      "kode_wilayah": "16.72.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.05"
+    },
+    {
+      "nama_wilayah": "Jokoh",
+      "kode_wilayah": "16.72.05.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.05"
+    },
+    {
+      "nama_wilayah": "Padang Temu",
+      "kode_wilayah": "16.72.05.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.05"
+    },
+    {
+      "nama_wilayah": "Candi Jaya",
+      "kode_wilayah": "16.72.05.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.72",
+      "kode_kecamatan": "16.72.05"
+    }
+  ]
+}

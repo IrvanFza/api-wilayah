@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Selopamioro",
+      "kode_wilayah": "34.02.10.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.10"
+    },
+    {
+      "nama_wilayah": "Sriharjo",
+      "kode_wilayah": "34.02.10.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.10"
+    },
+    {
+      "nama_wilayah": "Wukirsari",
+      "kode_wilayah": "34.02.10.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.10"
+    },
+    {
+      "nama_wilayah": "Kebonagung",
+      "kode_wilayah": "34.02.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.10"
+    },
+    {
+      "nama_wilayah": "Karangtengah",
+      "kode_wilayah": "34.02.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.10"
+    },
+    {
+      "nama_wilayah": "Girirejo",
+      "kode_wilayah": "34.02.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.10"
+    },
+    {
+      "nama_wilayah": "Karangtalun",
+      "kode_wilayah": "34.02.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.10"
+    },
+    {
+      "nama_wilayah": "Imogiri",
+      "kode_wilayah": "34.02.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.02",
+      "kode_kecamatan": "34.02.10"
+    }
+  ]
+}

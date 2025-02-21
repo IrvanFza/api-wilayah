@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Wamelai",
+      "kode_wilayah": "74.13.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.03"
+    },
+    {
+      "nama_wilayah": "Lapadaku",
+      "kode_wilayah": "74.13.03.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.03"
+    },
+    {
+      "nama_wilayah": "Lagadi",
+      "kode_wilayah": "74.13.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.03"
+    },
+    {
+      "nama_wilayah": "Latugho",
+      "kode_wilayah": "74.13.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.03"
+    },
+    {
+      "nama_wilayah": "Latompe",
+      "kode_wilayah": "74.13.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.03"
+    },
+    {
+      "nama_wilayah": "Lalemba",
+      "kode_wilayah": "74.13.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.03"
+    },
+    {
+      "nama_wilayah": "Madampi",
+      "kode_wilayah": "74.13.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.03"
+    },
+    {
+      "nama_wilayah": "Watumela",
+      "kode_wilayah": "74.13.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.03"
+    }
+  ]
+}

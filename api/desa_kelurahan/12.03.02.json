@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "total": 23,
+  "data": [
+    {
+      "nama_wilayah": "Wek I",
+      "kode_wilayah": "12.03.02.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Wek II",
+      "kode_wilayah": "12.03.02.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Perkebunan Batang Toru",
+      "kode_wilayah": "12.03.02.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Padang Lancat",
+      "kode_wilayah": "12.03.02.1030",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Aek Pining",
+      "kode_wilayah": "12.03.02.1032",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Garoga",
+      "kode_wilayah": "12.03.02.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Huta Godang",
+      "kode_wilayah": "12.03.02.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Batu Horing",
+      "kode_wilayah": "12.03.02.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Batu Hula",
+      "kode_wilayah": "12.03.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Sumuran",
+      "kode_wilayah": "12.03.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Napa",
+      "kode_wilayah": "12.03.02.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Wek IV",
+      "kode_wilayah": "12.03.02.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Hapesong Baru",
+      "kode_wilayah": "12.03.02.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Telo",
+      "kode_wilayah": "12.03.02.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Wek III",
+      "kode_wilayah": "12.03.02.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Perkebunan Sigala-Gala",
+      "kode_wilayah": "12.03.02.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Perkebunan Hapesong",
+      "kode_wilayah": "12.03.02.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Hapesong Lama",
+      "kode_wilayah": "12.03.02.2022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Sipenggeng",
+      "kode_wilayah": "12.03.02.2023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Sianggunan",
+      "kode_wilayah": "12.03.02.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Huta Baru",
+      "kode_wilayah": "12.03.02.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Aek Ngadol Sitinjak",
+      "kode_wilayah": "12.03.02.2036",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    },
+    {
+      "nama_wilayah": "Sisipa",
+      "kode_wilayah": "12.03.02.2037",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.03",
+      "kode_kecamatan": "12.03.02"
+    }
+  ]
+}

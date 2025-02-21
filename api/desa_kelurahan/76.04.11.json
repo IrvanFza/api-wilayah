@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Limboro",
+      "kode_wilayah": "76.04.11.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.11"
+    },
+    {
+      "nama_wilayah": "Lembang Lembang",
+      "kode_wilayah": "76.04.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.11"
+    },
+    {
+      "nama_wilayah": "Tandassura",
+      "kode_wilayah": "76.04.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.11"
+    },
+    {
+      "nama_wilayah": "Samasundu",
+      "kode_wilayah": "76.04.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.11"
+    },
+    {
+      "nama_wilayah": "Napo",
+      "kode_wilayah": "76.04.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.11"
+    },
+    {
+      "nama_wilayah": "Todang Todang",
+      "kode_wilayah": "76.04.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.11"
+    },
+    {
+      "nama_wilayah": "Pendulangan",
+      "kode_wilayah": "76.04.11.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.11"
+    },
+    {
+      "nama_wilayah": "Renggeang",
+      "kode_wilayah": "76.04.11.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.11"
+    },
+    {
+      "nama_wilayah": "Salarri",
+      "kode_wilayah": "76.04.11.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.11"
+    },
+    {
+      "nama_wilayah": "Tangan Baru",
+      "kode_wilayah": "76.04.11.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.11"
+    },
+    {
+      "nama_wilayah": "Palece",
+      "kode_wilayah": "76.04.11.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "76",
+      "kode_kabkota": "76.04",
+      "kode_kecamatan": "76.04.11"
+    }
+  ]
+}

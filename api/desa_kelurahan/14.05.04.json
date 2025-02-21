@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pangkalan Lesung",
+      "kode_wilayah": "14.05.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.04"
+    },
+    {
+      "nama_wilayah": "Dusun Tua",
+      "kode_wilayah": "14.05.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.04"
+    },
+    {
+      "nama_wilayah": "Genduang",
+      "kode_wilayah": "14.05.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.04"
+    },
+    {
+      "nama_wilayah": "Mayang Sari",
+      "kode_wilayah": "14.05.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.04"
+    },
+    {
+      "nama_wilayah": "Rawang Sari",
+      "kode_wilayah": "14.05.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.04"
+    },
+    {
+      "nama_wilayah": "Mulya Subur",
+      "kode_wilayah": "14.05.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.04"
+    },
+    {
+      "nama_wilayah": "Sari Mulya",
+      "kode_wilayah": "14.05.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.04"
+    },
+    {
+      "nama_wilayah": "Sari Makmur",
+      "kode_wilayah": "14.05.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.04"
+    },
+    {
+      "nama_wilayah": "Tanjung Kuyo",
+      "kode_wilayah": "14.05.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.04"
+    },
+    {
+      "nama_wilayah": "Pesaguan",
+      "kode_wilayah": "14.05.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.05",
+      "kode_kecamatan": "14.05.04"
+    }
+  ]
+}

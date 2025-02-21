@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Manggala",
+      "kode_wilayah": "73.71.12.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.12"
+    },
+    {
+      "nama_wilayah": "Bangkala",
+      "kode_wilayah": "73.71.12.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.12"
+    },
+    {
+      "nama_wilayah": "Tamangapa",
+      "kode_wilayah": "73.71.12.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.12"
+    },
+    {
+      "nama_wilayah": "Antang",
+      "kode_wilayah": "73.71.12.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.12"
+    },
+    {
+      "nama_wilayah": "Batua",
+      "kode_wilayah": "73.71.12.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.12"
+    },
+    {
+      "nama_wilayah": "Borong",
+      "kode_wilayah": "73.71.12.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.12"
+    },
+    {
+      "nama_wilayah": "Biring Romang",
+      "kode_wilayah": "73.71.12.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.12"
+    },
+    {
+      "nama_wilayah": "Bitowa",
+      "kode_wilayah": "73.71.12.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.71",
+      "kode_kecamatan": "73.71.12"
+    }
+  ]
+}

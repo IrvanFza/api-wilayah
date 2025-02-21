@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Lotas",
+      "kode_wilayah": "53.02.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.23"
+    },
+    {
+      "nama_wilayah": "Sabnala",
+      "kode_wilayah": "53.02.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.23"
+    },
+    {
+      "nama_wilayah": "Koloto",
+      "kode_wilayah": "53.02.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.23"
+    },
+    {
+      "nama_wilayah": "Niti",
+      "kode_wilayah": "53.02.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.23"
+    },
+    {
+      "nama_wilayah": "Obaki",
+      "kode_wilayah": "53.02.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.23"
+    },
+    {
+      "nama_wilayah": "Benehe",
+      "kode_wilayah": "53.02.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.02",
+      "kode_kecamatan": "53.02.23"
+    }
+  ]
+}

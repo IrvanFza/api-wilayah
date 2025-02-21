@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Duren Sawit",
+      "kode_wilayah": "31.75.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.07"
+    },
+    {
+      "nama_wilayah": "Pondok Bambu",
+      "kode_wilayah": "31.75.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.07"
+    },
+    {
+      "nama_wilayah": "Klender",
+      "kode_wilayah": "31.75.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.07"
+    },
+    {
+      "nama_wilayah": "Pondok Kelapa",
+      "kode_wilayah": "31.75.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.07"
+    },
+    {
+      "nama_wilayah": "Malaka Sari",
+      "kode_wilayah": "31.75.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.07"
+    },
+    {
+      "nama_wilayah": "Malaka Jaya",
+      "kode_wilayah": "31.75.07.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.07"
+    },
+    {
+      "nama_wilayah": "Pondok Kopi",
+      "kode_wilayah": "31.75.07.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.75",
+      "kode_kecamatan": "31.75.07"
+    }
+  ]
+}

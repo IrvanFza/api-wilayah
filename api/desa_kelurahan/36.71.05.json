@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Cipondoh",
+      "kode_wilayah": "36.71.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.05"
+    },
+    {
+      "nama_wilayah": "Cipondoh Makmur",
+      "kode_wilayah": "36.71.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.05"
+    },
+    {
+      "nama_wilayah": "Cipondoh Indah",
+      "kode_wilayah": "36.71.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.05"
+    },
+    {
+      "nama_wilayah": "Gondrong",
+      "kode_wilayah": "36.71.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.05"
+    },
+    {
+      "nama_wilayah": "Kenanga",
+      "kode_wilayah": "36.71.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.05"
+    },
+    {
+      "nama_wilayah": "Petir",
+      "kode_wilayah": "36.71.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.05"
+    },
+    {
+      "nama_wilayah": "Ketapang",
+      "kode_wilayah": "36.71.05.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.05"
+    },
+    {
+      "nama_wilayah": "Poris Plawad",
+      "kode_wilayah": "36.71.05.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.05"
+    },
+    {
+      "nama_wilayah": "Poris Plawad Utara",
+      "kode_wilayah": "36.71.05.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.05"
+    },
+    {
+      "nama_wilayah": "Poris Plawad Indah",
+      "kode_wilayah": "36.71.05.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.05"
+    }
+  ]
+}

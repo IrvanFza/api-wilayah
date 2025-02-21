@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Balukang",
+      "kode_wilayah": "72.03.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.14"
+    },
+    {
+      "nama_wilayah": "Siwalempu",
+      "kode_wilayah": "72.03.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.14"
+    },
+    {
+      "nama_wilayah": "Siboang",
+      "kode_wilayah": "72.03.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.14"
+    },
+    {
+      "nama_wilayah": "Tonggolobibi",
+      "kode_wilayah": "72.03.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.14"
+    },
+    {
+      "nama_wilayah": "Bou",
+      "kode_wilayah": "72.03.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.14"
+    },
+    {
+      "nama_wilayah": "Samalili",
+      "kode_wilayah": "72.03.14.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.14"
+    },
+    {
+      "nama_wilayah": "Bukit Harapan",
+      "kode_wilayah": "72.03.14.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.14"
+    },
+    {
+      "nama_wilayah": "Pangalasiang",
+      "kode_wilayah": "72.03.14.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.14"
+    },
+    {
+      "nama_wilayah": "Balukang II",
+      "kode_wilayah": "72.03.14.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.03",
+      "kode_kecamatan": "72.03.14"
+    }
+  ]
+}

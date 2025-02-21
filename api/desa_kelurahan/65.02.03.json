@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Long Pujungan",
+      "kode_wilayah": "65.02.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.03"
+    },
+    {
+      "nama_wilayah": "Long Ketaman",
+      "kode_wilayah": "65.02.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.03"
+    },
+    {
+      "nama_wilayah": "Long Pua",
+      "kode_wilayah": "65.02.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.03"
+    },
+    {
+      "nama_wilayah": "Long Lame",
+      "kode_wilayah": "65.02.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.03"
+    },
+    {
+      "nama_wilayah": "Long Jelet",
+      "kode_wilayah": "65.02.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.03"
+    },
+    {
+      "nama_wilayah": "Long Aran",
+      "kode_wilayah": "65.02.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.03"
+    },
+    {
+      "nama_wilayah": "Long Peliran",
+      "kode_wilayah": "65.02.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.03"
+    },
+    {
+      "nama_wilayah": "Long Bena",
+      "kode_wilayah": "65.02.03.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.03"
+    },
+    {
+      "nama_wilayah": "Long Belaka Pitau",
+      "kode_wilayah": "65.02.03.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.02",
+      "kode_kecamatan": "65.02.03"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Mampang Prapatan",
+      "kode_wilayah": "31.74.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.03"
+    },
+    {
+      "nama_wilayah": "Bangka",
+      "kode_wilayah": "31.74.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.03"
+    },
+    {
+      "nama_wilayah": "Pela Mampang",
+      "kode_wilayah": "31.74.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.03"
+    },
+    {
+      "nama_wilayah": "Tegal Parang",
+      "kode_wilayah": "31.74.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.03"
+    },
+    {
+      "nama_wilayah": "Kuningan Barat",
+      "kode_wilayah": "31.74.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "31",
+      "kode_kabkota": "31.74",
+      "kode_kecamatan": "31.74.03"
+    }
+  ]
+}

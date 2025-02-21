@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Arung Ayam",
+      "kode_wilayah": "21.03.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.19"
+    },
+    {
+      "nama_wilayah": "Air Nusa",
+      "kode_wilayah": "21.03.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.19"
+    },
+    {
+      "nama_wilayah": "Air Ringau",
+      "kode_wilayah": "21.03.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.19"
+    },
+    {
+      "nama_wilayah": "Payak",
+      "kode_wilayah": "21.03.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "21",
+      "kode_kabkota": "21.03",
+      "kode_kecamatan": "21.03.19"
+    }
+  ]
+}

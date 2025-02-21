@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tumbang Tohan",
+      "kode_wilayah": "62.12.09.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.09"
+    },
+    {
+      "nama_wilayah": "Tumbang Naan",
+      "kode_wilayah": "62.12.09.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.09"
+    },
+    {
+      "nama_wilayah": "Muara Joloi I",
+      "kode_wilayah": "62.12.09.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.09"
+    },
+    {
+      "nama_wilayah": "Muara Joloi II",
+      "kode_wilayah": "62.12.09.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.09"
+    },
+    {
+      "nama_wilayah": "Parahau",
+      "kode_wilayah": "62.12.09.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.09"
+    },
+    {
+      "nama_wilayah": "Tumbang Jojang",
+      "kode_wilayah": "62.12.09.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.09"
+    },
+    {
+      "nama_wilayah": "Takajung",
+      "kode_wilayah": "62.12.09.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.12",
+      "kode_kecamatan": "62.12.09"
+    }
+  ]
+}

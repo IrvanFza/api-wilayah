@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Popaya",
+      "kode_wilayah": "75.04.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.08"
+    },
+    {
+      "nama_wilayah": "Karya Baru",
+      "kode_wilayah": "75.04.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.08"
+    },
+    {
+      "nama_wilayah": "Karangetang",
+      "kode_wilayah": "75.04.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.08"
+    },
+    {
+      "nama_wilayah": "Padengo",
+      "kode_wilayah": "75.04.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.08"
+    },
+    {
+      "nama_wilayah": "Hutamoputi",
+      "kode_wilayah": "75.04.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.04",
+      "kode_kecamatan": "75.04.08"
+    }
+  ]
+}

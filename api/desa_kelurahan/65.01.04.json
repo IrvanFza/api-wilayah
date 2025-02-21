@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Tanah Kuning",
+      "kode_wilayah": "65.01.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.04"
+    },
+    {
+      "nama_wilayah": "Mangkupadi",
+      "kode_wilayah": "65.01.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.04"
+    },
+    {
+      "nama_wilayah": "Sajau",
+      "kode_wilayah": "65.01.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.04"
+    },
+    {
+      "nama_wilayah": "Wonomulyo",
+      "kode_wilayah": "65.01.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.04"
+    },
+    {
+      "nama_wilayah": "Tanjung Agung",
+      "kode_wilayah": "65.01.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.04"
+    },
+    {
+      "nama_wilayah": "Binai",
+      "kode_wilayah": "65.01.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.04"
+    },
+    {
+      "nama_wilayah": "Sajau Hilir",
+      "kode_wilayah": "65.01.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.04"
+    },
+    {
+      "nama_wilayah": "Pura Sajau",
+      "kode_wilayah": "65.01.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "65",
+      "kode_kabkota": "65.01",
+      "kode_kecamatan": "65.01.04"
+    }
+  ]
+}

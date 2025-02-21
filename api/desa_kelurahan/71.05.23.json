@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Talaitad",
+      "kode_wilayah": "71.05.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.23"
+    },
+    {
+      "nama_wilayah": "Suluun Satu",
+      "kode_wilayah": "71.05.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.23"
+    },
+    {
+      "nama_wilayah": "Suluun Dua",
+      "kode_wilayah": "71.05.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.23"
+    },
+    {
+      "nama_wilayah": "Suluun Tiga",
+      "kode_wilayah": "71.05.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.23"
+    },
+    {
+      "nama_wilayah": "Suluun Empat",
+      "kode_wilayah": "71.05.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.23"
+    },
+    {
+      "nama_wilayah": "Pinapalangkow",
+      "kode_wilayah": "71.05.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.23"
+    },
+    {
+      "nama_wilayah": "Kapoya",
+      "kode_wilayah": "71.05.23.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.23"
+    },
+    {
+      "nama_wilayah": "Talaitad Utara",
+      "kode_wilayah": "71.05.23.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.23"
+    },
+    {
+      "nama_wilayah": "Kapoya Satu",
+      "kode_wilayah": "71.05.23.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.05",
+      "kode_kecamatan": "71.05.23"
+    }
+  ]
+}

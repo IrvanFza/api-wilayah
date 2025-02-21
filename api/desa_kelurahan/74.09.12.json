@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Boenaga",
+      "kode_wilayah": "74.09.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.12"
+    },
+    {
+      "nama_wilayah": "Waturambaha",
+      "kode_wilayah": "74.09.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.12"
+    },
+    {
+      "nama_wilayah": "Labengki",
+      "kode_wilayah": "74.09.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.12"
+    },
+    {
+      "nama_wilayah": "Morombo",
+      "kode_wilayah": "74.09.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.12"
+    },
+    {
+      "nama_wilayah": "Tapunopaka",
+      "kode_wilayah": "74.09.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.12"
+    },
+    {
+      "nama_wilayah": "Boedingi",
+      "kode_wilayah": "74.09.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.09",
+      "kode_kecamatan": "74.09.12"
+    }
+  ]
+}

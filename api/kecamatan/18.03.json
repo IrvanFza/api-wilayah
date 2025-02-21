@@ -1,0 +1,167 @@
+{
+  "status": "success",
+  "total": 23,
+  "data": [
+    {
+      "nama_wilayah": "Bukit Kemuning",
+      "kode_wilayah": "18.03.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Kotabumi",
+      "kode_wilayah": "18.03.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Sungkai Selatan",
+      "kode_wilayah": "18.03.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Tanjung Raja",
+      "kode_wilayah": "18.03.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Abung Timur",
+      "kode_wilayah": "18.03.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Abung Barat",
+      "kode_wilayah": "18.03.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Abung Selatan",
+      "kode_wilayah": "18.03.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Sungkai Utara",
+      "kode_wilayah": "18.03.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Kotabumi Utara",
+      "kode_wilayah": "18.03.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Kotabumi Selatan",
+      "kode_wilayah": "18.03.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Abung Tengah",
+      "kode_wilayah": "18.03.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Abung Tinggi",
+      "kode_wilayah": "18.03.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Abung Semuli",
+      "kode_wilayah": "18.03.13",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Abung Surakarta",
+      "kode_wilayah": "18.03.14",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Muara Sungkai",
+      "kode_wilayah": "18.03.15",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Bunga Mayang",
+      "kode_wilayah": "18.03.16",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Hulu Sungkai",
+      "kode_wilayah": "18.03.17",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Sungkai Tengah",
+      "kode_wilayah": "18.03.18",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Abung Pekurun",
+      "kode_wilayah": "18.03.19",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Sungkai Jaya",
+      "kode_wilayah": "18.03.20",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Sungkai Barat",
+      "kode_wilayah": "18.03.21",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Abung Kunang",
+      "kode_wilayah": "18.03.22",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    },
+    {
+      "nama_wilayah": "Blambangan Pagar",
+      "kode_wilayah": "18.03.23",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "18.03",
+      "kode_provinsi": "18"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "status": "success",
+  "total": 39,
+  "data": [
+    {
+      "nama_wilayah": "Kota Siantar",
+      "kode_wilayah": "12.13.01.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Kayu Jati",
+      "kode_wilayah": "12.13.01.1014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Pasar Hilir",
+      "kode_wilayah": "12.13.01.1022",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Pidoli Dolok",
+      "kode_wilayah": "12.13.01.1023",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Panyabungan II",
+      "kode_wilayah": "12.13.01.1031",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Panyabungan III",
+      "kode_wilayah": "12.13.01.1032",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Panyabungan I",
+      "kode_wilayah": "12.13.01.1033",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Sipolu-Polu",
+      "kode_wilayah": "12.13.01.1035",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Dalan Lidang",
+      "kode_wilayah": "12.13.01.1036",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Adian Jior",
+      "kode_wilayah": "12.13.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Aek Banir",
+      "kode_wilayah": "12.13.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Aek Mata",
+      "kode_wilayah": "12.13.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Darussalam",
+      "kode_wilayah": "12.13.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Gunung Barani",
+      "kode_wilayah": "12.13.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Gunung Manaon",
+      "kode_wilayah": "12.13.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Gunung Tua Jae",
+      "kode_wilayah": "12.13.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Gunung Tua Julu",
+      "kode_wilayah": "12.13.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Gunung Tua Tonga",
+      "kode_wilayah": "12.13.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Huta Lombang Lubis",
+      "kode_wilayah": "12.13.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Ipar Bondar",
+      "kode_wilayah": "12.13.01.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Kampung Padang",
+      "kode_wilayah": "12.13.01.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Lumban Pasir",
+      "kode_wilayah": "12.13.01.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Manyabar",
+      "kode_wilayah": "12.13.01.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Pagaran Tonga",
+      "kode_wilayah": "12.13.01.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Panyabungan Jae",
+      "kode_wilayah": "12.13.01.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Panyabungan Julu",
+      "kode_wilayah": "12.13.01.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Panyabungan Tonga",
+      "kode_wilayah": "12.13.01.2020",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Perbangunan",
+      "kode_wilayah": "12.13.01.2021",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Pidoli Lombang",
+      "kode_wilayah": "12.13.01.2024",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Salam Bue",
+      "kode_wilayah": "12.13.01.2025",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Sarak Matua",
+      "kode_wilayah": "12.13.01.2026",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Sigalapang Julu",
+      "kode_wilayah": "12.13.01.2027",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Siobon Julu",
+      "kode_wilayah": "12.13.01.2028",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Sipapaga",
+      "kode_wilayah": "12.13.01.2029",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Sopobatu",
+      "kode_wilayah": "12.13.01.2030",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Siobon Jae",
+      "kode_wilayah": "12.13.01.2037",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Panggorengan",
+      "kode_wilayah": "12.13.01.2038",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Saba Jambu",
+      "kode_wilayah": "12.13.01.2039",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    },
+    {
+      "nama_wilayah": "Manyabar Jae",
+      "kode_wilayah": "12.13.01.2040",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.13",
+      "kode_kecamatan": "12.13.01"
+    }
+  ]
+}

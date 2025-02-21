@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Sihonongan",
+      "kode_wilayah": "12.16.04.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.04"
+    },
+    {
+      "nama_wilayah": "Paranginan Selatan",
+      "kode_wilayah": "12.16.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.04"
+    },
+    {
+      "nama_wilayah": "Paranginan Utara",
+      "kode_wilayah": "12.16.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.04"
+    },
+    {
+      "nama_wilayah": "Lumban Sialaman",
+      "kode_wilayah": "12.16.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.04"
+    },
+    {
+      "nama_wilayah": "Pearung",
+      "kode_wilayah": "12.16.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.04"
+    },
+    {
+      "nama_wilayah": "Lobutolong",
+      "kode_wilayah": "12.16.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.04"
+    },
+    {
+      "nama_wilayah": "Lumban Barat",
+      "kode_wilayah": "12.16.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.04"
+    },
+    {
+      "nama_wilayah": "Siboru Torop",
+      "kode_wilayah": "12.16.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.04"
+    },
+    {
+      "nama_wilayah": "Pearung Silali",
+      "kode_wilayah": "12.16.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.04"
+    },
+    {
+      "nama_wilayah": "Lumban Sianturi",
+      "kode_wilayah": "12.16.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.04"
+    },
+    {
+      "nama_wilayah": "Lobutolong Habinsaran",
+      "kode_wilayah": "12.16.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.04"
+    }
+  ]
+}

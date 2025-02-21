@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Batulayar",
+      "kode_wilayah": "52.01.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.14"
+    },
+    {
+      "nama_wilayah": "Meninting",
+      "kode_wilayah": "52.01.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.14"
+    },
+    {
+      "nama_wilayah": "Sandik",
+      "kode_wilayah": "52.01.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.14"
+    },
+    {
+      "nama_wilayah": "Lembah Sari",
+      "kode_wilayah": "52.01.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.14"
+    },
+    {
+      "nama_wilayah": "Senteluk",
+      "kode_wilayah": "52.01.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.14"
+    },
+    {
+      "nama_wilayah": "Senggigi",
+      "kode_wilayah": "52.01.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.14"
+    },
+    {
+      "nama_wilayah": "Bengkaung",
+      "kode_wilayah": "52.01.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.14"
+    },
+    {
+      "nama_wilayah": "Pusuk Lestari",
+      "kode_wilayah": "52.01.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.14"
+    },
+    {
+      "nama_wilayah": "Batu Layar Barat",
+      "kode_wilayah": "52.01.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "52",
+      "kode_kabkota": "52.01",
+      "kode_kecamatan": "52.01.14"
+    }
+  ]
+}

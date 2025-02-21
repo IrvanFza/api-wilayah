@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Cibodas",
+      "kode_wilayah": "36.71.09.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.09"
+    },
+    {
+      "nama_wilayah": "Cibodas Sari",
+      "kode_wilayah": "36.71.09.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.09"
+    },
+    {
+      "nama_wilayah": "Cibodas Baru",
+      "kode_wilayah": "36.71.09.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.09"
+    },
+    {
+      "nama_wilayah": "Panunggangan Barat",
+      "kode_wilayah": "36.71.09.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.09"
+    },
+    {
+      "nama_wilayah": "Uwung Jaya",
+      "kode_wilayah": "36.71.09.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.09"
+    },
+    {
+      "nama_wilayah": "Jatiuwung",
+      "kode_wilayah": "36.71.09.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.71",
+      "kode_kecamatan": "36.71.09"
+    }
+  ]
+}

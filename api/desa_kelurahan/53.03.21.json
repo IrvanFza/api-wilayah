@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Lanaus",
+      "kode_wilayah": "53.03.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.21"
+    },
+    {
+      "nama_wilayah": "Letmafo",
+      "kode_wilayah": "53.03.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.21"
+    },
+    {
+      "nama_wilayah": "Tainsala",
+      "kode_wilayah": "53.03.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.21"
+    },
+    {
+      "nama_wilayah": "Maubesi",
+      "kode_wilayah": "53.03.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.21"
+    },
+    {
+      "nama_wilayah": "Sone",
+      "kode_wilayah": "53.03.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.21"
+    },
+    {
+      "nama_wilayah": "Letmafo Timur",
+      "kode_wilayah": "53.03.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.21"
+    },
+    {
+      "nama_wilayah": "Oehalo",
+      "kode_wilayah": "53.03.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.21"
+    }
+  ]
+}

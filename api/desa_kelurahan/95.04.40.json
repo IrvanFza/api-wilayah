@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Peyola",
+      "kode_wilayah": "95.04.40.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.40"
+    },
+    {
+      "nama_wilayah": "Kogotime",
+      "kode_wilayah": "95.04.40.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.40"
+    },
+    {
+      "nama_wilayah": "Gabunam",
+      "kode_wilayah": "95.04.40.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.40"
+    },
+    {
+      "nama_wilayah": "Gulak",
+      "kode_wilayah": "95.04.40.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.40"
+    },
+    {
+      "nama_wilayah": "Melaga",
+      "kode_wilayah": "95.04.40.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.40"
+    },
+    {
+      "nama_wilayah": "Ekoni",
+      "kode_wilayah": "95.04.40.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.40"
+    },
+    {
+      "nama_wilayah": "Minggen",
+      "kode_wilayah": "95.04.40.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.40"
+    },
+    {
+      "nama_wilayah": "Kandimbaga",
+      "kode_wilayah": "95.04.40.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.40"
+    },
+    {
+      "nama_wilayah": "Kinebe",
+      "kode_wilayah": "95.04.40.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.40"
+    },
+    {
+      "nama_wilayah": "Belela",
+      "kode_wilayah": "95.04.40.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.40"
+    }
+  ]
+}

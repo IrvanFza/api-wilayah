@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Anjir Serapat Timur",
+      "kode_wilayah": "62.03.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.03"
+    },
+    {
+      "nama_wilayah": "Anjir Serapat Tengah",
+      "kode_wilayah": "62.03.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.03"
+    },
+    {
+      "nama_wilayah": "Anjir Serapat Barat",
+      "kode_wilayah": "62.03.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.03"
+    },
+    {
+      "nama_wilayah": "Anjir Mambulau Timur",
+      "kode_wilayah": "62.03.03.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.03"
+    },
+    {
+      "nama_wilayah": "Anjir Mambulau Tengah",
+      "kode_wilayah": "62.03.03.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.03"
+    },
+    {
+      "nama_wilayah": "Anjir Mambulau Barat",
+      "kode_wilayah": "62.03.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.03"
+    },
+    {
+      "nama_wilayah": "Anjir Serapat Baru",
+      "kode_wilayah": "62.03.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "62",
+      "kode_kabkota": "62.03",
+      "kode_kecamatan": "62.03.03"
+    }
+  ]
+}

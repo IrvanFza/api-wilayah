@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Srimulya",
+      "kode_wilayah": "16.71.16.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.16"
+    },
+    {
+      "nama_wilayah": "Sukamulya",
+      "kode_wilayah": "16.71.16.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.16"
+    },
+    {
+      "nama_wilayah": "Lebung-Gajah",
+      "kode_wilayah": "16.71.16.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.16"
+    },
+    {
+      "nama_wilayah": "Karyamulya",
+      "kode_wilayah": "16.71.16.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.16"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Mangun Jayo",
+      "kode_wilayah": "15.08.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.08"
+    },
+    {
+      "nama_wilayah": "Tanjung Agung",
+      "kode_wilayah": "15.08.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.08"
+    },
+    {
+      "nama_wilayah": "Tebat",
+      "kode_wilayah": "15.08.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.08"
+    },
+    {
+      "nama_wilayah": "Baru Pusat Jalo",
+      "kode_wilayah": "15.08.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.08"
+    },
+    {
+      "nama_wilayah": "Bedaro",
+      "kode_wilayah": "15.08.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.08"
+    },
+    {
+      "nama_wilayah": "Tebing Tinggi",
+      "kode_wilayah": "15.08.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.08"
+    },
+    {
+      "nama_wilayah": "Datar",
+      "kode_wilayah": "15.08.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.08"
+    },
+    {
+      "nama_wilayah": "Suka Jaya",
+      "kode_wilayah": "15.08.08.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.08"
+    },
+    {
+      "nama_wilayah": "Pekan Jum-at",
+      "kode_wilayah": "15.08.08.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.08"
+    }
+  ]
+}

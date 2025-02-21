@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Karangkemojing",
+      "kode_wilayah": "33.02.15.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.15"
+    },
+    {
+      "nama_wilayah": "Paningkaban",
+      "kode_wilayah": "33.02.15.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.15"
+    },
+    {
+      "nama_wilayah": "Cihonje",
+      "kode_wilayah": "33.02.15.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.15"
+    },
+    {
+      "nama_wilayah": "Gancang",
+      "kode_wilayah": "33.02.15.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.15"
+    },
+    {
+      "nama_wilayah": "Kedungurang",
+      "kode_wilayah": "33.02.15.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.15"
+    },
+    {
+      "nama_wilayah": "Gumelar",
+      "kode_wilayah": "33.02.15.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.15"
+    },
+    {
+      "nama_wilayah": "Cilangkap",
+      "kode_wilayah": "33.02.15.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.15"
+    },
+    {
+      "nama_wilayah": "Tlaga",
+      "kode_wilayah": "33.02.15.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.15"
+    },
+    {
+      "nama_wilayah": "Samudra",
+      "kode_wilayah": "33.02.15.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.15"
+    },
+    {
+      "nama_wilayah": "Samudra Kulon",
+      "kode_wilayah": "33.02.15.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.02",
+      "kode_kecamatan": "33.02.15"
+    }
+  ]
+}

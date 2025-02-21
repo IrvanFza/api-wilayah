@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Tasipi",
+      "kode_wilayah": "74.13.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.08"
+    },
+    {
+      "nama_wilayah": "Mandike",
+      "kode_wilayah": "74.13.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.08"
+    },
+    {
+      "nama_wilayah": "Bero",
+      "kode_wilayah": "74.13.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.08"
+    },
+    {
+      "nama_wilayah": "Santigi",
+      "kode_wilayah": "74.13.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.08"
+    },
+    {
+      "nama_wilayah": "Tondasi",
+      "kode_wilayah": "74.13.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.08"
+    },
+    {
+      "nama_wilayah": "Santiri",
+      "kode_wilayah": "74.13.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.08"
+    },
+    {
+      "nama_wilayah": "Tiga",
+      "kode_wilayah": "74.13.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.13",
+      "kode_kecamatan": "74.13.08"
+    }
+  ]
+}

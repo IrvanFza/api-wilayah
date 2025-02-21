@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Naikliu",
+      "kode_wilayah": "53.01.13.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.13"
+    },
+    {
+      "nama_wilayah": "Afoan",
+      "kode_wilayah": "53.01.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.13"
+    },
+    {
+      "nama_wilayah": "Fatunaus",
+      "kode_wilayah": "53.01.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.13"
+    },
+    {
+      "nama_wilayah": "Kolabe",
+      "kode_wilayah": "53.01.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.13"
+    },
+    {
+      "nama_wilayah": "Bakuin",
+      "kode_wilayah": "53.01.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.13"
+    },
+    {
+      "nama_wilayah": "Lilmus",
+      "kode_wilayah": "53.01.13.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.13"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Melayu",
+      "kode_wilayah": "12.72.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.03"
+    },
+    {
+      "nama_wilayah": "Martoba",
+      "kode_wilayah": "12.72.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.03"
+    },
+    {
+      "nama_wilayah": "Baru",
+      "kode_wilayah": "12.72.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.03"
+    },
+    {
+      "nama_wilayah": "Sukadame",
+      "kode_wilayah": "12.72.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.03"
+    },
+    {
+      "nama_wilayah": "Kahean",
+      "kode_wilayah": "12.72.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.03"
+    },
+    {
+      "nama_wilayah": "Sigulanggulang",
+      "kode_wilayah": "12.72.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.03"
+    },
+    {
+      "nama_wilayah": "Bane",
+      "kode_wilayah": "12.72.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.03"
+    }
+  ]
+}

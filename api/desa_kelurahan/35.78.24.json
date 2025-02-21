@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Kutisari",
+      "kode_wilayah": "35.78.24.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.24"
+    },
+    {
+      "nama_wilayah": "Kendangsari",
+      "kode_wilayah": "35.78.24.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.24"
+    },
+    {
+      "nama_wilayah": "Tenggilis Mejoyo",
+      "kode_wilayah": "35.78.24.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.24"
+    },
+    {
+      "nama_wilayah": "Panjang Jiwo",
+      "kode_wilayah": "35.78.24.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.78",
+      "kode_kecamatan": "35.78.24"
+    }
+  ]
+}

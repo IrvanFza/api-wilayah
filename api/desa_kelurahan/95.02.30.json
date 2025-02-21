@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Jetfa",
+      "kode_wilayah": "95.02.30.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.30"
+    },
+    {
+      "nama_wilayah": "Lulis",
+      "kode_wilayah": "95.02.30.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.30"
+    },
+    {
+      "nama_wilayah": "Tupalma Satu",
+      "kode_wilayah": "95.02.30.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.30"
+    },
+    {
+      "nama_wilayah": "Tupalma Dua",
+      "kode_wilayah": "95.02.30.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.30"
+    },
+    {
+      "nama_wilayah": "Kalimbu",
+      "kode_wilayah": "95.02.30.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.30"
+    },
+    {
+      "nama_wilayah": "Bris",
+      "kode_wilayah": "95.02.30.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.02",
+      "kode_kecamatan": "95.02.30"
+    }
+  ]
+}

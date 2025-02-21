@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Muara Buat",
+      "kode_wilayah": "15.08.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.14"
+    },
+    {
+      "nama_wilayah": "Buat",
+      "kode_wilayah": "15.08.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.14"
+    },
+    {
+      "nama_wilayah": "Laman Panjang",
+      "kode_wilayah": "15.08.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.14"
+    },
+    {
+      "nama_wilayah": "Karak Apung",
+      "kode_wilayah": "15.08.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.14"
+    },
+    {
+      "nama_wilayah": "Timbolasi",
+      "kode_wilayah": "15.08.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.14"
+    },
+    {
+      "nama_wilayah": "Senamat Ulu",
+      "kode_wilayah": "15.08.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.14"
+    },
+    {
+      "nama_wilayah": "Aur Cino",
+      "kode_wilayah": "15.08.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.14"
+    },
+    {
+      "nama_wilayah": "Lubuk Beringin",
+      "kode_wilayah": "15.08.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.14"
+    },
+    {
+      "nama_wilayah": "Sungai Telang",
+      "kode_wilayah": "15.08.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.08",
+      "kode_kecamatan": "15.08.14"
+    }
+  ]
+}

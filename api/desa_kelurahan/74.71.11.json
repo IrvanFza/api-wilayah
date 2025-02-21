@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tobimeita",
+      "kode_wilayah": "74.71.11.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.11"
+    },
+    {
+      "nama_wilayah": "Petoaha",
+      "kode_wilayah": "74.71.11.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.11"
+    },
+    {
+      "nama_wilayah": "Nambo",
+      "kode_wilayah": "74.71.11.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.11"
+    },
+    {
+      "nama_wilayah": "Bungkutoko",
+      "kode_wilayah": "74.71.11.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.11"
+    },
+    {
+      "nama_wilayah": "Sambuli",
+      "kode_wilayah": "74.71.11.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.11"
+    },
+    {
+      "nama_wilayah": "Tondonggeu",
+      "kode_wilayah": "74.71.11.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "74",
+      "kode_kabkota": "74.71",
+      "kode_kecamatan": "74.71.11"
+    }
+  ]
+}

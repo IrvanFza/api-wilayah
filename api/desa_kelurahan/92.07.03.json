@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Aisandami",
+      "kode_wilayah": "92.07.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.03"
+    },
+    {
+      "nama_wilayah": "Sobey",
+      "kode_wilayah": "92.07.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.03"
+    },
+    {
+      "nama_wilayah": "Yopanggar",
+      "kode_wilayah": "92.07.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.03"
+    },
+    {
+      "nama_wilayah": "Sobey Indah",
+      "kode_wilayah": "92.07.03.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "92",
+      "kode_kabkota": "92.07",
+      "kode_kecamatan": "92.07.03"
+    }
+  ]
+}

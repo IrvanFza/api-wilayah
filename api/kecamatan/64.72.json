@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Palaran",
+      "kode_wilayah": "64.72.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.72",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Samarinda Seberang",
+      "kode_wilayah": "64.72.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.72",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Samarinda Ulu",
+      "kode_wilayah": "64.72.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.72",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Samarinda Ilir",
+      "kode_wilayah": "64.72.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.72",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Samarinda Utara",
+      "kode_wilayah": "64.72.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.72",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Sungai Kunjang",
+      "kode_wilayah": "64.72.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.72",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Sambutan",
+      "kode_wilayah": "64.72.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.72",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Sungai Pinang",
+      "kode_wilayah": "64.72.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.72",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Samarinda Kota",
+      "kode_wilayah": "64.72.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.72",
+      "kode_provinsi": "64"
+    },
+    {
+      "nama_wilayah": "Loa Janan Ilir",
+      "kode_wilayah": "64.72.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "64.72",
+      "kode_provinsi": "64"
+    }
+  ]
+}

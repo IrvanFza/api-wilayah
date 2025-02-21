@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Jrebeng Kulon",
+      "kode_wilayah": "35.74.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.05"
+    },
+    {
+      "nama_wilayah": "Kareng Lor",
+      "kode_wilayah": "35.74.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.05"
+    },
+    {
+      "nama_wilayah": "Sumber Wetan",
+      "kode_wilayah": "35.74.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.05"
+    },
+    {
+      "nama_wilayah": "Jrebeng Lor",
+      "kode_wilayah": "35.74.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.05"
+    },
+    {
+      "nama_wilayah": "Kedopok",
+      "kode_wilayah": "35.74.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.05"
+    },
+    {
+      "nama_wilayah": "Jrebeng Wetan",
+      "kode_wilayah": "35.74.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.74",
+      "kode_kecamatan": "35.74.05"
+    }
+  ]
+}

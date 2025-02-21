@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Simpang Belutu",
+      "kode_wilayah": "14.08.10.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.10"
+    },
+    {
+      "nama_wilayah": "Telaga Sam-sam",
+      "kode_wilayah": "14.08.10.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.10"
+    },
+    {
+      "nama_wilayah": "Kandis Kota",
+      "kode_wilayah": "14.08.10.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.10"
+    },
+    {
+      "nama_wilayah": "Belutu",
+      "kode_wilayah": "14.08.10.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.10"
+    },
+    {
+      "nama_wilayah": "Kandis",
+      "kode_wilayah": "14.08.10.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.10"
+    },
+    {
+      "nama_wilayah": "Sam-Sam",
+      "kode_wilayah": "14.08.10.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.10"
+    },
+    {
+      "nama_wilayah": "Bekalar",
+      "kode_wilayah": "14.08.10.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.10"
+    },
+    {
+      "nama_wilayah": "Jambai Makmur",
+      "kode_wilayah": "14.08.10.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.10"
+    },
+    {
+      "nama_wilayah": "Sungai Gondang",
+      "kode_wilayah": "14.08.10.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.10"
+    },
+    {
+      "nama_wilayah": "Pencing Bekulo",
+      "kode_wilayah": "14.08.10.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.10"
+    },
+    {
+      "nama_wilayah": "Libo Jaya",
+      "kode_wilayah": "14.08.10.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.08",
+      "kode_kecamatan": "14.08.10"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Lumut",
+      "kode_wilayah": "12.01.19.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.19"
+    },
+    {
+      "nama_wilayah": "Aek Gambir",
+      "kode_wilayah": "12.01.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.19"
+    },
+    {
+      "nama_wilayah": "Masundung",
+      "kode_wilayah": "12.01.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.19"
+    },
+    {
+      "nama_wilayah": "Lumut Nauli",
+      "kode_wilayah": "12.01.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.19"
+    },
+    {
+      "nama_wilayah": "Lumut Maju",
+      "kode_wilayah": "12.01.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.19"
+    },
+    {
+      "nama_wilayah": "Sialogo",
+      "kode_wilayah": "12.01.19.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.01",
+      "kode_kecamatan": "12.01.19"
+    }
+  ]
+}

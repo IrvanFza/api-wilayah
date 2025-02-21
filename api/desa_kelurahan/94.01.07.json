@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Makimi",
+      "kode_wilayah": "94.01.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.01",
+      "kode_kecamatan": "94.01.07"
+    },
+    {
+      "nama_wilayah": "Nifasi",
+      "kode_wilayah": "94.01.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.01",
+      "kode_kecamatan": "94.01.07"
+    },
+    {
+      "nama_wilayah": "Biha",
+      "kode_wilayah": "94.01.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.01",
+      "kode_kecamatan": "94.01.07"
+    },
+    {
+      "nama_wilayah": "Lagari Jaya",
+      "kode_wilayah": "94.01.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.01",
+      "kode_kecamatan": "94.01.07"
+    },
+    {
+      "nama_wilayah": "Maidei",
+      "kode_wilayah": "94.01.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.01",
+      "kode_kecamatan": "94.01.07"
+    },
+    {
+      "nama_wilayah": "Manunggal Jaya",
+      "kode_wilayah": "94.01.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.01",
+      "kode_kecamatan": "94.01.07"
+    }
+  ]
+}

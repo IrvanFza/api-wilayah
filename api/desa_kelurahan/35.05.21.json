@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Banjarsari",
+      "kode_wilayah": "35.05.21.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.21"
+    },
+    {
+      "nama_wilayah": "Pohgajih",
+      "kode_wilayah": "35.05.21.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.21"
+    },
+    {
+      "nama_wilayah": "Selorejo",
+      "kode_wilayah": "35.05.21.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.21"
+    },
+    {
+      "nama_wilayah": "Sumberagung",
+      "kode_wilayah": "35.05.21.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.21"
+    },
+    {
+      "nama_wilayah": "Ngrendeng",
+      "kode_wilayah": "35.05.21.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.21"
+    },
+    {
+      "nama_wilayah": "Sidomulyo",
+      "kode_wilayah": "35.05.21.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.21"
+    },
+    {
+      "nama_wilayah": "Ampelgading",
+      "kode_wilayah": "35.05.21.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.21"
+    },
+    {
+      "nama_wilayah": "Olak Alen",
+      "kode_wilayah": "35.05.21.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.21"
+    },
+    {
+      "nama_wilayah": "Boro",
+      "kode_wilayah": "35.05.21.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.21"
+    },
+    {
+      "nama_wilayah": "Ngreco",
+      "kode_wilayah": "35.05.21.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.05",
+      "kode_kecamatan": "35.05.21"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Kricak",
+      "kode_wilayah": "34.71.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.71",
+      "kode_kecamatan": "34.71.01"
+    },
+    {
+      "nama_wilayah": "Karangwaru",
+      "kode_wilayah": "34.71.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.71",
+      "kode_kecamatan": "34.71.01"
+    },
+    {
+      "nama_wilayah": "Tegalrejo",
+      "kode_wilayah": "34.71.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.71",
+      "kode_kecamatan": "34.71.01"
+    },
+    {
+      "nama_wilayah": "Bener",
+      "kode_wilayah": "34.71.01.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "34",
+      "kode_kabkota": "34.71",
+      "kode_kecamatan": "34.71.01"
+    }
+  ]
+}

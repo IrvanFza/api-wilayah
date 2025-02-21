@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Asam Kumbang",
+      "kode_wilayah": "12.71.21.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.21"
+    },
+    {
+      "nama_wilayah": "Tanjungsari",
+      "kode_wilayah": "12.71.21.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.21"
+    },
+    {
+      "nama_wilayah": "P Bulan Selayang II",
+      "kode_wilayah": "12.71.21.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.21"
+    },
+    {
+      "nama_wilayah": "Beringin",
+      "kode_wilayah": "12.71.21.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.21"
+    },
+    {
+      "nama_wilayah": "P Bulan Selayang I",
+      "kode_wilayah": "12.71.21.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.21"
+    },
+    {
+      "nama_wilayah": "Sempakata",
+      "kode_wilayah": "12.71.21.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.71",
+      "kode_kecamatan": "12.71.21"
+    }
+  ]
+}

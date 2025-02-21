@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Kembu",
+      "kode_wilayah": "95.04.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.04"
+    },
+    {
+      "nama_wilayah": "Mamit",
+      "kode_wilayah": "95.04.04.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.04"
+    },
+    {
+      "nama_wilayah": "Yowo",
+      "kode_wilayah": "95.04.04.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.04"
+    },
+    {
+      "nama_wilayah": "Nugari",
+      "kode_wilayah": "95.04.04.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.04"
+    },
+    {
+      "nama_wilayah": "Kobon",
+      "kode_wilayah": "95.04.04.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.04"
+    },
+    {
+      "nama_wilayah": "Kabori",
+      "kode_wilayah": "95.04.04.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.04"
+    },
+    {
+      "nama_wilayah": "Genani",
+      "kode_wilayah": "95.04.04.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.04"
+    },
+    {
+      "nama_wilayah": "Wulinaga",
+      "kode_wilayah": "95.04.04.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.04"
+    },
+    {
+      "nama_wilayah": "Aworera",
+      "kode_wilayah": "95.04.04.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.04"
+    },
+    {
+      "nama_wilayah": "Agimdek",
+      "kode_wilayah": "95.04.04.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.04"
+    },
+    {
+      "nama_wilayah": "Tioga",
+      "kode_wilayah": "95.04.04.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.04",
+      "kode_kecamatan": "95.04.04"
+    }
+  ]
+}

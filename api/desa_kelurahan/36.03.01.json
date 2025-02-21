@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Balaraja",
+      "kode_wilayah": "36.03.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.01"
+    },
+    {
+      "nama_wilayah": "Cangkudu",
+      "kode_wilayah": "36.03.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.01"
+    },
+    {
+      "nama_wilayah": "Talagasari",
+      "kode_wilayah": "36.03.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.01"
+    },
+    {
+      "nama_wilayah": "Tobat",
+      "kode_wilayah": "36.03.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.01"
+    },
+    {
+      "nama_wilayah": "Sentul",
+      "kode_wilayah": "36.03.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.01"
+    },
+    {
+      "nama_wilayah": "Gembong",
+      "kode_wilayah": "36.03.01.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.01"
+    },
+    {
+      "nama_wilayah": "Sukamurni",
+      "kode_wilayah": "36.03.01.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.01"
+    },
+    {
+      "nama_wilayah": "Saga",
+      "kode_wilayah": "36.03.01.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.01"
+    },
+    {
+      "nama_wilayah": "Sentul Jaya",
+      "kode_wilayah": "36.03.01.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "36",
+      "kode_kabkota": "36.03",
+      "kode_kecamatan": "36.03.01"
+    }
+  ]
+}

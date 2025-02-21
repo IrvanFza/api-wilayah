@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Parit Baru",
+      "kode_wilayah": "61.01.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.18"
+    },
+    {
+      "nama_wilayah": "Sungai Toman",
+      "kode_wilayah": "61.01.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.18"
+    },
+    {
+      "nama_wilayah": "Serunai",
+      "kode_wilayah": "61.01.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.18"
+    },
+    {
+      "nama_wilayah": "Serumpun",
+      "kode_wilayah": "61.01.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.18"
+    },
+    {
+      "nama_wilayah": "Salatiga",
+      "kode_wilayah": "61.01.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "61",
+      "kode_kabkota": "61.01",
+      "kode_kecamatan": "61.01.18"
+    }
+  ]
+}

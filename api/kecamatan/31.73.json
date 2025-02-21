@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Cengkareng",
+      "kode_wilayah": "31.73.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.73",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Grogol Petamburan",
+      "kode_wilayah": "31.73.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.73",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Taman Sari",
+      "kode_wilayah": "31.73.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.73",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Tambora",
+      "kode_wilayah": "31.73.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.73",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Kebon Jeruk",
+      "kode_wilayah": "31.73.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.73",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Kalideres",
+      "kode_wilayah": "31.73.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.73",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Pal Merah",
+      "kode_wilayah": "31.73.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.73",
+      "kode_provinsi": "31"
+    },
+    {
+      "nama_wilayah": "Kembangan",
+      "kode_wilayah": "31.73.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "31.73",
+      "kode_provinsi": "31"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Gedog",
+      "kode_wilayah": "35.72.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.72",
+      "kode_kecamatan": "35.72.03"
+    },
+    {
+      "nama_wilayah": "Plosokerep",
+      "kode_wilayah": "35.72.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.72",
+      "kode_kecamatan": "35.72.03"
+    },
+    {
+      "nama_wilayah": "Klampok",
+      "kode_wilayah": "35.72.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.72",
+      "kode_kecamatan": "35.72.03"
+    },
+    {
+      "nama_wilayah": "Sananwetan",
+      "kode_wilayah": "35.72.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.72",
+      "kode_kecamatan": "35.72.03"
+    },
+    {
+      "nama_wilayah": "Rembang",
+      "kode_wilayah": "35.72.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.72",
+      "kode_kecamatan": "35.72.03"
+    },
+    {
+      "nama_wilayah": "Karangtengah",
+      "kode_wilayah": "35.72.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.72",
+      "kode_kecamatan": "35.72.03"
+    },
+    {
+      "nama_wilayah": "Bendogerit",
+      "kode_wilayah": "35.72.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.72",
+      "kode_kecamatan": "35.72.03"
+    }
+  ]
+}

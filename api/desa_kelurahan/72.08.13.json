@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "total": 9,
+  "data": [
+    {
+      "nama_wilayah": "Tomoli",
+      "kode_wilayah": "72.08.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.13"
+    },
+    {
+      "nama_wilayah": "Toribulu",
+      "kode_wilayah": "72.08.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.13"
+    },
+    {
+      "nama_wilayah": "Sienjo",
+      "kode_wilayah": "72.08.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.13"
+    },
+    {
+      "nama_wilayah": "Pinotu",
+      "kode_wilayah": "72.08.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.13"
+    },
+    {
+      "nama_wilayah": "Singura",
+      "kode_wilayah": "72.08.13.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.13"
+    },
+    {
+      "nama_wilayah": "Tomoli Selatan",
+      "kode_wilayah": "72.08.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.13"
+    },
+    {
+      "nama_wilayah": "Sibalago",
+      "kode_wilayah": "72.08.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.13"
+    },
+    {
+      "nama_wilayah": "Toribulu Selatan",
+      "kode_wilayah": "72.08.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.13"
+    },
+    {
+      "nama_wilayah": "Tomoli Utara",
+      "kode_wilayah": "72.08.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.08",
+      "kode_kecamatan": "72.08.13"
+    }
+  ]
+}

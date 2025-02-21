@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total": 5,
+  "data": [
+    {
+      "nama_wilayah": "Pantoloan",
+      "kode_wilayah": "72.71.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.07"
+    },
+    {
+      "nama_wilayah": "Pantoloan Boya",
+      "kode_wilayah": "72.71.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.07"
+    },
+    {
+      "nama_wilayah": "Baiya",
+      "kode_wilayah": "72.71.07.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.07"
+    },
+    {
+      "nama_wilayah": "Lambara",
+      "kode_wilayah": "72.71.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.07"
+    },
+    {
+      "nama_wilayah": "Panawu",
+      "kode_wilayah": "72.71.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.71",
+      "kode_kecamatan": "72.71.07"
+    }
+  ]
+}

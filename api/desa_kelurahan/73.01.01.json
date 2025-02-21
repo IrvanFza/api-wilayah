@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "total": 3,
+  "data": [
+    {
+      "nama_wilayah": "Benteng Utara",
+      "kode_wilayah": "73.01.01.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.01"
+    },
+    {
+      "nama_wilayah": "Benteng",
+      "kode_wilayah": "73.01.01.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.01"
+    },
+    {
+      "nama_wilayah": "Benteng Selatan",
+      "kode_wilayah": "73.01.01.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.01",
+      "kode_kecamatan": "73.01.01"
+    }
+  ]
+}

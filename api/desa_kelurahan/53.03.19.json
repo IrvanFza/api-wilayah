@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Fafinesu A",
+      "kode_wilayah": "53.03.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.19"
+    },
+    {
+      "nama_wilayah": "Fafinesu B",
+      "kode_wilayah": "53.03.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.19"
+    },
+    {
+      "nama_wilayah": "Fafinesu C",
+      "kode_wilayah": "53.03.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.19"
+    },
+    {
+      "nama_wilayah": "Oenain",
+      "kode_wilayah": "53.03.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.19"
+    },
+    {
+      "nama_wilayah": "Baunuan",
+      "kode_wilayah": "53.03.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.19"
+    },
+    {
+      "nama_wilayah": "Fafinesu",
+      "kode_wilayah": "53.03.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.03",
+      "kode_kecamatan": "53.03.19"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Batunajagar",
+      "kode_wilayah": "12.16.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.07"
+    },
+    {
+      "nama_wilayah": "Sanggaran I",
+      "kode_wilayah": "12.16.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.07"
+    },
+    {
+      "nama_wilayah": "Sitapongan",
+      "kode_wilayah": "12.16.07.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.07"
+    },
+    {
+      "nama_wilayah": "Sigulok",
+      "kode_wilayah": "12.16.07.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.07"
+    },
+    {
+      "nama_wilayah": "Hutaginjang",
+      "kode_wilayah": "12.16.07.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.07"
+    },
+    {
+      "nama_wilayah": "Siborboron",
+      "kode_wilayah": "12.16.07.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.07"
+    },
+    {
+      "nama_wilayah": "Bonan Dolok I",
+      "kode_wilayah": "12.16.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.07"
+    },
+    {
+      "nama_wilayah": "Bonan Dolok II",
+      "kode_wilayah": "12.16.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.07"
+    },
+    {
+      "nama_wilayah": "Sibuntuon",
+      "kode_wilayah": "12.16.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.07"
+    },
+    {
+      "nama_wilayah": "Nagurguran",
+      "kode_wilayah": "12.16.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.16",
+      "kode_kecamatan": "12.16.07"
+    }
+  ]
+}

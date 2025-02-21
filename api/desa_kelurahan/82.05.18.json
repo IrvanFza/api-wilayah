@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Man-Gega",
+      "kode_wilayah": "82.05.18.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.18"
+    },
+    {
+      "nama_wilayah": "Bajo",
+      "kode_wilayah": "82.05.18.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.18"
+    },
+    {
+      "nama_wilayah": "Pohea",
+      "kode_wilayah": "82.05.18.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.18"
+    },
+    {
+      "nama_wilayah": "Fukweu",
+      "kode_wilayah": "82.05.18.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.18"
+    },
+    {
+      "nama_wilayah": "Wainin",
+      "kode_wilayah": "82.05.18.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.18"
+    },
+    {
+      "nama_wilayah": "Malbufa",
+      "kode_wilayah": "82.05.18.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.18"
+    },
+    {
+      "nama_wilayah": "Fokalik",
+      "kode_wilayah": "82.05.18.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "82",
+      "kode_kabkota": "82.05",
+      "kode_kecamatan": "82.05.18"
+    }
+  ]
+}

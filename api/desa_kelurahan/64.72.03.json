@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Teluk Lerong Ilir",
+      "kode_wilayah": "64.72.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.03"
+    },
+    {
+      "nama_wilayah": "Jawa",
+      "kode_wilayah": "64.72.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.03"
+    },
+    {
+      "nama_wilayah": "Air Putih",
+      "kode_wilayah": "64.72.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.03"
+    },
+    {
+      "nama_wilayah": "Sidodadi",
+      "kode_wilayah": "64.72.03.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.03"
+    },
+    {
+      "nama_wilayah": "Air Hitam",
+      "kode_wilayah": "64.72.03.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.03"
+    },
+    {
+      "nama_wilayah": "Dadi Mulya",
+      "kode_wilayah": "64.72.03.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.03"
+    },
+    {
+      "nama_wilayah": "Gunung Kelua",
+      "kode_wilayah": "64.72.03.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.03"
+    },
+    {
+      "nama_wilayah": "Bukit Pinang",
+      "kode_wilayah": "64.72.03.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.72",
+      "kode_kecamatan": "64.72.03"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Alang-Alang Lebar",
+      "kode_wilayah": "16.71.15.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.15"
+    },
+    {
+      "nama_wilayah": "Srijaya",
+      "kode_wilayah": "16.71.15.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.15"
+    },
+    {
+      "nama_wilayah": "Talangkelapa",
+      "kode_wilayah": "16.71.15.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.15"
+    },
+    {
+      "nama_wilayah": "Karyabaru",
+      "kode_wilayah": "16.71.15.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "16",
+      "kode_kabkota": "16.71",
+      "kode_kecamatan": "16.71.15"
+    }
+  ]
+}

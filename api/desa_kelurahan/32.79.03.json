@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Purwaharja",
+      "kode_wilayah": "32.79.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.79",
+      "kode_kecamatan": "32.79.03"
+    },
+    {
+      "nama_wilayah": "Raharja",
+      "kode_wilayah": "32.79.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.79",
+      "kode_kecamatan": "32.79.03"
+    },
+    {
+      "nama_wilayah": "Mekarharja",
+      "kode_wilayah": "32.79.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.79",
+      "kode_kecamatan": "32.79.03"
+    },
+    {
+      "nama_wilayah": "Karangpanimbal",
+      "kode_wilayah": "32.79.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.79",
+      "kode_kecamatan": "32.79.03"
+    }
+  ]
+}

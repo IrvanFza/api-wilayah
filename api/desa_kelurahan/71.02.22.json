@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kayuuwi",
+      "kode_wilayah": "71.02.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.22"
+    },
+    {
+      "nama_wilayah": "Kayuuwi Satu",
+      "kode_wilayah": "71.02.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.22"
+    },
+    {
+      "nama_wilayah": "Kanonang Satu",
+      "kode_wilayah": "71.02.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.22"
+    },
+    {
+      "nama_wilayah": "Kanonang Dua",
+      "kode_wilayah": "71.02.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.22"
+    },
+    {
+      "nama_wilayah": "Kanonang Empat",
+      "kode_wilayah": "71.02.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.22"
+    },
+    {
+      "nama_wilayah": "Kanonang Lima",
+      "kode_wilayah": "71.02.22.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.22"
+    },
+    {
+      "nama_wilayah": "Tombasian Atas",
+      "kode_wilayah": "71.02.22.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.22"
+    },
+    {
+      "nama_wilayah": "Tombasian Atas Satu",
+      "kode_wilayah": "71.02.22.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.22"
+    },
+    {
+      "nama_wilayah": "Tombasian Bawah",
+      "kode_wilayah": "71.02.22.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.22"
+    },
+    {
+      "nama_wilayah": "Ranolambot",
+      "kode_wilayah": "71.02.22.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.02",
+      "kode_kecamatan": "71.02.22"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Leuweunggajah",
+      "kode_wilayah": "32.09.02.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.02"
+    },
+    {
+      "nama_wilayah": "Tenjomaya",
+      "kode_wilayah": "32.09.02.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.02"
+    },
+    {
+      "nama_wilayah": "Damarguna",
+      "kode_wilayah": "32.09.02.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.02"
+    },
+    {
+      "nama_wilayah": "Jatiseeng",
+      "kode_wilayah": "32.09.02.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.02"
+    },
+    {
+      "nama_wilayah": "Jatiseeng Kidul",
+      "kode_wilayah": "32.09.02.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.02"
+    },
+    {
+      "nama_wilayah": "Ciledug Kulon",
+      "kode_wilayah": "32.09.02.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.02"
+    },
+    {
+      "nama_wilayah": "Ciledug Wetan",
+      "kode_wilayah": "32.09.02.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.02"
+    },
+    {
+      "nama_wilayah": "Ciledug Lor",
+      "kode_wilayah": "32.09.02.2015",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.02"
+    },
+    {
+      "nama_wilayah": "Ciledug Tengah",
+      "kode_wilayah": "32.09.02.2016",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.02"
+    },
+    {
+      "nama_wilayah": "Bojongnegara",
+      "kode_wilayah": "32.09.02.2017",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.02"
+    }
+  ]
+}

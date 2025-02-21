@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Pasirkaliki",
+      "kode_wilayah": "32.77.03.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.77",
+      "kode_kecamatan": "32.77.03"
+    },
+    {
+      "nama_wilayah": "Cibabat",
+      "kode_wilayah": "32.77.03.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.77",
+      "kode_kecamatan": "32.77.03"
+    },
+    {
+      "nama_wilayah": "Citeureup",
+      "kode_wilayah": "32.77.03.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.77",
+      "kode_kecamatan": "32.77.03"
+    },
+    {
+      "nama_wilayah": "Cipageran",
+      "kode_wilayah": "32.77.03.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.77",
+      "kode_kecamatan": "32.77.03"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Wanayasa",
+      "kode_wilayah": "32.09.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.13"
+    },
+    {
+      "nama_wilayah": "Sindangkasih",
+      "kode_wilayah": "32.09.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.13"
+    },
+    {
+      "nama_wilayah": "Sindanghayu",
+      "kode_wilayah": "32.09.13.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.13"
+    },
+    {
+      "nama_wilayah": "Ciawigajah",
+      "kode_wilayah": "32.09.13.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.13"
+    },
+    {
+      "nama_wilayah": "Cikancas",
+      "kode_wilayah": "32.09.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.13"
+    },
+    {
+      "nama_wilayah": "Halimpu",
+      "kode_wilayah": "32.09.13.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.13"
+    },
+    {
+      "nama_wilayah": "Cipinang",
+      "kode_wilayah": "32.09.13.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.13"
+    },
+    {
+      "nama_wilayah": "Beber",
+      "kode_wilayah": "32.09.13.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.13"
+    },
+    {
+      "nama_wilayah": "Patapan",
+      "kode_wilayah": "32.09.13.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.13"
+    },
+    {
+      "nama_wilayah": "Kondangsari",
+      "kode_wilayah": "32.09.13.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.09",
+      "kode_kecamatan": "32.09.13"
+    }
+  ]
+}

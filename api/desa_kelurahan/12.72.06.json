@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sumber Jaya",
+      "kode_wilayah": "12.72.06.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.06"
+    },
+    {
+      "nama_wilayah": "Tambun Nabolon",
+      "kode_wilayah": "12.72.06.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.06"
+    },
+    {
+      "nama_wilayah": "Naga Pita",
+      "kode_wilayah": "12.72.06.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.06"
+    },
+    {
+      "nama_wilayah": "Pondok Sayur",
+      "kode_wilayah": "12.72.06.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.06"
+    },
+    {
+      "nama_wilayah": "Tanjung Tongah",
+      "kode_wilayah": "12.72.06.1009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.06"
+    },
+    {
+      "nama_wilayah": "Naga Pitu",
+      "kode_wilayah": "12.72.06.1010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.06"
+    },
+    {
+      "nama_wilayah": "Tanjung Pinggir",
+      "kode_wilayah": "12.72.06.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.72",
+      "kode_kecamatan": "12.72.06"
+    }
+  ]
+}

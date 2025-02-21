@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Lubuk Gaung",
+      "kode_wilayah": "14.72.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.72",
+      "kode_kecamatan": "14.72.04"
+    },
+    {
+      "nama_wilayah": "Tanjung Penyembal",
+      "kode_wilayah": "14.72.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.72",
+      "kode_kecamatan": "14.72.04"
+    },
+    {
+      "nama_wilayah": "Bangsal Aceh",
+      "kode_wilayah": "14.72.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.72",
+      "kode_kecamatan": "14.72.04"
+    },
+    {
+      "nama_wilayah": "Basilam Baru",
+      "kode_wilayah": "14.72.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.72",
+      "kode_kecamatan": "14.72.04"
+    },
+    {
+      "nama_wilayah": "Batu Teritip",
+      "kode_wilayah": "14.72.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.72",
+      "kode_kecamatan": "14.72.04"
+    },
+    {
+      "nama_wilayah": "Sungai Geniot",
+      "kode_wilayah": "14.72.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.72",
+      "kode_kecamatan": "14.72.04"
+    }
+  ]
+}

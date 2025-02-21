@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pintu Rime Gayo",
+      "kode_wilayah": "11.17.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.17",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Permata",
+      "kode_wilayah": "11.17.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.17",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Syiah Utama",
+      "kode_wilayah": "11.17.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.17",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Bandar",
+      "kode_wilayah": "11.17.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.17",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Bukit",
+      "kode_wilayah": "11.17.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.17",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Wih Pesam",
+      "kode_wilayah": "11.17.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.17",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Timang gajah",
+      "kode_wilayah": "11.17.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.17",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Bener Kelipah",
+      "kode_wilayah": "11.17.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.17",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Mesidah",
+      "kode_wilayah": "11.17.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.17",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Gajah Putih",
+      "kode_wilayah": "11.17.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.17",
+      "kode_provinsi": "11"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Bajera",
+      "kode_wilayah": "51.02.01.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.02",
+      "kode_kecamatan": "51.02.01"
+    },
+    {
+      "nama_wilayah": "Wanagiri",
+      "kode_wilayah": "51.02.01.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.02",
+      "kode_kecamatan": "51.02.01"
+    },
+    {
+      "nama_wilayah": "Pupuan Sawah",
+      "kode_wilayah": "51.02.01.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.02",
+      "kode_kecamatan": "51.02.01"
+    },
+    {
+      "nama_wilayah": "Berembeng",
+      "kode_wilayah": "51.02.01.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.02",
+      "kode_kecamatan": "51.02.01"
+    },
+    {
+      "nama_wilayah": "Selemadeg",
+      "kode_wilayah": "51.02.01.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.02",
+      "kode_kecamatan": "51.02.01"
+    },
+    {
+      "nama_wilayah": "Serampingan",
+      "kode_wilayah": "51.02.01.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.02",
+      "kode_kecamatan": "51.02.01"
+    },
+    {
+      "nama_wilayah": "Antap",
+      "kode_wilayah": "51.02.01.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.02",
+      "kode_kecamatan": "51.02.01"
+    },
+    {
+      "nama_wilayah": "Wanagiri Kauh",
+      "kode_wilayah": "51.02.01.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.02",
+      "kode_kecamatan": "51.02.01"
+    },
+    {
+      "nama_wilayah": "Manikyang",
+      "kode_wilayah": "51.02.01.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.02",
+      "kode_kecamatan": "51.02.01"
+    },
+    {
+      "nama_wilayah": "Bajera Utara",
+      "kode_wilayah": "51.02.01.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.02",
+      "kode_kecamatan": "51.02.01"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kajong",
+      "kode_wilayah": "53.10.16.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.10",
+      "kode_kecamatan": "53.10.16"
+    },
+    {
+      "nama_wilayah": "Lante",
+      "kode_wilayah": "53.10.16.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.10",
+      "kode_kecamatan": "53.10.16"
+    },
+    {
+      "nama_wilayah": "Toe",
+      "kode_wilayah": "53.10.16.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.10",
+      "kode_kecamatan": "53.10.16"
+    },
+    {
+      "nama_wilayah": "Sambi",
+      "kode_wilayah": "53.10.16.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.10",
+      "kode_kecamatan": "53.10.16"
+    },
+    {
+      "nama_wilayah": "Nggalak",
+      "kode_wilayah": "53.10.16.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.10",
+      "kode_kecamatan": "53.10.16"
+    },
+    {
+      "nama_wilayah": "Loce",
+      "kode_wilayah": "53.10.16.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.10",
+      "kode_kecamatan": "53.10.16"
+    },
+    {
+      "nama_wilayah": "Lemarang",
+      "kode_wilayah": "53.10.16.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.10",
+      "kode_kecamatan": "53.10.16"
+    },
+    {
+      "nama_wilayah": "Torong Koe",
+      "kode_wilayah": "53.10.16.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.10",
+      "kode_kecamatan": "53.10.16"
+    },
+    {
+      "nama_wilayah": "Para Lando",
+      "kode_wilayah": "53.10.16.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.10",
+      "kode_kecamatan": "53.10.16"
+    },
+    {
+      "nama_wilayah": "Rura",
+      "kode_wilayah": "53.10.16.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.10",
+      "kode_kecamatan": "53.10.16"
+    }
+  ]
+}

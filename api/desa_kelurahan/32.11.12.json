@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Sukasari",
+      "kode_wilayah": "32.11.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.12"
+    },
+    {
+      "nama_wilayah": "Genteng",
+      "kode_wilayah": "32.11.12.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.12"
+    },
+    {
+      "nama_wilayah": "Banyuresmi",
+      "kode_wilayah": "32.11.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.12"
+    },
+    {
+      "nama_wilayah": "Nanggerang",
+      "kode_wilayah": "32.11.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.12"
+    },
+    {
+      "nama_wilayah": "Mekarsari",
+      "kode_wilayah": "32.11.12.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.12"
+    },
+    {
+      "nama_wilayah": "Sindangsari",
+      "kode_wilayah": "32.11.12.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.12"
+    },
+    {
+      "nama_wilayah": "Sukarapih",
+      "kode_wilayah": "32.11.12.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.11",
+      "kode_kecamatan": "32.11.12"
+    }
+  ]
+}

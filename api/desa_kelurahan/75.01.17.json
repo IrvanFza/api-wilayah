@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Pone",
+      "kode_wilayah": "75.01.17.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.17"
+    },
+    {
+      "nama_wilayah": "Huidu",
+      "kode_wilayah": "75.01.17.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.17"
+    },
+    {
+      "nama_wilayah": "Ombulo",
+      "kode_wilayah": "75.01.17.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.17"
+    },
+    {
+      "nama_wilayah": "Daenaa",
+      "kode_wilayah": "75.01.17.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.17"
+    },
+    {
+      "nama_wilayah": "Yosonegoro",
+      "kode_wilayah": "75.01.17.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.17"
+    },
+    {
+      "nama_wilayah": "Tunggulo",
+      "kode_wilayah": "75.01.17.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.17"
+    },
+    {
+      "nama_wilayah": "Hutabohu",
+      "kode_wilayah": "75.01.17.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.17"
+    },
+    {
+      "nama_wilayah": "Padengo",
+      "kode_wilayah": "75.01.17.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.17"
+    },
+    {
+      "nama_wilayah": "Haya-Haya",
+      "kode_wilayah": "75.01.17.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.17"
+    },
+    {
+      "nama_wilayah": "Huidu Utara",
+      "kode_wilayah": "75.01.17.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "75",
+      "kode_kabkota": "75.01",
+      "kode_kecamatan": "75.01.17"
+    }
+  ]
+}

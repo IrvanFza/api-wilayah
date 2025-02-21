@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Sapugarut",
+      "kode_wilayah": "33.26.14.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.26",
+      "kode_kecamatan": "33.26.14"
+    },
+    {
+      "nama_wilayah": "Bligo",
+      "kode_wilayah": "33.26.14.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.26",
+      "kode_kecamatan": "33.26.14"
+    },
+    {
+      "nama_wilayah": "Simbangkulon",
+      "kode_wilayah": "33.26.14.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.26",
+      "kode_kecamatan": "33.26.14"
+    },
+    {
+      "nama_wilayah": "Coprayan",
+      "kode_wilayah": "33.26.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.26",
+      "kode_kecamatan": "33.26.14"
+    },
+    {
+      "nama_wilayah": "Wonoyoso",
+      "kode_wilayah": "33.26.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.26",
+      "kode_kecamatan": "33.26.14"
+    },
+    {
+      "nama_wilayah": "Pakumbulan",
+      "kode_wilayah": "33.26.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.26",
+      "kode_kecamatan": "33.26.14"
+    },
+    {
+      "nama_wilayah": "Watusalam",
+      "kode_wilayah": "33.26.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.26",
+      "kode_kecamatan": "33.26.14"
+    },
+    {
+      "nama_wilayah": "Simbangwetan",
+      "kode_wilayah": "33.26.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.26",
+      "kode_kecamatan": "33.26.14"
+    },
+    {
+      "nama_wilayah": "Kertijayan",
+      "kode_wilayah": "33.26.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.26",
+      "kode_kecamatan": "33.26.14"
+    },
+    {
+      "nama_wilayah": "Paweden",
+      "kode_wilayah": "33.26.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "33",
+      "kode_kabkota": "33.26",
+      "kode_kecamatan": "33.26.14"
+    }
+  ]
+}

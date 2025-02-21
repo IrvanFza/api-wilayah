@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Nomouwodide",
+      "kode_wilayah": "94.03.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.19"
+    },
+    {
+      "nama_wilayah": "Pikokebo",
+      "kode_wilayah": "94.03.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.19"
+    },
+    {
+      "nama_wilayah": "Baya Biru",
+      "kode_wilayah": "94.03.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.19"
+    },
+    {
+      "nama_wilayah": "Jigitopa Timur",
+      "kode_wilayah": "94.03.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.19"
+    },
+    {
+      "nama_wilayah": "Maatadi",
+      "kode_wilayah": "94.03.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.19"
+    },
+    {
+      "nama_wilayah": "Pupekebo",
+      "kode_wilayah": "94.03.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "94",
+      "kode_kabkota": "94.03",
+      "kode_kecamatan": "94.03.19"
+    }
+  ]
+}

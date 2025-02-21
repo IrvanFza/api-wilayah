@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Suka Karya",
+      "kode_wilayah": "15.71.07.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.07"
+    },
+    {
+      "nama_wilayah": "Simpang III Sipin",
+      "kode_wilayah": "15.71.07.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.07"
+    },
+    {
+      "nama_wilayah": "Paal Lima",
+      "kode_wilayah": "15.71.07.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.07"
+    },
+    {
+      "nama_wilayah": "Kenali Asam Bawah",
+      "kode_wilayah": "15.71.07.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.07"
+    },
+    {
+      "nama_wilayah": "Kenali Asam Atas",
+      "kode_wilayah": "15.71.07.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.07"
+    },
+    {
+      "nama_wilayah": "Talang Gulo",
+      "kode_wilayah": "15.71.07.1011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.07"
+    },
+    {
+      "nama_wilayah": "Kenali Asam",
+      "kode_wilayah": "15.71.07.1012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "15",
+      "kode_kabkota": "15.71",
+      "kode_kecamatan": "15.71.07"
+    }
+  ]
+}

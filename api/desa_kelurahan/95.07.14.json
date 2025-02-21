@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Kumuluk",
+      "kode_wilayah": "95.07.14.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.14"
+    },
+    {
+      "nama_wilayah": "Giari",
+      "kode_wilayah": "95.07.14.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.14"
+    },
+    {
+      "nama_wilayah": "Bonanip",
+      "kode_wilayah": "95.07.14.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.14"
+    },
+    {
+      "nama_wilayah": "Kukepake",
+      "kode_wilayah": "95.07.14.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.14"
+    },
+    {
+      "nama_wilayah": "Wayuleme",
+      "kode_wilayah": "95.07.14.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.14"
+    },
+    {
+      "nama_wilayah": "Bogomanum",
+      "kode_wilayah": "95.07.14.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.14"
+    },
+    {
+      "nama_wilayah": "Pindoak",
+      "kode_wilayah": "95.07.14.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.14"
+    },
+    {
+      "nama_wilayah": "Kotorambur",
+      "kode_wilayah": "95.07.14.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.14"
+    },
+    {
+      "nama_wilayah": "Numbo",
+      "kode_wilayah": "95.07.14.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.14"
+    },
+    {
+      "nama_wilayah": "Lambui",
+      "kode_wilayah": "95.07.14.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "95",
+      "kode_kabkota": "95.07",
+      "kode_kecamatan": "95.07.14"
+    }
+  ]
+}

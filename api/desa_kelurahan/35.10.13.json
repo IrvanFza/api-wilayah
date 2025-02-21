@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "total": 10,
+  "data": [
+    {
+      "nama_wilayah": "Aliyan",
+      "kode_wilayah": "35.10.13.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.13"
+    },
+    {
+      "nama_wilayah": "Mangir",
+      "kode_wilayah": "35.10.13.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.13"
+    },
+    {
+      "nama_wilayah": "Gladag",
+      "kode_wilayah": "35.10.13.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.13"
+    },
+    {
+      "nama_wilayah": "Bubuk",
+      "kode_wilayah": "35.10.13.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.13"
+    },
+    {
+      "nama_wilayah": "Lemahbangdewo",
+      "kode_wilayah": "35.10.13.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.13"
+    },
+    {
+      "nama_wilayah": "Gitik",
+      "kode_wilayah": "35.10.13.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.13"
+    },
+    {
+      "nama_wilayah": "Karangbendo",
+      "kode_wilayah": "35.10.13.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.13"
+    },
+    {
+      "nama_wilayah": "Rogojampi",
+      "kode_wilayah": "35.10.13.2013",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.13"
+    },
+    {
+      "nama_wilayah": "Pengatigan",
+      "kode_wilayah": "35.10.13.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.13"
+    },
+    {
+      "nama_wilayah": "Kedaleman",
+      "kode_wilayah": "35.10.13.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.13"
+    }
+  ]
+}

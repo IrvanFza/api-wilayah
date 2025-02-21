@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "total": 11,
+  "data": [
+    {
+      "nama_wilayah": "Idumun",
+      "kode_wilayah": "71.10.03.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.03"
+    },
+    {
+      "nama_wilayah": "Matabulu",
+      "kode_wilayah": "71.10.03.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.03"
+    },
+    {
+      "nama_wilayah": "Nuangan",
+      "kode_wilayah": "71.10.03.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.03"
+    },
+    {
+      "nama_wilayah": "Bai",
+      "kode_wilayah": "71.10.03.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.03"
+    },
+    {
+      "nama_wilayah": "Jiko Belanga",
+      "kode_wilayah": "71.10.03.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.03"
+    },
+    {
+      "nama_wilayah": "Nuangan I",
+      "kode_wilayah": "71.10.03.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.03"
+    },
+    {
+      "nama_wilayah": "Iyok",
+      "kode_wilayah": "71.10.03.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.03"
+    },
+    {
+      "nama_wilayah": "Loyow",
+      "kode_wilayah": "71.10.03.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.03"
+    },
+    {
+      "nama_wilayah": "Matabulu Timur",
+      "kode_wilayah": "71.10.03.2014",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.03"
+    },
+    {
+      "nama_wilayah": "Nuangan Barat",
+      "kode_wilayah": "71.10.03.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.03"
+    },
+    {
+      "nama_wilayah": "Nuangan Selatan",
+      "kode_wilayah": "71.10.03.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "71",
+      "kode_kabkota": "71.10",
+      "kode_kecamatan": "71.10.03"
+    }
+  ]
+}

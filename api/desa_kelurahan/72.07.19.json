@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Tatakalai",
+      "kode_wilayah": "72.07.19.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.07",
+      "kode_kecamatan": "72.07.19"
+    },
+    {
+      "nama_wilayah": "Lalong",
+      "kode_wilayah": "72.07.19.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.07",
+      "kode_kecamatan": "72.07.19"
+    },
+    {
+      "nama_wilayah": "Ponding-ponding",
+      "kode_wilayah": "72.07.19.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.07",
+      "kode_kecamatan": "72.07.19"
+    },
+    {
+      "nama_wilayah": "Luksagu",
+      "kode_wilayah": "72.07.19.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.07",
+      "kode_kecamatan": "72.07.19"
+    },
+    {
+      "nama_wilayah": "Palam",
+      "kode_wilayah": "72.07.19.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.07",
+      "kode_kecamatan": "72.07.19"
+    },
+    {
+      "nama_wilayah": "Bampanga",
+      "kode_wilayah": "72.07.19.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "72",
+      "kode_kabkota": "72.07",
+      "kode_kecamatan": "72.07.19"
+    }
+  ]
+}

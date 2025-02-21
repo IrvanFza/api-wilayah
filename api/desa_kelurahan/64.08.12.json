@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Singa Geweh",
+      "kode_wilayah": "64.08.12.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.12"
+    },
+    {
+      "nama_wilayah": "Sangatta Selatan",
+      "kode_wilayah": "64.08.12.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.12"
+    },
+    {
+      "nama_wilayah": "Sangkima",
+      "kode_wilayah": "64.08.12.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.12"
+    },
+    {
+      "nama_wilayah": "Teluk Singkama",
+      "kode_wilayah": "64.08.12.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "64",
+      "kode_kabkota": "64.08",
+      "kode_kecamatan": "64.08.12"
+    }
+  ]
+}

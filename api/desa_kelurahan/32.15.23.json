@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Sukamulya",
+      "kode_wilayah": "32.15.23.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.23"
+    },
+    {
+      "nama_wilayah": "Tegalurung",
+      "kode_wilayah": "32.15.23.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.23"
+    },
+    {
+      "nama_wilayah": "Langensari",
+      "kode_wilayah": "32.15.23.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.23"
+    },
+    {
+      "nama_wilayah": "Bayur Lor",
+      "kode_wilayah": "32.15.23.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.23"
+    },
+    {
+      "nama_wilayah": "Bayur Kidul",
+      "kode_wilayah": "32.15.23.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.23"
+    },
+    {
+      "nama_wilayah": "Kiara",
+      "kode_wilayah": "32.15.23.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.23"
+    },
+    {
+      "nama_wilayah": "Manggungjaya",
+      "kode_wilayah": "32.15.23.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.23"
+    },
+    {
+      "nama_wilayah": "Sumurgede",
+      "kode_wilayah": "32.15.23.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.23"
+    },
+    {
+      "nama_wilayah": "Muktijaya",
+      "kode_wilayah": "32.15.23.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.23"
+    },
+    {
+      "nama_wilayah": "Pasirukem",
+      "kode_wilayah": "32.15.23.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.23"
+    },
+    {
+      "nama_wilayah": "Pasirjaya",
+      "kode_wilayah": "32.15.23.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.23"
+    },
+    {
+      "nama_wilayah": "Sukajaya",
+      "kode_wilayah": "32.15.23.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "32",
+      "kode_kabkota": "32.15",
+      "kode_kecamatan": "32.15.23"
+    }
+  ]
+}

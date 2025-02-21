@@ -1,0 +1,90 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Manyak Payed",
+      "kode_wilayah": "11.16.01",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.16",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Bendahara",
+      "kode_wilayah": "11.16.02",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.16",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Karang Baru",
+      "kode_wilayah": "11.16.03",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.16",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Seruway",
+      "kode_wilayah": "11.16.04",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.16",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Kota Kualasinpang",
+      "kode_wilayah": "11.16.05",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.16",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Kejuruan Muda",
+      "kode_wilayah": "11.16.06",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.16",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Tamiang Hulu",
+      "kode_wilayah": "11.16.07",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.16",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Rantau",
+      "kode_wilayah": "11.16.08",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.16",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Banda Mulia",
+      "kode_wilayah": "11.16.09",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.16",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Bandar Pusaka",
+      "kode_wilayah": "11.16.10",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.16",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Tenggulun",
+      "kode_wilayah": "11.16.11",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.16",
+      "kode_provinsi": "11"
+    },
+    {
+      "nama_wilayah": "Sekerak",
+      "kode_wilayah": "11.16.12",
+      "level_wilayah": "kecamatan",
+      "kode_kabupaten_kota": "11.16",
+      "kode_provinsi": "11"
+    }
+  ]
+}

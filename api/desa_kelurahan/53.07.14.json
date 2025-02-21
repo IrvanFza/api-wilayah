@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "total": 4,
+  "data": [
+    {
+      "nama_wilayah": "Hewuli",
+      "kode_wilayah": "53.07.14.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.14"
+    },
+    {
+      "nama_wilayah": "Wailiti",
+      "kode_wilayah": "53.07.14.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.14"
+    },
+    {
+      "nama_wilayah": "Wolomarang",
+      "kode_wilayah": "53.07.14.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.14"
+    },
+    {
+      "nama_wilayah": "Wuring",
+      "kode_wilayah": "53.07.14.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.14"
+    }
+  ]
+}

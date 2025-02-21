@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Jaya",
+      "kode_wilayah": "73.15.04.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.04"
+    },
+    {
+      "nama_wilayah": "Sawitto",
+      "kode_wilayah": "73.15.04.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.04"
+    },
+    {
+      "nama_wilayah": "Macorawalie",
+      "kode_wilayah": "73.15.04.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.04"
+    },
+    {
+      "nama_wilayah": "Penrang",
+      "kode_wilayah": "73.15.04.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.04"
+    },
+    {
+      "nama_wilayah": "Salo",
+      "kode_wilayah": "73.15.04.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.04"
+    },
+    {
+      "nama_wilayah": "Bentengnge",
+      "kode_wilayah": "73.15.04.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.04"
+    },
+    {
+      "nama_wilayah": "Sipatokkong",
+      "kode_wilayah": "73.15.04.1007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.04"
+    },
+    {
+      "nama_wilayah": "Siparappe",
+      "kode_wilayah": "73.15.04.1008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "73",
+      "kode_kabkota": "73.15",
+      "kode_kecamatan": "73.15.04"
+    }
+  ]
+}

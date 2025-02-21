@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Purwodadi",
+      "kode_wilayah": "35.10.07.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.07"
+    },
+    {
+      "nama_wilayah": "Jajag",
+      "kode_wilayah": "35.10.07.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.07"
+    },
+    {
+      "nama_wilayah": "Gambiran",
+      "kode_wilayah": "35.10.07.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.07"
+    },
+    {
+      "nama_wilayah": "Yosomulyo",
+      "kode_wilayah": "35.10.07.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.07"
+    },
+    {
+      "nama_wilayah": "Wringinrejo",
+      "kode_wilayah": "35.10.07.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.07"
+    },
+    {
+      "nama_wilayah": "Wringinagung",
+      "kode_wilayah": "35.10.07.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "35",
+      "kode_kabkota": "35.10",
+      "kode_kecamatan": "35.10.07"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "total": 7,
+  "data": [
+    {
+      "nama_wilayah": "Laitutun",
+      "kode_wilayah": "81.08.08.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.08"
+    },
+    {
+      "nama_wilayah": "Batumiau",
+      "kode_wilayah": "81.08.08.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.08"
+    },
+    {
+      "nama_wilayah": "Tutukey",
+      "kode_wilayah": "81.08.08.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.08"
+    },
+    {
+      "nama_wilayah": "Tomra",
+      "kode_wilayah": "81.08.08.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.08"
+    },
+    {
+      "nama_wilayah": "Nuwewang",
+      "kode_wilayah": "81.08.08.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.08"
+    },
+    {
+      "nama_wilayah": "Tutuwaru",
+      "kode_wilayah": "81.08.08.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.08"
+    },
+    {
+      "nama_wilayah": "Luhuely",
+      "kode_wilayah": "81.08.08.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "81",
+      "kode_kabkota": "81.08",
+      "kode_kecamatan": "81.08.08"
+    }
+  ]
+}

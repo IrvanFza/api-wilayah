@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Bungaya",
+      "kode_wilayah": "51.07.06.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.06"
+    },
+    {
+      "nama_wilayah": "Budakeling",
+      "kode_wilayah": "51.07.06.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.06"
+    },
+    {
+      "nama_wilayah": "Bebandem",
+      "kode_wilayah": "51.07.06.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.06"
+    },
+    {
+      "nama_wilayah": "Sibetan",
+      "kode_wilayah": "51.07.06.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.06"
+    },
+    {
+      "nama_wilayah": "Jungutan",
+      "kode_wilayah": "51.07.06.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.06"
+    },
+    {
+      "nama_wilayah": "Bungaya Kangin",
+      "kode_wilayah": "51.07.06.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.06"
+    },
+    {
+      "nama_wilayah": "Bhuana Giri",
+      "kode_wilayah": "51.07.06.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.06"
+    },
+    {
+      "nama_wilayah": "Macang",
+      "kode_wilayah": "51.07.06.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "51",
+      "kode_kabkota": "51.07",
+      "kode_kecamatan": "51.07.06"
+    }
+  ]
+}

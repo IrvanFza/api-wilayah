@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Soliu",
+      "kode_wilayah": "53.01.22.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.22"
+    },
+    {
+      "nama_wilayah": "Saukibe",
+      "kode_wilayah": "53.01.22.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.22"
+    },
+    {
+      "nama_wilayah": "Oelfatu",
+      "kode_wilayah": "53.01.22.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.22"
+    },
+    {
+      "nama_wilayah": "Timau",
+      "kode_wilayah": "53.01.22.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.22"
+    },
+    {
+      "nama_wilayah": "Honuk",
+      "kode_wilayah": "53.01.22.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.22"
+    },
+    {
+      "nama_wilayah": "Faumes",
+      "kode_wilayah": "53.01.22.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.01",
+      "kode_kecamatan": "53.01.22"
+    }
+  ]
+}

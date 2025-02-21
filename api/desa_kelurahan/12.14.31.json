@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "total": 12,
+  "data": [
+    {
+      "nama_wilayah": "Baluta",
+      "kode_wilayah": "12.14.31.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.31"
+    },
+    {
+      "nama_wilayah": "Eho Baluta",
+      "kode_wilayah": "12.14.31.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.31"
+    },
+    {
+      "nama_wilayah": "Bawo Ofuloa",
+      "kode_wilayah": "12.14.31.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.31"
+    },
+    {
+      "nama_wilayah": "Hale Baluta",
+      "kode_wilayah": "12.14.31.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.31"
+    },
+    {
+      "nama_wilayah": "Bawo Orudua",
+      "kode_wilayah": "12.14.31.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.31"
+    },
+    {
+      "nama_wilayah": "Jeke",
+      "kode_wilayah": "12.14.31.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.31"
+    },
+    {
+      "nama_wilayah": "Makole",
+      "kode_wilayah": "12.14.31.2007",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.31"
+    },
+    {
+      "nama_wilayah": "Sifauruasi",
+      "kode_wilayah": "12.14.31.2008",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.31"
+    },
+    {
+      "nama_wilayah": "Bawo Analita Saeru",
+      "kode_wilayah": "12.14.31.2009",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.31"
+    },
+    {
+      "nama_wilayah": "Saeru Melayu",
+      "kode_wilayah": "12.14.31.2010",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.31"
+    },
+    {
+      "nama_wilayah": "Hiligeho Sogawu",
+      "kode_wilayah": "12.14.31.2011",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.31"
+    },
+    {
+      "nama_wilayah": "Hiliomasio",
+      "kode_wilayah": "12.14.31.2012",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "12",
+      "kode_kabkota": "12.14",
+      "kode_kecamatan": "12.14.31"
+    }
+  ]
+}

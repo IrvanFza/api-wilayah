@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "total": 8,
+  "data": [
+    {
+      "nama_wilayah": "Hokor",
+      "kode_wilayah": "53.07.11.2001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.11"
+    },
+    {
+      "nama_wilayah": "Wolonwalu",
+      "kode_wilayah": "53.07.11.2002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.11"
+    },
+    {
+      "nama_wilayah": "Wolokoli",
+      "kode_wilayah": "53.07.11.2003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.11"
+    },
+    {
+      "nama_wilayah": "Bola",
+      "kode_wilayah": "53.07.11.2004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.11"
+    },
+    {
+      "nama_wilayah": "Umauta",
+      "kode_wilayah": "53.07.11.2005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.11"
+    },
+    {
+      "nama_wilayah": "Ipir",
+      "kode_wilayah": "53.07.11.2006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.11"
+    },
+    {
+      "nama_wilayah": "Bura Bekor",
+      "kode_wilayah": "53.07.11.2018",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.11"
+    },
+    {
+      "nama_wilayah": "Watukrus",
+      "kode_wilayah": "53.07.11.2019",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "53",
+      "kode_kabkota": "53.07",
+      "kode_kecamatan": "53.07.11"
+    }
+  ]
+}

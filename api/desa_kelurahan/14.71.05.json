@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "total": 6,
+  "data": [
+    {
+      "nama_wilayah": "Padang Bulan",
+      "kode_wilayah": "14.71.05.1001",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.05"
+    },
+    {
+      "nama_wilayah": "Sago",
+      "kode_wilayah": "14.71.05.1002",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.05"
+    },
+    {
+      "nama_wilayah": "Kampung Baru",
+      "kode_wilayah": "14.71.05.1003",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.05"
+    },
+    {
+      "nama_wilayah": "Kampung Dalam",
+      "kode_wilayah": "14.71.05.1004",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.05"
+    },
+    {
+      "nama_wilayah": "Kampung Bandar",
+      "kode_wilayah": "14.71.05.1005",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.05"
+    },
+    {
+      "nama_wilayah": "Padang Terubuk",
+      "kode_wilayah": "14.71.05.1006",
+      "level_wilayah": "desa_kelurahan",
+      "kode_provinsi": "14",
+      "kode_kabkota": "14.71",
+      "kode_kecamatan": "14.71.05"
+    }
+  ]
+}
