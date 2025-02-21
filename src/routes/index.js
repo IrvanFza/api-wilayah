@@ -7,8 +7,8 @@ const kecamatanRoutes = require('./kecamatan');
 const desaKelurahanRoutes = require('./desaKelurahan');
 
 router.use('/api/provinsi', provinsiRoutes);
-router.use('/api/kabupaten-kota', kabupatenKotaRoutes);
+router.use('/api/kabupaten_kota', kabupatenKotaRoutes);
 router.use('/api/kecamatan', kecamatanRoutes);
-router.use('/api/desa-kelurahan', desaKelurahanRoutes);
+router.use('/api/desa_kelurahan', desaKelurahanRoutes);
 
 module.exports = router;

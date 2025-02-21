@@ -101,13 +101,13 @@ In the default setup, the API is generated as static JSON files and hosted via G
   `https://api.datawilayah.com/api/provinsi.json`
 
 - **Regencies/Cities**:  
-  `https://api.datawilayah.com/api/kabupaten-kota/<kode_provinsi>.json`
+  `https://api.datawilayah.com/api/kabupaten_kota/<kode_provinsi>.json`
 
 - **Districts**:  
   `https://api.datawilayah.com/api/kecamatan/<kode_kabupaten_kota>.json`
 
 - **Villages/Sub-districts**:  
-  `https://api.datawilayah.com/api/desa-kelurahan/<kode_kecamatan>.json`
+  `https://api.datawilayah.com/api/desa_kelurahan/<kode_kecamatan>.json`
 
 ### Optional: Local Node & Express.js Server
 
@@ -165,7 +165,7 @@ The API provides the following endpoints (access format depends on your deployme
 - **Get Regencies/Cities by Province Code**
 
   ```http
-  GET /api/kabupaten-kota/:kode_provinsi (.json for GitHub Pages)
+  GET /api/kabupaten_kota/:kode_provinsi (.json for GitHub Pages)
   ```
 
   **Parameter**
@@ -232,7 +232,7 @@ The API provides the following endpoints (access format depends on your deployme
 - **Get Villages/Sub-districts by District Code**
 
   ```http
-  GET /api/desa-kelurahan/:kode_kecamatan (.json for GitHub Pages)
+  GET /api/desa_kelurahan/:kode_kecamatan (.json for GitHub Pages)
   ```
 
   **Parameter**
