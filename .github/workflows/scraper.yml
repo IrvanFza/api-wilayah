@@ -32,7 +32,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/*.json
-          git commit -m "Automated data update"
+          git commit -m "Automated data update" --allow-empty
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.SCRAPER_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
