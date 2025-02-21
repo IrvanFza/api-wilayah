@@ -3,7 +3,6 @@
 [![Node.js](https://img.shields.io/badge/Node.js-v14%2B-brightgreen)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express.js-4.x-blue)](https://expressjs.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 [![Build Status](https://github.com/IrvanFza/api-wilayah/actions/workflows/scraper.yml/badge.svg)](https://github.com/IrvanFza/api-wilayah/actions/workflows/scraper.yml)
 [![GitHub issues](https://img.shields.io/github/issues/IrvanFza/api-wilayah.svg)](https://github.com/IrvanFza/api-wilayah/issues)
 [![GitHub contributors](https://img.shields.io/github/contributors/IrvanFza/api-wilayah.svg)](https://github.com/IrvanFza/api-wilayah/graphs/contributors)
@@ -273,11 +272,12 @@ By default, this project is served through GitHub Pages for easier deployment, b
 GitHub Pages is primarily designed for hosting static content and may not be optimal for very high-volume API traffic. Although GitHub does not officially publish a fixed bandwidth quota for GitHub Pages, practical estimates and community experience can provide some guidance:
 
 - **Estimated Bandwidth Capacity**:  
-  If an average API response (served as a static JSON file) is roughly 10 KB in size, and assuming a conservative monthly bandwidth allocation of about 100 GB, you can estimate the number of requests as follows:
+  If an average API response (served as a static JSON file) is roughly 10 KB in size, and assuming a conservative monthly bandwidth allocation of about 100 GB, we can estimate the number of requests as follows:
   
-  \[
-  \text{Estimated requests per month} = \frac{100\,\text{GB} \times 10^9\,\text{bytes/GB}}{10\,\text{KB/request} \times 10^3\,\text{bytes/KB}} \approx 10,\!000,\!000 \text{ requests}
-  \]
+  ```plaintext
+  Estimated requests per month = (100 GB * 1,000,000,000 bytes/GB) / (10 KB * 1,000 bytes/KB)
+                               ≈ 10,000,000 requests
+  ```
   
   This rough calculation suggests that under ideal conditions, the service might handle up to 10 million requests per month.
 
