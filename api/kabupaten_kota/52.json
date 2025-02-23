@@ -9,18 +9,17 @@
       "kode_provinsi": "52",
       "nama_provinsi": "NUSA TENGGARA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "365145",
-          "perempuan": "366232",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "737647",
           "semester": "1",
           "jumlah_penduduk_km2": "923.058",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "365145",
+          "perempuan": "366232",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "11241",
           "usia_75_tahun_ke_atas": "14880",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "185574",
+          "tahun": "2022",
+          "usia_15_64_thn": "502539",
+          "usia_diatas_65_thn": "43264"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "52",
       "nama_provinsi": "NUSA TENGGARA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "537659",
-          "perempuan": "544914",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1091564",
           "semester": "1",
           "jumlah_penduduk_km2": "1169.522",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "537659",
+          "perempuan": "544914",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "18145",
           "usia_75_tahun_ke_atas": "20977",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "279323",
+          "tahun": "2022",
+          "usia_15_64_thn": "736086",
+          "usia_diatas_65_thn": "67164"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "52",
       "nama_provinsi": "NUSA TENGGARA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "692308",
-          "perempuan": "699791",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1404343",
           "semester": "1",
           "jumlah_penduduk_km2": "1606.47",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "692308",
+          "perempuan": "699791",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "22371",
           "usia_75_tahun_ke_atas": "24742",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "374921",
+          "tahun": "2022",
+          "usia_15_64_thn": "937687",
+          "usia_diatas_65_thn": "79491"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "52",
       "nama_provinsi": "NUSA TENGGARA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "260112",
-          "perempuan": "259668",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "521861",
           "semester": "1",
           "jumlah_penduduk_km2": "6655.917",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "260112",
+          "perempuan": "259668",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "9610",
           "usia_75_tahun_ke_atas": "10887",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "116256",
+          "tahun": "2022",
+          "usia_15_64_thn": "368911",
+          "usia_diatas_65_thn": "34613"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "52",
       "nama_provinsi": "NUSA TENGGARA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "130505",
-          "perempuan": "130117",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "262933",
           "semester": "1",
           "jumlah_penduduk_km2": "2281.752",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "130505",
+          "perempuan": "130117",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "4085",
           "usia_75_tahun_ke_atas": "5610",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "64636",
+          "tahun": "2022",
+          "usia_15_64_thn": "179712",
+          "usia_diatas_65_thn": "16274"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "52",
       "nama_provinsi": "NUSA TENGGARA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "267577",
-          "perempuan": "265918",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "535631",
           "semester": "1",
           "jumlah_penduduk_km2": "4216.088",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "267577",
+          "perempuan": "265918",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "10224",
           "usia_75_tahun_ke_atas": "12770",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "122096",
+          "tahun": "2022",
+          "usia_15_64_thn": "373985",
+          "usia_diatas_65_thn": "37414"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "52",
       "nama_provinsi": "NUSA TENGGARA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "73481",
-          "perempuan": "73867",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "148585",
           "semester": "1",
           "jumlah_penduduk_km2": "1743.58",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "73481",
+          "perempuan": "73867",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "2264",
           "usia_75_tahun_ke_atas": "2732",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "39567",
+          "tahun": "2022",
+          "usia_15_64_thn": "99564",
+          "usia_diatas_65_thn": "8217"
         }
       }
     },
@@ -303,18 +345,17 @@
       "kode_provinsi": "52",
       "nama_provinsi": "NUSA TENGGARA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "130507",
-          "perempuan": "129672",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "262419",
           "semester": "1",
           "jumlah_penduduk_km2": "811.19",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "130507",
+          "perempuan": "129672",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -335,6 +376,13 @@
           "usia_70_74": "3770",
           "usia_75_tahun_ke_atas": "5314",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "67745",
+          "tahun": "2022",
+          "usia_15_64_thn": "177588",
+          "usia_diatas_65_thn": "14846"
         }
       }
     },
@@ -345,17 +393,16 @@
       "kode_provinsi": "52",
       "nama_provinsi": "NUSA TENGGARA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "225320",
-          "perempuan": "227492",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "452812",
           "semester": "1",
           "jumlah_penduduk_km2": "60.424",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "225320",
+          "perempuan": "227492",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -377,6 +424,13 @@
           "usia_70_74": "7115",
           "usia_75_tahun_ke_atas": "8226",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "111358",
+          "tahun": "2022",
+          "usia_15_64_thn": "310917",
+          "usia_diatas_65_thn": "26984"
         }
       }
     },
@@ -387,17 +441,16 @@
       "kode_provinsi": "52",
       "nama_provinsi": "NUSA TENGGARA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "78932",
-          "perempuan": "80265",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "159197",
           "semester": "1",
           "jumlah_penduduk_km2": "207.888",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "78932",
+          "perempuan": "80265",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -419,6 +472,13 @@
           "usia_70_74": "2730",
           "usia_75_tahun_ke_atas": "3135",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "39917",
+          "tahun": "2022",
+          "usia_15_64_thn": "107889",
+          "usia_diatas_65_thn": "10045"
         }
       }
     }

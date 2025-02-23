@@ -9,18 +9,17 @@
       "kode_provinsi": "81",
       "nama_provinsi": "MALUKU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "215848",
-          "perempuan": "213081",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "429795",
           "semester": "1",
           "jumlah_penduduk_km2": "8253.929",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "215848",
+          "perempuan": "213081",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "8323",
           "usia_75_tahun_ke_atas": "10972",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "95387",
+          "tahun": "2022",
+          "usia_15_64_thn": "302096",
+          "usia_diatas_65_thn": "31446"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "81",
       "nama_provinsi": "MALUKU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "63831",
-          "perempuan": "64873",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "129034",
           "semester": "1",
           "jumlah_penduduk_km2": "1016.924",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "63831",
+          "perempuan": "64873",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "2477",
           "usia_75_tahun_ke_atas": "3781",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "30358",
+          "tahun": "2022",
+          "usia_15_64_thn": "88352",
+          "usia_diatas_65_thn": "9994"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "81",
       "nama_provinsi": "MALUKU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "64778",
-          "perempuan": "63975",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "129481",
           "semester": "1",
           "jumlah_penduduk_km2": "4431.082",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "64778",
+          "perempuan": "63975",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "2490",
           "usia_75_tahun_ke_atas": "2581",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "33554",
+          "tahun": "2022",
+          "usia_15_64_thn": "86411",
+          "usia_diatas_65_thn": "8788"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "81",
       "nama_provinsi": "MALUKU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "69857",
-          "perempuan": "67713",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "138308",
           "semester": "1",
           "jumlah_penduduk_km2": "4915.566",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "69857",
+          "perempuan": "67713",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "1803",
           "usia_75_tahun_ke_atas": "2154",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "36554",
+          "tahun": "2022",
+          "usia_15_64_thn": "94631",
+          "usia_diatas_65_thn": "6385"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "81",
       "nama_provinsi": "MALUKU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "69565",
-          "perempuan": "67794",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "137804",
           "semester": "1",
           "jumlah_penduduk_km2": "5725.447",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "69565",
+          "perempuan": "67794",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "1636",
           "usia_75_tahun_ke_atas": "1643",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "37806",
+          "tahun": "2022",
+          "usia_15_64_thn": "93831",
+          "usia_diatas_65_thn": "5722"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "81",
       "nama_provinsi": "MALUKU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "107986",
-          "perempuan": "105129",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "213969",
           "semester": "1",
           "jumlah_penduduk_km2": "5017.138",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "107986",
+          "perempuan": "105129",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "2665",
           "usia_75_tahun_ke_atas": "3237",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "56892",
+          "tahun": "2022",
+          "usia_15_64_thn": "146099",
+          "usia_diatas_65_thn": "10124"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "81",
       "nama_provinsi": "MALUKU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "55577",
-          "perempuan": "52509",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "108834",
           "semester": "1",
           "jumlah_penduduk_km2": "8096.729",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "55577",
+          "perempuan": "52509",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "1457",
           "usia_75_tahun_ke_atas": "1576",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "33141",
+          "tahun": "2022",
+          "usia_15_64_thn": "69734",
+          "usia_diatas_65_thn": "5211"
         }
       }
     },
@@ -303,18 +345,17 @@
       "kode_provinsi": "81",
       "nama_provinsi": "MALUKU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "46423",
-          "perempuan": "44326",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "91531",
           "semester": "1",
           "jumlah_penduduk_km2": "4551.676",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "46423",
+          "perempuan": "44326",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -335,6 +376,13 @@
           "usia_70_74": "1856",
           "usia_75_tahun_ke_atas": "2149",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "26791",
+          "tahun": "2022",
+          "usia_15_64_thn": "57226",
+          "usia_diatas_65_thn": "6732"
         }
       }
     },
@@ -345,18 +393,17 @@
       "kode_provinsi": "81",
       "nama_provinsi": "MALUKU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "39387",
-          "perempuan": "38301",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "78099",
           "semester": "1",
           "jumlah_penduduk_km2": "3678.696",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "39387",
+          "perempuan": "38301",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -377,6 +424,13 @@
           "usia_70_74": "877",
           "usia_75_tahun_ke_atas": "821",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "22976",
+          "tahun": "2022",
+          "usia_15_64_thn": "51877",
+          "usia_diatas_65_thn": "2835"
         }
       }
     },
@@ -387,17 +441,16 @@
       "kode_provinsi": "81",
       "nama_provinsi": "MALUKU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "175687",
-          "perempuan": "178365",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "354052",
           "semester": "1",
           "jumlah_penduduk_km2": "236.663",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "175687",
+          "perempuan": "178365",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -419,6 +472,13 @@
           "usia_70_74": "5526",
           "usia_75_tahun_ke_atas": "5472",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "77838",
+          "tahun": "2022",
+          "usia_15_64_thn": "254308",
+          "usia_diatas_65_thn": "20493"
         }
       }
     },
@@ -429,17 +489,16 @@
       "kode_provinsi": "81",
       "nama_provinsi": "MALUKU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "44782",
-          "perempuan": "45225",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "90007",
           "semester": "1",
           "jumlah_penduduk_km2": "234.417",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "44782",
+          "perempuan": "45225",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -461,6 +520,13 @@
           "usia_70_74": "1226",
           "usia_75_tahun_ke_atas": "2256",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "19878",
+          "tahun": "2022",
+          "usia_15_64_thn": "64437",
+          "usia_diatas_65_thn": "5417"
         }
       }
     }

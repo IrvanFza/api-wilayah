@@ -9,18 +9,17 @@
       "kode_provinsi": "13",
       "nama_provinsi": "SUMATERA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "260489",
-          "perempuan": "259804",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "524608",
           "semester": "1",
           "jumlah_penduduk_km2": "6045.649",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "260489",
+          "perempuan": "259804",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "12309",
           "usia_75_tahun_ke_atas": "12965",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "125951",
+          "tahun": "2022",
+          "usia_15_64_thn": "349690",
+          "usia_diatas_65_thn": "44652"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "13",
       "nama_provinsi": "SUMATERA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "201755",
-          "perempuan": "200540",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "405712",
           "semester": "1",
           "jumlah_penduduk_km2": "3590.404",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "201755",
+          "perempuan": "200540",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "8856",
           "usia_75_tahun_ke_atas": "9324",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "97537",
+          "tahun": "2022",
+          "usia_15_64_thn": "271644",
+          "usia_diatas_65_thn": "33114"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "13",
       "nama_provinsi": "SUMATERA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "121209",
-          "perempuan": "119589",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "242188",
           "semester": "1",
           "jumlah_penduduk_km2": "3150.58",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "121209",
+          "perempuan": "119589",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "4550",
           "usia_75_tahun_ke_atas": "4720",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "59010",
+          "tahun": "2022",
+          "usia_15_64_thn": "164774",
+          "usia_diatas_65_thn": "17014"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "13",
       "nama_provinsi": "SUMATERA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "187645",
-          "perempuan": "188373",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "378309",
           "semester": "1",
           "jumlah_penduduk_km2": "1377.186",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "187645",
+          "perempuan": "188373",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "11663",
           "usia_75_tahun_ke_atas": "13275",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "77905",
+          "tahun": "2022",
+          "usia_15_64_thn": "254954",
+          "usia_diatas_65_thn": "43159"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "13",
       "nama_provinsi": "SUMATERA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "223792",
-          "perempuan": "223378",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "451025",
           "semester": "1",
           "jumlah_penduduk_km2": "1342.266",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "223792",
+          "perempuan": "223378",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "11392",
           "usia_75_tahun_ke_atas": "15656",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "103631",
+          "tahun": "2022",
+          "usia_15_64_thn": "299142",
+          "usia_diatas_65_thn": "44397"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "13",
       "nama_provinsi": "SUMATERA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "263414",
-          "perempuan": "261934",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "527451",
           "semester": "1",
           "jumlah_penduduk_km2": "2226.27",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "263414",
+          "perempuan": "261934",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "14647",
           "usia_75_tahun_ke_atas": "20716",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "115270",
+          "tahun": "2022",
+          "usia_15_64_thn": "353070",
+          "usia_diatas_65_thn": "57008"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "13",
       "nama_provinsi": "SUMATERA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "195277",
-          "perempuan": "196817",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "395307",
           "semester": "1",
           "jumlah_penduduk_km2": "3273.405",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "195277",
+          "perempuan": "196817",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "11130",
           "usia_75_tahun_ke_atas": "13459",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "86211",
+          "tahun": "2022",
+          "usia_15_64_thn": "265147",
+          "usia_diatas_65_thn": "40736"
         }
       }
     },
@@ -303,18 +345,17 @@
       "kode_provinsi": "13",
       "nama_provinsi": "SUMATERA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "152286",
-          "perempuan": "151707",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "306616",
           "semester": "1",
           "jumlah_penduduk_km2": "3902.444",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "152286",
+          "perempuan": "151707",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -335,6 +376,13 @@
           "usia_70_74": "5661",
           "usia_75_tahun_ke_atas": "6458",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "76168",
+          "tahun": "2022",
+          "usia_15_64_thn": "205976",
+          "usia_diatas_65_thn": "21849"
         }
       }
     },
@@ -345,18 +393,17 @@
       "kode_provinsi": "13",
       "nama_provinsi": "SUMATERA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "47944",
-          "perempuan": "44610",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "93313",
           "semester": "1",
           "jumlah_penduduk_km2": "5983.222",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "47944",
+          "perempuan": "44610",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -377,6 +424,13 @@
           "usia_70_74": "1155",
           "usia_75_tahun_ke_atas": "1357",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "24107",
+          "tahun": "2022",
+          "usia_15_64_thn": "63724",
+          "usia_diatas_65_thn": "4723"
         }
       }
     },
@@ -387,18 +441,17 @@
       "kode_provinsi": "13",
       "nama_provinsi": "SUMATERA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "117852",
-          "perempuan": "114745",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "234509",
           "semester": "1",
           "jumlah_penduduk_km2": "2920.925",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "117852",
+          "perempuan": "114745",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -419,6 +472,13 @@
           "usia_70_74": "3606",
           "usia_75_tahun_ke_atas": "4152",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "57722",
+          "tahun": "2022",
+          "usia_15_64_thn": "160888",
+          "usia_diatas_65_thn": "13987"
         }
       }
     },
@@ -429,18 +489,17 @@
       "kode_provinsi": "13",
       "nama_provinsi": "SUMATERA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "92560",
-          "perempuan": "89755",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "183177",
           "semester": "1",
           "jumlah_penduduk_km2": "3282.144",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "92560",
+          "perempuan": "89755",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -461,6 +520,13 @@
           "usia_70_74": "3073",
           "usia_75_tahun_ke_atas": "3500",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "44910",
+          "tahun": "2022",
+          "usia_15_64_thn": "125757",
+          "usia_diatas_65_thn": "11648"
         }
       }
     },
@@ -471,18 +537,17 @@
       "kode_provinsi": "13",
       "nama_provinsi": "SUMATERA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "221127",
-          "perempuan": "218933",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "441773",
           "semester": "1",
           "jumlah_penduduk_km2": "3852.993",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "221127",
+          "perempuan": "218933",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -503,6 +568,13 @@
           "usia_70_74": "6114",
           "usia_75_tahun_ke_atas": "6076",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "118579",
+          "tahun": "2022",
+          "usia_15_64_thn": "298621",
+          "usia_diatas_65_thn": "22860"
         }
       }
     },
@@ -513,17 +585,16 @@
       "kode_provinsi": "13",
       "nama_provinsi": "SUMATERA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "463310",
-          "perempuan": "465231",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "928541",
           "semester": "1",
           "jumlah_penduduk_km2": "694.337",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "463310",
+          "perempuan": "465231",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -545,6 +616,13 @@
           "usia_70_74": "18811",
           "usia_75_tahun_ke_atas": "19129",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "216739",
+          "tahun": "2022",
+          "usia_15_64_thn": "637495",
+          "usia_diatas_65_thn": "70606"
         }
       }
     },
@@ -555,17 +633,16 @@
       "kode_provinsi": "13",
       "nama_provinsi": "SUMATERA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "39956",
-          "perempuan": "39747",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "79703",
           "semester": "1",
           "jumlah_penduduk_km2": "58.72",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "39956",
+          "perempuan": "39747",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -587,6 +664,13 @@
           "usia_70_74": "1205",
           "usia_75_tahun_ke_atas": "1204",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "20527",
+          "tahun": "2022",
+          "usia_15_64_thn": "53859",
+          "usia_diatas_65_thn": "4671"
         }
       }
     },
@@ -597,17 +681,16 @@
       "kode_provinsi": "13",
       "nama_provinsi": "SUMATERA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "34260",
-          "perempuan": "33794",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "68054",
           "semester": "1",
           "jumlah_penduduk_km2": "231.945",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "34260",
+          "perempuan": "33794",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -629,6 +712,13 @@
           "usia_70_74": "1509",
           "usia_75_tahun_ke_atas": "1763",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "15452",
+          "tahun": "2022",
+          "usia_15_64_thn": "46544",
+          "usia_diatas_65_thn": "5773"
         }
       }
     },
@@ -639,17 +729,16 @@
       "kode_provinsi": "13",
       "nama_provinsi": "SUMATERA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "30960",
-          "perempuan": "30599",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "61559",
           "semester": "1",
           "jumlah_penduduk_km2": "23.56",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "30960",
+          "perempuan": "30599",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -671,6 +760,13 @@
           "usia_70_74": "1135",
           "usia_75_tahun_ke_atas": "1237",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "15294",
+          "tahun": "2022",
+          "usia_15_64_thn": "41573",
+          "usia_diatas_65_thn": "4208"
         }
       }
     },
@@ -681,17 +777,16 @@
       "kode_provinsi": "13",
       "nama_provinsi": "SUMATERA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "67894",
-          "perempuan": "67595",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "135489",
           "semester": "1",
           "jumlah_penduduk_km2": "24.173",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "67894",
+          "perempuan": "67595",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -713,6 +808,13 @@
           "usia_70_74": "2378",
           "usia_75_tahun_ke_atas": "2887",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "33067",
+          "tahun": "2022",
+          "usia_15_64_thn": "91821",
+          "usia_diatas_65_thn": "9524"
         }
       }
     },
@@ -723,17 +825,16 @@
       "kode_provinsi": "13",
       "nama_provinsi": "SUMATERA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "72798",
-          "perempuan": "71929",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "144727",
           "semester": "1",
           "jumlah_penduduk_km2": "74.552",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "72798",
+          "perempuan": "71929",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -755,6 +856,13 @@
           "usia_70_74": "2728",
           "usia_75_tahun_ke_atas": "2915",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "35111",
+          "tahun": "2022",
+          "usia_15_64_thn": "97887",
+          "usia_diatas_65_thn": "10612"
         }
       }
     },
@@ -765,17 +873,16 @@
       "kode_provinsi": "13",
       "nama_provinsi": "SUMATERA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "50093",
-          "perempuan": "49391",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "99484",
           "semester": "1",
           "jumlah_penduduk_km2": "64.767",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "50093",
+          "perempuan": "49391",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -797,6 +904,13 @@
           "usia_70_74": "2007",
           "usia_75_tahun_ke_atas": "2494",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "23585",
+          "tahun": "2022",
+          "usia_15_64_thn": "67381",
+          "usia_diatas_65_thn": "7724"
         }
       }
     }

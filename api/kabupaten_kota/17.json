@@ -9,18 +9,17 @@
       "kode_provinsi": "17",
       "nama_provinsi": "BENGKULU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "87093",
-          "perempuan": "84713",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "173126",
           "semester": "1",
           "jumlah_penduduk_km2": "1219.218",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "87093",
+          "perempuan": "84713",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "3024",
           "usia_75_tahun_ke_atas": "4040",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "39641",
+          "tahun": "2022",
+          "usia_15_64_thn": "120210",
+          "usia_diatas_65_thn": "11955"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "17",
       "nama_provinsi": "BENGKULU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "144249",
-          "perempuan": "138215",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "283596",
           "semester": "1",
           "jumlah_penduduk_km2": "1559.419",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "144249",
+          "perempuan": "138215",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "4628",
           "usia_75_tahun_ke_atas": "4982",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "61525",
+          "tahun": "2022",
+          "usia_15_64_thn": "203722",
+          "usia_diatas_65_thn": "17217"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "17",
       "nama_provinsi": "BENGKULU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "152494",
-          "perempuan": "146451",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "301865",
           "semester": "1",
           "jumlah_penduduk_km2": "4481.992",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "152494",
+          "perempuan": "146451",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "5109",
           "usia_75_tahun_ke_atas": "5744",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "72834",
+          "tahun": "2022",
+          "usia_15_64_thn": "207098",
+          "usia_diatas_65_thn": "19013"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "17",
       "nama_provinsi": "BENGKULU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "68015",
-          "perempuan": "64122",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "132826",
           "semester": "1",
           "jumlah_penduduk_km2": "2608.556",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "68015",
+          "perempuan": "64122",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "2152",
           "usia_75_tahun_ke_atas": "2634",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "30378",
+          "tahun": "2022",
+          "usia_15_64_thn": "93557",
+          "usia_diatas_65_thn": "8202"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "17",
       "nama_provinsi": "BENGKULU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "110307",
-          "perempuan": "103938",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "214495",
           "semester": "1",
           "jumlah_penduduk_km2": "2432.164",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "110307",
+          "perempuan": "103938",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "3270",
           "usia_75_tahun_ke_atas": "4211",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "48298",
+          "tahun": "2022",
+          "usia_15_64_thn": "152896",
+          "usia_diatas_65_thn": "13051"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "17",
       "nama_provinsi": "BENGKULU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "101285",
-          "perempuan": "95464",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "198368",
           "semester": "1",
           "jumlah_penduduk_km2": "4138.677",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "101285",
+          "perempuan": "95464",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "2768",
           "usia_75_tahun_ke_atas": "2898",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "51483",
+          "tahun": "2022",
+          "usia_15_64_thn": "135229",
+          "usia_diatas_65_thn": "10037"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "17",
       "nama_provinsi": "BENGKULU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "57226",
-          "perempuan": "54955",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "112982",
           "semester": "1",
           "jumlah_penduduk_km2": "1666.621",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "57226",
+          "perempuan": "54955",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "2098",
           "usia_75_tahun_ke_atas": "2521",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "25287",
+          "tahun": "2022",
+          "usia_15_64_thn": "78857",
+          "usia_diatas_65_thn": "8037"
         }
       }
     },
@@ -303,18 +345,17 @@
       "kode_provinsi": "17",
       "nama_provinsi": "BENGKULU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "79213",
-          "perempuan": "74335",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "153990",
           "semester": "1",
           "jumlah_penduduk_km2": "738.965",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "79213",
+          "perempuan": "74335",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -335,6 +376,13 @@
           "usia_70_74": "2373",
           "usia_75_tahun_ke_atas": "2880",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "33802",
+          "tahun": "2022",
+          "usia_15_64_thn": "110411",
+          "usia_diatas_65_thn": "9335"
         }
       }
     },
@@ -345,18 +393,17 @@
       "kode_provinsi": "17",
       "nama_provinsi": "BENGKULU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "61910",
-          "perempuan": "59268",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "122198",
           "semester": "1",
           "jumlah_penduduk_km2": "1132.38",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "61910",
+          "perempuan": "59268",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -377,6 +424,13 @@
           "usia_70_74": "1679",
           "usia_75_tahun_ke_atas": "2038",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "29823",
+          "tahun": "2022",
+          "usia_15_64_thn": "84844",
+          "usia_diatas_65_thn": "6511"
         }
       }
     },
@@ -387,17 +441,16 @@
       "kode_provinsi": "17",
       "nama_provinsi": "BENGKULU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "193696",
-          "perempuan": "191816",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "385512",
           "semester": "1",
           "jumlah_penduduk_km2": "150.348",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "193696",
+          "perempuan": "191816",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -419,6 +472,13 @@
           "usia_70_74": "4352",
           "usia_75_tahun_ke_atas": "3708",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "96501",
+          "tahun": "2022",
+          "usia_15_64_thn": "268674",
+          "usia_diatas_65_thn": "17145"
         }
       }
     }

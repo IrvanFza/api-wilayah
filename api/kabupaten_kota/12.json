@@ -9,18 +9,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "184571",
-          "perempuan": "181941",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "366982",
           "semester": "1",
           "jumlah_penduduk_km2": "2307.677",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "184571",
+          "perempuan": "181941",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "5355",
           "usia_75_tahun_ke_atas": "5948",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "90185",
+          "tahun": "2022",
+          "usia_15_64_thn": "256075",
+          "usia_diatas_65_thn": "20252"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "160299",
-          "perempuan": "162795",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "323652",
           "semester": "1",
           "jumlah_penduduk_km2": "3895.604",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "160299",
+          "perempuan": "162795",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "7358",
           "usia_75_tahun_ke_atas": "9599",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "82948",
+          "tahun": "2022",
+          "usia_15_64_thn": "212317",
+          "usia_diatas_65_thn": "27829"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "159129",
-          "perempuan": "157439",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "317080",
           "semester": "1",
           "jumlah_penduduk_km2": "4201.035",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "159129",
+          "perempuan": "157439",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "4852",
           "usia_75_tahun_ke_atas": "5404",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "84637",
+          "tahun": "2022",
+          "usia_15_64_thn": "212701",
+          "usia_diatas_65_thn": "19230"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "71494",
-          "perempuan": "74466",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "146550",
           "semester": "1",
           "jumlah_penduduk_km2": "902.395",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "71494",
+          "perempuan": "74466",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "1967",
           "usia_75_tahun_ke_atas": "2120",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "41340",
+          "tahun": "2022",
+          "usia_15_64_thn": "97353",
+          "usia_diatas_65_thn": "7267"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "552136",
-          "perempuan": "544137",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1098660",
           "semester": "1",
           "jumlah_penduduk_km2": "6140.035",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "552136",
+          "perempuan": "544137",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "19197",
           "usia_75_tahun_ke_atas": "20089",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "260986",
+          "tahun": "2022",
+          "usia_15_64_thn": "763139",
+          "usia_diatas_65_thn": "72148"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "202238",
-          "perempuan": "208395",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "411278",
           "semester": "1",
           "jumlah_penduduk_km2": "2206.876",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "202238",
+          "perempuan": "208395",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "8255",
           "usia_75_tahun_ke_atas": "11944",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "90306",
+          "tahun": "2022",
+          "usia_15_64_thn": "288315",
+          "usia_diatas_65_thn": "32012"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "1010007",
-          "perempuan": "1002843",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "2016905",
           "semester": "1",
           "jumlah_penduduk_km2": "2581.232",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "1010007",
+          "perempuan": "1002843",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "32378",
           "usia_75_tahun_ke_atas": "30610",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "478104",
+          "tahun": "2022",
+          "usia_15_64_thn": "1416172",
+          "usia_diatas_65_thn": "118574"
         }
       }
     },
@@ -303,18 +345,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "520506",
-          "perempuan": "518974",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1040003",
           "semester": "1",
           "jumlah_penduduk_km2": "4601.477",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "520506",
+          "perempuan": "518974",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -335,6 +376,13 @@
           "usia_70_74": "23991",
           "usia_75_tahun_ke_atas": "30866",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "207600",
+          "tahun": "2022",
+          "usia_15_64_thn": "739206",
+          "usia_diatas_65_thn": "92674"
         }
       }
     },
@@ -345,18 +393,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "400372",
-          "perempuan": "391120",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "792177",
           "semester": "1",
           "jumlah_penduduk_km2": "3737.83",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "400372",
+          "perempuan": "391120",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -377,6 +424,13 @@
           "usia_70_74": "12264",
           "usia_75_tahun_ke_atas": "12667",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "189991",
+          "tahun": "2022",
+          "usia_15_64_thn": "554474",
+          "usia_diatas_65_thn": "47027"
         }
       }
     },
@@ -387,18 +441,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "256478",
-          "perempuan": "249607",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "506674",
           "semester": "1",
           "jumlah_penduduk_km2": "2772.384",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "256478",
+          "perempuan": "249607",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -419,6 +472,13 @@
           "usia_70_74": "6680",
           "usia_75_tahun_ke_atas": "6417",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "125219",
+          "tahun": "2022",
+          "usia_15_64_thn": "355894",
+          "usia_diatas_65_thn": "24972"
         }
       }
     },
@@ -429,18 +489,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "160171",
-          "perempuan": "161375",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "322122",
           "semester": "1",
           "jumlah_penduduk_km2": "2083.604",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "160171",
+          "perempuan": "161375",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -461,6 +520,13 @@
           "usia_70_74": "6333",
           "usia_75_tahun_ke_atas": "7646",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "80170",
+          "tahun": "2022",
+          "usia_15_64_thn": "217033",
+          "usia_diatas_65_thn": "24343"
         }
       }
     },
@@ -471,18 +537,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "106356",
-          "perempuan": "107724",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "214640",
           "semester": "1",
           "jumlah_penduduk_km2": "2291.616",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "106356",
+          "perempuan": "107724",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -503,6 +568,13 @@
           "usia_70_74": "4660",
           "usia_75_tahun_ke_atas": "6602",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "52553",
+          "tahun": "2022",
+          "usia_15_64_thn": "143743",
+          "usia_diatas_65_thn": "17784"
         }
       }
     },
@@ -513,18 +585,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "245066",
-          "perempuan": "246287",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "492324",
           "semester": "1",
           "jumlah_penduduk_km2": "6547.257",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "245066",
+          "perempuan": "246287",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -545,6 +616,13 @@
           "usia_70_74": "6916",
           "usia_75_tahun_ke_atas": "7371",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "135919",
+          "tahun": "2022",
+          "usia_15_64_thn": "329177",
+          "usia_diatas_65_thn": "26257"
         }
       }
     },
@@ -555,18 +633,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "184966",
-          "perempuan": "183153",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "368484",
           "semester": "1",
           "jumlah_penduduk_km2": "2531.703",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "184966",
+          "perempuan": "183153",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -587,6 +664,13 @@
           "usia_70_74": "4303",
           "usia_75_tahun_ke_atas": "4383",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "80481",
+          "tahun": "2022",
+          "usia_15_64_thn": "272308",
+          "usia_diatas_65_thn": "15330"
         }
       }
     },
@@ -597,18 +681,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "28185",
-          "perempuan": "27664",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "56272",
           "semester": "1",
           "jumlah_penduduk_km2": "1365.607",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "28185",
+          "perempuan": "27664",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -629,6 +712,13 @@
           "usia_70_74": "762",
           "usia_75_tahun_ke_atas": "996",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "15785",
+          "tahun": "2022",
+          "usia_15_64_thn": "37269",
+          "usia_diatas_65_thn": "2795"
         }
       }
     },
@@ -639,18 +729,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "102129",
-          "perempuan": "102582",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "205090",
           "semester": "1",
           "jumlah_penduduk_km2": "2351.514",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "102129",
+          "perempuan": "102582",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -671,6 +760,13 @@
           "usia_70_74": "4225",
           "usia_75_tahun_ke_atas": "6634",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "52072",
+          "tahun": "2022",
+          "usia_15_64_thn": "135736",
+          "usia_diatas_65_thn": "16903"
         }
       }
     },
@@ -681,18 +777,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "70913",
-          "perempuan": "72255",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "143994",
           "semester": "1",
           "jumlah_penduduk_km2": "1850.035",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "70913",
+          "perempuan": "72255",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -713,6 +808,13 @@
           "usia_70_74": "3341",
           "usia_75_tahun_ke_atas": "5029",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "35993",
+          "tahun": "2022",
+          "usia_15_64_thn": "93907",
+          "usia_diatas_65_thn": "13268"
         }
       }
     },
@@ -723,18 +825,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "339302",
-          "perempuan": "337154",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "678530",
           "semester": "1",
           "jumlah_penduduk_km2": "1949.18",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "339302",
+          "perempuan": "337154",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -755,6 +856,13 @@
           "usia_70_74": "12385",
           "usia_75_tahun_ke_atas": "12640",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "162399",
+          "tahun": "2022",
+          "usia_15_64_thn": "468108",
+          "usia_diatas_65_thn": "45949"
         }
       }
     },
@@ -765,18 +873,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "227920",
-          "perempuan": "224159",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "453887",
           "semester": "1",
           "jumlah_penduduk_km2": "888.142",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "227920",
+          "perempuan": "224159",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -797,6 +904,13 @@
           "usia_70_74": "7453",
           "usia_75_tahun_ke_atas": "8237",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "115987",
+          "tahun": "2022",
+          "usia_15_64_thn": "307841",
+          "usia_diatas_65_thn": "28251"
         }
       }
     },
@@ -807,18 +921,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "137120",
-          "perempuan": "133591",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "271150",
           "semester": "1",
           "jumlah_penduduk_km2": "3945.557",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "137120",
+          "perempuan": "133591",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -839,6 +952,13 @@
           "usia_70_74": "2990",
           "usia_75_tahun_ke_atas": "3704",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "74347",
+          "tahun": "2022",
+          "usia_15_64_thn": "184285",
+          "usia_diatas_65_thn": "12079"
         }
       }
     },
@@ -849,18 +969,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "133125",
-          "perempuan": "131306",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "264993",
           "semester": "1",
           "jumlah_penduduk_km2": "3914.413",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "133125",
+          "perempuan": "131306",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -881,6 +1000,13 @@
           "usia_70_74": "3064",
           "usia_75_tahun_ke_atas": "2918",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "72792",
+          "tahun": "2022",
+          "usia_15_64_thn": "180407",
+          "usia_diatas_65_thn": "11232"
         }
       }
     },
@@ -891,18 +1017,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "166321",
-          "perempuan": "159264",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "326389",
           "semester": "1",
           "jumlah_penduduk_km2": "3079.61",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "166321",
+          "perempuan": "159264",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -923,6 +1048,13 @@
           "usia_70_74": "2780",
           "usia_75_tahun_ke_atas": "2119",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "85985",
+          "tahun": "2022",
+          "usia_15_64_thn": "228645",
+          "usia_diatas_65_thn": "10955"
         }
       }
     },
@@ -933,18 +1065,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "200917",
-          "perempuan": "195805",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "397331",
           "semester": "1",
           "jumlah_penduduk_km2": "3686.013",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "200917",
+          "perempuan": "195805",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -965,6 +1096,13 @@
           "usia_70_74": "5363",
           "usia_75_tahun_ke_atas": "5266",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "99254",
+          "tahun": "2022",
+          "usia_15_64_thn": "277150",
+          "usia_diatas_65_thn": "20318"
         }
       }
     },
@@ -975,18 +1113,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "76143",
-          "perempuan": "76717",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "153178",
           "semester": "1",
           "jumlah_penduduk_km2": "1238.055",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "76143",
+          "perempuan": "76717",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -1007,6 +1144,13 @@
           "usia_70_74": "2036",
           "usia_75_tahun_ke_atas": "2331",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "37013",
+          "tahun": "2022",
+          "usia_15_64_thn": "108207",
+          "usia_diatas_65_thn": "7640"
         }
       }
     },
@@ -1017,18 +1161,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "47289",
-          "perempuan": "49850",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "97633",
           "semester": "1",
           "jumlah_penduduk_km2": "464.219",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "47289",
+          "perempuan": "49850",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -1049,6 +1192,13 @@
           "usia_70_74": "1422",
           "usia_75_tahun_ke_atas": "1419",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "25265",
+          "tahun": "2022",
+          "usia_15_64_thn": "66960",
+          "usia_diatas_65_thn": "4914"
         }
       }
     },
@@ -1059,17 +1209,16 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "1258452",
-          "perempuan": "1272041",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "2530493",
           "semester": "1",
           "jumlah_penduduk_km2": "279.29",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "1258452",
+          "perempuan": "1272041",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1091,6 +1240,13 @@
           "usia_70_74": "45775",
           "usia_75_tahun_ke_atas": "51279",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "541173",
+          "tahun": "2022",
+          "usia_15_64_thn": "1812063",
+          "usia_diatas_65_thn": "174829"
         }
       }
     },
@@ -1101,17 +1257,16 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "135493",
-          "perempuan": "139697",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "275190",
           "semester": "1",
           "jumlah_penduduk_km2": "75.919",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "135493",
+          "perempuan": "139697",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1133,6 +1288,13 @@
           "usia_70_74": "5955",
           "usia_75_tahun_ke_atas": "8347",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "56707",
+          "tahun": "2022",
+          "usia_15_64_thn": "193675",
+          "usia_diatas_65_thn": "24010"
         }
       }
     },
@@ -1143,17 +1305,16 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "48802",
-          "perempuan": "48417",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "97219",
           "semester": "1",
           "jumlah_penduduk_km2": "11.471",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "48802",
+          "perempuan": "48417",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1175,6 +1336,13 @@
           "usia_70_74": "1363",
           "usia_75_tahun_ke_atas": "1120",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "23704",
+          "tahun": "2022",
+          "usia_15_64_thn": "67685",
+          "usia_diatas_65_thn": "5058"
         }
       }
     },
@@ -1185,17 +1353,16 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "91819",
-          "perempuan": "89564",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "181383",
           "semester": "1",
           "jumlah_penduduk_km2": "60.072",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "91819",
+          "perempuan": "89564",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1217,6 +1384,13 @@
           "usia_70_74": "2532",
           "usia_75_tahun_ke_atas": "2829",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "45553",
+          "tahun": "2022",
+          "usia_15_64_thn": "125371",
+          "usia_diatas_65_thn": "9835"
         }
       }
     },
@@ -1227,17 +1401,16 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "152437",
-          "perempuan": "153540",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "305977",
           "semester": "1",
           "jumlah_penduduk_km2": "93.77",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "152437",
+          "perempuan": "153540",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1259,6 +1432,13 @@
           "usia_70_74": "5335",
           "usia_75_tahun_ke_atas": "5349",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "70678",
+          "tahun": "2022",
+          "usia_15_64_thn": "213990",
+          "usia_diatas_65_thn": "19886"
         }
       }
     },
@@ -1269,17 +1449,16 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "88901",
-          "perempuan": "89623",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "178524",
           "semester": "1",
           "jumlah_penduduk_km2": "39.17",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "88901",
+          "perempuan": "89623",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1301,6 +1480,13 @@
           "usia_70_74": "2942",
           "usia_75_tahun_ke_atas": "2786",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "41578",
+          "tahun": "2022",
+          "usia_15_64_thn": "125311",
+          "usia_diatas_65_thn": "11147"
         }
       }
     },
@@ -1311,18 +1497,17 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "114339",
-          "perempuan": "114571",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "229408",
           "semester": "1",
           "jumlah_penduduk_km2": "159.298",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "114339",
+          "perempuan": "114571",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -1343,6 +1528,13 @@
           "usia_70_74": "3338",
           "usia_75_tahun_ke_atas": "3844",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "54821",
+          "tahun": "2022",
+          "usia_15_64_thn": "160010",
+          "usia_diatas_65_thn": "14079"
         }
       }
     },
@@ -1353,17 +1545,16 @@
       "kode_provinsi": "12",
       "nama_provinsi": "SUMATERA UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "67055",
-          "perempuan": "70677",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "137732",
           "semester": "1",
           "jumlah_penduduk_km2": "208.684",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "67055",
+          "perempuan": "70677",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1385,6 +1576,13 @@
           "usia_70_74": "1963",
           "usia_75_tahun_ke_atas": "2025",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "36198",
+          "tahun": "2022",
+          "usia_15_64_thn": "94069",
+          "usia_diatas_65_thn": "7251"
         }
       }
     }

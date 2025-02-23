@@ -28,13 +28,43 @@ function filterByLatestSemesterAndYear(populationData) {
   const latestData = [];
 
   Object.values(groupedData).forEach(group => {
-
-    const maxYear = Math.max(...group.map(item => parseInt(item.tahun, 10)));
-    const groupWithMaxYear = group.filter(item => parseInt(item.tahun, 10) === maxYear);
-    const maxSemester = Math.max(...groupWithMaxYear.map(item => parseInt(item.semester, 10)));
-    const latestRecords = groupWithMaxYear.filter(
-      item => parseInt(item.semester, 10) === maxSemester
+    const validYearItems = group.filter(
+      (item) => item.tahun != null && !isNaN(parseInt(item.tahun, 10))
     );
+
+    const maxYear =
+      validYearItems.length > 0
+        ? Math.max(...validYearItems.map((item) => parseInt(item.tahun, 10)))
+        : null;
+
+    let groupWithMaxYear;
+    if (maxYear !== null) {
+      groupWithMaxYear = group.filter(
+        (item) => parseInt(item.tahun, 10) === maxYear
+      );
+    } else {
+      groupWithMaxYear = group.filter((item) => item.tahun == null);
+    }
+
+    const validSemesterItems = groupWithMaxYear.filter(
+      (item) => item.semester != null && !isNaN(parseInt(item.semester, 10))
+    );
+
+    const maxSemester =
+      validSemesterItems.length > 0
+        ? Math.max(
+            ...validSemesterItems.map((item) => parseInt(item.semester, 10))
+          )
+        : null;
+
+    let latestRecords;
+    if (maxSemester !== null) {
+      latestRecords = groupWithMaxYear.filter(
+        (item) => parseInt(item.semester, 10) === maxSemester
+      );
+    } else {
+      latestRecords = groupWithMaxYear.filter((item) => item.semester == null);
+    }
 
     latestData.push(...latestRecords);
   });

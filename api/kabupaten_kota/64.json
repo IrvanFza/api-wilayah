@@ -9,18 +9,17 @@
       "kode_provinsi": "64",
       "nama_provinsi": "KALIMANTAN TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "153455",
-          "perempuan": "143127",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "298997",
           "semester": "1",
           "jumlah_penduduk_km2": "10708.203",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "153455",
+          "perempuan": "143127",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "3281",
           "usia_75_tahun_ke_atas": "3096",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "77588",
+          "tahun": "2022",
+          "usia_15_64_thn": "206666",
+          "usia_diatas_65_thn": "12328"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "64",
       "nama_provinsi": "KALIMANTAN TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "405154",
-          "perempuan": "372942",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "782634",
           "semester": "1",
           "jumlah_penduduk_km2": "26926.494",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "405154",
+          "perempuan": "372942",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "8543",
           "usia_75_tahun_ke_atas": "7902",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "202076",
+          "tahun": "2022",
+          "usia_15_64_thn": "541283",
+          "usia_diatas_65_thn": "34737"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "64",
       "nama_provinsi": "KALIMANTAN TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "144720",
-          "perempuan": "128167",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "276241",
           "semester": "1",
           "jumlah_penduduk_km2": "21008.64",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "144720",
+          "perempuan": "128167",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "2472",
           "usia_75_tahun_ke_atas": "2343",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "73201",
+          "tahun": "2022",
+          "usia_15_64_thn": "190483",
+          "usia_diatas_65_thn": "9203"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "64",
       "nama_provinsi": "KALIMANTAN TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "92207",
-          "perempuan": "83403",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "177007",
           "semester": "1",
           "jumlah_penduduk_km2": "13769.367",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "92207",
+          "perempuan": "83403",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "2171",
           "usia_75_tahun_ke_atas": "2451",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "42714",
+          "tahun": "2022",
+          "usia_15_64_thn": "124378",
+          "usia_diatas_65_thn": "8518"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "64",
       "nama_provinsi": "KALIMANTAN TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "227438",
-          "perempuan": "198349",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "427492",
           "semester": "1",
           "jumlah_penduduk_km2": "31580.182",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "227438",
+          "perempuan": "198349",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "3455",
           "usia_75_tahun_ke_atas": "3057",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "112727",
+          "tahun": "2022",
+          "usia_15_64_thn": "300684",
+          "usia_diatas_65_thn": "12376"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "64",
       "nama_provinsi": "KALIMANTAN TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "99423",
-          "perempuan": "92544",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "193554",
           "semester": "1",
           "jumlah_penduduk_km2": "3173.304",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "99423",
+          "perempuan": "92544",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "2550",
           "usia_75_tahun_ke_atas": "2498",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "49612",
+          "tahun": "2022",
+          "usia_15_64_thn": "132909",
+          "usia_diatas_65_thn": "9446"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "64",
       "nama_provinsi": "KALIMANTAN TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "19920",
-          "perempuan": "17398",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "37637",
           "semester": "1",
           "jumlah_penduduk_km2": "18427.794",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "19920",
+          "perempuan": "17398",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "521",
           "usia_75_tahun_ke_atas": "660",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "8678",
+          "tahun": "2022",
+          "usia_15_64_thn": "26504",
+          "usia_diatas_65_thn": "2136"
         }
       }
     },
@@ -303,17 +345,16 @@
       "kode_provinsi": "64",
       "nama_provinsi": "KALIMANTAN TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "374627",
-          "perempuan": "358769",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "733396",
           "semester": "1",
           "jumlah_penduduk_km2": "509.702",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "374627",
+          "perempuan": "358769",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -335,6 +376,13 @@
           "usia_70_74": "9954",
           "usia_75_tahun_ke_atas": "7367",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "182013",
+          "tahun": "2022",
+          "usia_15_64_thn": "509824",
+          "usia_diatas_65_thn": "35828"
         }
       }
     },
@@ -345,17 +393,16 @@
       "kode_provinsi": "64",
       "nama_provinsi": "KALIMANTAN TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "435720",
-          "perempuan": "420640",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "856360",
           "semester": "1",
           "jumlah_penduduk_km2": "716.783",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "435720",
+          "perempuan": "420640",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -377,6 +424,13 @@
           "usia_70_74": "10208",
           "usia_75_tahun_ke_atas": "8340",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "207586",
+          "tahun": "2022",
+          "usia_15_64_thn": "604614",
+          "usia_diatas_65_thn": "37517"
         }
       }
     },
@@ -387,17 +441,16 @@
       "kode_provinsi": "64",
       "nama_provinsi": "KALIMANTAN TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "96930",
-          "perempuan": "90516",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "187446",
           "semester": "1",
           "jumlah_penduduk_km2": "160.81",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "96930",
+          "perempuan": "90516",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -419,6 +472,13 @@
           "usia_70_74": "1450",
           "usia_75_tahun_ke_atas": "932",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "47732",
+          "tahun": "2022",
+          "usia_15_64_thn": "132651",
+          "usia_diatas_65_thn": "5754"
         }
       }
     }

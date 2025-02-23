@@ -9,18 +9,17 @@
       "kode_provinsi": "21",
       "nama_provinsi": "KEPULAUAN RIAU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "87992",
-          "perempuan": "83738",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "173171",
           "semester": "1",
           "jumlah_penduduk_km2": "1317.149",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "87992",
+          "perempuan": "83738",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "2112",
           "usia_75_tahun_ke_atas": "2303",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "42956",
+          "tahun": "2022",
+          "usia_15_64_thn": "120753",
+          "usia_diatas_65_thn": "8021"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "21",
       "nama_provinsi": "KEPULAUAN RIAU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "135853",
-          "perempuan": "129787",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "267762",
           "semester": "1",
           "jumlah_penduduk_km2": "930.453",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "135853",
+          "perempuan": "129787",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "4656",
           "usia_75_tahun_ke_atas": "5121",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "63438",
+          "tahun": "2022",
+          "usia_15_64_thn": "184865",
+          "usia_diatas_65_thn": "17337"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "21",
       "nama_provinsi": "KEPULAUAN RIAU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "42530",
-          "perempuan": "40708",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "83450",
           "semester": "1",
           "jumlah_penduduk_km2": "1999.155",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "42530",
+          "perempuan": "40708",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "1278",
           "usia_75_tahun_ke_atas": "1311",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "20893",
+          "tahun": "2022",
+          "usia_15_64_thn": "57691",
+          "usia_diatas_65_thn": "4654"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "21",
       "nama_provinsi": "KEPULAUAN RIAU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "52808",
-          "perempuan": "49545",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "102474",
           "semester": "1",
           "jumlah_penduduk_km2": "2210.819",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "52808",
+          "perempuan": "49545",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "2244",
           "usia_75_tahun_ke_atas": "2427",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "22599",
+          "tahun": "2022",
+          "usia_15_64_thn": "71653",
+          "usia_diatas_65_thn": "8101"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "21",
       "nama_provinsi": "KEPULAUAN RIAU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "25004",
-          "perempuan": "23757",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "49274",
           "semester": "1",
           "jumlah_penduduk_km2": "627.027",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "25004",
+          "perempuan": "23757",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "644",
           "usia_75_tahun_ke_atas": "772",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "12273",
+          "tahun": "2022",
+          "usia_15_64_thn": "33845",
+          "usia_diatas_65_thn": "2643"
         }
       }
     },
@@ -219,17 +249,16 @@
       "kode_provinsi": "21",
       "nama_provinsi": "KEPULAUAN RIAU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "629319",
-          "perempuan": "611473",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1240792",
           "semester": "1",
           "jumlah_penduduk_km2": "1034.732",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "629319",
+          "perempuan": "611473",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -251,6 +280,13 @@
           "usia_70_74": "6946",
           "usia_75_tahun_ke_atas": "5896",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "323378",
+          "tahun": "2022",
+          "usia_15_64_thn": "880924",
+          "usia_diatas_65_thn": "25914"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "21",
       "nama_provinsi": "KEPULAUAN RIAU",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "116465",
-          "perempuan": "115088",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "233406",
           "semester": "1",
           "jumlah_penduduk_km2": "150.373",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "116465",
+          "perempuan": "115088",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "3672",
           "usia_75_tahun_ke_atas": "3521",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "53030",
+          "tahun": "2022",
+          "usia_15_64_thn": "165108",
+          "usia_diatas_65_thn": "13415"
         }
       }
     }

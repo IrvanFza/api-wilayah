@@ -9,18 +9,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "300492",
-          "perempuan": "298690",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "599575",
           "semester": "1",
           "jumlah_penduduk_km2": "1433.593",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "300492",
+          "perempuan": "298690",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "22213",
           "usia_75_tahun_ke_atas": "33179",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "97715",
+          "tahun": "2022",
+          "usia_15_64_thn": "414382",
+          "usia_diatas_65_thn": "87085"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "482557",
-          "perempuan": "487936",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "973269",
           "semester": "1",
           "jumlah_penduduk_km2": "1418.618",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "482557",
+          "perempuan": "487936",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "35195",
           "usia_75_tahun_ke_atas": "52214",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "162012",
+          "tahun": "2022",
+          "usia_15_64_thn": "673265",
+          "usia_diatas_65_thn": "135216"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "377272",
-          "perempuan": "373807",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "755350",
           "semester": "1",
           "jumlah_penduduk_km2": "1249.232",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "377272",
+          "perempuan": "373807",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "24919",
           "usia_75_tahun_ke_atas": "34873",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "128856",
+          "tahun": "2022",
+          "usia_15_64_thn": "525642",
+          "usia_diatas_65_thn": "96581"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "565381",
-          "perempuan": "562706",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1132144",
           "semester": "1",
           "jumlah_penduduk_km2": "1144.525",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "565381",
+          "perempuan": "562706",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "33381",
           "usia_75_tahun_ke_atas": "45773",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "200147",
+          "tahun": "2022",
+          "usia_15_64_thn": "801661",
+          "usia_diatas_65_thn": "126279"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "622802",
-          "perempuan": "616763",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1244527",
           "semester": "1",
           "jumlah_penduduk_km2": "1745.156",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "622802",
+          "perempuan": "616763",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "38633",
           "usia_75_tahun_ke_atas": "48934",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "225710",
+          "tahun": "2022",
+          "usia_15_64_thn": "873504",
+          "usia_diatas_65_thn": "140351"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "845526",
-          "perempuan": "829292",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1679039",
           "semester": "1",
           "jumlah_penduduk_km2": "1523.563",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "845526",
+          "perempuan": "829292",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "41870",
           "usia_75_tahun_ke_atas": "57262",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "326206",
+          "tahun": "2022",
+          "usia_15_64_thn": "1185620",
+          "usia_diatas_65_thn": "162992"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "1350391",
-          "perempuan": "1331139",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "2692260",
           "semester": "1",
           "jumlah_penduduk_km2": "3473.439",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "1350391",
+          "perempuan": "1331139",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "68010",
           "usia_75_tahun_ke_atas": "78234",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "528473",
+          "tahun": "2022",
+          "usia_15_64_thn": "1899301",
+          "usia_diatas_65_thn": "253756"
         }
       }
     },
@@ -303,18 +345,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "544410",
-          "perempuan": "553094",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1101906",
           "semester": "1",
           "jumlah_penduduk_km2": "1797.098",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "544410",
+          "perempuan": "553094",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -335,6 +376,13 @@
           "usia_70_74": "30588",
           "usia_75_tahun_ke_atas": "32814",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "217658",
+          "tahun": "2022",
+          "usia_15_64_thn": "770689",
+          "usia_diatas_65_thn": "109157"
         }
       }
     },
@@ -345,18 +393,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "1291838",
-          "perempuan": "1293437",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "2590290",
           "semester": "1",
           "jumlah_penduduk_km2": "3313.46",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "1291838",
+          "perempuan": "1293437",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -377,6 +424,13 @@
           "usia_70_74": "74413",
           "usia_75_tahun_ke_atas": "89160",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "494946",
+          "tahun": "2022",
+          "usia_15_64_thn": "1824544",
+          "usia_diatas_65_thn": "265785"
         }
       }
     },
@@ -387,18 +441,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "879591",
-          "perempuan": "882590",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1769234",
           "semester": "1",
           "jumlah_penduduk_km2": "3592.898",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "879591",
+          "perempuan": "882590",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -419,6 +472,13 @@
           "usia_70_74": "50688",
           "usia_75_tahun_ke_atas": "70244",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "333107",
+          "tahun": "2022",
+          "usia_15_64_thn": "1236372",
+          "usia_diatas_65_thn": "192702"
         }
       }
     },
@@ -429,18 +489,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "393301",
-          "perempuan": "409563",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "805914",
           "semester": "1",
           "jumlah_penduduk_km2": "1554.992",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "393301",
+          "perempuan": "409563",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -461,6 +520,13 @@
           "usia_70_74": "24911",
           "usia_75_tahun_ke_atas": "34891",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "146698",
+          "tahun": "2022",
+          "usia_15_64_thn": "559642",
+          "usia_diatas_65_thn": "96524"
         }
       }
     },
@@ -471,18 +537,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "329350",
-          "perempuan": "343752",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "678469",
           "semester": "1",
           "jumlah_penduduk_km2": "1653.722",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "329350",
+          "perempuan": "343752",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -503,6 +568,13 @@
           "usia_70_74": "24023",
           "usia_75_tahun_ke_atas": "33079",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "120961",
+          "tahun": "2022",
+          "usia_15_64_thn": "463118",
+          "usia_diatas_65_thn": "89023"
         }
       }
     },
@@ -513,18 +585,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "575834",
-          "perempuan": "591675",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1172181",
           "semester": "1",
           "jumlah_penduduk_km2": "1724.51",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "575834",
+          "perempuan": "591675",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -545,6 +616,13 @@
           "usia_70_74": "30740",
           "usia_75_tahun_ke_atas": "37059",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "243704",
+          "tahun": "2022",
+          "usia_15_64_thn": "811256",
+          "usia_diatas_65_thn": "112549"
         }
       }
     },
@@ -555,18 +633,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "806034",
-          "perempuan": "810156",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1622659",
           "semester": "1",
           "jumlah_penduduk_km2": "1493.291",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "806034",
+          "perempuan": "810156",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -587,6 +664,13 @@
           "usia_70_74": "33770",
           "usia_75_tahun_ke_atas": "34882",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "349885",
+          "tahun": "2022",
+          "usia_15_64_thn": "1143329",
+          "usia_diatas_65_thn": "122976"
         }
       }
     },
@@ -597,18 +681,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "989473",
-          "perempuan": "985563",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1982938",
           "semester": "1",
           "jumlah_penduduk_km2": "724.04",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "989473",
+          "perempuan": "985563",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -629,6 +712,13 @@
           "usia_70_74": "35549",
           "usia_75_tahun_ke_atas": "35971",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "395894",
+          "tahun": "2022",
+          "usia_15_64_thn": "1441450",
+          "usia_diatas_65_thn": "137692"
         }
       }
     },
@@ -639,18 +729,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "571363",
-          "perempuan": "563550",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1139457",
           "semester": "1",
           "jumlah_penduduk_km2": "984.643",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "571363",
+          "perempuan": "563550",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -671,6 +760,13 @@
           "usia_70_74": "24657",
           "usia_75_tahun_ke_atas": "31342",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "230674",
+          "tahun": "2022",
+          "usia_15_64_thn": "807169",
+          "usia_diatas_65_thn": "97070"
         }
       }
     },
@@ -681,18 +777,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "684979",
-          "perempuan": "674353",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1364775",
           "semester": "1",
           "jumlah_penduduk_km2": "1109.835",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "684979",
+          "perempuan": "674353",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -713,6 +808,13 @@
           "usia_70_74": "30079",
           "usia_75_tahun_ke_atas": "41689",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "274546",
+          "tahun": "2022",
+          "usia_15_64_thn": "962937",
+          "usia_diatas_65_thn": "121849"
         }
       }
     },
@@ -723,18 +825,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "570962",
-          "perempuan": "564113",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1139617",
           "semester": "1",
           "jumlah_penduduk_km2": "1289.067",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "570962",
+          "perempuan": "564113",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -755,6 +856,13 @@
           "usia_70_74": "30294",
           "usia_75_tahun_ke_atas": "44613",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "215473",
+          "tahun": "2022",
+          "usia_15_64_thn": "797872",
+          "usia_diatas_65_thn": "121730"
         }
       }
     },
@@ -765,18 +873,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "374752",
-          "perempuan": "380981",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "758517",
           "semester": "1",
           "jumlah_penduduk_km2": "1113.627",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "374752",
+          "perempuan": "380981",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -797,6 +904,13 @@
           "usia_70_74": "25361",
           "usia_75_tahun_ke_atas": "35746",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "127707",
+          "tahun": "2022",
+          "usia_15_64_thn": "527657",
+          "usia_diatas_65_thn": "100369"
         }
       }
     },
@@ -807,18 +921,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "339103",
-          "perempuan": "351142",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "691618",
           "semester": "1",
           "jumlah_penduduk_km2": "706.444",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "339103",
+          "perempuan": "351142",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -839,6 +952,13 @@
           "usia_70_74": "24943",
           "usia_75_tahun_ke_atas": "35770",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "122059",
+          "tahun": "2022",
+          "usia_15_64_thn": "470144",
+          "usia_diatas_65_thn": "98042"
         }
       }
     },
@@ -849,18 +969,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "446332",
-          "perempuan": "451998",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "901638",
           "semester": "1",
           "jumlah_penduduk_km2": "1395.804",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "446332",
+          "perempuan": "451998",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -881,6 +1000,13 @@
           "usia_70_74": "32050",
           "usia_75_tahun_ke_atas": "39513",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "158773",
+          "tahun": "2022",
+          "usia_15_64_thn": "621648",
+          "usia_diatas_65_thn": "117909"
         }
       }
     },
@@ -891,18 +1017,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "677476",
-          "perempuan": "673174",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1356057",
           "semester": "1",
           "jumlah_penduduk_km2": "2312.627",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "677476",
+          "perempuan": "673174",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -923,6 +1048,13 @@
           "usia_70_74": "42205",
           "usia_75_tahun_ke_atas": "57346",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "246676",
+          "tahun": "2022",
+          "usia_15_64_thn": "941474",
+          "usia_diatas_65_thn": "162500"
         }
       }
     },
@@ -933,18 +1065,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "622862",
-          "perempuan": "621774",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1249621",
           "semester": "1",
           "jumlah_penduduk_km2": "1973.501",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "622862",
+          "perempuan": "621774",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -965,6 +1096,13 @@
           "usia_70_74": "38325",
           "usia_75_tahun_ke_atas": "51382",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "228154",
+          "tahun": "2022",
+          "usia_15_64_thn": "869406",
+          "usia_diatas_65_thn": "147076"
         }
       }
     },
@@ -975,18 +1113,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "692778",
-          "perempuan": "688636",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1383227",
           "semester": "1",
           "jumlah_penduduk_km2": "1752.71",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "692778",
+          "perempuan": "688636",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -1007,6 +1144,13 @@
           "usia_70_74": "39192",
           "usia_75_tahun_ke_atas": "46965",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "253953",
+          "tahun": "2022",
+          "usia_15_64_thn": "980282",
+          "usia_diatas_65_thn": "147179"
         }
       }
     },
@@ -1017,18 +1161,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "648861",
-          "perempuan": "642657",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1296688",
           "semester": "1",
           "jumlah_penduduk_km2": "1256.364",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "648861",
+          "perempuan": "642657",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -1049,6 +1192,13 @@
           "usia_70_74": "25054",
           "usia_75_tahun_ke_atas": "26210",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "268318",
+          "tahun": "2022",
+          "usia_15_64_thn": "927399",
+          "usia_diatas_65_thn": "95801"
         }
       }
     },
@@ -1059,18 +1209,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "511733",
-          "perempuan": "527555",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1042870",
           "semester": "1",
           "jumlah_penduduk_km2": "1301.03",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "511733",
+          "perempuan": "527555",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -1091,6 +1240,13 @@
           "usia_70_74": "21367",
           "usia_75_tahun_ke_atas": "23757",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "235830",
+          "tahun": "2022",
+          "usia_15_64_thn": "727813",
+          "usia_diatas_65_thn": "75645"
         }
       }
     },
@@ -1101,18 +1257,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "481675",
-          "perempuan": "491286",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "981488",
           "semester": "1",
           "jumlah_penduduk_km2": "1228.252",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "481675",
+          "perempuan": "491286",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -1133,6 +1288,13 @@
           "usia_70_74": "18052",
           "usia_75_tahun_ke_atas": "22648",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "243648",
+          "tahun": "2022",
+          "usia_15_64_thn": "662439",
+          "usia_diatas_65_thn": "66874"
         }
       }
     },
@@ -1143,18 +1305,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "425345",
-          "perempuan": "444366",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "876699",
           "semester": "1",
           "jumlah_penduduk_km2": "795.154",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "425345",
+          "perempuan": "444366",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -1175,6 +1336,13 @@
           "usia_70_74": "20013",
           "usia_75_tahun_ke_atas": "26481",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "198137",
+          "tahun": "2022",
+          "usia_15_64_thn": "596264",
+          "usia_diatas_65_thn": "75310"
         }
       }
     },
@@ -1185,18 +1353,17 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "548471",
-          "perempuan": "587432",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1138942",
           "semester": "1",
           "jumlah_penduduk_km2": "2084.023",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "548471",
+          "perempuan": "587432",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -1217,6 +1384,13 @@
           "usia_70_74": "33512",
           "usia_75_tahun_ke_atas": "41096",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "214879",
+          "tahun": "2022",
+          "usia_15_64_thn": "796911",
+          "usia_diatas_65_thn": "124113"
         }
       }
     },
@@ -1227,17 +1401,16 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "147256",
-          "perempuan": "149536",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "296792",
           "semester": "1",
           "jumlah_penduduk_km2": "67.232",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "147256",
+          "perempuan": "149536",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1259,6 +1432,13 @@
           "usia_70_74": "6191",
           "usia_75_tahun_ke_atas": "7160",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "61651",
+          "tahun": "2022",
+          "usia_15_64_thn": "208559",
+          "usia_diatas_65_thn": "24482"
         }
       }
     },
@@ -1269,17 +1449,16 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "79434",
-          "perempuan": "79972",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "159406",
           "semester": "1",
           "jumlah_penduduk_km2": "33.203",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "79434",
+          "perempuan": "79972",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1301,6 +1480,13 @@
           "usia_70_74": "3360",
           "usia_75_tahun_ke_atas": "3955",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "32448",
+          "tahun": "2022",
+          "usia_15_64_thn": "113121",
+          "usia_diatas_65_thn": "12989"
         }
       }
     },
@@ -1311,17 +1497,16 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "434919",
-          "perempuan": "439741",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "874660",
           "semester": "1",
           "jumlah_penduduk_km2": "111.077",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "434919",
+          "perempuan": "439741",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1343,6 +1528,13 @@
           "usia_70_74": "19592",
           "usia_75_tahun_ke_atas": "21835",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "180463",
+          "tahun": "2022",
+          "usia_15_64_thn": "616694",
+          "usia_diatas_65_thn": "73966"
         }
       }
     },
@@ -1353,17 +1545,16 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "121194",
-          "perempuan": "122693",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "243887",
           "semester": "1",
           "jumlah_penduduk_km2": "54.676",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "121194",
+          "perempuan": "122693",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1385,6 +1576,13 @@
           "usia_70_74": "4671",
           "usia_75_tahun_ke_atas": "4568",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "53873",
+          "tahun": "2022",
+          "usia_15_64_thn": "172035",
+          "usia_diatas_65_thn": "17180"
         }
       }
     },
@@ -1395,17 +1593,16 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "106258",
-          "perempuan": "106145",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "212403",
           "semester": "1",
           "jumlah_penduduk_km2": "38.996",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "106258",
+          "perempuan": "106145",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1427,6 +1624,13 @@
           "usia_70_74": "3774",
           "usia_75_tahun_ke_atas": "3311",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "47990",
+          "tahun": "2022",
+          "usia_15_64_thn": "149522",
+          "usia_diatas_65_thn": "13860"
         }
       }
     },
@@ -1437,17 +1641,16 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "70273",
-          "perempuan": "71063",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "141336",
           "semester": "1",
           "jumlah_penduduk_km2": "20.217",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "70273",
+          "perempuan": "71063",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1469,6 +1672,13 @@
           "usia_70_74": "2861",
           "usia_75_tahun_ke_atas": "3056",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "29913",
+          "tahun": "2022",
+          "usia_15_64_thn": "99727",
+          "usia_diatas_65_thn": "11090"
         }
       }
     },
@@ -1479,17 +1689,16 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "99008",
-          "perempuan": "102984",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "201992",
           "semester": "1",
           "jumlah_penduduk_km2": "36.126",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "99008",
+          "perempuan": "102984",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1511,6 +1720,13 @@
           "usia_70_74": "5590",
           "usia_75_tahun_ke_atas": "7877",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "36900",
+          "tahun": "2022",
+          "usia_15_64_thn": "142467",
+          "usia_diatas_65_thn": "22393"
         }
       }
     },
@@ -1521,17 +1737,16 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "1485715",
-          "perempuan": "1514361",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "3000076",
           "semester": "1",
           "jumlah_penduduk_km2": "335.925",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "1485715",
+          "perempuan": "1514361",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1553,6 +1768,13 @@
           "usia_70_74": "61815",
           "usia_75_tahun_ke_atas": "65539",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "636913",
+          "tahun": "2022",
+          "usia_15_64_thn": "2118863",
+          "usia_diatas_65_thn": "232087"
         }
       }
     },
@@ -1563,17 +1785,16 @@
       "kode_provinsi": "35",
       "nama_provinsi": "JAWA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "110290",
-          "perempuan": "109250",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "219540",
           "semester": "1",
           "jumlah_penduduk_km2": "194.17",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "110290",
+          "perempuan": "109250",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1595,6 +1816,13 @@
           "usia_70_74": "4608",
           "usia_75_tahun_ke_atas": "5180",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "44549",
+          "tahun": "2022",
+          "usia_15_64_thn": "155478",
+          "usia_diatas_65_thn": "17844"
         }
       }
     }

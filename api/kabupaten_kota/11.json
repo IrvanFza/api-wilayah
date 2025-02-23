@@ -9,24 +9,17 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "117285",
-          "perempuan": "117054",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {
-          "semester": "1",
-          "usia_kurang_14_thn": "57348",
-          "tahun": "2023",
-          "usia_15_64_thn": "163786",
-          "usia_diatas_65_thn": "14391"
-        },
         "penduduk": {
           "jumlah_penduduk": "235525",
           "semester": "1",
           "jumlah_penduduk_km2": "4175.375",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "117285",
+          "perempuan": "117054",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -47,6 +40,13 @@
           "usia_70_74": "3752",
           "usia_75_tahun_ke_atas": "4776",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "1",
+          "usia_kurang_14_thn": "57348",
+          "tahun": "2023",
+          "usia_15_64_thn": "163786",
+          "usia_diatas_65_thn": "14391"
         }
       }
     },
@@ -57,18 +57,17 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "114467",
-          "perempuan": "113708",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "229368",
           "semester": "1",
           "jumlah_penduduk_km2": "4179.123",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "114467",
+          "perempuan": "113708",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -89,6 +88,13 @@
           "usia_70_74": "2862",
           "usia_75_tahun_ke_atas": "3622",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "66082",
+          "tahun": "2022",
+          "usia_15_64_thn": "150758",
+          "usia_diatas_65_thn": "11335"
         }
       }
     },
@@ -99,18 +105,17 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "222124",
-          "perempuan": "219595",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "445666",
           "semester": "1",
           "jumlah_penduduk_km2": "5409.406",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "222124",
+          "perempuan": "219595",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -131,6 +136,13 @@
           "usia_70_74": "5989",
           "usia_75_tahun_ke_atas": "6599",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "131949",
+          "tahun": "2022",
+          "usia_15_64_thn": "288401",
+          "usia_diatas_65_thn": "21369"
         }
       }
     },
@@ -141,18 +153,17 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "112101",
-          "perempuan": "110457",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "223932",
           "semester": "1",
           "jumlah_penduduk_km2": "4468.417",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "112101",
+          "perempuan": "110457",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -173,6 +184,13 @@
           "usia_70_74": "3021",
           "usia_75_tahun_ke_atas": "4674",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "61929",
+          "tahun": "2022",
+          "usia_15_64_thn": "148182",
+          "usia_diatas_65_thn": "12447"
         }
       }
     },
@@ -183,18 +201,17 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "100666",
-          "perempuan": "99457",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "201719",
           "semester": "1",
           "jumlah_penduduk_km2": "2782.873",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "100666",
+          "perempuan": "99457",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -215,6 +232,13 @@
           "usia_70_74": "3197",
           "usia_75_tahun_ke_atas": "4042",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "49788",
+          "tahun": "2022",
+          "usia_15_64_thn": "138179",
+          "usia_diatas_65_thn": "12156"
         }
       }
     },
@@ -225,18 +249,17 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "215260",
-          "perempuan": "213883",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "432491",
           "semester": "1",
           "jumlah_penduduk_km2": "2891.477",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "215260",
+          "perempuan": "213883",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -257,6 +280,13 @@
           "usia_70_74": "6668",
           "usia_75_tahun_ke_atas": "9130",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "114444",
+          "tahun": "2022",
+          "usia_15_64_thn": "289306",
+          "usia_diatas_65_thn": "25393"
         }
       }
     },
@@ -267,18 +297,17 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "216031",
-          "perempuan": "223267",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "442705",
           "semester": "1",
           "jumlah_penduduk_km2": "3177.485",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "216031",
+          "perempuan": "223267",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -299,6 +328,13 @@
           "usia_70_74": "9593",
           "usia_75_tahun_ke_atas": "12790",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "110459",
+          "tahun": "2022",
+          "usia_15_64_thn": "295020",
+          "usia_diatas_65_thn": "33819"
         }
       }
     },
@@ -309,18 +345,17 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "308321",
-          "perempuan": "311185",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "624582",
           "semester": "1",
           "jumlah_penduduk_km2": "2705.255",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "308321",
+          "perempuan": "311185",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -341,6 +376,13 @@
           "usia_70_74": "9949",
           "usia_75_tahun_ke_atas": "12206",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "175375",
+          "tahun": "2022",
+          "usia_15_64_thn": "407686",
+          "usia_diatas_65_thn": "36445"
         }
       }
     },
@@ -351,18 +393,17 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "48754",
-          "perempuan": "46293",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "95529",
           "semester": "1",
           "jumlah_penduduk_km2": "1821.747",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "48754",
+          "perempuan": "46293",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -383,6 +424,13 @@
           "usia_70_74": "1228",
           "usia_75_tahun_ke_atas": "1328",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "24138",
+          "tahun": "2022",
+          "usia_15_64_thn": "66246",
+          "usia_diatas_65_thn": "4663"
         }
       }
     },
@@ -393,18 +441,17 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "66224",
-          "perempuan": "65199",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "132543",
           "semester": "1",
           "jumlah_penduduk_km2": "1852.823",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "66224",
+          "perempuan": "65199",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -425,6 +472,13 @@
           "usia_70_74": "1434",
           "usia_75_tahun_ke_atas": "1595",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "39883",
+          "tahun": "2022",
+          "usia_15_64_thn": "86288",
+          "usia_diatas_65_thn": "5252"
         }
       }
     },
@@ -435,18 +489,17 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "222286",
-          "perempuan": "229666",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "455555",
           "semester": "1",
           "jumlah_penduduk_km2": "1796.992",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "222286",
+          "perempuan": "229666",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -467,6 +520,13 @@
           "usia_70_74": "8225",
           "usia_75_tahun_ke_atas": "10029",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "121475",
+          "tahun": "2022",
+          "usia_15_64_thn": "301023",
+          "usia_diatas_65_thn": "29454"
         }
       }
     },
@@ -477,18 +537,17 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "77709",
-          "perempuan": "76120",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "154554",
           "semester": "1",
           "jumlah_penduduk_km2": "1882.277",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "77709",
+          "perempuan": "76120",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -509,6 +568,13 @@
           "usia_70_74": "2071",
           "usia_75_tahun_ke_atas": "2461",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "38306",
+          "tahun": "2022",
+          "usia_15_64_thn": "107547",
+          "usia_diatas_65_thn": "7976"
         }
       }
     },
@@ -519,18 +585,17 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "51365",
-          "perempuan": "50949",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "102893",
           "semester": "1",
           "jumlah_penduduk_km2": "5541.285",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "51365",
+          "perempuan": "50949",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -551,6 +616,13 @@
           "usia_70_74": "944",
           "usia_75_tahun_ke_atas": "1368",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "30028",
+          "tahun": "2022",
+          "usia_15_64_thn": "68390",
+          "usia_diatas_65_thn": "3896"
         }
       }
     },
@@ -561,18 +633,17 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "49137",
-          "perempuan": "47987",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "98335",
           "semester": "1",
           "jumlah_penduduk_km2": "3872.352",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "49137",
+          "perempuan": "47987",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -593,6 +664,13 @@
           "usia_70_74": "1218",
           "usia_75_tahun_ke_atas": "2483",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "25838",
+          "tahun": "2022",
+          "usia_15_64_thn": "65639",
+          "usia_diatas_65_thn": "5647"
         }
       }
     },
@@ -603,18 +681,17 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "87141",
-          "perempuan": "86175",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "174326",
           "semester": "1",
           "jumlah_penduduk_km2": "3524.164",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "87141",
+          "perempuan": "86175",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -635,6 +712,13 @@
           "usia_70_74": "2589",
           "usia_75_tahun_ke_atas": "3729",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "44189",
+          "tahun": "2022",
+          "usia_15_64_thn": "118375",
+          "usia_diatas_65_thn": "10752"
         }
       }
     },
@@ -645,18 +729,17 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "153303",
-          "perempuan": "150168",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "305890",
           "semester": "1",
           "jumlah_penduduk_km2": "2187.657",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "153303",
+          "perempuan": "150168",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -677,6 +760,13 @@
           "usia_70_74": "4114",
           "usia_75_tahun_ke_atas": "4665",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "79554",
+          "tahun": "2022",
+          "usia_15_64_thn": "207551",
+          "usia_diatas_65_thn": "16366"
         }
       }
     },
@@ -687,18 +777,17 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "86572",
-          "perempuan": "84828",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "172781",
           "semester": "1",
           "jumlah_penduduk_km2": "1907.399",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "86572",
+          "perempuan": "84828",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -719,6 +808,13 @@
           "usia_70_74": "2229",
           "usia_75_tahun_ke_atas": "2946",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "49465",
+          "tahun": "2022",
+          "usia_15_64_thn": "113375",
+          "usia_diatas_65_thn": "8560"
         }
       }
     },
@@ -729,18 +825,17 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "79501",
-          "perempuan": "81327",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "161705",
           "semester": "1",
           "jumlah_penduduk_km2": "939.004",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "79501",
+          "perempuan": "81327",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -761,6 +856,13 @@
           "usia_70_74": "3360",
           "usia_75_tahun_ke_atas": "4746",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "41391",
+          "tahun": "2022",
+          "usia_15_64_thn": "107237",
+          "usia_diatas_65_thn": "12200"
         }
       }
     },
@@ -771,17 +873,16 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "128392",
-          "perempuan": "128921",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "257313",
           "semester": "1",
           "jumlah_penduduk_km2": "56.77",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "128392",
+          "perempuan": "128921",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -803,6 +904,13 @@
           "usia_70_74": "3269",
           "usia_75_tahun_ke_atas": "3321",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "70948",
+          "tahun": "2022",
+          "usia_15_64_thn": "172500",
+          "usia_diatas_65_thn": "11961"
         }
       }
     },
@@ -813,17 +921,16 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "21860",
-          "perempuan": "21535",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "43395",
           "semester": "1",
           "jumlah_penduduk_km2": "122.063",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "21860",
+          "perempuan": "21535",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -845,6 +952,13 @@
           "usia_70_74": "713",
           "usia_75_tahun_ke_atas": "828",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "11722",
+          "tahun": "2022",
+          "usia_15_64_thn": "28907",
+          "usia_diatas_65_thn": "2547"
         }
       }
     },
@@ -855,17 +969,16 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "96247",
-          "perempuan": "97703",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "193950",
           "semester": "1",
           "jumlah_penduduk_km2": "132.966",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "96247",
+          "perempuan": "97703",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -887,6 +1000,13 @@
           "usia_70_74": "2487",
           "usia_75_tahun_ke_atas": "2580",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "50336",
+          "tahun": "2022",
+          "usia_15_64_thn": "132910",
+          "usia_diatas_65_thn": "9614"
         }
       }
     },
@@ -897,17 +1017,16 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "94041",
-          "perempuan": "92917",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "186958",
           "semester": "1",
           "jumlah_penduduk_km2": "224.235",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "94041",
+          "perempuan": "92917",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -929,6 +1048,13 @@
           "usia_70_74": "2629",
           "usia_75_tahun_ke_atas": "2821",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "44589",
+          "tahun": "2022",
+          "usia_15_64_thn": "131497",
+          "usia_diatas_65_thn": "10125"
         }
       }
     },
@@ -939,17 +1065,16 @@
       "kode_provinsi": "11",
       "nama_provinsi": "ACEH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "50656",
-          "perempuan": "49254",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "99910",
           "semester": "1",
           "jumlah_penduduk_km2": "1183.601",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "50656",
+          "perempuan": "49254",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -971,6 +1096,13 @@
           "usia_70_74": "772",
           "usia_75_tahun_ke_atas": "858",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "31985",
+          "tahun": "2022",
+          "usia_15_64_thn": "64148",
+          "usia_diatas_65_thn": "2958"
         }
       }
     }

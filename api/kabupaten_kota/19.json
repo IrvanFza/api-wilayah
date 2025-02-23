@@ -9,18 +9,17 @@
       "kode_provinsi": "19",
       "nama_provinsi": "KEPULAUAN BANGKA BELITUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "167890",
-          "perempuan": "159504",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "329984",
           "semester": "1",
           "jumlah_penduduk_km2": "3016.847",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "167890",
+          "perempuan": "159504",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "6030",
           "usia_75_tahun_ke_atas": "5383",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "86897",
+          "tahun": "2021",
+          "usia_15_64_thn": "218170",
+          "usia_diatas_65_thn": "18040"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "19",
       "nama_provinsi": "KEPULAUAN BANGKA BELITUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "94225",
-          "perempuan": "91366",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "187038",
           "semester": "1",
           "jumlah_penduduk_km2": "2270.708",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "94225",
+          "perempuan": "91366",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "3610",
           "usia_75_tahun_ke_atas": "3672",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "44921",
+          "tahun": "2021",
+          "usia_15_64_thn": "125983",
+          "usia_diatas_65_thn": "10831"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "19",
       "nama_provinsi": "KEPULAUAN BANGKA BELITUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "105651",
-          "perempuan": "99602",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "206972",
           "semester": "1",
           "jumlah_penduduk_km2": "3598.239",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "105651",
+          "perempuan": "99602",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "2408",
           "usia_75_tahun_ke_atas": "2572",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "54341",
+          "tahun": "2021",
+          "usia_15_64_thn": "138637",
+          "usia_diatas_65_thn": "7347"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "19",
       "nama_provinsi": "KEPULAUAN BANGKA BELITUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "104355",
-          "perempuan": "97776",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "203733",
           "semester": "1",
           "jumlah_penduduk_km2": "2259.982",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "104355",
+          "perempuan": "97776",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "2610",
           "usia_75_tahun_ke_atas": "2517",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "55390",
+          "tahun": "2021",
+          "usia_15_64_thn": "134470",
+          "usia_diatas_65_thn": "8162"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "19",
       "nama_provinsi": "KEPULAUAN BANGKA BELITUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "108102",
-          "perempuan": "101689",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "211566",
           "semester": "1",
           "jumlah_penduduk_km2": "2851.408",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "108102",
+          "perempuan": "101689",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "3486",
           "usia_75_tahun_ke_atas": "3347",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "56552",
+          "tahun": "2021",
+          "usia_15_64_thn": "139415",
+          "usia_diatas_65_thn": "10279"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "19",
       "nama_provinsi": "KEPULAUAN BANGKA BELITUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "66262",
-          "perempuan": "62934",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "130159",
           "semester": "1",
           "jumlah_penduduk_km2": "2588.403",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "66262",
+          "perempuan": "62934",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "2671",
           "usia_75_tahun_ke_atas": "2646",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "31060",
+          "tahun": "2021",
+          "usia_15_64_thn": "88188",
+          "usia_diatas_65_thn": "8048"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "19",
       "nama_provinsi": "KEPULAUAN BANGKA BELITUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "116692",
-          "perempuan": "114370",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "232915",
           "semester": "1",
           "jumlah_penduduk_km2": "104.542",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "116692",
+          "perempuan": "114370",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "4061",
           "usia_75_tahun_ke_atas": "3697",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "62541",
+          "tahun": "2021",
+          "usia_15_64_thn": "150366",
+          "usia_diatas_65_thn": "12255"
         }
       }
     }

@@ -9,18 +9,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "1020128",
-          "perempuan": "994618",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "2022807",
           "semester": "1",
           "jumlah_penduduk_km2": "2323.926",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "1020128",
+          "perempuan": "994618",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "53416",
           "usia_75_tahun_ke_atas": "60600",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "416064",
+          "tahun": "2022",
+          "usia_15_64_thn": "1407752",
+          "usia_diatas_65_thn": "190930"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "928845",
-          "perempuan": "913737",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1849956",
           "semester": "1",
           "jumlah_penduduk_km2": "1391.153",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "928845",
+          "perempuan": "913737",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "50240",
           "usia_75_tahun_ke_atas": "65838",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "379952",
+          "tahun": "2022",
+          "usia_15_64_thn": "1271645",
+          "usia_diatas_65_thn": "190985"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "525354",
-          "perempuan": "510605",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1040109",
           "semester": "1",
           "jumlah_penduduk_km2": "805.757",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "525354",
+          "perempuan": "510605",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "26534",
           "usia_75_tahun_ke_atas": "35259",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "226598",
+          "tahun": "2022",
+          "usia_15_64_thn": "710659",
+          "usia_diatas_65_thn": "98702"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "534301",
-          "perempuan": "516299",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1054804",
           "semester": "1",
           "jumlah_penduduk_km2": "1144.896",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "534301",
+          "perempuan": "516299",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "26782",
           "usia_75_tahun_ke_atas": "32091",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "226127",
+          "tahun": "2022",
+          "usia_15_64_thn": "725344",
+          "usia_diatas_65_thn": "99129"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "720789",
-          "perempuan": "700354",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1426832",
           "semester": "1",
           "jumlah_penduduk_km2": "1334.1",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "720789",
+          "perempuan": "700354",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "37617",
           "usia_75_tahun_ke_atas": "50222",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "297631",
+          "tahun": "2022",
+          "usia_15_64_thn": "977603",
+          "usia_diatas_65_thn": "145909"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "402939",
-          "perempuan": "401396",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "806374",
           "semester": "1",
           "jumlah_penduduk_km2": "1081.965",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "402939",
+          "perempuan": "401396",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "23002",
           "usia_75_tahun_ke_atas": "32294",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "155109",
+          "tahun": "2022",
+          "usia_15_64_thn": "556107",
+          "usia_diatas_65_thn": "93119"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "471535",
-          "perempuan": "452258",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "929917",
           "semester": "1",
           "jumlah_penduduk_km2": "1011.623",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "471535",
+          "perempuan": "452258",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "22204",
           "usia_75_tahun_ke_atas": "26471",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "195982",
+          "tahun": "2022",
+          "usia_15_64_thn": "644351",
+          "usia_diatas_65_thn": "83460"
         }
       }
     },
@@ -303,18 +345,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "664118",
-          "perempuan": "655358",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1324756",
           "semester": "1",
           "jumlah_penduduk_km2": "1129.983",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "664118",
+          "perempuan": "655358",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -335,6 +376,13 @@
           "usia_70_74": "35295",
           "usia_75_tahun_ke_atas": "43500",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "266534",
+          "tahun": "2022",
+          "usia_15_64_thn": "918677",
+          "usia_diatas_65_thn": "134265"
         }
       }
     },
@@ -345,18 +393,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "547562",
-          "perempuan": "547735",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1099682",
           "semester": "1",
           "jumlah_penduduk_km2": "1096.594",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "547562",
+          "perempuan": "547735",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -377,6 +424,13 @@
           "usia_70_74": "29033",
           "usia_75_tahun_ke_atas": "40625",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "230716",
+          "tahun": "2022",
+          "usia_15_64_thn": "751142",
+          "usia_diatas_65_thn": "113439"
         }
       }
     },
@@ -387,18 +441,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "639841",
-          "perempuan": "646870",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1291161",
           "semester": "1",
           "jumlah_penduduk_km2": "701.496",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "639841",
+          "perempuan": "646870",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -419,6 +472,13 @@
           "usia_70_74": "36641",
           "usia_75_tahun_ke_atas": "51378",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "252321",
+          "tahun": "2022",
+          "usia_15_64_thn": "890936",
+          "usia_diatas_65_thn": "143454"
         }
       }
     },
@@ -429,18 +489,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "452507",
-          "perempuan": "452355",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "908227",
           "semester": "1",
           "jumlah_penduduk_km2": "493.53",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "452507",
+          "perempuan": "452355",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -461,6 +520,13 @@
           "usia_70_74": "22581",
           "usia_75_tahun_ke_atas": "29092",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "182515",
+          "tahun": "2022",
+          "usia_15_64_thn": "634648",
+          "usia_diatas_65_thn": "87699"
         }
       }
     },
@@ -471,18 +537,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "535603",
-          "perempuan": "535477",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1074474",
           "semester": "1",
           "jumlah_penduduk_km2": "1905.745",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "535603",
+          "perempuan": "535477",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -503,6 +568,13 @@
           "usia_70_74": "40722",
           "usia_75_tahun_ke_atas": "53785",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "182540",
+          "tahun": "2022",
+          "usia_15_64_thn": "735586",
+          "usia_diatas_65_thn": "152954"
         }
       }
     },
@@ -513,18 +585,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "470351",
-          "perempuan": "473040",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "947167",
           "semester": "1",
           "jumlah_penduduk_km2": "803.047",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "470351",
+          "perempuan": "473040",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -545,6 +616,13 @@
           "usia_70_74": "24598",
           "usia_75_tahun_ke_atas": "32363",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "194529",
+          "tahun": "2022",
+          "usia_15_64_thn": "652530",
+          "usia_diatas_65_thn": "96332"
         }
       }
     },
@@ -555,18 +633,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "502865",
-          "perempuan": "505591",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1012494",
           "semester": "1",
           "jumlah_penduduk_km2": "994.573",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "502865",
+          "perempuan": "505591",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -587,6 +664,13 @@
           "usia_70_74": "29032",
           "usia_75_tahun_ke_atas": "40522",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "203742",
+          "tahun": "2022",
+          "usia_15_64_thn": "691632",
+          "usia_diatas_65_thn": "113082"
         }
       }
     },
@@ -597,18 +681,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "754396",
-          "perempuan": "746749",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1507156",
           "semester": "1",
           "jumlah_penduduk_km2": "2023.849",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "754396",
+          "perempuan": "746749",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -629,6 +712,13 @@
           "usia_70_74": "34571",
           "usia_75_tahun_ke_atas": "41577",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "319027",
+          "tahun": "2022",
+          "usia_15_64_thn": "1050726",
+          "usia_diatas_65_thn": "131392"
         }
       }
     },
@@ -639,18 +729,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "456545",
-          "perempuan": "455617",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "915813",
           "semester": "1",
           "jumlah_penduduk_km2": "1957.289",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "456545",
+          "perempuan": "455617",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -671,6 +760,13 @@
           "usia_70_74": "27201",
           "usia_75_tahun_ke_atas": "32173",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "167923",
+          "tahun": "2022",
+          "usia_15_64_thn": "644144",
+          "usia_diatas_65_thn": "100095"
         }
       }
     },
@@ -681,18 +777,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "328017",
-          "perempuan": "323687",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "655765",
           "semester": "1",
           "jumlah_penduduk_km2": "1037.538",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "328017",
+          "perempuan": "323687",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -713,6 +808,13 @@
           "usia_70_74": "15929",
           "usia_75_tahun_ke_atas": "15974",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "133086",
+          "tahun": "2022",
+          "usia_15_64_thn": "461243",
+          "usia_diatas_65_thn": "57375"
         }
       }
     },
@@ -723,18 +825,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "676192",
-          "perempuan": "684876",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1366516",
           "semester": "1",
           "jumlah_penduduk_km2": "1572.896",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "676192",
+          "perempuan": "684876",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -755,6 +856,13 @@
           "usia_70_74": "36259",
           "usia_75_tahun_ke_atas": "46044",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "269839",
+          "tahun": "2022",
+          "usia_15_64_thn": "953318",
+          "usia_diatas_65_thn": "137911"
         }
       }
     },
@@ -765,18 +873,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "433802",
-          "perempuan": "434277",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "871569",
           "semester": "1",
           "jumlah_penduduk_km2": "447.445",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "433802",
+          "perempuan": "434277",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -797,6 +904,13 @@
           "usia_70_74": "15511",
           "usia_75_tahun_ke_atas": "16666",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "189271",
+          "tahun": "2022",
+          "usia_15_64_thn": "618301",
+          "usia_diatas_65_thn": "60507"
         }
       }
     },
@@ -807,18 +921,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "630493",
-          "perempuan": "622073",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1257580",
           "semester": "1",
           "jumlah_penduduk_km2": "1020.246",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "630493",
+          "perempuan": "622073",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -839,6 +952,13 @@
           "usia_70_74": "27402",
           "usia_75_tahun_ke_atas": "35690",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "275922",
+          "tahun": "2022",
+          "usia_15_64_thn": "872867",
+          "usia_diatas_65_thn": "103777"
         }
       }
     },
@@ -849,18 +969,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "621789",
-          "perempuan": "611080",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1243380",
           "semester": "1",
           "jumlah_penduduk_km2": "977.77",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "621789",
+          "perempuan": "611080",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -881,6 +1000,13 @@
           "usia_70_74": "23262",
           "usia_75_tahun_ke_atas": "26344",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "287146",
+          "tahun": "2022",
+          "usia_15_64_thn": "858183",
+          "usia_diatas_65_thn": "87540"
         }
       }
     },
@@ -891,18 +1017,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "532206",
-          "perempuan": "534106",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1070579",
           "semester": "1",
           "jumlah_penduduk_km2": "1019.27",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "532206",
+          "perempuan": "534106",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -923,6 +1048,13 @@
           "usia_70_74": "26361",
           "usia_75_tahun_ke_atas": "32128",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "221121",
+          "tahun": "2022",
+          "usia_15_64_thn": "744309",
+          "usia_diatas_65_thn": "100882"
         }
       }
     },
@@ -933,18 +1065,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "406545",
-          "perempuan": "400895",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "811798",
           "semester": "1",
           "jumlah_penduduk_km2": "864.834",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "406545",
+          "perempuan": "400895",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -965,6 +1096,13 @@
           "usia_70_74": "20987",
           "usia_75_tahun_ke_atas": "22045",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "166385",
+          "tahun": "2022",
+          "usia_15_64_thn": "561811",
+          "usia_diatas_65_thn": "79244"
         }
       }
     },
@@ -975,18 +1113,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "537626",
-          "perempuan": "531969",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1077659",
           "semester": "1",
           "jumlah_penduduk_km2": "1008.124",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "537626",
+          "perempuan": "531969",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -1007,6 +1144,13 @@
           "usia_70_74": "24097",
           "usia_75_tahun_ke_atas": "25800",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "221188",
+          "tahun": "2022",
+          "usia_15_64_thn": "758213",
+          "usia_diatas_65_thn": "90194"
         }
       }
     },
@@ -1017,18 +1161,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "417690",
-          "perempuan": "410886",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "835168",
           "semester": "1",
           "jumlah_penduduk_km2": "857.265",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "417690",
+          "perempuan": "410886",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -1049,6 +1192,13 @@
           "usia_70_74": "19244",
           "usia_75_tahun_ke_atas": "19158",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "185104",
+          "tahun": "2022",
+          "usia_15_64_thn": "576957",
+          "usia_diatas_65_thn": "66515"
         }
       }
     },
@@ -1059,18 +1209,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "508374",
-          "perempuan": "492436",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1008691",
           "semester": "1",
           "jumlah_penduduk_km2": "892.914",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "508374",
+          "perempuan": "492436",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -1091,6 +1240,13 @@
           "usia_70_74": "19893",
           "usia_75_tahun_ke_atas": "20427",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "234632",
+          "tahun": "2022",
+          "usia_15_64_thn": "694640",
+          "usia_diatas_65_thn": "71538"
         }
       }
     },
@@ -1101,18 +1257,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "793239",
-          "perempuan": "767562",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1567046",
           "semester": "1",
           "jumlah_penduduk_km2": "1137.413",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "793239",
+          "perempuan": "767562",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -1133,6 +1288,13 @@
           "usia_70_74": "35063",
           "usia_75_tahun_ke_atas": "36165",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "355043",
+          "tahun": "2022",
+          "usia_15_64_thn": "1083183",
+          "usia_diatas_65_thn": "122575"
         }
       }
     },
@@ -1143,18 +1305,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "864189",
-          "perempuan": "833717",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1704700",
           "semester": "1",
           "jumlah_penduduk_km2": "983.901",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "864189",
+          "perempuan": "833717",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -1175,6 +1336,13 @@
           "usia_70_74": "34701",
           "usia_75_tahun_ke_atas": "35620",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "390742",
+          "tahun": "2022",
+          "usia_15_64_thn": "1183816",
+          "usia_diatas_65_thn": "123348"
         }
       }
     },
@@ -1185,18 +1353,17 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "1035491",
-          "perempuan": "1005961",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "2049622",
           "semester": "1",
           "jumlah_penduduk_km2": "1742.81",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "1035491",
+          "perempuan": "1005961",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -1217,6 +1384,13 @@
           "usia_70_74": "43665",
           "usia_75_tahun_ke_atas": "44917",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "462487",
+          "tahun": "2022",
+          "usia_15_64_thn": "1428509",
+          "usia_diatas_65_thn": "150456"
         }
       }
     },
@@ -1227,17 +1401,16 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "63276",
-          "perempuan": "64876",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "128152",
           "semester": "1",
           "jumlah_penduduk_km2": "18.558",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "63276",
+          "perempuan": "64876",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1259,6 +1432,13 @@
           "usia_70_74": "3323",
           "usia_75_tahun_ke_atas": "3681",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "24048",
+          "tahun": "2022",
+          "usia_15_64_thn": "90885",
+          "usia_diatas_65_thn": "12734"
         }
       }
     },
@@ -1269,17 +1449,16 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "289017",
-          "perempuan": "297149",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "586166",
           "semester": "1",
           "jumlah_penduduk_km2": "46.718",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "289017",
+          "perempuan": "297149",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1301,6 +1480,13 @@
           "usia_70_74": "13532",
           "usia_75_tahun_ke_atas": "13005",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "118379",
+          "tahun": "2022",
+          "usia_15_64_thn": "416123",
+          "usia_diatas_65_thn": "49459"
         }
       }
     },
@@ -1311,17 +1497,16 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "99623",
-          "perempuan": "101115",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "200738",
           "semester": "1",
           "jumlah_penduduk_km2": "54.983",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "99623",
+          "perempuan": "101115",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1343,6 +1528,13 @@
           "usia_70_74": "4870",
           "usia_75_tahun_ke_atas": "5627",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "39761",
+          "tahun": "2022",
+          "usia_15_64_thn": "141937",
+          "usia_diatas_65_thn": "18522"
         }
       }
     },
@@ -1353,17 +1545,16 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "837733",
-          "perempuan": "855302",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1693035",
           "semester": "1",
           "jumlah_penduduk_km2": "370.003",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "837733",
+          "perempuan": "855302",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1385,6 +1576,13 @@
           "usia_70_74": "35695",
           "usia_75_tahun_ke_atas": "37695",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "351264",
+          "tahun": "2022",
+          "usia_15_64_thn": "1200744",
+          "usia_diatas_65_thn": "136973"
         }
       }
     },
@@ -1395,17 +1593,16 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "160856",
-          "perempuan": "156679",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "317535",
           "semester": "1",
           "jumlah_penduduk_km2": "46.2",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "160856",
+          "perempuan": "156679",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1427,6 +1624,13 @@
           "usia_70_74": "5499",
           "usia_75_tahun_ke_atas": "4542",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "70768",
+          "tahun": "2022",
+          "usia_15_64_thn": "226007",
+          "usia_diatas_65_thn": "20158"
         }
       }
     },
@@ -1437,17 +1641,16 @@
       "kode_provinsi": "33",
       "nama_provinsi": "JAWA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "147181",
-          "perempuan": "144625",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "291806",
           "semester": "1",
           "jumlah_penduduk_km2": "39.075",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "147181",
+          "perempuan": "144625",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1469,6 +1672,13 @@
           "usia_70_74": "5418",
           "usia_75_tahun_ke_atas": "5028",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "64816",
+          "tahun": "2022",
+          "usia_15_64_thn": "206172",
+          "usia_diatas_65_thn": "20000"
         }
       }
     }

@@ -9,18 +9,17 @@
       "kode_provinsi": "34",
       "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "219776",
-          "perempuan": "223815",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "446705",
           "semester": "1",
           "jumlah_penduduk_km2": "577.224",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "219776",
+          "perempuan": "223815",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "14607",
           "usia_75_tahun_ke_atas": "22741",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "88000",
+          "tahun": "2021",
+          "usia_15_64_thn": "300743",
+          "usia_diatas_65_thn": "54131"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "34",
       "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "479742",
-          "perempuan": "484503",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "968237",
           "semester": "1",
           "jumlah_penduduk_km2": "511.706",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "479742",
+          "perempuan": "484503",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "25258",
           "usia_75_tahun_ke_atas": "35657",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "200543",
+          "tahun": "2021",
+          "usia_15_64_thn": "663911",
+          "usia_diatas_65_thn": "92059"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "34",
       "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "383742",
-          "perempuan": "391504",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "776090",
           "semester": "1",
           "jumlah_penduduk_km2": "1475.147",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "383742",
+          "perempuan": "391504",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "29899",
           "usia_75_tahun_ke_atas": "49624",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "143657",
+          "tahun": "2021",
+          "usia_15_64_thn": "519637",
+          "usia_diatas_65_thn": "111147"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "34",
       "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "543466",
-          "perempuan": "554489",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1105415",
           "semester": "1",
           "jumlah_penduduk_km2": "573.749",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "543466",
+          "perempuan": "554489",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "28569",
           "usia_75_tahun_ke_atas": "39696",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "229260",
+          "tahun": "2021",
+          "usia_15_64_thn": "756662",
+          "usia_diatas_65_thn": "102187"
         }
       }
     },
@@ -177,17 +201,16 @@
       "kode_provinsi": "34",
       "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "201736",
-          "perempuan": "212046",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "413782",
           "semester": "1",
           "jumlah_penduduk_km2": "32.819",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "201736",
+          "perempuan": "212046",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -209,6 +232,13 @@
           "usia_70_74": "10873",
           "usia_75_tahun_ke_atas": "11795",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "84115",
+          "tahun": "2021",
+          "usia_15_64_thn": "295403",
+          "usia_diatas_65_thn": "35991"
         }
       }
     }

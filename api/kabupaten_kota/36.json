@@ -9,18 +9,17 @@
       "kode_provinsi": "36",
       "nama_provinsi": "BANTEN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "711476",
-          "perempuan": "675022",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1392046",
           "semester": "1",
           "jumlah_penduduk_km2": "2771.414",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "711476",
+          "perempuan": "675022",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "22934",
           "usia_75_tahun_ke_atas": "28464",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "348505",
+          "tahun": "2022",
+          "usia_15_64_thn": "952100",
+          "usia_diatas_65_thn": "85893"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "36",
       "nama_provinsi": "BANTEN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "759262",
-          "perempuan": "719404",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1484585",
           "semester": "1",
           "jumlah_penduduk_km2": "3312.18",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "759262",
+          "perempuan": "719404",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "21525",
           "usia_75_tahun_ke_atas": "25063",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "374011",
+          "tahun": "2022",
+          "usia_15_64_thn": "1024757",
+          "usia_diatas_65_thn": "79898"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "36",
       "nama_provinsi": "BANTEN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "1666239",
-          "perempuan": "1607082",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "3286420",
           "semester": "1",
           "jumlah_penduduk_km2": "1027.757",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "1666239",
+          "perempuan": "1607082",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "35209",
           "usia_75_tahun_ke_atas": "33453",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "797867",
+          "tahun": "2022",
+          "usia_15_64_thn": "2345611",
+          "usia_diatas_65_thn": "129843"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "36",
       "nama_provinsi": "BANTEN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "871798",
-          "perempuan": "839855",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1718502",
           "semester": "1",
           "jumlah_penduduk_km2": "1469.908",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "871798",
+          "perempuan": "839855",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "22194",
           "usia_75_tahun_ke_atas": "23837",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "432606",
+          "tahun": "2022",
+          "usia_15_64_thn": "1196531",
+          "usia_diatas_65_thn": "82516"
         }
       }
     },
@@ -177,17 +201,16 @@
       "kode_provinsi": "36",
       "nama_provinsi": "BANTEN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "955333",
-          "perempuan": "944181",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1899514",
           "semester": "1",
           "jumlah_penduduk_km2": "178.347",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "955333",
+          "perempuan": "944181",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -209,6 +232,13 @@
           "usia_70_74": "25155",
           "usia_75_tahun_ke_atas": "20816",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "445675",
+          "tahun": "2022",
+          "usia_15_64_thn": "1352637",
+          "usia_diatas_65_thn": "93630"
         }
       }
     },
@@ -219,17 +249,16 @@
       "kode_provinsi": "36",
       "nama_provinsi": "BANTEN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "234937",
-          "perempuan": "229779",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "464716",
           "semester": "1",
           "jumlah_penduduk_km2": "162.514",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "234937",
+          "perempuan": "229779",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -251,6 +280,13 @@
           "usia_70_74": "5246",
           "usia_75_tahun_ke_atas": "4526",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "120138",
+          "tahun": "2022",
+          "usia_15_64_thn": "321571",
+          "usia_diatas_65_thn": "19304"
         }
       }
     },
@@ -261,17 +297,16 @@
       "kode_provinsi": "36",
       "nama_provinsi": "BANTEN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "371981",
-          "perempuan": "358549",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "730530",
           "semester": "1",
           "jumlah_penduduk_km2": "265.787",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "371981",
+          "perempuan": "358549",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -293,6 +328,13 @@
           "usia_70_74": "7374",
           "usia_75_tahun_ke_atas": "6655",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "188827",
+          "tahun": "2022",
+          "usia_15_64_thn": "507928",
+          "usia_diatas_65_thn": "27797"
         }
       }
     },
@@ -303,17 +345,16 @@
       "kode_provinsi": "36",
       "nama_provinsi": "BANTEN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "700754",
-          "perempuan": "704031",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1404785",
           "semester": "1",
           "jumlah_penduduk_km2": "164.86",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "700754",
+          "perempuan": "704031",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -335,6 +376,13 @@
           "usia_70_74": "21566",
           "usia_75_tahun_ke_atas": "18887",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "305160",
+          "tahun": "2022",
+          "usia_15_64_thn": "1009295",
+          "usia_diatas_65_thn": "79560"
         }
       }
     }

@@ -9,18 +9,17 @@
       "kode_provinsi": "31",
       "nama_provinsi": "DKI JAKARTA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "15198",
-          "perempuan": "14819",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "30212",
           "semester": "1",
           "jumlah_penduduk_km2": "10.725",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "15198",
+          "perempuan": "14819",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "302",
           "usia_75_tahun_ke_atas": "265",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "7937",
+          "tahun": "2022",
+          "usia_15_64_thn": "20871",
+          "usia_diatas_65_thn": "1209"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "31",
       "nama_provinsi": "DKI JAKARTA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "554834",
-          "perempuan": "551459",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1109489",
           "semester": "1",
           "jumlah_penduduk_km2": "47.565",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "554834",
+          "perempuan": "551459",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "21660",
           "usia_75_tahun_ke_atas": "22441",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "231051",
+          "tahun": "2022",
+          "usia_15_64_thn": "794141",
+          "usia_diatas_65_thn": "81101"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "31",
       "nama_provinsi": "DKI JAKARTA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "943014",
-          "perempuan": "930050",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1876056",
           "semester": "1",
           "jumlah_penduduk_km2": "147.212",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "943014",
+          "perempuan": "930050",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "30457",
           "usia_75_tahun_ke_atas": "27467",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "437504",
+          "tahun": "2022",
+          "usia_15_64_thn": "1326962",
+          "usia_diatas_65_thn": "108598"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "31",
       "nama_provinsi": "DKI JAKARTA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "1311357",
-          "perempuan": "1296552",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "2615945",
           "semester": "1",
           "jumlah_penduduk_km2": "125",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "1311357",
+          "perempuan": "1296552",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "43206",
           "usia_75_tahun_ke_atas": "41321",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "583695",
+          "tahun": "2022",
+          "usia_15_64_thn": "1866639",
+          "usia_diatas_65_thn": "157575"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "31",
       "nama_provinsi": "DKI JAKARTA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "1198577",
-          "perempuan": "1203186",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "2408480",
           "semester": "1",
           "jumlah_penduduk_km2": "144.942",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "1198577",
+          "perempuan": "1203186",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "39825",
           "usia_75_tahun_ke_atas": "39412",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "522480",
+          "tahun": "2022",
+          "usia_15_64_thn": "1731376",
+          "usia_diatas_65_thn": "147907"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "31",
       "nama_provinsi": "DKI JAKARTA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "1653975",
-          "perempuan": "1644250",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "3310146",
           "semester": "1",
           "jumlah_penduduk_km2": "185.538",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "1653975",
+          "perempuan": "1644250",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "52111",
           "usia_75_tahun_ke_atas": "43463",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "755328",
+          "tahun": "2022",
+          "usia_15_64_thn": "2355453",
+          "usia_diatas_65_thn": "187444"
         }
       }
     }

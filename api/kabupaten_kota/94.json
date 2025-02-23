@@ -9,17 +9,16 @@
       "kode_provinsi": "94",
       "nama_provinsi": "PAPUA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "90941",
-          "perempuan": "83486",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "174427",
           "semester": "1",
           "jumlah_penduduk_km2": "11806.088",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "90941",
+          "perempuan": "83486",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -41,6 +40,13 @@
           "usia_70_74": "1636",
           "usia_75_tahun_ke_atas": "1191",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "44423",
+          "tahun": "2022",
+          "usia_15_64_thn": "123662",
+          "usia_diatas_65_thn": "5763"
         }
       }
     },
@@ -51,17 +57,16 @@
       "kode_provinsi": "94",
       "nama_provinsi": "PAPUA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "118155",
-          "perempuan": "101342",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "219497",
           "semester": "1",
           "jumlah_penduduk_km2": "5986.19",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "118155",
+          "perempuan": "101342",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -83,6 +88,13 @@
           "usia_70_74": "2451",
           "usia_75_tahun_ke_atas": "1390",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "17080",
+          "tahun": "2022",
+          "usia_15_64_thn": "194933",
+          "usia_diatas_65_thn": "7358"
         }
       }
     },
@@ -93,17 +105,16 @@
       "kode_provinsi": "94",
       "nama_provinsi": "PAPUA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "67581",
-          "perempuan": "55779",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "123360",
           "semester": "1",
           "jumlah_penduduk_km2": "5306.871",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "67581",
+          "perempuan": "55779",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -125,6 +136,13 @@
           "usia_70_74": "200",
           "usia_75_tahun_ke_atas": "71",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "23502",
+          "tahun": "2022",
+          "usia_15_64_thn": "98611",
+          "usia_diatas_65_thn": "431"
         }
       }
     },
@@ -135,17 +153,16 @@
       "kode_provinsi": "94",
       "nama_provinsi": "PAPUA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "165972",
-          "perempuan": "147044",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "313016",
           "semester": "1",
           "jumlah_penduduk_km2": "18298.948",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "165972",
+          "perempuan": "147044",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -167,6 +184,13 @@
           "usia_70_74": "1883",
           "usia_75_tahun_ke_atas": "1286",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "76781",
+          "tahun": "2022",
+          "usia_15_64_thn": "229227",
+          "usia_diatas_65_thn": "6379"
         }
       }
     },
@@ -177,17 +201,16 @@
       "kode_provinsi": "94",
       "nama_provinsi": "PAPUA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "93408",
-          "perempuan": "83551",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "176959",
           "semester": "1",
           "jumlah_penduduk_km2": "7701.031",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "93408",
+          "perempuan": "83551",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -209,6 +232,13 @@
           "usia_70_74": "138",
           "usia_75_tahun_ke_atas": "28",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "16322",
+          "tahun": "2022",
+          "usia_15_64_thn": "157788",
+          "usia_diatas_65_thn": "2594"
         }
       }
     },
@@ -219,17 +249,16 @@
       "kode_provinsi": "94",
       "nama_provinsi": "PAPUA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "60418",
-          "perempuan": "55371",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "115789",
           "semester": "1",
           "jumlah_penduduk_km2": "3792.928",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "60418",
+          "perempuan": "55371",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -251,6 +280,13 @@
           "usia_70_74": "85",
           "usia_75_tahun_ke_atas": "33",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "17412",
+          "tahun": "2022",
+          "usia_15_64_thn": "96260",
+          "usia_diatas_65_thn": "1845"
         }
       }
     },
@@ -261,17 +297,16 @@
       "kode_provinsi": "94",
       "nama_provinsi": "PAPUA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "71800",
-          "perempuan": "64956",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "136756",
           "semester": "1",
           "jumlah_penduduk_km2": "5334.445",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "71800",
+          "perempuan": "64956",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -293,6 +328,13 @@
           "usia_70_74": "1921",
           "usia_75_tahun_ke_atas": "879",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "11595",
+          "tahun": "2022",
+          "usia_15_64_thn": "119711",
+          "usia_diatas_65_thn": "5199"
         }
       }
     },
@@ -303,17 +345,16 @@
       "kode_provinsi": "94",
       "nama_provinsi": "PAPUA TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "48649",
-          "perempuan": "43206",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "91855",
           "semester": "1",
           "jumlah_penduduk_km2": "2846.412",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "48649",
+          "perempuan": "43206",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -335,6 +376,13 @@
           "usia_70_74": "136",
           "usia_75_tahun_ke_atas": "80",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "13583",
+          "tahun": "2022",
+          "usia_15_64_thn": "77307",
+          "usia_diatas_65_thn": "697"
         }
       }
     }

@@ -9,18 +9,17 @@
       "kode_provinsi": "72",
       "nama_provinsi": "SULAWESI TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "188536",
-          "perempuan": "181982",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "372002",
           "semester": "1",
           "jumlah_penduduk_km2": "8252.882",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "188536",
+          "perempuan": "181982",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "6883",
           "usia_75_tahun_ke_atas": "8140",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "81936",
+          "tahun": "2022",
+          "usia_15_64_thn": "263302",
+          "usia_diatas_65_thn": "25280"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "72",
       "nama_provinsi": "SULAWESI TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "128565",
-          "perempuan": "121017",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "250584",
           "semester": "1",
           "jumlah_penduduk_km2": "7545.93",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "128565",
+          "perempuan": "121017",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "5086",
           "usia_75_tahun_ke_atas": "6818",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "49660",
+          "tahun": "2022",
+          "usia_15_64_thn": "179932",
+          "usia_diatas_65_thn": "19990"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "72",
       "nama_provinsi": "SULAWESI TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "158718",
-          "perempuan": "150426",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "311333",
           "semester": "1",
           "jumlah_penduduk_km2": "5126.586",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "158718",
+          "perempuan": "150426",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "5147",
           "usia_75_tahun_ke_atas": "5601",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "74633",
+          "tahun": "2022",
+          "usia_15_64_thn": "216120",
+          "usia_diatas_65_thn": "18391"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "72",
       "nama_provinsi": "SULAWESI TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "119268",
-          "perempuan": "114729",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "236111",
           "semester": "1",
           "jumlah_penduduk_km2": "3700.369",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "119268",
+          "perempuan": "114729",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "3863",
           "usia_75_tahun_ke_atas": "4212",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "59810",
+          "tahun": "2022",
+          "usia_15_64_thn": "160488",
+          "usia_diatas_65_thn": "13699"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "72",
       "nama_provinsi": "SULAWESI TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "79588",
-          "perempuan": "75761",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "156594",
           "semester": "1",
           "jumlah_penduduk_km2": "3723.578",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "79588",
+          "perempuan": "75761",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "1951",
           "usia_75_tahun_ke_atas": "1869",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "42639",
+          "tahun": "2022",
+          "usia_15_64_thn": "105578",
+          "usia_diatas_65_thn": "7132"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "72",
       "nama_provinsi": "SULAWESI TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "94637",
-          "perempuan": "80686",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "179225",
           "semester": "1",
           "jumlah_penduduk_km2": "4486.891",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "94637",
+          "perempuan": "80686",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "1921",
           "usia_75_tahun_ke_atas": "2026",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "45447",
+          "tahun": "2022",
+          "usia_15_64_thn": "122923",
+          "usia_diatas_65_thn": "6953"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "72",
       "nama_provinsi": "SULAWESI TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "63295",
-          "perempuan": "61735",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "126040",
           "semester": "1",
           "jumlah_penduduk_km2": "2385.073",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "63295",
+          "perempuan": "61735",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "2154",
           "usia_75_tahun_ke_atas": "2741",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "29377",
+          "tahun": "2022",
+          "usia_15_64_thn": "87208",
+          "usia_diatas_65_thn": "8445"
         }
       }
     },
@@ -303,18 +345,17 @@
       "kode_provinsi": "72",
       "nama_provinsi": "SULAWESI TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "231689",
-          "perempuan": "221007",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "454509",
           "semester": "1",
           "jumlah_penduduk_km2": "5805.61",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "231689",
+          "perempuan": "221007",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -335,6 +376,13 @@
           "usia_70_74": "6861",
           "usia_75_tahun_ke_atas": "7633",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "104571",
+          "tahun": "2022",
+          "usia_15_64_thn": "322438",
+          "usia_diatas_65_thn": "25687"
         }
       }
     },
@@ -345,18 +393,17 @@
       "kode_provinsi": "72",
       "nama_provinsi": "SULAWESI TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "85692",
-          "perempuan": "82054",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "169399",
           "semester": "1",
           "jumlah_penduduk_km2": "5572.856",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "85692",
+          "perempuan": "82054",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -377,6 +424,13 @@
           "usia_70_74": "2494",
           "usia_75_tahun_ke_atas": "2974",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "42161",
+          "tahun": "2022",
+          "usia_15_64_thn": "115759",
+          "usia_diatas_65_thn": "9826"
         }
       }
     },
@@ -387,18 +441,17 @@
       "kode_provinsi": "72",
       "nama_provinsi": "SULAWESI TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "134209",
-          "perempuan": "127950",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "264667",
           "semester": "1",
           "jumlah_penduduk_km2": "5225.435",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "134209",
+          "perempuan": "127950",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -419,6 +472,13 @@
           "usia_70_74": "4297",
           "usia_75_tahun_ke_atas": "5006",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "62011",
+          "tahun": "2022",
+          "usia_15_64_thn": "183952",
+          "usia_diatas_65_thn": "16196"
         }
       }
     },
@@ -429,18 +489,17 @@
       "kode_provinsi": "72",
       "nama_provinsi": "SULAWESI TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "37675",
-          "perempuan": "37245",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "75495",
           "semester": "1",
           "jumlah_penduduk_km2": "688.151",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "37675",
+          "perempuan": "37245",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -461,6 +520,13 @@
           "usia_70_74": "935",
           "usia_75_tahun_ke_atas": "910",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "19342",
+          "tahun": "2022",
+          "usia_15_64_thn": "52025",
+          "usia_diatas_65_thn": "3553"
         }
       }
     },
@@ -471,18 +537,17 @@
       "kode_provinsi": "72",
       "nama_provinsi": "SULAWESI TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "78599",
-          "perempuan": "65890",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "145686",
           "semester": "1",
           "jumlah_penduduk_km2": "8736.006",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "78599",
+          "perempuan": "65890",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -503,6 +568,13 @@
           "usia_70_74": "2145",
           "usia_75_tahun_ke_atas": "2594",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "32071",
+          "tahun": "2022",
+          "usia_15_64_thn": "104362",
+          "usia_diatas_65_thn": "8056"
         }
       }
     },
@@ -513,17 +585,16 @@
       "kode_provinsi": "72",
       "nama_provinsi": "SULAWESI TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "191478",
-          "perempuan": "190539",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "382017",
           "semester": "1",
           "jumlah_penduduk_km2": "356.351",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "191478",
+          "perempuan": "190539",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -545,6 +616,13 @@
           "usia_70_74": "5027",
           "usia_75_tahun_ke_atas": "4665",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "93648",
+          "tahun": "2022",
+          "usia_15_64_thn": "266604",
+          "usia_diatas_65_thn": "18512"
         }
       }
     }

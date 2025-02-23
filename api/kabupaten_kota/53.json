@@ -9,18 +9,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "196309",
-          "perempuan": "189313",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "387217",
           "semester": "1",
           "jumlah_penduduk_km2": "5136.51",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "196309",
+          "perempuan": "189313",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "6920",
           "usia_75_tahun_ke_atas": "9172",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "72655",
+          "tahun": "2022",
+          "usia_15_64_thn": "285605",
+          "usia_diatas_65_thn": "27362"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "233995",
-          "perempuan": "237207",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "473091",
           "semester": "1",
           "jumlah_penduduk_km2": "3933.151",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "233995",
+          "perempuan": "237207",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "9968",
           "usia_75_tahun_ke_atas": "13417",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "105483",
+          "tahun": "2022",
+          "usia_15_64_thn": "327577",
+          "usia_diatas_65_thn": "38142"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "134291",
-          "perempuan": "134425",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "269797",
           "semester": "1",
           "jumlah_penduduk_km2": "2623.2",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "134291",
+          "perempuan": "134425",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "4868",
           "usia_75_tahun_ke_atas": "7513",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "66882",
+          "tahun": "2022",
+          "usia_15_64_thn": "181593",
+          "usia_diatas_65_thn": "20241"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "113804",
-          "perempuan": "114219",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "228937",
           "semester": "1",
           "jumlah_penduduk_km2": "1127.25",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "113804",
+          "perempuan": "114219",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "3671",
           "usia_75_tahun_ke_atas": "4568",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "54390",
+          "tahun": "2022",
+          "usia_15_64_thn": "159292",
+          "usia_diatas_65_thn": "14341"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "108782",
-          "perempuan": "111790",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "221960",
           "semester": "1",
           "jumlah_penduduk_km2": "2928.559",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "108782",
+          "perempuan": "111790",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "3642",
           "usia_75_tahun_ke_atas": "4594",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "56990",
+          "tahun": "2022",
+          "usia_15_64_thn": "149283",
+          "usia_diatas_65_thn": "14299"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "141290",
-          "perempuan": "144876",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "287315",
           "semester": "1",
           "jumlah_penduduk_km2": "1748.517",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "141290",
+          "perempuan": "144876",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "6350",
           "usia_75_tahun_ke_atas": "7830",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "63456",
+          "tahun": "2022",
+          "usia_15_64_thn": "199162",
+          "usia_diatas_65_thn": "23548"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "159787",
-          "perempuan": "170689",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "333712",
           "semester": "1",
           "jumlah_penduduk_km2": "1671.649",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "159787",
+          "perempuan": "170689",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "7835",
           "usia_75_tahun_ke_atas": "9402",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "80080",
+          "tahun": "2022",
+          "usia_15_64_thn": "221913",
+          "usia_diatas_65_thn": "28483"
         }
       }
     },
@@ -303,18 +345,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "135799",
-          "perempuan": "141905",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "278817",
           "semester": "1",
           "jumlah_penduduk_km2": "2085.244",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "135799",
+          "perempuan": "141905",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -335,6 +376,13 @@
           "usia_70_74": "5527",
           "usia_75_tahun_ke_atas": "6322",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "57021",
+          "tahun": "2022",
+          "usia_15_64_thn": "200096",
+          "usia_diatas_65_thn": "20587"
         }
       }
     },
@@ -345,18 +393,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "83993",
-          "perempuan": "85547",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "170222",
           "semester": "1",
           "jumlah_penduduk_km2": "1735.635",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "83993",
+          "perempuan": "85547",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -377,6 +424,13 @@
           "usia_70_74": "3418",
           "usia_75_tahun_ke_atas": "4938",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "34056",
+          "tahun": "2022",
+          "usia_15_64_thn": "122074",
+          "usia_diatas_65_thn": "13410"
         }
       }
     },
@@ -387,18 +441,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "165827",
-          "perempuan": "165472",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "333730",
           "semester": "1",
           "jumlah_penduduk_km2": "1343.834",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "165827",
+          "perempuan": "165472",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -419,6 +472,13 @@
           "usia_70_74": "4778",
           "usia_75_tahun_ke_atas": "5267",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "86306",
+          "tahun": "2022",
+          "usia_15_64_thn": "227530",
+          "usia_diatas_65_thn": "17463"
         }
       }
     },
@@ -429,18 +489,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "133585",
-          "perempuan": "127545",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "262881",
           "semester": "1",
           "jumlah_penduduk_km2": "6984.014",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "133585",
+          "perempuan": "127545",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -461,6 +520,13 @@
           "usia_70_74": "4653",
           "usia_75_tahun_ke_atas": "5806",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "69414",
+          "tahun": "2022",
+          "usia_15_64_thn": "174242",
+          "usia_diatas_65_thn": "17474"
         }
       }
     },
@@ -471,18 +537,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "76869",
-          "perempuan": "73402",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "150874",
           "semester": "1",
           "jumlah_penduduk_km2": "757.408",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "76869",
+          "perempuan": "73402",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -503,6 +568,13 @@
           "usia_70_74": "2115",
           "usia_75_tahun_ke_atas": "3229",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "37967",
+          "tahun": "2022",
+          "usia_15_64_thn": "104407",
+          "usia_diatas_65_thn": "7897"
         }
       }
     },
@@ -513,18 +585,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "68857",
-          "perempuan": "73491",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "143543",
           "semester": "1",
           "jumlah_penduduk_km2": "1268.105",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "68857",
+          "perempuan": "73491",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -545,6 +616,13 @@
           "usia_70_74": "3381",
           "usia_75_tahun_ke_atas": "4625",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "35798",
+          "tahun": "2022",
+          "usia_15_64_thn": "93905",
+          "usia_diatas_65_thn": "12645"
         }
       }
     },
@@ -555,18 +633,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "75294",
-          "perempuan": "74329",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "150223",
           "semester": "1",
           "jumlah_penduduk_km2": "1286.453",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "75294",
+          "perempuan": "74329",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -587,6 +664,13 @@
           "usia_70_74": "3079",
           "usia_75_tahun_ke_atas": "4586",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "38306",
+          "tahun": "2022",
+          "usia_15_64_thn": "99803",
+          "usia_diatas_65_thn": "11514"
         }
       }
     },
@@ -597,18 +681,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "137885",
-          "perempuan": "135844",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "275903",
           "semester": "1",
           "jumlah_penduduk_km2": "3128.997",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "137885",
+          "perempuan": "135844",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -629,6 +712,13 @@
           "usia_70_74": "3564",
           "usia_75_tahun_ke_atas": "4472",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "71360",
+          "tahun": "2022",
+          "usia_15_64_thn": "188480",
+          "usia_diatas_65_thn": "13889"
         }
       }
     },
@@ -639,18 +729,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "82479",
-          "perempuan": "83675",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "166821",
           "semester": "1",
           "jumlah_penduduk_km2": "1396.164",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "82479",
+          "perempuan": "83675",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -671,6 +760,13 @@
           "usia_70_74": "3506",
           "usia_75_tahun_ke_atas": "4311",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "37082",
+          "tahun": "2022",
+          "usia_15_64_thn": "116275",
+          "usia_diatas_65_thn": "12797"
         }
       }
     },
@@ -681,18 +777,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "45755",
-          "perempuan": "43490",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "89701",
           "semester": "1",
           "jumlah_penduduk_km2": "1789.659",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "45755",
+          "perempuan": "43490",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -713,6 +808,13 @@
           "usia_70_74": "1362",
           "usia_75_tahun_ke_atas": "1891",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "23705",
+          "tahun": "2022",
+          "usia_15_64_thn": "60094",
+          "usia_diatas_65_thn": "5446"
         }
       }
     },
@@ -723,18 +825,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "165272",
-          "perempuan": "158447",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "326184",
           "semester": "1",
           "jumlah_penduduk_km2": "1383.312",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "165272",
+          "perempuan": "158447",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -755,6 +856,13 @@
           "usia_70_74": "3451",
           "usia_75_tahun_ke_atas": "3366",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "101471",
+          "tahun": "2022",
+          "usia_15_64_thn": "210389",
+          "usia_diatas_65_thn": "11859"
         }
       }
     },
@@ -765,18 +873,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "143151",
-          "perempuan": "138774",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "284148",
           "semester": "1",
           "jumlah_penduduk_km2": "2389.53",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "143151",
+          "perempuan": "138774",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -797,6 +904,13 @@
           "usia_70_74": "3415",
           "usia_75_tahun_ke_atas": "3890",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "69796",
+          "tahun": "2022",
+          "usia_15_64_thn": "198658",
+          "usia_diatas_65_thn": "13471"
         }
       }
     },
@@ -807,18 +921,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "48329",
-          "perempuan": "46484",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "95310",
           "semester": "1",
           "jumlah_penduduk_km2": "460.957",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "48329",
+          "perempuan": "46484",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -839,6 +952,13 @@
           "usia_70_74": "1839",
           "usia_75_tahun_ke_atas": "2880",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "26290",
+          "tahun": "2022",
+          "usia_15_64_thn": "61238",
+          "usia_diatas_65_thn": "7285"
         }
       }
     },
@@ -849,18 +969,17 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "97534",
-          "perempuan": "100966",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "199780",
           "semester": "1",
           "jumlah_penduduk_km2": "1109.162",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "97534",
+          "perempuan": "100966",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -881,6 +1000,13 @@
           "usia_70_74": "4450",
           "usia_75_tahun_ke_atas": "6834",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "45253",
+          "tahun": "2022",
+          "usia_15_64_thn": "136023",
+          "usia_diatas_65_thn": "17224"
         }
       }
     },
@@ -891,17 +1017,16 @@
       "kode_provinsi": "53",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "224081",
-          "perempuan": "219268",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "443349",
           "semester": "1",
           "jumlah_penduduk_km2": "159.334",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "224081",
+          "perempuan": "219268",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -923,6 +1048,13 @@
           "usia_70_74": "4829",
           "usia_75_tahun_ke_atas": "5180",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "90613",
+          "tahun": "2022",
+          "usia_15_64_thn": "332607",
+          "usia_diatas_65_thn": "19242"
         }
       }
     }

@@ -9,17 +9,16 @@
       "kode_provinsi": "92",
       "nama_provinsi": "PAPUA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "104269",
-          "perempuan": "97461",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "201730",
           "semester": "1",
           "jumlah_penduduk_km2": "2763.018",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "104269",
+          "perempuan": "97461",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -41,6 +40,13 @@
           "usia_70_74": "1963",
           "usia_75_tahun_ke_atas": "1590",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "53672",
+          "tahun": "2022",
+          "usia_15_64_thn": "140666",
+          "usia_diatas_65_thn": "6586"
         }
       }
     },
@@ -51,17 +57,16 @@
       "kode_provinsi": "92",
       "nama_provinsi": "PAPUA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "46127",
-          "perempuan": "44159",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "90286",
           "semester": "1",
           "jumlah_penduduk_km2": "9736.545",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "46127",
+          "perempuan": "44159",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -83,6 +88,13 @@
           "usia_70_74": "865",
           "usia_75_tahun_ke_atas": "760",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "26340",
+          "tahun": "2022",
+          "usia_15_64_thn": "60321",
+          "usia_diatas_65_thn": "3140"
         }
       }
     },
@@ -93,17 +105,16 @@
       "kode_provinsi": "92",
       "nama_provinsi": "PAPUA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "43070",
-          "perempuan": "38483",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "81553",
           "semester": "1",
           "jumlah_penduduk_km2": "19943.285",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "43070",
+          "perempuan": "38483",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -125,6 +136,13 @@
           "usia_70_74": "586",
           "usia_75_tahun_ke_atas": "506",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "20989",
+          "tahun": "2022",
+          "usia_15_64_thn": "58053",
+          "usia_diatas_65_thn": "2094"
         }
       }
     },
@@ -135,17 +153,16 @@
       "kode_provinsi": "92",
       "nama_provinsi": "PAPUA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "23745",
-          "perempuan": "21579",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "45324",
           "semester": "1",
           "jumlah_penduduk_km2": "4847.34",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "23745",
+          "perempuan": "21579",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -167,6 +184,13 @@
           "usia_70_74": "293",
           "usia_75_tahun_ke_atas": "266",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "13448",
+          "tahun": "2022",
+          "usia_15_64_thn": "30561",
+          "usia_diatas_65_thn": "1161"
         }
       }
     },
@@ -177,17 +201,16 @@
       "kode_provinsi": "92",
       "nama_provinsi": "PAPUA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "33699",
-          "perempuan": "31831",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "65530",
           "semester": "1",
           "jumlah_penduduk_km2": "17849.216",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "33699",
+          "perempuan": "31831",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -209,6 +232,13 @@
           "usia_70_74": "512",
           "usia_75_tahun_ke_atas": "391",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "17862",
+          "tahun": "2022",
+          "usia_15_64_thn": "45433",
+          "usia_diatas_65_thn": "1898"
         }
       }
     },
@@ -219,17 +249,16 @@
       "kode_provinsi": "92",
       "nama_provinsi": "PAPUA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "19269",
-          "perempuan": "18405",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "37674",
           "semester": "1",
           "jumlah_penduduk_km2": "1837.095",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "19269",
+          "perempuan": "18405",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -251,6 +280,13 @@
           "usia_70_74": "226",
           "usia_75_tahun_ke_atas": "192",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "9267",
+          "tahun": "2022",
+          "usia_15_64_thn": "27493",
+          "usia_diatas_65_thn": "791"
         }
       }
     },
@@ -261,17 +297,16 @@
       "kode_provinsi": "92",
       "nama_provinsi": "PAPUA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "20265",
-          "perempuan": "19852",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "40117",
           "semester": "1",
           "jumlah_penduduk_km2": "3298.811",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "20265",
+          "perempuan": "19852",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -293,6 +328,13 @@
           "usia_70_74": "103",
           "usia_75_tahun_ke_atas": "73",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "6394",
+          "tahun": "2022",
+          "usia_15_64_thn": "32590",
+          "usia_diatas_65_thn": "602"
         }
       }
     }

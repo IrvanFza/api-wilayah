@@ -9,18 +9,17 @@
       "kode_provinsi": "61",
       "nama_provinsi": "KALIMANTAN BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "328468",
-          "perempuan": "312370",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "643405",
           "semester": "1",
           "jumlah_penduduk_km2": "5937.995",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "328468",
+          "perempuan": "312370",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "11145",
           "usia_75_tahun_ke_atas": "11822",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "156412",
+          "tahun": "2022",
+          "usia_15_64_thn": "443056",
+          "usia_diatas_65_thn": "41370"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "61",
       "nama_provinsi": "KALIMANTAN BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "158173",
-          "perempuan": "150598",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "310012",
           "semester": "1",
           "jumlah_penduduk_km2": "1935.419",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "158173",
+          "perempuan": "150598",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "5554",
           "usia_75_tahun_ke_atas": "5493",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "72444",
+          "tahun": "2022",
+          "usia_15_64_thn": "216442",
+          "usia_diatas_65_thn": "19885"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "61",
       "nama_provinsi": "KALIMANTAN BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "255208",
-          "perempuan": "235597",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "492770",
           "semester": "1",
           "jumlah_penduduk_km2": "12452.224",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "255208",
+          "perempuan": "235597",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "6681",
           "usia_75_tahun_ke_atas": "5775",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "110782",
+          "tahun": "2022",
+          "usia_15_64_thn": "354439",
+          "usia_diatas_65_thn": "25584"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "61",
       "nama_provinsi": "KALIMANTAN BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "298430",
-          "perempuan": "277387",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "577770",
           "semester": "1",
           "jumlah_penduduk_km2": "30018.676",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "298430",
+          "perempuan": "277387",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "6225",
           "usia_75_tahun_ke_atas": "6132",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "132327",
+          "tahun": "2022",
+          "usia_15_64_thn": "419781",
+          "usia_diatas_65_thn": "23709"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "61",
       "nama_provinsi": "KALIMANTAN BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "224384",
-          "perempuan": "209230",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "436351",
           "semester": "1",
           "jumlah_penduduk_km2": "22025.788",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "224384",
+          "perempuan": "209230",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "6461",
           "usia_75_tahun_ke_atas": "6339",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "109585",
+          "tahun": "2022",
+          "usia_15_64_thn": "300863",
+          "usia_diatas_65_thn": "23166"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "61",
       "nama_provinsi": "KALIMANTAN BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "136680",
-          "perempuan": "129971",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "268840",
           "semester": "1",
           "jumlah_penduduk_km2": "31318.246",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "136680",
+          "perempuan": "129971",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "3812",
           "usia_75_tahun_ke_atas": "4039",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "62782",
+          "tahun": "2022",
+          "usia_15_64_thn": "189482",
+          "usia_diatas_65_thn": "14387"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "61",
       "nama_provinsi": "KALIMANTAN BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "150920",
-          "perempuan": "139668",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "291752",
           "semester": "1",
           "jumlah_penduduk_km2": "5488.608",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "150920",
+          "perempuan": "139668",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "3837",
           "usia_75_tahun_ke_atas": "3757",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "70706",
+          "tahun": "2022",
+          "usia_15_64_thn": "205766",
+          "usia_diatas_65_thn": "14116"
         }
       }
     },
@@ -303,18 +345,17 @@
       "kode_provinsi": "61",
       "nama_provinsi": "KALIMANTAN BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "213231",
-          "perempuan": "192089",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "406945",
           "semester": "1",
           "jumlah_penduduk_km2": "8430.711",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "213231",
+          "perempuan": "192089",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -335,6 +376,13 @@
           "usia_70_74": "5410",
           "usia_75_tahun_ke_atas": "5356",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "102763",
+          "tahun": "2022",
+          "usia_15_64_thn": "282613",
+          "usia_diatas_65_thn": "19944"
         }
       }
     },
@@ -345,18 +393,17 @@
       "kode_provinsi": "61",
       "nama_provinsi": "KALIMANTAN BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "112711",
-          "perempuan": "104757",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "219108",
           "semester": "1",
           "jumlah_penduduk_km2": "5979.044",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "112711",
+          "perempuan": "104757",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -377,6 +424,13 @@
           "usia_70_74": "3457",
           "usia_75_tahun_ke_atas": "3645",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "51868",
+          "tahun": "2022",
+          "usia_15_64_thn": "152982",
+          "usia_diatas_65_thn": "12618"
         }
       }
     },
@@ -387,18 +441,17 @@
       "kode_provinsi": "61",
       "nama_provinsi": "KALIMANTAN BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "108297",
-          "perempuan": "101661",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "211122",
           "semester": "1",
           "jumlah_penduduk_km2": "10122.513",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "108297",
+          "perempuan": "101661",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -419,6 +472,13 @@
           "usia_70_74": "3032",
           "usia_75_tahun_ke_atas": "2901",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "50465",
+          "tahun": "2022",
+          "usia_15_64_thn": "148840",
+          "usia_diatas_65_thn": "10653"
         }
       }
     },
@@ -429,18 +489,17 @@
       "kode_provinsi": "61",
       "nama_provinsi": "KALIMANTAN BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "66276",
-          "perempuan": "62408",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "129346",
           "semester": "1",
           "jumlah_penduduk_km2": "4110.123",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "66276",
+          "perempuan": "62408",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -461,6 +520,13 @@
           "usia_70_74": "1924",
           "usia_75_tahun_ke_atas": "1977",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "30658",
+          "tahun": "2022",
+          "usia_15_64_thn": "91089",
+          "usia_diatas_65_thn": "6937"
         }
       }
     },
@@ -471,18 +537,17 @@
       "kode_provinsi": "61",
       "nama_provinsi": "KALIMANTAN BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "313951",
-          "perempuan": "300959",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "620126",
           "semester": "1",
           "jumlah_penduduk_km2": "8549.294",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "313951",
+          "perempuan": "300959",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -503,6 +568,13 @@
           "usia_70_74": "8830",
           "usia_75_tahun_ke_atas": "9661",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "158202",
+          "tahun": "2022",
+          "usia_15_64_thn": "424283",
+          "usia_diatas_65_thn": "32425"
         }
       }
     },
@@ -513,17 +585,16 @@
       "kode_provinsi": "61",
       "nama_provinsi": "KALIMANTAN BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "338054",
-          "perempuan": "338042",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "676096",
           "semester": "1",
           "jumlah_penduduk_km2": "118.209",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "338054",
+          "perempuan": "338042",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -545,6 +616,13 @@
           "usia_70_74": "11281",
           "usia_75_tahun_ke_atas": "12655",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "158886",
+          "tahun": "2022",
+          "usia_15_64_thn": "472221",
+          "usia_diatas_65_thn": "42293"
         }
       }
     },
@@ -555,17 +633,16 @@
       "kode_provinsi": "61",
       "nama_provinsi": "KALIMANTAN BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "123755",
-          "perempuan": "118391",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "242146",
           "semester": "1",
           "jumlah_penduduk_km2": "550.187",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "123755",
+          "perempuan": "118391",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -587,6 +664,13 @@
           "usia_70_74": "3854",
           "usia_75_tahun_ke_atas": "4536",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "61267",
+          "tahun": "2022",
+          "usia_15_64_thn": "164286",
+          "usia_diatas_65_thn": "14774"
         }
       }
     }

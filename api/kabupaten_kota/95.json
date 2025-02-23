@@ -9,17 +9,16 @@
       "kode_provinsi": "95",
       "nama_provinsi": "PAPUA PEGUNUNGAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "142059",
-          "perempuan": "131760",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "273819",
           "semester": "1",
           "jumlah_penduduk_km2": "2629.01",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "142059",
+          "perempuan": "131760",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -41,6 +40,13 @@
           "usia_70_74": "3123",
           "usia_75_tahun_ke_atas": "1627",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "38078",
+          "tahun": "2022",
+          "usia_15_64_thn": "225575",
+          "usia_diatas_65_thn": "9993"
         }
       }
     },
@@ -51,17 +57,16 @@
       "kode_provinsi": "95",
       "nama_provinsi": "PAPUA PEGUNUNGAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "60709",
-          "perempuan": "52638",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "113347",
           "semester": "1",
           "jumlah_penduduk_km2": "13751.915",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "60709",
+          "perempuan": "52638",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -83,6 +88,13 @@
           "usia_70_74": "252",
           "usia_75_tahun_ke_atas": "163",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "16523",
+          "tahun": "2022",
+          "usia_15_64_thn": "95807",
+          "usia_diatas_65_thn": "847"
         }
       }
     },
@@ -93,17 +105,16 @@
       "kode_provinsi": "95",
       "nama_provinsi": "PAPUA PEGUNUNGAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "193675",
-          "perempuan": "161640",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "355315",
           "semester": "1",
           "jumlah_penduduk_km2": "16365.938",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "193675",
+          "perempuan": "161640",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -125,6 +136,13 @@
           "usia_70_74": "2942",
           "usia_75_tahun_ke_atas": "1615",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "21009",
+          "tahun": "2022",
+          "usia_15_64_thn": "323042",
+          "usia_diatas_65_thn": "11114"
         }
       }
     },
@@ -135,17 +153,16 @@
       "kode_provinsi": "95",
       "nama_provinsi": "PAPUA PEGUNUNGAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "137054",
-          "perempuan": "114359",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "251413",
           "semester": "1",
           "jumlah_penduduk_km2": "2990.008",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "137054",
+          "perempuan": "114359",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -167,6 +184,13 @@
           "usia_70_74": "6699",
           "usia_75_tahun_ke_atas": "362",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "15985",
+          "tahun": "2022",
+          "usia_15_64_thn": "219170",
+          "usia_diatas_65_thn": "16093"
         }
       }
     },
@@ -177,17 +201,16 @@
       "kode_provinsi": "95",
       "nama_provinsi": "PAPUA PEGUNUNGAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "25905",
-          "perempuan": "23226",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "49131",
           "semester": "1",
           "jumlah_penduduk_km2": "4101.5",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "25905",
+          "perempuan": "23226",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -209,6 +232,13 @@
           "usia_70_74": "100",
           "usia_75_tahun_ke_atas": "29",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "9328",
+          "tahun": "2022",
+          "usia_15_64_thn": "39227",
+          "usia_diatas_65_thn": "287"
         }
       }
     },
@@ -219,17 +249,16 @@
       "kode_provinsi": "95",
       "nama_provinsi": "PAPUA PEGUNUNGAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "55604",
-          "perempuan": "48812",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "104416",
           "semester": "1",
           "jumlah_penduduk_km2": "3148.293",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "55604",
+          "perempuan": "48812",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -251,6 +280,13 @@
           "usia_70_74": "590",
           "usia_75_tahun_ke_atas": "255",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "12299",
+          "tahun": "2022",
+          "usia_15_64_thn": "90209",
+          "usia_diatas_65_thn": "1697"
         }
       }
     },
@@ -261,17 +297,16 @@
       "kode_provinsi": "95",
       "nama_provinsi": "PAPUA PEGUNUNGAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "110614",
-          "perempuan": "92374",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "202988",
           "semester": "1",
           "jumlah_penduduk_km2": "2339.775",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "110614",
+          "perempuan": "92374",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -293,6 +328,13 @@
           "usia_70_74": "1296",
           "usia_75_tahun_ke_atas": "439",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "18735",
+          "tahun": "2022",
+          "usia_15_64_thn": "179492",
+          "usia_diatas_65_thn": "4212"
         }
       }
     },
@@ -303,17 +345,16 @@
       "kode_provinsi": "95",
       "nama_provinsi": "PAPUA PEGUNUNGAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "59936",
-          "perempuan": "51127",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "111063",
           "semester": "1",
           "jumlah_penduduk_km2": "5886.891",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "59936",
+          "perempuan": "51127",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -335,6 +376,13 @@
           "usia_70_74": "28",
           "usia_75_tahun_ke_atas": "6",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "10546",
+          "tahun": "2022",
+          "usia_15_64_thn": "100178",
+          "usia_diatas_65_thn": "98"
         }
       }
     }

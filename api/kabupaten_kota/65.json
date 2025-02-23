@@ -9,18 +9,17 @@
       "kode_provinsi": "65",
       "nama_provinsi": "KALIMANTAN UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "85113",
-          "perempuan": "76460",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "162878",
           "semester": "1",
           "jumlah_penduduk_km2": "13879.787",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "85113",
+          "perempuan": "76460",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "1984",
           "usia_75_tahun_ke_atas": "2142",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "42351",
+          "tahun": "2022",
+          "usia_15_64_thn": "111707",
+          "usia_diatas_65_thn": "7515"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "65",
       "nama_provinsi": "KALIMANTAN UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "43566",
-          "perempuan": "39063",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "83371",
           "semester": "1",
           "jumlah_penduduk_km2": "38901.833",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "43566",
+          "perempuan": "39063",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "949",
           "usia_75_tahun_ke_atas": "1021",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "22343",
+          "tahun": "2022",
+          "usia_15_64_thn": "56772",
+          "usia_diatas_65_thn": "3514"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "65",
       "nama_provinsi": "KALIMANTAN UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "111673",
-          "perempuan": "98792",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "213750",
           "semester": "1",
           "jumlah_penduduk_km2": "13564.25",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "111673",
+          "perempuan": "98792",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "2100",
           "usia_75_tahun_ke_atas": "2553",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "53345",
+          "tahun": "2022",
+          "usia_15_64_thn": "148820",
+          "usia_diatas_65_thn": "8300"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "65",
       "nama_provinsi": "KALIMANTAN UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "14446",
-          "perempuan": "13107",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "27980",
           "semester": "1",
           "jumlah_penduduk_km2": "3504.336",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "14446",
+          "perempuan": "13107",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "243",
           "usia_75_tahun_ke_atas": "273",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "7962",
+          "tahun": "2022",
+          "usia_15_64_thn": "18692",
+          "usia_diatas_65_thn": "899"
         }
       }
     },
@@ -177,17 +201,16 @@
       "kode_provinsi": "65",
       "nama_provinsi": "KALIMANTAN UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "127584",
-          "perempuan": "119150",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "246734",
           "semester": "1",
           "jumlah_penduduk_km2": "250.978",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "127584",
+          "perempuan": "119150",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -209,6 +232,13 @@
           "usia_70_74": "2730",
           "usia_75_tahun_ke_atas": "2244",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "65546",
+          "tahun": "2022",
+          "usia_15_64_thn": "169404",
+          "usia_diatas_65_thn": "9819"
         }
       }
     }

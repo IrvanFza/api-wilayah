@@ -9,18 +9,17 @@
       "kode_provinsi": "75",
       "nama_provinsi": "GORONTALO",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "206865",
-          "perempuan": "204522",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "415198",
           "semester": "1",
           "jumlah_penduduk_km2": "2160.364",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "206865",
+          "perempuan": "204522",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "7095",
           "usia_75_tahun_ke_atas": "6950",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "93200",
+          "tahun": "2022",
+          "usia_15_64_thn": "293147",
+          "usia_diatas_65_thn": "25040"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "75",
       "nama_provinsi": "GORONTALO",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "76356",
-          "perempuan": "73414",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "150504",
           "semester": "1",
           "jumlah_penduduk_km2": "1830.865",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "76356",
+          "perempuan": "73414",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "2437",
           "usia_75_tahun_ke_atas": "2089",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "34298",
+          "tahun": "2022",
+          "usia_15_64_thn": "107420",
+          "usia_diatas_65_thn": "8052"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "75",
       "nama_provinsi": "GORONTALO",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "84742",
-          "perempuan": "83929",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "170271",
           "semester": "1",
           "jumlah_penduduk_km2": "1888.998",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "84742",
+          "perempuan": "83929",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "3010",
           "usia_75_tahun_ke_atas": "2970",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "39970",
+          "tahun": "2022",
+          "usia_15_64_thn": "118010",
+          "usia_diatas_65_thn": "10691"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "75",
       "nama_provinsi": "GORONTALO",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "79184",
-          "perempuan": "76509",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "157660",
           "semester": "1",
           "jumlah_penduduk_km2": "4370.359",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "79184",
+          "perempuan": "76509",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "1985",
           "usia_75_tahun_ke_atas": "1876",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "38172",
+          "tahun": "2022",
+          "usia_15_64_thn": "110371",
+          "usia_diatas_65_thn": "7150"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "75",
       "nama_provinsi": "GORONTALO",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "64950",
-          "perempuan": "62630",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "128970",
           "semester": "1",
           "jumlah_penduduk_km2": "1703.628",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "64950",
+          "perempuan": "62630",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "1920",
           "usia_75_tahun_ke_atas": "1768",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "30175",
+          "tahun": "2022",
+          "usia_15_64_thn": "90728",
+          "usia_diatas_65_thn": "6677"
         }
       }
     },
@@ -219,17 +249,16 @@
       "kode_provinsi": "75",
       "nama_provinsi": "GORONTALO",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "101156",
-          "perempuan": "102049",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "203205",
           "semester": "1",
           "jumlah_penduduk_km2": "70.933",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "101156",
+          "perempuan": "102049",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -251,6 +280,13 @@
           "usia_70_74": "3209",
           "usia_75_tahun_ke_atas": "2962",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "45946",
+          "tahun": "2022",
+          "usia_15_64_thn": "144658",
+          "usia_diatas_65_thn": "11682"
         }
       }
     }

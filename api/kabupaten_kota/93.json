@@ -9,17 +9,16 @@
       "kode_provinsi": "93",
       "nama_provinsi": "PAPUA SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "124943",
-          "perempuan": "115666",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "240609",
           "semester": "1",
           "jumlah_penduduk_km2": "45013.354",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "124943",
+          "perempuan": "115666",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -41,6 +40,13 @@
           "usia_70_74": "3459",
           "usia_75_tahun_ke_atas": "3116",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "65523",
+          "tahun": "2022",
+          "usia_15_64_thn": "161162",
+          "usia_diatas_65_thn": "11866"
         }
       }
     },
@@ -51,17 +57,16 @@
       "kode_provinsi": "93",
       "nama_provinsi": "PAPUA SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "35715",
-          "perempuan": "31452",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "67167",
           "semester": "1",
           "jumlah_penduduk_km2": "23558.272",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "35715",
+          "perempuan": "31452",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -83,6 +88,13 @@
           "usia_70_74": "337",
           "usia_75_tahun_ke_atas": "227",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "22907",
+          "tahun": "2022",
+          "usia_15_64_thn": "42584",
+          "usia_diatas_65_thn": "1197"
         }
       }
     },
@@ -93,17 +105,16 @@
       "kode_provinsi": "93",
       "nama_provinsi": "PAPUA SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "56214",
-          "perempuan": "52925",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "109139",
           "semester": "1",
           "jumlah_penduduk_km2": "24262.227",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "56214",
+          "perempuan": "52925",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -125,6 +136,13 @@
           "usia_70_74": "846",
           "usia_75_tahun_ke_atas": "613",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "38793",
+          "tahun": "2022",
+          "usia_15_64_thn": "66858",
+          "usia_diatas_65_thn": "2816"
         }
       }
     },
@@ -135,17 +153,16 @@
       "kode_provinsi": "93",
       "nama_provinsi": "PAPUA SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "57149",
-          "perempuan": "52713",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "109862",
           "semester": "1",
           "jumlah_penduduk_km2": "25015.306",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "57149",
+          "perempuan": "52713",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -167,6 +184,13 @@
           "usia_70_74": "525",
           "usia_75_tahun_ke_atas": "320",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "44108",
+          "tahun": "2022",
+          "usia_15_64_thn": "63175",
+          "usia_diatas_65_thn": "1855"
         }
       }
     }

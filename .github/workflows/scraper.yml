@@ -23,10 +23,7 @@ jobs:
 
       - name: Run Data Scrapers
         run: |
-          node scraper/regionalDataScraper.js
-          node scraper/populationDataScraper.js
-          node scraper/utils/mergeData.js
-          node scraper/utils/splitData.js
+          node scraper/runAllScrapers.js
 
       - name: Commit and Push Changes
         run: |

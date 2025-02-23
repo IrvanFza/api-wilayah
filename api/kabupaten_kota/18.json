@@ -9,18 +9,17 @@
       "kode_provinsi": "18",
       "nama_provinsi": "LAMPUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "553156",
-          "perempuan": "533087",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1095106",
           "semester": "1",
           "jumlah_penduduk_km2": "2227.379",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "553156",
+          "perempuan": "533087",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "19206",
           "usia_75_tahun_ke_atas": "23808",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "266861",
+          "tahun": "2022",
+          "usia_15_64_thn": "747565",
+          "usia_diatas_65_thn": "71817"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "18",
       "nama_provinsi": "LAMPUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "698025",
-          "perempuan": "670273",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1373773",
           "semester": "1",
           "jumlah_penduduk_km2": "4559.57",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "698025",
+          "perempuan": "670273",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "28182",
           "usia_75_tahun_ke_atas": "37132",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "314555",
+          "tahun": "2022",
+          "usia_15_64_thn": "948143",
+          "usia_diatas_65_thn": "105600"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "18",
       "nama_provinsi": "LAMPUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "334565",
-          "perempuan": "323043",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "662946",
           "semester": "1",
           "jumlah_penduduk_km2": "2669.304",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "334565",
+          "perempuan": "323043",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "13025",
           "usia_75_tahun_ke_atas": "15085",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "162107",
+          "tahun": "2022",
+          "usia_15_64_thn": "448113",
+          "usia_diatas_65_thn": "47388"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "18",
       "nama_provinsi": "LAMPUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "159956",
-          "perempuan": "148203",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "309554",
           "semester": "1",
           "jumlah_penduduk_km2": "2107.993",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "159956",
+          "perempuan": "148203",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "5312",
           "usia_75_tahun_ke_atas": "6193",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "73321",
+          "tahun": "2022",
+          "usia_15_64_thn": "215090",
+          "usia_diatas_65_thn": "19748"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "18",
       "nama_provinsi": "LAMPUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "222160",
-          "perempuan": "207146",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "431025",
           "semester": "1",
           "jumlah_penduduk_km2": "3116.062",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "222160",
+          "perempuan": "207146",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "6795",
           "usia_75_tahun_ke_atas": "7865",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "102139",
+          "tahun": "2022",
+          "usia_15_64_thn": "302984",
+          "usia_diatas_65_thn": "24183"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "18",
       "nama_provinsi": "LAMPUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "323356",
-          "perempuan": "302568",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "630719",
           "semester": "1",
           "jumlah_penduduk_km2": "2947.592",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "323356",
+          "perempuan": "302568",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "11806",
           "usia_75_tahun_ke_atas": "13186",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "154128",
+          "tahun": "2022",
+          "usia_15_64_thn": "428918",
+          "usia_diatas_65_thn": "42878"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "18",
       "nama_provinsi": "LAMPUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "561616",
-          "perempuan": "542537",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1108574",
           "semester": "1",
           "jumlah_penduduk_km2": "3860.92",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "561616",
+          "perempuan": "542537",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "25009",
           "usia_75_tahun_ke_atas": "31342",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "239494",
+          "tahun": "2022",
+          "usia_15_64_thn": "773217",
+          "usia_diatas_65_thn": "91442"
         }
       }
     },
@@ -303,18 +345,17 @@
       "kode_provinsi": "18",
       "nama_provinsi": "LAMPUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "247707",
-          "perempuan": "236177",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "487543",
           "semester": "1",
           "jumlah_penduduk_km2": "3522.114",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "247707",
+          "perempuan": "236177",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -335,6 +376,13 @@
           "usia_70_74": "8949",
           "usia_75_tahun_ke_atas": "10966",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "119817",
+          "tahun": "2022",
+          "usia_15_64_thn": "331180",
+          "usia_diatas_65_thn": "32887"
         }
       }
     },
@@ -345,18 +393,17 @@
       "kode_provinsi": "18",
       "nama_provinsi": "LAMPUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "247396",
-          "perempuan": "234180",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "485671",
           "semester": "1",
           "jumlah_penduduk_km2": "1288.079",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "247396",
+          "perempuan": "234180",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -377,6 +424,13 @@
           "usia_70_74": "10290",
           "usia_75_tahun_ke_atas": "13265",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "117744",
+          "tahun": "2022",
+          "usia_15_64_thn": "325836",
+          "usia_diatas_65_thn": "37996"
         }
       }
     },
@@ -387,18 +441,17 @@
       "kode_provinsi": "18",
       "nama_provinsi": "LAMPUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "220225",
-          "perempuan": "210087",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "433624",
           "semester": "1",
           "jumlah_penduduk_km2": "617.192",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "220225",
+          "perempuan": "210087",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -419,6 +472,13 @@
           "usia_70_74": "9193",
           "usia_75_tahun_ke_atas": "11108",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "98165",
+          "tahun": "2022",
+          "usia_15_64_thn": "298111",
+          "usia_diatas_65_thn": "34036"
         }
       }
     },
@@ -429,18 +489,17 @@
       "kode_provinsi": "18",
       "nama_provinsi": "LAMPUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "119915",
-          "perempuan": "112402",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "234061",
           "semester": "1",
           "jumlah_penduduk_km2": "2200.414",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "119915",
+          "perempuan": "112402",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -461,6 +520,13 @@
           "usia_70_74": "4459",
           "usia_75_tahun_ke_atas": "5140",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "56321",
+          "tahun": "2022",
+          "usia_15_64_thn": "160480",
+          "usia_diatas_65_thn": "15516"
         }
       }
     },
@@ -471,18 +537,17 @@
       "kode_provinsi": "18",
       "nama_provinsi": "LAMPUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "154373",
-          "perempuan": "148196",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "305113",
           "semester": "1",
           "jumlah_penduduk_km2": "1257.088",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "154373",
+          "perempuan": "148196",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -503,6 +568,13 @@
           "usia_70_74": "6004",
           "usia_75_tahun_ke_atas": "8303",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "71328",
+          "tahun": "2022",
+          "usia_15_64_thn": "208243",
+          "usia_diatas_65_thn": "22998"
         }
       }
     },
@@ -513,18 +585,17 @@
       "kode_provinsi": "18",
       "nama_provinsi": "LAMPUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "88101",
-          "perempuan": "81844",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "171247",
           "semester": "1",
           "jumlah_penduduk_km2": "2939.598",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "88101",
+          "perempuan": "81844",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -545,6 +616,13 @@
           "usia_70_74": "2761",
           "usia_75_tahun_ke_atas": "2967",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "45332",
+          "tahun": "2022",
+          "usia_15_64_thn": "114539",
+          "usia_diatas_65_thn": "10074"
         }
       }
     },
@@ -555,17 +633,16 @@
       "kode_provinsi": "18",
       "nama_provinsi": "LAMPUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "555573",
-          "perempuan": "541363",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1096936",
           "semester": "1",
           "jumlah_penduduk_km2": "183.745",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "555573",
+          "perempuan": "541363",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -587,6 +664,13 @@
           "usia_70_74": "17479",
           "usia_75_tahun_ke_atas": "19349",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "255413",
+          "tahun": "2022",
+          "usia_15_64_thn": "770642",
+          "usia_diatas_65_thn": "66893"
         }
       }
     },
@@ -597,17 +681,16 @@
       "kode_provinsi": "18",
       "nama_provinsi": "LAMPUNG",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "88234",
-          "perempuan": "87298",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "175532",
           "semester": "1",
           "jumlah_penduduk_km2": "73.214",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "88234",
+          "perempuan": "87298",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -629,6 +712,13 @@
           "usia_70_74": "3401",
           "usia_75_tahun_ke_atas": "3618",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "39310",
+          "tahun": "2022",
+          "usia_15_64_thn": "122409",
+          "usia_diatas_65_thn": "12497"
         }
       }
     }

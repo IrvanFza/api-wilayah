@@ -9,18 +9,17 @@
       "kode_provinsi": "51",
       "nama_provinsi": "BALI",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "163648",
-          "perempuan": "162594",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "327481",
           "semester": "1",
           "jumlah_penduduk_km2": "849.134",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "163648",
+          "perempuan": "162594",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "7606",
           "usia_75_tahun_ke_atas": "9548",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "68784",
+          "tahun": "2022",
+          "usia_15_64_thn": "228066",
+          "usia_diatas_65_thn": "29392"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "51",
       "nama_provinsi": "BALI",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "233566",
-          "perempuan": "235031",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "471335",
           "semester": "1",
           "jumlah_penduduk_km2": "849.314",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "233566",
+          "perempuan": "235031",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "16101",
           "usia_75_tahun_ke_atas": "25176",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "78240",
+          "tahun": "2022",
+          "usia_15_64_thn": "325635",
+          "usia_diatas_65_thn": "64722"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "51",
       "nama_provinsi": "BALI",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "259809",
-          "perempuan": "262187",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "526029",
           "semester": "1",
           "jumlah_penduduk_km2": "398.749",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "259809",
+          "perempuan": "262187",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "11852",
           "usia_75_tahun_ke_atas": "16492",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "98320",
+          "tahun": "2022",
+          "usia_15_64_thn": "377430",
+          "usia_diatas_65_thn": "46246"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "51",
       "nama_provinsi": "BALI",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "251321",
-          "perempuan": "250752",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "503546",
           "semester": "1",
           "jumlah_penduduk_km2": "364.358",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "251321",
+          "perempuan": "250752",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "14265",
           "usia_75_tahun_ke_atas": "20191",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "89408",
+          "tahun": "2022",
+          "usia_15_64_thn": "357350",
+          "usia_diatas_65_thn": "55315"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "51",
       "nama_provinsi": "BALI",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "109551",
-          "perempuan": "109561",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "220491",
           "semester": "1",
           "jumlah_penduduk_km2": "313.96",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "109551",
+          "perempuan": "109561",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "6667",
           "usia_75_tahun_ke_atas": "9380",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "43941",
+          "tahun": "2022",
+          "usia_15_64_thn": "150159",
+          "usia_diatas_65_thn": "25012"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "51",
       "nama_provinsi": "BALI",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "129689",
-          "perempuan": "126222",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "256631",
           "semester": "1",
           "jumlah_penduduk_km2": "526.764",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "129689",
+          "perempuan": "126222",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "6897",
           "usia_75_tahun_ke_atas": "9866",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "51623",
+          "tahun": "2022",
+          "usia_15_64_thn": "176516",
+          "usia_diatas_65_thn": "27772"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "51",
       "nama_provinsi": "BALI",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "265934",
-          "perempuan": "260323",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "530542",
           "semester": "1",
           "jumlah_penduduk_km2": "839.317",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "265934",
+          "perempuan": "260323",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "13665",
           "usia_75_tahun_ke_atas": "20640",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "117743",
+          "tahun": "2022",
+          "usia_15_64_thn": "355304",
+          "usia_diatas_65_thn": "53210"
         }
       }
     },
@@ -303,18 +345,17 @@
       "kode_provinsi": "51",
       "nama_provinsi": "BALI",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "417065",
-          "perempuan": "410916",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "830237",
           "semester": "1",
           "jumlah_penduduk_km2": "1322.682",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "417065",
+          "perempuan": "410916",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -335,6 +376,13 @@
           "usia_70_74": "18915",
           "usia_75_tahun_ke_atas": "25951",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "181746",
+          "tahun": "2022",
+          "usia_15_64_thn": "569566",
+          "usia_diatas_65_thn": "76669"
         }
       }
     },
@@ -345,17 +393,16 @@
       "kode_provinsi": "51",
       "nama_provinsi": "BALI",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "329665",
-          "perempuan": "331319",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "660984",
           "semester": "1",
           "jumlah_penduduk_km2": "125.872",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "329665",
+          "perempuan": "331319",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -377,6 +424,13 @@
           "usia_70_74": "13071",
           "usia_75_tahun_ke_atas": "13081",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "127624",
+          "tahun": "2022",
+          "usia_15_64_thn": "481380",
+          "usia_diatas_65_thn": "47401"
         }
       }
     }

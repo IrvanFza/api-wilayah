@@ -9,17 +9,16 @@
       "kode_provinsi": "96",
       "nama_provinsi": "PAPUA BARAT DAYA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "65250",
-          "perempuan": "59967",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "125217",
           "semester": "1",
           "jumlah_penduduk_km2": "7564.653",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "65250",
+          "perempuan": "59967",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -41,6 +40,13 @@
           "usia_70_74": "1538",
           "usia_75_tahun_ke_atas": "1504",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "30123",
+          "tahun": "2022",
+          "usia_15_64_thn": "89089",
+          "usia_diatas_65_thn": "5361"
         }
       }
     },
@@ -51,17 +57,16 @@
       "kode_provinsi": "96",
       "nama_provinsi": "PAPUA BARAT DAYA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "27152",
-          "perempuan": "25702",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "52854",
           "semester": "1",
           "jumlah_penduduk_km2": "6570.231",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "27152",
+          "perempuan": "25702",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -83,6 +88,13 @@
           "usia_70_74": "501",
           "usia_75_tahun_ke_atas": "435",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "15480",
+          "tahun": "2022",
+          "usia_15_64_thn": "35169",
+          "usia_diatas_65_thn": "1777"
         }
       }
     },
@@ -93,17 +105,16 @@
       "kode_provinsi": "96",
       "nama_provinsi": "PAPUA BARAT DAYA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "35476",
-          "perempuan": "32228",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "67704",
           "semester": "1",
           "jumlah_penduduk_km2": "7442.306",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "35476",
+          "perempuan": "32228",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -125,6 +136,13 @@
           "usia_70_74": "570",
           "usia_75_tahun_ke_atas": "445",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "21198",
+          "tahun": "2022",
+          "usia_15_64_thn": "44014",
+          "usia_diatas_65_thn": "2032"
         }
       }
     },
@@ -135,17 +153,16 @@
       "kode_provinsi": "96",
       "nama_provinsi": "PAPUA BARAT DAYA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "17045",
-          "perempuan": "15847",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "32892",
           "semester": "1",
           "jumlah_penduduk_km2": "11954.818",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "17045",
+          "perempuan": "15847",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -167,6 +184,13 @@
           "usia_70_74": "287",
           "usia_75_tahun_ke_atas": "228",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "8845",
+          "tahun": "2022",
+          "usia_15_64_thn": "22966",
+          "usia_diatas_65_thn": "916"
         }
       }
     },
@@ -177,17 +201,16 @@
       "kode_provinsi": "96",
       "nama_provinsi": "PAPUA BARAT DAYA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "22659",
-          "perempuan": "22405",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "45064",
           "semester": "1",
           "jumlah_penduduk_km2": "5385.679",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "22659",
+          "perempuan": "22405",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -209,6 +232,13 @@
           "usia_70_74": "395",
           "usia_75_tahun_ke_atas": "457",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "8632",
+          "tahun": "2022",
+          "usia_15_64_thn": "34129",
+          "usia_diatas_65_thn": "2051"
         }
       }
     },
@@ -219,17 +249,16 @@
       "kode_provinsi": "96",
       "nama_provinsi": "PAPUA BARAT DAYA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "148902",
-          "perempuan": "134464",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "283366",
           "semester": "1",
           "jumlah_penduduk_km2": "205.261",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "148902",
+          "perempuan": "134464",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -251,6 +280,13 @@
           "usia_70_74": "3704",
           "usia_75_tahun_ke_atas": "3688",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "58978",
+          "tahun": "2022",
+          "usia_15_64_thn": "210368",
+          "usia_diatas_65_thn": "13570"
         }
       }
     }

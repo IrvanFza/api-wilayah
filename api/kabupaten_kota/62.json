@@ -9,18 +9,17 @@
       "kode_provinsi": "62",
       "nama_provinsi": "KALIMANTAN TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "144135",
-          "perempuan": "136255",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "282659",
           "semester": "1",
           "jumlah_penduduk_km2": "9480.344",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "144135",
+          "perempuan": "136255",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "3348",
           "usia_75_tahun_ke_atas": "3425",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "70199",
+          "tahun": "2022",
+          "usia_15_64_thn": "197453",
+          "usia_diatas_65_thn": "12738"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "62",
       "nama_provinsi": "KALIMANTAN TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "222184",
-          "perempuan": "207519",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "433679",
           "semester": "1",
           "jumlah_penduduk_km2": "15543.824",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "222184",
+          "perempuan": "207519",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "5519",
           "usia_75_tahun_ke_atas": "5827",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "104541",
+          "tahun": "2022",
+          "usia_15_64_thn": "304549",
+          "usia_diatas_65_thn": "20613"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "62",
       "nama_provinsi": "KALIMANTAN TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "212896",
-          "perempuan": "199256",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "413823",
           "semester": "1",
           "jumlah_penduduk_km2": "17033.646",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "212896",
+          "perempuan": "199256",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "6016",
           "usia_75_tahun_ke_atas": "6277",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "91018",
+          "tahun": "2022",
+          "usia_15_64_thn": "299016",
+          "usia_diatas_65_thn": "22118"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "62",
       "nama_provinsi": "KALIMANTAN TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "68418",
-          "perempuan": "65498",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "135024",
           "semester": "1",
           "jumlah_penduduk_km2": "6267.084",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "68418",
+          "perempuan": "65498",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "1845",
           "usia_75_tahun_ke_atas": "1909",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "30528",
+          "tahun": "2022",
+          "usia_15_64_thn": "96362",
+          "usia_diatas_65_thn": "7026"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "62",
       "nama_provinsi": "KALIMANTAN TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "81758",
-          "perempuan": "76148",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "158638",
           "semester": "1",
           "jumlah_penduduk_km2": "9984.808",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "81758",
+          "perempuan": "76148",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "1791",
           "usia_75_tahun_ke_atas": "1863",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "35897",
+          "tahun": "2022",
+          "usia_15_64_thn": "114929",
+          "usia_diatas_65_thn": "7080"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "62",
       "nama_provinsi": "KALIMANTAN TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "89498",
-          "perempuan": "83174",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "174150",
           "semester": "1",
           "jumlah_penduduk_km2": "20382.259",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "89498",
+          "perempuan": "83174",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "2146",
           "usia_75_tahun_ke_atas": "2258",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "43758",
+          "tahun": "2022",
+          "usia_15_64_thn": "121066",
+          "usia_diatas_65_thn": "7848"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "62",
       "nama_provinsi": "KALIMANTAN TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "79168",
-          "perempuan": "72724",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "153164",
           "semester": "1",
           "jumlah_penduduk_km2": "15215.158",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "79168",
+          "perempuan": "72724",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "1375",
           "usia_75_tahun_ke_atas": "1546",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "38965",
+          "tahun": "2022",
+          "usia_15_64_thn": "107479",
+          "usia_diatas_65_thn": "5448"
         }
       }
     },
@@ -303,18 +345,17 @@
       "kode_provinsi": "62",
       "nama_provinsi": "KALIMANTAN TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "32753",
-          "perempuan": "29959",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "63039",
           "semester": "1",
           "jumlah_penduduk_km2": "3311.229",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "32753",
+          "perempuan": "29959",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -335,6 +376,13 @@
           "usia_70_74": "547",
           "usia_75_tahun_ke_atas": "630",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "15607",
+          "tahun": "2022",
+          "usia_15_64_thn": "44922",
+          "usia_diatas_65_thn": "2183"
         }
       }
     },
@@ -345,18 +393,17 @@
       "kode_provinsi": "62",
       "nama_provinsi": "KALIMANTAN TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "56741",
-          "perempuan": "50350",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "107970",
           "semester": "1",
           "jumlah_penduduk_km2": "7632.394",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "56741",
+          "perempuan": "50350",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -377,6 +424,13 @@
           "usia_70_74": "1216",
           "usia_75_tahun_ke_atas": "1396",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "26269",
+          "tahun": "2022",
+          "usia_15_64_thn": "76192",
+          "usia_diatas_65_thn": "4630"
         }
       }
     },
@@ -387,18 +441,17 @@
       "kode_provinsi": "62",
       "nama_provinsi": "KALIMANTAN TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "68724",
-          "perempuan": "62450",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "131945",
           "semester": "1",
           "jumlah_penduduk_km2": "9305.756",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "68724",
+          "perempuan": "62450",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -419,6 +472,13 @@
           "usia_70_74": "1414",
           "usia_75_tahun_ke_atas": "1659",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "35185",
+          "tahun": "2022",
+          "usia_15_64_thn": "90562",
+          "usia_diatas_65_thn": "5427"
         }
       }
     },
@@ -429,18 +489,17 @@
       "kode_provinsi": "62",
       "nama_provinsi": "KALIMANTAN TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "71485",
-          "perempuan": "66505",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "139086",
           "semester": "1",
           "jumlah_penduduk_km2": "9650.864",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "71485",
+          "perempuan": "66505",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -461,6 +520,13 @@
           "usia_70_74": "2561",
           "usia_75_tahun_ke_atas": "3004",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "34033",
+          "tahun": "2022",
+          "usia_15_64_thn": "94630",
+          "usia_diatas_65_thn": "9327"
         }
       }
     },
@@ -471,18 +537,17 @@
       "kode_provinsi": "62",
       "nama_provinsi": "KALIMANTAN TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "59340",
-          "perempuan": "54857",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "115239",
           "semester": "1",
           "jumlah_penduduk_km2": "23575.328",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "59340",
+          "perempuan": "54857",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -503,6 +568,13 @@
           "usia_70_74": "1105",
           "usia_75_tahun_ke_atas": "1099",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "31082",
+          "tahun": "2022",
+          "usia_15_64_thn": "79016",
+          "usia_diatas_65_thn": "4099"
         }
       }
     },
@@ -513,18 +585,17 @@
       "kode_provinsi": "62",
       "nama_provinsi": "KALIMANTAN TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "59047",
-          "perempuan": "56153",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "115803",
           "semester": "1",
           "jumlah_penduduk_km2": "3212.515",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "59047",
+          "perempuan": "56153",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -545,6 +616,13 @@
           "usia_70_74": "1652",
           "usia_75_tahun_ke_atas": "1778",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "25609",
+          "tahun": "2022",
+          "usia_15_64_thn": "83401",
+          "usia_diatas_65_thn": "6190"
         }
       }
     },
@@ -555,17 +633,16 @@
       "kode_provinsi": "62",
       "nama_provinsi": "KALIMANTAN TENGAH",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "153409",
-          "perempuan": "148901",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "302310",
           "semester": "1",
           "jumlah_penduduk_km2": "2848.699",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "153409",
+          "perempuan": "148901",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -587,6 +664,13 @@
           "usia_70_74": "3352",
           "usia_75_tahun_ke_atas": "3018",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "74092",
+          "tahun": "2022",
+          "usia_15_64_thn": "212992",
+          "usia_diatas_65_thn": "12871"
         }
       }
     }

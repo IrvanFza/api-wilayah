@@ -9,18 +9,17 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "2801048",
-          "perempuan": "2672428",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "5495372",
           "semester": "1",
           "jumlah_penduduk_km2": "2991.778",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "2801048",
+          "perempuan": "2672428",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "71281",
           "usia_75_tahun_ke_atas": "71491",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "1364489",
+          "tahun": "2022",
+          "usia_15_64_thn": "3843877",
+          "usia_diatas_65_thn": "265110"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "1402812",
-          "perempuan": "1359688",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "2773554",
           "semester": "1",
           "jumlah_penduduk_km2": "4164.152",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "1402812",
+          "perempuan": "1359688",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "52125",
           "usia_75_tahun_ke_atas": "60336",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "675513",
+          "tahun": "2022",
+          "usia_15_64_thn": "1894631",
+          "usia_diatas_65_thn": "192356"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "1286527",
-          "perempuan": "1219857",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "2516416",
           "semester": "1",
           "jumlah_penduduk_km2": "3631.915",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "1286527",
+          "perempuan": "1219857",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "46291",
           "usia_75_tahun_ke_atas": "49805",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "641506",
+          "tahun": "2022",
+          "usia_15_64_thn": "1699703",
+          "usia_diatas_65_thn": "165175"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "1887381",
-          "perempuan": "1820963",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "3723179",
           "semester": "1",
           "jumlah_penduduk_km2": "1740.843",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "1887381",
+          "perempuan": "1820963",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "62492",
           "usia_75_tahun_ke_atas": "66576",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "900229",
+          "tahun": "2022",
+          "usia_15_64_thn": "2580040",
+          "usia_diatas_65_thn": "228075"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "1408225",
-          "perempuan": "1351265",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "2770532",
           "semester": "1",
           "jumlah_penduduk_km2": "3101.235",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "1408225",
+          "perempuan": "1351265",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "47526",
           "usia_75_tahun_ke_atas": "58652",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "712142",
+          "tahun": "2022",
+          "usia_15_64_thn": "1869901",
+          "usia_diatas_65_thn": "177447"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "988078",
-          "perempuan": "951605",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1947448",
           "semester": "1",
           "jumlah_penduduk_km2": "2705.855",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "988078",
+          "perempuan": "951605",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "49524",
           "usia_75_tahun_ke_atas": "80465",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "428502",
+          "tahun": "2022",
+          "usia_15_64_thn": "1311566",
+          "usia_diatas_65_thn": "199615"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "636322",
-          "perempuan": "631556",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1272952",
           "semester": "1",
           "jumlah_penduduk_km2": "1595.937",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "636322",
+          "perempuan": "631556",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "39996",
           "usia_75_tahun_ke_atas": "47398",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "255954",
+          "tahun": "2022",
+          "usia_15_64_thn": "867491",
+          "usia_diatas_65_thn": "144433"
         }
       }
     },
@@ -303,18 +345,17 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "617506",
-          "perempuan": "600826",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1223209",
           "semester": "1",
           "jumlah_penduduk_km2": "1192.897",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "617506",
+          "perempuan": "600826",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -335,6 +376,13 @@
           "usia_70_74": "29778",
           "usia_75_tahun_ke_atas": "38825",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "272251",
+          "tahun": "2022",
+          "usia_15_64_thn": "833701",
+          "usia_diatas_65_thn": "112380"
         }
       }
     },
@@ -345,18 +393,17 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "1222681",
-          "perempuan": "1188621",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "2420953",
           "semester": "1",
           "jumlah_penduduk_km2": "1076.759",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "1222681",
+          "perempuan": "1188621",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -377,6 +424,13 @@
           "usia_70_74": "42627",
           "usia_75_tahun_ke_atas": "44199",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "561511",
+          "tahun": "2022",
+          "usia_15_64_thn": "1697639",
+          "usia_diatas_65_thn": "152152"
         }
       }
     },
@@ -387,18 +441,17 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "674058",
-          "perempuan": "665958",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1345378",
           "semester": "1",
           "jumlah_penduduk_km2": "1330.17",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "674058",
+          "perempuan": "665958",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -419,6 +472,13 @@
           "usia_70_74": "32434",
           "usia_75_tahun_ke_atas": "35685",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "293805",
+          "tahun": "2022",
+          "usia_15_64_thn": "928792",
+          "usia_diatas_65_thn": "117419"
         }
       }
     },
@@ -429,18 +489,17 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "598352",
-          "perempuan": "589268",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1197302",
           "semester": "1",
           "jumlah_penduduk_km2": "1566.204",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "598352",
+          "perempuan": "589268",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -461,6 +520,13 @@
           "usia_70_74": "35245",
           "usia_75_tahun_ke_atas": "45627",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "253365",
+          "tahun": "2022",
+          "usia_15_64_thn": "805640",
+          "usia_diatas_65_thn": "128615"
         }
       }
     },
@@ -471,18 +537,17 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "962104",
-          "perempuan": "950746",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1920505",
           "semester": "1",
           "jumlah_penduduk_km2": "2076.056",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "962104",
+          "perempuan": "950746",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -503,6 +568,13 @@
           "usia_70_74": "38892",
           "usia_75_tahun_ke_atas": "37209",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "421490",
+          "tahun": "2022",
+          "usia_15_64_thn": "1355784",
+          "usia_diatas_65_thn": "135576"
         }
       }
     },
@@ -513,18 +585,17 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "809024",
-          "perempuan": "809356",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1624856",
           "semester": "1",
           "jumlah_penduduk_km2": "2165.548",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "809024",
+          "perempuan": "809356",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -545,6 +616,13 @@
           "usia_70_74": "39020",
           "usia_75_tahun_ke_atas": "43229",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "348821",
+          "tahun": "2022",
+          "usia_15_64_thn": "1130525",
+          "usia_diatas_65_thn": "139034"
         }
       }
     },
@@ -555,18 +633,17 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "517156",
-          "perempuan": "503838",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1029561",
           "semester": "1",
           "jumlah_penduduk_km2": "993.092",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "517156",
+          "perempuan": "503838",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -587,6 +664,13 @@
           "usia_70_74": "16345",
           "usia_75_tahun_ke_atas": "19003",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "252930",
+          "tahun": "2022",
+          "usia_15_64_thn": "706976",
+          "usia_diatas_65_thn": "61088"
         }
       }
     },
@@ -597,18 +681,17 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "1267126",
-          "perempuan": "1242713",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "2519882",
           "semester": "1",
           "jumlah_penduduk_km2": "1913.713",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "1267126",
+          "perempuan": "1242713",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -629,6 +712,13 @@
           "usia_70_74": "39670",
           "usia_75_tahun_ke_atas": "42842",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "603690",
+          "tahun": "2022",
+          "usia_15_64_thn": "1760273",
+          "usia_diatas_65_thn": "145876"
         }
       }
     },
@@ -639,18 +729,17 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "1590981",
-          "perempuan": "1556287",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "3172833",
           "semester": "1",
           "jumlah_penduduk_km2": "1251.054",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "1590981",
+          "perempuan": "1556287",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -671,6 +760,13 @@
           "usia_70_74": "35074",
           "usia_75_tahun_ke_atas": "35878",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "787876",
+          "tahun": "2022",
+          "usia_15_64_thn": "2229746",
+          "usia_diatas_65_thn": "129646"
         }
       }
     },
@@ -681,18 +777,17 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "930140",
-          "perempuan": "896806",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1834256",
           "semester": "1",
           "jumlah_penduduk_km2": "1283.439",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "930140",
+          "perempuan": "896806",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -713,6 +808,13 @@
           "usia_70_74": "33331",
           "usia_75_tahun_ke_atas": "39485",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "447313",
+          "tahun": "2022",
+          "usia_15_64_thn": "1257589",
+          "usia_diatas_65_thn": "122044"
         }
       }
     },
@@ -723,18 +825,17 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "218716",
-          "perempuan": "218032",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "440177",
           "semester": "1",
           "jumlah_penduduk_km2": "1128.154",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "218716",
+          "perempuan": "218032",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -755,6 +856,13 @@
           "usia_70_74": "12728",
           "usia_75_tahun_ke_atas": "14829",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "87300",
+          "tahun": "2022",
+          "usia_15_64_thn": "302318",
+          "usia_diatas_65_thn": "47130"
         }
       }
     },
@@ -765,17 +873,16 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "567518",
-          "perempuan": "555254",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1122772",
           "semester": "1",
           "jumlah_penduduk_km2": "111.366",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "567518",
+          "perempuan": "555254",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -797,6 +904,13 @@
           "usia_70_74": "18931",
           "usia_75_tahun_ke_atas": "19267",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "263022",
+          "tahun": "2022",
+          "usia_15_64_thn": "780913",
+          "usia_diatas_65_thn": "70083"
         }
       }
     },
@@ -807,17 +921,16 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "181582",
-          "perempuan": "179999",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "361581",
           "semester": "1",
           "jumlah_penduduk_km2": "48.314",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "181582",
+          "perempuan": "179999",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -839,6 +952,13 @@
           "usia_70_74": "6681",
           "usia_75_tahun_ke_atas": "7401",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "86202",
+          "tahun": "2022",
+          "usia_15_64_thn": "247605",
+          "usia_diatas_65_thn": "25047"
         }
       }
     },
@@ -849,17 +969,16 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "1280611",
-          "perempuan": "1274576",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "2555187",
           "semester": "1",
           "jumlah_penduduk_km2": "166.593",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "1280611",
+          "perempuan": "1274576",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -881,6 +1000,13 @@
           "usia_70_74": "52164",
           "usia_75_tahun_ke_atas": "56157",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "558781",
+          "tahun": "2022",
+          "usia_15_64_thn": "1792090",
+          "usia_diatas_65_thn": "194134"
         }
       }
     },
@@ -891,17 +1017,16 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "175005",
-          "perempuan": "173907",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "348912",
           "semester": "1",
           "jumlah_penduduk_km2": "39.466",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "175005",
+          "perempuan": "173907",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -923,6 +1048,13 @@
           "usia_70_74": "6515",
           "usia_75_tahun_ke_atas": "6013",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "80852",
+          "tahun": "2022",
+          "usia_15_64_thn": "242350",
+          "usia_diatas_65_thn": "23236"
         }
       }
     },
@@ -933,17 +1065,16 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "1249193",
-          "perempuan": "1247005",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "2496198",
           "semester": "1",
           "jumlah_penduduk_km2": "213.036",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "1249193",
+          "perempuan": "1247005",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -965,6 +1096,13 @@
           "usia_70_74": "37962",
           "usia_75_tahun_ke_atas": "30216",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "561406",
+          "tahun": "2022",
+          "usia_15_64_thn": "1784292",
+          "usia_diatas_65_thn": "140553"
         }
       }
     },
@@ -975,17 +1113,16 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "967167",
-          "perempuan": "960700",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1927867",
           "semester": "1",
           "jumlah_penduduk_km2": "199.906",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "967167",
+          "perempuan": "960700",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1007,6 +1144,13 @@
           "usia_70_74": "28905",
           "usia_75_tahun_ke_atas": "26390",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "438073",
+          "tahun": "2022",
+          "usia_15_64_thn": "1375474",
+          "usia_diatas_65_thn": "106635"
         }
       }
     },
@@ -1017,17 +1161,16 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "286742",
-          "perempuan": "284087",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "570829",
           "semester": "1",
           "jumlah_penduduk_km2": "42.432",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "286742",
+          "perempuan": "284087",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1049,6 +1192,13 @@
           "usia_70_74": "9737",
           "usia_75_tahun_ke_atas": "9881",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "123429",
+          "tahun": "2022",
+          "usia_15_64_thn": "406534",
+          "usia_diatas_65_thn": "36574"
         }
       }
     },
@@ -1059,17 +1209,16 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "382072",
-          "perempuan": "370474",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "752546",
           "semester": "1",
           "jumlah_penduduk_km2": "183.939",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "382072",
+          "perempuan": "370474",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1091,6 +1240,13 @@
           "usia_70_74": "15040",
           "usia_75_tahun_ke_atas": "17536",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "171694",
+          "tahun": "2022",
+          "usia_15_64_thn": "518681",
+          "usia_diatas_65_thn": "56335"
         }
       }
     },
@@ -1101,17 +1257,16 @@
       "kode_provinsi": "32",
       "nama_provinsi": "JAWA BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "104845",
-          "perempuan": "103290",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "208135",
           "semester": "1",
           "jumlah_penduduk_km2": "131.005",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "104845",
+          "perempuan": "103290",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -1133,6 +1288,13 @@
           "usia_70_74": "5042",
           "usia_75_tahun_ke_atas": "5073",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "44635",
+          "tahun": "2022",
+          "usia_15_64_thn": "144166",
+          "usia_diatas_65_thn": "18824"
         }
       }
     }

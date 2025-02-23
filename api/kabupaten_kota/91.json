@@ -9,18 +9,17 @@
       "kode_provinsi": "91",
       "nama_provinsi": "P A P U A",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "103989",
-          "perempuan": "96363",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "201004",
           "semester": "1",
           "jumlah_penduduk_km2": "14082.212",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "103989",
+          "perempuan": "96363",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "1955",
           "usia_75_tahun_ke_atas": "1813",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "50330",
+          "tahun": "2021",
+          "usia_15_64_thn": "116628",
+          "usia_diatas_65_thn": "4879"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "91",
       "nama_provinsi": "P A P U A",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "58349",
-          "perempuan": "55565",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "114408",
           "semester": "1",
           "jumlah_penduduk_km2": "2429.03",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "58349",
+          "perempuan": "55565",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "998",
           "usia_75_tahun_ke_atas": "840",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "29958",
+          "tahun": "2021",
+          "usia_15_64_thn": "79347",
+          "usia_diatas_65_thn": "4046"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "91",
       "nama_provinsi": "P A P U A",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "74758",
-          "perempuan": "72054",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "147403",
           "semester": "1",
           "jumlah_penduduk_km2": "2257.779",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "74758",
+          "perempuan": "72054",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "2047",
           "usia_75_tahun_ke_atas": "1863",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "37521",
+          "tahun": "2021",
+          "usia_15_64_thn": "101757",
+          "usia_diatas_65_thn": "6918"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "91",
       "nama_provinsi": "P A P U A",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "22337",
-          "perempuan": "19725",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "42321",
           "semester": "1",
           "jumlah_penduduk_km2": "14068.374",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "22337",
+          "perempuan": "19725",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "427",
           "usia_75_tahun_ke_atas": "294",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "12902",
+          "tahun": "2021",
+          "usia_15_64_thn": "27569",
+          "usia_diatas_65_thn": "1175"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "91",
       "nama_provinsi": "P A P U A",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "34672",
-          "perempuan": "31215",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "66401",
           "semester": "1",
           "jumlah_penduduk_km2": "9526.315",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "34672",
+          "perempuan": "31215",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "721",
           "usia_75_tahun_ke_atas": "614",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "19537",
+          "tahun": "2021",
+          "usia_15_64_thn": "42883",
+          "usia_diatas_65_thn": "2004"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "91",
       "nama_provinsi": "P A P U A",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "19430",
-          "perempuan": "17672",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "37285",
           "semester": "1",
           "jumlah_penduduk_km2": "10778.767",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "19430",
+          "perempuan": "17672",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "329",
           "usia_75_tahun_ke_atas": "342",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "11652",
+          "tahun": "2021",
+          "usia_15_64_thn": "24074",
+          "usia_diatas_65_thn": "1067"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "91",
       "nama_provinsi": "P A P U A",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "13006",
-          "perempuan": "12142",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "25377",
           "semester": "1",
           "jumlah_penduduk_km2": "660.611",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "13006",
+          "perempuan": "12142",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "277",
           "usia_75_tahun_ke_atas": "222",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "8298",
+          "tahun": "2021",
+          "usia_15_64_thn": "15709",
+          "usia_diatas_65_thn": "848"
         }
       }
     },
@@ -303,18 +345,17 @@
       "kode_provinsi": "91",
       "nama_provinsi": "P A P U A",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "20265",
-          "perempuan": "18694",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "39083",
           "semester": "1",
           "jumlah_penduduk_km2": "28042.391",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "20265",
+          "perempuan": "18694",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -335,6 +376,13 @@
           "usia_70_74": "139",
           "usia_75_tahun_ke_atas": "92",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "10180",
+          "tahun": "2021",
+          "usia_15_64_thn": "27441",
+          "usia_diatas_65_thn": "930"
         }
       }
     },
@@ -345,18 +393,17 @@
       "kode_provinsi": "91",
       "nama_provinsi": "P A P U A",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "213712",
-          "perempuan": "189406",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "403859",
           "semester": "1",
           "jumlah_penduduk_km2": "835.479",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "213712",
+          "perempuan": "189406",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -377,6 +424,13 @@
           "usia_70_74": "3978",
           "usia_75_tahun_ke_atas": "4249",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "87042",
+          "tahun": "2021",
+          "usia_15_64_thn": "263894",
+          "usia_diatas_65_thn": "12207"
         }
       }
     }

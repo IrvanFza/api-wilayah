@@ -9,18 +9,17 @@
       "kode_provinsi": "15",
       "nama_provinsi": "JAMBI",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "130959",
-          "perempuan": "131011",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "264139",
           "semester": "1",
           "jumlah_penduduk_km2": "3445.196",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "130959",
+          "perempuan": "131011",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "6932",
           "usia_75_tahun_ke_atas": "7336",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "55215",
+          "tahun": "2022",
+          "usia_15_64_thn": "182009",
+          "usia_diatas_65_thn": "24746"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "15",
       "nama_provinsi": "JAMBI",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "193196",
-          "perempuan": "187127",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "383676",
           "semester": "1",
           "jumlah_penduduk_km2": "7540.118",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "193196",
+          "perempuan": "187127",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "5272",
           "usia_75_tahun_ke_atas": "4906",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "96158",
+          "tahun": "2022",
+          "usia_15_64_thn": "265036",
+          "usia_diatas_65_thn": "19129"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "15",
       "nama_provinsi": "JAMBI",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "153106",
-          "perempuan": "147354",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "302994",
           "semester": "1",
           "jumlah_penduduk_km2": "5935.894",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "153106",
+          "perempuan": "147354",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "3617",
           "usia_75_tahun_ke_atas": "3899",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "78446",
+          "tahun": "2022",
+          "usia_15_64_thn": "208129",
+          "usia_diatas_65_thn": "13885"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "15",
       "nama_provinsi": "JAMBI",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "157566",
-          "perempuan": "149955",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "308753",
           "semester": "1",
           "jumlah_penduduk_km2": "5387.516",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "157566",
+          "perempuan": "149955",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "3891",
           "usia_75_tahun_ke_atas": "4062",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "72581",
+          "tahun": "2022",
+          "usia_15_64_thn": "219611",
+          "usia_diatas_65_thn": "15329"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "15",
       "nama_provinsi": "JAMBI",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "221637",
-          "perempuan": "208908",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "435678",
           "semester": "1",
           "jumlah_penduduk_km2": "5225.796",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "221637",
+          "perempuan": "208908",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "5093",
           "usia_75_tahun_ke_atas": "5036",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "107902",
+          "tahun": "2022",
+          "usia_15_64_thn": "303052",
+          "usia_diatas_65_thn": "19591"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "15",
       "nama_provinsi": "JAMBI",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "168379",
-          "perempuan": "158151",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "328451",
           "semester": "1",
           "jumlah_penduduk_km2": "5546.063",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "168379",
+          "perempuan": "158151",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "4566",
           "usia_75_tahun_ke_atas": "5026",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "79351",
+          "tahun": "2022",
+          "usia_15_64_thn": "229700",
+          "usia_diatas_65_thn": "17479"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "15",
       "nama_provinsi": "JAMBI",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "120056",
-          "perempuan": "115377",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "237527",
           "semester": "1",
           "jumlah_penduduk_km2": "4546.621",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "120056",
+          "perempuan": "115377",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "4516",
           "usia_75_tahun_ke_atas": "6446",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "53834",
+          "tahun": "2022",
+          "usia_15_64_thn": "164145",
+          "usia_diatas_65_thn": "17454"
         }
       }
     },
@@ -303,18 +345,17 @@
       "kode_provinsi": "15",
       "nama_provinsi": "JAMBI",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "186388",
-          "perempuan": "180964",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "370379",
           "semester": "1",
           "jumlah_penduduk_km2": "4760.827",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "186388",
+          "perempuan": "180964",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -335,6 +376,13 @@
           "usia_70_74": "4844",
           "usia_75_tahun_ke_atas": "5386",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "95550",
+          "tahun": "2022",
+          "usia_15_64_thn": "252654",
+          "usia_diatas_65_thn": "19148"
         }
       }
     },
@@ -345,18 +393,17 @@
       "kode_provinsi": "15",
       "nama_provinsi": "JAMBI",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "183225",
-          "perempuan": "173650",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "359906",
           "semester": "1",
           "jumlah_penduduk_km2": "6103.737",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "183225",
+          "perempuan": "173650",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -377,6 +424,13 @@
           "usia_70_74": "5024",
           "usia_75_tahun_ke_atas": "5325",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "85396",
+          "tahun": "2022",
+          "usia_15_64_thn": "252039",
+          "usia_diatas_65_thn": "19440"
         }
       }
     },
@@ -387,17 +441,16 @@
       "kode_provinsi": "15",
       "nama_provinsi": "JAMBI",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "318039",
-          "perempuan": "315611",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "633650",
           "semester": "1",
           "jumlah_penduduk_km2": "169.887",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "318039",
+          "perempuan": "315611",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -419,6 +472,13 @@
           "usia_70_74": "9678",
           "usia_75_tahun_ke_atas": "9492",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "150458",
+          "tahun": "2022",
+          "usia_15_64_thn": "441650",
+          "usia_diatas_65_thn": "36470"
         }
       }
     },
@@ -429,17 +489,16 @@
       "kode_provinsi": "15",
       "nama_provinsi": "JAMBI",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "50715",
-          "perempuan": "50136",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "100851",
           "semester": "1",
           "jumlah_penduduk_km2": "364.924",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "50715",
+          "perempuan": "50136",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -461,6 +520,13 @@
           "usia_70_74": "2727",
           "usia_75_tahun_ke_atas": "3396",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "20448",
+          "tahun": "2022",
+          "usia_15_64_thn": "69897",
+          "usia_diatas_65_thn": "10112"
         }
       }
     }

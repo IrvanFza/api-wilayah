@@ -9,18 +9,17 @@
       "kode_provinsi": "71",
       "nama_provinsi": "SULAWESI UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "131654",
-          "perempuan": "121154",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "253821",
           "semester": "1",
           "jumlah_penduduk_km2": "3269.305",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "131654",
+          "perempuan": "121154",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "5198",
           "usia_75_tahun_ke_atas": "5733",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "50260",
+          "tahun": "2022",
+          "usia_15_64_thn": "183147",
+          "usia_diatas_65_thn": "19401"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "71",
       "nama_provinsi": "SULAWESI UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "175990",
-          "perempuan": "168590",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "345513",
           "semester": "1",
           "jumlah_penduduk_km2": "1128.453",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "175990",
+          "perempuan": "168590",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "11356",
           "usia_75_tahun_ke_atas": "15516",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "58470",
+          "tahun": "2022",
+          "usia_15_64_thn": "241984",
+          "usia_diatas_65_thn": "44126"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "71",
       "nama_provinsi": "SULAWESI UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "69672",
-          "perempuan": "67126",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "137494",
           "semester": "1",
           "jumlah_penduduk_km2": "597.26",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "69672",
+          "perempuan": "67126",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "3748",
           "usia_75_tahun_ke_atas": "3686",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "23574",
+          "tahun": "2022",
+          "usia_15_64_thn": "99842",
+          "usia_diatas_65_thn": "13382"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "71",
       "nama_provinsi": "SULAWESI UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "51643",
-          "perempuan": "48622",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "100772",
           "semester": "1",
           "jumlah_penduduk_km2": "1012.14",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "51643",
+          "perempuan": "48622",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "2557",
           "usia_75_tahun_ke_atas": "2826",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "19039",
+          "tahun": "2022",
+          "usia_15_64_thn": "72096",
+          "usia_diatas_65_thn": "9130"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "71",
       "nama_provinsi": "SULAWESI UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "124622",
-          "perempuan": "115902",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "241306",
           "semester": "1",
           "jumlah_penduduk_km2": "1456.69",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "124622",
+          "perempuan": "115902",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "7547",
           "usia_75_tahun_ke_atas": "8936",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "42885",
+          "tahun": "2022",
+          "usia_15_64_thn": "169802",
+          "usia_diatas_65_thn": "27837"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "71",
       "nama_provinsi": "SULAWESI UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "113697",
-          "perempuan": "110219",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "224816",
           "semester": "1",
           "jumlah_penduduk_km2": "995.549",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "113697",
+          "perempuan": "110219",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "5346",
           "usia_75_tahun_ke_atas": "4922",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "44354",
+          "tahun": "2022",
+          "usia_15_64_thn": "160746",
+          "usia_diatas_65_thn": "18816"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "71",
       "nama_provinsi": "SULAWESI UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "61752",
-          "perempuan": "57341",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "119637",
           "semester": "1",
           "jumlah_penduduk_km2": "753.136",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "61752",
+          "perempuan": "57341",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "2891",
           "usia_75_tahun_ke_atas": "2995",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "24398",
+          "tahun": "2022",
+          "usia_15_64_thn": "84284",
+          "usia_diatas_65_thn": "10411"
         }
       }
     },
@@ -303,18 +345,17 @@
       "kode_provinsi": "71",
       "nama_provinsi": "SULAWESI UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "44229",
-          "perempuan": "41922",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "86486",
           "semester": "1",
           "jumlah_penduduk_km2": "1644.377",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "44229",
+          "perempuan": "41922",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -335,6 +376,13 @@
           "usia_70_74": "1621",
           "usia_75_tahun_ke_atas": "1550",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "18596",
+          "tahun": "2022",
+          "usia_15_64_thn": "61665",
+          "usia_diatas_65_thn": "5890"
         }
       }
     },
@@ -345,18 +393,17 @@
       "kode_provinsi": "71",
       "nama_provinsi": "SULAWESI UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "35798",
-          "perempuan": "35279",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "70938",
           "semester": "1",
           "jumlah_penduduk_km2": "217.287",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "35798",
+          "perempuan": "35279",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -377,6 +424,13 @@
           "usia_70_74": "2027",
           "usia_75_tahun_ke_atas": "2478",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "11594",
+          "tahun": "2022",
+          "usia_15_64_thn": "51695",
+          "usia_diatas_65_thn": "7788"
         }
       }
     },
@@ -387,18 +441,17 @@
       "kode_provinsi": "71",
       "nama_provinsi": "SULAWESI UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "46862",
-          "perempuan": "42869",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "90109",
           "semester": "1",
           "jumlah_penduduk_km2": "859.973",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "46862",
+          "perempuan": "42869",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -419,6 +472,13 @@
           "usia_70_74": "1752",
           "usia_75_tahun_ke_atas": "2015",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "16946",
+          "tahun": "2022",
+          "usia_15_64_thn": "66205",
+          "usia_diatas_65_thn": "6580"
         }
       }
     },
@@ -429,18 +489,17 @@
       "kode_provinsi": "71",
       "nama_provinsi": "SULAWESI UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "37682",
-          "perempuan": "34978",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "73046",
           "semester": "1",
           "jumlah_penduduk_km2": "1796.071",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "37682",
+          "perempuan": "34978",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -461,6 +520,13 @@
           "usia_70_74": "1050",
           "usia_75_tahun_ke_atas": "1044",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "17389",
+          "tahun": "2022",
+          "usia_15_64_thn": "51423",
+          "usia_diatas_65_thn": "3848"
         }
       }
     },
@@ -471,17 +537,16 @@
       "kode_provinsi": "71",
       "nama_provinsi": "SULAWESI UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "240440",
-          "perempuan": "237752",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "478192",
           "semester": "1",
           "jumlah_penduduk_km2": "162.353",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "240440",
+          "perempuan": "237752",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -503,6 +568,13 @@
           "usia_70_74": "10648",
           "usia_75_tahun_ke_atas": "10823",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "90931",
+          "tahun": "2022",
+          "usia_15_64_thn": "347072",
+          "usia_diatas_65_thn": "39100"
         }
       }
     },
@@ -513,17 +585,16 @@
       "kode_provinsi": "71",
       "nama_provinsi": "SULAWESI UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "116561",
-          "perempuan": "111445",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "228006",
           "semester": "1",
           "jumlah_penduduk_km2": "329.724",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "116561",
+          "perempuan": "111445",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -545,6 +616,13 @@
           "usia_70_74": "3714",
           "usia_75_tahun_ke_atas": "3369",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "47009",
+          "tahun": "2022",
+          "usia_15_64_thn": "166917",
+          "usia_diatas_65_thn": "13463"
         }
       }
     },
@@ -555,17 +633,16 @@
       "kode_provinsi": "71",
       "nama_provinsi": "SULAWESI UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "51623",
-          "perempuan": "50335",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "101958",
           "semester": "1",
           "jumlah_penduduk_km2": "169.064",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "51623",
+          "perempuan": "50335",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -587,6 +664,13 @@
           "usia_70_74": "2855",
           "usia_75_tahun_ke_atas": "3169",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "18900",
+          "tahun": "2022",
+          "usia_15_64_thn": "71968",
+          "usia_diatas_65_thn": "10559"
         }
       }
     },
@@ -597,17 +681,16 @@
       "kode_provinsi": "71",
       "nama_provinsi": "SULAWESI UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "63691",
-          "perempuan": "60227",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "123918",
           "semester": "1",
           "jumlah_penduduk_km2": "108.893",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "63691",
+          "perempuan": "60227",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -629,6 +712,13 @@
           "usia_70_74": "2181",
           "usia_75_tahun_ke_atas": "2161",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "23916",
+          "tahun": "2022",
+          "usia_15_64_thn": "91022",
+          "usia_diatas_65_thn": "8361"
         }
       }
     }

@@ -9,18 +9,17 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "69362",
-          "perempuan": "71519",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "141347",
           "semester": "1",
           "jumlah_penduduk_km2": "1160.359",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "69362",
+          "perempuan": "71519",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "3279",
           "usia_75_tahun_ke_atas": "4712",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "29940",
+          "tahun": "2022",
+          "usia_15_64_thn": "98359",
+          "usia_diatas_65_thn": "12582"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "226575",
-          "perempuan": "237406",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "468337",
           "semester": "1",
           "jumlah_penduduk_km2": "1175.528",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "226575",
+          "perempuan": "237406",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "9799",
           "usia_75_tahun_ke_atas": "13351",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "100954",
+          "tahun": "2022",
+          "usia_15_64_thn": "326163",
+          "usia_diatas_65_thn": "36864"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "101746",
-          "perempuan": "104448",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "208067",
           "semester": "1",
           "jumlah_penduduk_km2": "390.969",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "101746",
+          "perempuan": "104448",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "3497",
           "usia_75_tahun_ke_atas": "4771",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "47442",
+          "tahun": "2022",
+          "usia_15_64_thn": "145386",
+          "usia_diatas_65_thn": "13366"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "206124",
-          "perempuan": "210390",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "418182",
           "semester": "1",
           "jumlah_penduduk_km2": "796.001",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "206124",
+          "perempuan": "210390",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "6467",
           "usia_75_tahun_ke_atas": "10615",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "101068",
+          "tahun": "2022",
+          "usia_15_64_thn": "288564",
+          "usia_diatas_65_thn": "26882"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "156184",
-          "perempuan": "163532",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "322278",
           "semester": "1",
           "jumlah_penduduk_km2": "555.431",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "156184",
+          "perempuan": "163532",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "5530",
           "usia_75_tahun_ke_atas": "8479",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "79736",
+          "tahun": "2022",
+          "usia_15_64_thn": "217192",
+          "usia_diatas_65_thn": "22788"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "390060",
-          "perempuan": "397857",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "794431",
           "semester": "1",
           "jumlah_penduduk_km2": "1812.997",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "390060",
+          "perempuan": "397857",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "14245",
           "usia_75_tahun_ke_atas": "20608",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "188954",
+          "tahun": "2022",
+          "usia_15_64_thn": "543041",
+          "usia_diatas_65_thn": "55922"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "133402",
-          "perempuan": "135912",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "271620",
           "semester": "1",
           "jumlah_penduduk_km2": "865.244",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "133402",
+          "perempuan": "135912",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "5343",
           "usia_75_tahun_ke_atas": "8291",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "60529",
+          "tahun": "2022",
+          "usia_15_64_thn": "187223",
+          "usia_diatas_65_thn": "21562"
         }
       }
     },
@@ -303,18 +345,17 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "397186",
-          "perempuan": "416920",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "817364",
           "semester": "1",
           "jumlah_penduduk_km2": "4567.363",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "397186",
+          "perempuan": "416920",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -335,6 +376,13 @@
           "usia_70_74": "21524",
           "usia_75_tahun_ke_atas": "30494",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "178287",
+          "tahun": "2022",
+          "usia_15_64_thn": "556296",
+          "usia_diatas_65_thn": "79523"
         }
       }
     },
@@ -345,18 +393,17 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "195360",
-          "perempuan": "196129",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "394617",
           "semester": "1",
           "jumlah_penduduk_km2": "1442.946",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "195360",
+          "perempuan": "196129",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -377,6 +424,13 @@
           "usia_70_74": "6463",
           "usia_75_tahun_ke_atas": "8518",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "100484",
+          "tahun": "2022",
+          "usia_15_64_thn": "266449",
+          "usia_diatas_65_thn": "24556"
         }
       }
     },
@@ -387,14 +441,13 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {},
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "355003",
           "semester": "1",
           "jumlah_penduduk_km2": "888.913",
           "tahun": "2023"
         },
+        "jenis_kelamin": {},
         "demografi": {
           "semester": "1",
           "usia_15_19": "31112",
@@ -414,6 +467,13 @@
           "usia_70_74": "6594",
           "usia_75_tahun_ke_atas": "8674",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "87590",
+          "tahun": "2022",
+          "usia_15_64_thn": "240980",
+          "usia_diatas_65_thn": "24528"
         }
       }
     },
@@ -424,18 +484,17 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "94251",
-          "perempuan": "97644",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "193358",
           "semester": "1",
           "jumlah_penduduk_km2": "1201.903",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "94251",
+          "perempuan": "97644",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -456,6 +515,13 @@
           "usia_70_74": "4519",
           "usia_75_tahun_ke_atas": "7622",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "42740",
+          "tahun": "2022",
+          "usia_15_64_thn": "130596",
+          "usia_diatas_65_thn": "18559"
         }
       }
     },
@@ -466,18 +532,17 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "115860",
-          "perempuan": "124389",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "240665",
           "semester": "1",
           "jumlah_penduduk_km2": "1385.546",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "115860",
+          "perempuan": "124389",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -498,6 +563,13 @@
           "usia_70_74": "7682",
           "usia_75_tahun_ke_atas": "12434",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "43431",
+          "tahun": "2022",
+          "usia_15_64_thn": "166021",
+          "usia_diatas_65_thn": "30797"
         }
       }
     },
@@ -508,18 +580,17 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "195372",
-          "perempuan": "206694",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "405137",
           "semester": "1",
           "jumlah_penduduk_km2": "2608.708",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "195372",
+          "perempuan": "206694",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -540,6 +611,13 @@
           "usia_70_74": "10053",
           "usia_75_tahun_ke_atas": "15076",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "85971",
+          "tahun": "2022",
+          "usia_15_64_thn": "277297",
+          "usia_diatas_65_thn": "38798"
         }
       }
     },
@@ -550,18 +628,17 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "158642",
-          "perempuan": "162973",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "323430",
           "semester": "1",
           "jumlah_penduduk_km2": "1832.3",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "158642",
+          "perempuan": "162973",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -582,6 +659,13 @@
           "usia_70_74": "7505",
           "usia_75_tahun_ke_atas": "11392",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "75388",
+          "tahun": "2022",
+          "usia_15_64_thn": "217938",
+          "usia_diatas_65_thn": "28289"
         }
       }
     },
@@ -592,18 +676,17 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "202875",
-          "perempuan": "208517",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "414710",
           "semester": "1",
           "jumlah_penduduk_km2": "1896.575",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "202875",
+          "perempuan": "208517",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -624,6 +707,13 @@
           "usia_70_74": "8268",
           "usia_75_tahun_ke_atas": "12904",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "96962",
+          "tahun": "2022",
+          "usia_15_64_thn": "281697",
+          "usia_diatas_65_thn": "32733"
         }
       }
     },
@@ -634,18 +724,17 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "116254",
-          "perempuan": "112462",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "229967",
           "semester": "1",
           "jumlah_penduduk_km2": "1806.845",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "116254",
+          "perempuan": "112462",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -666,6 +755,13 @@
           "usia_70_74": "4592",
           "usia_75_tahun_ke_atas": "7968",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "51925",
+          "tahun": "2022",
+          "usia_15_64_thn": "158228",
+          "usia_diatas_65_thn": "18563"
         }
       }
     },
@@ -676,18 +772,17 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "188635",
-          "perempuan": "186846",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "377580",
           "semester": "1",
           "jumlah_penduduk_km2": "2902.069",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "188635",
+          "perempuan": "186846",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -708,6 +803,13 @@
           "usia_70_74": "6847",
           "usia_75_tahun_ke_atas": "11180",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "91099",
+          "tahun": "2022",
+          "usia_15_64_thn": "257474",
+          "usia_diatas_65_thn": "26908"
         }
       }
     },
@@ -718,18 +820,17 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "135762",
-          "perempuan": "128152",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "257075",
           "semester": "1",
           "jumlah_penduduk_km2": "2043.623",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "135762",
+          "perempuan": "128152",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -750,6 +851,13 @@
           "usia_70_74": "6206",
           "usia_75_tahun_ke_atas": "9816",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "58263",
+          "tahun": "2022",
+          "usia_15_64_thn": "181575",
+          "usia_diatas_65_thn": "24076"
         }
       }
     },
@@ -760,18 +868,17 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "167054",
-          "perempuan": "163680",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "332059",
           "semester": "1",
           "jumlah_penduduk_km2": "7422.418",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "167054",
+          "perempuan": "163680",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -792,6 +899,13 @@
           "usia_70_74": "5598",
           "usia_75_tahun_ke_atas": "7378",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "77702",
+          "tahun": "2022",
+          "usia_15_64_thn": "232343",
+          "usia_diatas_65_thn": "20689"
         }
       }
     },
@@ -802,18 +916,17 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "159043",
-          "perempuan": "149487",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "311062",
           "semester": "1",
           "jumlah_penduduk_km2": "6745.921",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "159043",
+          "perempuan": "149487",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -834,6 +947,13 @@
           "usia_70_74": "4840",
           "usia_75_tahun_ke_atas": "5589",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "80499",
+          "tahun": "2022",
+          "usia_15_64_thn": "210888",
+          "usia_diatas_65_thn": "17143"
         }
       }
     },
@@ -844,18 +964,17 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "131022",
-          "perempuan": "126517",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "259690",
           "semester": "1",
           "jumlah_penduduk_km2": "1289.134",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "131022",
+          "perempuan": "126517",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -876,6 +995,13 @@
           "usia_70_74": "5703",
           "usia_75_tahun_ke_atas": "9293",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "66889",
+          "tahun": "2022",
+          "usia_15_64_thn": "167955",
+          "usia_diatas_65_thn": "22695"
         }
       }
     },
@@ -886,17 +1012,16 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "730556",
-          "perempuan": "739705",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "1470261",
           "semester": "1",
           "jumlah_penduduk_km2": "176.852",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "730556",
+          "perempuan": "739705",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -918,6 +1043,13 @@
           "usia_70_74": "24040",
           "usia_75_tahun_ke_atas": "29525",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "346409",
+          "tahun": "2022",
+          "usia_15_64_thn": "1026165",
+          "usia_diatas_65_thn": "91827"
         }
       }
     },
@@ -928,14 +1060,13 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {},
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "158600",
           "semester": "1",
           "jumlah_penduduk_km2": "89.67",
           "tahun": "2023"
         },
+        "jenis_kelamin": {},
         "demografi": {
           "semester": "1",
           "usia_15_19": "13554",
@@ -955,6 +1086,13 @@
           "usia_70_74": "2302",
           "usia_75_tahun_ke_atas": "2958",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "40094",
+          "tahun": "2022",
+          "usia_15_64_thn": "108276",
+          "usia_diatas_65_thn": "9072"
         }
       }
     },
@@ -965,17 +1103,16 @@
       "kode_provinsi": "73",
       "nama_provinsi": "SULAWESI SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "92231",
-          "perempuan": "92066",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "184297",
           "semester": "1",
           "jumlah_penduduk_km2": "273.235",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "92231",
+          "perempuan": "92066",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -997,6 +1134,13 @@
           "usia_70_74": "2614",
           "usia_75_tahun_ke_atas": "3657",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "44857",
+          "tahun": "2022",
+          "usia_15_64_thn": "128297",
+          "usia_diatas_65_thn": "10407"
         }
       }
     }

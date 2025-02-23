@@ -9,18 +9,17 @@
       "kode_provinsi": "63",
       "nama_provinsi": "KALIMANTAN SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "182070",
-          "perempuan": "176020",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "360967",
           "semester": "1",
           "jumlah_penduduk_km2": "3841.372",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "182070",
+          "perempuan": "176020",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "5094",
           "usia_75_tahun_ke_atas": "5627",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "86583",
+          "tahun": "2022",
+          "usia_15_64_thn": "252148",
+          "usia_diatas_65_thn": "19359"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "63",
       "nama_provinsi": "KALIMANTAN SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "168650",
-          "perempuan": "157981",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "327975",
           "semester": "1",
           "jumlah_penduduk_km2": "9354.933",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "168650",
+          "perempuan": "157981",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "3752",
           "usia_75_tahun_ke_atas": "3891",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "76121",
+          "tahun": "2022",
+          "usia_15_64_thn": "236447",
+          "usia_diatas_65_thn": "14063"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "63",
       "nama_provinsi": "KALIMANTAN SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "287861",
-          "perempuan": "282486",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "575115",
           "semester": "1",
           "jumlah_penduduk_km2": "4588.438",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "287861",
+          "perempuan": "282486",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "8325",
           "usia_75_tahun_ke_atas": "9221",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "131145",
+          "tahun": "2022",
+          "usia_15_64_thn": "406652",
+          "usia_diatas_65_thn": "32550"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "63",
       "nama_provinsi": "KALIMANTAN SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "161957",
-          "perempuan": "157751",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "322178",
           "semester": "1",
           "jumlah_penduduk_km2": "2426.179",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "161957",
+          "perempuan": "157751",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "4804",
           "usia_75_tahun_ke_atas": "5814",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "71895",
+          "tahun": "2022",
+          "usia_15_64_thn": "228877",
+          "usia_diatas_65_thn": "18936"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "63",
       "nama_provinsi": "KALIMANTAN SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "97989",
-          "perempuan": "96861",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "196412",
           "semester": "1",
           "jumlah_penduduk_km2": "2155.939",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "97989",
+          "perempuan": "96861",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "2940",
           "usia_75_tahun_ke_atas": "3299",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "44887",
+          "tahun": "2022",
+          "usia_15_64_thn": "138523",
+          "usia_diatas_65_thn": "11440"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "63",
       "nama_provinsi": "KALIMANTAN SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "118017",
-          "perempuan": "116892",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "236328",
           "semester": "1",
           "jumlah_penduduk_km2": "1697.224",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "118017",
+          "perempuan": "116892",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "3773",
           "usia_75_tahun_ke_atas": "4728",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "50798",
+          "tahun": "2022",
+          "usia_15_64_thn": "168455",
+          "usia_diatas_65_thn": "15656"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "63",
       "nama_provinsi": "KALIMANTAN SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "133270",
-          "perempuan": "131739",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "266788",
           "semester": "1",
           "jumlah_penduduk_km2": "1573.538",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "133270",
+          "perempuan": "131739",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "4539",
           "usia_75_tahun_ke_atas": "5547",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "58406",
+          "tahun": "2022",
+          "usia_15_64_thn": "188183",
+          "usia_diatas_65_thn": "18420"
         }
       }
     },
@@ -303,18 +345,17 @@
       "kode_provinsi": "63",
       "nama_provinsi": "KALIMANTAN SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "116906",
-          "perempuan": "116522",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "234642",
           "semester": "1",
           "jumlah_penduduk_km2": "907.491",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "116906",
+          "perempuan": "116522",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -335,6 +376,13 @@
           "usia_70_74": "3822",
           "usia_75_tahun_ke_atas": "3822",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "54012",
+          "tahun": "2022",
+          "usia_15_64_thn": "165330",
+          "usia_diatas_65_thn": "14086"
         }
       }
     },
@@ -345,18 +393,17 @@
       "kode_provinsi": "63",
       "nama_provinsi": "KALIMANTAN SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "130372",
-          "perempuan": "128153",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "260555",
           "semester": "1",
           "jumlah_penduduk_km2": "3473.069",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "130372",
+          "perempuan": "128153",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -377,6 +424,13 @@
           "usia_70_74": "3287",
           "usia_75_tahun_ke_atas": "3191",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "63339",
+          "tahun": "2022",
+          "usia_15_64_thn": "182529",
+          "usia_diatas_65_thn": "12657"
         }
       }
     },
@@ -387,18 +441,17 @@
       "kode_provinsi": "63",
       "nama_provinsi": "KALIMANTAN SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "174525",
-          "perempuan": "166612",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "343741",
           "semester": "1",
           "jumlah_penduduk_km2": "4884.833",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "174525",
+          "perempuan": "166612",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -419,6 +472,13 @@
           "usia_70_74": "4069",
           "usia_75_tahun_ke_atas": "4107",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "89105",
+          "tahun": "2022",
+          "usia_15_64_thn": "237168",
+          "usia_diatas_65_thn": "14864"
         }
       }
     },
@@ -429,18 +489,17 @@
       "kode_provinsi": "63",
       "nama_provinsi": "KALIMANTAN SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "67736",
-          "perempuan": "66053",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "134854",
           "semester": "1",
           "jumlah_penduduk_km2": "1828.513",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "67736",
+          "perempuan": "66053",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -461,6 +520,13 @@
           "usia_70_74": "1575",
           "usia_75_tahun_ke_atas": "1553",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "32551",
+          "tahun": "2022",
+          "usia_15_64_thn": "95018",
+          "usia_diatas_65_thn": "6220"
         }
       }
     },
@@ -471,17 +537,16 @@
       "kode_provinsi": "63",
       "nama_provinsi": "KALIMANTAN SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "337819",
-          "perempuan": "338096",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "675915",
           "semester": "1",
           "jumlah_penduduk_km2": "98.372",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "337819",
+          "perempuan": "338096",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -503,6 +568,13 @@
           "usia_70_74": "10903",
           "usia_75_tahun_ke_atas": "10767",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "153144",
+          "tahun": "2022",
+          "usia_15_64_thn": "479535",
+          "usia_diatas_65_thn": "40835"
         }
       }
     },
@@ -513,17 +585,16 @@
       "kode_provinsi": "63",
       "nama_provinsi": "KALIMANTAN SELATAN",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "135664",
-          "perempuan": "134682",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "270346",
           "semester": "1",
           "jumlah_penduduk_km2": "305.153",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "135664",
+          "perempuan": "134682",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -545,6 +616,13 @@
           "usia_70_74": "3216",
           "usia_75_tahun_ke_atas": "3098",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "65227",
+          "tahun": "2022",
+          "usia_15_64_thn": "190908",
+          "usia_diatas_65_thn": "12157"
         }
       }
     }

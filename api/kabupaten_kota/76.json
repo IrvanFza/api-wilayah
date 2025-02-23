@@ -9,18 +9,17 @@
       "kode_provinsi": "76",
       "nama_provinsi": "SULAWESI BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "99189",
-          "perempuan": "93646",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "193469",
           "semester": "1",
           "jumlah_penduduk_km2": "2903.183",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "99189",
+          "perempuan": "93646",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "1825",
           "usia_75_tahun_ke_atas": "2061",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "46955",
+          "tahun": "2022",
+          "usia_15_64_thn": "139262",
+          "usia_diatas_65_thn": "6618"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "76",
       "nama_provinsi": "SULAWESI BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "144521",
-          "perempuan": "137628",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "283282",
           "semester": "1",
           "jumlah_penduduk_km2": "4942.252",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "144521",
+          "perempuan": "137628",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "3285",
           "usia_75_tahun_ke_atas": "3789",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "76987",
+          "tahun": "2022",
+          "usia_15_64_thn": "193002",
+          "usia_diatas_65_thn": "12160"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "76",
       "nama_provinsi": "SULAWESI BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "84648",
-          "perempuan": "79804",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "165310",
           "semester": "1",
           "jumlah_penduduk_km2": "3015.945",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "84648",
+          "perempuan": "79804",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "3254",
           "usia_75_tahun_ke_atas": "4105",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "37817",
+          "tahun": "2022",
+          "usia_15_64_thn": "115051",
+          "usia_diatas_65_thn": "11584"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "76",
       "nama_provinsi": "SULAWESI BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "245400",
-          "perempuan": "243656",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "491014",
           "semester": "1",
           "jumlah_penduduk_km2": "2074.118",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "245400",
+          "perempuan": "243656",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "7747",
           "usia_75_tahun_ke_atas": "10935",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "119161",
+          "tahun": "2022",
+          "usia_15_64_thn": "339946",
+          "usia_diatas_65_thn": "29949"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "76",
       "nama_provinsi": "SULAWESI BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "91344",
-          "perempuan": "91804",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "184664",
           "semester": "1",
           "jumlah_penduduk_km2": "900.916",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "91344",
+          "perempuan": "91804",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "2737",
           "usia_75_tahun_ke_atas": "4211",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "51554",
+          "tahun": "2022",
+          "usia_15_64_thn": "120507",
+          "usia_diatas_65_thn": "11087"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "76",
       "nama_provinsi": "SULAWESI BARAT",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "71516",
-          "perempuan": "67454",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "139742",
           "semester": "1",
           "jumlah_penduduk_km2": "2758.335",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "71516",
+          "perempuan": "67454",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "1706",
           "usia_75_tahun_ke_atas": "2031",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "36768",
+          "tahun": "2022",
+          "usia_15_64_thn": "95869",
+          "usia_diatas_65_thn": "6333"
         }
       }
     }

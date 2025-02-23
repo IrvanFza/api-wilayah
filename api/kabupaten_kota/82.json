@@ -9,18 +9,17 @@
       "kode_provinsi": "82",
       "nama_provinsi": "MALUKU UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "69641",
-          "perempuan": "67059",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "137126",
           "semester": "1",
           "jumlah_penduduk_km2": "2239.114",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "69641",
+          "perempuan": "67059",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -41,6 +40,13 @@
           "usia_70_74": "2319",
           "usia_75_tahun_ke_atas": "2497",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "28460",
+          "tahun": "2022",
+          "usia_15_64_thn": "99674",
+          "usia_diatas_65_thn": "8566"
         }
       }
     },
@@ -51,18 +57,17 @@
       "kode_provinsi": "82",
       "nama_provinsi": "MALUKU UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "57172",
-          "perempuan": "35726",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "96359",
           "semester": "1",
           "jumlah_penduduk_km2": "2276.903",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "57172",
+          "perempuan": "35726",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -83,6 +88,13 @@
           "usia_70_74": "788",
           "usia_75_tahun_ke_atas": "705",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "18262",
+          "tahun": "2022",
+          "usia_15_64_thn": "71962",
+          "usia_diatas_65_thn": "2674"
         }
       }
     },
@@ -93,18 +105,17 @@
       "kode_provinsi": "82",
       "nama_provinsi": "MALUKU UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "102943",
-          "perempuan": "98400",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "202150",
           "semester": "1",
           "jumlah_penduduk_km2": "3404.629",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "102943",
+          "perempuan": "98400",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -125,6 +136,13 @@
           "usia_70_74": "3036",
           "usia_75_tahun_ke_atas": "2538",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "48117",
+          "tahun": "2022",
+          "usia_15_64_thn": "143226",
+          "usia_diatas_65_thn": "10000"
         }
       }
     },
@@ -135,18 +153,17 @@
       "kode_provinsi": "82",
       "nama_provinsi": "MALUKU UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "129735",
-          "perempuan": "123752",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "254328",
           "semester": "1",
           "jumlah_penduduk_km2": "8096.397",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "129735",
+          "perempuan": "123752",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -167,6 +184,13 @@
           "usia_70_74": "2857",
           "usia_75_tahun_ke_atas": "2324",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "58097",
+          "tahun": "2022",
+          "usia_15_64_thn": "185720",
+          "usia_diatas_65_thn": "9670"
         }
       }
     },
@@ -177,18 +201,17 @@
       "kode_provinsi": "82",
       "nama_provinsi": "MALUKU UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "52582",
-          "perempuan": "52142",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "104909",
           "semester": "1",
           "jumlah_penduduk_km2": "3304.32",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "52582",
+          "perempuan": "52142",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -209,6 +232,13 @@
           "usia_70_74": "1464",
           "usia_75_tahun_ke_atas": "1433",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "25882",
+          "tahun": "2022",
+          "usia_15_64_thn": "73685",
+          "usia_diatas_65_thn": "5157"
         }
       }
     },
@@ -219,18 +249,17 @@
       "kode_provinsi": "82",
       "nama_provinsi": "MALUKU UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "49991",
-          "perempuan": "46711",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "97221",
           "semester": "1",
           "jumlah_penduduk_km2": "6488.73",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "49991",
+          "perempuan": "46711",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -251,6 +280,13 @@
           "usia_70_74": "1141",
           "usia_75_tahun_ke_atas": "1137",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "22405",
+          "tahun": "2022",
+          "usia_15_64_thn": "70144",
+          "usia_diatas_65_thn": "4153"
         }
       }
     },
@@ -261,18 +297,17 @@
       "kode_provinsi": "82",
       "nama_provinsi": "MALUKU UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "40517",
-          "perempuan": "38245",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "79319",
           "semester": "1",
           "jumlah_penduduk_km2": "2337.331",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "40517",
+          "perempuan": "38245",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -293,6 +328,13 @@
           "usia_70_74": "1187",
           "usia_75_tahun_ke_atas": "1020",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "22637",
+          "tahun": "2022",
+          "usia_15_64_thn": "52190",
+          "usia_diatas_65_thn": "3935"
         }
       }
     },
@@ -303,18 +345,17 @@
       "kode_provinsi": "82",
       "nama_provinsi": "MALUKU UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "32426",
-          "perempuan": "31140",
-          "semester": "2",
-          "tahun": "2022"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "63897",
           "semester": "1",
           "jumlah_penduduk_km2": "2985.748",
           "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "32426",
+          "perempuan": "31140",
+          "semester": "2",
+          "tahun": "2022"
         },
         "demografi": {
           "semester": "1",
@@ -335,6 +376,13 @@
           "usia_70_74": "763",
           "usia_75_tahun_ke_atas": "849",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "16404",
+          "tahun": "2022",
+          "usia_15_64_thn": "44324",
+          "usia_diatas_65_thn": "2838"
         }
       }
     },
@@ -345,17 +393,16 @@
       "kode_provinsi": "82",
       "nama_provinsi": "MALUKU UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "101957",
-          "perempuan": "100914",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "202871",
           "semester": "1",
           "jumlah_penduduk_km2": "162.202",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "101957",
+          "perempuan": "100914",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -377,6 +424,13 @@
           "usia_70_74": "2317",
           "usia_75_tahun_ke_atas": "2110",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "49124",
+          "tahun": "2022",
+          "usia_15_64_thn": "144409",
+          "usia_diatas_65_thn": "8528"
         }
       }
     },
@@ -387,17 +441,16 @@
       "kode_provinsi": "82",
       "nama_provinsi": "MALUKU UTARA",
       "populasi": {
-        "jenis_kelamin": {
-          "laki_laki": "58657",
-          "perempuan": "57966",
-          "semester": "1",
-          "tahun": "2023"
-        },
-        "usia_produktif": {},
         "penduduk": {
           "jumlah_penduduk": "116623",
           "semester": "1",
           "jumlah_penduduk_km2": "1703.322",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "laki_laki": "58657",
+          "perempuan": "57966",
+          "semester": "1",
           "tahun": "2023"
         },
         "demografi": {
@@ -419,6 +472,13 @@
           "usia_70_74": "1551",
           "usia_75_tahun_ke_atas": "1437",
           "tahun": "2023"
+        },
+        "usia_produktif": {
+          "semester": "2",
+          "usia_kurang_14_thn": "25649",
+          "tahun": "2022",
+          "usia_15_64_thn": "84790",
+          "usia_diatas_65_thn": "5585"
         }
       }
     }
