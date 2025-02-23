@@ -7,25 +7,41 @@
       "kode_wilayah": "12.01",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "41843",
-        "usia_20_24": "35878",
-        "usia_5_9": "34629",
-        "usia_10_14": "39542",
-        "usia_0_4_thn": "22449",
-        "usia_25_29": "30567",
-        "usia_30_34": "28126",
-        "usia_35_39": "28552",
-        "usia_40_44": "23223",
-        "usia_45_49": "20135",
-        "usia_50_54": "16767",
-        "usia_55_59": "14190",
-        "usia_60_64": "11523",
-        "usia_65_69": "8078",
-        "usia_70_74": "4523",
-        "usia_75_tahun_ke_atas": "5581",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "184571",
+          "perempuan": "181941",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "366982",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2307.677",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "41324",
+          "usia_20_24": "37752",
+          "usia_5_9": "33978",
+          "usia_10_14": "38698",
+          "usia_0_4_thn": "21050",
+          "usia_25_29": "31318",
+          "usia_30_34": "27194",
+          "usia_35_39": "27958",
+          "usia_40_44": "24327",
+          "usia_45_49": "19620",
+          "usia_50_54": "17352",
+          "usia_55_59": "14449",
+          "usia_60_64": "11880",
+          "usia_65_69": "8779",
+          "usia_70_74": "5355",
+          "usia_75_tahun_ke_atas": "5948",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -33,25 +49,41 @@
       "kode_wilayah": "12.02",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "34929",
-        "usia_20_24": "28867",
-        "usia_5_9": "33419",
-        "usia_10_14": "36912",
-        "usia_0_4_thn": "20320",
-        "usia_25_29": "23213",
-        "usia_30_34": "20107",
-        "usia_35_39": "21061",
-        "usia_40_44": "19440",
-        "usia_45_49": "17003",
-        "usia_50_54": "15178",
-        "usia_55_59": "14069",
-        "usia_60_64": "12246",
-        "usia_65_69": "9786",
-        "usia_70_74": "6152",
-        "usia_75_tahun_ke_atas": "8064",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "160299",
+          "perempuan": "162795",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "323652",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3895.604",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "31699",
+          "usia_20_24": "30247",
+          "usia_5_9": "32283",
+          "usia_10_14": "36326",
+          "usia_0_4_thn": "17505",
+          "usia_25_29": "24518",
+          "usia_30_34": "20803",
+          "usia_35_39": "20958",
+          "usia_40_44": "20922",
+          "usia_45_49": "17818",
+          "usia_50_54": "15991",
+          "usia_55_59": "14093",
+          "usia_60_64": "12842",
+          "usia_65_69": "10690",
+          "usia_70_74": "7358",
+          "usia_75_tahun_ke_atas": "9599",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -59,25 +91,41 @@
       "kode_wilayah": "12.03",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "33169",
-        "usia_20_24": "28930",
-        "usia_5_9": "33301",
-        "usia_10_14": "35729",
-        "usia_0_4_thn": "21005",
-        "usia_25_29": "25589",
-        "usia_30_34": "23829",
-        "usia_35_39": "22937",
-        "usia_40_44": "18915",
-        "usia_45_49": "16711",
-        "usia_50_54": "14781",
-        "usia_55_59": "13587",
-        "usia_60_64": "10873",
-        "usia_65_69": "7495",
-        "usia_70_74": "3627",
-        "usia_75_tahun_ke_atas": "4543",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "159129",
+          "perempuan": "157439",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "317080",
+          "semester": "1",
+          "jumlah_penduduk_km2": "4201.035",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "29306",
+          "usia_20_24": "29411",
+          "usia_5_9": "32739",
+          "usia_10_14": "35069",
+          "usia_0_4_thn": "20146",
+          "usia_25_29": "26000",
+          "usia_30_34": "23731",
+          "usia_35_39": "23197",
+          "usia_40_44": "20495",
+          "usia_45_49": "17011",
+          "usia_50_54": "15401",
+          "usia_55_59": "13804",
+          "usia_60_64": "11632",
+          "usia_65_69": "8882",
+          "usia_70_74": "4852",
+          "usia_75_tahun_ke_atas": "5404",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -85,25 +133,41 @@
       "kode_wilayah": "12.04",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "18103",
-        "usia_20_24": "15184",
-        "usia_5_9": "16427",
-        "usia_10_14": "19593",
-        "usia_0_4_thn": "9119",
-        "usia_25_29": "11538",
-        "usia_30_34": "10128",
-        "usia_35_39": "10369",
-        "usia_40_44": "8563",
-        "usia_45_49": "7142",
-        "usia_50_54": "4972",
-        "usia_55_59": "4236",
-        "usia_60_64": "3677",
-        "usia_65_69": "2791",
-        "usia_70_74": "1753",
-        "usia_75_tahun_ke_atas": "1722",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "71494",
+          "perempuan": "74466",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "146550",
+          "semester": "1",
+          "jumlah_penduduk_km2": "902.395",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "18822",
+          "usia_20_24": "15932",
+          "usia_5_9": "15345",
+          "usia_10_14": "18599",
+          "usia_0_4_thn": "8756",
+          "usia_25_29": "12098",
+          "usia_30_34": "9496",
+          "usia_35_39": "10240",
+          "usia_40_44": "9063",
+          "usia_45_49": "7571",
+          "usia_50_54": "5550",
+          "usia_55_59": "4343",
+          "usia_60_64": "3673",
+          "usia_65_69": "2975",
+          "usia_70_74": "1967",
+          "usia_75_tahun_ke_atas": "2120",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -111,25 +175,41 @@
       "kode_wilayah": "12.05",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "81482",
-        "usia_20_24": "93276",
-        "usia_5_9": "99572",
-        "usia_10_14": "100013",
-        "usia_0_4_thn": "72124",
-        "usia_25_29": "86558",
-        "usia_30_34": "81597",
-        "usia_35_39": "86572",
-        "usia_40_44": "79263",
-        "usia_45_49": "70771",
-        "usia_50_54": "61049",
-        "usia_55_59": "53018",
-        "usia_60_64": "42217",
-        "usia_65_69": "27618",
-        "usia_70_74": "14125",
-        "usia_75_tahun_ke_atas": "16512",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "552136",
+          "perempuan": "544137",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1098660",
+          "semester": "1",
+          "jumlah_penduduk_km2": "6140.035",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "84984",
+          "usia_20_24": "97872",
+          "usia_5_9": "98418",
+          "usia_10_14": "106251",
+          "usia_0_4_thn": "64408",
+          "usia_25_29": "86898",
+          "usia_30_34": "82390",
+          "usia_35_39": "82957",
+          "usia_40_44": "85545",
+          "usia_45_49": "71163",
+          "usia_50_54": "65768",
+          "usia_55_59": "55155",
+          "usia_60_64": "45153",
+          "usia_65_69": "32412",
+          "usia_70_74": "19197",
+          "usia_75_tahun_ke_atas": "20089",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -137,25 +217,41 @@
       "kode_wilayah": "12.06",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "38967",
-        "usia_20_24": "36410",
-        "usia_5_9": "36769",
-        "usia_10_14": "40858",
-        "usia_0_4_thn": "20735",
-        "usia_25_29": "31812",
-        "usia_30_34": "28852",
-        "usia_35_39": "31190",
-        "usia_40_44": "29450",
-        "usia_45_49": "27755",
-        "usia_50_54": "23854",
-        "usia_55_59": "19016",
-        "usia_60_64": "14998",
-        "usia_65_69": "11121",
-        "usia_70_74": "6933",
-        "usia_75_tahun_ke_atas": "10846",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "202238",
+          "perempuan": "208395",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "411278",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2206.876",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "36991",
+          "usia_20_24": "37016",
+          "usia_5_9": "35001",
+          "usia_10_14": "40082",
+          "usia_0_4_thn": "18070",
+          "usia_25_29": "33078",
+          "usia_30_34": "29714",
+          "usia_35_39": "29503",
+          "usia_40_44": "31124",
+          "usia_45_49": "27441",
+          "usia_50_54": "25386",
+          "usia_55_59": "20169",
+          "usia_60_64": "15790",
+          "usia_65_69": "11714",
+          "usia_70_74": "8255",
+          "usia_75_tahun_ke_atas": "11944",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -163,25 +259,41 @@
       "kode_wilayah": "12.07",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "152891",
-        "usia_20_24": "170965",
-        "usia_5_9": "191417",
-        "usia_10_14": "198700",
-        "usia_0_4_thn": "124197",
-        "usia_25_29": "164947",
-        "usia_30_34": "154096",
-        "usia_35_39": "159823",
-        "usia_40_44": "147318",
-        "usia_45_49": "131259",
-        "usia_50_54": "114036",
-        "usia_55_59": "93228",
-        "usia_60_64": "71572",
-        "usia_65_69": "47833",
-        "usia_70_74": "24438",
-        "usia_75_tahun_ke_atas": "25480",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "1010007",
+          "perempuan": "1002843",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "2016905",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2581.232",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "146267",
+          "usia_20_24": "180641",
+          "usia_5_9": "186092",
+          "usia_10_14": "199548",
+          "usia_0_4_thn": "107630",
+          "usia_25_29": "168554",
+          "usia_30_34": "160869",
+          "usia_35_39": "155073",
+          "usia_40_44": "160127",
+          "usia_45_49": "133419",
+          "usia_50_54": "122730",
+          "usia_55_59": "100094",
+          "usia_60_64": "77706",
+          "usia_65_69": "55167",
+          "usia_70_74": "32378",
+          "usia_75_tahun_ke_atas": "30610",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -189,25 +301,41 @@
       "kode_wilayah": "12.08",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "100205",
-        "usia_20_24": "90967",
-        "usia_5_9": "85026",
-        "usia_10_14": "101552",
-        "usia_0_4_thn": "48740",
-        "usia_25_29": "82590",
-        "usia_30_34": "79158",
-        "usia_35_39": "82548",
-        "usia_40_44": "72935",
-        "usia_45_49": "64634",
-        "usia_50_54": "57775",
-        "usia_55_59": "51565",
-        "usia_60_64": "43927",
-        "usia_65_69": "32773",
-        "usia_70_74": "18931",
-        "usia_75_tahun_ke_atas": "25208",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "520506",
+          "perempuan": "518974",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1040003",
+          "semester": "1",
+          "jumlah_penduduk_km2": "4601.477",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "99022",
+          "usia_20_24": "92869",
+          "usia_5_9": "78767",
+          "usia_10_14": "94200",
+          "usia_0_4_thn": "40875",
+          "usia_25_29": "81276",
+          "usia_30_34": "76124",
+          "usia_35_39": "79460",
+          "usia_40_44": "80544",
+          "usia_45_49": "65399",
+          "usia_50_54": "60729",
+          "usia_55_59": "53183",
+          "usia_60_64": "45463",
+          "usia_65_69": "37235",
+          "usia_70_74": "23991",
+          "usia_75_tahun_ke_atas": "30866",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -215,25 +343,41 @@
       "kode_wilayah": "12.09",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "76834",
-        "usia_20_24": "70935",
-        "usia_5_9": "74947",
-        "usia_10_14": "78605",
-        "usia_0_4_thn": "52573",
-        "usia_25_29": "64845",
-        "usia_30_34": "58292",
-        "usia_35_39": "62613",
-        "usia_40_44": "55308",
-        "usia_45_49": "47761",
-        "usia_50_54": "41546",
-        "usia_55_59": "36121",
-        "usia_60_64": "29176",
-        "usia_65_69": "19412",
-        "usia_70_74": "9674",
-        "usia_75_tahun_ke_atas": "12044",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "400372",
+          "perempuan": "391120",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "792177",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3737.83",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "77139",
+          "usia_20_24": "74319",
+          "usia_5_9": "71750",
+          "usia_10_14": "78488",
+          "usia_0_4_thn": "44756",
+          "usia_25_29": "64981",
+          "usia_30_34": "60303",
+          "usia_35_39": "59213",
+          "usia_40_44": "58730",
+          "usia_45_49": "47491",
+          "usia_50_54": "42644",
+          "usia_55_59": "36135",
+          "usia_60_64": "29483",
+          "usia_65_69": "21814",
+          "usia_70_74": "12264",
+          "usia_75_tahun_ke_atas": "12667",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -241,25 +385,41 @@
       "kode_wilayah": "12.10",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "52179",
-        "usia_20_24": "46851",
-        "usia_5_9": "48968",
-        "usia_10_14": "53310",
-        "usia_0_4_thn": "33080",
-        "usia_25_29": "42771",
-        "usia_30_34": "39434",
-        "usia_35_39": "41098",
-        "usia_40_44": "35314",
-        "usia_45_49": "30123",
-        "usia_50_54": "24275",
-        "usia_55_59": "20403",
-        "usia_60_64": "15893",
-        "usia_65_69": "10312",
-        "usia_70_74": "5295",
-        "usia_75_tahun_ke_atas": "6284",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "256478",
+          "perempuan": "249607",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "506674",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2772.384",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "52102",
+          "usia_20_24": "49316",
+          "usia_5_9": "47127",
+          "usia_10_14": "52769",
+          "usia_0_4_thn": "29116",
+          "usia_25_29": "42305",
+          "usia_30_34": "40236",
+          "usia_35_39": "39378",
+          "usia_40_44": "37610",
+          "usia_45_49": "29539",
+          "usia_50_54": "25618",
+          "usia_55_59": "20401",
+          "usia_60_64": "16346",
+          "usia_65_69": "11714",
+          "usia_70_74": "6680",
+          "usia_75_tahun_ke_atas": "6417",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -267,25 +427,41 @@
       "kode_wilayah": "12.11",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "30995",
-        "usia_20_24": "30967",
-        "usia_5_9": "31973",
-        "usia_10_14": "36130",
-        "usia_0_4_thn": "19697",
-        "usia_25_29": "24858",
-        "usia_30_34": "21839",
-        "usia_35_39": "21938",
-        "usia_40_44": "20539",
-        "usia_45_49": "17773",
-        "usia_50_54": "15631",
-        "usia_55_59": "14161",
-        "usia_60_64": "11941",
-        "usia_65_69": "9061",
-        "usia_70_74": "4900",
-        "usia_75_tahun_ke_atas": "6377",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "160171",
+          "perempuan": "161375",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "322122",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2083.604",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "28319",
+          "usia_20_24": "31576",
+          "usia_5_9": "30657",
+          "usia_10_14": "35399",
+          "usia_0_4_thn": "17176",
+          "usia_25_29": "26602",
+          "usia_30_34": "22508",
+          "usia_35_39": "22000",
+          "usia_40_44": "21905",
+          "usia_45_49": "18522",
+          "usia_50_54": "16391",
+          "usia_55_59": "14729",
+          "usia_60_64": "12235",
+          "usia_65_69": "10124",
+          "usia_70_74": "6333",
+          "usia_75_tahun_ke_atas": "7646",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -293,25 +469,41 @@
       "kode_wilayah": "12.12",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "22758",
-        "usia_20_24": "18283",
-        "usia_5_9": "21352",
-        "usia_10_14": "23388",
-        "usia_0_4_thn": "13628",
-        "usia_25_29": "14758",
-        "usia_30_34": "13614",
-        "usia_35_39": "15131",
-        "usia_40_44": "13949",
-        "usia_45_49": "12565",
-        "usia_50_54": "10784",
-        "usia_55_59": "9316",
-        "usia_60_64": "7605",
-        "usia_65_69": "6388",
-        "usia_70_74": "4100",
-        "usia_75_tahun_ke_atas": "5880",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "106356",
+          "perempuan": "107724",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "214640",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2291.616",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "23381",
+          "usia_20_24": "20157",
+          "usia_5_9": "19930",
+          "usia_10_14": "23306",
+          "usia_0_4_thn": "11023",
+          "usia_25_29": "15421",
+          "usia_30_34": "13788",
+          "usia_35_39": "14416",
+          "usia_40_44": "14816",
+          "usia_45_49": "12491",
+          "usia_50_54": "11083",
+          "usia_55_59": "9500",
+          "usia_60_64": "7697",
+          "usia_65_69": "6369",
+          "usia_70_74": "4660",
+          "usia_75_tahun_ke_atas": "6602",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -319,25 +511,41 @@
       "kode_wilayah": "12.13",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "54558",
-        "usia_20_24": "44601",
-        "usia_5_9": "54127",
-        "usia_10_14": "56454",
-        "usia_0_4_thn": "34324",
-        "usia_25_29": "38932",
-        "usia_30_34": "36029",
-        "usia_35_39": "34656",
-        "usia_40_44": "29513",
-        "usia_45_49": "25674",
-        "usia_50_54": "22244",
-        "usia_55_59": "19720",
-        "usia_60_64": "16057",
-        "usia_65_69": "10926",
-        "usia_70_74": "5413",
-        "usia_75_tahun_ke_atas": "6684",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "245066",
+          "perempuan": "246287",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "492324",
+          "semester": "1",
+          "jumlah_penduduk_km2": "6547.257",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "49540",
+          "usia_20_24": "45681",
+          "usia_5_9": "52363",
+          "usia_10_14": "57251",
+          "usia_0_4_thn": "29758",
+          "usia_25_29": "40959",
+          "usia_30_34": "37864",
+          "usia_35_39": "36140",
+          "usia_40_44": "31427",
+          "usia_45_49": "26084",
+          "usia_50_54": "22690",
+          "usia_55_59": "19544",
+          "usia_60_64": "16832",
+          "usia_65_69": "11904",
+          "usia_70_74": "6916",
+          "usia_75_tahun_ke_atas": "7371",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -345,25 +553,41 @@
       "kode_wilayah": "12.14",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "47846",
-        "usia_20_24": "45392",
-        "usia_5_9": "31896",
-        "usia_10_14": "40618",
-        "usia_0_4_thn": "20674",
-        "usia_25_29": "34524",
-        "usia_30_34": "28452",
-        "usia_35_39": "25816",
-        "usia_40_44": "22607",
-        "usia_45_49": "19058",
-        "usia_50_54": "16223",
-        "usia_55_59": "12283",
-        "usia_60_64": "9644",
-        "usia_65_69": "5425",
-        "usia_70_74": "3796",
-        "usia_75_tahun_ke_atas": "3329",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "184966",
+          "perempuan": "183153",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "368484",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2531.703",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "46120",
+          "usia_20_24": "46349",
+          "usia_5_9": "30490",
+          "usia_10_14": "36210",
+          "usia_0_4_thn": "15923",
+          "usia_25_29": "36464",
+          "usia_30_34": "29810",
+          "usia_35_39": "26443",
+          "usia_40_44": "23593",
+          "usia_45_49": "20356",
+          "usia_50_54": "16930",
+          "usia_55_59": "13602",
+          "usia_60_64": "10912",
+          "usia_65_69": "6596",
+          "usia_70_74": "4303",
+          "usia_75_tahun_ke_atas": "4383",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -371,25 +595,41 @@
       "kode_wilayah": "12.15",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "5447",
-        "usia_20_24": "5540",
-        "usia_5_9": "6135",
-        "usia_10_14": "6051",
-        "usia_0_4_thn": "4960",
-        "usia_25_29": "4829",
-        "usia_30_34": "3983",
-        "usia_35_39": "4038",
-        "usia_40_44": "3670",
-        "usia_45_49": "2860",
-        "usia_50_54": "2259",
-        "usia_55_59": "1788",
-        "usia_60_64": "1372",
-        "usia_65_69": "947",
-        "usia_70_74": "635",
-        "usia_75_tahun_ke_atas": "868",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "28185",
+          "perempuan": "27664",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "56272",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1365.607",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "5649",
+          "usia_20_24": "5766",
+          "usia_5_9": "5863",
+          "usia_10_14": "6146",
+          "usia_0_4_thn": "4246",
+          "usia_25_29": "4894",
+          "usia_30_34": "4156",
+          "usia_35_39": "3936",
+          "usia_40_44": "3931",
+          "usia_45_49": "3029",
+          "usia_50_54": "2507",
+          "usia_55_59": "1903",
+          "usia_60_64": "1481",
+          "usia_65_69": "1007",
+          "usia_70_74": "762",
+          "usia_75_tahun_ke_atas": "996",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -397,25 +637,41 @@
       "kode_wilayah": "12.16",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "24945",
-        "usia_20_24": "19147",
-        "usia_5_9": "21357",
-        "usia_10_14": "24673",
-        "usia_0_4_thn": "10886",
-        "usia_25_29": "14103",
-        "usia_30_34": "11799",
-        "usia_35_39": "13111",
-        "usia_40_44": "12569",
-        "usia_45_49": "11150",
-        "usia_50_54": "9459",
-        "usia_55_59": "8401",
-        "usia_60_64": "6941",
-        "usia_65_69": "5578",
-        "usia_70_74": "3682",
-        "usia_75_tahun_ke_atas": "6158",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "102129",
+          "perempuan": "102582",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "205090",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2351.514",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "23620",
+          "usia_20_24": "20246",
+          "usia_5_9": "20171",
+          "usia_10_14": "24264",
+          "usia_0_4_thn": "10298",
+          "usia_25_29": "15206",
+          "usia_30_34": "11831",
+          "usia_35_39": "12309",
+          "usia_40_44": "13119",
+          "usia_45_49": "11434",
+          "usia_50_54": "10105",
+          "usia_55_59": "8624",
+          "usia_60_64": "7256",
+          "usia_65_69": "5748",
+          "usia_70_74": "4225",
+          "usia_75_tahun_ke_atas": "6634",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -423,25 +679,41 @@
       "kode_wilayah": "12.17",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "14570",
-        "usia_20_24": "13099",
-        "usia_5_9": "14553",
-        "usia_10_14": "15910",
-        "usia_0_4_thn": "8962",
-        "usia_25_29": "10836",
-        "usia_30_34": "9048",
-        "usia_35_39": "9640",
-        "usia_40_44": "8699",
-        "usia_45_49": "7445",
-        "usia_50_54": "6581",
-        "usia_55_59": "5938",
-        "usia_60_64": "5513",
-        "usia_65_69": "4471",
-        "usia_70_74": "2719",
-        "usia_75_tahun_ke_atas": "3998",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "70913",
+          "perempuan": "72255",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "143994",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1850.035",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "13376",
+          "usia_20_24": "13785",
+          "usia_5_9": "13552",
+          "usia_10_14": "15995",
+          "usia_0_4_thn": "7724",
+          "usia_25_29": "11367",
+          "usia_30_34": "9427",
+          "usia_35_39": "9577",
+          "usia_40_44": "9474",
+          "usia_45_49": "7797",
+          "usia_50_54": "6923",
+          "usia_55_59": "6153",
+          "usia_60_64": "5688",
+          "usia_65_69": "4786",
+          "usia_70_74": "3341",
+          "usia_75_tahun_ke_atas": "5029",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -449,25 +721,41 @@
       "kode_wilayah": "12.18",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "56831",
-        "usia_20_24": "57833",
-        "usia_5_9": "65609",
-        "usia_10_14": "69864",
-        "usia_0_4_thn": "40708",
-        "usia_25_29": "51995",
-        "usia_30_34": "49356",
-        "usia_35_39": "52728",
-        "usia_40_44": "48425",
-        "usia_45_49": "41700",
-        "usia_50_54": "37227",
-        "usia_55_59": "32461",
-        "usia_60_64": "26828",
-        "usia_65_69": "17723",
-        "usia_70_74": "9240",
-        "usia_75_tahun_ke_atas": "10317",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "339302",
+          "perempuan": "337154",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "678530",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1949.18",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "54158",
+          "usia_20_24": "60825",
+          "usia_5_9": "63266",
+          "usia_10_14": "69599",
+          "usia_0_4_thn": "34394",
+          "usia_25_29": "52686",
+          "usia_30_34": "49767",
+          "usia_35_39": "50436",
+          "usia_40_44": "53430",
+          "usia_45_49": "42399",
+          "usia_50_54": "39586",
+          "usia_55_59": "33698",
+          "usia_60_64": "28590",
+          "usia_65_69": "20671",
+          "usia_70_74": "12385",
+          "usia_75_tahun_ke_atas": "12640",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -475,25 +763,41 @@
       "kode_wilayah": "12.19",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "34935",
-        "usia_20_24": "38773",
-        "usia_5_9": "44357",
-        "usia_10_14": "44125",
-        "usia_0_4_thn": "31959",
-        "usia_25_29": "37320",
-        "usia_30_34": "33344",
-        "usia_35_39": "34270",
-        "usia_40_44": "30360",
-        "usia_45_49": "26180",
-        "usia_50_54": "22206",
-        "usia_55_59": "19636",
-        "usia_60_64": "16144",
-        "usia_65_69": "10702",
-        "usia_70_74": "5674",
-        "usia_75_tahun_ke_atas": "6768",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "227920",
+          "perempuan": "224159",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "453887",
+          "semester": "1",
+          "jumlah_penduduk_km2": "888.142",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "34442",
+          "usia_20_24": "41534",
+          "usia_5_9": "44859",
+          "usia_10_14": "46969",
+          "usia_0_4_thn": "28258",
+          "usia_25_29": "37888",
+          "usia_30_34": "35328",
+          "usia_35_39": "33912",
+          "usia_40_44": "33960",
+          "usia_45_49": "26885",
+          "usia_50_54": "24059",
+          "usia_55_59": "20606",
+          "usia_60_64": "17028",
+          "usia_65_69": "12469",
+          "usia_70_74": "7453",
+          "usia_75_tahun_ke_atas": "8237",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -501,25 +805,41 @@
       "kode_wilayah": "12.20",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "31161",
-        "usia_20_24": "25547",
-        "usia_5_9": "30256",
-        "usia_10_14": "33569",
-        "usia_0_4_thn": "17866",
-        "usia_25_29": "21110",
-        "usia_30_34": "20150",
-        "usia_35_39": "20911",
-        "usia_40_44": "17252",
-        "usia_45_49": "14340",
-        "usia_50_54": "11478",
-        "usia_55_59": "9228",
-        "usia_60_64": "6804",
-        "usia_65_69": "4596",
-        "usia_70_74": "2561",
-        "usia_75_tahun_ke_atas": "3205",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "137120",
+          "perempuan": "133591",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "271150",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3945.557",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "32625",
+          "usia_20_24": "26778",
+          "usia_5_9": "29561",
+          "usia_10_14": "32298",
+          "usia_0_4_thn": "14452",
+          "usia_25_29": "21669",
+          "usia_30_34": "20146",
+          "usia_35_39": "19915",
+          "usia_40_44": "18128",
+          "usia_45_49": "14427",
+          "usia_50_54": "12143",
+          "usia_55_59": "9748",
+          "usia_60_64": "7281",
+          "usia_65_69": "5285",
+          "usia_70_74": "2990",
+          "usia_75_tahun_ke_atas": "3704",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -527,25 +847,41 @@
       "kode_wilayah": "12.21",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "29733",
-        "usia_20_24": "25656",
-        "usia_5_9": "29424",
-        "usia_10_14": "31753",
-        "usia_0_4_thn": "17632",
-        "usia_25_29": "21992",
-        "usia_30_34": "20282",
-        "usia_35_39": "19931",
-        "usia_40_44": "16128",
-        "usia_45_49": "14035",
-        "usia_50_54": "11311",
-        "usia_55_59": "9266",
-        "usia_60_64": "6890",
-        "usia_65_69": "4522",
-        "usia_70_74": "2423",
-        "usia_75_tahun_ke_atas": "2495",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "133125",
+          "perempuan": "131306",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "264993",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3914.413",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "30366",
+          "usia_20_24": "26065",
+          "usia_5_9": "28338",
+          "usia_10_14": "31917",
+          "usia_0_4_thn": "14699",
+          "usia_25_29": "22469",
+          "usia_30_34": "19711",
+          "usia_35_39": "19694",
+          "usia_40_44": "16926",
+          "usia_45_49": "14348",
+          "usia_50_54": "12285",
+          "usia_55_59": "9641",
+          "usia_60_64": "7353",
+          "usia_65_69": "5199",
+          "usia_70_74": "3064",
+          "usia_75_tahun_ke_atas": "2918",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -553,25 +889,41 @@
       "kode_wilayah": "12.22",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "33756",
-        "usia_20_24": "29133",
-        "usia_5_9": "34138",
-        "usia_10_14": "36305",
-        "usia_0_4_thn": "22762",
-        "usia_25_29": "27278",
-        "usia_30_34": "26127",
-        "usia_35_39": "26584",
-        "usia_40_44": "23137",
-        "usia_45_49": "19079",
-        "usia_50_54": "15877",
-        "usia_55_59": "12556",
-        "usia_60_64": "8801",
-        "usia_65_69": "5009",
-        "usia_70_74": "2163",
-        "usia_75_tahun_ke_atas": "2067",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "166321",
+          "perempuan": "159264",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "326389",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3079.61",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "34583",
+          "usia_20_24": "31363",
+          "usia_5_9": "32944",
+          "usia_10_14": "36094",
+          "usia_0_4_thn": "19305",
+          "usia_25_29": "26552",
+          "usia_30_34": "26302",
+          "usia_35_39": "25370",
+          "usia_40_44": "24725",
+          "usia_45_49": "19262",
+          "usia_50_54": "16538",
+          "usia_55_59": "13079",
+          "usia_60_64": "9334",
+          "usia_65_69": "6039",
+          "usia_70_74": "2780",
+          "usia_75_tahun_ke_atas": "2119",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -579,25 +931,41 @@
       "kode_wilayah": "12.23",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "41262",
-        "usia_20_24": "37088",
-        "usia_5_9": "39812",
-        "usia_10_14": "42047",
-        "usia_0_4_thn": "26656",
-        "usia_25_29": "34064",
-        "usia_30_34": "31740",
-        "usia_35_39": "31237",
-        "usia_40_44": "26713",
-        "usia_45_49": "22346",
-        "usia_50_54": "18233",
-        "usia_55_59": "15250",
-        "usia_60_64": "12339",
-        "usia_65_69": "8191",
-        "usia_70_74": "4124",
-        "usia_75_tahun_ke_atas": "4651",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "200917",
+          "perempuan": "195805",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "397331",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3686.013",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "41142",
+          "usia_20_24": "38760",
+          "usia_5_9": "38084",
+          "usia_10_14": "41826",
+          "usia_0_4_thn": "21887",
+          "usia_25_29": "32939",
+          "usia_30_34": "31562",
+          "usia_35_39": "31035",
+          "usia_40_44": "29021",
+          "usia_45_49": "22605",
+          "usia_50_54": "19573",
+          "usia_55_59": "15793",
+          "usia_60_64": "12892",
+          "usia_65_69": "9583",
+          "usia_70_74": "5363",
+          "usia_75_tahun_ke_atas": "5266",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -605,25 +973,41 @@
       "kode_wilayah": "12.24",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "19863",
-        "usia_20_24": "17030",
-        "usia_5_9": "14634",
-        "usia_10_14": "17647",
-        "usia_0_4_thn": "9088",
-        "usia_25_29": "12626",
-        "usia_30_34": "11619",
-        "usia_35_39": "11465",
-        "usia_40_44": "9298",
-        "usia_45_49": "7897",
-        "usia_50_54": "5827",
-        "usia_55_59": "4775",
-        "usia_60_64": "3855",
-        "usia_65_69": "2783",
-        "usia_70_74": "1756",
-        "usia_75_tahun_ke_atas": "1903",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "76143",
+          "perempuan": "76717",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "153178",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1238.055",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "19132",
+          "usia_20_24": "18204",
+          "usia_5_9": "13662",
+          "usia_10_14": "16691",
+          "usia_0_4_thn": "7941",
+          "usia_25_29": "13246",
+          "usia_30_34": "11186",
+          "usia_35_39": "11544",
+          "usia_40_44": "9974",
+          "usia_45_49": "8499",
+          "usia_50_54": "6432",
+          "usia_55_59": "5026",
+          "usia_60_64": "4085",
+          "usia_65_69": "3189",
+          "usia_70_74": "2036",
+          "usia_75_tahun_ke_atas": "2331",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -631,25 +1015,41 @@
       "kode_wilayah": "12.25",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "12002",
-        "usia_20_24": "10255",
-        "usia_5_9": "10233",
-        "usia_10_14": "11585",
-        "usia_0_4_thn": "6467",
-        "usia_25_29": "7971",
-        "usia_30_34": "7445",
-        "usia_35_39": "7270",
-        "usia_40_44": "5706",
-        "usia_45_49": "4584",
-        "usia_50_54": "3521",
-        "usia_55_59": "3029",
-        "usia_60_64": "2639",
-        "usia_65_69": "1854",
-        "usia_70_74": "1155",
-        "usia_75_tahun_ke_atas": "1031",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "47289",
+          "perempuan": "49850",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "97633",
+          "semester": "1",
+          "jumlah_penduduk_km2": "464.219",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "12034",
+          "usia_20_24": "10809",
+          "usia_5_9": "9174",
+          "usia_10_14": "11107",
+          "usia_0_4_thn": "5590",
+          "usia_25_29": "8652",
+          "usia_30_34": "7256",
+          "usia_35_39": "7670",
+          "usia_40_44": "6143",
+          "usia_45_49": "4950",
+          "usia_50_54": "3591",
+          "usia_55_59": "3090",
+          "usia_60_64": "2662",
+          "usia_65_69": "2064",
+          "usia_70_74": "1422",
+          "usia_75_tahun_ke_atas": "1419",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -657,25 +1057,41 @@
       "kode_wilayah": "12.71",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "220253",
-        "usia_20_24": "202315",
-        "usia_5_9": "217722",
-        "usia_10_14": "220096",
-        "usia_0_4_thn": "173125",
-        "usia_25_29": "201705",
-        "usia_30_34": "206742",
-        "usia_35_39": "215327",
-        "usia_40_44": "184435",
-        "usia_45_49": "171827",
-        "usia_50_54": "145563",
-        "usia_55_59": "118700",
-        "usia_60_64": "91690",
-        "usia_65_69": "61172",
-        "usia_70_74": "34912",
-        "usia_75_tahun_ke_atas": "47296",
-        "tahun": "2019"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "1258452",
+          "perempuan": "1272041",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "2530493",
+          "semester": "1",
+          "jumlah_penduduk_km2": "279.29",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "218511",
+          "usia_20_24": "216564",
+          "usia_5_9": "205299",
+          "usia_10_14": "221728",
+          "usia_0_4_thn": "132369",
+          "usia_25_29": "202074",
+          "usia_30_34": "198940",
+          "usia_35_39": "200278",
+          "usia_40_44": "202320",
+          "usia_45_49": "169654",
+          "usia_50_54": "157911",
+          "usia_55_59": "130727",
+          "usia_60_64": "101793",
+          "usia_65_69": "75271",
+          "usia_70_74": "45775",
+          "usia_75_tahun_ke_atas": "51279",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -683,25 +1099,41 @@
       "kode_wilayah": "12.72",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "25806",
-        "usia_20_24": "22541",
-        "usia_5_9": "23815",
-        "usia_10_14": "25374",
-        "usia_0_4_thn": "17878",
-        "usia_25_29": "20848",
-        "usia_30_34": "19977",
-        "usia_35_39": "21019",
-        "usia_40_44": "17675",
-        "usia_45_49": "17170",
-        "usia_50_54": "15727",
-        "usia_55_59": "13746",
-        "usia_60_64": "10931",
-        "usia_65_69": "7651",
-        "usia_70_74": "4645",
-        "usia_75_tahun_ke_atas": "7139",
-        "tahun": "2019"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "135493",
+          "perempuan": "139697",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "275190",
+          "semester": "1",
+          "jumlah_penduduk_km2": "75.919",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "25443",
+          "usia_20_24": "24680",
+          "usia_5_9": "21221",
+          "usia_10_14": "24758",
+          "usia_0_4_thn": "12461",
+          "usia_25_29": "21706",
+          "usia_30_34": "19737",
+          "usia_35_39": "19853",
+          "usia_40_44": "20543",
+          "usia_45_49": "17173",
+          "usia_50_54": "16719",
+          "usia_55_59": "14881",
+          "usia_60_64": "12321",
+          "usia_65_69": "9392",
+          "usia_70_74": "5955",
+          "usia_75_tahun_ke_atas": "8347",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -709,25 +1141,41 @@
       "kode_wilayah": "12.73",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "9037",
-        "usia_20_24": "8179",
-        "usia_5_9": "9188",
-        "usia_10_14": "9904",
-        "usia_0_4_thn": "7492",
-        "usia_25_29": "7518",
-        "usia_30_34": "7580",
-        "usia_35_39": "7846",
-        "usia_40_44": "6429",
-        "usia_45_49": "5438",
-        "usia_50_54": "4456",
-        "usia_55_59": "3548",
-        "usia_60_64": "2863",
-        "usia_65_69": "1793",
-        "usia_70_74": "921",
-        "usia_75_tahun_ke_atas": "857",
-        "tahun": "2019"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "48802",
+          "perempuan": "48417",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "97219",
+          "semester": "1",
+          "jumlah_penduduk_km2": "11.471",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "8856",
+          "usia_20_24": "9441",
+          "usia_5_9": "8609",
+          "usia_10_14": "9356",
+          "usia_0_4_thn": "6440",
+          "usia_25_29": "8150",
+          "usia_30_34": "7508",
+          "usia_35_39": "7688",
+          "usia_40_44": "7711",
+          "usia_45_49": "6213",
+          "usia_50_54": "5111",
+          "usia_55_59": "4119",
+          "usia_60_64": "3090",
+          "usia_65_69": "2444",
+          "usia_70_74": "1363",
+          "usia_75_tahun_ke_atas": "1120",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -735,25 +1183,41 @@
       "kode_wilayah": "12.74",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "18274",
-        "usia_20_24": "16155",
-        "usia_5_9": "17751",
-        "usia_10_14": "18424",
-        "usia_0_4_thn": "15465",
-        "usia_25_29": "14782",
-        "usia_30_34": "13651",
-        "usia_35_39": "13244",
-        "usia_40_44": "11159",
-        "usia_45_49": "10224",
-        "usia_50_54": "8419",
-        "usia_55_59": "6927",
-        "usia_60_64": "5183",
-        "usia_65_69": "3285",
-        "usia_70_74": "1954",
-        "usia_75_tahun_ke_atas": "2038",
-        "tahun": "2019"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "91819",
+          "perempuan": "89564",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "181383",
+          "semester": "1",
+          "jumlah_penduduk_km2": "60.072",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "15678",
+          "usia_20_24": "17703",
+          "usia_5_9": "17315",
+          "usia_10_14": "18015",
+          "usia_0_4_thn": "11676",
+          "usia_25_29": "15889",
+          "usia_30_34": "14295",
+          "usia_35_39": "13650",
+          "usia_40_44": "13027",
+          "usia_45_49": "10912",
+          "usia_50_54": "9646",
+          "usia_55_59": "7684",
+          "usia_60_64": "6163",
+          "usia_65_69": "4369",
+          "usia_70_74": "2532",
+          "usia_75_tahun_ke_atas": "2829",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -761,25 +1225,41 @@
       "kode_wilayah": "12.75",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "20288",
-        "usia_20_24": "23850",
-        "usia_5_9": "26710",
-        "usia_10_14": "26552",
-        "usia_0_4_thn": "22208",
-        "usia_25_29": "23538",
-        "usia_30_34": "23585",
-        "usia_35_39": "24761",
-        "usia_40_44": "20486",
-        "usia_45_49": "19510",
-        "usia_50_54": "16436",
-        "usia_55_59": "13950",
-        "usia_60_64": "10709",
-        "usia_65_69": "6937",
-        "usia_70_74": "3604",
-        "usia_75_tahun_ke_atas": "4619",
-        "tahun": "2019"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "152437",
+          "perempuan": "153540",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "305977",
+          "semester": "1",
+          "jumlah_penduduk_km2": "93.77",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "23265",
+          "usia_20_24": "25595",
+          "usia_5_9": "26423",
+          "usia_10_14": "28000",
+          "usia_0_4_thn": "18685",
+          "usia_25_29": "24983",
+          "usia_30_34": "23956",
+          "usia_35_39": "24053",
+          "usia_40_44": "24795",
+          "usia_45_49": "20029",
+          "usia_50_54": "18797",
+          "usia_55_59": "15327",
+          "usia_60_64": "12408",
+          "usia_65_69": "8977",
+          "usia_70_74": "5335",
+          "usia_75_tahun_ke_atas": "5349",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -787,25 +1267,41 @@
       "kode_wilayah": "12.76",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "14327",
-        "usia_20_24": "14262",
-        "usia_5_9": "16255",
-        "usia_10_14": "16410",
-        "usia_0_4_thn": "14465",
-        "usia_25_29": "14031",
-        "usia_30_34": "13522",
-        "usia_35_39": "14248",
-        "usia_40_44": "11736",
-        "usia_45_49": "10774",
-        "usia_50_54": "9538",
-        "usia_55_59": "8664",
-        "usia_60_64": "6713",
-        "usia_65_69": "4211",
-        "usia_70_74": "2156",
-        "usia_75_tahun_ke_atas": "2977",
-        "tahun": "2019"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "88901",
+          "perempuan": "89623",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "178524",
+          "semester": "1",
+          "jumlah_penduduk_km2": "39.17",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "14964",
+          "usia_20_24": "15435",
+          "usia_5_9": "15619",
+          "usia_10_14": "16715",
+          "usia_0_4_thn": "10276",
+          "usia_25_29": "14329",
+          "usia_30_34": "13929",
+          "usia_35_39": "13761",
+          "usia_40_44": "14249",
+          "usia_45_49": "11293",
+          "usia_50_54": "10305",
+          "usia_55_59": "9011",
+          "usia_60_64": "7602",
+          "usia_65_69": "5308",
+          "usia_70_74": "2942",
+          "usia_75_tahun_ke_atas": "2786",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -813,25 +1309,41 @@
       "kode_wilayah": "12.77",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "22337",
-        "usia_20_24": "20293",
-        "usia_5_9": "21347",
-        "usia_10_14": "22170",
-        "usia_0_4_thn": "15291",
-        "usia_25_29": "19435",
-        "usia_30_34": "18330",
-        "usia_35_39": "18295",
-        "usia_40_44": "14986",
-        "usia_45_49": "12881",
-        "usia_50_54": "11438",
-        "usia_55_59": "10602",
-        "usia_60_64": "8448",
-        "usia_65_69": "5720",
-        "usia_70_74": "2720",
-        "usia_75_tahun_ke_atas": "3992",
-        "tahun": "2021"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "114339",
+          "perempuan": "114571",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "229408",
+          "semester": "1",
+          "jumlah_penduduk_km2": "159.298",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "22257",
+          "usia_20_24": "20961",
+          "usia_5_9": "21082",
+          "usia_10_14": "22139",
+          "usia_0_4_thn": "13300",
+          "usia_25_29": "19219",
+          "usia_30_34": "18053",
+          "usia_35_39": "18095",
+          "usia_40_44": "16295",
+          "usia_45_49": "13104",
+          "usia_50_54": "11774",
+          "usia_55_59": "10753",
+          "usia_60_64": "8733",
+          "usia_65_69": "6461",
+          "usia_70_74": "3338",
+          "usia_75_tahun_ke_atas": "3844",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -839,25 +1351,41 @@
       "kode_wilayah": "12.78",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "12",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "14639",
-        "usia_20_24": "12248",
-        "usia_5_9": "15663",
-        "usia_10_14": "15752",
-        "usia_0_4_thn": "11385",
-        "usia_25_29": "10116",
-        "usia_30_34": "11124",
-        "usia_35_39": "10211",
-        "usia_40_44": "8387",
-        "usia_45_49": "6672",
-        "usia_50_54": "5523",
-        "usia_55_59": "4901",
-        "usia_60_64": "3774",
-        "usia_65_69": "2625",
-        "usia_70_74": "1638",
-        "usia_75_tahun_ke_atas": "1344",
-        "tahun": "2019"
+      "nama_provinsi": "SUMATERA UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "67055",
+          "perempuan": "70677",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "137732",
+          "semester": "1",
+          "jumlah_penduduk_km2": "208.684",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "15363",
+          "usia_20_24": "13443",
+          "usia_5_9": "13400",
+          "usia_10_14": "15836",
+          "usia_0_4_thn": "7859",
+          "usia_25_29": "11043",
+          "usia_30_34": "9788",
+          "usia_35_39": "10824",
+          "usia_40_44": "9809",
+          "usia_45_49": "7826",
+          "usia_50_54": "6211",
+          "usia_55_59": "5009",
+          "usia_60_64": "4203",
+          "usia_65_69": "3130",
+          "usia_70_74": "1963",
+          "usia_75_tahun_ke_atas": "2025",
+          "tahun": "2023"
+        }
       }
     }
   ]

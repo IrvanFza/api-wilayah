@@ -7,25 +7,41 @@
       "kode_wilayah": "95.01",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "95",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "25467",
-        "usia_20_24": "34441",
-        "usia_5_9": "15263",
-        "usia_10_14": "22058",
-        "usia_0_4_thn": "7320",
-        "usia_25_29": "29859",
-        "usia_30_34": "25296",
-        "usia_35_39": "21098",
-        "usia_40_44": "21642",
-        "usia_45_49": "18914",
-        "usia_50_54": "18458",
-        "usia_55_59": "13676",
-        "usia_60_64": "10306",
-        "usia_65_69": "4920",
-        "usia_70_74": "2775",
-        "usia_75_tahun_ke_atas": "1772",
-        "tahun": "2021"
+      "nama_provinsi": "PAPUA PEGUNUNGAN",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "142059",
+          "perempuan": "131760",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "273819",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2629.01",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "24920",
+          "usia_20_24": "31953",
+          "usia_5_9": "13875",
+          "usia_10_14": "19811",
+          "usia_0_4_thn": "5519",
+          "usia_25_29": "31255",
+          "usia_30_34": "27843",
+          "usia_35_39": "22052",
+          "usia_40_44": "21003",
+          "usia_45_49": "19536",
+          "usia_50_54": "19337",
+          "usia_55_59": "14881",
+          "usia_60_64": "11905",
+          "usia_65_69": "5179",
+          "usia_70_74": "3123",
+          "usia_75_tahun_ke_atas": "1627",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -33,25 +49,41 @@
       "kode_wilayah": "95.02",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "95",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "12732",
-        "usia_20_24": "13390",
-        "usia_5_9": "7938",
-        "usia_10_14": "11370",
-        "usia_0_4_thn": "4177",
-        "usia_25_29": "11331",
-        "usia_30_34": "11263",
-        "usia_35_39": "10371",
-        "usia_40_44": "10096",
-        "usia_45_49": "7579",
-        "usia_50_54": "6204",
-        "usia_55_59": "3508",
-        "usia_60_64": "1515",
-        "usia_65_69": "300",
-        "usia_70_74": "152",
-        "usia_75_tahun_ke_atas": "101",
-        "tahun": "2021"
+      "nama_provinsi": "PAPUA PEGUNUNGAN",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "60709",
+          "perempuan": "52638",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "113347",
+          "semester": "1",
+          "jumlah_penduduk_km2": "13751.915",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "11609",
+          "usia_20_24": "15165",
+          "usia_5_9": "6701",
+          "usia_10_14": "7290",
+          "usia_0_4_thn": "2929",
+          "usia_25_29": "12483",
+          "usia_30_34": "12750",
+          "usia_35_39": "11050",
+          "usia_40_44": "11078",
+          "usia_45_49": "7962",
+          "usia_50_54": "6921",
+          "usia_55_59": "3890",
+          "usia_60_64": "2680",
+          "usia_65_69": "424",
+          "usia_70_74": "252",
+          "usia_75_tahun_ke_atas": "163",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -59,25 +91,41 @@
       "kode_wilayah": "95.03",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "95",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "26328",
-        "usia_20_24": "49939",
-        "usia_5_9": "8043",
-        "usia_10_14": "12948",
-        "usia_0_4_thn": "3827",
-        "usia_25_29": "47068",
-        "usia_30_34": "46767",
-        "usia_35_39": "31875",
-        "usia_40_44": "35795",
-        "usia_45_49": "27576",
-        "usia_50_54": "27278",
-        "usia_55_59": "17904",
-        "usia_60_64": "10793",
-        "usia_65_69": "5197",
-        "usia_70_74": "2299",
-        "usia_75_tahun_ke_atas": "1209",
-        "tahun": "2021"
+      "nama_provinsi": "PAPUA PEGUNUNGAN",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "193675",
+          "perempuan": "161640",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "355315",
+          "semester": "1",
+          "jumlah_penduduk_km2": "16365.938",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "22527",
+          "usia_20_24": "42030",
+          "usia_5_9": "8800",
+          "usia_10_14": "11525",
+          "usia_0_4_thn": "3623",
+          "usia_25_29": "47502",
+          "usia_30_34": "50385",
+          "usia_35_39": "34212",
+          "usia_40_44": "32868",
+          "usia_45_49": "28438",
+          "usia_50_54": "28488",
+          "usia_55_59": "20053",
+          "usia_60_64": "13755",
+          "usia_65_69": "6552",
+          "usia_70_74": "2942",
+          "usia_75_tahun_ke_atas": "1615",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -85,25 +133,41 @@
       "kode_wilayah": "95.04",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "95",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "13327",
-        "usia_20_24": "23661",
-        "usia_5_9": "6371",
-        "usia_10_14": "8364",
-        "usia_0_4_thn": "3054",
-        "usia_25_29": "26419",
-        "usia_30_34": "33518",
-        "usia_35_39": "29956",
-        "usia_40_44": "24414",
-        "usia_45_49": "17819",
-        "usia_50_54": "19890",
-        "usia_55_59": "16315",
-        "usia_60_64": "15083",
-        "usia_65_69": "8392",
-        "usia_70_74": "4182",
-        "usia_75_tahun_ke_atas": "229",
-        "tahun": "2021"
+      "nama_provinsi": "PAPUA PEGUNUNGAN",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "137054",
+          "perempuan": "114359",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "251413",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2990.008",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "11667",
+          "usia_20_24": "21624",
+          "usia_5_9": "6327",
+          "usia_10_14": "8352",
+          "usia_0_4_thn": "2309",
+          "usia_25_29": "24463",
+          "usia_30_34": "32461",
+          "usia_35_39": "31676",
+          "usia_40_44": "26357",
+          "usia_45_49": "17081",
+          "usia_50_54": "19934",
+          "usia_55_59": "15184",
+          "usia_60_64": "17885",
+          "usia_65_69": "9032",
+          "usia_70_74": "6699",
+          "usia_75_tahun_ke_atas": "362",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -111,25 +175,41 @@
       "kode_wilayah": "95.05",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "95",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "5157",
-        "usia_20_24": "6607",
-        "usia_5_9": "3952",
-        "usia_10_14": "4920",
-        "usia_0_4_thn": "1571",
-        "usia_25_29": "4489",
-        "usia_30_34": "4989",
-        "usia_35_39": "4005",
-        "usia_40_44": "4641",
-        "usia_45_49": "3168",
-        "usia_50_54": "2907",
-        "usia_55_59": "1440",
-        "usia_60_64": "465",
-        "usia_65_69": "151",
-        "usia_70_74": "64",
-        "usia_75_tahun_ke_atas": "30",
-        "tahun": "2021"
+      "nama_provinsi": "PAPUA PEGUNUNGAN",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "25905",
+          "perempuan": "23226",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "49131",
+          "semester": "1",
+          "jumlah_penduduk_km2": "4101.5",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "5297",
+          "usia_20_24": "6389",
+          "usia_5_9": "3531",
+          "usia_10_14": "4969",
+          "usia_0_4_thn": "1112",
+          "usia_25_29": "5111",
+          "usia_30_34": "4704",
+          "usia_35_39": "4289",
+          "usia_40_44": "4343",
+          "usia_45_49": "3780",
+          "usia_50_54": "2852",
+          "usia_55_59": "1818",
+          "usia_60_64": "651",
+          "usia_65_69": "156",
+          "usia_70_74": "100",
+          "usia_75_tahun_ke_atas": "29",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -137,25 +217,41 @@
       "kode_wilayah": "95.06",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "95",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "11465",
-        "usia_20_24": "11977",
-        "usia_5_9": "4711",
-        "usia_10_14": "9351",
-        "usia_0_4_thn": "1799",
-        "usia_25_29": "10679",
-        "usia_30_34": "11745",
-        "usia_35_39": "8537",
-        "usia_40_44": "9724",
-        "usia_45_49": "7290",
-        "usia_50_54": "8823",
-        "usia_55_59": "3641",
-        "usia_60_64": "2703",
-        "usia_65_69": "768",
-        "usia_70_74": "482",
-        "usia_75_tahun_ke_atas": "165",
-        "tahun": "2021"
+      "nama_provinsi": "PAPUA PEGUNUNGAN",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "55604",
+          "perempuan": "48812",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "104416",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3148.293",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "13002",
+          "usia_20_24": "10975",
+          "usia_5_9": "4129",
+          "usia_10_14": "6976",
+          "usia_0_4_thn": "1480",
+          "usia_25_29": "10895",
+          "usia_30_34": "11785",
+          "usia_35_39": "9365",
+          "usia_40_44": "9631",
+          "usia_45_49": "7120",
+          "usia_50_54": "9475",
+          "usia_55_59": "4340",
+          "usia_60_64": "3546",
+          "usia_65_69": "852",
+          "usia_70_74": "590",
+          "usia_75_tahun_ke_atas": "255",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -163,25 +259,41 @@
       "kode_wilayah": "95.07",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "95",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "16317",
-        "usia_20_24": "26108",
-        "usia_5_9": "7596",
-        "usia_10_14": "10327",
-        "usia_0_4_thn": "4211",
-        "usia_25_29": "28369",
-        "usia_30_34": "15962",
-        "usia_35_39": "15778",
-        "usia_40_44": "24818",
-        "usia_45_49": "18546",
-        "usia_50_54": "17103",
-        "usia_55_59": "7677",
-        "usia_60_64": "5480",
-        "usia_65_69": "2183",
-        "usia_70_74": "1234",
-        "usia_75_tahun_ke_atas": "371",
-        "tahun": "2021"
+      "nama_provinsi": "PAPUA PEGUNUNGAN",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "110614",
+          "perempuan": "92374",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "202988",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2339.775",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "15325",
+          "usia_20_24": "22788",
+          "usia_5_9": "7991",
+          "usia_10_14": "9223",
+          "usia_0_4_thn": "2614",
+          "usia_25_29": "28854",
+          "usia_30_34": "20891",
+          "usia_35_39": "15921",
+          "usia_40_44": "21685",
+          "usia_45_49": "20112",
+          "usia_50_54": "17462",
+          "usia_55_59": "9666",
+          "usia_60_64": "6250",
+          "usia_65_69": "2471",
+          "usia_70_74": "1296",
+          "usia_75_tahun_ke_atas": "439",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -189,25 +301,41 @@
       "kode_wilayah": "95.08",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "95",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "11848",
-        "usia_20_24": "13061",
-        "usia_5_9": "3753",
-        "usia_10_14": "6416",
-        "usia_0_4_thn": "2557",
-        "usia_25_29": "11649",
-        "usia_30_34": "12882",
-        "usia_35_39": "11292",
-        "usia_40_44": "14898",
-        "usia_45_49": "9766",
-        "usia_50_54": "7366",
-        "usia_55_59": "2936",
-        "usia_60_64": "1874",
-        "usia_65_69": "122",
-        "usia_70_74": "38",
-        "usia_75_tahun_ke_atas": "10",
-        "tahun": "2021"
+      "nama_provinsi": "PAPUA PEGUNUNGAN",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "59936",
+          "perempuan": "51127",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "111063",
+          "semester": "1",
+          "jumlah_penduduk_km2": "5886.891",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "11302",
+          "usia_20_24": "14237",
+          "usia_5_9": "4369",
+          "usia_10_14": "4780",
+          "usia_0_4_thn": "1887",
+          "usia_25_29": "11766",
+          "usia_30_34": "12808",
+          "usia_35_39": "10437",
+          "usia_40_44": "14374",
+          "usia_45_49": "10831",
+          "usia_50_54": "8868",
+          "usia_55_59": "4103",
+          "usia_60_64": "1200",
+          "usia_65_69": "67",
+          "usia_70_74": "28",
+          "usia_75_tahun_ke_atas": "6",
+          "tahun": "2023"
+        }
       }
     }
   ]

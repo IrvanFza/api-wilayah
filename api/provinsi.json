@@ -6,418 +6,1748 @@
       "nama_wilayah": "ACEH",
       "kode_wilayah": "11",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2020",
-        "perempuan": "2648964",
-        "laki_laki": "2662356"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "306215",
+          "usia_15_64_thn": "3648137",
+          "usia_kurang_14_thn": "1517273"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "56834.746",
+          "semester": "1",
+          "jumlah_penduduk": "5471625",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "2734398",
+          "laki_laki": "2737227"
+        },
+        "demografi": {
+          "usia_20_24": "471433",
+          "semester": "1",
+          "usia_15_19": "432045",
+          "usia_10_14": "531868",
+          "usia_25_29": "439157",
+          "usia_30_34": "426533",
+          "usia_35_39": "432120",
+          "usia_40_44": "399434",
+          "usia_45_49": "343672",
+          "usia_50_54": "297214",
+          "usia_55_59": "230228",
+          "usia_60_64": "176301",
+          "usia_65_69": "120305",
+          "usia_70_74": "82313",
+          "usia_75_up": "103597",
+          "tahun": "2023",
+          "usia_0_4": "440404",
+          "usia_5_9": "545001"
+        }
       }
     },
     {
       "nama_wilayah": "SUMATERA UTARA",
       "kode_wilayah": "12",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2018",
-        "perempuan": "7388771",
-        "laki_laki": "7486118"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "977838",
+          "usia_15_64_thn": "10660983",
+          "usia_kurang_14_thn": "3763083"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "72460.744",
+          "semester": "1",
+          "jumlah_penduduk": "15401904",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "7692698",
+          "laki_laki": "7709206"
+        },
+        "demografi": {
+          "usia_20_24": "1427095",
+          "semester": "1",
+          "usia_15_19": "1410480",
+          "usia_10_14": "1541649",
+          "usia_25_29": "1255433",
+          "usia_30_34": "1167708",
+          "usia_35_39": "1160536",
+          "usia_40_44": "1147808",
+          "usia_45_49": "945764",
+          "usia_50_54": "854479",
+          "usia_55_59": "714073",
+          "usia_60_64": "577607",
+          "usia_65_69": "427767",
+          "usia_70_74": "259533",
+          "usia_75_up": "290538",
+          "tahun": "2023",
+          "usia_0_4": "828052",
+          "usia_5_9": "1393382"
+        }
       }
     },
     {
       "nama_wilayah": "SUMATERA BARAT",
       "kode_wilayah": "13",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2018",
-        "perempuan": "2736669",
-        "laki_laki": "2782576"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "463339",
+          "usia_15_64_thn": "3847449",
+          "usia_kurang_14_thn": "1390757"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "42119.542",
+          "semester": "1",
+          "jumlah_penduduk": "5701545",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "2841994",
+          "laki_laki": "2859551"
+        },
+        "demografi": {
+          "usia_20_24": "520109",
+          "semester": "1",
+          "usia_15_19": "469027",
+          "usia_10_14": "532240",
+          "usia_25_29": "464599",
+          "usia_30_34": "387356",
+          "usia_35_39": "406269",
+          "usia_40_44": "406693",
+          "usia_45_49": "366183",
+          "usia_50_54": "318982",
+          "usia_55_59": "274626",
+          "usia_60_64": "233605",
+          "usia_65_69": "196123",
+          "usia_70_74": "123929",
+          "usia_75_up": "143287",
+          "tahun": "2023",
+          "usia_0_4": "358819",
+          "usia_5_9": "499698"
+        }
       }
     },
     {
       "nama_wilayah": "RIAU",
       "kode_wilayah": "14",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2019",
-        "perempuan": "3008448",
-        "laki_laki": "3164121"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "295536",
+          "usia_15_64_thn": "4695666",
+          "usia_kurang_14_thn": "1803742"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "89935.896",
+          "semester": "1",
+          "jumlah_penduduk": "6794944",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "3325560",
+          "laki_laki": "3469384"
+        },
+        "demografi": {
+          "usia_20_24": "604123",
+          "semester": "1",
+          "usia_15_19": "545143",
+          "usia_10_14": "704530",
+          "usia_25_29": "555838",
+          "usia_30_34": "537967",
+          "usia_35_39": "551527",
+          "usia_40_44": "550664",
+          "usia_45_49": "460374",
+          "usia_50_54": "389253",
+          "usia_55_59": "289750",
+          "usia_60_64": "211027",
+          "usia_65_69": "140160",
+          "usia_70_74": "79696",
+          "usia_75_up": "75680",
+          "tahun": "2023",
+          "usia_0_4": "434679",
+          "usia_5_9": "664533"
+        }
       }
     },
     {
       "nama_wilayah": "JAMBI",
       "kode_wilayah": "15",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2020",
-        "perempuan": "1733283",
-        "laki_laki": "1799355"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "211458",
+          "usia_15_64_thn": "2588182",
+          "usia_kurang_14_thn": "926364"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "49026.579",
+          "semester": "1",
+          "jumlah_penduduk": "3726004",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "1830101",
+          "laki_laki": "1895903"
+        },
+        "demografi": {
+          "usia_20_24": "320547",
+          "semester": "1",
+          "usia_15_19": "280630",
+          "usia_10_14": "349458",
+          "usia_25_29": "293189",
+          "usia_30_34": "288197",
+          "usia_35_39": "303329",
+          "usia_40_44": "311177",
+          "usia_45_49": "262637",
+          "usia_50_54": "221483",
+          "usia_55_59": "172356",
+          "usia_60_64": "134637",
+          "usia_65_69": "94988",
+          "usia_70_74": "56160",
+          "usia_75_up": "60310",
+          "tahun": "2023",
+          "usia_0_4": "241562",
+          "usia_5_9": "335344"
+        }
       }
     },
     {
       "nama_wilayah": "SUMATERA SELATAN",
       "kode_wilayah": "16",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2020",
-        "perempuan": "4131385",
-        "laki_laki": "4298882"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "552752",
+          "usia_15_64_thn": "6058805",
+          "usia_kurang_14_thn": "2201686"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "86771.684",
+          "semester": "1",
+          "jumlah_penduduk": "8813243",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "4325509",
+          "laki_laki": "4487734"
+        },
+        "demografi": {
+          "usia_20_24": "738455",
+          "semester": "1",
+          "usia_15_19": "674764",
+          "usia_10_14": "835083",
+          "usia_25_29": "675714",
+          "usia_30_34": "684141",
+          "usia_35_39": "737581",
+          "usia_40_44": "698109",
+          "usia_45_49": "594949",
+          "usia_50_54": "508382",
+          "usia_55_59": "412575",
+          "usia_60_64": "334135",
+          "usia_65_69": "238350",
+          "usia_70_74": "147342",
+          "usia_75_up": "167060",
+          "tahun": "2023",
+          "usia_0_4": "568670",
+          "usia_5_9": "797933"
+        }
       }
     },
     {
       "nama_wilayah": "BENGKULU",
       "kode_wilayah": "17",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2018",
-        "perempuan": "973810",
-        "laki_laki": "1025729"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "119445",
+          "usia_15_64_thn": "1453361",
+          "usia_kurang_14_thn": "506152"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "20128.34",
+          "semester": "1",
+          "jumlah_penduduk": "2078958",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "1018070",
+          "laki_laki": "1060888"
+        },
+        "demografi": {
+          "usia_20_24": "180204",
+          "semester": "1",
+          "usia_15_19": "170131",
+          "usia_10_14": "189614",
+          "usia_25_29": "166139",
+          "usia_30_34": "165479",
+          "usia_35_39": "166236",
+          "usia_40_44": "166513",
+          "usia_45_49": "141535",
+          "usia_50_54": "120430",
+          "usia_55_59": "98241",
+          "usia_60_64": "78453",
+          "usia_65_69": "52336",
+          "usia_70_74": "31453",
+          "usia_75_up": "35656",
+          "tahun": "2023",
+          "usia_0_4": "135272",
+          "usia_5_9": "181266"
+        }
       }
     },
     {
       "nama_wilayah": "LAMPUNG",
       "kode_wilayah": "18",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2018",
-        "perempuan": "4422002",
-        "laki_laki": "4673589"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "632064",
+          "usia_15_64_thn": "6193635",
+          "usia_kurang_14_thn": "2175725"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "33570.264",
+          "semester": "1",
+          "jumlah_penduduk": "9001424",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "4403141",
+          "laki_laki": "4598283"
+        },
+        "demografi": {
+          "usia_20_24": "730303",
+          "semester": "1",
+          "usia_15_19": "675175",
+          "usia_10_14": "829572",
+          "usia_25_29": "696040",
+          "usia_30_34": "688765",
+          "usia_35_39": "709890",
+          "usia_40_44": "704947",
+          "usia_45_49": "632254",
+          "usia_50_54": "551157",
+          "usia_55_59": "439759",
+          "usia_60_64": "365345",
+          "usia_65_69": "250866",
+          "usia_70_74": "171871",
+          "usia_75_up": "209327",
+          "tahun": "2023",
+          "usia_0_4": "564535",
+          "usia_5_9": "781618"
+        }
       }
     },
     {
       "nama_wilayah": "KEPULAUAN BANGKA BELITUNG",
       "kode_wilayah": "19",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2019",
-        "perempuan": "682661",
-        "laki_laki": "717836"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "88442",
+          "usia_15_64_thn": "1034844",
+          "usia_kurang_14_thn": "379081"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "16690.129",
+          "semester": "1",
+          "jumlah_penduduk": "1502367",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "733099",
+          "laki_laki": "769268"
+        },
+        "demografi": {
+          "usia_20_24": "124714",
+          "semester": "1",
+          "usia_15_19": "118275",
+          "usia_10_14": "145938",
+          "usia_25_29": "112483",
+          "usia_30_34": "115513",
+          "usia_35_39": "128938",
+          "usia_40_44": "130675",
+          "usia_45_49": "102363",
+          "usia_50_54": "84576",
+          "usia_55_59": "64480",
+          "usia_60_64": "52827",
+          "usia_65_69": "39732",
+          "usia_70_74": "24876",
+          "usia_75_up": "23834",
+          "tahun": "2023",
+          "usia_0_4": "98949",
+          "usia_5_9": "134194"
+        }
       }
     },
     {
       "nama_wilayah": "KEPULAUAN RIAU",
       "kode_wilayah": "21",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2018",
-        "perempuan": "944523",
-        "laki_laki": "984877"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "79575",
+          "usia_15_64_thn": "1513734",
+          "usia_kurang_14_thn": "557020"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "8269.708",
+          "semester": "1",
+          "jumlah_penduduk": "2150329",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "1057227",
+          "laki_laki": "1093102"
+        },
+        "demografi": {
+          "usia_20_24": "181515",
+          "semester": "1",
+          "usia_15_19": "163917",
+          "usia_10_14": "209772",
+          "usia_25_29": "174821",
+          "usia_30_34": "173708",
+          "usia_35_39": "185438",
+          "usia_40_44": "201194",
+          "usia_45_49": "168589",
+          "usia_50_54": "127017",
+          "usia_55_59": "82304",
+          "usia_60_64": "55231",
+          "usia_65_69": "36672",
+          "usia_70_74": "21552",
+          "usia_75_up": "21351",
+          "tahun": "2023",
+          "usia_0_4": "144413",
+          "usia_5_9": "202835"
+        }
       }
     },
     {
       "nama_wilayah": "DKI JAKARTA",
       "kode_wilayah": "31",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2018",
-        "perempuan": "5376535",
-        "laki_laki": "5469610"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "669749",
+          "usia_15_64_thn": "8078058",
+          "usia_kurang_14_thn": "2602521"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "660.982",
+          "semester": "1",
+          "jumlah_penduduk": "11350328",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "5658489",
+          "laki_laki": "5691839"
+        },
+        "demografi": {
+          "usia_20_24": "888101",
+          "semester": "1",
+          "usia_15_19": "902800",
+          "usia_10_14": "955441",
+          "usia_25_29": "851511",
+          "usia_30_34": "872310",
+          "usia_35_39": "914374",
+          "usia_40_44": "997734",
+          "usia_45_49": "873509",
+          "usia_50_54": "756941",
+          "usia_55_59": "588029",
+          "usia_60_64": "432749",
+          "usia_65_69": "307819",
+          "usia_70_74": "187561",
+          "usia_75_up": "174369",
+          "tahun": "2023",
+          "usia_0_4": "706509",
+          "usia_5_9": "940571"
+        }
       }
     },
     {
       "nama_wilayah": "JAWA BARAT",
       "kode_wilayah": "32",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2019",
-        "perempuan": "22555604",
-        "laki_laki": "23223993"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "3310505",
+          "usia_15_64_thn": "34237892",
+          "usia_kurang_14_thn": "12023995"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "37044.858",
+          "semester": "1",
+          "jumlah_penduduk": "49572392",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "24471288",
+          "laki_laki": "25101104"
+        },
+        "demografi": {
+          "usia_20_24": "4238311",
+          "semester": "1",
+          "usia_15_19": "3420863",
+          "usia_10_14": "4386512",
+          "usia_25_29": "4022538",
+          "usia_30_34": "3809259",
+          "usia_35_39": "3641009",
+          "usia_40_44": "3930103",
+          "usia_45_49": "3506764",
+          "usia_50_54": "3185900",
+          "usia_55_59": "2507588",
+          "usia_60_64": "1975557",
+          "usia_65_69": "1395681",
+          "usia_70_74": "905356",
+          "usia_75_up": "1009468",
+          "tahun": "2023",
+          "usia_0_4": "3283701",
+          "usia_5_9": "4353782"
+        }
       }
     },
     {
       "nama_wilayah": "JAWA TENGAH",
       "kode_wilayah": "33",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2018",
-        "perempuan": "18055400",
-        "laki_laki": "18308672"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "3438341",
+          "usia_15_64_thn": "26315354",
+          "usia_kurang_14_thn": "8195539"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "34337.489",
+          "semester": "1",
+          "jumlah_penduduk": "37949234",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "18859806",
+          "laki_laki": "19089428"
+        },
+        "demografi": {
+          "usia_20_24": "2958109",
+          "semester": "1",
+          "usia_15_19": "2633779",
+          "usia_10_14": "3006165",
+          "usia_25_29": "2877391",
+          "usia_30_34": "2839804",
+          "usia_35_39": "2778767",
+          "usia_40_44": "2965412",
+          "usia_45_49": "2646310",
+          "usia_50_54": "2479756",
+          "usia_55_59": "2228576",
+          "usia_60_64": "1907450",
+          "usia_65_69": "1393815",
+          "usia_70_74": "930180",
+          "usia_75_up": "1114346",
+          "tahun": "2023",
+          "usia_0_4": "2293930",
+          "usia_5_9": "2895444"
+        }
       }
     },
     {
       "nama_wilayah": "DAERAH ISTIMEWA YOGYAKARTA",
       "kode_wilayah": "34",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2018",
-        "perempuan": "1833847",
-        "laki_laki": "1797168"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "434421",
+          "usia_15_64_thn": "2568765",
+          "usia_kurang_14_thn": "707043"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "3170.645",
+          "semester": "1",
+          "jumlah_penduduk": "3710229",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "1873522",
+          "laki_laki": "1836707"
+        },
+        "demografi": {
+          "usia_20_24": "266441",
+          "semester": "1",
+          "usia_15_19": "263647",
+          "usia_10_14": "270737",
+          "usia_25_29": "261839",
+          "usia_30_34": "253860",
+          "usia_35_39": "251063",
+          "usia_40_44": "285583",
+          "usia_45_49": "267945",
+          "usia_50_54": "265090",
+          "usia_55_59": "242642",
+          "usia_60_64": "210655",
+          "usia_65_69": "165702",
+          "usia_70_74": "109206",
+          "usia_75_up": "159513",
+          "tahun": "2023",
+          "usia_0_4": "189624",
+          "usia_5_9": "246682"
+        }
       }
     },
     {
       "nama_wilayah": "JAWA TIMUR",
       "kode_wilayah": "35",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2019",
-        "perempuan": "20413422",
-        "laki_laki": "20407728"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "4052520",
+          "usia_15_64_thn": "29043531",
+          "usia_kurang_14_thn": "8375010"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "48036.84",
+          "semester": "1",
+          "jumlah_penduduk": "41471061",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "20798903",
+          "laki_laki": "20672158"
+        },
+        "demografi": {
+          "usia_20_24": "3185390",
+          "semester": "1",
+          "usia_15_19": "2835325",
+          "usia_10_14": "3165173",
+          "usia_25_29": "3039547",
+          "usia_30_34": "2890300",
+          "usia_35_39": "2999558",
+          "usia_40_44": "3275993",
+          "usia_45_49": "3020990",
+          "usia_50_54": "3003173",
+          "usia_55_59": "2594909",
+          "usia_60_64": "2198346",
+          "usia_65_69": "1600443",
+          "usia_70_74": "1086469",
+          "usia_75_up": "1365608",
+          "tahun": "2023",
+          "usia_0_4": "2236845",
+          "usia_5_9": "2972992"
+        }
       }
     },
     {
       "nama_wilayah": "BANTEN",
       "kode_wilayah": "36",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2018",
-        "perempuan": "5260669",
-        "laki_laki": "5461705"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "594438",
+          "usia_15_64_thn": "8671898",
+          "usia_kurang_14_thn": "3114762"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "9352.767",
+          "semester": "1",
+          "jumlah_penduduk": "12381098",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "6093768",
+          "laki_laki": "6287330"
+        },
+        "demografi": {
+          "usia_20_24": "1063729",
+          "semester": "1",
+          "usia_15_19": "843574",
+          "usia_10_14": "1116232",
+          "usia_25_29": "1054304",
+          "usia_30_34": "1060390",
+          "usia_35_39": "1011702",
+          "usia_40_44": "1001443",
+          "usia_45_49": "873545",
+          "usia_50_54": "762139",
+          "usia_55_59": "577262",
+          "usia_60_64": "423810",
+          "usia_65_69": "271534",
+          "usia_70_74": "161203",
+          "usia_75_up": "161701",
+          "tahun": "2023",
+          "usia_0_4": "849039",
+          "usia_5_9": "1149491"
+        }
       }
     },
     {
       "nama_wilayah": "BALI",
       "kode_wilayah": "51",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2020",
-        "perempuan": "2132807",
-        "laki_laki": "2147278"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "415068",
+          "usia_15_64_thn": "3028816",
+          "usia_kurang_14_thn": "883392"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "5590.15",
+          "semester": "1",
+          "jumlah_penduduk": "4327276",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "2157617",
+          "laki_laki": "2169659"
+        },
+        "demografi": {
+          "usia_20_24": "355637",
+          "semester": "1",
+          "usia_15_19": "335243",
+          "usia_10_14": "341348",
+          "usia_25_29": "326021",
+          "usia_30_34": "289055",
+          "usia_35_39": "280259",
+          "usia_40_44": "319314",
+          "usia_45_49": "324104",
+          "usia_50_54": "335206",
+          "usia_55_59": "259725",
+          "usia_60_64": "204252",
+          "usia_65_69": "155704",
+          "usia_70_74": "109039",
+          "usia_75_up": "150325",
+          "tahun": "2023",
+          "usia_0_4": "226652",
+          "usia_5_9": "315392"
+        }
       }
     },
     {
       "nama_wilayah": "NUSA TENGGARA BARAT",
       "kode_wilayah": "52",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2019",
-        "perempuan": "2651710",
-        "laki_laki": "2650976"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "336727",
+          "usia_15_64_thn": "3795424",
+          "usia_kurang_14_thn": "1444841"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "19675.889",
+          "semester": "1",
+          "jumlah_penduduk": "5576992",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "2795805",
+          "laki_laki": "2781187"
+        },
+        "demografi": {
+          "usia_20_24": "459101",
+          "semester": "1",
+          "usia_15_19": "398856",
+          "usia_10_14": "527682",
+          "usia_25_29": "423788",
+          "usia_30_34": "444079",
+          "usia_35_39": "466895",
+          "usia_40_44": "448152",
+          "usia_45_49": "387281",
+          "usia_50_54": "327944",
+          "usia_55_59": "248439",
+          "usia_60_64": "190889",
+          "usia_65_69": "135899",
+          "usia_70_74": "91555",
+          "usia_75_up": "109273",
+          "tahun": "2023",
+          "usia_0_4": "385604",
+          "usia_5_9": "531555"
+        }
       }
     },
     {
       "nama_wilayah": "NUSA TENGGARA TIMUR",
       "kode_wilayah": "53",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2018",
-        "perempuan": "2699602",
-        "laki_laki": "2711719"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "365356",
+          "usia_15_64_thn": "3833710",
+          "usia_kurang_14_thn": "1374449"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "46446.644",
+          "semester": "1",
+          "jumlah_penduduk": "5573515",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "2787341",
+          "laki_laki": "2786174"
+        },
+        "demografi": {
+          "usia_20_24": "566834",
+          "semester": "1",
+          "usia_15_19": "554910",
+          "usia_10_14": "575472",
+          "usia_25_29": "480648",
+          "usia_30_34": "417313",
+          "usia_35_39": "399414",
+          "usia_40_44": "372352",
+          "usia_45_49": "316589",
+          "usia_50_54": "282903",
+          "usia_55_59": "244668",
+          "usia_60_64": "198079",
+          "usia_65_69": "144642",
+          "usia_70_74": "96621",
+          "usia_75_up": "124093",
+          "tahun": "2023",
+          "usia_0_4": "284929",
+          "usia_5_9": "514048"
+        }
       }
     },
     {
       "nama_wilayah": "KALIMANTAN BARAT",
       "kode_wilayah": "61",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2018",
-        "perempuan": "2631337",
-        "laki_laki": "2791477"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "297343",
+          "usia_15_64_thn": "3854141",
+          "usia_kurang_14_thn": "1374305"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "147037.037",
+          "semester": "1",
+          "jumlah_penduduk": "5525789",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "2685127",
+          "laki_laki": "2840662"
+        },
+        "demografi": {
+          "usia_20_24": "508497",
+          "semester": "1",
+          "usia_15_19": "465346",
+          "usia_10_14": "517190",
+          "usia_25_29": "451884",
+          "usia_30_34": "439632",
+          "usia_35_39": "444383",
+          "usia_40_44": "439619",
+          "usia_45_49": "367057",
+          "usia_50_54": "310050",
+          "usia_55_59": "239136",
+          "usia_60_64": "188537",
+          "usia_65_69": "131752",
+          "usia_70_74": "81503",
+          "usia_75_up": "84088",
+          "tahun": "2023",
+          "usia_0_4": "360738",
+          "usia_5_9": "496377"
+        }
       }
     },
     {
       "nama_wilayah": "KALIMANTAN TENGAH",
       "kode_wilayah": "62",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2019",
-        "perempuan": "1248973",
-        "laki_laki": "1339951"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "126105",
+          "usia_15_64_thn": "1920819",
+          "usia_kurang_14_thn": "679605"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "153443.908",
+          "semester": "1",
+          "jumlah_penduduk": "2726529",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "1318118",
+          "laki_laki": "1408411"
+        },
+        "demografi": {
+          "usia_20_24": "247938",
+          "semester": "1",
+          "usia_15_19": "224326",
+          "usia_10_14": "262741",
+          "usia_25_29": "217108",
+          "usia_30_34": "224896",
+          "usia_35_39": "222512",
+          "usia_40_44": "226403",
+          "usia_45_49": "190825",
+          "usia_50_54": "161436",
+          "usia_55_59": "119052",
+          "usia_60_64": "86323",
+          "usia_65_69": "56529",
+          "usia_70_74": "33887",
+          "usia_75_up": "35689",
+          "tahun": "2023",
+          "usia_0_4": "169626",
+          "usia_5_9": "247238"
+        }
       }
     },
     {
       "nama_wilayah": "KALIMANTAN SELATAN",
       "kode_wilayah": "63",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2018",
-        "perempuan": "1985486",
-        "laki_laki": "2037563"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "227971",
+          "usia_15_64_thn": "2969636",
+          "usia_kurang_14_thn": "1008209"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "37135.054",
+          "semester": "1",
+          "jumlah_penduduk": "4205816",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "2080748",
+          "laki_laki": "2125068"
+        },
+        "demografi": {
+          "usia_20_24": "364617",
+          "semester": "1",
+          "usia_15_19": "335677",
+          "usia_10_14": "383852",
+          "usia_25_29": "320387",
+          "usia_30_34": "333594",
+          "usia_35_39": "329827",
+          "usia_40_44": "337865",
+          "usia_45_49": "307813",
+          "usia_50_54": "271266",
+          "usia_55_59": "210786",
+          "usia_60_64": "157804",
+          "usia_65_69": "103207",
+          "usia_70_74": "60099",
+          "usia_75_up": "64665",
+          "tahun": "2023",
+          "usia_0_4": "263308",
+          "usia_5_9": "361049"
+        }
       }
     },
     {
       "nama_wilayah": "KALIMANTAN TIMUR",
       "kode_wilayah": "64",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2019",
-        "perempuan": "1743267",
-        "laki_laki": "1887498"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "162454",
+          "usia_15_64_thn": "2770240",
+          "usia_kurang_14_thn": "1038070"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "126981.279",
+          "semester": "1",
+          "jumlah_penduduk": "3970764",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "1912716",
+          "laki_laki": "2058048"
+        },
+        "demografi": {
+          "usia_20_24": "351783",
+          "semester": "1",
+          "usia_15_19": "325820",
+          "usia_10_14": "390092",
+          "usia_25_29": "326835",
+          "usia_30_34": "314168",
+          "usia_35_39": "317607",
+          "usia_40_44": "323315",
+          "usia_45_49": "274973",
+          "usia_50_54": "233781",
+          "usia_55_59": "176673",
+          "usia_60_64": "125285",
+          "usia_65_69": "79203",
+          "usia_70_74": "44605",
+          "usia_75_up": "38646",
+          "tahun": "2023",
+          "usia_0_4": "275022",
+          "usia_5_9": "372956"
+        }
       }
     },
     {
       "nama_wilayah": "KALIMANTAN UTARA",
       "kode_wilayah": "65",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2018",
-        "perempuan": "308235",
-        "laki_laki": "340172"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "29650",
+          "usia_15_64_thn": "506052",
+          "usia_kurang_14_thn": "199011"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "70101.184",
+          "semester": "1",
+          "jumlah_penduduk": "734713",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "349256",
+          "laki_laki": "385457"
+        },
+        "demografi": {
+          "usia_20_24": "67469",
+          "semester": "1",
+          "usia_15_19": "57753",
+          "usia_10_14": "73541",
+          "usia_25_29": "62633",
+          "usia_30_34": "58173",
+          "usia_35_39": "57677",
+          "usia_40_44": "59888",
+          "usia_45_49": "49692",
+          "usia_50_54": "42408",
+          "usia_55_59": "29783",
+          "usia_60_64": "20576",
+          "usia_65_69": "13411",
+          "usia_70_74": "8006",
+          "usia_75_up": "8233",
+          "tahun": "2023",
+          "usia_0_4": "54010",
+          "usia_5_9": "71460"
+        }
       }
     },
     {
       "nama_wilayah": "SULAWESI UTARA",
       "kode_wilayah": "71",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2018",
-        "perempuan": "1289067",
-        "laki_laki": "1352817"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "234291",
+          "usia_15_64_thn": "1915969",
+          "usia_kurang_14_thn": "525752"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "14500.275",
+          "semester": "1",
+          "jumlah_penduduk": "2676012",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "1307088",
+          "laki_laki": "1368924"
+        },
+        "demografi": {
+          "usia_20_24": "235230",
+          "semester": "1",
+          "usia_15_19": "229167",
+          "usia_10_14": "206975",
+          "usia_25_29": "217324",
+          "usia_30_34": "198128",
+          "usia_35_39": "180584",
+          "usia_40_44": "195290",
+          "usia_45_49": "198473",
+          "usia_50_54": "187330",
+          "usia_55_59": "156859",
+          "usia_60_64": "117584",
+          "usia_65_69": "98577",
+          "usia_70_74": "64491",
+          "usia_75_up": "71223",
+          "tahun": "2023",
+          "usia_0_4": "126451",
+          "usia_5_9": "192326"
+        }
       }
     },
     {
       "nama_wilayah": "SULAWESI TENGAH",
       "kode_wilayah": "72",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2019",
-        "perempuan": "1446544",
-        "laki_laki": "1530803"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "179625",
+          "usia_15_64_thn": "2178949",
+          "usia_kurang_14_thn": "765088"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "61605.718",
+          "semester": "1",
+          "jumlah_penduduk": "3123662",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "1520954",
+          "laki_laki": "1602708"
+        },
+        "demografi": {
+          "usia_20_24": "304645",
+          "semester": "1",
+          "usia_15_19": "267755",
+          "usia_10_14": "284387",
+          "usia_25_29": "257990",
+          "usia_30_34": "236546",
+          "usia_35_39": "227688",
+          "usia_40_44": "239705",
+          "usia_45_49": "208555",
+          "usia_50_54": "188305",
+          "usia_55_59": "142583",
+          "usia_60_64": "105177",
+          "usia_65_69": "75672",
+          "usia_70_74": "48764",
+          "usia_75_up": "55189",
+          "tahun": "2023",
+          "usia_0_4": "201515",
+          "usia_5_9": "279186"
+        }
       }
     },
     {
       "nama_wilayah": "SULAWESI SELATAN",
       "kode_wilayah": "73",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2018",
-        "perempuan": "4735564",
-        "laki_laki": "4691321"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "702931",
+          "usia_15_64_thn": "6396311",
+          "usia_kurang_14_thn": "2249895"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "45330.55",
+          "semester": "1",
+          "jumlah_penduduk": "9349137",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "4713862",
+          "laki_laki": "4635275"
+        },
+        "demografi": {
+          "usia_20_24": "838223",
+          "semester": "1",
+          "usia_15_19": "796472",
+          "usia_10_14": "851996",
+          "usia_25_29": "734220",
+          "usia_30_34": "673978",
+          "usia_35_39": "668367",
+          "usia_40_44": "673254",
+          "usia_45_49": "614085",
+          "usia_50_54": "588048",
+          "usia_55_59": "452460",
+          "usia_60_64": "357204",
+          "usia_65_69": "254116",
+          "usia_70_74": "183510",
+          "usia_75_up": "265305",
+          "tahun": "2023",
+          "usia_0_4": "587087",
+          "usia_5_9": "810812"
+        }
       }
     },
     {
       "nama_wilayah": "SULAWESI TENGGARA",
       "kode_wilayah": "74",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2018",
-        "perempuan": "1297706",
-        "laki_laki": "1337755"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "145544",
+          "usia_15_64_thn": "1841865",
+          "usia_kurang_14_thn": "739181"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "36159.713",
+          "semester": "1",
+          "jumlah_penduduk": "2726590",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "1348397",
+          "laki_laki": "1378193"
+        },
+        "demografi": {
+          "usia_20_24": "255983",
+          "semester": "1",
+          "usia_15_19": "247657",
+          "usia_10_14": "272563",
+          "usia_25_29": "220883",
+          "usia_30_34": "206251",
+          "usia_35_39": "207660",
+          "usia_40_44": "196505",
+          "usia_45_49": "163658",
+          "usia_50_54": "151626",
+          "usia_55_59": "109256",
+          "usia_60_64": "82386",
+          "usia_65_69": "58049",
+          "usia_70_74": "37792",
+          "usia_75_up": "49703",
+          "tahun": "2023",
+          "usia_0_4": "198192",
+          "usia_5_9": "268426"
+        }
       }
     },
     {
       "nama_wilayah": "GORONTALO",
       "kode_wilayah": "75",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2019",
-        "perempuan": "587708",
-        "laki_laki": "597977"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "67945",
+          "usia_15_64_thn": "866530",
+          "usia_kurang_14_thn": "291333"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "12025.147",
+          "semester": "1",
+          "jumlah_penduduk": "1225808",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "607514",
+          "laki_laki": "618294"
+        },
+        "demografi": {
+          "usia_20_24": "120205",
+          "semester": "1",
+          "usia_15_19": "107595",
+          "usia_10_14": "106218",
+          "usia_25_29": "105932",
+          "usia_30_34": "98894",
+          "usia_35_39": "82233",
+          "usia_40_44": "89255",
+          "usia_45_49": "85549",
+          "usia_50_54": "76146",
+          "usia_55_59": "57224",
+          "usia_60_64": "43497",
+          "usia_65_69": "29674",
+          "usia_70_74": "19656",
+          "usia_75_up": "18615",
+          "tahun": "2023",
+          "usia_0_4": "81834",
+          "usia_5_9": "103281"
+        }
       }
     },
     {
       "nama_wilayah": "SULAWESI BARAT",
       "kode_wilayah": "76",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2018",
-        "perempuan": "765482",
-        "laki_laki": "794502"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "77035",
+          "usia_15_64_thn": "997982",
+          "usia_kurang_14_thn": "382464"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "16594.749",
+          "semester": "1",
+          "jumlah_penduduk": "1457481",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "717807",
+          "laki_laki": "739674"
+        },
+        "demografi": {
+          "usia_20_24": "148139",
+          "semester": "1",
+          "usia_15_19": "145946",
+          "usia_10_14": "140181",
+          "usia_25_29": "124322",
+          "usia_30_34": "106499",
+          "usia_35_39": "104930",
+          "usia_40_44": "99873",
+          "usia_45_49": "87920",
+          "usia_50_54": "81633",
+          "usia_55_59": "57235",
+          "usia_60_64": "41485",
+          "usia_65_69": "29349",
+          "usia_70_74": "20554",
+          "usia_75_up": "27132",
+          "tahun": "2023",
+          "usia_0_4": "105746",
+          "usia_5_9": "136537"
+        }
       }
     },
     {
       "nama_wilayah": "MALUKU",
       "kode_wilayah": "81",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2019",
-        "perempuan": "918325",
-        "laki_laki": "941111"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "112172",
+          "usia_15_64_thn": "1300695",
+          "usia_kurang_14_thn": "488047"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "46158.267",
+          "semester": "1",
+          "jumlah_penduduk": "1900914",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "944972",
+          "laki_laki": "955942"
+        },
+        "demografi": {
+          "usia_20_24": "189654",
+          "semester": "1",
+          "usia_15_19": "203968",
+          "usia_10_14": "200508",
+          "usia_25_29": "156647",
+          "usia_30_34": "138128",
+          "usia_35_39": "140559",
+          "usia_40_44": "132004",
+          "usia_45_49": "109723",
+          "usia_50_54": "93060",
+          "usia_55_59": "74547",
+          "usia_60_64": "62405",
+          "usia_65_69": "45194",
+          "usia_70_74": "30336",
+          "usia_75_up": "36642",
+          "tahun": "2023",
+          "usia_0_4": "104247",
+          "usia_5_9": "183292"
+        }
       }
     },
     {
       "nama_wilayah": "MALUKU UTARA",
       "kode_wilayah": "82",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2018",
-        "perempuan": "637647",
-        "laki_laki": "670156"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "60349",
+          "usia_15_64_thn": "967446",
+          "usia_kurang_14_thn": "327008"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "32998.696",
+          "semester": "1",
+          "jumlah_penduduk": "1354803",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "654336",
+          "laki_laki": "700467"
+        },
+        "demografi": {
+          "usia_20_24": "147826",
+          "semester": "1",
+          "usia_15_19": "142920",
+          "usia_10_14": "133521",
+          "usia_25_29": "126556",
+          "usia_30_34": "109252",
+          "usia_35_39": "107156",
+          "usia_40_44": "99065",
+          "usia_45_49": "82902",
+          "usia_50_54": "66510",
+          "usia_55_59": "48143",
+          "usia_60_64": "37116",
+          "usia_65_69": "26876",
+          "usia_70_74": "17423",
+          "usia_75_up": "16050",
+          "tahun": "2023",
+          "usia_0_4": "71755",
+          "usia_5_9": "121732"
+        }
       }
     },
     {
       "nama_wilayah": "P A P U A",
       "kode_wilayah": "91",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2021",
-        "perempuan": "2023758",
-        "laki_laki": "2289328"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "40514",
+          "usia_15_64_thn": "765550",
+          "usia_kurang_14_thn": "271077"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "82680.958",
+          "semester": "1",
+          "jumlah_penduduk": "1077141",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "515103",
+          "laki_laki": "562038"
+        },
+        "demografi": {
+          "usia_20_24": "104795",
+          "semester": "1",
+          "usia_15_19": "107184",
+          "usia_10_14": "112331",
+          "usia_25_29": "98834",
+          "usia_30_34": "97929",
+          "usia_35_39": "92406",
+          "usia_40_44": "79508",
+          "usia_45_49": "62952",
+          "usia_50_54": "51073",
+          "usia_55_59": "40809",
+          "usia_60_64": "30060",
+          "usia_65_69": "19314",
+          "usia_70_74": "10871",
+          "usia_75_up": "10329",
+          "tahun": "2023",
+          "usia_0_4": "57590",
+          "usia_5_9": "101156"
+        }
       }
     },
     {
       "nama_wilayah": "PAPUA BARAT",
       "kode_wilayah": "92",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2019",
-        "perempuan": "546493",
-        "laki_laki": "597786"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "15736",
+          "usia_15_64_thn": "393684",
+          "usia_kurang_14_thn": "152794"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "60275.31",
+          "semester": "1",
+          "jumlah_penduduk": "562214",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "271770",
+          "laki_laki": "290444"
+        },
+        "demografi": {
+          "usia_20_24": "59143",
+          "semester": "1",
+          "usia_15_19": "58146",
+          "usia_10_14": "59774",
+          "usia_25_29": "51871",
+          "usia_30_34": "48253",
+          "usia_35_39": "45762",
+          "usia_40_44": "41047",
+          "usia_45_49": "31733",
+          "usia_50_54": "26121",
+          "usia_55_59": "18915",
+          "usia_60_64": "12693",
+          "usia_65_69": "7410",
+          "usia_70_74": "4548",
+          "usia_75_up": "3778",
+          "tahun": "2023",
+          "usia_0_4": "34299",
+          "usia_5_9": "58721"
+        }
       }
     },
     {
       "nama_wilayah": "PAPUA SELATAN",
       "kode_wilayah": "93",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2022",
-        "perempuan": "250921",
-        "laki_laki": "271923"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "17508",
+          "usia_15_64_thn": "331088",
+          "usia_kurang_14_thn": "178181"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "117849.159",
+          "semester": "1",
+          "jumlah_penduduk": "526777",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "252756",
+          "laki_laki": "274021"
+        },
+        "demografi": {
+          "usia_20_24": "43499",
+          "semester": "1",
+          "usia_15_19": "49714",
+          "usia_10_14": "69042",
+          "usia_25_29": "40474",
+          "usia_30_34": "40347",
+          "usia_35_39": "39027",
+          "usia_40_44": "36317",
+          "usia_45_49": "27738",
+          "usia_50_54": "23086",
+          "usia_55_59": "17560",
+          "usia_60_64": "13326",
+          "usia_65_69": "8065",
+          "usia_70_74": "5167",
+          "usia_75_up": "4276",
+          "tahun": "2023",
+          "usia_0_4": "38283",
+          "usia_5_9": "70856"
+        }
       }
     },
     {
       "nama_wilayah": "PAPUA TENGAH",
       "kode_wilayah": "94",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2022",
-        "perempuan": "632650",
-        "laki_laki": "715813"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "27755",
+          "usia_15_64_thn": "1090748",
+          "usia_kurang_14_thn": "233156"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "61072.913",
+          "semester": "1",
+          "jumlah_penduduk": "1351659",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "634735",
+          "laki_laki": "716924"
+        },
+        "demografi": {
+          "usia_20_24": "151137",
+          "semester": "1",
+          "usia_15_19": "130529",
+          "usia_10_14": "102881",
+          "usia_25_29": "139861",
+          "usia_30_34": "141932",
+          "usia_35_39": "125633",
+          "usia_40_44": "133737",
+          "usia_45_49": "99903",
+          "usia_50_54": "84033",
+          "usia_55_59": "50210",
+          "usia_60_64": "33773",
+          "usia_65_69": "14347",
+          "usia_70_74": "8450",
+          "usia_75_up": "4958",
+          "tahun": "2023",
+          "usia_0_4": "43108",
+          "usia_5_9": "87167"
+        }
       }
     },
     {
       "nama_wilayah": "PAPUA PEGUNUNGAN",
       "kode_wilayah": "95",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2022",
-        "perempuan": "675277",
-        "laki_laki": "784267"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "44259",
+          "usia_15_64_thn": "1267111",
+          "usia_kurang_14_thn": "150122"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "51213.33",
+          "semester": "1",
+          "jumlah_penduduk": "1461492",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "675936",
+          "laki_laki": "785556"
+        },
+        "demografi": {
+          "usia_20_24": "165161",
+          "semester": "1",
+          "usia_15_19": "115649",
+          "usia_10_14": "72926",
+          "usia_25_29": "172329",
+          "usia_30_34": "173627",
+          "usia_35_39": "139002",
+          "usia_40_44": "141339",
+          "usia_45_49": "114860",
+          "usia_50_54": "113337",
+          "usia_55_59": "73935",
+          "usia_60_64": "57872",
+          "usia_65_69": "24733",
+          "usia_70_74": "15030",
+          "usia_75_up": "4496",
+          "tahun": "2023",
+          "usia_0_4": "21473",
+          "usia_5_9": "55723"
+        }
       }
     },
     {
       "nama_wilayah": "PAPUA BARAT DAYA",
       "kode_wilayah": "96",
       "level_wilayah": "provinsi",
-      "population": {
-        "semester": "2",
-        "tahun": "2022",
-        "perempuan": "289160",
-        "laki_laki": "315538"
+      "populasi": {
+        "usia_produktif": {
+          "semester": "1",
+          "tahun": "2023",
+          "usia_diatas_65": "24893",
+          "usia_15_64_thn": "432891",
+          "usia_kurang_14_thn": "149313"
+        },
+        "penduduk": {
+          "jumlah_penduduk_km2": "39122.948",
+          "semester": "1",
+          "jumlah_penduduk": "607097",
+          "tahun": "2023"
+        },
+        "jenis_kelamin": {
+          "semester": "1",
+          "tahun": "2023",
+          "perempuan": "290613",
+          "laki_laki": "316484"
+        },
+        "demografi": {
+          "usia_20_24": "56597",
+          "semester": "1",
+          "usia_15_19": "58844",
+          "usia_10_14": "60062",
+          "usia_25_29": "56348",
+          "usia_30_34": "54920",
+          "usia_35_39": "53352",
+          "usia_40_44": "47243",
+          "usia_45_49": "36737",
+          "usia_50_54": "29549",
+          "usia_55_59": "22409",
+          "usia_60_64": "16892",
+          "usia_65_69": "11141",
+          "usia_70_74": "6995",
+          "usia_75_up": "6757",
+          "tahun": "2023",
+          "usia_0_4": "32726",
+          "usia_5_9": "56525"
+        }
       }
     }
   ]

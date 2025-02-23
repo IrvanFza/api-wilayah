@@ -7,25 +7,41 @@
       "kode_wilayah": "18.01",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "18",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "74668",
-        "usia_20_24": "88760",
-        "usia_5_9": "99031",
-        "usia_10_14": "100489",
-        "usia_0_4_thn": "80848",
-        "usia_25_29": "86786",
-        "usia_30_34": "81220",
-        "usia_35_39": "90505",
-        "usia_40_44": "83477",
-        "usia_45_49": "73365",
-        "usia_50_54": "57910",
-        "usia_55_59": "49130",
-        "usia_60_64": "37532",
-        "usia_65_69": "24864",
-        "usia_70_74": "15449",
-        "usia_75_tahun_ke_atas": "19244",
-        "tahun": "2021"
+      "nama_provinsi": "LAMPUNG",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "553156",
+          "perempuan": "533087",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1095106",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2227.379",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "76770",
+          "usia_20_24": "90558",
+          "usia_5_9": "98849",
+          "usia_10_14": "103427",
+          "usia_0_4_thn": "73169",
+          "usia_25_29": "85972",
+          "usia_30_34": "83051",
+          "usia_35_39": "86156",
+          "usia_40_44": "89158",
+          "usia_45_49": "77584",
+          "usia_50_54": "65363",
+          "usia_55_59": "51256",
+          "usia_60_64": "42248",
+          "usia_65_69": "28531",
+          "usia_70_74": "19206",
+          "usia_75_tahun_ke_atas": "23808",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -33,25 +49,41 @@
       "kode_wilayah": "18.02",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "18",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "114119",
-        "usia_20_24": "122577",
-        "usia_5_9": "118988",
-        "usia_10_14": "126569",
-        "usia_0_4_thn": "92543",
-        "usia_25_29": "109523",
-        "usia_30_34": "102880",
-        "usia_35_39": "108104",
-        "usia_40_44": "106118",
-        "usia_45_49": "97814",
-        "usia_50_54": "79241",
-        "usia_55_59": "66324",
-        "usia_60_64": "54521",
-        "usia_65_69": "35118",
-        "usia_70_74": "23319",
-        "usia_75_tahun_ke_atas": "30336",
-        "tahun": "2021"
+      "nama_provinsi": "LAMPUNG",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "698025",
+          "perempuan": "670273",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1373773",
+          "semester": "1",
+          "jumlah_penduduk_km2": "4559.57",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "98886",
+          "usia_20_24": "107596",
+          "usia_5_9": "113417",
+          "usia_10_14": "123463",
+          "usia_0_4_thn": "82796",
+          "usia_25_29": "104139",
+          "usia_30_34": "102020",
+          "usia_35_39": "103889",
+          "usia_40_44": "109450",
+          "usia_45_49": "101789",
+          "usia_50_54": "89686",
+          "usia_55_59": "69897",
+          "usia_60_64": "60727",
+          "usia_65_69": "40704",
+          "usia_70_74": "28182",
+          "usia_75_tahun_ke_atas": "37132",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -59,25 +91,41 @@
       "kode_wilayah": "18.03",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "18",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "44197",
-        "usia_20_24": "54075",
-        "usia_5_9": "61577",
-        "usia_10_14": "62999",
-        "usia_0_4_thn": "48146",
-        "usia_25_29": "51452",
-        "usia_30_34": "51286",
-        "usia_35_39": "52229",
-        "usia_40_44": "47002",
-        "usia_45_49": "43276",
-        "usia_50_54": "36078",
-        "usia_55_59": "31452",
-        "usia_60_64": "25644",
-        "usia_65_69": "16583",
-        "usia_70_74": "10265",
-        "usia_75_tahun_ke_atas": "12509",
-        "tahun": "2021"
+      "nama_provinsi": "LAMPUNG",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "334565",
+          "perempuan": "323043",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "662946",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2669.304",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "47159",
+          "usia_20_24": "54485",
+          "usia_5_9": "59880",
+          "usia_10_14": "63509",
+          "usia_0_4_thn": "43448",
+          "usia_25_29": "50637",
+          "usia_30_34": "49958",
+          "usia_35_39": "53058",
+          "usia_40_44": "49129",
+          "usia_45_49": "44469",
+          "usia_50_54": "39231",
+          "usia_55_59": "32872",
+          "usia_60_64": "27977",
+          "usia_65_69": "19024",
+          "usia_70_74": "13025",
+          "usia_75_tahun_ke_atas": "15085",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -85,25 +133,41 @@
       "kode_wilayah": "18.04",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "18",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "26557",
-        "usia_20_24": "25063",
-        "usia_5_9": "27599",
-        "usia_10_14": "28717",
-        "usia_0_4_thn": "22275",
-        "usia_25_29": "24078",
-        "usia_30_34": "24894",
-        "usia_35_39": "26936",
-        "usia_40_44": "23343",
-        "usia_45_49": "20866",
-        "usia_50_54": "16928",
-        "usia_55_59": "13906",
-        "usia_60_64": "10631",
-        "usia_65_69": "6632",
-        "usia_70_74": "4279",
-        "usia_75_tahun_ke_atas": "4782",
-        "tahun": "2021"
+      "nama_provinsi": "LAMPUNG",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "159956",
+          "perempuan": "148203",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "309554",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2107.993",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "26324",
+          "usia_20_24": "24369",
+          "usia_5_9": "27612",
+          "usia_10_14": "28098",
+          "usia_0_4_thn": "19336",
+          "usia_25_29": "23242",
+          "usia_30_34": "23603",
+          "usia_35_39": "26404",
+          "usia_40_44": "24423",
+          "usia_45_49": "21577",
+          "usia_50_54": "18620",
+          "usia_55_59": "15010",
+          "usia_60_64": "11670",
+          "usia_65_69": "7761",
+          "usia_70_74": "5312",
+          "usia_75_tahun_ke_atas": "6193",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -111,25 +175,41 @@
       "kode_wilayah": "18.05",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "18",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "36484",
-        "usia_20_24": "36322",
-        "usia_5_9": "39790",
-        "usia_10_14": "40825",
-        "usia_0_4_thn": "28616",
-        "usia_25_29": "35262",
-        "usia_30_34": "35245",
-        "usia_35_39": "35789",
-        "usia_40_44": "32220",
-        "usia_45_49": "30056",
-        "usia_50_54": "24549",
-        "usia_55_59": "18180",
-        "usia_60_64": "13616",
-        "usia_65_69": "8585",
-        "usia_70_74": "5940",
-        "usia_75_tahun_ke_atas": "6748",
-        "tahun": "2021"
+      "nama_provinsi": "LAMPUNG",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "222160",
+          "perempuan": "207146",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "431025",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3116.062",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "37932",
+          "usia_20_24": "36958",
+          "usia_5_9": "38677",
+          "usia_10_14": "41676",
+          "usia_0_4_thn": "24857",
+          "usia_25_29": "33683",
+          "usia_30_34": "35441",
+          "usia_35_39": "34724",
+          "usia_40_44": "32834",
+          "usia_45_49": "29288",
+          "usia_50_54": "26395",
+          "usia_55_59": "19458",
+          "usia_60_64": "14876",
+          "usia_65_69": "9566",
+          "usia_70_74": "6795",
+          "usia_75_tahun_ke_atas": "7865",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -137,25 +217,41 @@
       "kode_wilayah": "18.06",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "18",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "49211",
-        "usia_20_24": "51549",
-        "usia_5_9": "56582",
-        "usia_10_14": "56866",
-        "usia_0_4_thn": "48464",
-        "usia_25_29": "47704",
-        "usia_30_34": "46155",
-        "usia_35_39": "50058",
-        "usia_40_44": "45353",
-        "usia_45_49": "40363",
-        "usia_50_54": "33599",
-        "usia_55_59": "29075",
-        "usia_60_64": "22710",
-        "usia_65_69": "14822",
-        "usia_70_74": "9477",
-        "usia_75_tahun_ke_atas": "10290",
-        "tahun": "2021"
+      "nama_provinsi": "LAMPUNG",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "323356",
+          "perempuan": "302568",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "630719",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2947.592",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "48604",
+          "usia_20_24": "51164",
+          "usia_5_9": "56843",
+          "usia_10_14": "58573",
+          "usia_0_4_thn": "42934",
+          "usia_25_29": "48278",
+          "usia_30_34": "46359",
+          "usia_35_39": "50503",
+          "usia_40_44": "47724",
+          "usia_45_49": "43703",
+          "usia_50_54": "36914",
+          "usia_55_59": "31265",
+          "usia_60_64": "25370",
+          "usia_65_69": "17493",
+          "usia_70_74": "11806",
+          "usia_75_tahun_ke_atas": "13186",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -163,25 +259,41 @@
       "kode_wilayah": "18.07",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "18",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "89021",
-        "usia_20_24": "90144",
-        "usia_5_9": "92032",
-        "usia_10_14": "100809",
-        "usia_0_4_thn": "67294",
-        "usia_25_29": "83684",
-        "usia_30_34": "79062",
-        "usia_35_39": "87804",
-        "usia_40_44": "87852",
-        "usia_45_49": "83254",
-        "usia_50_54": "65114",
-        "usia_55_59": "53198",
-        "usia_60_64": "44806",
-        "usia_65_69": "30695",
-        "usia_70_74": "21415",
-        "usia_75_tahun_ke_atas": "26502",
-        "tahun": "2021"
+      "nama_provinsi": "LAMPUNG",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "561616",
+          "perempuan": "542537",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1108574",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3860.92",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "81601",
+          "usia_20_24": "88977",
+          "usia_5_9": "88031",
+          "usia_10_14": "98486",
+          "usia_0_4_thn": "60830",
+          "usia_25_29": "82644",
+          "usia_30_34": "79919",
+          "usia_35_39": "83584",
+          "usia_40_44": "89344",
+          "usia_45_49": "85612",
+          "usia_50_54": "74136",
+          "usia_55_59": "56576",
+          "usia_60_64": "47956",
+          "usia_65_69": "34527",
+          "usia_70_74": "25009",
+          "usia_75_tahun_ke_atas": "31342",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -189,25 +301,41 @@
       "kode_wilayah": "18.08",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "18",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "39109",
-        "usia_20_24": "39190",
-        "usia_5_9": "44747",
-        "usia_10_14": "45176",
-        "usia_0_4_thn": "37106",
-        "usia_25_29": "38707",
-        "usia_30_34": "38799",
-        "usia_35_39": "40261",
-        "usia_40_44": "35347",
-        "usia_45_49": "30518",
-        "usia_50_54": "24661",
-        "usia_55_59": "21275",
-        "usia_60_64": "17458",
-        "usia_65_69": "11145",
-        "usia_70_74": "7426",
-        "usia_75_tahun_ke_atas": "9117",
-        "tahun": "2021"
+      "nama_provinsi": "LAMPUNG",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "247707",
+          "perempuan": "236177",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "487543",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3522.114",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "37954",
+          "usia_20_24": "39583",
+          "usia_5_9": "43891",
+          "usia_10_14": "46073",
+          "usia_0_4_thn": "33039",
+          "usia_25_29": "37237",
+          "usia_30_34": "38012",
+          "usia_35_39": "40375",
+          "usia_40_44": "37676",
+          "usia_45_49": "32147",
+          "usia_50_54": "27449",
+          "usia_55_59": "22153",
+          "usia_60_64": "19210",
+          "usia_65_69": "12829",
+          "usia_70_74": "8949",
+          "usia_75_tahun_ke_atas": "10966",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -215,25 +343,41 @@
       "kode_wilayah": "18.09",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "18",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "38810",
-        "usia_20_24": "38784",
-        "usia_5_9": "43599",
-        "usia_10_14": "43851",
-        "usia_0_4_thn": "36862",
-        "usia_25_29": "36030",
-        "usia_30_34": "34320",
-        "usia_35_39": "39334",
-        "usia_40_44": "36061",
-        "usia_45_49": "31794",
-        "usia_50_54": "26092",
-        "usia_55_59": "21886",
-        "usia_60_64": "18348",
-        "usia_65_69": "12471",
-        "usia_70_74": "8276",
-        "usia_75_tahun_ke_atas": "10816",
-        "tahun": "2021"
+      "nama_provinsi": "LAMPUNG",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "247396",
+          "perempuan": "234180",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "485671",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1288.079",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "31273",
+          "usia_20_24": "39096",
+          "usia_5_9": "43728",
+          "usia_10_14": "45782",
+          "usia_0_4_thn": "32127",
+          "usia_25_29": "36481",
+          "usia_30_34": "35389",
+          "usia_35_39": "38294",
+          "usia_40_44": "38851",
+          "usia_45_49": "34043",
+          "usia_50_54": "29361",
+          "usia_55_59": "23278",
+          "usia_60_64": "19910",
+          "usia_65_69": "14503",
+          "usia_70_74": "10290",
+          "usia_75_tahun_ke_atas": "13265",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -241,25 +385,41 @@
       "kode_wilayah": "18.10",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "18",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "30234",
-        "usia_20_24": "35370",
-        "usia_5_9": "36347",
-        "usia_10_14": "36921",
-        "usia_0_4_thn": "28519",
-        "usia_25_29": "32815",
-        "usia_30_34": "30967",
-        "usia_35_39": "33225",
-        "usia_40_44": "31402",
-        "usia_45_49": "29539",
-        "usia_50_54": "24801",
-        "usia_55_59": "21113",
-        "usia_60_64": "16792",
-        "usia_65_69": "11343",
-        "usia_70_74": "7464",
-        "usia_75_tahun_ke_atas": "9290",
-        "tahun": "2021"
+      "nama_provinsi": "LAMPUNG",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "220225",
+          "perempuan": "210087",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "433624",
+          "semester": "1",
+          "jumlah_penduduk_km2": "617.192",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "31180",
+          "usia_20_24": "35988",
+          "usia_5_9": "36398",
+          "usia_10_14": "38426",
+          "usia_0_4_thn": "26900",
+          "usia_25_29": "33450",
+          "usia_30_34": "31872",
+          "usia_35_39": "32844",
+          "usia_40_44": "33531",
+          "usia_45_49": "30642",
+          "usia_50_54": "27711",
+          "usia_55_59": "22643",
+          "usia_60_64": "18791",
+          "usia_65_69": "12947",
+          "usia_70_74": "9193",
+          "usia_75_tahun_ke_atas": "11108",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -267,25 +427,41 @@
       "kode_wilayah": "18.11",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "18",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "17658",
-        "usia_20_24": "19060",
-        "usia_5_9": "21407",
-        "usia_10_14": "21301",
-        "usia_0_4_thn": "16516",
-        "usia_25_29": "21406",
-        "usia_30_34": "20494",
-        "usia_35_39": "20011",
-        "usia_40_44": "17114",
-        "usia_45_49": "14292",
-        "usia_50_54": "11724",
-        "usia_55_59": "9761",
-        "usia_60_64": "7906",
-        "usia_65_69": "5030",
-        "usia_70_74": "3746",
-        "usia_75_tahun_ke_atas": "4230",
-        "tahun": "2021"
+      "nama_provinsi": "LAMPUNG",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "119915",
+          "perempuan": "112402",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "234061",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2200.414",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "17834",
+          "usia_20_24": "18027",
+          "usia_5_9": "21036",
+          "usia_10_14": "22158",
+          "usia_0_4_thn": "15061",
+          "usia_25_29": "18706",
+          "usia_30_34": "19986",
+          "usia_35_39": "19479",
+          "usia_40_44": "18583",
+          "usia_45_49": "15374",
+          "usia_50_54": "13190",
+          "usia_55_59": "10477",
+          "usia_60_64": "8718",
+          "usia_65_69": "5833",
+          "usia_70_74": "4459",
+          "usia_75_tahun_ke_atas": "5140",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -293,25 +469,41 @@
       "kode_wilayah": "18.12",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "18",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "18714",
-        "usia_20_24": "23064",
-        "usia_5_9": "26911",
-        "usia_10_14": "26922",
-        "usia_0_4_thn": "20664",
-        "usia_25_29": "24727",
-        "usia_30_34": "24900",
-        "usia_35_39": "25382",
-        "usia_40_44": "22229",
-        "usia_45_49": "20266",
-        "usia_50_54": "16837",
-        "usia_55_59": "14957",
-        "usia_60_64": "11454",
-        "usia_65_69": "7551",
-        "usia_70_74": "5007",
-        "usia_75_tahun_ke_atas": "7080",
-        "tahun": "2021"
+      "nama_provinsi": "LAMPUNG",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "154373",
+          "perempuan": "148196",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "305113",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1257.088",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "20968",
+          "usia_20_24": "23090",
+          "usia_5_9": "26628",
+          "usia_10_14": "28569",
+          "usia_0_4_thn": "18268",
+          "usia_25_29": "23592",
+          "usia_30_34": "24854",
+          "usia_35_39": "24944",
+          "usia_40_44": "23988",
+          "usia_45_49": "20483",
+          "usia_50_54": "18769",
+          "usia_55_59": "15351",
+          "usia_60_64": "12781",
+          "usia_65_69": "8521",
+          "usia_70_74": "6004",
+          "usia_75_tahun_ke_atas": "8303",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -319,25 +511,41 @@
       "kode_wilayah": "18.13",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "18",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "12668",
-        "usia_20_24": "13822",
-        "usia_5_9": "16730",
-        "usia_10_14": "16550",
-        "usia_0_4_thn": "13869",
-        "usia_25_29": "13565",
-        "usia_30_34": "12809",
-        "usia_35_39": "13252",
-        "usia_40_44": "11585",
-        "usia_45_49": "10074",
-        "usia_50_54": "8255",
-        "usia_55_59": "7444",
-        "usia_60_64": "5554",
-        "usia_65_69": "3689",
-        "usia_70_74": "2352",
-        "usia_75_tahun_ke_atas": "2490",
-        "tahun": "2021"
+      "nama_provinsi": "LAMPUNG",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "88101",
+          "perempuan": "81844",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "171247",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2939.598",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "13918",
+          "usia_20_24": "14455",
+          "usia_5_9": "17006",
+          "usia_10_14": "16970",
+          "usia_0_4_thn": "12774",
+          "usia_25_29": "13568",
+          "usia_30_34": "13071",
+          "usia_35_39": "13444",
+          "usia_40_44": "12473",
+          "usia_45_49": "10700",
+          "usia_50_54": "9021",
+          "usia_55_59": "7740",
+          "usia_60_64": "6194",
+          "usia_65_69": "4185",
+          "usia_70_74": "2761",
+          "usia_75_tahun_ke_atas": "2967",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -345,25 +553,41 @@
       "kode_wilayah": "18.71",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "18",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "96924",
-        "usia_20_24": "96199",
-        "usia_5_9": "99869",
-        "usia_10_14": "97535",
-        "usia_0_4_thn": "74683",
-        "usia_25_29": "104908",
-        "usia_30_34": "112053",
-        "usia_35_39": "108108",
-        "usia_40_44": "88878",
-        "usia_45_49": "76896",
-        "usia_50_54": "64396",
-        "usia_55_59": "52791",
-        "usia_60_64": "39380",
-        "usia_65_69": "26079",
-        "usia_70_74": "16807",
-        "usia_75_tahun_ke_atas": "25368",
-        "tahun": "2018"
+      "nama_provinsi": "LAMPUNG",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "555573",
+          "perempuan": "541363",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1096936",
+          "semester": "1",
+          "jumlah_penduduk_km2": "183.745",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "92046",
+          "usia_20_24": "91794",
+          "usia_5_9": "95104",
+          "usia_10_14": "99132",
+          "usia_0_4_thn": "68022",
+          "usia_25_29": "90159",
+          "usia_30_34": "91992",
+          "usia_35_39": "89190",
+          "usia_40_44": "84256",
+          "usia_45_49": "71907",
+          "usia_50_54": "63551",
+          "usia_55_59": "52420",
+          "usia_60_64": "41432",
+          "usia_65_69": "29103",
+          "usia_70_74": "17479",
+          "usia_75_tahun_ke_atas": "19349",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -371,25 +595,41 @@
       "kode_wilayah": "18.72",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "18",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "14217",
-        "usia_20_24": "13609",
-        "usia_5_9": "14920",
-        "usia_10_14": "14009",
-        "usia_0_4_thn": "13832",
-        "usia_25_29": "13216",
-        "usia_30_34": "13111",
-        "usia_35_39": "13728",
-        "usia_40_44": "13378",
-        "usia_45_49": "12106",
-        "usia_50_54": "10201",
-        "usia_55_59": "8290",
-        "usia_60_64": "6195",
-        "usia_65_69": "4280",
-        "usia_70_74": "2274",
-        "usia_75_tahun_ke_atas": "3486",
-        "tahun": "2019"
+      "nama_provinsi": "LAMPUNG",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "88234",
+          "perempuan": "87298",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "175532",
+          "semester": "1",
+          "jumlah_penduduk_km2": "73.214",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "12726",
+          "usia_20_24": "14163",
+          "usia_5_9": "14518",
+          "usia_10_14": "15230",
+          "usia_0_4_thn": "10974",
+          "usia_25_29": "14252",
+          "usia_30_34": "13238",
+          "usia_35_39": "13002",
+          "usia_40_44": "13527",
+          "usia_45_49": "12936",
+          "usia_50_54": "11760",
+          "usia_55_59": "9363",
+          "usia_60_64": "7485",
+          "usia_65_69": "5339",
+          "usia_70_74": "3401",
+          "usia_75_tahun_ke_atas": "3618",
+          "tahun": "2023"
+        }
       }
     }
   ]

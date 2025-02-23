@@ -7,25 +7,41 @@
       "kode_wilayah": "72.01",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "72",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "36821",
-        "usia_20_24": "33655",
-        "usia_5_9": "30625",
-        "usia_10_14": "32253",
-        "usia_0_4_thn": "22770",
-        "usia_25_29": "27791",
-        "usia_30_34": "27214",
-        "usia_35_39": "30247",
-        "usia_40_44": "28840",
-        "usia_45_49": "25832",
-        "usia_50_54": "21429",
-        "usia_55_59": "17082",
-        "usia_60_64": "12585",
-        "usia_65_69": "9166",
-        "usia_70_74": "6115",
-        "usia_75_tahun_ke_atas": "7178",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "188536",
+          "perempuan": "181982",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "372002",
+          "semester": "1",
+          "jumlah_penduduk_km2": "8252.882",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "35086",
+          "usia_20_24": "35073",
+          "usia_5_9": "31326",
+          "usia_10_14": "32442",
+          "usia_0_4_thn": "21535",
+          "usia_25_29": "27522",
+          "usia_30_34": "26296",
+          "usia_35_39": "27101",
+          "usia_40_44": "29580",
+          "usia_45_49": "25973",
+          "usia_50_54": "23625",
+          "usia_55_59": "17843",
+          "usia_60_64": "13601",
+          "usia_65_69": "9976",
+          "usia_70_74": "6883",
+          "usia_75_tahun_ke_atas": "8140",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -33,25 +49,41 @@
       "kode_wilayah": "72.02",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "72",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "24257",
-        "usia_20_24": "22352",
-        "usia_5_9": "18876",
-        "usia_10_14": "21413",
-        "usia_0_4_thn": "12375",
-        "usia_25_29": "18981",
-        "usia_30_34": "18110",
-        "usia_35_39": "19849",
-        "usia_40_44": "19886",
-        "usia_45_49": "18073",
-        "usia_50_54": "14942",
-        "usia_55_59": "12241",
-        "usia_60_64": "9496",
-        "usia_65_69": "7029",
-        "usia_70_74": "4506",
-        "usia_75_tahun_ke_atas": "6511",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "128565",
+          "perempuan": "121017",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "250584",
+          "semester": "1",
+          "jumlah_penduduk_km2": "7545.93",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "23048",
+          "usia_20_24": "23100",
+          "usia_5_9": "18774",
+          "usia_10_14": "20684",
+          "usia_0_4_thn": "12316",
+          "usia_25_29": "18958",
+          "usia_30_34": "17984",
+          "usia_35_39": "18193",
+          "usia_40_44": "20554",
+          "usia_45_49": "18188",
+          "usia_50_54": "16451",
+          "usia_55_59": "12699",
+          "usia_60_64": "9938",
+          "usia_65_69": "7793",
+          "usia_70_74": "5086",
+          "usia_75_tahun_ke_atas": "6818",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -59,25 +91,41 @@
       "kode_wilayah": "72.03",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "72",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "31089",
-        "usia_20_24": "28438",
-        "usia_5_9": "28607",
-        "usia_10_14": "31721",
-        "usia_0_4_thn": "19919",
-        "usia_25_29": "23578",
-        "usia_30_34": "21375",
-        "usia_35_39": "22745",
-        "usia_40_44": "22080",
-        "usia_45_49": "21039",
-        "usia_50_54": "17686",
-        "usia_55_59": "13552",
-        "usia_60_64": "9689",
-        "usia_65_69": "6700",
-        "usia_70_74": "4062",
-        "usia_75_tahun_ke_atas": "4440",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "158718",
+          "perempuan": "150426",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "311333",
+          "semester": "1",
+          "jumlah_penduduk_km2": "5126.586",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "29280",
+          "usia_20_24": "29535",
+          "usia_5_9": "28776",
+          "usia_10_14": "30567",
+          "usia_0_4_thn": "17432",
+          "usia_25_29": "24402",
+          "usia_30_34": "22179",
+          "usia_35_39": "21488",
+          "usia_40_44": "23152",
+          "usia_45_49": "20914",
+          "usia_50_54": "19408",
+          "usia_55_59": "14920",
+          "usia_60_64": "11015",
+          "usia_65_69": "7517",
+          "usia_70_74": "5147",
+          "usia_75_tahun_ke_atas": "5601",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -85,25 +133,41 @@
       "kode_wilayah": "72.04",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "72",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "19959",
-        "usia_20_24": "20553",
-        "usia_5_9": "22292",
-        "usia_10_14": "22266",
-        "usia_0_4_thn": "18341",
-        "usia_25_29": "18130",
-        "usia_30_34": "16541",
-        "usia_35_39": "17675",
-        "usia_40_44": "16901",
-        "usia_45_49": "15710",
-        "usia_50_54": "13185",
-        "usia_55_59": "9954",
-        "usia_60_64": "7150",
-        "usia_65_69": "4969",
-        "usia_70_74": "3173",
-        "usia_75_tahun_ke_atas": "3405",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "119268",
+          "perempuan": "114729",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "236111",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3700.369",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "18961",
+          "usia_20_24": "22673",
+          "usia_5_9": "22694",
+          "usia_10_14": "22375",
+          "usia_0_4_thn": "16651",
+          "usia_25_29": "18068",
+          "usia_30_34": "17040",
+          "usia_35_39": "16640",
+          "usia_40_44": "17908",
+          "usia_45_49": "15826",
+          "usia_50_54": "14695",
+          "usia_55_59": "10939",
+          "usia_60_64": "8039",
+          "usia_65_69": "5527",
+          "usia_70_74": "3863",
+          "usia_75_tahun_ke_atas": "4212",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -111,25 +175,41 @@
       "kode_wilayah": "72.05",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "72",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "14583",
-        "usia_20_24": "15635",
-        "usia_5_9": "15266",
-        "usia_10_14": "15600",
-        "usia_0_4_thn": "13399",
-        "usia_25_29": "12028",
-        "usia_30_34": "10309",
-        "usia_35_39": "11503",
-        "usia_40_44": "10072",
-        "usia_45_49": "9377",
-        "usia_50_54": "7865",
-        "usia_55_59": "5866",
-        "usia_60_64": "3855",
-        "usia_65_69": "2860",
-        "usia_70_74": "1472",
-        "usia_75_tahun_ke_atas": "1594",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "79588",
+          "perempuan": "75761",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "156594",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3723.578",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "13808",
+          "usia_20_24": "17201",
+          "usia_5_9": "16240",
+          "usia_10_14": "15506",
+          "usia_0_4_thn": "12180",
+          "usia_25_29": "12804",
+          "usia_30_34": "10918",
+          "usia_35_39": "10723",
+          "usia_40_44": "11077",
+          "usia_45_49": "9497",
+          "usia_50_54": "8784",
+          "usia_55_59": "6429",
+          "usia_60_64": "4366",
+          "usia_65_69": "3241",
+          "usia_70_74": "1951",
+          "usia_75_tahun_ke_atas": "1869",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -137,25 +217,41 @@
       "kode_wilayah": "72.06",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "72",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "11188",
-        "usia_20_24": "20187",
-        "usia_5_9": "15991",
-        "usia_10_14": "14244",
-        "usia_0_4_thn": "15067",
-        "usia_25_29": "19770",
-        "usia_30_34": "15285",
-        "usia_35_39": "13520",
-        "usia_40_44": "10519",
-        "usia_45_49": "8664",
-        "usia_50_54": "7095",
-        "usia_55_59": "5231",
-        "usia_60_64": "3896",
-        "usia_65_69": "2590",
-        "usia_70_74": "1591",
-        "usia_75_tahun_ke_atas": "1747",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "94637",
+          "perempuan": "80686",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "179225",
+          "semester": "1",
+          "jumlah_penduduk_km2": "4486.891",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "11232",
+          "usia_20_24": "19474",
+          "usia_5_9": "16924",
+          "usia_10_14": "15093",
+          "usia_0_4_thn": "15981",
+          "usia_25_29": "22150",
+          "usia_30_34": "17229",
+          "usia_35_39": "14599",
+          "usia_40_44": "12239",
+          "usia_45_49": "9226",
+          "usia_50_54": "8022",
+          "usia_55_59": "5881",
+          "usia_60_64": "4261",
+          "usia_65_69": "2967",
+          "usia_70_74": "1921",
+          "usia_75_tahun_ke_atas": "2026",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -163,25 +259,41 @@
       "kode_wilayah": "72.07",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "72",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "12326",
-        "usia_20_24": "11813",
-        "usia_5_9": "11096",
-        "usia_10_14": "11864",
-        "usia_0_4_thn": "8115",
-        "usia_25_29": "9074",
-        "usia_30_34": "8449",
-        "usia_35_39": "9779",
-        "usia_40_44": "9255",
-        "usia_45_49": "8419",
-        "usia_50_54": "7040",
-        "usia_55_59": "5609",
-        "usia_60_64": "4066",
-        "usia_65_69": "3073",
-        "usia_70_74": "1781",
-        "usia_75_tahun_ke_atas": "2311",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "63295",
+          "perempuan": "61735",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "126040",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2385.073",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "10812",
+          "usia_20_24": "12475",
+          "usia_5_9": "11113",
+          "usia_10_14": "11619",
+          "usia_0_4_thn": "7677",
+          "usia_25_29": "9600",
+          "usia_30_34": "8778",
+          "usia_35_39": "8907",
+          "usia_40_44": "9834",
+          "usia_45_49": "8676",
+          "usia_50_54": "7658",
+          "usia_55_59": "6071",
+          "usia_60_64": "4493",
+          "usia_65_69": "3432",
+          "usia_70_74": "2154",
+          "usia_75_tahun_ke_atas": "2741",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -189,25 +301,41 @@
       "kode_wilayah": "72.08",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "72",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "48664",
-        "usia_20_24": "43589",
-        "usia_5_9": "37455",
-        "usia_10_14": "42714",
-        "usia_0_4_thn": "24929",
-        "usia_25_29": "35100",
-        "usia_30_34": "33077",
-        "usia_35_39": "35022",
-        "usia_40_44": "35198",
-        "usia_45_49": "31920",
-        "usia_50_54": "26401",
-        "usia_55_59": "19720",
-        "usia_60_64": "14460",
-        "usia_65_69": "9887",
-        "usia_70_74": "6378",
-        "usia_75_tahun_ke_atas": "6979",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "231689",
+          "perempuan": "221007",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "454509",
+          "semester": "1",
+          "jumlah_penduduk_km2": "5805.61",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "45647",
+          "usia_20_24": "44086",
+          "usia_5_9": "39895",
+          "usia_10_14": "42612",
+          "usia_0_4_thn": "26609",
+          "usia_25_29": "34592",
+          "usia_30_34": "32019",
+          "usia_35_39": "30990",
+          "usia_40_44": "35608",
+          "usia_45_49": "31897",
+          "usia_50_54": "28701",
+          "usia_55_59": "21120",
+          "usia_60_64": "15266",
+          "usia_65_69": "10973",
+          "usia_70_74": "6861",
+          "usia_75_tahun_ke_atas": "7633",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -215,25 +343,41 @@
       "kode_wilayah": "72.09",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "72",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "16377",
-        "usia_20_24": "15887",
-        "usia_5_9": "15581",
-        "usia_10_14": "16239",
-        "usia_0_4_thn": "12862",
-        "usia_25_29": "12462",
-        "usia_30_34": "12156",
-        "usia_35_39": "12827",
-        "usia_40_44": "11944",
-        "usia_45_49": "10901",
-        "usia_50_54": "8850",
-        "usia_55_59": "7024",
-        "usia_60_64": "5153",
-        "usia_65_69": "3555",
-        "usia_70_74": "2150",
-        "usia_75_tahun_ke_atas": "2463",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "85692",
+          "perempuan": "82054",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "169399",
+          "semester": "1",
+          "jumlah_penduduk_km2": "5572.856",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "15429",
+          "usia_20_24": "16493",
+          "usia_5_9": "15446",
+          "usia_10_14": "16067",
+          "usia_0_4_thn": "11773",
+          "usia_25_29": "13155",
+          "usia_30_34": "12169",
+          "usia_35_39": "12396",
+          "usia_40_44": "12735",
+          "usia_45_49": "11114",
+          "usia_50_54": "9986",
+          "usia_55_59": "7389",
+          "usia_60_64": "5660",
+          "usia_65_69": "4119",
+          "usia_70_74": "2494",
+          "usia_75_tahun_ke_atas": "2974",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -241,25 +385,41 @@
       "kode_wilayah": "72.10",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "72",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "22169",
-        "usia_20_24": "22533",
-        "usia_5_9": "23166",
-        "usia_10_14": "24219",
-        "usia_0_4_thn": "18815",
-        "usia_25_29": "20374",
-        "usia_30_34": "19900",
-        "usia_35_39": "20773",
-        "usia_40_44": "20076",
-        "usia_45_49": "18178",
-        "usia_50_54": "15216",
-        "usia_55_59": "11531",
-        "usia_60_64": "8320",
-        "usia_65_69": "5906",
-        "usia_70_74": "3486",
-        "usia_75_tahun_ke_atas": "4028",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "134209",
+          "perempuan": "127950",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "264667",
+          "semester": "1",
+          "jumlah_penduduk_km2": "5225.435",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "19885",
+          "usia_20_24": "24488",
+          "usia_5_9": "23541",
+          "usia_10_14": "23817",
+          "usia_0_4_thn": "16627",
+          "usia_25_29": "21172",
+          "usia_30_34": "20573",
+          "usia_35_39": "19937",
+          "usia_40_44": "21360",
+          "usia_45_49": "18751",
+          "usia_50_54": "16804",
+          "usia_55_59": "12426",
+          "usia_60_64": "9245",
+          "usia_65_69": "6738",
+          "usia_70_74": "4297",
+          "usia_75_tahun_ke_atas": "5006",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -267,25 +427,41 @@
       "kode_wilayah": "72.11",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "72",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "7363",
-        "usia_20_24": "6655",
-        "usia_5_9": "7655",
-        "usia_10_14": "7675",
-        "usia_0_4_thn": "5544",
-        "usia_25_29": "5894",
-        "usia_30_34": "5859",
-        "usia_35_39": "5910",
-        "usia_40_44": "5219",
-        "usia_45_49": "4549",
-        "usia_50_54": "3616",
-        "usia_55_59": "2685",
-        "usia_60_64": "2104",
-        "usia_65_69": "1411",
-        "usia_70_74": "734",
-        "usia_75_tahun_ke_atas": "769",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "37675",
+          "perempuan": "37245",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "75495",
+          "semester": "1",
+          "jumlah_penduduk_km2": "688.151",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "7421",
+          "usia_20_24": "7372",
+          "usia_5_9": "7540",
+          "usia_10_14": "7644",
+          "usia_0_4_thn": "4659",
+          "usia_25_29": "5961",
+          "usia_30_34": "6053",
+          "usia_35_39": "5754",
+          "usia_40_44": "5678",
+          "usia_45_49": "4758",
+          "usia_50_54": "4008",
+          "usia_55_59": "2973",
+          "usia_60_64": "2192",
+          "usia_65_69": "1637",
+          "usia_70_74": "935",
+          "usia_75_tahun_ke_atas": "910",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -293,25 +469,41 @@
       "kode_wilayah": "72.12",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "72",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "11245",
-        "usia_20_24": "13729",
-        "usia_5_9": "11705",
-        "usia_10_14": "12136",
-        "usia_0_4_thn": "8713",
-        "usia_25_29": "11906",
-        "usia_30_34": "10309",
-        "usia_35_39": "10347",
-        "usia_40_44": "9272",
-        "usia_45_49": "8216",
-        "usia_50_54": "6708",
-        "usia_55_59": "5354",
-        "usia_60_64": "3939",
-        "usia_65_69": "2765",
-        "usia_70_74": "1708",
-        "usia_75_tahun_ke_atas": "2226",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "78599",
+          "perempuan": "65890",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "145686",
+          "semester": "1",
+          "jumlah_penduduk_km2": "8736.006",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "10027",
+          "usia_20_24": "18327",
+          "usia_5_9": "12075",
+          "usia_10_14": "12220",
+          "usia_0_4_thn": "9401",
+          "usia_25_29": "15918",
+          "usia_30_34": "11901",
+          "usia_35_39": "10954",
+          "usia_40_44": "10483",
+          "usia_45_49": "8740",
+          "usia_50_54": "7534",
+          "usia_55_59": "5819",
+          "usia_60_64": "4343",
+          "usia_65_69": "3205",
+          "usia_70_74": "2145",
+          "usia_75_tahun_ke_atas": "2594",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -319,25 +511,41 @@
       "kode_wilayah": "72.71",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "72",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "34552",
-        "usia_20_24": "31722",
-        "usia_5_9": "33269",
-        "usia_10_14": "34006",
-        "usia_0_4_thn": "31388",
-        "usia_25_29": "32840",
-        "usia_30_34": "31100",
-        "usia_35_39": "30364",
-        "usia_40_44": "26379",
-        "usia_45_49": "24055",
-        "usia_50_54": "20279",
-        "usia_55_59": "15216",
-        "usia_60_64": "11014",
-        "usia_65_69": "7009",
-        "usia_70_74": "4074",
-        "usia_75_tahun_ke_atas": "3418",
-        "tahun": "2019"
+      "nama_provinsi": "SULAWESI TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "191478",
+          "perempuan": "190539",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "382017",
+          "semester": "1",
+          "jumlah_penduduk_km2": "356.351",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "27119",
+          "usia_20_24": "34348",
+          "usia_5_9": "34842",
+          "usia_10_14": "33741",
+          "usia_0_4_thn": "28674",
+          "usia_25_29": "33688",
+          "usia_30_34": "33407",
+          "usia_35_39": "30006",
+          "usia_40_44": "29497",
+          "usia_45_49": "24995",
+          "usia_50_54": "22629",
+          "usia_55_59": "18074",
+          "usia_60_64": "12758",
+          "usia_65_69": "8547",
+          "usia_70_74": "5027",
+          "usia_75_tahun_ke_atas": "4665",
+          "tahun": "2023"
+        }
       }
     }
   ]

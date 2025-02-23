@@ -7,25 +7,41 @@
       "kode_wilayah": "15.01",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "15",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "16751",
-        "usia_20_24": "20806",
-        "usia_5_9": "20367",
-        "usia_10_14": "20844",
-        "usia_0_4_thn": "16590",
-        "usia_25_29": "18825",
-        "usia_30_34": "17615",
-        "usia_35_39": "19756",
-        "usia_40_44": "21756",
-        "usia_45_49": "20054",
-        "usia_50_54": "15002",
-        "usia_55_59": "13742",
-        "usia_60_64": "11624",
-        "usia_65_69": "9289",
-        "usia_70_74": "5193",
-        "usia_75_tahun_ke_atas": "6027",
-        "tahun": "2021"
+      "nama_provinsi": "JAMBI",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "130959",
+          "perempuan": "131011",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "264139",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3445.196",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "16836",
+          "usia_20_24": "21792",
+          "usia_5_9": "20760",
+          "usia_10_14": "21387",
+          "usia_0_4_thn": "14946",
+          "usia_25_29": "19472",
+          "usia_30_34": "17875",
+          "usia_35_39": "18956",
+          "usia_40_44": "21922",
+          "usia_45_49": "21775",
+          "usia_50_54": "16940",
+          "usia_55_59": "14222",
+          "usia_60_64": "12506",
+          "usia_65_69": "10482",
+          "usia_70_74": "6932",
+          "usia_75_tahun_ke_atas": "7336",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -33,25 +49,41 @@
       "kode_wilayah": "15.02",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "15",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "25890",
-        "usia_20_24": "31330",
-        "usia_5_9": "36268",
-        "usia_10_14": "36591",
-        "usia_0_4_thn": "27206",
-        "usia_25_29": "30143",
-        "usia_30_34": "30180",
-        "usia_35_39": "32201",
-        "usia_40_44": "29023",
-        "usia_45_49": "24671",
-        "usia_50_54": "19299",
-        "usia_55_59": "15542",
-        "usia_60_64": "12291",
-        "usia_65_69": "7153",
-        "usia_70_74": "4091",
-        "usia_75_tahun_ke_atas": "3943",
-        "tahun": "2021"
+      "nama_provinsi": "JAMBI",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "193196",
+          "perempuan": "187127",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "383676",
+          "semester": "1",
+          "jumlah_penduduk_km2": "7540.118",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "27390",
+          "usia_20_24": "33394",
+          "usia_5_9": "36311",
+          "usia_10_14": "37784",
+          "usia_0_4_thn": "25290",
+          "usia_25_29": "31469",
+          "usia_30_34": "30697",
+          "usia_35_39": "31887",
+          "usia_40_44": "32159",
+          "usia_45_49": "26106",
+          "usia_50_54": "21843",
+          "usia_55_59": "16742",
+          "usia_60_64": "13530",
+          "usia_65_69": "8896",
+          "usia_70_74": "5272",
+          "usia_75_tahun_ke_atas": "4906",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -59,25 +91,41 @@
       "kode_wilayah": "15.03",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "15",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "22248",
-        "usia_20_24": "24710",
-        "usia_5_9": "29039",
-        "usia_10_14": "29497",
-        "usia_0_4_thn": "21238",
-        "usia_25_29": "23236",
-        "usia_30_34": "23151",
-        "usia_35_39": "24220",
-        "usia_40_44": "22028",
-        "usia_45_49": "18315",
-        "usia_50_54": "14692",
-        "usia_55_59": "11488",
-        "usia_60_64": "8460",
-        "usia_65_69": "5142",
-        "usia_70_74": "2709",
-        "usia_75_tahun_ke_atas": "2980",
-        "tahun": "2021"
+      "nama_provinsi": "JAMBI",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "153106",
+          "perempuan": "147354",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "302994",
+          "semester": "1",
+          "jumlah_penduduk_km2": "5935.894",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "25548",
+          "usia_20_24": "26759",
+          "usia_5_9": "29570",
+          "usia_10_14": "30416",
+          "usia_0_4_thn": "20914",
+          "usia_25_29": "24528",
+          "usia_30_34": "23857",
+          "usia_35_39": "24241",
+          "usia_40_44": "24361",
+          "usia_45_49": "19679",
+          "usia_50_54": "16510",
+          "usia_55_59": "12822",
+          "usia_60_64": "9859",
+          "usia_65_69": "6414",
+          "usia_70_74": "3617",
+          "usia_75_tahun_ke_atas": "3899",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -85,25 +133,41 @@
       "kode_wilayah": "15.04",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "15",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "28915",
-        "usia_20_24": "26143",
-        "usia_5_9": "27279",
-        "usia_10_14": "29009",
-        "usia_0_4_thn": "21661",
-        "usia_25_29": "23965",
-        "usia_30_34": "25099",
-        "usia_35_39": "26812",
-        "usia_40_44": "24068",
-        "usia_45_49": "20827",
-        "usia_50_54": "16743",
-        "usia_55_59": "13353",
-        "usia_60_64": "9770",
-        "usia_65_69": "6407",
-        "usia_70_74": "3237",
-        "usia_75_tahun_ke_atas": "3454",
-        "tahun": "2021"
+      "nama_provinsi": "JAMBI",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "157566",
+          "perempuan": "149955",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "308753",
+          "semester": "1",
+          "jumlah_penduduk_km2": "5387.516",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "29002",
+          "usia_20_24": "27907",
+          "usia_5_9": "26982",
+          "usia_10_14": "28680",
+          "usia_0_4_thn": "19431",
+          "usia_25_29": "23619",
+          "usia_30_34": "23674",
+          "usia_35_39": "25934",
+          "usia_40_44": "26005",
+          "usia_45_49": "20529",
+          "usia_50_54": "17408",
+          "usia_55_59": "13850",
+          "usia_60_64": "10485",
+          "usia_65_69": "7294",
+          "usia_70_74": "3891",
+          "usia_75_tahun_ke_atas": "4062",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -111,25 +175,41 @@
       "kode_wilayah": "15.05",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "15",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "29261",
-        "usia_20_24": "34783",
-        "usia_5_9": "38276",
-        "usia_10_14": "38696",
-        "usia_0_4_thn": "32523",
-        "usia_25_29": "33299",
-        "usia_30_34": "34273",
-        "usia_35_39": "37873",
-        "usia_40_44": "34434",
-        "usia_45_49": "29694",
-        "usia_50_54": "23473",
-        "usia_55_59": "17869",
-        "usia_60_64": "12178",
-        "usia_65_69": "7607",
-        "usia_70_74": "3968",
-        "usia_75_tahun_ke_atas": "3845",
-        "tahun": "2021"
+      "nama_provinsi": "JAMBI",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "221637",
+          "perempuan": "208908",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "435678",
+          "semester": "1",
+          "jumlah_penduduk_km2": "5225.796",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "28899",
+          "usia_20_24": "37485",
+          "usia_5_9": "40204",
+          "usia_10_14": "41392",
+          "usia_0_4_thn": "30943",
+          "usia_25_29": "34523",
+          "usia_30_34": "34643",
+          "usia_35_39": "37000",
+          "usia_40_44": "37892",
+          "usia_45_49": "31847",
+          "usia_50_54": "26385",
+          "usia_55_59": "20432",
+          "usia_60_64": "14376",
+          "usia_65_69": "9528",
+          "usia_70_74": "5093",
+          "usia_75_tahun_ke_atas": "5036",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -137,25 +217,41 @@
       "kode_wilayah": "15.06",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "15",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "29668",
-        "usia_20_24": "28040",
-        "usia_5_9": "30359",
-        "usia_10_14": "31374",
-        "usia_0_4_thn": "23493",
-        "usia_25_29": "25191",
-        "usia_30_34": "24939",
-        "usia_35_39": "28024",
-        "usia_40_44": "25189",
-        "usia_45_49": "22261",
-        "usia_50_54": "17848",
-        "usia_55_59": "13127",
-        "usia_60_64": "9941",
-        "usia_65_69": "6174",
-        "usia_70_74": "3809",
-        "usia_75_tahun_ke_atas": "4029",
-        "tahun": "2021"
+      "nama_provinsi": "JAMBI",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "168379",
+          "perempuan": "158151",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "328451",
+          "semester": "1",
+          "jumlah_penduduk_km2": "5546.063",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "26612",
+          "usia_20_24": "28976",
+          "usia_5_9": "29962",
+          "usia_10_14": "31081",
+          "usia_0_4_thn": "20833",
+          "usia_25_29": "25788",
+          "usia_30_34": "24910",
+          "usia_35_39": "27104",
+          "usia_40_44": "27367",
+          "usia_45_49": "23117",
+          "usia_50_54": "20007",
+          "usia_55_59": "14668",
+          "usia_60_64": "11050",
+          "usia_65_69": "7384",
+          "usia_70_74": "4566",
+          "usia_75_tahun_ke_atas": "5026",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -163,25 +259,41 @@
       "kode_wilayah": "15.07",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "15",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "18622",
-        "usia_20_24": "19432",
-        "usia_5_9": "20573",
-        "usia_10_14": "21171",
-        "usia_0_4_thn": "14533",
-        "usia_25_29": "17707",
-        "usia_30_34": "18250",
-        "usia_35_39": "20692",
-        "usia_40_44": "18974",
-        "usia_45_49": "16197",
-        "usia_50_54": "13400",
-        "usia_55_59": "10332",
-        "usia_60_64": "8212",
-        "usia_65_69": "5385",
-        "usia_70_74": "4015",
-        "usia_75_tahun_ke_atas": "5047",
-        "tahun": "2021"
+      "nama_provinsi": "JAMBI",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "120056",
+          "perempuan": "115377",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "237527",
+          "semester": "1",
+          "jumlah_penduduk_km2": "4546.621",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "16887",
+          "usia_20_24": "19691",
+          "usia_5_9": "20247",
+          "usia_10_14": "21688",
+          "usia_0_4_thn": "13793",
+          "usia_25_29": "17839",
+          "usia_30_34": "17550",
+          "usia_35_39": "19991",
+          "usia_40_44": "20373",
+          "usia_45_49": "17150",
+          "usia_50_54": "14715",
+          "usia_55_59": "11288",
+          "usia_60_64": "8990",
+          "usia_65_69": "6363",
+          "usia_70_74": "4516",
+          "usia_75_tahun_ke_atas": "6446",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -189,25 +301,41 @@
       "kode_wilayah": "15.08",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "15",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "25933",
-        "usia_20_24": "30589",
-        "usia_5_9": "36128",
-        "usia_10_14": "36053",
-        "usia_0_4_thn": "30448",
-        "usia_25_29": "30229",
-        "usia_30_34": "30348",
-        "usia_35_39": "31654",
-        "usia_40_44": "26991",
-        "usia_45_49": "22723",
-        "usia_50_54": "17860",
-        "usia_55_59": "14905",
-        "usia_60_64": "11371",
-        "usia_65_69": "7327",
-        "usia_70_74": "3866",
-        "usia_75_tahun_ke_atas": "4481",
-        "tahun": "2021"
+      "nama_provinsi": "JAMBI",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "186388",
+          "perempuan": "180964",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "370379",
+          "semester": "1",
+          "jumlah_penduduk_km2": "4760.827",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "26917",
+          "usia_20_24": "31898",
+          "usia_5_9": "35872",
+          "usia_10_14": "36745",
+          "usia_0_4_thn": "26105",
+          "usia_25_29": "30054",
+          "usia_30_34": "30357",
+          "usia_35_39": "31635",
+          "usia_40_44": "29634",
+          "usia_45_49": "23791",
+          "usia_50_54": "20054",
+          "usia_55_59": "15683",
+          "usia_60_64": "12651",
+          "usia_65_69": "8753",
+          "usia_70_74": "4844",
+          "usia_75_tahun_ke_atas": "5386",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -215,25 +343,41 @@
       "kode_wilayah": "15.09",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "15",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "26405",
-        "usia_20_24": "29380",
-        "usia_5_9": "32703",
-        "usia_10_14": "33211",
-        "usia_0_4_thn": "23146",
-        "usia_25_29": "27761",
-        "usia_30_34": "28492",
-        "usia_35_39": "31443",
-        "usia_40_44": "28650",
-        "usia_45_49": "23841",
-        "usia_50_54": "19031",
-        "usia_55_59": "14733",
-        "usia_60_64": "11244",
-        "usia_65_69": "7428",
-        "usia_70_74": "4088",
-        "usia_75_tahun_ke_atas": "4221",
-        "tahun": "2021"
+      "nama_provinsi": "JAMBI",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "183225",
+          "perempuan": "173650",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "359906",
+          "semester": "1",
+          "jumlah_penduduk_km2": "6103.737",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "26487",
+          "usia_20_24": "31596",
+          "usia_5_9": "32366",
+          "usia_10_14": "34648",
+          "usia_0_4_thn": "21424",
+          "usia_25_29": "28439",
+          "usia_30_34": "28329",
+          "usia_35_39": "30456",
+          "usia_40_44": "31531",
+          "usia_45_49": "25268",
+          "usia_50_54": "21393",
+          "usia_55_59": "16260",
+          "usia_60_64": "12342",
+          "usia_65_69": "9018",
+          "usia_70_74": "5024",
+          "usia_75_tahun_ke_atas": "5325",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -241,25 +385,41 @@
       "kode_wilayah": "15.71",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "15",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "53664",
-        "usia_20_24": "48771",
-        "usia_5_9": "57346",
-        "usia_10_14": "55009",
-        "usia_0_4_thn": "54487",
-        "usia_25_29": "49061",
-        "usia_30_34": "49799",
-        "usia_35_39": "52571",
-        "usia_40_44": "47139",
-        "usia_45_49": "41468",
-        "usia_50_54": "33798",
-        "usia_55_59": "27437",
-        "usia_60_64": "19729",
-        "usia_65_69": "12303",
-        "usia_70_74": "6781",
-        "usia_75_tahun_ke_atas": "6992",
-        "tahun": "2019"
+      "nama_provinsi": "JAMBI",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "318039",
+          "perempuan": "315611",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "633650",
+          "semester": "1",
+          "jumlah_penduduk_km2": "169.887",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "47531",
+          "usia_20_24": "52561",
+          "usia_5_9": "55512",
+          "usia_10_14": "57818",
+          "usia_0_4_thn": "42230",
+          "usia_25_29": "50023",
+          "usia_30_34": "49706",
+          "usia_35_39": "49211",
+          "usia_40_44": "51824",
+          "usia_45_49": "45494",
+          "usia_50_54": "39849",
+          "usia_55_59": "31334",
+          "usia_60_64": "24412",
+          "usia_65_69": "16975",
+          "usia_70_74": "9678",
+          "usia_75_tahun_ke_atas": "9492",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -267,25 +427,41 @@
       "kode_wilayah": "15.72",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "15",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "8848",
-        "usia_20_24": "8033",
-        "usia_5_9": "7690",
-        "usia_10_14": "8582",
-        "usia_0_4_thn": "7082",
-        "usia_25_29": "6988",
-        "usia_30_34": "7255",
-        "usia_35_39": "8537",
-        "usia_40_44": "8337",
-        "usia_45_49": "6910",
-        "usia_50_54": "5401",
-        "usia_55_59": "4898",
-        "usia_60_64": "4235",
-        "usia_65_69": "3294",
-        "usia_70_74": "1722",
-        "usia_75_tahun_ke_atas": "3263",
-        "tahun": "2019"
+      "nama_provinsi": "JAMBI",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "50715",
+          "perempuan": "50136",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "100851",
+          "semester": "1",
+          "jumlah_penduduk_km2": "364.924",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "8521",
+          "usia_20_24": "8488",
+          "usia_5_9": "7558",
+          "usia_10_14": "7819",
+          "usia_0_4_thn": "5653",
+          "usia_25_29": "7435",
+          "usia_30_34": "6599",
+          "usia_35_39": "6914",
+          "usia_40_44": "8109",
+          "usia_45_49": "7881",
+          "usia_50_54": "6379",
+          "usia_55_59": "5055",
+          "usia_60_64": "4436",
+          "usia_65_69": "3881",
+          "usia_70_74": "2727",
+          "usia_75_tahun_ke_atas": "3396",
+          "tahun": "2023"
+        }
       }
     }
   ]

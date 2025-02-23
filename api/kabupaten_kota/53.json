@@ -7,25 +7,41 @@
       "kode_wilayah": "53.01",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "42847",
-        "usia_20_24": "40396",
-        "usia_5_9": "27945",
-        "usia_10_14": "36979",
-        "usia_0_4_thn": "13653",
-        "usia_25_29": "34988",
-        "usia_30_34": "32703",
-        "usia_35_39": "31089",
-        "usia_40_44": "25415",
-        "usia_45_49": "22504",
-        "usia_50_54": "18613",
-        "usia_55_59": "17540",
-        "usia_60_64": "14302",
-        "usia_65_69": "9577",
-        "usia_70_74": "6259",
-        "usia_75_tahun_ke_atas": "7730",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "196309",
+          "perempuan": "189313",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "387217",
+          "semester": "1",
+          "jumlah_penduduk_km2": "5136.51",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "41810",
+          "usia_20_24": "42774",
+          "usia_5_9": "29297",
+          "usia_10_14": "35199",
+          "usia_0_4_thn": "13233",
+          "usia_25_29": "34958",
+          "usia_30_34": "31455",
+          "usia_35_39": "30087",
+          "usia_40_44": "27661",
+          "usia_45_49": "22036",
+          "usia_50_54": "19764",
+          "usia_55_59": "16987",
+          "usia_60_64": "15137",
+          "usia_65_69": "10727",
+          "usia_70_74": "6920",
+          "usia_75_tahun_ke_atas": "9172",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -33,25 +49,41 @@
       "kode_wilayah": "53.02",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "58729",
-        "usia_20_24": "46019",
-        "usia_5_9": "38802",
-        "usia_10_14": "52511",
-        "usia_0_4_thn": "17321",
-        "usia_25_29": "36328",
-        "usia_30_34": "31282",
-        "usia_35_39": "32756",
-        "usia_40_44": "28270",
-        "usia_45_49": "27741",
-        "usia_50_54": "24069",
-        "usia_55_59": "22915",
-        "usia_60_64": "18812",
-        "usia_65_69": "13020",
-        "usia_70_74": "9111",
-        "usia_75_tahun_ke_atas": "12218",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "233995",
+          "perempuan": "237207",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "473091",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3933.151",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "54340",
+          "usia_20_24": "45490",
+          "usia_5_9": "41862",
+          "usia_10_14": "51272",
+          "usia_0_4_thn": "18154",
+          "usia_25_29": "35759",
+          "usia_30_34": "31864",
+          "usia_35_39": "30664",
+          "usia_40_44": "30521",
+          "usia_45_49": "26740",
+          "usia_50_54": "25417",
+          "usia_55_59": "23126",
+          "usia_60_64": "19995",
+          "usia_65_69": "14502",
+          "usia_70_74": "9968",
+          "usia_75_tahun_ke_atas": "13417",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -59,25 +91,41 @@
       "kode_wilayah": "53.03",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "30908",
-        "usia_20_24": "25712",
-        "usia_5_9": "26573",
-        "usia_10_14": "28188",
-        "usia_0_4_thn": "15465",
-        "usia_25_29": "20183",
-        "usia_30_34": "17821",
-        "usia_35_39": "18286",
-        "usia_40_44": "16328",
-        "usia_45_49": "14358",
-        "usia_50_54": "13419",
-        "usia_55_59": "12519",
-        "usia_60_64": "9629",
-        "usia_65_69": "6798",
-        "usia_70_74": "4765",
-        "usia_75_tahun_ke_atas": "7097",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "134291",
+          "perempuan": "134425",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "269797",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2623.2",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "29245",
+          "usia_20_24": "28067",
+          "usia_5_9": "26728",
+          "usia_10_14": "28068",
+          "usia_0_4_thn": "14169",
+          "usia_25_29": "20804",
+          "usia_30_34": "18702",
+          "usia_35_39": "16836",
+          "usia_40_44": "17077",
+          "usia_45_49": "14172",
+          "usia_50_54": "13249",
+          "usia_55_59": "12645",
+          "usia_60_64": "10272",
+          "usia_65_69": "7382",
+          "usia_70_74": "4868",
+          "usia_75_tahun_ke_atas": "7513",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -85,25 +133,41 @@
       "kode_wilayah": "53.04",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "27069",
-        "usia_20_24": "23294",
-        "usia_5_9": "21073",
-        "usia_10_14": "22042",
-        "usia_0_4_thn": "13443",
-        "usia_25_29": "21055",
-        "usia_30_34": "18749",
-        "usia_35_39": "17756",
-        "usia_40_44": "12728",
-        "usia_45_49": "11419",
-        "usia_50_54": "9961",
-        "usia_55_59": "9043",
-        "usia_60_64": "7498",
-        "usia_65_69": "5021",
-        "usia_70_74": "3246",
-        "usia_75_tahun_ke_atas": "4000",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "113804",
+          "perempuan": "114219",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "228937",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1127.25",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "24850",
+          "usia_20_24": "25119",
+          "usia_5_9": "21701",
+          "usia_10_14": "22274",
+          "usia_0_4_thn": "11906",
+          "usia_25_29": "21043",
+          "usia_30_34": "18852",
+          "usia_35_39": "17234",
+          "usia_40_44": "13897",
+          "usia_45_49": "11127",
+          "usia_50_54": "9958",
+          "usia_55_59": "9179",
+          "usia_60_64": "7562",
+          "usia_65_69": "5996",
+          "usia_70_74": "3671",
+          "usia_75_tahun_ke_atas": "4568",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -111,25 +175,41 @@
       "kode_wilayah": "53.05",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "23413",
-        "usia_20_24": "20394",
-        "usia_5_9": "23258",
-        "usia_10_14": "25288",
-        "usia_0_4_thn": "13173",
-        "usia_25_29": "17926",
-        "usia_30_34": "16365",
-        "usia_35_39": "15805",
-        "usia_40_44": "12475",
-        "usia_45_49": "12355",
-        "usia_50_54": "10586",
-        "usia_55_59": "8837",
-        "usia_60_64": "7592",
-        "usia_65_69": "5093",
-        "usia_70_74": "3135",
-        "usia_75_tahun_ke_atas": "3937",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "108782",
+          "perempuan": "111790",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "221960",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2928.559",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "23238",
+          "usia_20_24": "19880",
+          "usia_5_9": "22309",
+          "usia_10_14": "25348",
+          "usia_0_4_thn": "11268",
+          "usia_25_29": "18589",
+          "usia_30_34": "16638",
+          "usia_35_39": "16097",
+          "usia_40_44": "14053",
+          "usia_45_49": "11977",
+          "usia_50_54": "11306",
+          "usia_55_59": "9275",
+          "usia_60_64": "7827",
+          "usia_65_69": "5919",
+          "usia_70_74": "3642",
+          "usia_75_tahun_ke_atas": "4594",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -137,25 +217,41 @@
       "kode_wilayah": "53.06",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "29274",
-        "usia_20_24": "28058",
-        "usia_5_9": "24887",
-        "usia_10_14": "27457",
-        "usia_0_4_thn": "15458",
-        "usia_25_29": "23339",
-        "usia_30_34": "20497",
-        "usia_35_39": "19342",
-        "usia_40_44": "17458",
-        "usia_45_49": "17398",
-        "usia_50_54": "15528",
-        "usia_55_59": "13561",
-        "usia_60_64": "10831",
-        "usia_65_69": "8482",
-        "usia_70_74": "6055",
-        "usia_75_tahun_ke_atas": "7795",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "141290",
+          "perempuan": "144876",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "287315",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1748.517",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "28553",
+          "usia_20_24": "28746",
+          "usia_5_9": "23960",
+          "usia_10_14": "27522",
+          "usia_0_4_thn": "13992",
+          "usia_25_29": "24261",
+          "usia_30_34": "20741",
+          "usia_35_39": "19028",
+          "usia_40_44": "18407",
+          "usia_45_49": "16886",
+          "usia_50_54": "16231",
+          "usia_55_59": "14205",
+          "usia_60_64": "11632",
+          "usia_65_69": "8971",
+          "usia_70_74": "6350",
+          "usia_75_tahun_ke_atas": "7830",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -163,25 +259,41 @@
       "kode_wilayah": "53.07",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "28500",
-        "usia_20_24": "29946",
-        "usia_5_9": "32211",
-        "usia_10_14": "33135",
-        "usia_0_4_thn": "20290",
-        "usia_25_29": "25668",
-        "usia_30_34": "23351",
-        "usia_35_39": "23313",
-        "usia_40_44": "21033",
-        "usia_45_49": "19966",
-        "usia_50_54": "16980",
-        "usia_55_59": "15505",
-        "usia_60_64": "13213",
-        "usia_65_69": "9961",
-        "usia_70_74": "6632",
-        "usia_75_tahun_ke_atas": "7550",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "159787",
+          "perempuan": "170689",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "333712",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1671.649",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "26026",
+          "usia_20_24": "30763",
+          "usia_5_9": "30509",
+          "usia_10_14": "33374",
+          "usia_0_4_thn": "18609",
+          "usia_25_29": "27328",
+          "usia_30_34": "24042",
+          "usia_35_39": "23590",
+          "usia_40_44": "22417",
+          "usia_45_49": "20448",
+          "usia_50_54": "18124",
+          "usia_55_59": "16014",
+          "usia_60_64": "14210",
+          "usia_65_69": "11021",
+          "usia_70_74": "7835",
+          "usia_75_tahun_ke_atas": "9402",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -189,25 +301,41 @@
       "kode_wilayah": "53.08",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "29441",
-        "usia_20_24": "26706",
-        "usia_5_9": "22235",
-        "usia_10_14": "27822",
-        "usia_0_4_thn": "10334",
-        "usia_25_29": "22712",
-        "usia_30_34": "20451",
-        "usia_35_39": "21044",
-        "usia_40_44": "18691",
-        "usia_45_49": "17868",
-        "usia_50_54": "15860",
-        "usia_55_59": "13673",
-        "usia_60_64": "11223",
-        "usia_65_69": "7807",
-        "usia_70_74": "5070",
-        "usia_75_tahun_ke_atas": "6026",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "135799",
+          "perempuan": "141905",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "278817",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2085.244",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "29648",
+          "usia_20_24": "27642",
+          "usia_5_9": "22615",
+          "usia_10_14": "27066",
+          "usia_0_4_thn": "9646",
+          "usia_25_29": "23359",
+          "usia_30_34": "20159",
+          "usia_35_39": "19546",
+          "usia_40_44": "19217",
+          "usia_45_49": "17348",
+          "usia_50_54": "16394",
+          "usia_55_59": "13938",
+          "usia_60_64": "11758",
+          "usia_65_69": "8632",
+          "usia_70_74": "5527",
+          "usia_75_tahun_ke_atas": "6322",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -215,25 +343,41 @@
       "kode_wilayah": "53.09",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "18966",
-        "usia_20_24": "18098",
-        "usia_5_9": "13536",
-        "usia_10_14": "16877",
-        "usia_0_4_thn": "5827",
-        "usia_25_29": "14184",
-        "usia_30_34": "11341",
-        "usia_35_39": "11889",
-        "usia_40_44": "11489",
-        "usia_45_49": "10765",
-        "usia_50_54": "8805",
-        "usia_55_59": "7772",
-        "usia_60_64": "6184",
-        "usia_65_69": "4353",
-        "usia_70_74": "3214",
-        "usia_75_tahun_ke_atas": "5774",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "83993",
+          "perempuan": "85547",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "170222",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1735.635",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "18108",
+          "usia_20_24": "18494",
+          "usia_5_9": "13474",
+          "usia_10_14": "16087",
+          "usia_0_4_thn": "6579",
+          "usia_25_29": "15335",
+          "usia_30_34": "11737",
+          "usia_35_39": "11012",
+          "usia_40_44": "11789",
+          "usia_45_49": "10828",
+          "usia_50_54": "9236",
+          "usia_55_59": "7982",
+          "usia_60_64": "6440",
+          "usia_65_69": "4765",
+          "usia_70_74": "3418",
+          "usia_75_tahun_ke_atas": "4938",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -241,25 +385,41 @@
       "kode_wilayah": "53.10",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "38614",
-        "usia_20_24": "36657",
-        "usia_5_9": "32869",
-        "usia_10_14": "35987",
-        "usia_0_4_thn": "20119",
-        "usia_25_29": "27933",
-        "usia_30_34": "22889",
-        "usia_35_39": "21427",
-        "usia_40_44": "19044",
-        "usia_45_49": "17620",
-        "usia_50_54": "15317",
-        "usia_55_59": "13850",
-        "usia_60_64": "9531",
-        "usia_65_69": "6334",
-        "usia_70_74": "3724",
-        "usia_75_tahun_ke_atas": "3843",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "165827",
+          "perempuan": "165472",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "333730",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1343.834",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "27919",
+          "usia_20_24": "37437",
+          "usia_5_9": "32832",
+          "usia_10_14": "35750",
+          "usia_0_4_thn": "20443",
+          "usia_25_29": "32527",
+          "usia_30_34": "24350",
+          "usia_35_39": "22945",
+          "usia_40_44": "21048",
+          "usia_45_49": "18156",
+          "usia_50_54": "16680",
+          "usia_55_59": "14980",
+          "usia_60_64": "11175",
+          "usia_65_69": "7443",
+          "usia_70_74": "4778",
+          "usia_75_tahun_ke_atas": "5267",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -267,25 +427,41 @@
       "kode_wilayah": "53.11",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "21169",
-        "usia_20_24": "23526",
-        "usia_5_9": "26575",
-        "usia_10_14": "29536",
-        "usia_0_4_thn": "16392",
-        "usia_25_29": "21404",
-        "usia_30_34": "19008",
-        "usia_35_39": "18515",
-        "usia_40_44": "15764",
-        "usia_45_49": "14569",
-        "usia_50_54": "11579",
-        "usia_55_59": "10037",
-        "usia_60_64": "7870",
-        "usia_65_69": "6192",
-        "usia_70_74": "4001",
-        "usia_75_tahun_ke_atas": "4651",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "133585",
+          "perempuan": "127545",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "262881",
+          "semester": "1",
+          "jumlah_penduduk_km2": "6984.014",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "24051",
+          "usia_20_24": "24411",
+          "usia_5_9": "27343",
+          "usia_10_14": "29709",
+          "usia_0_4_thn": "14508",
+          "usia_25_29": "22562",
+          "usia_30_34": "20105",
+          "usia_35_39": "18931",
+          "usia_40_44": "17143",
+          "usia_45_49": "14926",
+          "usia_50_54": "12656",
+          "usia_55_59": "10667",
+          "usia_60_64": "8535",
+          "usia_65_69": "6875",
+          "usia_70_74": "4653",
+          "usia_75_tahun_ke_atas": "5806",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -293,25 +469,41 @@
       "kode_wilayah": "53.12",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "17995",
-        "usia_20_24": "16325",
-        "usia_5_9": "13597",
-        "usia_10_14": "16102",
-        "usia_0_4_thn": "11367",
-        "usia_25_29": "12740",
-        "usia_30_34": "11096",
-        "usia_35_39": "10488",
-        "usia_40_44": "8795",
-        "usia_45_49": "7902",
-        "usia_50_54": "6197",
-        "usia_55_59": "5137",
-        "usia_60_64": "4126",
-        "usia_65_69": "2913",
-        "usia_70_74": "2112",
-        "usia_75_tahun_ke_atas": "2749",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "76869",
+          "perempuan": "73402",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "150874",
+          "semester": "1",
+          "jumlah_penduduk_km2": "757.408",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "17691",
+          "usia_20_24": "16758",
+          "usia_5_9": "13837",
+          "usia_10_14": "14946",
+          "usia_0_4_thn": "10906",
+          "usia_25_29": "13376",
+          "usia_30_34": "11280",
+          "usia_35_39": "10796",
+          "usia_40_44": "9018",
+          "usia_45_49": "7947",
+          "usia_50_54": "6547",
+          "usia_55_59": "5178",
+          "usia_60_64": "4079",
+          "usia_65_69": "3171",
+          "usia_70_74": "2115",
+          "usia_75_tahun_ke_atas": "3229",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -319,25 +511,41 @@
       "kode_wilayah": "53.13",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "13913",
-        "usia_20_24": "13023",
-        "usia_5_9": "14040",
-        "usia_10_14": "16154",
-        "usia_0_4_thn": "8910",
-        "usia_25_29": "10099",
-        "usia_30_34": "8534",
-        "usia_35_39": "9834",
-        "usia_40_44": "8994",
-        "usia_45_49": "8301",
-        "usia_50_54": "7130",
-        "usia_55_59": "6035",
-        "usia_60_64": "5270",
-        "usia_65_69": "4207",
-        "usia_70_74": "2966",
-        "usia_75_tahun_ke_atas": "3686",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "68857",
+          "perempuan": "73491",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "143543",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1268.105",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "12438",
+          "usia_20_24": "13313",
+          "usia_5_9": "13044",
+          "usia_10_14": "15746",
+          "usia_0_4_thn": "7968",
+          "usia_25_29": "11347",
+          "usia_30_34": "9207",
+          "usia_35_39": "9401",
+          "usia_40_44": "9759",
+          "usia_45_49": "8696",
+          "usia_50_54": "7704",
+          "usia_55_59": "6648",
+          "usia_60_64": "5713",
+          "usia_65_69": "4553",
+          "usia_70_74": "3381",
+          "usia_75_tahun_ke_atas": "4625",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -345,25 +553,41 @@
       "kode_wilayah": "53.14",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "16844",
-        "usia_20_24": "13042",
-        "usia_5_9": "15021",
-        "usia_10_14": "17144",
-        "usia_0_4_thn": "8645",
-        "usia_25_29": "11342",
-        "usia_30_34": "10929",
-        "usia_35_39": "11294",
-        "usia_40_44": "9723",
-        "usia_45_49": "7711",
-        "usia_50_54": "5964",
-        "usia_55_59": "5659",
-        "usia_60_64": "4602",
-        "usia_65_69": "3941",
-        "usia_70_74": "2952",
-        "usia_75_tahun_ke_atas": "4194",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "75294",
+          "perempuan": "74329",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "150223",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1286.453",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "17110",
+          "usia_20_24": "14583",
+          "usia_5_9": "14530",
+          "usia_10_14": "16698",
+          "usia_0_4_thn": "9046",
+          "usia_25_29": "11144",
+          "usia_30_34": "10471",
+          "usia_35_39": "10785",
+          "usia_40_44": "9929",
+          "usia_45_49": "7948",
+          "usia_50_54": "6265",
+          "usia_55_59": "5462",
+          "usia_60_64": "4821",
+          "usia_65_69": "3766",
+          "usia_70_74": "3079",
+          "usia_75_tahun_ke_atas": "4586",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -371,25 +595,41 @@
       "kode_wilayah": "53.15",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "27375",
-        "usia_20_24": "29532",
-        "usia_5_9": "27172",
-        "usia_10_14": "29340",
-        "usia_0_4_thn": "19579",
-        "usia_25_29": "23182",
-        "usia_30_34": "19412",
-        "usia_35_39": "18826",
-        "usia_40_44": "15909",
-        "usia_45_49": "14753",
-        "usia_50_54": "12770",
-        "usia_55_59": "10448",
-        "usia_60_64": "7154",
-        "usia_65_69": "4647",
-        "usia_70_74": "3124",
-        "usia_75_tahun_ke_atas": "3299",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "137885",
+          "perempuan": "135844",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "275903",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3128.997",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "25217",
+          "usia_20_24": "30651",
+          "usia_5_9": "27455",
+          "usia_10_14": "27472",
+          "usia_0_4_thn": "19109",
+          "usia_25_29": "26132",
+          "usia_30_34": "20354",
+          "usia_35_39": "19449",
+          "usia_40_44": "17823",
+          "usia_45_49": "14878",
+          "usia_50_54": "13877",
+          "usia_55_59": "11514",
+          "usia_60_64": "8352",
+          "usia_65_69": "5584",
+          "usia_70_74": "3564",
+          "usia_75_tahun_ke_atas": "4472",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -397,25 +637,41 @@
       "kode_wilayah": "53.16",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "17366",
-        "usia_20_24": "16333",
-        "usia_5_9": "14421",
-        "usia_10_14": "16248",
-        "usia_0_4_thn": "8084",
-        "usia_25_29": "14057",
-        "usia_30_34": "11435",
-        "usia_35_39": "11893",
-        "usia_40_44": "11355",
-        "usia_45_49": "10393",
-        "usia_50_54": "8669",
-        "usia_55_59": "7383",
-        "usia_60_64": "6065",
-        "usia_65_69": "4543",
-        "usia_70_74": "3168",
-        "usia_75_tahun_ke_atas": "4282",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "82479",
+          "perempuan": "83675",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "166821",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1396.164",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "17039",
+          "usia_20_24": "16492",
+          "usia_5_9": "14128",
+          "usia_10_14": "16174",
+          "usia_0_4_thn": "8083",
+          "usia_25_29": "14402",
+          "usia_30_34": "11846",
+          "usia_35_39": "11153",
+          "usia_40_44": "11730",
+          "usia_45_49": "10147",
+          "usia_50_54": "9006",
+          "usia_55_59": "7800",
+          "usia_60_64": "6119",
+          "usia_65_69": "4885",
+          "usia_70_74": "3506",
+          "usia_75_tahun_ke_atas": "4311",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -423,25 +679,41 @@
       "kode_wilayah": "53.17",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "10739",
-        "usia_20_24": "8723",
-        "usia_5_9": "8346",
-        "usia_10_14": "10087",
-        "usia_0_4_thn": "7351",
-        "usia_25_29": "7025",
-        "usia_30_34": "6253",
-        "usia_35_39": "6153",
-        "usia_40_44": "5076",
-        "usia_45_49": "4701",
-        "usia_50_54": "3730",
-        "usia_55_59": "3088",
-        "usia_60_64": "2325",
-        "usia_65_69": "1841",
-        "usia_70_74": "1316",
-        "usia_75_tahun_ke_atas": "1851",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "45755",
+          "perempuan": "43490",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "89701",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1789.659",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "10884",
+          "usia_20_24": "9465",
+          "usia_5_9": "8539",
+          "usia_10_14": "9249",
+          "usia_0_4_thn": "6698",
+          "usia_25_29": "7359",
+          "usia_30_34": "6010",
+          "usia_35_39": "6243",
+          "usia_40_44": "5377",
+          "usia_45_49": "4750",
+          "usia_50_54": "3996",
+          "usia_55_59": "3282",
+          "usia_60_64": "2584",
+          "usia_65_69": "2012",
+          "usia_70_74": "1362",
+          "usia_75_tahun_ke_atas": "1891",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -449,25 +721,41 @@
       "kode_wilayah": "53.18",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "33692",
-        "usia_20_24": "34267",
-        "usia_5_9": "37363",
-        "usia_10_14": "48563",
-        "usia_0_4_thn": "26192",
-        "usia_25_29": "24156",
-        "usia_30_34": "21015",
-        "usia_35_39": "20531",
-        "usia_40_44": "16912",
-        "usia_45_49": "16078",
-        "usia_50_54": "12474",
-        "usia_55_59": "9424",
-        "usia_60_64": "6787",
-        "usia_65_69": "4410",
-        "usia_70_74": "2787",
-        "usia_75_tahun_ke_atas": "2571",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "165272",
+          "perempuan": "158447",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "326184",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1383.312",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "33995",
+          "usia_20_24": "35906",
+          "usia_5_9": "38370",
+          "usia_10_14": "44535",
+          "usia_0_4_thn": "20820",
+          "usia_25_29": "27985",
+          "usia_30_34": "22220",
+          "usia_35_39": "22217",
+          "usia_40_44": "18929",
+          "usia_45_49": "16620",
+          "usia_50_54": "13970",
+          "usia_55_59": "10883",
+          "usia_60_64": "7840",
+          "usia_65_69": "5077",
+          "usia_70_74": "3451",
+          "usia_75_tahun_ke_atas": "3366",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -475,25 +763,41 @@
       "kode_wilayah": "53.19",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "26929",
-        "usia_20_24": "30718",
-        "usia_5_9": "29118",
-        "usia_10_14": "30965",
-        "usia_0_4_thn": "14804",
-        "usia_25_29": "23799",
-        "usia_30_34": "18900",
-        "usia_35_39": "19692",
-        "usia_40_44": "18437",
-        "usia_45_49": "16744",
-        "usia_50_54": "14781",
-        "usia_55_59": "12687",
-        "usia_60_64": "8182",
-        "usia_65_69": "4862",
-        "usia_70_74": "2748",
-        "usia_75_tahun_ke_atas": "2942",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "143151",
+          "perempuan": "138774",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "284148",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2389.53",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "22093",
+          "usia_20_24": "31823",
+          "usia_5_9": "28250",
+          "usia_10_14": "30770",
+          "usia_0_4_thn": "13484",
+          "usia_25_29": "26946",
+          "usia_30_34": "20237",
+          "usia_35_39": "19911",
+          "usia_40_44": "19930",
+          "usia_45_49": "17530",
+          "usia_50_54": "15961",
+          "usia_55_59": "13815",
+          "usia_60_64": "9915",
+          "usia_65_69": "6178",
+          "usia_70_74": "3415",
+          "usia_75_tahun_ke_atas": "3890",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -501,25 +805,41 @@
       "kode_wilayah": "53.20",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "10357",
-        "usia_20_24": "8769",
-        "usia_5_9": "10123",
-        "usia_10_14": "10855",
-        "usia_0_4_thn": "7178",
-        "usia_25_29": "7537",
-        "usia_30_34": "6982",
-        "usia_35_39": "6349",
-        "usia_40_44": "5112",
-        "usia_45_49": "4521",
-        "usia_50_54": "3794",
-        "usia_55_59": "3240",
-        "usia_60_64": "2608",
-        "usia_65_69": "2316",
-        "usia_70_74": "1685",
-        "usia_75_tahun_ke_atas": "2707",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "48329",
+          "perempuan": "46484",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "95310",
+          "semester": "1",
+          "jumlah_penduduk_km2": "460.957",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "10881",
+          "usia_20_24": "8883",
+          "usia_5_9": "9784",
+          "usia_10_14": "10570",
+          "usia_0_4_thn": "6860",
+          "usia_25_29": "7755",
+          "usia_30_34": "6955",
+          "usia_35_39": "6414",
+          "usia_40_44": "5424",
+          "usia_45_49": "4579",
+          "usia_50_54": "4156",
+          "usia_55_59": "3283",
+          "usia_60_64": "2697",
+          "usia_65_69": "2350",
+          "usia_70_74": "1839",
+          "usia_75_tahun_ke_atas": "2880",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -527,25 +847,41 @@
       "kode_wilayah": "53.21",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "24066",
-        "usia_20_24": "20020",
-        "usia_5_9": "17403",
-        "usia_10_14": "19474",
-        "usia_0_4_thn": "9477",
-        "usia_25_29": "17582",
-        "usia_30_34": "13690",
-        "usia_35_39": "12807",
-        "usia_40_44": "11161",
-        "usia_45_49": "10441",
-        "usia_50_54": "9653",
-        "usia_55_59": "8882",
-        "usia_60_64": "7313",
-        "usia_65_69": "5356",
-        "usia_70_74": "3795",
-        "usia_75_tahun_ke_atas": "5902",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "97534",
+          "perempuan": "100966",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "199780",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1109.162",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "20246",
+          "usia_20_24": "20721",
+          "usia_5_9": "18827",
+          "usia_10_14": "19461",
+          "usia_0_4_thn": "8643",
+          "usia_25_29": "18318",
+          "usia_30_34": "14917",
+          "usia_35_39": "12672",
+          "usia_40_44": "11853",
+          "usia_45_49": "10300",
+          "usia_50_54": "9562",
+          "usia_55_59": "9221",
+          "usia_60_64": "7811",
+          "usia_65_69": "5944",
+          "usia_70_74": "4450",
+          "usia_75_tahun_ke_atas": "6834",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -553,25 +889,41 @@
       "kode_wilayah": "53.71",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "53",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "39099",
-        "usia_20_24": "40924",
-        "usia_5_9": "36844",
-        "usia_10_14": "39491",
-        "usia_0_4_thn": "21777",
-        "usia_25_29": "50726",
-        "usia_30_34": "49736",
-        "usia_35_39": "43406",
-        "usia_40_44": "32152",
-        "usia_45_49": "25203",
-        "usia_50_54": "20424",
-        "usia_55_59": "15367",
-        "usia_60_64": "10421",
-        "usia_65_69": "6012",
-        "usia_70_74": "3535",
-        "usia_75_tahun_ke_atas": "4549",
-        "tahun": "2018"
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "224081",
+          "perempuan": "219268",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "443349",
+          "semester": "1",
+          "jumlah_penduduk_km2": "159.334",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "39528",
+          "usia_20_24": "39416",
+          "usia_5_9": "34654",
+          "usia_10_14": "38182",
+          "usia_0_4_thn": "20805",
+          "usia_25_29": "39359",
+          "usia_30_34": "45171",
+          "usia_35_39": "44403",
+          "usia_40_44": "39350",
+          "usia_45_49": "28550",
+          "usia_50_54": "22844",
+          "usia_55_59": "18584",
+          "usia_60_64": "13605",
+          "usia_65_69": "8889",
+          "usia_70_74": "4829",
+          "usia_75_tahun_ke_atas": "5180",
+          "tahun": "2023"
+        }
       }
     }
   ]

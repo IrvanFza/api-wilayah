@@ -7,25 +7,41 @@
       "kode_wilayah": "51.01",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "51",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "25600",
-        "usia_20_24": "26005",
-        "usia_5_9": "25906",
-        "usia_10_14": "26810",
-        "usia_0_4_thn": "21160",
-        "usia_25_29": "23632",
-        "usia_30_34": "21284",
-        "usia_35_39": "23216",
-        "usia_40_44": "24193",
-        "usia_45_49": "25037",
-        "usia_50_54": "22376",
-        "usia_55_59": "19666",
-        "usia_60_64": "14820",
-        "usia_65_69": "10291",
-        "usia_70_74": "7074",
-        "usia_75_tahun_ke_atas": "8584",
-        "tahun": "2021"
+      "nama_provinsi": "BALI",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "163648",
+          "perempuan": "162594",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "327481",
+          "semester": "1",
+          "jumlah_penduduk_km2": "849.134",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "25145",
+          "usia_20_24": "26610",
+          "usia_5_9": "25280",
+          "usia_10_14": "26691",
+          "usia_0_4_thn": "18926",
+          "usia_25_29": "23991",
+          "usia_30_34": "21823",
+          "usia_35_39": "21543",
+          "usia_40_44": "24291",
+          "usia_45_49": "23604",
+          "usia_50_54": "24265",
+          "usia_55_59": "20219",
+          "usia_60_64": "16312",
+          "usia_65_69": "11627",
+          "usia_70_74": "7606",
+          "usia_75_tahun_ke_atas": "9548",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -33,25 +49,41 @@
       "kode_wilayah": "51.02",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "51",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "29062",
-        "usia_20_24": "34910",
-        "usia_5_9": "29033",
-        "usia_10_14": "30811",
-        "usia_0_4_thn": "24251",
-        "usia_25_29": "32024",
-        "usia_30_34": "27876",
-        "usia_35_39": "28846",
-        "usia_40_44": "32051",
-        "usia_45_49": "37945",
-        "usia_50_54": "40089",
-        "usia_55_59": "32975",
-        "usia_60_64": "26038",
-        "usia_65_69": "20547",
-        "usia_70_74": "14693",
-        "usia_75_tahun_ke_atas": "22615",
-        "tahun": "2021"
+      "nama_provinsi": "BALI",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "233566",
+          "perempuan": "235031",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "471335",
+          "semester": "1",
+          "jumlah_penduduk_km2": "849.314",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "30052",
+          "usia_20_24": "34880",
+          "usia_5_9": "28486",
+          "usia_10_14": "30267",
+          "usia_0_4_thn": "21992",
+          "usia_25_29": "33544",
+          "usia_30_34": "29959",
+          "usia_35_39": "27377",
+          "usia_40_44": "31861",
+          "usia_45_49": "33201",
+          "usia_50_54": "41847",
+          "usia_55_59": "35731",
+          "usia_60_64": "28280",
+          "usia_65_69": "22581",
+          "usia_70_74": "16101",
+          "usia_75_tahun_ke_atas": "25176",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -59,25 +91,41 @@
       "kode_wilayah": "51.03",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "51",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "40838",
-        "usia_20_24": "44725",
-        "usia_5_9": "36501",
-        "usia_10_14": "40850",
-        "usia_0_4_thn": "29276",
-        "usia_25_29": "37764",
-        "usia_30_34": "30185",
-        "usia_35_39": "33205",
-        "usia_40_44": "39288",
-        "usia_45_49": "46888",
-        "usia_50_54": "42709",
-        "usia_55_59": "30638",
-        "usia_60_64": "20555",
-        "usia_65_69": "15404",
-        "usia_70_74": "10587",
-        "usia_75_tahun_ke_atas": "14977",
-        "tahun": "2021"
+      "nama_provinsi": "BALI",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "259809",
+          "perempuan": "262187",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "526029",
+          "semester": "1",
+          "jumlah_penduduk_km2": "398.749",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "41204",
+          "usia_20_24": "46083",
+          "usia_5_9": "35563",
+          "usia_10_14": "39619",
+          "usia_0_4_thn": "26394",
+          "usia_25_29": "41331",
+          "usia_30_34": "33519",
+          "usia_35_39": "30713",
+          "usia_40_44": "37998",
+          "usia_45_49": "42841",
+          "usia_50_54": "46947",
+          "usia_55_59": "35034",
+          "usia_60_64": "23422",
+          "usia_65_69": "17017",
+          "usia_70_74": "11852",
+          "usia_75_tahun_ke_atas": "16492",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -85,25 +133,41 @@
       "kode_wilayah": "51.04",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "51",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "38763",
-        "usia_20_24": "40430",
-        "usia_5_9": "32958",
-        "usia_10_14": "36415",
-        "usia_0_4_thn": "27273",
-        "usia_25_29": "36687",
-        "usia_30_34": "30077",
-        "usia_35_39": "32815",
-        "usia_40_44": "37584",
-        "usia_45_49": "44665",
-        "usia_50_54": "38640",
-        "usia_55_59": "29791",
-        "usia_60_64": "22914",
-        "usia_65_69": "18274",
-        "usia_70_74": "13456",
-        "usia_75_tahun_ke_atas": "20863",
-        "tahun": "2021"
+      "nama_provinsi": "BALI",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "251321",
+          "perempuan": "250752",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "503546",
+          "semester": "1",
+          "jumlah_penduduk_km2": "364.358",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "37589",
+          "usia_20_24": "40812",
+          "usia_5_9": "32104",
+          "usia_10_14": "35346",
+          "usia_0_4_thn": "24859",
+          "usia_25_29": "38234",
+          "usia_30_34": "32848",
+          "usia_35_39": "29732",
+          "usia_40_44": "36200",
+          "usia_45_49": "41124",
+          "usia_50_54": "43128",
+          "usia_55_59": "32039",
+          "usia_60_64": "25317",
+          "usia_65_69": "19758",
+          "usia_70_74": "14265",
+          "usia_75_tahun_ke_atas": "20191",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -111,25 +175,41 @@
       "kode_wilayah": "51.05",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "51",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "15575",
-        "usia_20_24": "17029",
-        "usia_5_9": "16437",
-        "usia_10_14": "17018",
-        "usia_0_4_thn": "13777",
-        "usia_25_29": "15801",
-        "usia_30_34": "13875",
-        "usia_35_39": "15519",
-        "usia_40_44": "15907",
-        "usia_45_49": "16648",
-        "usia_50_54": "14260",
-        "usia_55_59": "12449",
-        "usia_60_64": "9815",
-        "usia_65_69": "7946",
-        "usia_70_74": "6112",
-        "usia_75_tahun_ke_atas": "8519",
-        "tahun": "2021"
+      "nama_provinsi": "BALI",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "109551",
+          "perempuan": "109561",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "220491",
+          "semester": "1",
+          "jumlah_penduduk_km2": "313.96",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "16435",
+          "usia_20_24": "17534",
+          "usia_5_9": "15890",
+          "usia_10_14": "16955",
+          "usia_0_4_thn": "12277",
+          "usia_25_29": "16309",
+          "usia_30_34": "14598",
+          "usia_35_39": "14176",
+          "usia_40_44": "16202",
+          "usia_45_49": "16080",
+          "usia_50_54": "15625",
+          "usia_55_59": "12989",
+          "usia_60_64": "10889",
+          "usia_65_69": "8485",
+          "usia_70_74": "6667",
+          "usia_75_tahun_ke_atas": "9380",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -137,25 +217,41 @@
       "kode_wilayah": "51.06",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "51",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "20617",
-        "usia_20_24": "20605",
-        "usia_5_9": "19799",
-        "usia_10_14": "21218",
-        "usia_0_4_thn": "14680",
-        "usia_25_29": "18280",
-        "usia_30_34": "16850",
-        "usia_35_39": "18567",
-        "usia_40_44": "19078",
-        "usia_45_49": "20280",
-        "usia_50_54": "15889",
-        "usia_55_59": "13154",
-        "usia_60_64": "11278",
-        "usia_65_69": "8799",
-        "usia_70_74": "6307",
-        "usia_75_tahun_ke_atas": "9489",
-        "tahun": "2021"
+      "nama_provinsi": "BALI",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "129689",
+          "perempuan": "126222",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "256631",
+          "semester": "1",
+          "jumlah_penduduk_km2": "526.764",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "20074",
+          "usia_20_24": "20606",
+          "usia_5_9": "18890",
+          "usia_10_14": "21078",
+          "usia_0_4_thn": "13333",
+          "usia_25_29": "19067",
+          "usia_30_34": "17095",
+          "usia_35_39": "17251",
+          "usia_40_44": "19566",
+          "usia_45_49": "19583",
+          "usia_50_54": "18350",
+          "usia_55_59": "13194",
+          "usia_60_64": "12160",
+          "usia_65_69": "9621",
+          "usia_70_74": "6897",
+          "usia_75_tahun_ke_atas": "9866",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -163,25 +259,41 @@
       "kode_wilayah": "51.07",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "51",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "38905",
-        "usia_20_24": "42172",
-        "usia_5_9": "45592",
-        "usia_10_14": "46151",
-        "usia_0_4_thn": "34488",
-        "usia_25_29": "38953",
-        "usia_30_34": "36725",
-        "usia_35_39": "41208",
-        "usia_40_44": "39129",
-        "usia_45_49": "38080",
-        "usia_50_54": "29101",
-        "usia_55_59": "24096",
-        "usia_60_64": "20153",
-        "usia_65_69": "16492",
-        "usia_70_74": "12595",
-        "usia_75_tahun_ke_atas": "18377",
-        "tahun": "2021"
+      "nama_provinsi": "BALI",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "265934",
+          "perempuan": "260323",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "530542",
+          "semester": "1",
+          "jumlah_penduduk_km2": "839.317",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "40634",
+          "usia_20_24": "42472",
+          "usia_5_9": "43670",
+          "usia_10_14": "46482",
+          "usia_0_4_thn": "30784",
+          "usia_25_29": "39787",
+          "usia_30_34": "37018",
+          "usia_35_39": "38506",
+          "usia_40_44": "40642",
+          "usia_45_49": "38052",
+          "usia_50_54": "33970",
+          "usia_55_59": "23768",
+          "usia_60_64": "22792",
+          "usia_65_69": "17660",
+          "usia_70_74": "13665",
+          "usia_75_tahun_ke_atas": "20640",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -189,25 +301,41 @@
       "kode_wilayah": "51.08",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "51",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "68167",
-        "usia_20_24": "67044",
-        "usia_5_9": "70002",
-        "usia_10_14": "70786",
-        "usia_0_4_thn": "51872",
-        "usia_25_29": "61845",
-        "usia_30_34": "57563",
-        "usia_35_39": "64066",
-        "usia_40_44": "60143",
-        "usia_45_49": "57853",
-        "usia_50_54": "52241",
-        "usia_55_59": "42949",
-        "usia_60_64": "33627",
-        "usia_65_69": "26072",
-        "usia_70_74": "17223",
-        "usia_75_tahun_ke_atas": "25739",
-        "tahun": "2021"
+      "nama_provinsi": "BALI",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "417065",
+          "perempuan": "410916",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "830237",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1322.682",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "68517",
+          "usia_20_24": "68992",
+          "usia_5_9": "68681",
+          "usia_10_14": "71977",
+          "usia_0_4_thn": "46014",
+          "usia_25_29": "62024",
+          "usia_30_34": "57995",
+          "usia_35_39": "58557",
+          "usia_40_44": "62126",
+          "usia_45_49": "56751",
+          "usia_50_54": "55783",
+          "usia_55_59": "43392",
+          "usia_60_64": "36111",
+          "usia_65_69": "28451",
+          "usia_70_74": "18915",
+          "usia_75_tahun_ke_atas": "25951",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -215,25 +343,41 @@
       "kode_wilayah": "51.71",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "51",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "59464",
-        "usia_20_24": "52460",
-        "usia_5_9": "50786",
-        "usia_10_14": "55835",
-        "usia_0_4_thn": "42386",
-        "usia_25_29": "44500",
-        "usia_30_34": "41738",
-        "usia_35_39": "50222",
-        "usia_40_44": "54258",
-        "usia_45_49": "58279",
-        "usia_50_54": "48164",
-        "usia_55_59": "33180",
-        "usia_60_64": "23473",
-        "usia_65_69": "16042",
-        "usia_70_74": "9515",
-        "usia_75_tahun_ke_atas": "8951",
-        "tahun": "2019"
+      "nama_provinsi": "BALI",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "329665",
+          "perempuan": "331319",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "660984",
+          "semester": "1",
+          "jumlah_penduduk_km2": "125.872",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "55593",
+          "usia_20_24": "57648",
+          "usia_5_9": "46828",
+          "usia_10_14": "52933",
+          "usia_0_4_thn": "32073",
+          "usia_25_29": "51734",
+          "usia_30_34": "44200",
+          "usia_35_39": "42404",
+          "usia_40_44": "50428",
+          "usia_45_49": "52868",
+          "usia_50_54": "55291",
+          "usia_55_59": "43359",
+          "usia_60_64": "28969",
+          "usia_65_69": "20504",
+          "usia_70_74": "13071",
+          "usia_75_tahun_ke_atas": "13081",
+          "tahun": "2023"
+        }
       }
     }
   ]

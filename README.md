@@ -16,10 +16,10 @@ Another API Wilayah in Indonesia! But what makes this API project different?
 
 - **Regular Data Update**: This project utilize GitHub Actions to regularly scrape data (once in a week) from Kemendagri.
 - **Data Availability**: This project is hosted on GitHub Pages so you don't have to worry about the availability (but you might worry about the scalability, see more in the [GitHub Pages Bandwidth Restrictions](#github-pages-bandwidth-restrictions) section)
-- **Population and Demography**: This API includes population and demography data that you may want to use!
-- **Open Source!**: This project is open source! Any contributions are welcome, and of course you may serve this API in your own server!
+- **Population and Demography**: This API includes population and demography data that you may want to use (only available for province and city level as is in data source).
+- **Open Source**: This project is open source. Any contributions are welcome, and you may serve this API in your own server.
 
-Here are some quick links to example endpoints for accessing the data:
+Example endpoints for accessing the data:
 
 - **Provinsi**: <a href="https://api.datawilayah.com/api/provinsi.json" target="_blank">https://api.datawilayah.com/api/provinsi.json</a>
 - **Kabupaten/Kota**: <a href="https://api.datawilayah.com/api/kabupaten_kota/11.json" target="_blank">https://api.datawilayah.com/api/kabupaten_kota/11.json</a>
@@ -111,18 +111,18 @@ In the default setup, the API is generated as static JSON files and hosted via G
 
 ### Optional: Local Node & Express.js Server
 
-If you prefer to serve the API locally using Node.js and Express, you can run the server as follows:
-
-- **Development Mode with Live Reloading**
+If you prefer to serve the API using Node.js and Express, you can run the server as follows:
 
 ```bash
-npm run dev
+npm start
 ```
 
 This starts the server on `http://localhost:3000` with endpoints such as `/api/provinsi` (without the `.json` suffix).
 
+If you start the server locally, you may want to use development mode with live reloading.
+
 ```bash
-npm start
+npm run dev
 ```
 
 ## API Endpoints
@@ -351,24 +351,32 @@ api-wilayah/
 │   └── workflows/
 │       └── scraper.yml          # GitHub Actions workflow for automated data scraping
 ├── api/                         # Generated JSON API for GitHub Pages
-├── data/
-│   └── json/                    # JSON data files scraped by the scripts
-├── scraper/                     # Data scraping scripts
-│   ├── mergeData.js
-│   ├── populationDataScraper.js
-│   ├── regionalDataScraper.js
-│   └── splitData.js
+├── data
+│   └── json
+│       ├── population
+│       └── region
+├── docker-compose.yml
+├── scraper
+│   ├── populationDataScraper.js
+│   ├── regionDataScraper.js
+│   └── utils
+│       ├── fileHelper.js
+│       ├── kemendagriAPIClient.js
+│       ├── mergeData.js
+│       └── splitData.js
 ├── src/                         # Node.js/Express server code (optional for local API access)
-│   ├── app.js
-│   ├── server.js
-│   └── routes/
-│       ├── index.js
-│       ├── provinsi.js
-│       ├── kabupatenKota.js
-│       ├── kecamatan.js
-│       └── desaKelurahan.js
+|   ├── app.js
+|   ├── server.js
+|   |── utils
+|   |   └── createFilteredRoute.js
+|   └── routes
+|       ├── desaKelurahan.js
+|       ├── index.js
+|       ├── kabupatenKota.js
+|       ├── kecamatan.js
+|       └── provinsi.js
 ├── Dockerfile                   # Dockerfile for containerized deployment
-├── docker-compose.yml           # Docker Compose configuration
+├── docker-compose.yml          # Docker Compose configuration
 ├── package.json
 └── README.md
 ```
@@ -417,8 +425,6 @@ Contributions are welcome! To contribute to this project, please follow these st
 ## TODO
 
 - [ ] Add postal code (kode pos) to the Desa/Kecamatan data
-- [ ] Add more population data scraper
-- [ ] Reformat the population data response to be cleaner
 - [ ] Add unit test and integration test
 
 ## License

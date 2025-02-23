@@ -7,25 +7,41 @@
       "kode_wilayah": "82.01",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "82",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "14655",
-        "usia_20_24": "12816",
-        "usia_5_9": "11392",
-        "usia_10_14": "12349",
-        "usia_0_4_thn": "7446",
-        "usia_25_29": "11422",
-        "usia_30_34": "10584",
-        "usia_35_39": "11566",
-        "usia_40_44": "10342",
-        "usia_45_49": "9318",
-        "usia_50_54": "6988",
-        "usia_55_59": "5426",
-        "usia_60_64": "4228",
-        "usia_65_69": "3201",
-        "usia_70_74": "1910",
-        "usia_75_tahun_ke_atas": "2507",
-        "tahun": "2021"
+      "nama_provinsi": "MALUKU UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "69641",
+          "perempuan": "67059",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "137126",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2239.114",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "13884",
+          "usia_20_24": "13603",
+          "usia_5_9": "11078",
+          "usia_10_14": "11993",
+          "usia_0_4_thn": "6394",
+          "usia_25_29": "11807",
+          "usia_30_34": "10652",
+          "usia_35_39": "10850",
+          "usia_40_44": "10901",
+          "usia_45_49": "9606",
+          "usia_50_54": "7699",
+          "usia_55_59": "5815",
+          "usia_60_64": "4461",
+          "usia_65_69": "3567",
+          "usia_70_74": "2319",
+          "usia_75_tahun_ke_atas": "2497",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -33,25 +49,41 @@
       "kode_wilayah": "82.02",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "82",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "5931",
-        "usia_20_24": "12617",
-        "usia_5_9": "6886",
-        "usia_10_14": "6676",
-        "usia_0_4_thn": "5014",
-        "usia_25_29": "11352",
-        "usia_30_34": "7277",
-        "usia_35_39": "5724",
-        "usia_40_44": "4219",
-        "usia_45_49": "3372",
-        "usia_50_54": "2561",
-        "usia_55_59": "1922",
-        "usia_60_64": "1433",
-        "usia_65_69": "997",
-        "usia_70_74": "627",
-        "usia_75_tahun_ke_atas": "511",
-        "tahun": "2021"
+      "nama_provinsi": "MALUKU UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "57172",
+          "perempuan": "35726",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "96359",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2276.903",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "6075",
+          "usia_20_24": "18983",
+          "usia_5_9": "7410",
+          "usia_10_14": "6935",
+          "usia_0_4_thn": "4716",
+          "usia_25_29": "16719",
+          "usia_30_34": "10216",
+          "usia_35_39": "6919",
+          "usia_40_44": "5261",
+          "usia_45_49": "3819",
+          "usia_50_54": "2883",
+          "usia_55_59": "2139",
+          "usia_60_64": "1626",
+          "usia_65_69": "1165",
+          "usia_70_74": "788",
+          "usia_75_tahun_ke_atas": "705",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -59,25 +91,41 @@
       "kode_wilayah": "82.03",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "82",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "23208",
-        "usia_20_24": "19570",
-        "usia_5_9": "19679",
-        "usia_10_14": "21920",
-        "usia_0_4_thn": "11305",
-        "usia_25_29": "16735",
-        "usia_30_34": "14257",
-        "usia_35_39": "15714",
-        "usia_40_44": "13915",
-        "usia_45_49": "12516",
-        "usia_50_54": "9500",
-        "usia_55_59": "7418",
-        "usia_60_64": "5779",
-        "usia_65_69": "4361",
-        "usia_70_74": "2609",
-        "usia_75_tahun_ke_atas": "2290",
-        "tahun": "2021"
+      "nama_provinsi": "MALUKU UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "102943",
+          "perempuan": "98400",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "202150",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3404.629",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "22726",
+          "usia_20_24": "21145",
+          "usia_5_9": "18585",
+          "usia_10_14": "21342",
+          "usia_0_4_thn": "9757",
+          "usia_25_29": "17717",
+          "usia_30_34": "15277",
+          "usia_35_39": "15095",
+          "usia_40_44": "14942",
+          "usia_45_49": "12597",
+          "usia_50_54": "9880",
+          "usia_55_59": "7280",
+          "usia_60_64": "5816",
+          "usia_65_69": "4417",
+          "usia_70_74": "3036",
+          "usia_75_tahun_ke_atas": "2538",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -85,25 +133,41 @@
       "kode_wilayah": "82.04",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "82",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "31580",
-        "usia_20_24": "27055",
-        "usia_5_9": "22597",
-        "usia_10_14": "27546",
-        "usia_0_4_thn": "12179",
-        "usia_25_29": "22245",
-        "usia_30_34": "19823",
-        "usia_35_39": "20145",
-        "usia_40_44": "16736",
-        "usia_45_49": "15377",
-        "usia_50_54": "11870",
-        "usia_55_59": "8983",
-        "usia_60_64": "7012",
-        "usia_65_69": "4663",
-        "usia_70_74": "2804",
-        "usia_75_tahun_ke_atas": "2441",
-        "tahun": "2021"
+      "nama_provinsi": "MALUKU UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "129735",
+          "perempuan": "123752",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "254328",
+          "semester": "1",
+          "jumlah_penduduk_km2": "8096.397",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "31316",
+          "usia_20_24": "29664",
+          "usia_5_9": "22634",
+          "usia_10_14": "26421",
+          "usia_0_4_thn": "12321",
+          "usia_25_29": "24089",
+          "usia_30_34": "19773",
+          "usia_35_39": "19294",
+          "usia_40_44": "17511",
+          "usia_45_49": "14499",
+          "usia_50_54": "12301",
+          "usia_55_59": "8297",
+          "usia_60_64": "6615",
+          "usia_65_69": "4412",
+          "usia_70_74": "2857",
+          "usia_75_tahun_ke_atas": "2324",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -111,25 +175,41 @@
       "kode_wilayah": "82.05",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "82",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "12295",
-        "usia_20_24": "10344",
-        "usia_5_9": "10124",
-        "usia_10_14": "11269",
-        "usia_0_4_thn": "6506",
-        "usia_25_29": "9140",
-        "usia_30_34": "8292",
-        "usia_35_39": "8236",
-        "usia_40_44": "6761",
-        "usia_45_49": "6315",
-        "usia_50_54": "4758",
-        "usia_55_59": "3877",
-        "usia_60_64": "3019",
-        "usia_65_69": "2379",
-        "usia_70_74": "1331",
-        "usia_75_tahun_ke_atas": "1527",
-        "tahun": "2021"
+      "nama_provinsi": "MALUKU UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "52582",
+          "perempuan": "52142",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "104909",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3304.32",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "11831",
+          "usia_20_24": "10949",
+          "usia_5_9": "9660",
+          "usia_10_14": "10855",
+          "usia_0_4_thn": "6016",
+          "usia_25_29": "9008",
+          "usia_30_34": "8120",
+          "usia_35_39": "8225",
+          "usia_40_44": "6917",
+          "usia_45_49": "6244",
+          "usia_50_54": "5116",
+          "usia_55_59": "3906",
+          "usia_60_64": "2982",
+          "usia_65_69": "2183",
+          "usia_70_74": "1464",
+          "usia_75_tahun_ke_atas": "1433",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -137,25 +217,41 @@
       "kode_wilayah": "82.06",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "82",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "10679",
-        "usia_20_24": "9223",
-        "usia_5_9": "9226",
-        "usia_10_14": "9910",
-        "usia_0_4_thn": "5377",
-        "usia_25_29": "8220",
-        "usia_30_34": "7781",
-        "usia_35_39": "8635",
-        "usia_40_44": "7110",
-        "usia_45_49": "5970",
-        "usia_50_54": "4454",
-        "usia_55_59": "3079",
-        "usia_60_64": "2471",
-        "usia_65_69": "1775",
-        "usia_70_74": "1133",
-        "usia_75_tahun_ke_atas": "1152",
-        "tahun": "2021"
+      "nama_provinsi": "MALUKU UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "49991",
+          "perempuan": "46711",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "97221",
+          "semester": "1",
+          "jumlah_penduduk_km2": "6488.73",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "10534",
+          "usia_20_24": "9912",
+          "usia_5_9": "8936",
+          "usia_10_14": "9787",
+          "usia_0_4_thn": "4623",
+          "usia_25_29": "8475",
+          "usia_30_34": "7948",
+          "usia_35_39": "8286",
+          "usia_40_44": "7901",
+          "usia_45_49": "6279",
+          "usia_50_54": "4738",
+          "usia_55_59": "3302",
+          "usia_60_64": "2395",
+          "usia_65_69": "1827",
+          "usia_70_74": "1141",
+          "usia_75_tahun_ke_atas": "1137",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -163,25 +259,41 @@
       "kode_wilayah": "82.07",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "82",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "7403",
-        "usia_20_24": "7188",
-        "usia_5_9": "8526",
-        "usia_10_14": "8588",
-        "usia_0_4_thn": "6908",
-        "usia_25_29": "6313",
-        "usia_30_34": "6341",
-        "usia_35_39": "6449",
-        "usia_40_44": "4751",
-        "usia_45_49": "4089",
-        "usia_50_54": "3065",
-        "usia_55_59": "2335",
-        "usia_60_64": "1956",
-        "usia_65_69": "1580",
-        "usia_70_74": "941",
-        "usia_75_tahun_ke_atas": "796",
-        "tahun": "2021"
+      "nama_provinsi": "MALUKU UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "40517",
+          "perempuan": "38245",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "79319",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2337.331",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "7105",
+          "usia_20_24": "7781",
+          "usia_5_9": "8687",
+          "usia_10_14": "8684",
+          "usia_0_4_thn": "5818",
+          "usia_25_29": "6611",
+          "usia_30_34": "6346",
+          "usia_35_39": "6514",
+          "usia_40_44": "5504",
+          "usia_45_49": "4391",
+          "usia_50_54": "3478",
+          "usia_55_59": "2522",
+          "usia_60_64": "2008",
+          "usia_65_69": "1663",
+          "usia_70_74": "1187",
+          "usia_75_tahun_ke_atas": "1020",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -189,25 +301,41 @@
       "kode_wilayah": "82.08",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "82",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "6718",
-        "usia_20_24": "5741",
-        "usia_5_9": "6421",
-        "usia_10_14": "6761",
-        "usia_0_4_thn": "4268",
-        "usia_25_29": "5169",
-        "usia_30_34": "4777",
-        "usia_35_39": "5008",
-        "usia_40_44": "3841",
-        "usia_45_49": "3319",
-        "usia_50_54": "2584",
-        "usia_55_59": "1811",
-        "usia_60_64": "1509",
-        "usia_65_69": "994",
-        "usia_70_74": "638",
-        "usia_75_tahun_ke_atas": "660",
-        "tahun": "2021"
+      "nama_provinsi": "MALUKU UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "32426",
+          "perempuan": "31140",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "63897",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2985.748",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "7185",
+          "usia_20_24": "6329",
+          "usia_5_9": "6514",
+          "usia_10_14": "6696",
+          "usia_0_4_thn": "3914",
+          "usia_25_29": "5727",
+          "usia_30_34": "5214",
+          "usia_35_39": "5043",
+          "usia_40_44": "4501",
+          "usia_45_49": "3493",
+          "usia_50_54": "2965",
+          "usia_55_59": "1891",
+          "usia_60_64": "1638",
+          "usia_65_69": "1175",
+          "usia_70_74": "763",
+          "usia_75_tahun_ke_atas": "849",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -215,25 +343,41 @@
       "kode_wilayah": "82.71",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "82",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "20380",
-        "usia_20_24": "18546",
-        "usia_5_9": "20862",
-        "usia_10_14": "21155",
-        "usia_0_4_thn": "16474",
-        "usia_25_29": "19609",
-        "usia_30_34": "21419",
-        "usia_35_39": "19829",
-        "usia_40_44": "16347",
-        "usia_45_49": "12807",
-        "usia_50_54": "10184",
-        "usia_55_59": "7697",
-        "usia_60_64": "5501",
-        "usia_65_69": "3771",
-        "usia_70_74": "2141",
-        "usia_75_tahun_ke_atas": "2773",
-        "tahun": "2019"
+      "nama_provinsi": "MALUKU UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "101957",
+          "perempuan": "100914",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "202871",
+          "semester": "1",
+          "jumlah_penduduk_km2": "162.202",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "20515",
+          "usia_20_24": "18247",
+          "usia_5_9": "18573",
+          "usia_10_14": "20281",
+          "usia_0_4_thn": "11740",
+          "usia_25_29": "16487",
+          "usia_30_34": "16628",
+          "usia_35_39": "17351",
+          "usia_40_44": "16183",
+          "usia_45_49": "13703",
+          "usia_50_54": "10749",
+          "usia_55_59": "8150",
+          "usia_60_64": "5895",
+          "usia_65_69": "3942",
+          "usia_70_74": "2317",
+          "usia_75_tahun_ke_atas": "2110",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -241,25 +385,41 @@
       "kode_wilayah": "82.72",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "82",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "11468",
-        "usia_20_24": "10201",
-        "usia_5_9": "9679",
-        "usia_10_14": "11665",
-        "usia_0_4_thn": "6224",
-        "usia_25_29": "9800",
-        "usia_30_34": "10094",
-        "usia_35_39": "9827",
-        "usia_40_44": "8538",
-        "usia_45_49": "7184",
-        "usia_50_54": "5657",
-        "usia_55_59": "4447",
-        "usia_60_64": "3358",
-        "usia_65_69": "2320",
-        "usia_70_74": "1303",
-        "usia_75_tahun_ke_atas": "1720",
-        "tahun": "2018"
+      "nama_provinsi": "MALUKU UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "58657",
+          "perempuan": "57966",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "116623",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1703.322",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "11749",
+          "usia_20_24": "11213",
+          "usia_5_9": "9655",
+          "usia_10_14": "10527",
+          "usia_0_4_thn": "6456",
+          "usia_25_29": "9916",
+          "usia_30_34": "9078",
+          "usia_35_39": "9579",
+          "usia_40_44": "9444",
+          "usia_45_49": "8271",
+          "usia_50_54": "6701",
+          "usia_55_59": "4841",
+          "usia_60_64": "3680",
+          "usia_65_69": "2525",
+          "usia_70_74": "1551",
+          "usia_75_tahun_ke_atas": "1437",
+          "tahun": "2023"
+        }
       }
     }
   ]

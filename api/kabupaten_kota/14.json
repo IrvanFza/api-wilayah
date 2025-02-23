@@ -7,25 +7,41 @@
       "kode_wilayah": "14.01",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "14",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "61358",
-        "usia_20_24": "72177",
-        "usia_5_9": "83600",
-        "usia_10_14": "84362",
-        "usia_0_4_thn": "63763",
-        "usia_25_29": "70403",
-        "usia_30_34": "66489",
-        "usia_35_39": "69731",
-        "usia_40_44": "62617",
-        "usia_45_49": "54551",
-        "usia_50_54": "44159",
-        "usia_55_59": "33261",
-        "usia_60_64": "22923",
-        "usia_65_69": "13420",
-        "usia_70_74": "6561",
-        "usia_75_tahun_ke_atas": "7191",
-        "tahun": "2021"
+      "nama_provinsi": "RIAU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "432615",
+          "perempuan": "414621",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "854738",
+          "semester": "1",
+          "jumlah_penduduk_km2": "10352.803",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "62881",
+          "usia_20_24": "76499",
+          "usia_5_9": "85723",
+          "usia_10_14": "88643",
+          "usia_0_4_thn": "59378",
+          "usia_25_29": "72499",
+          "usia_30_34": "68793",
+          "usia_35_39": "69470",
+          "usia_40_44": "68207",
+          "usia_45_49": "57060",
+          "usia_50_54": "48770",
+          "usia_55_59": "36652",
+          "usia_60_64": "26194",
+          "usia_65_69": "16441",
+          "usia_70_74": "8810",
+          "usia_75_tahun_ke_atas": "8718",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -33,25 +49,41 @@
       "kode_wilayah": "14.02",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "14",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "33406",
-        "usia_20_24": "36505",
-        "usia_5_9": "47366",
-        "usia_10_14": "49227",
-        "usia_0_4_thn": "32880",
-        "usia_25_29": "36168",
-        "usia_30_34": "37471",
-        "usia_35_39": "40104",
-        "usia_40_44": "34727",
-        "usia_45_49": "29949",
-        "usia_50_54": "23844",
-        "usia_55_59": "18315",
-        "usia_60_64": "12883",
-        "usia_65_69": "7882",
-        "usia_70_74": "3896",
-        "usia_75_tahun_ke_atas": "3816",
-        "tahun": "2021"
+      "nama_provinsi": "RIAU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "236876",
+          "perempuan": "225427",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "466436",
+          "semester": "1",
+          "jumlah_penduduk_km2": "7871.85",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "35731",
+          "usia_20_24": "39663",
+          "usia_5_9": "46588",
+          "usia_10_14": "50386",
+          "usia_0_4_thn": "28950",
+          "usia_25_29": "36358",
+          "usia_30_34": "37701",
+          "usia_35_39": "39675",
+          "usia_40_44": "38781",
+          "usia_45_49": "31023",
+          "usia_50_54": "26943",
+          "usia_55_59": "19956",
+          "usia_60_64": "14906",
+          "usia_65_69": "9739",
+          "usia_70_74": "5313",
+          "usia_75_tahun_ke_atas": "4723",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -59,25 +91,41 @@
       "kode_wilayah": "14.03",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "14",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "54350",
-        "usia_20_24": "54266",
-        "usia_5_9": "63161",
-        "usia_10_14": "63677",
-        "usia_0_4_thn": "50400",
-        "usia_25_29": "50536",
-        "usia_30_34": "46872",
-        "usia_35_39": "50182",
-        "usia_40_44": "47529",
-        "usia_45_49": "42235",
-        "usia_50_54": "33466",
-        "usia_55_59": "25456",
-        "usia_60_64": "17920",
-        "usia_65_69": "11602",
-        "usia_70_74": "6265",
-        "usia_75_tahun_ke_atas": "6314",
-        "tahun": "2021"
+      "nama_provinsi": "RIAU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "330631",
+          "perempuan": "316085",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "651835",
+          "semester": "1",
+          "jumlah_penduduk_km2": "8616.358",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "55638",
+          "usia_20_24": "59686",
+          "usia_5_9": "63244",
+          "usia_10_14": "67060",
+          "usia_0_4_thn": "45389",
+          "usia_25_29": "52455",
+          "usia_30_34": "48841",
+          "usia_35_39": "49528",
+          "usia_40_44": "50977",
+          "usia_45_49": "44058",
+          "usia_50_54": "37637",
+          "usia_55_59": "27863",
+          "usia_60_64": "20225",
+          "usia_65_69": "13699",
+          "usia_70_74": "7961",
+          "usia_75_tahun_ke_atas": "7574",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -85,25 +133,41 @@
       "kode_wilayah": "14.04",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "14",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "51289",
-        "usia_20_24": "59029",
-        "usia_5_9": "63139",
-        "usia_10_14": "66841",
-        "usia_0_4_thn": "38767",
-        "usia_25_29": "54966",
-        "usia_30_34": "53833",
-        "usia_35_39": "58092",
-        "usia_40_44": "54088",
-        "usia_45_49": "48013",
-        "usia_50_54": "38338",
-        "usia_55_59": "28240",
-        "usia_60_64": "21946",
-        "usia_65_69": "14433",
-        "usia_70_74": "8833",
-        "usia_75_tahun_ke_atas": "7825",
-        "tahun": "2021"
+      "nama_provinsi": "RIAU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "352866",
+          "perempuan": "331096",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "690236",
+          "semester": "1",
+          "jumlah_penduduk_km2": "13521.263",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "52609",
+          "usia_20_24": "62412",
+          "usia_5_9": "61638",
+          "usia_10_14": "67532",
+          "usia_0_4_thn": "33231",
+          "usia_25_29": "56238",
+          "usia_30_34": "54790",
+          "usia_35_39": "57101",
+          "usia_40_44": "57732",
+          "usia_45_49": "50315",
+          "usia_50_54": "42843",
+          "usia_55_59": "31833",
+          "usia_60_64": "24099",
+          "usia_65_69": "16951",
+          "usia_70_74": "10720",
+          "usia_75_tahun_ke_atas": "10192",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -111,25 +175,41 @@
       "kode_wilayah": "14.05",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "14",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "31972",
-        "usia_20_24": "32368",
-        "usia_5_9": "45107",
-        "usia_10_14": "45261",
-        "usia_0_4_thn": "32436",
-        "usia_25_29": "31882",
-        "usia_30_34": "33747",
-        "usia_35_39": "36188",
-        "usia_40_44": "31614",
-        "usia_45_49": "25613",
-        "usia_50_54": "19118",
-        "usia_55_59": "12850",
-        "usia_60_64": "8607",
-        "usia_65_69": "4706",
-        "usia_70_74": "2302",
-        "usia_75_tahun_ke_atas": "1876",
-        "tahun": "2021"
+      "nama_provinsi": "RIAU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "212563",
+          "perempuan": "199363",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "415469",
+          "semester": "1",
+          "jumlah_penduduk_km2": "13262.113",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "30714",
+          "usia_20_24": "36427",
+          "usia_5_9": "45501",
+          "usia_10_14": "47158",
+          "usia_0_4_thn": "29954",
+          "usia_25_29": "33268",
+          "usia_30_34": "34522",
+          "usia_35_39": "36303",
+          "usia_40_44": "35387",
+          "usia_45_49": "27789",
+          "usia_50_54": "22030",
+          "usia_55_59": "15031",
+          "usia_60_64": "9937",
+          "usia_65_69": "5984",
+          "usia_70_74": "3015",
+          "usia_75_tahun_ke_atas": "2449",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -137,25 +217,41 @@
       "kode_wilayah": "14.06",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "14",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "56286",
-        "usia_20_24": "50530",
-        "usia_5_9": "57612",
-        "usia_10_14": "63648",
-        "usia_0_4_thn": "37170",
-        "usia_25_29": "44625",
-        "usia_30_34": "43658",
-        "usia_35_39": "48787",
-        "usia_40_44": "42770",
-        "usia_45_49": "34906",
-        "usia_50_54": "26511",
-        "usia_55_59": "20586",
-        "usia_60_64": "14448",
-        "usia_65_69": "8888",
-        "usia_70_74": "4819",
-        "usia_75_tahun_ke_atas": "5503",
-        "tahun": "2021"
+      "nama_provinsi": "RIAU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "286813",
+          "perempuan": "277606",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "568004",
+          "semester": "1",
+          "jumlah_penduduk_km2": "7658.149",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "50187",
+          "usia_20_24": "51672",
+          "usia_5_9": "57249",
+          "usia_10_14": "63701",
+          "usia_0_4_thn": "33807",
+          "usia_25_29": "46112",
+          "usia_30_34": "43382",
+          "usia_35_39": "46688",
+          "usia_40_44": "46516",
+          "usia_45_49": "37110",
+          "usia_50_54": "29768",
+          "usia_55_59": "22302",
+          "usia_60_64": "16086",
+          "usia_65_69": "10765",
+          "usia_70_74": "6122",
+          "usia_75_tahun_ke_atas": "6537",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -163,25 +259,41 @@
       "kode_wilayah": "14.07",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "14",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "60285",
-        "usia_20_24": "58611",
-        "usia_5_9": "69665",
-        "usia_10_14": "73369",
-        "usia_0_4_thn": "44724",
-        "usia_25_29": "53091",
-        "usia_30_34": "49664",
-        "usia_35_39": "53004",
-        "usia_40_44": "47528",
-        "usia_45_49": "40184",
-        "usia_50_54": "32724",
-        "usia_55_59": "25173",
-        "usia_60_64": "18529",
-        "usia_65_69": "11157",
-        "usia_70_74": "5790",
-        "usia_75_tahun_ke_atas": "5714",
-        "tahun": "2021"
+      "nama_provinsi": "RIAU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "334837",
+          "perempuan": "319449",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "656905",
+          "semester": "1",
+          "jumlah_penduduk_km2": "9068.458",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "58162",
+          "usia_20_24": "60435",
+          "usia_5_9": "67282",
+          "usia_10_14": "73866",
+          "usia_0_4_thn": "35630",
+          "usia_25_29": "53272",
+          "usia_30_34": "51386",
+          "usia_35_39": "50779",
+          "usia_40_44": "52021",
+          "usia_45_49": "41999",
+          "usia_50_54": "35801",
+          "usia_55_59": "27478",
+          "usia_60_64": "20302",
+          "usia_65_69": "13646",
+          "usia_70_74": "7738",
+          "usia_75_tahun_ke_atas": "7108",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -189,25 +301,41 @@
       "kode_wilayah": "14.08",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "14",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "40373",
-        "usia_20_24": "41608",
-        "usia_5_9": "48403",
-        "usia_10_14": "49893",
-        "usia_0_4_thn": "34846",
-        "usia_25_29": "37580",
-        "usia_30_34": "35526",
-        "usia_35_39": "37822",
-        "usia_40_44": "35523",
-        "usia_45_49": "32410",
-        "usia_50_54": "25830",
-        "usia_55_59": "17223",
-        "usia_60_64": "10336",
-        "usia_65_69": "6049",
-        "usia_70_74": "3140",
-        "usia_75_tahun_ke_atas": "2749",
-        "tahun": "2021"
+      "nama_provinsi": "RIAU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "241575",
+          "perempuan": "228910",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "474625",
+          "semester": "1",
+          "jumlah_penduduk_km2": "7805.538",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "40647",
+          "usia_20_24": "45152",
+          "usia_5_9": "46993",
+          "usia_10_14": "50826",
+          "usia_0_4_thn": "32010",
+          "usia_25_29": "39286",
+          "usia_30_34": "35719",
+          "usia_35_39": "37006",
+          "usia_40_44": "37396",
+          "usia_45_49": "33276",
+          "usia_50_54": "28818",
+          "usia_55_59": "20187",
+          "usia_60_64": "12148",
+          "usia_65_69": "7423",
+          "usia_70_74": "4209",
+          "usia_75_tahun_ke_atas": "3529",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -215,25 +343,41 @@
       "kode_wilayah": "14.09",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "14",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "27444",
-        "usia_20_24": "29169",
-        "usia_5_9": "32248",
-        "usia_10_14": "34032",
-        "usia_0_4_thn": "24158",
-        "usia_25_29": "27884",
-        "usia_30_34": "26694",
-        "usia_35_39": "28599",
-        "usia_40_44": "25620",
-        "usia_45_49": "22645",
-        "usia_50_54": "18204",
-        "usia_55_59": "14105",
-        "usia_60_64": "12091",
-        "usia_65_69": "7703",
-        "usia_70_74": "4072",
-        "usia_75_tahun_ke_atas": "4665",
-        "tahun": "2021"
+      "nama_provinsi": "RIAU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "176578",
+          "perempuan": "171371",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "350975",
+          "semester": "1",
+          "jumlah_penduduk_km2": "5457.862",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "26148",
+          "usia_20_24": "31087",
+          "usia_5_9": "31924",
+          "usia_10_14": "34384",
+          "usia_0_4_thn": "22793",
+          "usia_25_29": "28201",
+          "usia_30_34": "27497",
+          "usia_35_39": "28356",
+          "usia_40_44": "27971",
+          "usia_45_49": "23433",
+          "usia_50_54": "20554",
+          "usia_55_59": "15227",
+          "usia_60_64": "12874",
+          "usia_65_69": "9410",
+          "usia_70_74": "5352",
+          "usia_75_tahun_ke_atas": "5764",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -241,25 +385,41 @@
       "kode_wilayah": "14.10",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "14",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "19119",
-        "usia_20_24": "18201",
-        "usia_5_9": "18693",
-        "usia_10_14": "18370",
-        "usia_0_4_thn": "15209",
-        "usia_25_29": "16913",
-        "usia_30_34": "16330",
-        "usia_35_39": "17368",
-        "usia_40_44": "15903",
-        "usia_45_49": "13730",
-        "usia_50_54": "10871",
-        "usia_55_59": "9592",
-        "usia_60_64": "7621",
-        "usia_65_69": "5090",
-        "usia_70_74": "3280",
-        "usia_75_tahun_ke_atas": "4117",
-        "tahun": "2021"
+      "nama_provinsi": "RIAU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "108730",
+          "perempuan": "102457",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "211515",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3623.558",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "18137",
+          "usia_20_24": "18788",
+          "usia_5_9": "18312",
+          "usia_10_14": "18653",
+          "usia_0_4_thn": "13207",
+          "usia_25_29": "16704",
+          "usia_30_34": "15847",
+          "usia_35_39": "16832",
+          "usia_40_44": "16850",
+          "usia_45_49": "14220",
+          "usia_50_54": "11971",
+          "usia_55_59": "9595",
+          "usia_60_64": "8303",
+          "usia_65_69": "5794",
+          "usia_70_74": "3790",
+          "usia_75_tahun_ke_atas": "4512",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -267,25 +427,41 @@
       "kode_wilayah": "14.71",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "14",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "64768",
-        "usia_20_24": "80246",
-        "usia_5_9": "93313",
-        "usia_10_14": "73074",
-        "usia_0_4_thn": "89024",
-        "usia_25_29": "84370",
-        "usia_30_34": "88335",
-        "usia_35_39": "90498",
-        "usia_40_44": "78065",
-        "usia_45_49": "68030",
-        "usia_50_54": "53045",
-        "usia_55_59": "39545",
-        "usia_60_64": "26511",
-        "usia_65_69": "15657",
-        "usia_70_74": "7676",
-        "usia_75_tahun_ke_atas": "7673",
-        "tahun": "2019"
+      "nama_provinsi": "RIAU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "561263",
+          "perempuan": "554879",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1116142",
+          "semester": "1",
+          "jumlah_penduduk_km2": "638.331",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "87715",
+          "usia_20_24": "92366",
+          "usia_5_9": "105901",
+          "usia_10_14": "107732",
+          "usia_0_4_thn": "75515",
+          "usia_25_29": "92879",
+          "usia_30_34": "92740",
+          "usia_35_39": "92752",
+          "usia_40_44": "91734",
+          "usia_45_49": "77680",
+          "usia_50_54": "65962",
+          "usia_55_59": "50101",
+          "usia_60_64": "35748",
+          "usia_65_69": "23518",
+          "usia_70_74": "12646",
+          "usia_75_tahun_ke_atas": "11153",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -293,25 +469,41 @@
       "kode_wilayah": "14.72",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "14",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "23122",
-        "usia_20_24": "25787",
-        "usia_5_9": "27898",
-        "usia_10_14": "24419",
-        "usia_0_4_thn": "26652",
-        "usia_25_29": "24787",
-        "usia_30_34": "25902",
-        "usia_35_39": "26370",
-        "usia_40_44": "22150",
-        "usia_45_49": "18401",
-        "usia_50_54": "14117",
-        "usia_55_59": "11311",
-        "usia_60_64": "7816",
-        "usia_65_69": "4966",
-        "usia_70_74": "2550",
-        "usia_75_tahun_ke_atas": "2487",
-        "tahun": "2018"
+      "nama_provinsi": "RIAU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "173758",
+          "perempuan": "164306",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "338064",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2059.613",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "26574",
+          "usia_20_24": "29936",
+          "usia_5_9": "34178",
+          "usia_10_14": "34589",
+          "usia_0_4_thn": "24815",
+          "usia_25_29": "28566",
+          "usia_30_34": "26749",
+          "usia_35_39": "27037",
+          "usia_40_44": "27092",
+          "usia_45_49": "22411",
+          "usia_50_54": "18156",
+          "usia_55_59": "13525",
+          "usia_60_64": "10205",
+          "usia_65_69": "6790",
+          "usia_70_74": "4020",
+          "usia_75_tahun_ke_atas": "3421",
+          "tahun": "2023"
+        }
       }
     }
   ]

@@ -7,25 +7,41 @@
       "kode_wilayah": "31.01",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "31",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "2552",
-        "usia_20_24": "2580",
-        "usia_5_9": "2906",
-        "usia_10_14": "2563",
-        "usia_0_4_thn": "2859",
-        "usia_25_29": "2556",
-        "usia_30_34": "2460",
-        "usia_35_39": "2527",
-        "usia_40_44": "2185",
-        "usia_45_49": "1848",
-        "usia_50_54": "1563",
-        "usia_55_59": "1145",
-        "usia_60_64": "830",
-        "usia_65_69": "484",
-        "usia_70_74": "289",
-        "usia_75_tahun_ke_atas": "241",
-        "tahun": "2021"
+      "nama_provinsi": "DKI JAKARTA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "15198",
+          "perempuan": "14819",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "30212",
+          "semester": "1",
+          "jumlah_penduduk_km2": "10.725",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "2474",
+          "usia_20_24": "2720",
+          "usia_5_9": "2906",
+          "usia_10_14": "2776",
+          "usia_0_4_thn": "2504",
+          "usia_25_29": "2479",
+          "usia_30_34": "2567",
+          "usia_35_39": "2386",
+          "usia_40_44": "2442",
+          "usia_45_49": "1915",
+          "usia_50_54": "1720",
+          "usia_55_59": "1281",
+          "usia_60_64": "875",
+          "usia_65_69": "600",
+          "usia_70_74": "302",
+          "usia_75_tahun_ke_atas": "265",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -33,25 +49,41 @@
       "kode_wilayah": "31.71",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "31",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "88374",
-        "usia_20_24": "86614",
-        "usia_5_9": "89514",
-        "usia_10_14": "90973",
-        "usia_0_4_thn": "76700",
-        "usia_25_29": "85707",
-        "usia_30_34": "84799",
-        "usia_35_39": "95560",
-        "usia_40_44": "93157",
-        "usia_45_49": "85887",
-        "usia_50_54": "77788",
-        "usia_55_59": "63258",
-        "usia_60_64": "47330",
-        "usia_65_69": "31378",
-        "usia_70_74": "18942",
-        "usia_75_tahun_ke_atas": "20843",
-        "tahun": "2021"
+      "nama_provinsi": "DKI JAKARTA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "554834",
+          "perempuan": "551459",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1109489",
+          "semester": "1",
+          "jumlah_penduduk_km2": "47.565",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "85704",
+          "usia_20_24": "87589",
+          "usia_5_9": "85716",
+          "usia_10_14": "87904",
+          "usia_0_4_thn": "64341",
+          "usia_25_29": "83577",
+          "usia_30_34": "82990",
+          "usia_35_39": "86319",
+          "usia_40_44": "92289",
+          "usia_45_49": "83322",
+          "usia_50_54": "77666",
+          "usia_55_59": "64732",
+          "usia_60_64": "48196",
+          "usia_65_69": "35043",
+          "usia_70_74": "21660",
+          "usia_75_tahun_ke_atas": "22441",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -59,25 +91,41 @@
       "kode_wilayah": "31.72",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "31",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "146188",
-        "usia_20_24": "139822",
-        "usia_5_9": "166987",
-        "usia_10_14": "161459",
-        "usia_0_4_thn": "143380",
-        "usia_25_29": "142687",
-        "usia_30_34": "148544",
-        "usia_35_39": "169839",
-        "usia_40_44": "163331",
-        "usia_45_49": "136650",
-        "usia_50_54": "108486",
-        "usia_55_59": "83572",
-        "usia_60_64": "63787",
-        "usia_65_69": "41983",
-        "usia_70_74": "25241",
-        "usia_75_tahun_ke_atas": "22515",
-        "tahun": "2021"
+      "nama_provinsi": "DKI JAKARTA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "943014",
+          "perempuan": "930050",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1876056",
+          "semester": "1",
+          "jumlah_penduduk_km2": "147.212",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "150875",
+          "usia_20_24": "144201",
+          "usia_5_9": "163003",
+          "usia_10_14": "163176",
+          "usia_0_4_thn": "121050",
+          "usia_25_29": "139129",
+          "usia_30_34": "145540",
+          "usia_35_39": "156437",
+          "usia_40_44": "169101",
+          "usia_45_49": "142670",
+          "usia_50_54": "117478",
+          "usia_55_59": "89306",
+          "usia_60_64": "67472",
+          "usia_65_69": "48694",
+          "usia_70_74": "30457",
+          "usia_75_tahun_ke_atas": "27467",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -85,25 +133,41 @@
       "kode_wilayah": "31.73",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "31",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "197648",
-        "usia_20_24": "193473",
-        "usia_5_9": "220927",
-        "usia_10_14": "216674",
-        "usia_0_4_thn": "189619",
-        "usia_25_29": "198604",
-        "usia_30_34": "207474",
-        "usia_35_39": "238588",
-        "usia_40_44": "227299",
-        "usia_45_49": "193889",
-        "usia_50_54": "158383",
-        "usia_55_59": "123501",
-        "usia_60_64": "90313",
-        "usia_65_69": "59769",
-        "usia_70_74": "36116",
-        "usia_75_tahun_ke_atas": "34052",
-        "tahun": "2021"
+      "nama_provinsi": "DKI JAKARTA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "1311357",
+          "perempuan": "1296552",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "2615945",
+          "semester": "1",
+          "jumlah_penduduk_km2": "125",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "204503",
+          "usia_20_24": "200432",
+          "usia_5_9": "216787",
+          "usia_10_14": "219756",
+          "usia_0_4_thn": "162107",
+          "usia_25_29": "194448",
+          "usia_30_34": "205352",
+          "usia_35_39": "219869",
+          "usia_40_44": "237458",
+          "usia_45_49": "200710",
+          "usia_50_54": "170491",
+          "usia_55_59": "131592",
+          "usia_60_64": "97679",
+          "usia_65_69": "70234",
+          "usia_70_74": "43206",
+          "usia_75_tahun_ke_atas": "41321",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -111,25 +175,41 @@
       "kode_wilayah": "31.74",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "31",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "186326",
-        "usia_20_24": "182522",
-        "usia_5_9": "196408",
-        "usia_10_14": "199056",
-        "usia_0_4_thn": "167877",
-        "usia_25_29": "179214",
-        "usia_30_34": "178122",
-        "usia_35_39": "202340",
-        "usia_40_44": "206978",
-        "usia_45_49": "189193",
-        "usia_50_54": "159553",
-        "usia_55_59": "122857",
-        "usia_60_64": "86763",
-        "usia_65_69": "55726",
-        "usia_70_74": "33235",
-        "usia_75_tahun_ke_atas": "33513",
-        "tahun": "2021"
+      "nama_provinsi": "DKI JAKARTA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "1198577",
+          "perempuan": "1203186",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "2408480",
+          "semester": "1",
+          "jumlah_penduduk_km2": "144.942",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "192600",
+          "usia_20_24": "191325",
+          "usia_5_9": "192671",
+          "usia_10_14": "199333",
+          "usia_0_4_thn": "143840",
+          "usia_25_29": "179935",
+          "usia_30_34": "179960",
+          "usia_35_39": "186003",
+          "usia_40_44": "209409",
+          "usia_45_49": "191857",
+          "usia_50_54": "170174",
+          "usia_55_59": "132169",
+          "usia_60_64": "94510",
+          "usia_65_69": "65457",
+          "usia_70_74": "39825",
+          "usia_75_tahun_ke_atas": "39412",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -137,25 +217,41 @@
       "kode_wilayah": "31.75",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "31",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "252711",
-        "usia_20_24": "251707",
-        "usia_5_9": "282658",
-        "usia_10_14": "280764",
-        "usia_0_4_thn": "248309",
-        "usia_25_29": "253142",
-        "usia_30_34": "254157",
-        "usia_35_39": "285474",
-        "usia_40_44": "278330",
-        "usia_45_49": "246679",
-        "usia_50_54": "204823",
-        "usia_55_59": "157527",
-        "usia_60_64": "115194",
-        "usia_65_69": "75341",
-        "usia_70_74": "41844",
-        "usia_75_tahun_ke_atas": "36039",
-        "tahun": "2021"
+      "nama_provinsi": "DKI JAKARTA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "1653975",
+          "perempuan": "1644250",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "3310146",
+          "semester": "1",
+          "jumlah_penduduk_km2": "185.538",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "266644",
+          "usia_20_24": "261834",
+          "usia_5_9": "279488",
+          "usia_10_14": "282496",
+          "usia_0_4_thn": "212667",
+          "usia_25_29": "251943",
+          "usia_30_34": "255901",
+          "usia_35_39": "263360",
+          "usia_40_44": "287035",
+          "usia_45_49": "253035",
+          "usia_50_54": "219412",
+          "usia_55_59": "168949",
+          "usia_60_64": "124017",
+          "usia_65_69": "87791",
+          "usia_70_74": "52111",
+          "usia_75_tahun_ke_atas": "43463",
+          "tahun": "2023"
+        }
       }
     }
   ]

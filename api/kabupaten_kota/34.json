@@ -7,25 +7,41 @@
       "kode_wilayah": "34.01",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "34",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "31065",
-        "usia_20_24": "32196",
-        "usia_5_9": "29933",
-        "usia_10_14": "32561",
-        "usia_0_4_thn": "25506",
-        "usia_25_29": "31666",
-        "usia_30_34": "27656",
-        "usia_35_39": "30829",
-        "usia_40_44": "31665",
-        "usia_45_49": "30589",
-        "usia_50_54": "31153",
-        "usia_55_59": "28725",
-        "usia_60_64": "25199",
-        "usia_65_69": "19049",
-        "usia_70_74": "13261",
-        "usia_75_tahun_ke_atas": "21821",
-        "tahun": "2021"
+      "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "219776",
+          "perempuan": "223815",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "446705",
+          "semester": "1",
+          "jumlah_penduduk_km2": "577.224",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "31996",
+          "usia_20_24": "31753",
+          "usia_5_9": "29156",
+          "usia_10_14": "31803",
+          "usia_0_4_thn": "22124",
+          "usia_25_29": "31768",
+          "usia_30_34": "29405",
+          "usia_35_39": "28794",
+          "usia_40_44": "32379",
+          "usia_45_49": "30909",
+          "usia_50_54": "30742",
+          "usia_55_59": "30624",
+          "usia_60_64": "26909",
+          "usia_65_69": "20995",
+          "usia_70_74": "14607",
+          "usia_75_tahun_ke_atas": "22741",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -33,25 +49,41 @@
       "kode_wilayah": "34.02",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "34",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "65845",
-        "usia_20_24": "66389",
-        "usia_5_9": "68092",
-        "usia_10_14": "73244",
-        "usia_0_4_thn": "59207",
-        "usia_25_29": "68474",
-        "usia_30_34": "65952",
-        "usia_35_39": "73867",
-        "usia_40_44": "73867",
-        "usia_45_49": "69495",
-        "usia_50_54": "67217",
-        "usia_55_59": "60798",
-        "usia_60_64": "52007",
-        "usia_65_69": "35888",
-        "usia_70_74": "21771",
-        "usia_75_tahun_ke_atas": "34400",
-        "tahun": "2021"
+      "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "479742",
+          "perempuan": "484503",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "968237",
+          "semester": "1",
+          "jumlah_penduduk_km2": "511.706",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "69119",
+          "usia_20_24": "68055",
+          "usia_5_9": "66066",
+          "usia_10_14": "72460",
+          "usia_0_4_thn": "51470",
+          "usia_25_29": "67619",
+          "usia_30_34": "67960",
+          "usia_35_39": "68682",
+          "usia_40_44": "76589",
+          "usia_45_49": "70692",
+          "usia_50_54": "68019",
+          "usia_55_59": "63595",
+          "usia_60_64": "55458",
+          "usia_65_69": "41538",
+          "usia_70_74": "25258",
+          "usia_75_tahun_ke_atas": "35657",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -59,25 +91,41 @@
       "kode_wilayah": "34.03",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "34",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "50422",
-        "usia_20_24": "54481",
-        "usia_5_9": "48041",
-        "usia_10_14": "53001",
-        "usia_0_4_thn": "42615",
-        "usia_25_29": "54498",
-        "usia_30_34": "47979",
-        "usia_35_39": "53188",
-        "usia_40_44": "53442",
-        "usia_45_49": "55003",
-        "usia_50_54": "56076",
-        "usia_55_59": "49654",
-        "usia_60_64": "44894",
-        "usia_65_69": "36496",
-        "usia_70_74": "27981",
-        "usia_75_tahun_ke_atas": "46670",
-        "tahun": "2021"
+      "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "383742",
+          "perempuan": "391504",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "776090",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1475.147",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "51194",
+          "usia_20_24": "53906",
+          "usia_5_9": "46810",
+          "usia_10_14": "51567",
+          "usia_0_4_thn": "37455",
+          "usia_25_29": "53037",
+          "usia_30_34": "51238",
+          "usia_35_39": "48389",
+          "usia_40_44": "55362",
+          "usia_45_49": "52778",
+          "usia_50_54": "57016",
+          "usia_55_59": "50930",
+          "usia_60_64": "47225",
+          "usia_65_69": "39660",
+          "usia_70_74": "29899",
+          "usia_75_tahun_ke_atas": "49624",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -85,25 +133,41 @@
       "kode_wilayah": "34.04",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "34",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "77914",
-        "usia_20_24": "78056",
-        "usia_5_9": "78932",
-        "usia_10_14": "84437",
-        "usia_0_4_thn": "65891",
-        "usia_25_29": "77876",
-        "usia_30_34": "73262",
-        "usia_35_39": "82738",
-        "usia_40_44": "86888",
-        "usia_45_49": "82234",
-        "usia_50_54": "77710",
-        "usia_55_59": "65336",
-        "usia_60_64": "54648",
-        "usia_65_69": "40904",
-        "usia_70_74": "24684",
-        "usia_75_tahun_ke_atas": "36599",
-        "tahun": "2021"
+      "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "543466",
+          "perempuan": "554489",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1105415",
+          "semester": "1",
+          "jumlah_penduduk_km2": "573.749",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "78901",
+          "usia_20_24": "80682",
+          "usia_5_9": "77013",
+          "usia_10_14": "84205",
+          "usia_0_4_thn": "58101",
+          "usia_25_29": "79083",
+          "usia_30_34": "76426",
+          "usia_35_39": "76318",
+          "usia_40_44": "88677",
+          "usia_45_49": "83383",
+          "usia_50_54": "80163",
+          "usia_55_59": "70599",
+          "usia_60_64": "57890",
+          "usia_65_69": "45709",
+          "usia_70_74": "28569",
+          "usia_75_tahun_ke_atas": "39696",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -111,25 +175,41 @@
       "kode_wilayah": "34.71",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "34",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "33228",
-        "usia_20_24": "30582",
-        "usia_5_9": "29846",
-        "usia_10_14": "31752",
-        "usia_0_4_thn": "28167",
-        "usia_25_29": "29984",
-        "usia_30_34": "29246",
-        "usia_35_39": "33004",
-        "usia_40_44": "31291",
-        "usia_45_49": "30258",
-        "usia_50_54": "28821",
-        "usia_55_59": "25560",
-        "usia_60_64": "20527",
-        "usia_65_69": "13542",
-        "usia_70_74": "7507",
-        "usia_75_tahun_ke_atas": "10740",
-        "tahun": "2019"
+      "nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "201736",
+          "perempuan": "212046",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "413782",
+          "semester": "1",
+          "jumlah_penduduk_km2": "32.819",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "32437",
+          "usia_20_24": "32045",
+          "usia_5_9": "27637",
+          "usia_10_14": "30702",
+          "usia_0_4_thn": "20474",
+          "usia_25_29": "30332",
+          "usia_30_34": "28831",
+          "usia_35_39": "28880",
+          "usia_40_44": "32576",
+          "usia_45_49": "30183",
+          "usia_50_54": "29150",
+          "usia_55_59": "26894",
+          "usia_60_64": "23173",
+          "usia_65_69": "17800",
+          "usia_70_74": "10873",
+          "usia_75_tahun_ke_atas": "11795",
+          "tahun": "2023"
+        }
       }
     }
   ]

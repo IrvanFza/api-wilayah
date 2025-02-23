@@ -7,25 +7,41 @@
       "kode_wilayah": "94.01",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "94",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "18398",
-        "usia_20_24": "17189",
-        "usia_5_9": "17048",
-        "usia_10_14": "18805",
-        "usia_0_4_thn": "11367",
-        "usia_25_29": "15526",
-        "usia_30_34": "14566",
-        "usia_35_39": "14966",
-        "usia_40_44": "12893",
-        "usia_45_49": "10267",
-        "usia_50_54": "7691",
-        "usia_55_59": "5807",
-        "usia_60_64": "3837",
-        "usia_65_69": "2408",
-        "usia_70_74": "1364",
-        "usia_75_tahun_ke_atas": "980",
-        "tahun": "2021"
+      "nama_provinsi": "PAPUA TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "90941",
+          "perempuan": "83486",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "174427",
+          "semester": "1",
+          "jumlah_penduduk_km2": "11806.088",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "18712",
+          "usia_20_24": "17468",
+          "usia_5_9": "17425",
+          "usia_10_14": "18702",
+          "usia_0_4_thn": "10169",
+          "usia_25_29": "15638",
+          "usia_30_34": "14601",
+          "usia_35_39": "13484",
+          "usia_40_44": "13652",
+          "usia_45_49": "10688",
+          "usia_50_54": "8479",
+          "usia_55_59": "5863",
+          "usia_60_64": "4058",
+          "usia_65_69": "2661",
+          "usia_70_74": "1636",
+          "usia_75_tahun_ke_atas": "1191",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -33,25 +49,41 @@
       "kode_wilayah": "94.02",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "94",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "19771",
-        "usia_20_24": "26466",
-        "usia_5_9": "5615",
-        "usia_10_14": "10214",
-        "usia_0_4_thn": "3311",
-        "usia_25_29": "18923",
-        "usia_30_34": "21655",
-        "usia_35_39": "27911",
-        "usia_40_44": "22712",
-        "usia_45_49": "20921",
-        "usia_50_54": "16116",
-        "usia_55_59": "11613",
-        "usia_60_64": "6127",
-        "usia_65_69": "4289",
-        "usia_70_74": "1814",
-        "usia_75_tahun_ke_atas": "1670",
-        "tahun": "2021"
+      "nama_provinsi": "PAPUA TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "118155",
+          "perempuan": "101342",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "219497",
+          "semester": "1",
+          "jumlah_penduduk_km2": "5986.19",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "17448",
+          "usia_20_24": "27089",
+          "usia_5_9": "6700",
+          "usia_10_14": "8162",
+          "usia_0_4_thn": "3413",
+          "usia_25_29": "20353",
+          "usia_30_34": "21907",
+          "usia_35_39": "24220",
+          "usia_40_44": "25667",
+          "usia_45_49": "21189",
+          "usia_50_54": "17509",
+          "usia_55_59": "10784",
+          "usia_60_64": "7702",
+          "usia_65_69": "3513",
+          "usia_70_74": "2451",
+          "usia_75_tahun_ke_atas": "1390",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -59,25 +91,41 @@
       "kode_wilayah": "94.03",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "94",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "8198",
-        "usia_20_24": "15634",
-        "usia_5_9": "8422",
-        "usia_10_14": "7139",
-        "usia_0_4_thn": "5300",
-        "usia_25_29": "18030",
-        "usia_30_34": "15901",
-        "usia_35_39": "9969",
-        "usia_40_44": "8704",
-        "usia_45_49": "5895",
-        "usia_50_54": "8307",
-        "usia_55_59": "4212",
-        "usia_60_64": "3421",
-        "usia_65_69": "977",
-        "usia_70_74": "988",
-        "usia_75_tahun_ke_atas": "232",
-        "tahun": "2021"
+      "nama_provinsi": "PAPUA TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "67581",
+          "perempuan": "55779",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "123360",
+          "semester": "1",
+          "jumlah_penduduk_km2": "5306.871",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "9828",
+          "usia_20_24": "13689",
+          "usia_5_9": "13234",
+          "usia_10_14": "8603",
+          "usia_0_4_thn": "4724",
+          "usia_25_29": "20019",
+          "usia_30_34": "19690",
+          "usia_35_39": "13161",
+          "usia_40_44": "10960",
+          "usia_45_49": "5807",
+          "usia_50_54": "1585",
+          "usia_55_59": "1002",
+          "usia_60_64": "565",
+          "usia_65_69": "222",
+          "usia_70_74": "200",
+          "usia_75_tahun_ke_atas": "71",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -85,25 +133,41 @@
       "kode_wilayah": "94.04",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "94",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "30886",
-        "usia_20_24": "29437",
-        "usia_5_9": "29391",
-        "usia_10_14": "33696",
-        "usia_0_4_thn": "18094",
-        "usia_25_29": "28760",
-        "usia_30_34": "31392",
-        "usia_35_39": "29752",
-        "usia_40_44": "26200",
-        "usia_45_49": "20545",
-        "usia_50_54": "14573",
-        "usia_55_59": "8438",
-        "usia_60_64": "5116",
-        "usia_65_69": "2873",
-        "usia_70_74": "1509",
-        "usia_75_tahun_ke_atas": "1263",
-        "tahun": "2021"
+      "nama_provinsi": "PAPUA TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "165972",
+          "perempuan": "147044",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "313016",
+          "semester": "1",
+          "jumlah_penduduk_km2": "18298.948",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "32878",
+          "usia_20_24": "30920",
+          "usia_5_9": "29549",
+          "usia_10_14": "33171",
+          "usia_0_4_thn": "17172",
+          "usia_25_29": "27695",
+          "usia_30_34": "28494",
+          "usia_35_39": "27640",
+          "usia_40_44": "26278",
+          "usia_45_49": "21238",
+          "usia_50_54": "16097",
+          "usia_55_59": "9576",
+          "usia_60_64": "6044",
+          "usia_65_69": "3095",
+          "usia_70_74": "1883",
+          "usia_75_tahun_ke_atas": "1286",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -111,25 +175,41 @@
       "kode_wilayah": "94.05",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "94",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "18041",
-        "usia_20_24": "21586",
-        "usia_5_9": "5776",
-        "usia_10_14": "12872",
-        "usia_0_4_thn": "3214",
-        "usia_25_29": "18525",
-        "usia_30_34": "17362",
-        "usia_35_39": "16444",
-        "usia_40_44": "22303",
-        "usia_45_49": "15951",
-        "usia_50_54": "12277",
-        "usia_55_59": "6187",
-        "usia_60_64": "3411",
-        "usia_65_69": "1708",
-        "usia_70_74": "520",
-        "usia_75_tahun_ke_atas": "139",
-        "tahun": "2021"
+      "nama_provinsi": "PAPUA TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "93408",
+          "perempuan": "83551",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "176959",
+          "semester": "1",
+          "jumlah_penduduk_km2": "7701.031",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "17469",
+          "usia_20_24": "21861",
+          "usia_5_9": "5443",
+          "usia_10_14": "9199",
+          "usia_0_4_thn": "2140",
+          "usia_25_29": "19121",
+          "usia_30_34": "18326",
+          "usia_35_39": "15354",
+          "usia_40_44": "22019",
+          "usia_45_49": "16839",
+          "usia_50_54": "15168",
+          "usia_55_59": "7516",
+          "usia_60_64": "4583",
+          "usia_65_69": "1755",
+          "usia_70_74": "138",
+          "usia_75_tahun_ke_atas": "28",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -137,25 +217,41 @@
       "kode_wilayah": "94.06",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "94",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "10274",
-        "usia_20_24": "11245",
-        "usia_5_9": "6065",
-        "usia_10_14": "12345",
-        "usia_0_4_thn": "2467",
-        "usia_25_29": "12212",
-        "usia_30_34": "15011",
-        "usia_35_39": "10709",
-        "usia_40_44": "11397",
-        "usia_45_49": "6744",
-        "usia_50_54": "7767",
-        "usia_55_59": "4013",
-        "usia_60_64": "2755",
-        "usia_65_69": "1290",
-        "usia_70_74": "603",
-        "usia_75_tahun_ke_atas": "220",
-        "tahun": "2021"
+      "nama_provinsi": "PAPUA TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "60418",
+          "perempuan": "55371",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "115789",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3792.928",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "11809",
+          "usia_20_24": "11868",
+          "usia_5_9": "5255",
+          "usia_10_14": "11276",
+          "usia_0_4_thn": "1857",
+          "usia_25_29": "10633",
+          "usia_30_34": "15083",
+          "usia_35_39": "11279",
+          "usia_40_44": "12040",
+          "usia_45_49": "7711",
+          "usia_50_54": "7663",
+          "usia_55_59": "5136",
+          "usia_60_64": "3326",
+          "usia_65_69": "735",
+          "usia_70_74": "85",
+          "usia_75_tahun_ke_atas": "33",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -163,25 +259,41 @@
       "kode_wilayah": "94.07",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "94",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "11550",
-        "usia_20_24": "17178",
-        "usia_5_9": "4040",
-        "usia_10_14": "8212",
-        "usia_0_4_thn": "1968",
-        "usia_25_29": "14223",
-        "usia_30_34": "14063",
-        "usia_35_39": "14047",
-        "usia_40_44": "14902",
-        "usia_45_49": "11669",
-        "usia_50_54": "10021",
-        "usia_55_59": "5718",
-        "usia_60_64": "3961",
-        "usia_65_69": "2177",
-        "usia_70_74": "1735",
-        "usia_75_tahun_ke_atas": "721",
-        "tahun": "2021"
+      "nama_provinsi": "PAPUA TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "71800",
+          "perempuan": "64956",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "136756",
+          "semester": "1",
+          "jumlah_penduduk_km2": "5334.445",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "11352",
+          "usia_20_24": "15849",
+          "usia_5_9": "4603",
+          "usia_10_14": "6419",
+          "usia_0_4_thn": "1546",
+          "usia_25_29": "15827",
+          "usia_30_34": "14197",
+          "usia_35_39": "13780",
+          "usia_40_44": "15093",
+          "usia_45_49": "11560",
+          "usia_50_54": "10615",
+          "usia_55_59": "6240",
+          "usia_60_64": "4689",
+          "usia_65_69": "2186",
+          "usia_70_74": "1921",
+          "usia_75_tahun_ke_atas": "879",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -189,25 +301,41 @@
       "kode_wilayah": "94.08",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "94",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "10912",
-        "usia_20_24": "12392",
-        "usia_5_9": "4316",
-        "usia_10_14": "9717",
-        "usia_0_4_thn": "2667",
-        "usia_25_29": "9753",
-        "usia_30_34": "8915",
-        "usia_35_39": "6136",
-        "usia_40_44": "7646",
-        "usia_45_49": "4981",
-        "usia_50_54": "7028",
-        "usia_55_59": "3352",
-        "usia_60_64": "2352",
-        "usia_65_69": "706",
-        "usia_70_74": "272",
-        "usia_75_tahun_ke_atas": "111",
-        "tahun": "2021"
+      "nama_provinsi": "PAPUA TENGAH",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "48649",
+          "perempuan": "43206",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "91855",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2846.412",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "11033",
+          "usia_20_24": "12393",
+          "usia_5_9": "4958",
+          "usia_10_14": "7349",
+          "usia_0_4_thn": "2087",
+          "usia_25_29": "10575",
+          "usia_30_34": "9634",
+          "usia_35_39": "6715",
+          "usia_40_44": "8028",
+          "usia_45_49": "4871",
+          "usia_50_54": "6917",
+          "usia_55_59": "4093",
+          "usia_60_64": "2806",
+          "usia_65_69": "180",
+          "usia_70_74": "136",
+          "usia_75_tahun_ke_atas": "80",
+          "tahun": "2023"
+        }
       }
     }
   ]

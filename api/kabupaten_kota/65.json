@@ -7,25 +7,41 @@
       "kode_wilayah": "65.01",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "65",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "12852",
-        "usia_20_24": "13204",
-        "usia_5_9": "15179",
-        "usia_10_14": "15112",
-        "usia_0_4_thn": "12252",
-        "usia_25_29": "12887",
-        "usia_30_34": "12066",
-        "usia_35_39": "12827",
-        "usia_40_44": "11789",
-        "usia_45_49": "10301",
-        "usia_50_54": "8238",
-        "usia_55_59": "6129",
-        "usia_60_64": "4287",
-        "usia_65_69": "2879",
-        "usia_70_74": "1692",
-        "usia_75_tahun_ke_atas": "1864",
-        "tahun": "2021"
+      "nama_provinsi": "KALIMANTAN UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "85113",
+          "perempuan": "76460",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "162878",
+          "semester": "1",
+          "jumlah_penduduk_km2": "13879.787",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "13182",
+          "usia_20_24": "14724",
+          "usia_5_9": "15878",
+          "usia_10_14": "15827",
+          "usia_0_4_thn": "12213",
+          "usia_25_29": "13500",
+          "usia_30_34": "12772",
+          "usia_35_39": "12584",
+          "usia_40_44": "13059",
+          "usia_45_49": "10867",
+          "usia_50_54": "9306",
+          "usia_55_59": "6831",
+          "usia_60_64": "4748",
+          "usia_65_69": "3261",
+          "usia_70_74": "1984",
+          "usia_75_tahun_ke_atas": "2142",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -33,25 +49,41 @@
       "kode_wilayah": "65.02",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "65",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "7727",
-        "usia_20_24": "7702",
-        "usia_5_9": "8326",
-        "usia_10_14": "8373",
-        "usia_0_4_thn": "6694",
-        "usia_25_29": "7163",
-        "usia_30_34": "6608",
-        "usia_35_39": "6717",
-        "usia_40_44": "6116",
-        "usia_45_49": "5142",
-        "usia_50_54": "3792",
-        "usia_55_59": "2678",
-        "usia_60_64": "1833",
-        "usia_65_69": "1349",
-        "usia_70_74": "825",
-        "usia_75_tahun_ke_atas": "880",
-        "tahun": "2021"
+      "nama_provinsi": "KALIMANTAN UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "43566",
+          "perempuan": "39063",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "83371",
+          "semester": "1",
+          "jumlah_penduduk_km2": "38901.833",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "7146",
+          "usia_20_24": "7902",
+          "usia_5_9": "8604",
+          "usia_10_14": "8514",
+          "usia_0_4_thn": "6019",
+          "usia_25_29": "7304",
+          "usia_30_34": "6733",
+          "usia_35_39": "6319",
+          "usia_40_44": "6667",
+          "usia_45_49": "5331",
+          "usia_50_54": "4271",
+          "usia_55_59": "3063",
+          "usia_60_64": "2065",
+          "usia_65_69": "1463",
+          "usia_70_74": "949",
+          "usia_75_tahun_ke_atas": "1021",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -59,25 +91,41 @@
       "kode_wilayah": "65.03",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "65",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "15771",
-        "usia_20_24": "17527",
-        "usia_5_9": "19309",
-        "usia_10_14": "20403",
-        "usia_0_4_thn": "15163",
-        "usia_25_29": "16292",
-        "usia_30_34": "14804",
-        "usia_35_39": "15912",
-        "usia_40_44": "15073",
-        "usia_45_49": "13491",
-        "usia_50_54": "10978",
-        "usia_55_59": "7524",
-        "usia_60_64": "5165",
-        "usia_65_69": "2902",
-        "usia_70_74": "1722",
-        "usia_75_tahun_ke_atas": "2082",
-        "tahun": "2021"
+      "nama_provinsi": "KALIMANTAN UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "111673",
+          "perempuan": "98792",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "213750",
+          "semester": "1",
+          "jumlah_penduduk_km2": "13564.25",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "15398",
+          "usia_20_24": "19903",
+          "usia_5_9": "20139",
+          "usia_10_14": "21357",
+          "usia_0_4_thn": "14514",
+          "usia_25_29": "18919",
+          "usia_30_34": "17033",
+          "usia_35_39": "17082",
+          "usia_40_44": "17448",
+          "usia_45_49": "15298",
+          "usia_50_54": "13209",
+          "usia_55_59": "9077",
+          "usia_60_64": "6087",
+          "usia_65_69": "3633",
+          "usia_70_74": "2100",
+          "usia_75_tahun_ke_atas": "2553",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -85,25 +133,41 @@
       "kode_wilayah": "65.04",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "65",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "2066",
-        "usia_20_24": "2222",
-        "usia_5_9": "3011",
-        "usia_10_14": "2635",
-        "usia_0_4_thn": "2422",
-        "usia_25_29": "2193",
-        "usia_30_34": "2318",
-        "usia_35_39": "2396",
-        "usia_40_44": "2062",
-        "usia_45_49": "1721",
-        "usia_50_54": "1320",
-        "usia_55_59": "824",
-        "usia_60_64": "526",
-        "usia_65_69": "344",
-        "usia_70_74": "229",
-        "usia_75_tahun_ke_atas": "219",
-        "tahun": "2021"
+      "nama_provinsi": "KALIMANTAN UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "14446",
+          "perempuan": "13107",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "27980",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3504.336",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "2051",
+          "usia_20_24": "2438",
+          "usia_5_9": "3122",
+          "usia_10_14": "2872",
+          "usia_0_4_thn": "2297",
+          "usia_25_29": "2315",
+          "usia_30_34": "2301",
+          "usia_35_39": "2437",
+          "usia_40_44": "2317",
+          "usia_45_49": "1812",
+          "usia_50_54": "1466",
+          "usia_55_59": "1031",
+          "usia_60_64": "634",
+          "usia_65_69": "371",
+          "usia_70_74": "243",
+          "usia_75_tahun_ke_atas": "273",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -111,25 +175,41 @@
       "kode_wilayah": "65.71",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "65",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "20432",
-        "usia_20_24": "19598",
-        "usia_5_9": "23539",
-        "usia_10_14": "21050",
-        "usia_0_4_thn": "21798",
-        "usia_25_29": "19717",
-        "usia_30_34": "19670",
-        "usia_35_39": "20996",
-        "usia_40_44": "17414",
-        "usia_45_49": "14956",
-        "usia_50_54": "10990",
-        "usia_55_59": "8010",
-        "usia_60_64": "5696",
-        "usia_65_69": "3631",
-        "usia_70_74": "1761",
-        "usia_75_tahun_ke_atas": "1755",
-        "tahun": "2019"
+      "nama_provinsi": "KALIMANTAN UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "127584",
+          "perempuan": "119150",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "246734",
+          "semester": "1",
+          "jumlah_penduduk_km2": "250.978",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "19976",
+          "usia_20_24": "22502",
+          "usia_5_9": "23717",
+          "usia_10_14": "24971",
+          "usia_0_4_thn": "18967",
+          "usia_25_29": "20595",
+          "usia_30_34": "19334",
+          "usia_35_39": "19255",
+          "usia_40_44": "20397",
+          "usia_45_49": "16384",
+          "usia_50_54": "14156",
+          "usia_55_59": "9781",
+          "usia_60_64": "7042",
+          "usia_65_69": "4683",
+          "usia_70_74": "2730",
+          "usia_75_tahun_ke_atas": "2244",
+          "tahun": "2023"
+        }
       }
     }
   ]

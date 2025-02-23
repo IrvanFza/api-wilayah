@@ -7,25 +7,41 @@
       "kode_wilayah": "93.01",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "93",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "21528",
-        "usia_20_24": "21100",
-        "usia_5_9": "24171",
-        "usia_10_14": "24776",
-        "usia_0_4_thn": "17974",
-        "usia_25_29": "19115",
-        "usia_30_34": "17995",
-        "usia_35_39": "18811",
-        "usia_40_44": "15459",
-        "usia_45_49": "12810",
-        "usia_50_54": "10817",
-        "usia_55_59": "9311",
-        "usia_60_64": "6674",
-        "usia_65_69": "4579",
-        "usia_70_74": "2735",
-        "usia_75_tahun_ke_atas": "2531",
-        "tahun": "2021"
+      "nama_provinsi": "PAPUA SELATAN",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "124943",
+          "perempuan": "115666",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "240609",
+          "semester": "1",
+          "jumlah_penduduk_km2": "45013.354",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "18762",
+          "usia_20_24": "21787",
+          "usia_5_9": "25379",
+          "usia_10_14": "25732",
+          "usia_0_4_thn": "17028",
+          "usia_25_29": "20260",
+          "usia_30_34": "19799",
+          "usia_35_39": "18884",
+          "usia_40_44": "18170",
+          "usia_45_49": "13655",
+          "usia_50_54": "12040",
+          "usia_55_59": "9617",
+          "usia_60_64": "7825",
+          "usia_65_69": "5096",
+          "usia_70_74": "3459",
+          "usia_75_tahun_ke_atas": "3116",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -33,25 +49,41 @@
       "kode_wilayah": "93.02",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "93",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "5644",
-        "usia_20_24": "5531",
-        "usia_5_9": "8998",
-        "usia_10_14": "9156",
-        "usia_0_4_thn": "5423",
-        "usia_25_29": "5330",
-        "usia_30_34": "5282",
-        "usia_35_39": "5577",
-        "usia_40_44": "3988",
-        "usia_45_49": "3549",
-        "usia_50_54": "2473",
-        "usia_55_59": "1806",
-        "usia_60_64": "906",
-        "usia_65_69": "559",
-        "usia_70_74": "245",
-        "usia_75_tahun_ke_atas": "176",
-        "tahun": "2021"
+      "nama_provinsi": "PAPUA SELATAN",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "35715",
+          "perempuan": "31452",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "67167",
+          "semester": "1",
+          "jumlah_penduduk_km2": "23558.272",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "5402",
+          "usia_20_24": "5380",
+          "usia_5_9": "9202",
+          "usia_10_14": "9822",
+          "usia_0_4_thn": "4908",
+          "usia_25_29": "5540",
+          "usia_30_34": "5412",
+          "usia_35_39": "5771",
+          "usia_40_44": "4661",
+          "usia_45_49": "3710",
+          "usia_50_54": "2939",
+          "usia_55_59": "1937",
+          "usia_60_64": "1304",
+          "usia_65_69": "615",
+          "usia_70_74": "337",
+          "usia_75_tahun_ke_atas": "227",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -59,25 +91,41 @@
       "kode_wilayah": "93.03",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "93",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "13122",
-        "usia_20_24": "9852",
-        "usia_5_9": "15062",
-        "usia_10_14": "16598",
-        "usia_0_4_thn": "8922",
-        "usia_25_29": "7561",
-        "usia_30_34": "7422",
-        "usia_35_39": "7316",
-        "usia_40_44": "6268",
-        "usia_45_49": "4771",
-        "usia_50_54": "3859",
-        "usia_55_59": "2891",
-        "usia_60_64": "1941",
-        "usia_65_69": "1243",
-        "usia_70_74": "660",
-        "usia_75_tahun_ke_atas": "507",
-        "tahun": "2021"
+      "nama_provinsi": "PAPUA SELATAN",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "56214",
+          "perempuan": "52925",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "109139",
+          "semester": "1",
+          "jumlah_penduduk_km2": "24262.227",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "13565",
+          "usia_20_24": "7827",
+          "usia_5_9": "15876",
+          "usia_10_14": "17629",
+          "usia_0_4_thn": "7415",
+          "usia_25_29": "7571",
+          "usia_30_34": "7689",
+          "usia_35_39": "7426",
+          "usia_40_44": "6789",
+          "usia_45_49": "5098",
+          "usia_50_54": "4100",
+          "usia_55_59": "3017",
+          "usia_60_64": "2325",
+          "usia_65_69": "1353",
+          "usia_70_74": "846",
+          "usia_75_tahun_ke_atas": "613",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -85,25 +133,41 @@
       "kode_wilayah": "93.04",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "93",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "12153",
-        "usia_20_24": "10149",
-        "usia_5_9": "17503",
-        "usia_10_14": "13603",
-        "usia_0_4_thn": "13954",
-        "usia_25_29": "6638",
-        "usia_30_34": "7679",
-        "usia_35_39": "6574",
-        "usia_40_44": "6416",
-        "usia_45_49": "4372",
-        "usia_50_54": "3985",
-        "usia_55_59": "2297",
-        "usia_60_64": "1542",
-        "usia_65_69": "677",
-        "usia_70_74": "422",
-        "usia_75_tahun_ke_atas": "212",
-        "tahun": "2021"
+      "nama_provinsi": "PAPUA SELATAN",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "57149",
+          "perempuan": "52713",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "109862",
+          "semester": "1",
+          "jumlah_penduduk_km2": "25015.306",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "11985",
+          "usia_20_24": "8505",
+          "usia_5_9": "20399",
+          "usia_10_14": "15859",
+          "usia_0_4_thn": "8932",
+          "usia_25_29": "7103",
+          "usia_30_34": "7447",
+          "usia_35_39": "6946",
+          "usia_40_44": "6697",
+          "usia_45_49": "5275",
+          "usia_50_54": "4007",
+          "usia_55_59": "2989",
+          "usia_60_64": "1872",
+          "usia_65_69": "1001",
+          "usia_70_74": "525",
+          "usia_75_tahun_ke_atas": "320",
+          "tahun": "2023"
+        }
       }
     }
   ]

@@ -7,25 +7,41 @@
       "kode_wilayah": "71.01",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "71",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "24874",
-        "usia_20_24": "22065",
-        "usia_5_9": "19813",
-        "usia_10_14": "21540",
-        "usia_0_4_thn": "13553",
-        "usia_25_29": "21059",
-        "usia_30_34": "16194",
-        "usia_35_39": "18123",
-        "usia_40_44": "19024",
-        "usia_45_49": "19564",
-        "usia_50_54": "16456",
-        "usia_55_59": "13030",
-        "usia_60_64": "9563",
-        "usia_65_69": "7366",
-        "usia_70_74": "4563",
-        "usia_75_tahun_ke_atas": "5325",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "131654",
+          "perempuan": "121154",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "253821",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3269.305",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "23754",
+          "usia_20_24": "23308",
+          "usia_5_9": "19564",
+          "usia_10_14": "20602",
+          "usia_0_4_thn": "11630",
+          "usia_25_29": "21155",
+          "usia_30_34": "17647",
+          "usia_35_39": "16272",
+          "usia_40_44": "19099",
+          "usia_45_49": "19387",
+          "usia_50_54": "17992",
+          "usia_55_59": "14107",
+          "usia_60_64": "10265",
+          "usia_65_69": "8108",
+          "usia_70_74": "5198",
+          "usia_75_tahun_ke_atas": "5733",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -33,25 +49,41 @@
       "kode_wilayah": "71.02",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "71",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "28413",
-        "usia_20_24": "28379",
-        "usia_5_9": "22462",
-        "usia_10_14": "24447",
-        "usia_0_4_thn": "15637",
-        "usia_25_29": "25847",
-        "usia_30_34": "22287",
-        "usia_35_39": "22657",
-        "usia_40_44": "25164",
-        "usia_45_49": "26924",
-        "usia_50_54": "24992",
-        "usia_55_59": "21695",
-        "usia_60_64": "17163",
-        "usia_65_69": "15319",
-        "usia_70_74": "9548",
-        "usia_75_tahun_ke_atas": "12866",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "175990",
+          "perempuan": "168590",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "345513",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1128.453",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "27021",
+          "usia_20_24": "28891",
+          "usia_5_9": "21786",
+          "usia_10_14": "24296",
+          "usia_0_4_thn": "14319",
+          "usia_25_29": "25977",
+          "usia_30_34": "23547",
+          "usia_35_39": "21077",
+          "usia_40_44": "23869",
+          "usia_45_49": "25584",
+          "usia_50_54": "25643",
+          "usia_55_59": "22586",
+          "usia_60_64": "17453",
+          "usia_65_69": "16592",
+          "usia_70_74": "11356",
+          "usia_75_tahun_ke_atas": "15516",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -59,25 +91,41 @@
       "kode_wilayah": "71.03",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "71",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "11007",
-        "usia_20_24": "10379",
-        "usia_5_9": "9308",
-        "usia_10_14": "10454",
-        "usia_0_4_thn": "6081",
-        "usia_25_29": "11421",
-        "usia_30_34": "10574",
-        "usia_35_39": "10347",
-        "usia_40_44": "9626",
-        "usia_45_49": "10346",
-        "usia_50_54": "9441",
-        "usia_55_59": "9054",
-        "usia_60_64": "6619",
-        "usia_65_69": "5275",
-        "usia_70_74": "3091",
-        "usia_75_tahun_ke_atas": "3325",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "69672",
+          "perempuan": "67126",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "137494",
+          "semester": "1",
+          "jumlah_penduduk_km2": "597.26",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "10688",
+          "usia_20_24": "10827",
+          "usia_5_9": "8815",
+          "usia_10_14": "10162",
+          "usia_0_4_thn": "5311",
+          "usia_25_29": "11034",
+          "usia_30_34": "11213",
+          "usia_35_39": "9939",
+          "usia_40_44": "10099",
+          "usia_45_49": "9863",
+          "usia_50_54": "9981",
+          "usia_55_59": "9114",
+          "usia_60_64": "7376",
+          "usia_65_69": "5638",
+          "usia_70_74": "3748",
+          "usia_75_tahun_ke_atas": "3686",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -85,25 +133,41 @@
       "kode_wilayah": "71.04",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "71",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "8917",
-        "usia_20_24": "8154",
-        "usia_5_9": "7269",
-        "usia_10_14": "7972",
-        "usia_0_4_thn": "4665",
-        "usia_25_29": "7860",
-        "usia_30_34": "7165",
-        "usia_35_39": "7263",
-        "usia_40_44": "7931",
-        "usia_45_49": "7487",
-        "usia_50_54": "5822",
-        "usia_55_59": "5529",
-        "usia_60_64": "4398",
-        "usia_65_69": "3388",
-        "usia_70_74": "2138",
-        "usia_75_tahun_ke_atas": "2497",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "51643",
+          "perempuan": "48622",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "100772",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1012.14",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "9661",
+          "usia_20_24": "8398",
+          "usia_5_9": "7271",
+          "usia_10_14": "8077",
+          "usia_0_4_thn": "4274",
+          "usia_25_29": "7830",
+          "usia_30_34": "7434",
+          "usia_35_39": "6893",
+          "usia_40_44": "7459",
+          "usia_45_49": "7749",
+          "usia_50_54": "6431",
+          "usia_55_59": "5565",
+          "usia_60_64": "4635",
+          "usia_65_69": "3712",
+          "usia_70_74": "2557",
+          "usia_75_tahun_ke_atas": "2826",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -111,25 +175,41 @@
       "kode_wilayah": "71.05",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "71",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "21294",
-        "usia_20_24": "20897",
-        "usia_5_9": "16403",
-        "usia_10_14": "18317",
-        "usia_0_4_thn": "11783",
-        "usia_25_29": "18339",
-        "usia_30_34": "15208",
-        "usia_35_39": "14962",
-        "usia_40_44": "17068",
-        "usia_45_49": "18575",
-        "usia_50_54": "16828",
-        "usia_55_59": "14139",
-        "usia_60_64": "11195",
-        "usia_65_69": "10139",
-        "usia_70_74": "6408",
-        "usia_75_tahun_ke_atas": "8327",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "124622",
+          "perempuan": "115902",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "241306",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1456.69",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "20160",
+          "usia_20_24": "21678",
+          "usia_5_9": "15719",
+          "usia_10_14": "17836",
+          "usia_0_4_thn": "10907",
+          "usia_25_29": "18823",
+          "usia_30_34": "16117",
+          "usia_35_39": "14415",
+          "usia_40_44": "15999",
+          "usia_45_49": "18299",
+          "usia_50_54": "17726",
+          "usia_55_59": "15218",
+          "usia_60_64": "10960",
+          "usia_65_69": "10966",
+          "usia_70_74": "7547",
+          "usia_75_tahun_ke_atas": "8936",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -137,25 +217,41 @@
       "kode_wilayah": "71.06",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "71",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "19953",
-        "usia_20_24": "19475",
-        "usia_5_9": "17001",
-        "usia_10_14": "17958",
-        "usia_0_4_thn": "11743",
-        "usia_25_29": "18239",
-        "usia_30_34": "16106",
-        "usia_35_39": "15943",
-        "usia_40_44": "16323",
-        "usia_45_49": "16641",
-        "usia_50_54": "14747",
-        "usia_55_59": "12400",
-        "usia_60_64": "9497",
-        "usia_65_69": "7963",
-        "usia_70_74": "4635",
-        "usia_75_tahun_ke_atas": "4651",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "113697",
+          "perempuan": "110219",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "224816",
+          "semester": "1",
+          "jumlah_penduduk_km2": "995.549",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "19215",
+          "usia_20_24": "19872",
+          "usia_5_9": "17187",
+          "usia_10_14": "17970",
+          "usia_0_4_thn": "10959",
+          "usia_25_29": "18599",
+          "usia_30_34": "16904",
+          "usia_35_39": "15378",
+          "usia_40_44": "16107",
+          "usia_45_49": "16728",
+          "usia_50_54": "15090",
+          "usia_55_59": "12838",
+          "usia_60_64": "9433",
+          "usia_65_69": "8268",
+          "usia_70_74": "5346",
+          "usia_75_tahun_ke_atas": "4922",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -163,25 +259,41 @@
       "kode_wilayah": "71.07",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "71",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "11543",
-        "usia_20_24": "10631",
-        "usia_5_9": "9641",
-        "usia_10_14": "9997",
-        "usia_0_4_thn": "6911",
-        "usia_25_29": "9527",
-        "usia_30_34": "7368",
-        "usia_35_39": "7804",
-        "usia_40_44": "8209",
-        "usia_45_49": "8886",
-        "usia_50_54": "7987",
-        "usia_55_59": "6579",
-        "usia_60_64": "4503",
-        "usia_65_69": "3960",
-        "usia_70_74": "2460",
-        "usia_75_tahun_ke_atas": "2605",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "61752",
+          "perempuan": "57341",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "119637",
+          "semester": "1",
+          "jumlah_penduduk_km2": "753.136",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "11048",
+          "usia_20_24": "11099",
+          "usia_5_9": "9308",
+          "usia_10_14": "9791",
+          "usia_0_4_thn": "6296",
+          "usia_25_29": "9803",
+          "usia_30_34": "8075",
+          "usia_35_39": "7296",
+          "usia_40_44": "7795",
+          "usia_45_49": "8844",
+          "usia_50_54": "8421",
+          "usia_55_59": "7045",
+          "usia_60_64": "4659",
+          "usia_65_69": "4271",
+          "usia_70_74": "2891",
+          "usia_75_tahun_ke_atas": "2995",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -189,25 +301,41 @@
       "kode_wilayah": "71.08",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "71",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "8735",
-        "usia_20_24": "7602",
-        "usia_5_9": "7169",
-        "usia_10_14": "7527",
-        "usia_0_4_thn": "5401",
-        "usia_25_29": "7292",
-        "usia_30_34": "5668",
-        "usia_35_39": "6407",
-        "usia_40_44": "5984",
-        "usia_45_49": "6178",
-        "usia_50_54": "5130",
-        "usia_55_59": "4275",
-        "usia_60_64": "2974",
-        "usia_65_69": "2330",
-        "usia_70_74": "1382",
-        "usia_75_tahun_ke_atas": "1467",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "44229",
+          "perempuan": "41922",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "86486",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1644.377",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "8357",
+          "usia_20_24": "8265",
+          "usia_5_9": "7167",
+          "usia_10_14": "7268",
+          "usia_0_4_thn": "4760",
+          "usia_25_29": "7294",
+          "usia_30_34": "6395",
+          "usia_35_39": "5720",
+          "usia_40_44": "6308",
+          "usia_45_49": "5989",
+          "usia_50_54": "5724",
+          "usia_55_59": "4300",
+          "usia_60_64": "3326",
+          "usia_65_69": "2442",
+          "usia_70_74": "1621",
+          "usia_75_tahun_ke_atas": "1550",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -215,25 +343,41 @@
       "kode_wilayah": "71.09",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "71",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "5883",
-        "usia_20_24": "5812",
-        "usia_5_9": "4697",
-        "usia_10_14": "5192",
-        "usia_0_4_thn": "2805",
-        "usia_25_29": "5817",
-        "usia_30_34": "5500",
-        "usia_35_39": "5428",
-        "usia_40_44": "4804",
-        "usia_45_49": "5588",
-        "usia_50_54": "5120",
-        "usia_55_59": "4908",
-        "usia_60_64": "3689",
-        "usia_65_69": "2837",
-        "usia_70_74": "1792",
-        "usia_75_tahun_ke_atas": "2144",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "35798",
+          "perempuan": "35279",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "70938",
+          "semester": "1",
+          "jumlah_penduduk_km2": "217.287",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "5417",
+          "usia_20_24": "5756",
+          "usia_5_9": "4493",
+          "usia_10_14": "5064",
+          "usia_0_4_thn": "2436",
+          "usia_25_29": "5588",
+          "usia_30_34": "5379",
+          "usia_35_39": "5215",
+          "usia_40_44": "4876",
+          "usia_45_49": "5052",
+          "usia_50_54": "5195",
+          "usia_55_59": "4880",
+          "usia_60_64": "4010",
+          "usia_65_69": "3072",
+          "usia_70_74": "2027",
+          "usia_75_tahun_ke_atas": "2478",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -241,25 +385,41 @@
       "kode_wilayah": "71.10",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "71",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "8310",
-        "usia_20_24": "8039",
-        "usia_5_9": "6653",
-        "usia_10_14": "7656",
-        "usia_0_4_thn": "4090",
-        "usia_25_29": "7743",
-        "usia_30_34": "6799",
-        "usia_35_39": "6481",
-        "usia_40_44": "6899",
-        "usia_45_49": "6983",
-        "usia_50_54": "5705",
-        "usia_55_59": "4804",
-        "usia_60_64": "3273",
-        "usia_65_69": "2499",
-        "usia_70_74": "1432",
-        "usia_75_tahun_ke_atas": "1736",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "46862",
+          "perempuan": "42869",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "90109",
+          "semester": "1",
+          "jumlah_penduduk_km2": "859.973",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "8106",
+          "usia_20_24": "8251",
+          "usia_5_9": "6569",
+          "usia_10_14": "7218",
+          "usia_0_4_thn": "3770",
+          "usia_25_29": "7833",
+          "usia_30_34": "7220",
+          "usia_35_39": "6086",
+          "usia_40_44": "6813",
+          "usia_45_49": "6966",
+          "usia_50_54": "6132",
+          "usia_55_59": "5119",
+          "usia_60_64": "3546",
+          "usia_65_69": "2713",
+          "usia_70_74": "1752",
+          "usia_75_tahun_ke_atas": "2015",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -267,25 +427,41 @@
       "kode_wilayah": "71.11",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "71",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "7808",
-        "usia_20_24": "6347",
-        "usia_5_9": "6647",
-        "usia_10_14": "6963",
-        "usia_0_4_thn": "4974",
-        "usia_25_29": "6388",
-        "usia_30_34": "5118",
-        "usia_35_39": "5455",
-        "usia_40_44": "5352",
-        "usia_45_49": "4847",
-        "usia_50_54": "3917",
-        "usia_55_59": "2942",
-        "usia_60_64": "2165",
-        "usia_65_69": "1491",
-        "usia_70_74": "822",
-        "usia_75_tahun_ke_atas": "911",
-        "tahun": "2021"
+      "nama_provinsi": "SULAWESI UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "37682",
+          "perempuan": "34978",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "73046",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1796.071",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "7296",
+          "usia_20_24": "7209",
+          "usia_5_9": "6605",
+          "usia_10_14": "6709",
+          "usia_0_4_thn": "4682",
+          "usia_25_29": "6091",
+          "usia_30_34": "5609",
+          "usia_35_39": "4879",
+          "usia_40_44": "5412",
+          "usia_45_49": "5030",
+          "usia_50_54": "4276",
+          "usia_55_59": "3131",
+          "usia_60_64": "2317",
+          "usia_65_69": "1706",
+          "usia_70_74": "1050",
+          "usia_75_tahun_ke_atas": "1044",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -293,25 +469,41 @@
       "kode_wilayah": "71.71",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "71",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "40228",
-        "usia_20_24": "39098",
-        "usia_5_9": "35001",
-        "usia_10_14": "37050",
-        "usia_0_4_thn": "30628",
-        "usia_25_29": "38944",
-        "usia_30_34": "36138",
-        "usia_35_39": "36973",
-        "usia_40_44": "35301",
-        "usia_45_49": "34165",
-        "usia_50_54": "30328",
-        "usia_55_59": "24934",
-        "usia_60_64": "20475",
-        "usia_65_69": "14263",
-        "usia_70_74": "8105",
-        "usia_75_tahun_ke_atas": "11691",
-        "tahun": "2019"
+      "nama_provinsi": "SULAWESI UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "240440",
+          "perempuan": "237752",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "478192",
+          "semester": "1",
+          "jumlah_penduduk_km2": "162.353",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "38635",
+          "usia_20_24": "40777",
+          "usia_5_9": "34105",
+          "usia_10_14": "35758",
+          "usia_0_4_thn": "24017",
+          "usia_25_29": "40040",
+          "usia_30_34": "38484",
+          "usia_35_39": "35648",
+          "usia_40_44": "36328",
+          "usia_45_49": "34587",
+          "usia_50_54": "32499",
+          "usia_55_59": "27509",
+          "usia_60_64": "21446",
+          "usia_65_69": "16888",
+          "usia_70_74": "10648",
+          "usia_75_tahun_ke_atas": "10823",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -319,25 +511,41 @@
       "kode_wilayah": "71.72",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "71",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "21358",
-        "usia_20_24": "19390",
-        "usia_5_9": "18048",
-        "usia_10_14": "21197",
-        "usia_0_4_thn": "12319",
-        "usia_25_29": "18544",
-        "usia_30_34": "17293",
-        "usia_35_39": "18869",
-        "usia_40_44": "18439",
-        "usia_45_49": "17151",
-        "usia_50_54": "13214",
-        "usia_55_59": "9701",
-        "usia_60_64": "7735",
-        "usia_65_69": "5137",
-        "usia_70_74": "2685",
-        "usia_75_tahun_ke_atas": "3850",
-        "tahun": "2018"
+      "nama_provinsi": "SULAWESI UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "116561",
+          "perempuan": "111445",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "228006",
+          "semester": "1",
+          "jumlah_penduduk_km2": "329.724",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "20926",
+          "usia_20_24": "21008",
+          "usia_5_9": "17718",
+          "usia_10_14": "19132",
+          "usia_0_4_thn": "11823",
+          "usia_25_29": "19071",
+          "usia_30_34": "17647",
+          "usia_35_39": "16409",
+          "usia_40_44": "17993",
+          "usia_45_49": "17339",
+          "usia_50_54": "15875",
+          "usia_55_59": "11655",
+          "usia_60_64": "8270",
+          "usia_65_69": "6057",
+          "usia_70_74": "3714",
+          "usia_75_tahun_ke_atas": "3369",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -345,25 +553,41 @@
       "kode_wilayah": "71.73",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "71",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "8795",
-        "usia_20_24": "7797",
-        "usia_5_9": "7090",
-        "usia_10_14": "7757",
-        "usia_0_4_thn": "6291",
-        "usia_25_29": "7095",
-        "usia_30_34": "6701",
-        "usia_35_39": "7040",
-        "usia_40_44": "7668",
-        "usia_45_49": "8012",
-        "usia_50_54": "6747",
-        "usia_55_59": "5191",
-        "usia_60_64": "4867",
-        "usia_65_69": "3489",
-        "usia_70_74": "2105",
-        "usia_75_tahun_ke_atas": "3037",
-        "tahun": "2019"
+      "nama_provinsi": "SULAWESI UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "51623",
+          "perempuan": "50335",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "101958",
+          "semester": "1",
+          "jumlah_penduduk_km2": "169.064",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "7845",
+          "usia_20_24": "8776",
+          "usia_5_9": "6890",
+          "usia_10_14": "7410",
+          "usia_0_4_thn": "5306",
+          "usia_25_29": "7953",
+          "usia_30_34": "7168",
+          "usia_35_39": "6654",
+          "usia_40_44": "7082",
+          "usia_45_49": "7650",
+          "usia_50_54": "7757",
+          "usia_55_59": "6402",
+          "usia_60_64": "4699",
+          "usia_65_69": "4342",
+          "usia_70_74": "2855",
+          "usia_75_tahun_ke_atas": "3169",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -371,25 +595,41 @@
       "kode_wilayah": "71.74",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "71",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "11591",
-        "usia_20_24": "10478",
-        "usia_5_9": "9703",
-        "usia_10_14": "10999",
-        "usia_0_4_thn": "7692",
-        "usia_25_29": "9767",
-        "usia_30_34": "8850",
-        "usia_35_39": "10459",
-        "usia_40_44": "9741",
-        "usia_45_49": "9139",
-        "usia_50_54": "8066",
-        "usia_55_59": "6026",
-        "usia_60_64": "4630",
-        "usia_65_69": "2861",
-        "usia_70_74": "1716",
-        "usia_75_tahun_ke_atas": "1747",
-        "tahun": "2019"
+      "nama_provinsi": "SULAWESI UTARA",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "63691",
+          "perempuan": "60227",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "123918",
+          "semester": "1",
+          "jumlah_penduduk_km2": "108.893",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "11038",
+          "usia_20_24": "11115",
+          "usia_5_9": "9129",
+          "usia_10_14": "9682",
+          "usia_0_4_thn": "5961",
+          "usia_25_29": "10233",
+          "usia_30_34": "9289",
+          "usia_35_39": "8703",
+          "usia_40_44": "10051",
+          "usia_45_49": "9406",
+          "usia_50_54": "8588",
+          "usia_55_59": "7390",
+          "usia_60_64": "5189",
+          "usia_65_69": "3802",
+          "usia_70_74": "2181",
+          "usia_75_tahun_ke_atas": "2161",
+          "tahun": "2023"
+        }
       }
     }
   ]

@@ -1,0 +1,8114 @@
+[
+  {
+    "jumlah_penduduk": "236322",
+    "prov": "ACEH",
+    "kabkot": "ACEH SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "62",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "428580",
+    "prov": "ACEH",
+    "kabkot": "ACEH TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "68",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "593511",
+    "prov": "ACEH",
+    "kabkot": "ACEH UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "183",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "94645",
+    "prov": "ACEH",
+    "kabkot": "ACEH JAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "25",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "257313",
+    "prov": "ACEH",
+    "kabkot": "KOTA BANDA ACEH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "56.77",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "365460",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "TAPANULI TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "167",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1940767",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "DELI SERDANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "866",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "489569",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "MANDAILING NATAL",
+    "semester": "1",
+    "jumlah_penduduk_km2": "80",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "367473",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "NIAS SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "201",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "55183",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "PAKPAK BHARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "45",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "668496",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "SERDANG BEDAGAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "352",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "395476",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "LABUHANBATU UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "111",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "181383",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KOTA TANJUNG BALAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "60.072",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "392338",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "SOLOK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "105",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "301444",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "PASAMAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "76",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "928541",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "KOTA PADANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "694.337",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "99484",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "KOTA PARIAMAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "64.767",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "648989",
+    "prov": "RIAU",
+    "kabkot": "ROKAN HILIR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "73",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "338064",
+    "prov": "RIAU",
+    "kabkot": "KOTA DUMAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2059.613",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "397351",
+    "prov": "JAMBI",
+    "kabkot": "MUARO JAMBI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "75",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "100851",
+    "prov": "JAMBI",
+    "kabkot": "KOTA SUNGAI PENUH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "364.924",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "371996",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "OGAN KOMERING ULU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "78",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "650613",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "OGAN KOMERING ULU TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "193",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1761459",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "KOTA PALEMBANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "352.506",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "231518",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "KOTA LUBUKLINGGAU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "577",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "118205",
+    "prov": "BENGKULU",
+    "kabkot": "BENGKULU TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "97",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "427927",
+    "prov": "LAMPUNG",
+    "kabkot": "TULANG BAWANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "123",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "231532",
+    "prov": "LAMPUNG",
+    "kabkot": "MESUJI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "106",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "322949",
+    "prov": "KEPULAUAN BANGKA BELITUNG",
+    "kabkot": "BANGKA ",
+    "semester": "1",
+    "jumlah_penduduk_km2": "109",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "126939",
+    "prov": "KEPULAUAN BANGKA BELITUNG",
+    "kabkot": "BELITUNG TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "51",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1240792",
+    "prov": "KEPULAUAN RIAU",
+    "kabkot": "KOTA BATAM",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1034.732",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1863567",
+    "prov": "DKI JAKARTA",
+    "kabkot": "JAKARTA UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "13312",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "2373219",
+    "prov": "DKI JAKARTA",
+    "kabkot": "JAKARTA SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "15379",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1835411",
+    "prov": "JAWA BARAT",
+    "kabkot": "TASIKMALAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "719",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1164116",
+    "prov": "JAWA BARAT",
+    "kabkot": "SUMEDANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "767",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1733185",
+    "prov": "JAWA BARAT",
+    "kabkot": "BANDUNG BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1327",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "2496198",
+    "prov": "JAWA BARAT",
+    "kabkot": "KOTA BEKASI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "213.036",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1977638",
+    "prov": "JAWA TENGAH",
+    "kabkot": "CILACAP",
+    "semester": "1",
+    "jumlah_penduduk_km2": "931",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "907510",
+    "prov": "JAWA TENGAH",
+    "kabkot": "WONOSOBO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "925",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1069659",
+    "prov": "JAWA TENGAH",
+    "kabkot": "WONOGIRI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "596",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1348397",
+    "prov": "JAWA TENGAH",
+    "kabkot": "PATI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "905",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "800276",
+    "prov": "JAWA TENGAH",
+    "kabkot": "TEMANGGUNG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "955",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1986347",
+    "prov": "JAWA TENGAH",
+    "kabkot": "BREBES",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1044",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "586166",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KOTA SURAKARTA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "46.718",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1693035",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KOTA SEMARANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "370.003",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1087339",
+    "prov": "DAERAH ISTIMEWA YOGYAKARTA",
+    "kabkot": "SLEMAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1892",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1228292",
+    "prov": "JAWA TIMUR",
+    "kabkot": "BLITAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "919",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "801541",
+    "prov": "JAWA TIMUR",
+    "kabkot": "BONDOWOSO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "525",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1350483",
+    "prov": "JAWA TIMUR",
+    "kabkot": "JOMBANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1211",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1343895",
+    "prov": "JAWA TIMUR",
+    "kabkot": "BOJONEGORO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "611",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "840790",
+    "prov": "JAWA TIMUR",
+    "kabkot": "PAMEKASAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1061",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "243887",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KOTA PROBOLINGGO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "54.676",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1318614",
+    "prov": "BANTEN",
+    "kabkot": "PANDEGLANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "480",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "730530",
+    "prov": "BANTEN",
+    "kabkot": "KOTA SERANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "265.787",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "216538",
+    "prov": "BALI",
+    "kabkot": "KLUNGKUNG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "687",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "254738",
+    "prov": "BALI",
+    "kabkot": "BANGLI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "519",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1059042",
+    "prov": "NUSA TENGGARA BARAT",
+    "kabkot": "LOMBOK TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "967",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "143633",
+    "prov": "NUSA TENGGARA BARAT",
+    "kabkot": "SUMBAWA BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "78",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "227203",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "BELU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "177",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "168906",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "NGADA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "103",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "266336",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "MANGGARAI BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "111",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "196916",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "MALAKA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "170",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "258225",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "KAPUAS HULU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "9",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "128009",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "KAYONG UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "28",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "411004",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "KAPUAS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "27",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "100240",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "LAMANDAU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "16",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "135639",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "PULANG PISAU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "15",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "560769",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "BANJAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "120",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "231635",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "HULU SUNGAI UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "259",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "741950",
+    "prov": "KALIMANTAN TIMUR",
+    "kabkot": "KUTAI KARTANEGARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "31",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "733396",
+    "prov": "KALIMANTAN TIMUR",
+    "kabkot": "KOTA BALIKPAPAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "509.702",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "26212",
+    "prov": "KALIMANTAN UTARA",
+    "kabkot": "TANA TIDUNG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "239772",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "MINAHASA SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "170",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "88966",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "BOLAANG MONGONDOW TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "98",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "248698",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "POSO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "35",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "123934",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "BANGGAI KEPULAUAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "50",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "258483",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "SIGI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "50",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "382017",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "KOTA PALU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "356.351",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "768682",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "GOWA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "408",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "237720",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "SOPPENG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "153",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "270489",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "TANA TORAJA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "136",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "155380",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KOTA PARE PARE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1564.2806805598",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "314808",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KONAWE SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "54",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "124838",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KOLAKA TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "34",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "160232",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KOTA BAU BAU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "294.137",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "203205",
+    "prov": "GORONTALO",
+    "kabkot": "KOTA GORONTALO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "70.933",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "179943",
+    "prov": "SULAWESI BARAT",
+    "kabkot": "MAJENE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "190",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "136609",
+    "prov": "MALUKU",
+    "kabkot": "SERAM BAGIAN TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "21",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "354052",
+    "prov": "MALUKU",
+    "kabkot": "KOTA AMBON",
+    "semester": "1",
+    "jumlah_penduduk_km2": "236.663",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "106041",
+    "prov": "MALUKU UTARA",
+    "kabkot": "KEPULAUAN SULA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "32",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "116623",
+    "prov": "MALUKU UTARA",
+    "kabkot": "KOTA TIDORE KEPULAUAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1703.322",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "218984",
+    "prov": "PAPUA",
+    "kabkot": "PUNCAK JAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "44",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "111905",
+    "prov": "PAPUA",
+    "kabkot": "PEGUNUNGAN BINTANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "7",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "108031",
+    "prov": "PAPUA",
+    "kabkot": "ASMAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "110357",
+    "prov": "PAPUA",
+    "kabkot": "NDUGA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "51",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "445666",
+    "prov": "ACEH",
+    "kabkot": "KAB. ACEH TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5409.406",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "223932",
+    "prov": "ACEH",
+    "kabkot": "KAB. ACEH TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4468.417",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "368578",
+    "prov": "PAPUA",
+    "kabkot": "KOTA JAYAPURA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "393.81357380973",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "66388",
+    "prov": "PAPUA BARAT",
+    "kabkot": "RAJA AMPAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "8",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "37118",
+    "prov": "PAPUA BARAT",
+    "kabkot": "MANOKWARI SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "13",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "229368",
+    "prov": "ACEH",
+    "kabkot": "KAB. ACEH TENGGARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4179.123",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "201719",
+    "prov": "ACEH",
+    "kabkot": "KAB. ACEH BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2782.873",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "432491",
+    "prov": "ACEH",
+    "kabkot": "KAB. ACEH BESAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2891.477",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "442705",
+    "prov": "ACEH",
+    "kabkot": "KAB. PIDIE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3177.485",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "95529",
+    "prov": "ACEH",
+    "kabkot": "KAB. SIMEULUE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1821.747",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "132543",
+    "prov": "ACEH",
+    "kabkot": "KAB. ACEH SINGKIL",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1852.823",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "455555",
+    "prov": "ACEH",
+    "kabkot": "KAB. BIREUEN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1796.992",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "154554",
+    "prov": "ACEH",
+    "kabkot": "KAB. ACEH BARAT DAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1882.277",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "102893",
+    "prov": "ACEH",
+    "kabkot": "KAB. GAYO LUES",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5541.285",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "98335",
+    "prov": "ACEH",
+    "kabkot": "KAB. ACEH JAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3872.352",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "174326",
+    "prov": "ACEH",
+    "kabkot": "KAB. NAGAN RAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3524.164",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "172781",
+    "prov": "ACEH",
+    "kabkot": "KAB. BENER MERIAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1907.399",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "161705",
+    "prov": "ACEH",
+    "kabkot": "KAB. PIDIE JAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "939.004",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "43395",
+    "prov": "ACEH",
+    "kabkot": "KOTA SABANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "122.063",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "193950",
+    "prov": "ACEH",
+    "kabkot": "KOTA LHOKSEUMAWE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "132.966",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "186958",
+    "prov": "ACEH",
+    "kabkot": "KOTA LANGSA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "224.235",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "99910",
+    "prov": "ACEH",
+    "kabkot": "KOTA SUBULUSSALAM",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1183.601",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "323652",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. TAPANULI UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3895.604",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "317080",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. TAPANULI SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4201.035",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "146550",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. NIAS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "902.395",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1098660",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. LANGKAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "6140.035",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "411278",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. KARO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2206.876",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "2016905",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. DELI SERDANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2581.232",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1040003",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. SIMALUNGUN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4601.477",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "792177",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. ASAHAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3737.83",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "506674",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. LABUHANBATU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2772.384",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "214640",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. TOBA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2291.616",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "492324",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. MANDAILING NATAL",
+    "semester": "1",
+    "jumlah_penduduk_km2": "6547.257",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "368484",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. NIAS SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2531.703",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "56272",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. PAKPAK BHARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1365.607",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "205090",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. HUMBANG HASUNDUTAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2351.514",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "143994",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. SAMOSIR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1850.035",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "678530",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. SERDANG BEDAGAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1949.18",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "453887",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. BATU BARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "888.142",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "264993",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. PADANG LAWAS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3914.413",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "326389",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. LABUHANBATU SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3079.61",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "397331",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. LABUHANBATU UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3686.013",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "153178",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. NIAS UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1238.055",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "97633",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. NIAS BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "464.219",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "2530493",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KOTA MEDAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "279.29",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "275190",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KOTA PEMATANGSIANTAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "75.919",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "97219",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KOTA SIBOLGA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "11.471",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "305977",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KOTA BINJAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "93.77",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "178524",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KOTA TEBING TINGGI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "39.17",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "229408",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KOTA PADANG SIDEMPUAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "159.298",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "137732",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KOTA GUNUNGSITOLI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "208.684",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "524608",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "KAB. PESISIR SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "6045.649",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "242188",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "KAB. SIJUNJUNG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3150.58",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "378309",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "KAB. TANAH DATAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1377.186",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "451025",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "KAB. PADANG PARIAMAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1342.266",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "527451",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "KAB. AGAM",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2226.27",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "395307",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "KAB. LIMA PULUH KOTA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3273.405",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "306616",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "KAB. PASAMAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3902.444",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "93313",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "KAB. KEPULAUAN MENTAWAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5983.222",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "183177",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "KAB. SOLOK SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3282.144",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "441773",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "KAB. PASAMAN BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3852.993",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "79703",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "KOTA SOLOK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "58.72",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "68054",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "KOTA SAWAHLUNTO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "231.945",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "61559",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "KOTA PADANG PANJANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "23.56",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "135489",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "KOTA BUKITTINGGI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "24.173",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "144727",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "KOTA PAYAKUMBUH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "74.552",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "854738",
+    "prov": "RIAU",
+    "kabkot": "KAB. KAMPAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "10352.803",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "466436",
+    "prov": "RIAU",
+    "kabkot": "KAB. INDRAGIRI HULU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "7871.85",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "651835",
+    "prov": "RIAU",
+    "kabkot": "KAB. BENGKALIS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "8616.358",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "690236",
+    "prov": "RIAU",
+    "kabkot": "KAB. INDRAGIRI HILIR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "13521.263",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "402303",
+    "prov": "RIAU",
+    "kabkot": "KAB. PELALAWAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "31.532278607511",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "561313",
+    "prov": "RIAU",
+    "kabkot": "KAB. ROKAN HULU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "73.972507060369",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "649692",
+    "prov": "RIAU",
+    "kabkot": "KAB. ROKAN HILIR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "73.150415635038",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "474625",
+    "prov": "RIAU",
+    "kabkot": "KAB. SIAK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "7805.538",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "211515",
+    "prov": "RIAU",
+    "kabkot": "KAB. KEPULAUAN MERANTI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3623.558",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1116142",
+    "prov": "RIAU",
+    "kabkot": "KOTA PEKANBARU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "638.331",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "257781",
+    "prov": "JAMBI",
+    "kabkot": "KAB. KERINCI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "76.828690388553",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "373472",
+    "prov": "JAMBI",
+    "kabkot": "KAB. MERANGIN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "48.635499413986",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "302994",
+    "prov": "JAMBI",
+    "kabkot": "KAB. SAROLANGUN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5935.894",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "308753",
+    "prov": "JAMBI",
+    "kabkot": "KAB. BATANGHARI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5387.516",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "422051",
+    "prov": "JAMBI",
+    "kabkot": "KAB. MUARO JAMBI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "79.243522343222",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "237527",
+    "prov": "JAMBI",
+    "kabkot": "KAB. TANJUNG JABUNG TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4546.621",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "370379",
+    "prov": "JAMBI",
+    "kabkot": "KAB. BUNGO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4760.827",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "359906",
+    "prov": "JAMBI",
+    "kabkot": "KAB. TEBO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "6103.737",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "633650",
+    "prov": "JAMBI",
+    "kabkot": "KOTA JAMBI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "169.887",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "379992",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "KAB. OGAN KOMERING ULU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3774.497",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "774465",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "KAB. OGAN KOMERING ILIR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "17071.333",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "635939",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "KAB. MUARA ENIM",
+    "semester": "1",
+    "jumlah_penduduk_km2": "6763.912",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "417364",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "KAB. MUSI RAWAS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "6122.588",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "695472",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "KAB. MUSI BANYUASIN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "14550.788",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "844107",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "KAB. BANYUASIN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "12262.756",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "679477",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "KAB. OGAN KOMERING ULU TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3412.716",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "418878",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "KAB. OGAN KOMERING ULU SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4369.252",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "434945",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "KAB. OGAN ILIR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2302.858",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "336036",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "KAB. EMPAT LAWANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2234.097",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "196604",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "KAB. MUSI RAWAS UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5937.803",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "149357",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "KOTA PAGAR ALAM",
+    "semester": "1",
+    "jumlah_penduduk_km2": "625.913",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "239523",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "KOTA LUBUK LINGGAU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "367.726",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "205287",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "KOTA PRABUMULIH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "447.311",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "173126",
+    "prov": "BENGKULU",
+    "kabkot": "KAB. BENGKULU SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1219.218",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "283596",
+    "prov": "BENGKULU",
+    "kabkot": "KAB. REJANG LEBONG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1559.419",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "132826",
+    "prov": "BENGKULU",
+    "kabkot": "KAB. KAUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2608.556",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "214495",
+    "prov": "BENGKULU",
+    "kabkot": "KAB. SELUMA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2432.164",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "198368",
+    "prov": "BENGKULU",
+    "kabkot": "KAB. MUKO MUKO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4138.677",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "153990",
+    "prov": "BENGKULU",
+    "kabkot": "KAB. KEPAHIANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "738.965",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "122198",
+    "prov": "BENGKULU",
+    "kabkot": "KAB. BENGKULU TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1132.38",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "385512",
+    "prov": "BENGKULU",
+    "kabkot": "KOTA BENGKULU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "150.348",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1095106",
+    "prov": "LAMPUNG",
+    "kabkot": "KAB. LAMPUNG SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2227.379",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1373773",
+    "prov": "LAMPUNG",
+    "kabkot": "KAB. LAMPUNG TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4559.57",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "662946",
+    "prov": "LAMPUNG",
+    "kabkot": "KAB. LAMPUNG UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2669.304",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "309554",
+    "prov": "LAMPUNG",
+    "kabkot": "KAB. LAMPUNG BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2107.993",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "630719",
+    "prov": "LAMPUNG",
+    "kabkot": "KAB. TANGGAMUS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2947.592",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1108574",
+    "prov": "LAMPUNG",
+    "kabkot": "KAB. LAMPUNG TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3860.92",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "487543",
+    "prov": "LAMPUNG",
+    "kabkot": "KAB. WAY KANAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3522.114",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "485671",
+    "prov": "LAMPUNG",
+    "kabkot": "KAB. PESAWARAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1288.079",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "433624",
+    "prov": "LAMPUNG",
+    "kabkot": "KAB. PRINGSEWU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "617.192",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "234061",
+    "prov": "LAMPUNG",
+    "kabkot": "KAB. MESUJI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2200.414",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "305113",
+    "prov": "LAMPUNG",
+    "kabkot": "KAB. TULANG BAWANG BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1257.088",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1096936",
+    "prov": "LAMPUNG",
+    "kabkot": "KOTA BANDAR LAMPUNG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "183.745",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "175532",
+    "prov": "LAMPUNG",
+    "kabkot": "KOTA METRO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "73.214",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "324232",
+    "prov": "BANGKA BELITUNG",
+    "kabkot": "KAB. BANGKA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "109.88382338986",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "183353",
+    "prov": "BANGKA BELITUNG",
+    "kabkot": "KAB. BELITUNG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "79.940792026543",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "201948",
+    "prov": "BANGKA BELITUNG",
+    "kabkot": "KAB. BANGKA SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "55.986559765794",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "200110",
+    "prov": "BANGKA BELITUNG",
+    "kabkot": "KAB. BANGKA TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "92.825301400428",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "206937",
+    "prov": "BANGKA BELITUNG",
+    "kabkot": "KAB. BANGKA BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "73.366044933543",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "127899",
+    "prov": "BANGKA BELITUNG",
+    "kabkot": "KAB. BELITUNG TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "51.018584632077",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "173171",
+    "prov": "KEPULAUAN RIAU",
+    "kabkot": "KAB. BINTAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1317.149",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "267762",
+    "prov": "KEPULAUAN RIAU",
+    "kabkot": "KAB. KARIMUN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "930.453",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "83450",
+    "prov": "KEPULAUAN RIAU",
+    "kabkot": "KAB. NATUNA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1999.155",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "102474",
+    "prov": "KEPULAUAN RIAU",
+    "kabkot": "KAB. LINGGA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2210.819",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "49274",
+    "prov": "KEPULAUAN RIAU",
+    "kabkot": "KAB. KEPULAUAN ANAMBAS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "627.027",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "233406",
+    "prov": "KEPULAUAN RIAU",
+    "kabkot": "KOTA TANJUNG PINANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "150.373",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "30212",
+    "prov": "DKI JAKARTA",
+    "kabkot": "KAB. ADM. KEP. SERIBU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "10.725",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1876056",
+    "prov": "DKI JAKARTA",
+    "kabkot": "KOTA ADM. JAKARTA UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "147.212",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "2615945",
+    "prov": "DKI JAKARTA",
+    "kabkot": "KOTA ADM. JAKARTA BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "125",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "2408480",
+    "prov": "DKI JAKARTA",
+    "kabkot": "KOTA ADM. JAKARTA SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "144.942",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "3310146",
+    "prov": "DKI JAKARTA",
+    "kabkot": "KOTA ADM. JAKARTA TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "185.538",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "5495372",
+    "prov": "JAWA BARAT",
+    "kabkot": "KAB. BOGOR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2991.778",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "2773554",
+    "prov": "JAWA BARAT",
+    "kabkot": "KAB. SUKABUMI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4164.152",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "2516416",
+    "prov": "JAWA BARAT",
+    "kabkot": "KAB. CIANJUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3631.915",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "3723179",
+    "prov": "JAWA BARAT",
+    "kabkot": "KAB. BANDUNG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1740.843",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "2770532",
+    "prov": "JAWA BARAT",
+    "kabkot": "KAB. GARUT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3101.235",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1272952",
+    "prov": "JAWA BARAT",
+    "kabkot": "KAB. CIAMIS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1595.937",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1223209",
+    "prov": "JAWA BARAT",
+    "kabkot": "KAB. KUNINGAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1192.897",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "2420953",
+    "prov": "JAWA BARAT",
+    "kabkot": "KAB. CIREBON",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1076.759",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1345378",
+    "prov": "JAWA BARAT",
+    "kabkot": "KAB. MAJALENGKA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1330.17",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1197302",
+    "prov": "JAWA BARAT",
+    "kabkot": "KAB. SUMEDANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1566.204",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1920505",
+    "prov": "JAWA BARAT",
+    "kabkot": "KAB. INDRAMAYU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2076.056",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1624856",
+    "prov": "JAWA BARAT",
+    "kabkot": "KAB. SUBANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2165.548",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "2519882",
+    "prov": "JAWA BARAT",
+    "kabkot": "KAB. KARAWANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1913.713",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "3172833",
+    "prov": "JAWA BARAT",
+    "kabkot": "KAB. BEKASI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1251.054",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1834256",
+    "prov": "JAWA BARAT",
+    "kabkot": "KAB. BANDUNG BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1283.439",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "440177",
+    "prov": "JAWA BARAT",
+    "kabkot": "KAB. PANGANDARAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1128.154",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "361581",
+    "prov": "JAWA BARAT",
+    "kabkot": "KOTA SUKABUMI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "48.314",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "2555187",
+    "prov": "JAWA BARAT",
+    "kabkot": "KOTA BANDUNG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "166.593",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "348912",
+    "prov": "JAWA BARAT",
+    "kabkot": "KOTA CIREBON",
+    "semester": "1",
+    "jumlah_penduduk_km2": "39.466",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1927867",
+    "prov": "JAWA BARAT",
+    "kabkot": "KOTA DEPOK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "199.906",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "570829",
+    "prov": "JAWA BARAT",
+    "kabkot": "KOTA CIMAHI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "42.432",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "208135",
+    "prov": "JAWA BARAT",
+    "kabkot": "KOTA BANJAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "131.005",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "2022807",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. CILACAP",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2323.926",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1849956",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. BANYUMAS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1391.153",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1040109",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. PURBALINGGA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "805.757",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1054804",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. BANJARNEGARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1144.896",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1426832",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. KEBUMEN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1334.1",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "806374",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. PURWOREJO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1081.965",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "929917",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. WONOSOBO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1011.623",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1099682",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. BOYOLALI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1096.594",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1291161",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. KLATEN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "701.496",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "908227",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. SUKOHARJO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "493.53",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1074474",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. WONOGIRI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1905.745",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "947167",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. KARANGANYAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "803.047",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1012494",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. SRAGEN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "994.573",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1507156",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. GROBOGAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2023.849",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "915813",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. BLORA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1957.289",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1366516",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. PATI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1572.896",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "871569",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. KUDUS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "447.445",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1257580",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. JEPARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1020.246",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1243380",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. DEMAK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "977.77",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1070579",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. SEMARANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1019.27",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "811798",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. TEMANGGUNG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "864.834",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1077659",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. KENDAL",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1008.124",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "835168",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. BATANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "857.265",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1567046",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. PEMALANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1137.413",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1704700",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. TEGAL",
+    "semester": "1",
+    "jumlah_penduduk_km2": "983.901",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "2049622",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. BREBES",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1742.81",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "128152",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KOTA MAGELANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "18.558",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "200738",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KOTA SALATIGA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "54.983",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "291806",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KOTA TEGAL",
+    "semester": "1",
+    "jumlah_penduduk_km2": "39.075",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "446705",
+    "prov": "DAERAH ISTIMEWA YOGYAKARTA",
+    "kabkot": "KAB. KULON PROGO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "577.224",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "968237",
+    "prov": "DAERAH ISTIMEWA YOGYAKARTA",
+    "kabkot": "KAB. BANTUL",
+    "semester": "1",
+    "jumlah_penduduk_km2": "511.706",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "776090",
+    "prov": "DAERAH ISTIMEWA YOGYAKARTA",
+    "kabkot": "KAB. GUNUNGKIDUL",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1475.147",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1105415",
+    "prov": "DAERAH ISTIMEWA YOGYAKARTA",
+    "kabkot": "KAB. SLEMAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "573.749",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "413782",
+    "prov": "DAERAH ISTIMEWA YOGYAKARTA",
+    "kabkot": "KOTA YOGYAKARTA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "32.819",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "599575",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. PACITAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1433.593",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "973269",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. PONOROGO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1418.618",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1132144",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. TULUNGAGUNG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1144.525",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1244527",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. BLITAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1745.156",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1679039",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. KEDIRI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1523.563",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "2692260",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. MALANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3473.439",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1101906",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. LUMAJANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1797.098",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "2590290",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. JEMBER",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3313.46",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "805914",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. BONDOWOSO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1554.992",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "678469",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. SITUBONDO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1653.722",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1622659",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. PASURUAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1493.291",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1982938",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. SIDOARJO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "724.04",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1139457",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. MOJOKERTO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "984.643",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1364775",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. JOMBANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1109.835",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "758517",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. MADIUN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1113.627",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "691618",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. MAGETAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "706.444",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "901638",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. NGAWI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1395.804",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1356057",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. BOJONEGORO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2312.627",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1249621",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. TUBAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1973.501",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1383227",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. LAMONGAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1752.71",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1296688",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. GRESIK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1256.364",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "981488",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. SAMPANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1228.252",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "876699",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. PAMEKASAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "795.154",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1138942",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. SUMENEP",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2084.023",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "296792",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KOTA KEDIRI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "67.232",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "159406",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KOTA BLITAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "33.203",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "874660",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KOTA MALANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "111.077",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "212403",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KOTA PASURUAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "38.996",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "201992",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KOTA MADIUN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "36.126",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "3000076",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KOTA SURABAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "335.925",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "219540",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KOTA BATU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "194.17",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1392046",
+    "prov": "BANTEN",
+    "kabkot": "KAB. PANDEGLANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2771.414",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1484585",
+    "prov": "BANTEN",
+    "kabkot": "KAB. LEBAK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3312.18",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "3286420",
+    "prov": "BANTEN",
+    "kabkot": "KAB. TANGERANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1027.757",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1718502",
+    "prov": "BANTEN",
+    "kabkot": "KAB. SERANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1469.908",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1899514",
+    "prov": "BANTEN",
+    "kabkot": "KOTA TANGERANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "178.347",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1404785",
+    "prov": "BANTEN",
+    "kabkot": "KOTA TANGERANG SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "164.86",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "327481",
+    "prov": "BALI",
+    "kabkot": "KAB. JEMBRANA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "849.134",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "471335",
+    "prov": "BALI",
+    "kabkot": "KAB. TABANAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "849.314",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "526029",
+    "prov": "BALI",
+    "kabkot": "KAB. BADUNG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "398.749",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "503546",
+    "prov": "BALI",
+    "kabkot": "KAB. GIANYAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "364.358",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "220491",
+    "prov": "BALI",
+    "kabkot": "KAB. KLUNGKUNG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "313.96",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "530542",
+    "prov": "BALI",
+    "kabkot": "KAB. KARANGASEM",
+    "semester": "1",
+    "jumlah_penduduk_km2": "839.317",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "830237",
+    "prov": "BALI",
+    "kabkot": "KAB. BULELENG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1322.682",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "660984",
+    "prov": "BALI",
+    "kabkot": "KOTA DENPASAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "125.872",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "737647",
+    "prov": "NUSA TENGGARA BARAT",
+    "kabkot": "KAB. LOMBOK BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "923.058",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1091564",
+    "prov": "NUSA TENGGARA BARAT",
+    "kabkot": "KAB. LOMBOK TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1169.522",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "521861",
+    "prov": "NUSA TENGGARA BARAT",
+    "kabkot": "KAB. SUMBAWA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "6655.917",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "262933",
+    "prov": "NUSA TENGGARA BARAT",
+    "kabkot": "KAB. DOMPU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2281.752",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "535631",
+    "prov": "NUSA TENGGARA BARAT",
+    "kabkot": "KAB. BIMA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4216.088",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "148585",
+    "prov": "NUSA TENGGARA BARAT",
+    "kabkot": "KAB. SUMBAWA BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1743.58",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "262419",
+    "prov": "NUSA TENGGARA BARAT",
+    "kabkot": "KAB. LOMBOK UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "811.19",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "452812",
+    "prov": "NUSA TENGGARA BARAT",
+    "kabkot": "KOTA MATARAM",
+    "semester": "1",
+    "jumlah_penduduk_km2": "60.424",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "159197",
+    "prov": "NUSA TENGGARA BARAT",
+    "kabkot": "KOTA BIMA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "207.888",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "473091",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB TIMOR TENGAH SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3933.151",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "269797",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB. TIMOR TENGAH UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2623.2",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "228937",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB. BELU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1127.25",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "221960",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB. ALOR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2928.559",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "287315",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB. FLORES TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1748.517",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "333712",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB. SIKKA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1671.649",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "170222",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB. NGADA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1735.635",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "262881",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB. SUMBA TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "6984.014",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "150874",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB. SUMBA BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "757.408",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "143543",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB. LEMBATA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1268.105",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "275903",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB. MANGGARAI BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3128.997",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "166821",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB. NAGEKEO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1396.164",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "89701",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB. SUMBA TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1789.659",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "326184",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB. SUMBA BARAT DAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1383.312",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "284148",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB. MANGGARAI TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2389.53",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "95310",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB. SABU RAIJUA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "460.957",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "199780",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB. MALAKA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1109.162",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "443349",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KOTA KUPANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "159.334",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "310012",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "KAB. MEMPAWAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1935.419",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "492770",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "KAB. SANGGAU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "12452.224",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "577770",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "KAB. KETAPANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "30018.676",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "436351",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "KAB. SINTANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "22025.788",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "268840",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "KAB. KAPUAS HULU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "31318.246",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "291752",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "KAB. BENGKAYANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5488.608",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "406945",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "KAB. LANDAK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "8430.711",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "219108",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "KAB. SEKADAU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5979.044",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "129346",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "KAB. KAYONG UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4110.123",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "620126",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "KAB. KUBU RAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "8549.294",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "676096",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "KOTA PONTIANAK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "118.209",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "242146",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "KOTA SINGKAWANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "550.187",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "282659",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "KAB. KOTAWARINGIN BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "9480.344",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "433679",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "KAB. KOTAWARINGIN TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "15543.824",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "413823",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "KAB. KAPUAS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "17033.646",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "158638",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "KAB. BARITO UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "9984.808",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "174150",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "KAB. KATINGAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "20382.259",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "153164",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "KAB. SERUYAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "15215.158",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "63039",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "KAB. SUKAMARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3311.229",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "107970",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "KAB. LAMANDAU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "7632.394",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "131945",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "KAB. GUNUNG MAS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "9305.756",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "139086",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "KAB. PULANG PISAU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "9650.864",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "115239",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "KAB. MURUNG RAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "23575.328",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "115803",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "KAB. BARITO TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3212.515",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "360967",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "KAB. TANAH LAUT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3841.372",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "327975",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "KAB. KOTABARU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "9354.933",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "575115",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "KAB. BANJAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4588.438",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "322178",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "KAB. BARITO KUALA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2426.179",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "196412",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "KAB. TAPIN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2155.939",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "236328",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "KAB. HULU SUNGAI SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1697.224",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "266788",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "KAB. HULU SUNGAI TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1573.538",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "234642",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "KAB. HULU SUNGAI UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "907.491",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "260555",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "KAB. TABALONG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3473.069",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "134854",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "KAB. BALANGAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1828.513",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "675915",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "KOTA BANJARMASIN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "98.372",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "270346",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "KOTA BANJARBARU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "305.153",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "298997",
+    "prov": "KALIMANTAN TIMUR",
+    "kabkot": "KAB. PASER",
+    "semester": "1",
+    "jumlah_penduduk_km2": "10708.203",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "782634",
+    "prov": "KALIMANTAN TIMUR",
+    "kabkot": "KAB. KUTAI KARTANEGARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "26926.494",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "276241",
+    "prov": "KALIMANTAN TIMUR",
+    "kabkot": "KAB. BERAU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "21008.64",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "177007",
+    "prov": "KALIMANTAN TIMUR",
+    "kabkot": "KAB. KUTAI BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "13769.367",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "193554",
+    "prov": "KALIMANTAN TIMUR",
+    "kabkot": "KAB. PENAJAM PASER UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3173.304",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "37637",
+    "prov": "KALIMANTAN TIMUR",
+    "kabkot": "KAB. MAHAKAM ULU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "18427.794",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "856360",
+    "prov": "KALIMANTAN TIMUR",
+    "kabkot": "KOTA SAMARINDA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "716.783",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "187446",
+    "prov": "KALIMANTAN TIMUR",
+    "kabkot": "KOTA BONTANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "160.81",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "162878",
+    "prov": "KALIMANTAN UTARA",
+    "kabkot": "KAB. BULUNGAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "13879.787",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "83371",
+    "prov": "KALIMANTAN UTARA",
+    "kabkot": "KAB. MALINAU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "38901.833",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "27980",
+    "prov": "KALIMANTAN UTARA",
+    "kabkot": "KAB. TANA TIDUNG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3504.336",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "246734",
+    "prov": "KALIMANTAN UTARA",
+    "kabkot": "KOTA TARAKAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "250.978",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "253821",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "KAB. BOLAANG MONGONDOW",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3269.305",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "345513",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "KAB. MINAHASA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1128.453",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "137494",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "KAB. KEPULAUAN SANGIHE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "597.26",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "100772",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "KAB. KEPULAUAN TALAUD",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1012.14",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "151905",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "NIAS UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "126",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "263328",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "PADANG LAWAS ",
+    "semester": "1",
+    "jumlah_penduduk_km2": "68",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "266856",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "12.2",
+    "semester": "2",
+    "jumlah_penduduk_km2": "68.10939115121",
+    "tahun": "2018"
+  },
+  {
+    "jumlah_penduduk": "422448",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "BATU BARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "458",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "141869",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "SAMOSIR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "69",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "318616",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "DAIRI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "165",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "505388",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "LABUHANBATU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "234",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1038120",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "SIMALUNGUN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "238",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1057605",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "LANGKAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "169",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "145173",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "NIAS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "79",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "320542",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "TAPANULI UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "85",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "159829",
+    "prov": "ACEH",
+    "kabkot": "PIDIE JAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "149",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "300618",
+    "prov": "ACEH",
+    "kabkot": "ACEH TAMIANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "154",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "172363",
+    "prov": "ACEH",
+    "kabkot": "NAGAN RAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "51",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "101650",
+    "prov": "ACEH",
+    "kabkot": "GAYO LUES",
+    "semester": "1",
+    "jumlah_penduduk_km2": "18",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "153067",
+    "prov": "ACEH",
+    "kabkot": "ACEH BARAT DAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "103",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "129230",
+    "prov": "ACEH",
+    "kabkot": "ACEH SINGKIL",
+    "semester": "1",
+    "jumlah_penduduk_km2": "59",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "94251",
+    "prov": "ACEH",
+    "kabkot": "SIMEULUE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "46",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "435492",
+    "prov": "ACEH",
+    "kabkot": "PIDIE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "141",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "407775",
+    "prov": "ACEH",
+    "kabkot": "ACEH BESAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "137",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "218944",
+    "prov": "ACEH",
+    "kabkot": "ACEH TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "51",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "194663",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "MUSI RAWAS UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "32",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "334924",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "EMPAT LAWANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "148",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "424518",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "OGAN ILIR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "159",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "822954",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "BANYUASIN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "70",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "628485",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "MUSI BANYUASIN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "44",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "435114",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "LAHAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "82",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "600053",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "MUARA ENIM",
+    "semester": "1",
+    "jumlah_penduduk_km2": "81",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "338683",
+    "prov": "JAMBI",
+    "kabkot": "TEBO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "52",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "355927",
+    "prov": "JAMBI",
+    "kabkot": "BUNGO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "76",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "323240",
+    "prov": "JAMBI",
+    "kabkot": "TANJUNG JABUNG BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "70",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "279532",
+    "prov": "JAMBI",
+    "kabkot": "SAROLANGUN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "45",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "357315",
+    "prov": "JAMBI",
+    "kabkot": "MERANGIN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "47",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "339062",
+    "prov": "RIAU",
+    "kabkot": "KUANTAN SINGINGI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "64",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "452075",
+    "prov": "RIAU",
+    "kabkot": "SIAK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "55",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "560355",
+    "prov": "RIAU",
+    "kabkot": "ROKAN HULU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "74",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "381949",
+    "prov": "RIAU",
+    "kabkot": "PELALAWAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "30",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "606179",
+    "prov": "RIAU",
+    "kabkot": "BENGKALIS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "87",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "436990",
+    "prov": "RIAU",
+    "kabkot": "INDRAGIRI HULU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "57",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "436298",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "PASAMAN BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "112",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "226264",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "DHARMASRAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "76",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "90904",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "KEPULAUAN MENTAWAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "15",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "388585",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "LIMA PULUH KOTA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "109",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "524561",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "AGAM",
+    "semester": "1",
+    "jumlah_penduduk_km2": "291",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "374431",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "TANAH DATAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "280",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "240079",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "SIJUNJUNG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "77",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "515549",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "PESISIR SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "90",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "984303",
+    "prov": "JAWA BARAT",
+    "kabkot": "PURWAKARTA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1192",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1594903",
+    "prov": "JAWA BARAT",
+    "kabkot": "SUBANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "842",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1322223",
+    "prov": "JAWA BARAT",
+    "kabkot": "MAJALENGKA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1098",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1194847",
+    "prov": "JAWA BARAT",
+    "kabkot": "KUNINGAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1076",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1262188",
+    "prov": "JAWA BARAT",
+    "kabkot": "CIAMIS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "892",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "2550203",
+    "prov": "JAWA BARAT",
+    "kabkot": "GARUT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "830",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "3619360",
+    "prov": "JAWA BARAT",
+    "kabkot": "BANDUNG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2047",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "2653601",
+    "prov": "JAWA BARAT",
+    "kabkot": "SUKABUMI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "640",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "5198693",
+    "prov": "JAWA BARAT",
+    "kabkot": "BOGOR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1918",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "2585144",
+    "prov": "DKI JAKARTA",
+    "kabkot": "JAKARTA BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "20774",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1136029",
+    "prov": "DKI JAKARTA",
+    "kabkot": "JAKARTA PUSAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "21688",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "29418",
+    "prov": "DKI JAKARTA",
+    "kabkot": "KEPULAUAN SERIBU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2890",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "47803",
+    "prov": "KEPULAUAN RIAU",
+    "kabkot": "KEPULAUAN ANAMBAS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "81",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "82537",
+    "prov": "KEPULAUAN RIAU",
+    "kabkot": "NATUNA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "41",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "260438",
+    "prov": "KEPULAUAN RIAU",
+    "kabkot": "KARIMUN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "285",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "222298",
+    "prov": "KEPULAUAN BANGKA BELITUNG",
+    "kabkot": "KOTA PANGKALPINANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2487",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "197452",
+    "prov": "KEPULAUAN BANGKA BELITUNG",
+    "kabkot": "BANGKA TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "92",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "199355",
+    "prov": "KEPULAUAN BANGKA BELITUNG",
+    "kabkot": "BANGKA SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "55",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "290020",
+    "prov": "LAMPUNG",
+    "kabkot": "TULANG BAWANG BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "241",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "477165",
+    "prov": "LAMPUNG",
+    "kabkot": "PESAWARAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "213",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "479818",
+    "prov": "LAMPUNG",
+    "kabkot": "WAY KANAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "122",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "612115",
+    "prov": "LAMPUNG",
+    "kabkot": "TANGGAMUS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "203",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "636908",
+    "prov": "LAMPUNG",
+    "kabkot": "LAMPUNG UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "234",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1391683",
+    "prov": "LAMPUNG",
+    "kabkot": "LAMPUNG TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "366",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "108728",
+    "prov": "BENGKULU",
+    "kabkot": "LEBONG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "57",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "189974",
+    "prov": "BENGKULU",
+    "kabkot": "MUKOMUKO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "47",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "131467",
+    "prov": "BENGKULU",
+    "kabkot": "KAUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "55",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "291710",
+    "prov": "BENGKULU",
+    "kabkot": "BENGKULU UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "67",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "170440",
+    "prov": "BENGKULU",
+    "kabkot": "BENGKULU SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "144",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "666245",
+    "prov": "JAWA TIMUR",
+    "kabkot": "SITUBONDO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "399",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1749773",
+    "prov": "JAWA TIMUR",
+    "kabkot": "BANYUWANGI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "303",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "2581486",
+    "prov": "JAWA TIMUR",
+    "kabkot": "JEMBER",
+    "semester": "1",
+    "jumlah_penduduk_km2": "835",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "2611907",
+    "prov": "JAWA TIMUR",
+    "kabkot": "MALANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "740",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1671821",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KEDIRI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1206",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1126679",
+    "prov": "JAWA TIMUR",
+    "kabkot": "TULUNGAGUNG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1067",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "746734",
+    "prov": "JAWA TIMUR",
+    "kabkot": "TRENGGALEK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "651",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "597580",
+    "prov": "JAWA TIMUR",
+    "kabkot": "PACITAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "430",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "774296",
+    "prov": "DAERAH ISTIMEWA YOGYAKARTA",
+    "kabkot": "GUNUNGKIDUL",
+    "semester": "1",
+    "jumlah_penduduk_km2": "541",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "955807",
+    "prov": "DAERAH ISTIMEWA YOGYAKARTA",
+    "kabkot": "BANTUL",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1881",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "317535",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KOTA PEKALONGAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "46.2",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1640437",
+    "prov": "JAWA TENGAH",
+    "kabkot": "TEGAL",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1872",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1522301",
+    "prov": "JAWA TENGAH",
+    "kabkot": "PEMALANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1362",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "807593",
+    "prov": "JAWA TENGAH",
+    "kabkot": "BATANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1024",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1032816",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KENDAL",
+    "semester": "1",
+    "jumlah_penduduk_km2": "924",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1052339",
+    "prov": "JAWA TENGAH",
+    "kabkot": "SEMARANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1107",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1204682",
+    "prov": "JAWA TENGAH",
+    "kabkot": "DEMAK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1338",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "866548",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KUDUS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2038",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "910545",
+    "prov": "JAWA TENGAH",
+    "kabkot": "BLORA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "505",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1487977",
+    "prov": "JAWA TENGAH",
+    "kabkot": "GROBOGAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "739",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "935198",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KARANGANYAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1206",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1276030",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KLATEN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1939",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1077213",
+    "prov": "JAWA TENGAH",
+    "kabkot": "BOYOLALI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1068",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "798175",
+    "prov": "JAWA TENGAH",
+    "kabkot": "PURWOREJO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "731",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1039570",
+    "prov": "JAWA TENGAH",
+    "kabkot": "BANJARNEGARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1015",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1021443",
+    "prov": "JAWA TENGAH",
+    "kabkot": "PURBALINGGA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1508",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1122772",
+    "prov": "JAWA BARAT",
+    "kabkot": "KOTA BOGOR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "111.366",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "432032",
+    "prov": "JAWA BARAT",
+    "kabkot": "PANGANDARAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "428",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "248864",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "SUMBA TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "36",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "276852",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "ENDE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "135",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "326992",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "SIKKA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "189",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "219510",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "ALOR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "77",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "469714",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "TIMOR TENGAH SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "119",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "382402",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KUPANG ",
+    "semester": "1",
+    "jumlah_penduduk_km2": "70",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "252949",
+    "prov": "NUSA TENGGARA BARAT",
+    "kabkot": "LOMBOK UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "326",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "532789",
+    "prov": "NUSA TENGGARA BARAT",
+    "kabkot": "BIMA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "156",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "241836",
+    "prov": "NUSA TENGGARA BARAT",
+    "kabkot": "DOMPU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "101",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1334499",
+    "prov": "NUSA TENGGARA BARAT",
+    "kabkot": "LOMBOK TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1084",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "826613",
+    "prov": "BALI",
+    "kabkot": "BULELENG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "606",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "521954",
+    "prov": "BALI",
+    "kabkot": "KARANGASEM",
+    "semester": "1",
+    "jumlah_penduduk_km2": "622",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "501317",
+    "prov": "BALI",
+    "kabkot": "GIANYAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1362",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "462652",
+    "prov": "BALI",
+    "kabkot": "TABANAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "456",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "325456",
+    "prov": "BALI",
+    "kabkot": "JEMBRANA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "387",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "464716",
+    "prov": "BANTEN",
+    "kabkot": "KOTA CILEGON",
+    "semester": "1",
+    "jumlah_penduduk_km2": "162.514",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1623409",
+    "prov": "BANTEN",
+    "kabkot": "SERANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "936",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "3105042",
+    "prov": "BANTEN",
+    "kabkot": "TANGERANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3069",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1134750",
+    "prov": "JAWA TIMUR",
+    "kabkot": "SUMENEP",
+    "semester": "1",
+    "jumlah_penduduk_km2": "568",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "902514",
+    "prov": "JAWA TIMUR",
+    "kabkot": "SAMPANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "732",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1082759",
+    "prov": "JAWA TIMUR",
+    "kabkot": "BANGKALAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1081",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1379731",
+    "prov": "JAWA TIMUR",
+    "kabkot": "LAMONGAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "774",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1223257",
+    "prov": "JAWA TIMUR",
+    "kabkot": "TUBAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "667",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "896768",
+    "prov": "JAWA TIMUR",
+    "kabkot": "NGAWI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "692",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "689369",
+    "prov": "JAWA TIMUR",
+    "kabkot": "MAGETAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1001",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1133556",
+    "prov": "JAWA TIMUR",
+    "kabkot": "NGANJUK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "926",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1951723",
+    "prov": "JAWA TIMUR",
+    "kabkot": "SIDOARJO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3077",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1603754",
+    "prov": "JAWA TIMUR",
+    "kabkot": "PASURUAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1088",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "35171",
+    "prov": "KALIMANTAN TIMUR",
+    "kabkot": "MAHAKAM ULU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "185022",
+    "prov": "KALIMANTAN TIMUR",
+    "kabkot": "PENAJAM PASER UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "56",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "168348",
+    "prov": "KALIMANTAN TIMUR",
+    "kabkot": "KUTAI BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "8",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "253979",
+    "prov": "KALIMANTAN TIMUR",
+    "kabkot": "BERAU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "12",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "280250",
+    "prov": "KALIMANTAN TIMUR",
+    "kabkot": "PASER",
+    "semester": "1",
+    "jumlah_penduduk_km2": "36",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "132210",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "BALANGAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "70",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "328692",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "TANAH BUMBU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "66",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "249900",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "TABALONG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "66",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "262831",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "HULU SUNGAI TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "179",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "233157",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "HULU SUNGAI SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "129",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "316896",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "BARITO KUALA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "106",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "348226",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "TANAH LAUT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "96",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "302310",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "KOTA PALANGKARAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2848.699",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "111318",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "MURUNG RAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "62143",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "SUKAMARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "16",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "149127",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "SERUYAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "9",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "157096",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "BARITO UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "19",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "132129",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "BARITO SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "15",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "416277",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "KOTAWARINGIN TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "25",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "266779",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "KOTAWARINGIN BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "25",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "610212",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "KUBU RAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "88",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "209069",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "MELAWI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "20",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "215670",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "SEKADAU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "40",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "289688",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "BENGKAYANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "57",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "574966",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "KETAPANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "18",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "489409",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "SANGGAU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "38",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "639741",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "SAMBAS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "95",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "93995",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "SABU RAIJUA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "204",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "276115",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "MANGGARAI TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "104",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "88478",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "SUMBA TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "47",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "165514",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "NAGEKEO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "117",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "148862",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "ROTE NDAO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "116",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "140954",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "LEMBATA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "111",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "119291",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "BUTON",
+    "semester": "1",
+    "jumlah_penduduk_km2": "98",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "260056",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KONAWE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "59",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "238352",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KOLAKA ",
+    "semester": "1",
+    "jumlah_penduduk_km2": "73",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1470261",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KOTA MAKASSAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "176.852",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "304727",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "LUWU TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "44",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "329703",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "LUWU UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "44",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "372723",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "LUWU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "111",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "227927",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "ENREKANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "128",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "320645",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "SIDENRENG RAPPANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "170",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "383005",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "WAJO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "153",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "189208",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "BARRU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "161",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "351983",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "PANGKAJENE DAN KEPULAUAN ",
+    "semester": "1",
+    "jumlah_penduduk_km2": "311",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "812842",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "BONE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "178",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "265026",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "SINJAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "332",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "304856",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "TAKALAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "538",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "415294",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "JENEPONTO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "588",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "445699",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "BULUKUMBA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "347",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "140180",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KEPULAUAN SELAYAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "103",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "126812",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "MOROWALI UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "13",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "72902",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "BANGGAI LAUT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "100",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "451312",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "PARIGI MOUTONG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "89",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "150924",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "BUOL",
+    "semester": "1",
+    "jumlah_penduduk_km2": "37",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "223427",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "TOLITOLI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "55",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "369344",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "BANGGAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "38",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "101958",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "KOTA TOMOHON",
+    "semester": "1",
+    "jumlah_penduduk_km2": "169.064",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "228006",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "KOTA BITUNG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "329.724",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "72025",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "BOLAANG MONGONDOW SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "45",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "85395",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "BOLAANG MONGONDOW UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "51",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "118475",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "MINAHASA TENGGARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "167",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "98326",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "KEPULAUAN TALAUD",
+    "semester": "1",
+    "jumlah_penduduk_km2": "79",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "343663",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "MINAHASA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "308",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "252011",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "BOLAANG MONGONDOW",
+    "semester": "1",
+    "jumlah_penduduk_km2": "88",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "192263",
+    "prov": "KALIMANTAN UTARA",
+    "kabkot": "NUNUKAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "14",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "81743",
+    "prov": "KALIMANTAN UTARA",
+    "kabkot": "MALINAU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "107852",
+    "prov": "PAPUA",
+    "kabkot": "MAPPI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "36200",
+    "prov": "PAPUA",
+    "kabkot": "WAROPEN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "250844",
+    "prov": "PAPUA",
+    "kabkot": "TOLIKARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "45",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "41534",
+    "prov": "PAPUA",
+    "kabkot": "SARMI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "311731",
+    "prov": "PAPUA",
+    "kabkot": "MIMIKA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "14",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "146052",
+    "prov": "PAPUA",
+    "kabkot": "BIAK NUMFOR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "56",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "172960",
+    "prov": "PAPUA",
+    "kabkot": "NABIRE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "16",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "171665",
+    "prov": "PAPUA",
+    "kabkot": "JAYAPURA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "15",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "230225",
+    "prov": "PAPUA",
+    "kabkot": "MERAUKE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "60102",
+    "prov": "MALUKU UTARA",
+    "kabkot": "PULAU TALIABU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "41",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "77106",
+    "prov": "MALUKU UTARA",
+    "kabkot": "PULAU MOROTAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "31",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "252880",
+    "prov": "MALUKU UTARA",
+    "kabkot": "HALMAHERA SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "31",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "71433",
+    "prov": "MALUKU UTARA",
+    "kabkot": "HALMAHERA TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "27",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "136009",
+    "prov": "MALUKU UTARA",
+    "kabkot": "HALMAHERA BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "80",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "77013",
+    "prov": "MALUKU",
+    "kabkot": "BURU SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "20",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "106364",
+    "prov": "MALUKU",
+    "kabkot": "KEPULAUAN ARU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "13",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "212302",
+    "prov": "MALUKU",
+    "kabkot": "SERAM BAGIAN BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "42",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "136859",
+    "prov": "MALUKU",
+    "kabkot": "BURU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "28",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "128073",
+    "prov": "MALUKU",
+    "kabkot": "KEPULAUAN TANIMBAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "29",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "428276",
+    "prov": "MALUKU",
+    "kabkot": "MALUKU TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "54",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "138231",
+    "prov": "SULAWESI BARAT",
+    "kabkot": "MAMUJU TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "46",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "486236",
+    "prov": "SULAWESI BARAT",
+    "kabkot": "POLEWALI MANDAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "274",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "163870",
+    "prov": "SULAWESI BARAT",
+    "kabkot": "MAMASA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "55",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "191846",
+    "prov": "SULAWESI BARAT",
+    "kabkot": "PASANGKAYU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "63",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "151255",
+    "prov": "GORONTALO",
+    "kabkot": "PAHUWATO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "36",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "166968",
+    "prov": "GORONTALO",
+    "kabkot": "BONE BOLANGO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "84",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "404835",
+    "prov": "GORONTALO",
+    "kabkot": "GORONTALO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "231",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "99173",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "BUTON SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "194",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "119011",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "BUTON TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "124",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "39877",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KONAWE KEPULAUAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "46",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "69457",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "BUTON UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "37",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "135478",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KOLAKA UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "40",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "115366",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "WAKATOBI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "206",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "130421",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "GUNUNG MAS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "12",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "166479",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "KATINGAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "10",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "424447",
+    "prov": "KALIMANTAN TIMUR",
+    "kabkot": "KUTAI TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "12",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "282341",
+    "prov": "PAPUA BARAT",
+    "kabkot": "KOTA SORONG ",
+    "semester": "1",
+    "jumlah_penduduk_km2": "430",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "44404",
+    "prov": "PAPUA BARAT",
+    "kabkot": "MAYBRAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "8",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "32344",
+    "prov": "PAPUA BARAT",
+    "kabkot": "TAMBRAUW",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "44615",
+    "prov": "PAPUA BARAT",
+    "kabkot": "TELUK WONDAMA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "11",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "80565",
+    "prov": "PAPUA BARAT",
+    "kabkot": "TELUK BINTUNI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "51716",
+    "prov": "PAPUA BARAT",
+    "kabkot": "SORONG SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "8",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "89015",
+    "prov": "PAPUA BARAT",
+    "kabkot": "FAKFAK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "8",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "123829",
+    "prov": "PAPUA BARAT",
+    "kabkot": "SORONG ",
+    "semester": "1",
+    "jumlah_penduduk_km2": "19",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "136071",
+    "prov": "PAPUA",
+    "kabkot": "INTAN JAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "35",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "115005",
+    "prov": "PAPUA",
+    "kabkot": "DOGIYAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "27",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "103807",
+    "prov": "PAPUA",
+    "kabkot": "YALIMO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "83",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "48446",
+    "prov": "PAPUA",
+    "kabkot": "MAMBERAMO TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "38",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "478192",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "KOTA MANADO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "162.353",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "317000",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "SUMBA BARAT DAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "214",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "149496",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "SUMBA BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "68",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "325530",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "MANGGARAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "155",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "285306",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "FLORES TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "157",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "267947",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "TIMOR TENGAH UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "100",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "519061",
+    "prov": "NUSA TENGGARA BARAT",
+    "kabkot": "SUMBAWA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "78",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "724875",
+    "prov": "NUSA TENGGARA BARAT",
+    "kabkot": "LOMBOK BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "809",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "512485",
+    "prov": "BALI",
+    "kabkot": "BADUNG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1224",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "165920",
+    "prov": "KEPULAUAN RIAU",
+    "kabkot": "BINTAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "126",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "404155",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "LANDAK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "45",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "223119",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "MINAHASA UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "243",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "64762",
+    "prov": "PAPUA BARAT",
+    "kabkot": "KAIMANA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "192250",
+    "prov": "PAPUA BARAT",
+    "kabkot": "MANOKWARI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "60",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "91138",
+    "prov": "PAPUA",
+    "kabkot": "DEIYAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "170",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "24719",
+    "prov": "PAPUA",
+    "kabkot": "SUPIORI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "36",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "64524",
+    "prov": "PAPUA",
+    "kabkot": "BOVEN DIGOEL",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "354711",
+    "prov": "PAPUA",
+    "kabkot": "YAHUKIMO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "21",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "202871",
+    "prov": "MALUKU UTARA",
+    "kabkot": "KOTA TERNATE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "162.202",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "250584",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "KAB. POSO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "7545.93",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "201799",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "BANTAENG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "510",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "407882",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "PINRANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "208",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "254936",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "TORAJA UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "210",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "162098",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "MOROWALI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "53",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "148405",
+    "prov": "GORONTALO",
+    "kabkot": "BOALEMO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "98",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "125715",
+    "prov": "GORONTALO",
+    "kabkot": "GORONTALO UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "75",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "71934",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "KEPULAUAN SIAU TAGULANDANG BIARO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "261",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "136207",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "KEPULAUAN SANGIHE ",
+    "semester": "1",
+    "jumlah_penduduk_km2": "295",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "123918",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "KOTA KOTAMOBAGU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "108.893",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1005566",
+    "prov": "JAWA TENGAH",
+    "kabkot": "SRAGEN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1068",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "897916",
+    "prov": "JAWA TENGAH",
+    "kabkot": "SUKOHARJO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1836",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1310512",
+    "prov": "JAWA TENGAH",
+    "kabkot": "MAGELANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1188",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1405644",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KEBUMEN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1160",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1818541",
+    "prov": "JAWA TENGAH",
+    "kabkot": "BANYUMAS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1362",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "752546",
+    "prov": "JAWA BARAT",
+    "kabkot": "KOTA TASIKMALAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "183.939",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "2370848",
+    "prov": "JAWA BARAT",
+    "kabkot": "KARAWANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1435",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1883665",
+    "prov": "JAWA BARAT",
+    "kabkot": "INDRAMAYU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "923",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "2320493",
+    "prov": "JAWA BARAT",
+    "kabkot": "CIREBON",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2357",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "2387741",
+    "prov": "JAWA BARAT",
+    "kabkot": "CIANJUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "622",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "3258691",
+    "prov": "DKI JAKARTA",
+    "kabkot": "JAKARTA TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "17836",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "84758",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "MUNA BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "83",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "224622",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "MUNA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "117",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "151289",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "BOMBANA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "50",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "347381",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KOTA KENDARI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "265.791",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "179225",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "KAB. MOROWALI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4486.891",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "141336",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KOTA MOJOKERTO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "20.217",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1283961",
+    "prov": "JAWA TIMUR",
+    "kabkot": "GRESIK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1078",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "754263",
+    "prov": "JAWA TIMUR",
+    "kabkot": "MADIUN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "727",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1127053",
+    "prov": "JAWA TIMUR",
+    "kabkot": "MOJOKERTO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1570",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1156570",
+    "prov": "JAWA TIMUR",
+    "kabkot": "PROBOLINGGO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "682",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1091856",
+    "prov": "JAWA TIMUR",
+    "kabkot": "LUMAJANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "610",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "968681",
+    "prov": "JAWA TIMUR",
+    "kabkot": "PONOROGO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "742",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "442838",
+    "prov": "DAERAH ISTIMEWA YOGYAKARTA",
+    "kabkot": "KULON PROGO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "755",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "976188",
+    "prov": "JAWA TENGAH",
+    "kabkot": "PEKALONGAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1166",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1212357",
+    "prov": "JAWA TENGAH",
+    "kabkot": "JEPARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1145",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "646300",
+    "prov": "JAWA TENGAH",
+    "kabkot": "REMBANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "729",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "228125",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KOTA PADANGSIDIMPUAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1990",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "213350",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "TOBA SAMOSIR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "92",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "314887",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "TAPANULI SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "52",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "96608",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "NIAS BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "204",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "324545",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "LABUHANBATU SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "90",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "790133",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "ASAHAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "213",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "444072",
+    "prov": "ACEH",
+    "kabkot": "BIREUEN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "234",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "164964",
+    "prov": "ACEH",
+    "kabkot": "BENER MERIAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "113",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "227297",
+    "prov": "ACEH",
+    "kabkot": "ACEH TENGGARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "54",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "281550",
+    "prov": "BENGKULU",
+    "kabkot": "REJANG LEBONG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "172",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "232048",
+    "prov": "JAMBI",
+    "kabkot": "TANJUNG JABUNG TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "43",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "306619",
+    "prov": "JAMBI",
+    "kabkot": "BATANGHARI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "53",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "798421",
+    "prov": "RIAU",
+    "kabkot": "KAMPAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "73",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "210260",
+    "prov": "RIAU",
+    "kabkot": "KEPULAUAN MERANTI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "57",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "409925",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "MUSI RAWAS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "65",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "417299",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "OGAN KOMERING ULU SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "76",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "738333",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "OGAN KOMERING ILIR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "40",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "199356",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "PENUKAL ABAB LEMATANG ILIR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "108",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "436893",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "PADANG PARIAMAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "328",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "206006",
+    "prov": "KEPULAUAN BANGKA BELITUNG",
+    "kabkot": "BANGKA BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "73",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "164453",
+    "prov": "LAMPUNG",
+    "kabkot": "PESISIR BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "57",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "406731",
+    "prov": "LAMPUNG",
+    "kabkot": "18.1",
+    "semester": "2",
+    "jumlah_penduduk_km2": "650.7696",
+    "tahun": "2020"
+  },
+  {
+    "jumlah_penduduk": "1101977",
+    "prov": "LAMPUNG",
+    "kabkot": "LAMPUNG TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "207",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "307294",
+    "prov": "LAMPUNG",
+    "kabkot": "LAMPUNG BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "143",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "307846",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "MEMPAWAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "110",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "101863",
+    "prov": "KEPULAUAN RIAU",
+    "kabkot": "LINGGA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "45",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "180486",
+    "prov": "KEPULAUAN BANGKA BELITUNG",
+    "kabkot": "BELITUNG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "79",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "151997",
+    "prov": "KALIMANTAN UTARA",
+    "kabkot": "BULUNGAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "11",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "190801",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "TAPIN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "71",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "64305",
+    "prov": "PAPUA",
+    "kabkot": "KEEROM",
+    "semester": "1",
+    "jumlah_penduduk_km2": "8",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "200596",
+    "prov": "MALUKU UTARA",
+    "kabkot": "HALMAHERA UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "51",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "128101",
+    "prov": "MALUKU",
+    "kabkot": "MALUKU TENGGARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "124",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "90007",
+    "prov": "MALUKU",
+    "kabkot": "KOTA TUAL",
+    "semester": "1",
+    "jumlah_penduduk_km2": "234.417",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "410864",
+    "prov": "LAMPUNG",
+    "kabkot": "PRINGSEWU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "657",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "388466",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "MAROS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "240",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "281281",
+    "prov": "SULAWESI BARAT",
+    "kabkot": "MAMUJU ",
+    "semester": "1",
+    "jumlah_penduduk_km2": "56",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "121791",
+    "prov": "PAPUA",
+    "kabkot": "PANIAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "19",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "38441",
+    "prov": "PAPUA",
+    "kabkot": "MAMBERAMO RAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "181661",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "SOLOK SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "54",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "71325",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KONAWE UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "14",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "306598",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "DONGGALA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "72",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "269845",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "PADANG LAWAS UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "69",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "409280",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KARO ",
+    "semester": "1",
+    "jumlah_penduduk_km2": "192",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "203816",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "HUMBANG HASUNDUTAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "87",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "166327",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "TOJO UNA-UNA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "29",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "184297",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KOTA PALOPO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "273.235",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "652342",
+    "prov": "RIAU",
+    "kabkot": "INDRAGIRI HILIR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "52",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "39191",
+    "prov": "PAPUA BARAT",
+    "kabkot": "PEGUNUNGAN ARFAK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "14",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "176181",
+    "prov": "PAPUA",
+    "kabkot": "PUNCAK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "22",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "201940",
+    "prov": "PAPUA",
+    "kabkot": "LANNY JAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "90",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "113217",
+    "prov": "PAPUA",
+    "kabkot": "KEPULAUAN YAPEN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "55",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "273110",
+    "prov": "PAPUA",
+    "kabkot": "JAYAWIJAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "39",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "96054",
+    "prov": "MALUKU UTARA",
+    "kabkot": "HALMAHERA TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "15",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "81150",
+    "prov": "MALUKU",
+    "kabkot": "MALUKU BARAT DAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "18",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1057664",
+    "prov": "LAMPUNG",
+    "kabkot": "LAMPUNG SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1510",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "227069",
+    "prov": "KEPULAUAN RIAU",
+    "kabkot": "KOTA TANJUNGPINANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1571",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "114634",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "BARITO TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "30",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "325711",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "KOTABARU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "34",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "423303",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "SINTANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "20",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "2936182",
+    "prov": "JAWA BARAT",
+    "kabkot": "BEKASI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2397",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "248300",
+    "prov": "JAMBI",
+    "kabkot": "KERINCI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "74",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "213513",
+    "prov": "BENGKULU",
+    "kabkot": "SELUMA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "89",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "152786",
+    "prov": "BENGKULU",
+    "kabkot": "KEPAHIANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "230",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "1402324",
+    "prov": "BANTEN",
+    "kabkot": "LEBAK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "409",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "198278",
+    "prov": "ACEH",
+    "kabkot": "ACEH BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "68",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "37529",
+    "prov": "PAPUA",
+    "kabkot": "91.2",
+    "semester": "2",
+    "jumlah_penduduk_km2": "1.5759276826023",
+    "tahun": "2018"
+  },
+  {
+    "jumlah_penduduk": "108834",
+    "prov": "MALUKU",
+    "kabkot": "KAB. KEPULAUAN ARU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "8096.729",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "271620",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. SINJAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "865.244",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "817364",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. BONE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4567.363",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "394617",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. MAROS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1442.946",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "352949",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. PANGKAJENE KEPULAUAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "311.77036958519",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "193358",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. BARRU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1201.903",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "240665",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. SOPPENG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1385.546",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "323430",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. SIDENRENG RAPPANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1832.3",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "414710",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. PINRANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1896.575",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "229967",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. ENREKANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1806.845",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "377580",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. LUWU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2902.069",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "257075",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. TANA TORAJA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2043.623",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "332059",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. LUWU UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "7422.418",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "259690",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. TORAJA UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1289.134",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "245885",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KAB. KOLAKA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2958.921",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "262439",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KAB. KONAWE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5351.853",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "228639",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KAB. MUNA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1858.095",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "320467",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KAB. KONAWE SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4237.741",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "161486",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KAB. BOMBANA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3293.966",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "116559",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KAB. WAKATOBI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "450.456",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "77391",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KAB. KONAWE UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4219.812",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "71432",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KAB. BUTON UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1755.829",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "126754",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KAB. KOLAKA TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3992.531",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "41520",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KAB. KONAWE KEPULAUAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "705.711",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "86215",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KAB. MUNA BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "818.702",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "120285",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KAB. BUTON TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "836.956",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "100865",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KAB. BUTON SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "517.631",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "415198",
+    "prov": "GORONTALO",
+    "kabkot": "KAB. GORONTALO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2160.364",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "150504",
+    "prov": "GORONTALO",
+    "kabkot": "KAB. BOALEMO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1830.865",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "170271",
+    "prov": "GORONTALO",
+    "kabkot": "KAB. BONE BOLANGO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1888.998",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "157660",
+    "prov": "GORONTALO",
+    "kabkot": "KAB. POHUWATO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4370.359",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "128970",
+    "prov": "GORONTALO",
+    "kabkot": "KAB. GORONTALO UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1703.628",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "283282",
+    "prov": "SULAWESI BARAT",
+    "kabkot": "KAB. MAMUJU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4942.252",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "165310",
+    "prov": "SULAWESI BARAT",
+    "kabkot": "KAB. MAMASA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3015.945",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "491014",
+    "prov": "SULAWESI BARAT",
+    "kabkot": "KAB. POLEWALI MANDAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2074.118",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "184664",
+    "prov": "SULAWESI BARAT",
+    "kabkot": "KAB. MAJENE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "900.916",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "139742",
+    "prov": "SULAWESI BARAT",
+    "kabkot": "KAB. MAMUJU TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2758.335",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "429795",
+    "prov": "MALUKU",
+    "kabkot": "KAB. MALUKU TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "8253.929",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "129481",
+    "prov": "MALUKU",
+    "kabkot": "KAB. KEPULAUAN TANIMBAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4431.082",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "138308",
+    "prov": "MALUKU",
+    "kabkot": "KAB. BURU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4915.566",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "137804",
+    "prov": "MALUKU",
+    "kabkot": "KAB. SERAM BAGIAN TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5725.447",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "213969",
+    "prov": "MALUKU",
+    "kabkot": "KAB. SERAM BAGIAN BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5017.138",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "91531",
+    "prov": "MALUKU",
+    "kabkot": "KAB. MALUKU BARAT DAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4551.676",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "78099",
+    "prov": "MALUKU",
+    "kabkot": "KAB. BURU SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3678.696",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "137126",
+    "prov": "MALUKU UTARA",
+    "kabkot": "KAB. HALMAHERA BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2239.114",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "96359",
+    "prov": "MALUKU UTARA",
+    "kabkot": "KAB. HALMAHERA TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2276.903",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "202150",
+    "prov": "MALUKU UTARA",
+    "kabkot": "KAB. HALMAHERA UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3404.629",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "254328",
+    "prov": "MALUKU UTARA",
+    "kabkot": "KAB. HALMAHERA SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "8096.397",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "97221",
+    "prov": "MALUKU UTARA",
+    "kabkot": "KAB. HALMAHERA TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "6488.73",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "79319",
+    "prov": "MALUKU UTARA",
+    "kabkot": "KAB. PULAU MOROTAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2337.331",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "63897",
+    "prov": "MALUKU UTARA",
+    "kabkot": "KAB. PULAU TALIABU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2985.748",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "233621",
+    "prov": "PAPUA",
+    "kabkot": "KAB. MERAUKE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5.301014272424",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "273503",
+    "prov": "PAPUA",
+    "kabkot": "KAB. JAYAWIJAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "38.901468709908",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "173291",
+    "prov": "PAPUA",
+    "kabkot": "KAB. NABIRE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "15.59408635775",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "113498",
+    "prov": "PAPUA",
+    "kabkot": "KAB. KEPULAUAN YAPEN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "55.36487804878",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "146346",
+    "prov": "PAPUA",
+    "kabkot": "KAB. BIAK NUMFOR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "56.243658724058",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "219249",
+    "prov": "PAPUA",
+    "kabkot": "KAB. PUNCAK JAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "43.94199029564",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "122124",
+    "prov": "PAPUA",
+    "kabkot": "KAB. PANIAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "18.715604766101",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "312255",
+    "prov": "PAPUA",
+    "kabkot": "KAB. MIMIKA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "14.434197753432",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "65377",
+    "prov": "PAPUA",
+    "kabkot": "KAB. KEEROM",
+    "semester": "1",
+    "jumlah_penduduk_km2": "7.792252681764",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "112251",
+    "prov": "PAPUA",
+    "kabkot": "KAB PEGUNUNGAN BINTANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "7.1579517918633",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "355021",
+    "prov": "PAPUA",
+    "kabkot": "KAB. YAHUKIMO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "20.698519123134",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "251117",
+    "prov": "PAPUA",
+    "kabkot": "KAB. TOLIKARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "44.937573034271",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "36974",
+    "prov": "PAPUA",
+    "kabkot": "KAB. WAROPEN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3.3682879524537",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "65310",
+    "prov": "PAPUA",
+    "kabkot": "KAB. BOVEN DIGOEL",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2.4092518813634",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "108232",
+    "prov": "PAPUA",
+    "kabkot": "KAB. MAPPI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4.4876026204495",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "108912",
+    "prov": "PAPUA",
+    "kabkot": "KAB. ASMAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3.4052356060229",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "25015",
+    "prov": "PAPUA",
+    "kabkot": "KAB. SUPIORI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "36.877874749381",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "38735",
+    "prov": "PAPUA",
+    "kabkot": "KAB. MAMBERAMO RAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1.6265703532095",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "48735",
+    "prov": "PAPUA",
+    "kabkot": "KAB. MAMBERAMO TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "38.223529411765",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "104066",
+    "prov": "PAPUA",
+    "kabkot": "KAB. YALIMO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "83.053471667997",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "202327",
+    "prov": "PAPUA",
+    "kabkot": "KAB. LANNY JAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "90.003113879004",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "110676",
+    "prov": "PAPUA",
+    "kabkot": "KAB. NDUGA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "51.049815498155",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "176561",
+    "prov": "PAPUA",
+    "kabkot": "KAB. PUNCAK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "21.919428926133",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "115380",
+    "prov": "PAPUA",
+    "kabkot": "KAB. DOGIYAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "27.228961155425",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "136365",
+    "prov": "PAPUA",
+    "kabkot": "KAB. INTAN JAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "34.769073079689",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "91460",
+    "prov": "PAPUA",
+    "kabkot": "KAB. DEIYAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "170.19296972404",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "124195",
+    "prov": "PAPUA BARAT",
+    "kabkot": "KAB. SORONG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "18.977786538676",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "201730",
+    "prov": "PAPUA BARAT",
+    "kabkot": "KAB. MANOKWARI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2763.018",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "90286",
+    "prov": "PAPUA BARAT",
+    "kabkot": "KAB. FAK FAK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "9736.545",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "51961",
+    "prov": "PAPUA BARAT",
+    "kabkot": "KAB. SORONG SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "7.879672020272",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "66793",
+    "prov": "PAPUA BARAT",
+    "kabkot": "KAB. RAJA AMPAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "8.3133360881406",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "81553",
+    "prov": "PAPUA BARAT",
+    "kabkot": "KAB. TELUK BINTUNI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "19943.285",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "45324",
+    "prov": "PAPUA BARAT",
+    "kabkot": "KAB. TELUK WONDAMA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4847.34",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "65530",
+    "prov": "PAPUA BARAT",
+    "kabkot": "KAB. KAIMANA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "17849.216",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "32617",
+    "prov": "PAPUA BARAT",
+    "kabkot": "KAB. TAMBRAUW",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2.8290823805336",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "44686",
+    "prov": "PAPUA BARAT",
+    "kabkot": "KAB. MAYBRAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "8.1817166481437",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "37674",
+    "prov": "PAPUA BARAT",
+    "kabkot": "KAB. MANOKWARI SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1837.095",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "40117",
+    "prov": "PAPUA BARAT",
+    "kabkot": "KAB. PEGUNUNGAN ARFAK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3298.811",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "282802",
+    "prov": "PAPUA BARAT",
+    "kabkot": "KOTA SORONG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "430.6804337232",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "305890",
+    "prov": "ACEH",
+    "kabkot": "KAB. ACEH TAMIANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2187.657",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "235525",
+    "prov": "ACEH",
+    "kabkot": "KAB. ACEH SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4175.375",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "624582",
+    "prov": "ACEH",
+    "kabkot": "KAB. ACEH UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2705.255",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "366982",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. TAPANULI TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2307.677",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "322122",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. DAIRI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2083.604",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "271150",
+    "prov": "SUMATERA UTARA",
+    "kabkot": "KAB. PADANG LAWAS UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3945.557",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "405712",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "KAB. SOLOK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3590.404",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "234509",
+    "prov": "SUMATERA BARAT",
+    "kabkot": "KAB. DHARMASRAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2920.925",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "350975",
+    "prov": "RIAU",
+    "kabkot": "KAB. KUANTAN SINGINGI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5457.862",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "328451",
+    "prov": "JAMBI",
+    "kabkot": "KAB. TANJUNG JABUNG BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5546.063",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "438237",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "KAB. LAHAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4333.065",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "206101",
+    "prov": "SUMATERA SELATAN",
+    "kabkot": "KAB. PENUKAL ABAB LEMATANG ILIR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1842.563",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "301865",
+    "prov": "BENGKULU",
+    "kabkot": "KAB. BENGKULU UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4481.992",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "112982",
+    "prov": "BENGKULU",
+    "kabkot": "KAB. LEBONG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1666.621",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "431025",
+    "prov": "LAMPUNG",
+    "kabkot": "KAB. TULANG BAWANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3116.062",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "171247",
+    "prov": "LAMPUNG",
+    "kabkot": "KAB. PESISIR BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2939.598",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "227948",
+    "prov": "BANGKA BELITUNG",
+    "kabkot": "KOTA PANGKAL PINANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2549.7539149888",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "1109489",
+    "prov": "DKI JAKARTA",
+    "kabkot": "KOTA ADM. JAKARTA PUSAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "47.565",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1947448",
+    "prov": "JAWA BARAT",
+    "kabkot": "KAB. TASIKMALAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2705.855",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1029561",
+    "prov": "JAWA BARAT",
+    "kabkot": "KAB. PURWAKARTA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "993.092",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1324756",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. MAGELANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1129.983",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "655765",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. REMBANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1037.538",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1008691",
+    "prov": "JAWA TENGAH",
+    "kabkot": "KAB. PEKALONGAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "892.914",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "755350",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. TRENGGALEK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1249.232",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1769234",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. BANYUWANGI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3592.898",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1172181",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. PROBOLINGGO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1724.51",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1139617",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. NGANJUK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1289.067",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1042870",
+    "prov": "JAWA TIMUR",
+    "kabkot": "KAB. BANGKALAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1301.03",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "256631",
+    "prov": "BALI",
+    "kabkot": "KAB. BANGLI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "526.764",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "1404343",
+    "prov": "NUSA TENGGARA BARAT",
+    "kabkot": "KAB. LOMBOK TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1606.47",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "387217",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB. KUPANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5136.51",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "278817",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB. ENDE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2085.244",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "333730",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB. MANGGARAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1343.834",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "150223",
+    "prov": "NUSA TENGGARA TIMUR",
+    "kabkot": "KAB. ROTE NDAO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1286.453",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "643405",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "KAB. SAMBAS",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5937.995",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "211122",
+    "prov": "KALIMANTAN BARAT",
+    "kabkot": "KAB. MELAWI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "10122.513",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "135024",
+    "prov": "KALIMANTAN TENGAH",
+    "kabkot": "KAB. BARITO SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "6267.084",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "343741",
+    "prov": "KALIMANTAN SELATAN",
+    "kabkot": "KAB. TANAH BUMBU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4884.833",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "427492",
+    "prov": "KALIMANTAN TIMUR",
+    "kabkot": "KAB. KUTAI TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "31580.182",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "213750",
+    "prov": "KALIMANTAN UTARA",
+    "kabkot": "KAB. NUNUKAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "13564.25",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "241306",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "KAB. MINAHASA SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1456.69",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "224816",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "KAB. MINAHASA UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "995.549",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "119637",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "KAB. MINAHASA TENGGARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "753.136",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "86486",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "KAB. BOLAANG MONGONDOW UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1644.377",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "70938",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "KAB. KEP. SIAU TAGULANDANG BIARO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "217.287",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "90109",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "KAB. BOLAANG MONGONDOW TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "859.973",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "73046",
+    "prov": "SULAWESI UTARA",
+    "kabkot": "KAB. BOLAANG MONGONDOW SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1796.071",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "372002",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "KAB. BANGGAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "8252.882",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "311333",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "KAB. DONGGALA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5126.586",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "236111",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "KAB. TOLI TOLI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3700.369",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "156594",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "KAB. BUOL",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3723.578",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "126040",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "KAB. BANGGAI KEPULAUAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2385.073",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "454509",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "KAB. PARIGI MOUTONG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5805.61",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "169399",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "KAB. TOJO UNA UNA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5572.856",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "264667",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "KAB. SIGI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5225.435",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "75495",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "KAB. BANGGAI LAUT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "688.151",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "145686",
+    "prov": "SULAWESI TENGAH",
+    "kabkot": "KAB. MOROWALI UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "8736.006",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "141347",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. KEPULAUAN SELAYAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1160.359",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "468337",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. BULUKUMBA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1175.528",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "208067",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. BANTAENG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "390.969",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "418182",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. JENEPONTO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "796.001",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "322278",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. TAKALAR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "555.431",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "794431",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. GOWA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1812.997",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "405137",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. WAJO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2608.708",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "311062",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. LUWU TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "6745.921",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "120513",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KAB. BUTON",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1669.329",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "138527",
+    "prov": "SULAWESI TENGGARA",
+    "kabkot": "KAB. KOLAKA UTARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2932.252",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "193469",
+    "prov": "SULAWESI BARAT",
+    "kabkot": "KAB. PASANGKAYU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2903.183",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "129034",
+    "prov": "MALUKU",
+    "kabkot": "KAB. MALUKU TENGGARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "1016.924",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "104909",
+    "prov": "MALUKU UTARA",
+    "kabkot": "KAB. KEPULAUAN SULA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3304.32",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "200224",
+    "prov": "PAPUA",
+    "kabkot": "KAB. JAYAPURA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "17.94580157119",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "41821",
+    "prov": "PAPUA",
+    "kabkot": "KAB. SARMI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2.3571750648179",
+    "tahun": "2022"
+  },
+  {
+    "jumlah_penduduk": "435678",
+    "prov": "JAMBI",
+    "kabkot": "KAB.  MUARO JAMBI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5225.796",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "264139",
+    "prov": "JAMBI",
+    "kabkot": "KAB.  KERINCI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3445.196",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "656905",
+    "prov": "RIAU",
+    "kabkot": "KAB.  ROKAN HILIR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "9068.458",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "415469",
+    "prov": "RIAU",
+    "kabkot": "KAB.  PELALAWAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "13262.113",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "232915",
+    "prov": "KEPULAUAN BANGKA BELITUNG",
+    "kabkot": "KOTA PANGKAL PINANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "104.542",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "211566",
+    "prov": "KEPULAUAN BANGKA BELITUNG",
+    "kabkot": "KAB. BANGKA BARAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2851.408",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "203733",
+    "prov": "KEPULAUAN BANGKA BELITUNG",
+    "kabkot": "KAB. BANGKA TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2259.982",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "187038",
+    "prov": "KEPULAUAN BANGKA BELITUNG",
+    "kabkot": "KAB. BELITUNG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2270.708",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "329984",
+    "prov": "KEPULAUAN BANGKA BELITUNG",
+    "kabkot": "KAB. BANGKA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3016.847",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "107995",
+    "prov": "P A P U A",
+    "kabkot": "KAB. MAPPI",
+    "semester": "2",
+    "jumlah_penduduk_km2": "4",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "37285",
+    "prov": "P A P U A",
+    "kabkot": "KAB. WAROPEN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "10778.767",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "250994",
+    "prov": "P A P U A",
+    "kabkot": "KAB. TOLIKARA",
+    "semester": "2",
+    "jumlah_penduduk_km2": "69",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "112027",
+    "prov": "P A P U A",
+    "kabkot": "KAB PEGUNUNGAN BINTANG",
+    "semester": "2",
+    "jumlah_penduduk_km2": "8",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "66401",
+    "prov": "P A P U A",
+    "kabkot": "KAB. KEEROM",
+    "semester": "1",
+    "jumlah_penduduk_km2": "9526.315",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "311925",
+    "prov": "P A P U A",
+    "kabkot": "KAB. MIMIKA",
+    "semester": "2",
+    "jumlah_penduduk_km2": "17",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "121955",
+    "prov": "P A P U A",
+    "kabkot": "KAB. PANIAI",
+    "semester": "2",
+    "jumlah_penduduk_km2": "25",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "147403",
+    "prov": "P A P U A",
+    "kabkot": "KAB. BIAK NUMFOR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2257.779",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "173112",
+    "prov": "P A P U A",
+    "kabkot": "KAB. NABIRE",
+    "semester": "2",
+    "jumlah_penduduk_km2": "15",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "201004",
+    "prov": "P A P U A",
+    "kabkot": "KAB. JAYAPURA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "14082.212",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "273265",
+    "prov": "P A P U A",
+    "kabkot": "KAB. JAYAWIJAYA",
+    "semester": "2",
+    "jumlah_penduduk_km2": "100",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "403859",
+    "prov": "P A P U A",
+    "kabkot": "KOTA JAYAPURA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "835.479",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "91256",
+    "prov": "P A P U A",
+    "kabkot": "KAB. DEIYAI",
+    "semester": "2",
+    "jumlah_penduduk_km2": "30",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "136185",
+    "prov": "P A P U A",
+    "kabkot": "KAB. INTAN JAYA",
+    "semester": "2",
+    "jumlah_penduduk_km2": "24",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "115117",
+    "prov": "P A P U A",
+    "kabkot": "KAB. DOGIYAI",
+    "semester": "2",
+    "jumlah_penduduk_km2": "27",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "176316",
+    "prov": "P A P U A",
+    "kabkot": "KAB. PUNCAK",
+    "semester": "2",
+    "jumlah_penduduk_km2": "23",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "110468",
+    "prov": "P A P U A",
+    "kabkot": "KAB. NDUGA",
+    "semester": "2",
+    "jumlah_penduduk_km2": "21",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "202080",
+    "prov": "P A P U A",
+    "kabkot": "KAB. LANNY JAYA",
+    "semester": "2",
+    "jumlah_penduduk_km2": "71",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "103860",
+    "prov": "P A P U A",
+    "kabkot": "KAB. YALIMO",
+    "semester": "2",
+    "jumlah_penduduk_km2": "29",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "48556",
+    "prov": "P A P U A",
+    "kabkot": "KAB. MAMBERAMO TENGAH",
+    "semester": "2",
+    "jumlah_penduduk_km2": "12",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "39083",
+    "prov": "P A P U A",
+    "kabkot": "KAB. MAMBERAMO RAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "28042.391",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "25377",
+    "prov": "P A P U A",
+    "kabkot": "KAB. SUPIORI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "660.611",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "108176",
+    "prov": "P A P U A",
+    "kabkot": "KAB. ASMAT",
+    "semester": "2",
+    "jumlah_penduduk_km2": "4",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "64643",
+    "prov": "P A P U A",
+    "kabkot": "KAB. BOVEN DIGOEL",
+    "semester": "2",
+    "jumlah_penduduk_km2": "3",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "354846",
+    "prov": "P A P U A",
+    "kabkot": "KAB. YAHUKIMO",
+    "semester": "2",
+    "jumlah_penduduk_km2": "22",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "42321",
+    "prov": "P A P U A",
+    "kabkot": "KAB. SARMI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "14068.374",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "219128",
+    "prov": "P A P U A",
+    "kabkot": "KAB. PUNCAK JAYA",
+    "semester": "2",
+    "jumlah_penduduk_km2": "44",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "114408",
+    "prov": "P A P U A",
+    "kabkot": "KAB. KEPULAUAN YAPEN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2429.03",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "230386",
+    "prov": "P A P U A",
+    "kabkot": "KAB. MERAUKE",
+    "semester": "2",
+    "jumlah_penduduk_km2": "5",
+    "tahun": "2021"
+  },
+  {
+    "jumlah_penduduk": "130159",
+    "prov": "KEPULAUAN BANGKA BELITUNG",
+    "kabkot": "KAB. BELITUNG TIMUR",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2588.403",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "206972",
+    "prov": "KEPULAUAN BANGKA BELITUNG",
+    "kabkot": "KAB. BANGKA SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3598.239",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "383676",
+    "prov": "JAMBI",
+    "kabkot": "KAB.  MERANGIN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "7540.118",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "568004",
+    "prov": "RIAU",
+    "kabkot": "KAB.  ROKAN HULU",
+    "semester": "1",
+    "jumlah_penduduk_km2": "7658.149",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "128709",
+    "prov": "MALUKU",
+    "kabkot": "-",
+    "semester": "2",
+    "jumlah_penduduk_km2": "124.74179354726",
+    "tahun": "2019"
+  },
+  {
+    "jumlah_penduduk": "355003",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KAB. PANGKAJENE DAN KEPULAUAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "888.913",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "158600",
+    "prov": "SULAWESI SELATAN",
+    "kabkot": "KOTA PAREPARE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "89.67",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "240609",
+    "prov": "PAPUA SELATAN",
+    "kabkot": "KAB. MERAUKE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "45013.354",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "109139",
+    "prov": "PAPUA SELATAN",
+    "kabkot": "KAB. MAPPI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "24262.227",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "109862",
+    "prov": "PAPUA SELATAN",
+    "kabkot": "KAB. ASMAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "25015.306",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "174427",
+    "prov": "PAPUA TENGAH",
+    "kabkot": "KAB. NABIRE",
+    "semester": "1",
+    "jumlah_penduduk_km2": "11806.088",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "123360",
+    "prov": "PAPUA TENGAH",
+    "kabkot": "KAB. PANIAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5306.871",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "313016",
+    "prov": "PAPUA TENGAH",
+    "kabkot": "KAB. MIMIKA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "18298.948",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "176959",
+    "prov": "PAPUA TENGAH",
+    "kabkot": "KAB. PUNCAK",
+    "semester": "1",
+    "jumlah_penduduk_km2": "7701.031",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "115789",
+    "prov": "PAPUA TENGAH",
+    "kabkot": "KAB. DOGIYAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3792.928",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "91855",
+    "prov": "PAPUA TENGAH",
+    "kabkot": "KAB. DEIYAI",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2846.412",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "273819",
+    "prov": "PAPUA PEGUNUNGAN",
+    "kabkot": "KAB. JAYAWIJAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2629.01",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "113347",
+    "prov": "PAPUA PEGUNUNGAN",
+    "kabkot": "KAB PEGUNUNGAN BINTANG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "13751.915",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "251413",
+    "prov": "PAPUA PEGUNUNGAN",
+    "kabkot": "KAB. TOLIKARA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2990.008",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "49131",
+    "prov": "PAPUA PEGUNUNGAN",
+    "kabkot": "KAB. MAMBERAMO TENGAH",
+    "semester": "1",
+    "jumlah_penduduk_km2": "4101.5",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "104416",
+    "prov": "PAPUA PEGUNUNGAN",
+    "kabkot": "KAB. YALIMO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "3148.293",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "111063",
+    "prov": "PAPUA PEGUNUNGAN",
+    "kabkot": "KAB. NDUGA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5886.891",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "125217",
+    "prov": "PAPUA BARAT DAYA",
+    "kabkot": "KAB. SORONG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "7564.653",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "52854",
+    "prov": "PAPUA BARAT DAYA",
+    "kabkot": "KAB. SORONG SELATAN",
+    "semester": "1",
+    "jumlah_penduduk_km2": "6570.231",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "67704",
+    "prov": "PAPUA BARAT DAYA",
+    "kabkot": "KAB. RAJA AMPAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "7442.306",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "67167",
+    "prov": "PAPUA SELATAN",
+    "kabkot": "KAB. BOVEN DIGOEL",
+    "semester": "1",
+    "jumlah_penduduk_km2": "23558.272",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "219497",
+    "prov": "PAPUA TENGAH",
+    "kabkot": "KAB. PUNCAK JAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5986.19",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "136756",
+    "prov": "PAPUA TENGAH",
+    "kabkot": "KAB. INTAN JAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5334.445",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "355315",
+    "prov": "PAPUA PEGUNUNGAN",
+    "kabkot": "KAB. YAHUKIMO",
+    "semester": "1",
+    "jumlah_penduduk_km2": "16365.938",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "202988",
+    "prov": "PAPUA PEGUNUNGAN",
+    "kabkot": "KAB. LANNY JAYA",
+    "semester": "1",
+    "jumlah_penduduk_km2": "2339.775",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "32892",
+    "prov": "PAPUA BARAT DAYA",
+    "kabkot": "KAB. TAMBRAUW",
+    "semester": "1",
+    "jumlah_penduduk_km2": "11954.818",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "45064",
+    "prov": "PAPUA BARAT DAYA",
+    "kabkot": "KAB. MAYBRAT",
+    "semester": "1",
+    "jumlah_penduduk_km2": "5385.679",
+    "tahun": "2023"
+  },
+  {
+    "jumlah_penduduk": "283366",
+    "prov": "PAPUA BARAT DAYA",
+    "kabkot": "KOTA SORONG",
+    "semester": "1",
+    "jumlah_penduduk_km2": "205.261",
+    "tahun": "2023"
+  }
+]

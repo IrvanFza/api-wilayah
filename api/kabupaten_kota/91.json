@@ -7,25 +7,41 @@
       "kode_wilayah": "91.03",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "91",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "18516",
-        "usia_20_24": "17580",
-        "usia_5_9": "18935",
-        "usia_10_14": "19654",
-        "usia_0_4_thn": "11741",
-        "usia_25_29": "16316",
-        "usia_30_34": "14336",
-        "usia_35_39": "13571",
-        "usia_40_44": "11094",
-        "usia_45_49": "8958",
-        "usia_50_54": "6886",
-        "usia_55_59": "5541",
-        "usia_60_64": "3830",
-        "usia_65_69": "2526",
-        "usia_70_74": "1276",
-        "usia_75_tahun_ke_atas": "1077",
-        "tahun": "2021"
+      "nama_provinsi": "P A P U A",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "103989",
+          "perempuan": "96363",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "201004",
+          "semester": "1",
+          "jumlah_penduduk_km2": "14082.212",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "21155",
+          "usia_20_24": "19862",
+          "usia_5_9": "20178",
+          "usia_10_14": "22410",
+          "usia_0_4_thn": "11342",
+          "usia_25_29": "18858",
+          "usia_30_34": "17514",
+          "usia_35_39": "16223",
+          "usia_40_44": "14245",
+          "usia_45_49": "11252",
+          "usia_50_54": "8946",
+          "usia_55_59": "6847",
+          "usia_60_64": "5038",
+          "usia_65_69": "3366",
+          "usia_70_74": "1955",
+          "usia_75_tahun_ke_atas": "1813",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -33,25 +49,41 @@
       "kode_wilayah": "91.05",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "91",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "13391",
-        "usia_20_24": "11720",
-        "usia_5_9": "10964",
-        "usia_10_14": "12961",
-        "usia_0_4_thn": "6033",
-        "usia_25_29": "9986",
-        "usia_30_34": "9228",
-        "usia_35_39": "8822",
-        "usia_40_44": "7059",
-        "usia_45_49": "6385",
-        "usia_50_54": "5023",
-        "usia_55_59": "4420",
-        "usia_60_64": "3313",
-        "usia_65_69": "2027",
-        "usia_70_74": "1036",
-        "usia_75_tahun_ke_atas": "983",
-        "tahun": "2021"
+      "nama_provinsi": "P A P U A",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "58349",
+          "perempuan": "55565",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "114408",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2429.03",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "13961",
+          "usia_20_24": "12185",
+          "usia_5_9": "11857",
+          "usia_10_14": "13132",
+          "usia_0_4_thn": "6445",
+          "usia_25_29": "9843",
+          "usia_30_34": "8732",
+          "usia_35_39": "8318",
+          "usia_40_44": "7439",
+          "usia_45_49": "6348",
+          "usia_50_54": "5009",
+          "usia_55_59": "3970",
+          "usia_60_64": "3241",
+          "usia_65_69": "2090",
+          "usia_70_74": "998",
+          "usia_75_tahun_ke_atas": "840",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -59,25 +91,41 @@
       "kode_wilayah": "91.06",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "91",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "17238",
-        "usia_20_24": "14432",
-        "usia_5_9": "13902",
-        "usia_10_14": "16142",
-        "usia_0_4_thn": "7477",
-        "usia_25_29": "12467",
-        "usia_30_34": "11115",
-        "usia_35_39": "11036",
-        "usia_40_44": "8914",
-        "usia_45_49": "7946",
-        "usia_50_54": "7139",
-        "usia_55_59": "6511",
-        "usia_60_64": "4959",
-        "usia_65_69": "3419",
-        "usia_70_74": "1943",
-        "usia_75_tahun_ke_atas": "1556",
-        "tahun": "2021"
+      "nama_provinsi": "P A P U A",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "74758",
+          "perempuan": "72054",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "147403",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2257.779",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "17081",
+          "usia_20_24": "15296",
+          "usia_5_9": "14172",
+          "usia_10_14": "16092",
+          "usia_0_4_thn": "7334",
+          "usia_25_29": "12197",
+          "usia_30_34": "11349",
+          "usia_35_39": "10576",
+          "usia_40_44": "9526",
+          "usia_45_49": "7722",
+          "usia_50_54": "7081",
+          "usia_55_59": "6134",
+          "usia_60_64": "5124",
+          "usia_65_69": "3809",
+          "usia_70_74": "2047",
+          "usia_75_tahun_ke_atas": "1863",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -85,25 +133,41 @@
       "kode_wilayah": "91.10",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "91",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "4542",
-        "usia_20_24": "3603",
-        "usia_5_9": "4860",
-        "usia_10_14": "5311",
-        "usia_0_4_thn": "2731",
-        "usia_25_29": "3274",
-        "usia_30_34": "3296",
-        "usia_35_39": "3494",
-        "usia_40_44": "2595",
-        "usia_45_49": "2330",
-        "usia_50_54": "1870",
-        "usia_55_59": "1547",
-        "usia_60_64": "1018",
-        "usia_65_69": "620",
-        "usia_70_74": "333",
-        "usia_75_tahun_ke_atas": "222",
-        "tahun": "2021"
+      "nama_provinsi": "P A P U A",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "22337",
+          "perempuan": "19725",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "42321",
+          "semester": "1",
+          "jumlah_penduduk_km2": "14068.374",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "4518",
+          "usia_20_24": "3377",
+          "usia_5_9": "4787",
+          "usia_10_14": "5413",
+          "usia_0_4_thn": "2377",
+          "usia_25_29": "3250",
+          "usia_30_34": "3428",
+          "usia_35_39": "3556",
+          "usia_40_44": "2961",
+          "usia_45_49": "2400",
+          "usia_50_54": "1990",
+          "usia_55_59": "1607",
+          "usia_60_64": "1194",
+          "usia_65_69": "742",
+          "usia_70_74": "427",
+          "usia_75_tahun_ke_atas": "294",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -111,25 +175,41 @@
       "kode_wilayah": "91.11",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "91",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "5907",
-        "usia_20_24": "5707",
-        "usia_5_9": "7387",
-        "usia_10_14": "7451",
-        "usia_0_4_thn": "4699",
-        "usia_25_29": "5434",
-        "usia_30_34": "5300",
-        "usia_35_39": "5457",
-        "usia_40_44": "4269",
-        "usia_45_49": "3650",
-        "usia_50_54": "2981",
-        "usia_55_59": "2550",
-        "usia_60_64": "1628",
-        "usia_65_69": "992",
-        "usia_70_74": "531",
-        "usia_75_tahun_ke_atas": "481",
-        "tahun": "2021"
+      "nama_provinsi": "P A P U A",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "34672",
+          "perempuan": "31215",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "66401",
+          "semester": "1",
+          "jumlah_penduduk_km2": "9526.315",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "4747",
+          "usia_20_24": "5479",
+          "usia_5_9": "7462",
+          "usia_10_14": "7899",
+          "usia_0_4_thn": "4633",
+          "usia_25_29": "5612",
+          "usia_30_34": "5647",
+          "usia_35_39": "5620",
+          "usia_40_44": "4805",
+          "usia_45_49": "3833",
+          "usia_50_54": "3375",
+          "usia_55_59": "2719",
+          "usia_60_64": "2114",
+          "usia_65_69": "1121",
+          "usia_70_74": "721",
+          "usia_75_tahun_ke_atas": "614",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -137,25 +217,41 @@
       "kode_wilayah": "91.15",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "91",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "4203",
-        "usia_20_24": "3249",
-        "usia_5_9": "4245",
-        "usia_10_14": "4558",
-        "usia_0_4_thn": "2849",
-        "usia_25_29": "3122",
-        "usia_30_34": "2945",
-        "usia_35_39": "2913",
-        "usia_40_44": "2296",
-        "usia_45_49": "1842",
-        "usia_50_54": "1508",
-        "usia_55_59": "1162",
-        "usia_60_64": "834",
-        "usia_65_69": "477",
-        "usia_70_74": "267",
-        "usia_75_tahun_ke_atas": "323",
-        "tahun": "2021"
+      "nama_provinsi": "P A P U A",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "19430",
+          "perempuan": "17672",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "37285",
+          "semester": "1",
+          "jumlah_penduduk_km2": "10778.767",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "4609",
+          "usia_20_24": "3591",
+          "usia_5_9": "4325",
+          "usia_10_14": "4346",
+          "usia_0_4_thn": "2318",
+          "usia_25_29": "2871",
+          "usia_30_34": "2854",
+          "usia_35_39": "2878",
+          "usia_40_44": "2537",
+          "usia_45_49": "2022",
+          "usia_50_54": "1575",
+          "usia_55_59": "1212",
+          "usia_60_64": "903",
+          "usia_65_69": "573",
+          "usia_70_74": "329",
+          "usia_75_tahun_ke_atas": "342",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -163,25 +259,41 @@
       "kode_wilayah": "91.19",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "91",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "2615",
-        "usia_20_24": "2336",
-        "usia_5_9": "3017",
-        "usia_10_14": "3477",
-        "usia_0_4_thn": "1804",
-        "usia_25_29": "2142",
-        "usia_30_34": "2072",
-        "usia_35_39": "1925",
-        "usia_40_44": "1327",
-        "usia_45_49": "1075",
-        "usia_50_54": "828",
-        "usia_55_59": "798",
-        "usia_60_64": "591",
-        "usia_65_69": "440",
-        "usia_70_74": "219",
-        "usia_75_tahun_ke_atas": "189",
-        "tahun": "2021"
+      "nama_provinsi": "P A P U A",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "13006",
+          "perempuan": "12142",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "25377",
+          "semester": "1",
+          "jumlah_penduduk_km2": "660.611",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "1943",
+          "usia_20_24": "2146",
+          "usia_5_9": "3263",
+          "usia_10_14": "3635",
+          "usia_0_4_thn": "1766",
+          "usia_25_29": "2226",
+          "usia_30_34": "2107",
+          "usia_35_39": "2136",
+          "usia_40_44": "1593",
+          "usia_45_49": "1197",
+          "usia_50_54": "911",
+          "usia_55_59": "798",
+          "usia_60_64": "659",
+          "usia_65_69": "498",
+          "usia_70_74": "277",
+          "usia_75_tahun_ke_atas": "222",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -189,25 +301,41 @@
       "kode_wilayah": "91.20",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "91",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "4258",
-        "usia_20_24": "4177",
-        "usia_5_9": "3858",
-        "usia_10_14": "4312",
-        "usia_0_4_thn": "2010",
-        "usia_25_29": "3708",
-        "usia_30_34": "3718",
-        "usia_35_39": "3082",
-        "usia_40_44": "2762",
-        "usia_45_49": "2097",
-        "usia_50_54": "1593",
-        "usia_55_59": "1247",
-        "usia_60_64": "799",
-        "usia_65_69": "478",
-        "usia_70_74": "242",
-        "usia_75_tahun_ke_atas": "210",
-        "tahun": "2021"
+      "nama_provinsi": "P A P U A",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "20265",
+          "perempuan": "18694",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "39083",
+          "semester": "1",
+          "jumlah_penduduk_km2": "28042.391",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "4592",
+          "usia_20_24": "4357",
+          "usia_5_9": "4368",
+          "usia_10_14": "4722",
+          "usia_0_4_thn": "1989",
+          "usia_25_29": "3545",
+          "usia_30_34": "3459",
+          "usia_35_39": "2923",
+          "usia_40_44": "2639",
+          "usia_45_49": "2229",
+          "usia_50_54": "1526",
+          "usia_55_59": "1331",
+          "usia_60_64": "862",
+          "usia_65_69": "310",
+          "usia_70_74": "139",
+          "usia_75_tahun_ke_atas": "92",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -215,25 +343,41 @@
       "kode_wilayah": "91.71",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "91",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "35922",
-        "usia_20_24": "38378",
-        "usia_5_9": "32461",
-        "usia_10_14": "35129",
-        "usia_0_4_thn": "21490",
-        "usia_25_29": "46780",
-        "usia_30_34": "48999",
-        "usia_35_39": "41263",
-        "usia_40_44": "32789",
-        "usia_45_49": "25337",
-        "usia_50_54": "20816",
-        "usia_55_59": "14800",
-        "usia_60_64": "10074",
-        "usia_65_69": "6177",
-        "usia_70_74": "3995",
-        "usia_75_tahun_ke_atas": "3620",
-        "tahun": "2020"
+      "nama_provinsi": "P A P U A",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "213712",
+          "perempuan": "189406",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "403859",
+          "semester": "1",
+          "jumlah_penduduk_km2": "835.479",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "34578",
+          "usia_20_24": "38502",
+          "usia_5_9": "30744",
+          "usia_10_14": "34682",
+          "usia_0_4_thn": "19386",
+          "usia_25_29": "40432",
+          "usia_30_34": "42839",
+          "usia_35_39": "40176",
+          "usia_40_44": "33763",
+          "usia_45_49": "25949",
+          "usia_50_54": "20660",
+          "usia_55_59": "16191",
+          "usia_60_64": "10925",
+          "usia_65_69": "6805",
+          "usia_70_74": "3978",
+          "usia_75_tahun_ke_atas": "4249",
+          "tahun": "2023"
+        }
       }
     }
   ]

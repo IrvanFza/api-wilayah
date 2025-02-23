@@ -7,25 +7,41 @@
       "kode_wilayah": "35.01",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "38657",
-        "usia_20_24": "42816",
-        "usia_5_9": "34525",
-        "usia_10_14": "39808",
-        "usia_0_4_thn": "30698",
-        "usia_25_29": "42091",
-        "usia_30_34": "40547",
-        "usia_35_39": "44814",
-        "usia_40_44": "38965",
-        "usia_45_49": "42299",
-        "usia_50_54": "45505",
-        "usia_55_59": "42151",
-        "usia_60_64": "36763",
-        "usia_65_69": "27437",
-        "usia_70_74": "20056",
-        "usia_75_tahun_ke_atas": "30866",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "300492",
+          "perempuan": "298690",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "599575",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1433.593",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "37834",
+          "usia_20_24": "41838",
+          "usia_5_9": "33454",
+          "usia_10_14": "39417",
+          "usia_0_4_thn": "27505",
+          "usia_25_29": "41919",
+          "usia_30_34": "40580",
+          "usia_35_39": "42190",
+          "usia_40_44": "42522",
+          "usia_45_49": "37920",
+          "usia_50_54": "46814",
+          "usia_55_59": "42477",
+          "usia_60_64": "39388",
+          "usia_65_69": "30325",
+          "usia_70_74": "22213",
+          "usia_75_tahun_ke_atas": "33179",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -33,25 +49,41 @@
       "kode_wilayah": "35.02",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "62204",
-        "usia_20_24": "65788",
-        "usia_5_9": "59629",
-        "usia_10_14": "63875",
-        "usia_0_4_thn": "50192",
-        "usia_25_29": "64978",
-        "usia_30_34": "64581",
-        "usia_35_39": "77616",
-        "usia_40_44": "71107",
-        "usia_45_49": "73471",
-        "usia_50_54": "72325",
-        "usia_55_59": "65461",
-        "usia_60_64": "56999",
-        "usia_65_69": "41205",
-        "usia_70_74": "33578",
-        "usia_75_tahun_ke_atas": "46447",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "482557",
+          "perempuan": "487936",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "973269",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1418.618",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "61674",
+          "usia_20_24": "65177",
+          "usia_5_9": "56908",
+          "usia_10_14": "64412",
+          "usia_0_4_thn": "45365",
+          "usia_25_29": "64270",
+          "usia_30_34": "63768",
+          "usia_35_39": "70775",
+          "usia_40_44": "76530",
+          "usia_45_49": "69033",
+          "usia_50_54": "75773",
+          "usia_55_59": "65385",
+          "usia_60_64": "60543",
+          "usia_65_69": "46247",
+          "usia_70_74": "35195",
+          "usia_75_tahun_ke_atas": "52214",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -59,25 +91,41 @@
       "kode_wilayah": "35.03",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "49271",
-        "usia_20_24": "53217",
-        "usia_5_9": "48304",
-        "usia_10_14": "50134",
-        "usia_0_4_thn": "39490",
-        "usia_25_29": "53627",
-        "usia_30_34": "50325",
-        "usia_35_39": "58545",
-        "usia_40_44": "54905",
-        "usia_45_49": "54993",
-        "usia_50_54": "56119",
-        "usia_55_59": "51435",
-        "usia_60_64": "42378",
-        "usia_65_69": "30438",
-        "usia_70_74": "23067",
-        "usia_75_tahun_ke_atas": "30947",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "377272",
+          "perempuan": "373807",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "755350",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1249.232",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "48362",
+          "usia_20_24": "53099",
+          "usia_5_9": "45395",
+          "usia_10_14": "51243",
+          "usia_0_4_thn": "35977",
+          "usia_25_29": "52694",
+          "usia_30_34": "52419",
+          "usia_35_39": "53653",
+          "usia_40_44": "59907",
+          "usia_45_49": "52183",
+          "usia_50_54": "58031",
+          "usia_55_59": "52460",
+          "usia_60_64": "45558",
+          "usia_65_69": "34577",
+          "usia_70_74": "24919",
+          "usia_75_tahun_ke_atas": "34873",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -85,25 +133,41 @@
       "kode_wilayah": "35.04",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "83808",
-        "usia_20_24": "82636",
-        "usia_5_9": "74002",
-        "usia_10_14": "82393",
-        "usia_0_4_thn": "59723",
-        "usia_25_29": "77406",
-        "usia_30_34": "71992",
-        "usia_35_39": "87849",
-        "usia_40_44": "89995",
-        "usia_45_49": "89160",
-        "usia_50_54": "84864",
-        "usia_55_59": "72367",
-        "usia_60_64": "57892",
-        "usia_65_69": "41780",
-        "usia_70_74": "30088",
-        "usia_75_tahun_ke_atas": "41062",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "565381",
+          "perempuan": "562706",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1132144",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1144.525",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "82158",
+          "usia_20_24": "85355",
+          "usia_5_9": "70890",
+          "usia_10_14": "81305",
+          "usia_0_4_thn": "53477",
+          "usia_25_29": "78557",
+          "usia_30_34": "71546",
+          "usia_35_39": "78518",
+          "usia_40_44": "92074",
+          "usia_45_49": "86347",
+          "usia_50_54": "89167",
+          "usia_55_59": "74716",
+          "usia_60_64": "62830",
+          "usia_65_69": "46050",
+          "usia_70_74": "33381",
+          "usia_75_tahun_ke_atas": "45773",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -111,25 +175,41 @@
       "kode_wilayah": "35.05",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "83869",
-        "usia_20_24": "90143",
-        "usia_5_9": "86582",
-        "usia_10_14": "91687",
-        "usia_0_4_thn": "62228",
-        "usia_25_29": "86989",
-        "usia_30_34": "81382",
-        "usia_35_39": "100109",
-        "usia_40_44": "92552",
-        "usia_45_49": "92894",
-        "usia_50_54": "91191",
-        "usia_55_59": "81599",
-        "usia_60_64": "64981",
-        "usia_65_69": "45419",
-        "usia_70_74": "35280",
-        "usia_75_tahun_ke_atas": "42369",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "622802",
+          "perempuan": "616763",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1244527",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1745.156",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "81314",
+          "usia_20_24": "91329",
+          "usia_5_9": "82905",
+          "usia_10_14": "94360",
+          "usia_0_4_thn": "55057",
+          "usia_25_29": "86970",
+          "usia_30_34": "82187",
+          "usia_35_39": "90698",
+          "usia_40_44": "99811",
+          "usia_45_49": "90132",
+          "usia_50_54": "95966",
+          "usia_55_59": "82902",
+          "usia_60_64": "71830",
+          "usia_65_69": "51499",
+          "usia_70_74": "38633",
+          "usia_75_tahun_ke_atas": "48934",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -137,25 +217,41 @@
       "kode_wilayah": "35.06",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "128270",
-        "usia_20_24": "128898",
-        "usia_5_9": "119997",
-        "usia_10_14": "131592",
-        "usia_0_4_thn": "97763",
-        "usia_25_29": "119513",
-        "usia_30_34": "109524",
-        "usia_35_39": "134147",
-        "usia_40_44": "129199",
-        "usia_45_49": "123837",
-        "usia_50_54": "118614",
-        "usia_55_59": "107439",
-        "usia_60_64": "81603",
-        "usia_65_69": "54630",
-        "usia_70_74": "37553",
-        "usia_75_tahun_ke_atas": "50579",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "845526",
+          "perempuan": "829292",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1679039",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1523.563",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "126444",
+          "usia_20_24": "129747",
+          "usia_5_9": "115899",
+          "usia_10_14": "132073",
+          "usia_0_4_thn": "87879",
+          "usia_25_29": "118310",
+          "usia_30_34": "109887",
+          "usia_35_39": "118631",
+          "usia_40_44": "135667",
+          "usia_45_49": "120132",
+          "usia_50_54": "124883",
+          "usia_55_59": "110081",
+          "usia_60_64": "88633",
+          "usia_65_69": "61641",
+          "usia_70_74": "41870",
+          "usia_75_tahun_ke_atas": "57262",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -163,25 +259,41 @@
       "kode_wilayah": "35.07",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "165000",
-        "usia_20_24": "201402",
-        "usia_5_9": "205880",
-        "usia_10_14": "210049",
-        "usia_0_4_thn": "145369",
-        "usia_25_29": "201294",
-        "usia_30_34": "189363",
-        "usia_35_39": "212320",
-        "usia_40_44": "211317",
-        "usia_45_49": "196704",
-        "usia_50_54": "187363",
-        "usia_55_59": "165562",
-        "usia_60_64": "132067",
-        "usia_65_69": "90782",
-        "usia_70_74": "56363",
-        "usia_75_tahun_ke_atas": "65115",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "1350391",
+          "perempuan": "1331139",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "2692260",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3473.439",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "157166",
+          "usia_20_24": "205632",
+          "usia_5_9": "202476",
+          "usia_10_14": "214481",
+          "usia_0_4_thn": "131311",
+          "usia_25_29": "202979",
+          "usia_30_34": "190186",
+          "usia_35_39": "200693",
+          "usia_40_44": "222785",
+          "usia_45_49": "196718",
+          "usia_50_54": "197022",
+          "usia_55_59": "173128",
+          "usia_60_64": "145507",
+          "usia_65_69": "105932",
+          "usia_70_74": "68010",
+          "usia_75_tahun_ke_atas": "78234",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -189,25 +301,41 @@
       "kode_wilayah": "35.08",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "80190",
-        "usia_20_24": "83913",
-        "usia_5_9": "80803",
-        "usia_10_14": "82297",
-        "usia_0_4_thn": "69190",
-        "usia_25_29": "80689",
-        "usia_30_34": "74846",
-        "usia_35_39": "82672",
-        "usia_40_44": "80955",
-        "usia_45_49": "81742",
-        "usia_50_54": "76397",
-        "usia_55_59": "68843",
-        "usia_60_64": "57602",
-        "usia_65_69": "39317",
-        "usia_70_74": "25986",
-        "usia_75_tahun_ke_atas": "27286",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "544410",
+          "perempuan": "553094",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1101906",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1797.098",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "75544",
+          "usia_20_24": "84602",
+          "usia_5_9": "79811",
+          "usia_10_14": "82875",
+          "usia_0_4_thn": "61934",
+          "usia_25_29": "80187",
+          "usia_30_34": "76391",
+          "usia_35_39": "76820",
+          "usia_40_44": "84097",
+          "usia_45_49": "79766",
+          "usia_50_54": "80209",
+          "usia_55_59": "70263",
+          "usia_60_64": "61955",
+          "usia_65_69": "44050",
+          "usia_70_74": "30588",
+          "usia_75_tahun_ke_atas": "32814",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -215,25 +343,41 @@
       "kode_wilayah": "35.09",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "197936",
-        "usia_20_24": "208292",
-        "usia_5_9": "187216",
-        "usia_10_14": "200145",
-        "usia_0_4_thn": "136036",
-        "usia_25_29": "194550",
-        "usia_30_34": "182119",
-        "usia_35_39": "199741",
-        "usia_40_44": "189507",
-        "usia_45_49": "192754",
-        "usia_50_54": "181942",
-        "usia_55_59": "155014",
-        "usia_60_64": "124901",
-        "usia_65_69": "92158",
-        "usia_70_74": "63921",
-        "usia_75_tahun_ke_atas": "76441",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "1291838",
+          "perempuan": "1293437",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "2590290",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3313.46",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "187596",
+          "usia_20_24": "203802",
+          "usia_5_9": "186222",
+          "usia_10_14": "199666",
+          "usia_0_4_thn": "126755",
+          "usia_25_29": "189531",
+          "usia_30_34": "186075",
+          "usia_35_39": "184539",
+          "usia_40_44": "195849",
+          "usia_45_49": "184050",
+          "usia_50_54": "188183",
+          "usia_55_59": "159481",
+          "usia_60_64": "136384",
+          "usia_65_69": "98584",
+          "usia_70_74": "74413",
+          "usia_75_tahun_ke_atas": "89160",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -241,25 +385,41 @@
       "kode_wilayah": "35.10",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "127247",
-        "usia_20_24": "133886",
-        "usia_5_9": "119068",
-        "usia_10_14": "129790",
-        "usia_0_4_thn": "102590",
-        "usia_25_29": "125803",
-        "usia_30_34": "117170",
-        "usia_35_39": "129389",
-        "usia_40_44": "133637",
-        "usia_45_49": "138338",
-        "usia_50_54": "128436",
-        "usia_55_59": "112344",
-        "usia_60_64": "86392",
-        "usia_65_69": "63159",
-        "usia_70_74": "45503",
-        "usia_75_tahun_ke_atas": "58026",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "879591",
+          "perempuan": "882590",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1769234",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3592.898",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "111356",
+          "usia_20_24": "137032",
+          "usia_5_9": "119858",
+          "usia_10_14": "131196",
+          "usia_0_4_thn": "93180",
+          "usia_25_29": "125586",
+          "usia_30_34": "120312",
+          "usia_35_39": "119969",
+          "usia_40_44": "136490",
+          "usia_45_49": "134363",
+          "usia_50_54": "136930",
+          "usia_55_59": "116885",
+          "usia_60_64": "95170",
+          "usia_65_69": "69975",
+          "usia_70_74": "50688",
+          "usia_75_tahun_ke_atas": "70244",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -267,25 +427,41 @@
       "kode_wilayah": "35.11",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "57992",
-        "usia_20_24": "61273",
-        "usia_5_9": "52679",
-        "usia_10_14": "55006",
-        "usia_0_4_thn": "47923",
-        "usia_25_29": "57299",
-        "usia_30_34": "52834",
-        "usia_35_39": "59527",
-        "usia_40_44": "58481",
-        "usia_45_49": "59290",
-        "usia_50_54": "58753",
-        "usia_55_59": "49596",
-        "usia_60_64": "43685",
-        "usia_65_69": "30952",
-        "usia_70_74": "24362",
-        "usia_75_tahun_ke_atas": "32450",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "393301",
+          "perempuan": "409563",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "805914",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1554.992",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "56116",
+          "usia_20_24": "63275",
+          "usia_5_9": "52767",
+          "usia_10_14": "54800",
+          "usia_0_4_thn": "44385",
+          "usia_25_29": "57519",
+          "usia_30_34": "53603",
+          "usia_35_39": "55862",
+          "usia_40_44": "60193",
+          "usia_45_49": "58415",
+          "usia_50_54": "59355",
+          "usia_55_59": "51444",
+          "usia_60_64": "45392",
+          "usia_65_69": "32986",
+          "usia_70_74": "24911",
+          "usia_75_tahun_ke_atas": "34891",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -293,25 +469,41 @@
       "kode_wilayah": "35.12",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "49348",
-        "usia_20_24": "51324",
-        "usia_5_9": "44542",
-        "usia_10_14": "47815",
-        "usia_0_4_thn": "36828",
-        "usia_25_29": "45647",
-        "usia_30_34": "44019",
-        "usia_35_39": "49124",
-        "usia_40_44": "50866",
-        "usia_45_49": "51201",
-        "usia_50_54": "49098",
-        "usia_55_59": "42450",
-        "usia_60_64": "36362",
-        "usia_65_69": "27058",
-        "usia_70_74": "18878",
-        "usia_75_tahun_ke_atas": "22059",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "329350",
+          "perempuan": "343752",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "678469",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1653.722",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "40662",
+          "usia_20_24": "48707",
+          "usia_5_9": "44228",
+          "usia_10_14": "46275",
+          "usia_0_4_thn": "34391",
+          "usia_25_29": "45886",
+          "usia_30_34": "44391",
+          "usia_35_39": "45525",
+          "usia_40_44": "52038",
+          "usia_45_49": "50887",
+          "usia_50_54": "50856",
+          "usia_55_59": "45388",
+          "usia_60_64": "40655",
+          "usia_65_69": "31478",
+          "usia_70_74": "24023",
+          "usia_75_tahun_ke_atas": "33079",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -319,25 +511,41 @@
       "kode_wilayah": "35.13",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "81253",
-        "usia_20_24": "91561",
-        "usia_5_9": "90206",
-        "usia_10_14": "89660",
-        "usia_0_4_thn": "77810",
-        "usia_25_29": "85884",
-        "usia_30_34": "79342",
-        "usia_35_39": "89075",
-        "usia_40_44": "86663",
-        "usia_45_49": "88713",
-        "usia_50_54": "80229",
-        "usia_55_59": "68792",
-        "usia_60_64": "53637",
-        "usia_65_69": "39360",
-        "usia_70_74": "25340",
-        "usia_75_tahun_ke_atas": "29883",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "575834",
+          "perempuan": "591675",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1172181",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1724.51",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "71569",
+          "usia_20_24": "92261",
+          "usia_5_9": "90034",
+          "usia_10_14": "90827",
+          "usia_0_4_thn": "70619",
+          "usia_25_29": "87541",
+          "usia_30_34": "80314",
+          "usia_35_39": "84801",
+          "usia_40_44": "87218",
+          "usia_45_49": "88379",
+          "usia_50_54": "84463",
+          "usia_55_59": "72055",
+          "usia_60_64": "60145",
+          "usia_65_69": "44156",
+          "usia_70_74": "30740",
+          "usia_75_tahun_ke_atas": "37059",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -345,25 +553,41 @@
       "kode_wilayah": "35.14",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "108642",
-        "usia_20_24": "129022",
-        "usia_5_9": "131445",
-        "usia_10_14": "128204",
-        "usia_0_4_thn": "110078",
-        "usia_25_29": "125360",
-        "usia_30_34": "117604",
-        "usia_35_39": "129017",
-        "usia_40_44": "125741",
-        "usia_45_49": "120030",
-        "usia_50_54": "110883",
-        "usia_55_59": "93225",
-        "usia_60_64": "72628",
-        "usia_65_69": "46444",
-        "usia_70_74": "27655",
-        "usia_75_tahun_ke_atas": "29059",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "806034",
+          "perempuan": "810156",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1622659",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1493.291",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "99064",
+          "usia_20_24": "127658",
+          "usia_5_9": "131270",
+          "usia_10_14": "131268",
+          "usia_0_4_thn": "98515",
+          "usia_25_29": "125458",
+          "usia_30_34": "118710",
+          "usia_35_39": "122070",
+          "usia_40_44": "130781",
+          "usia_45_49": "120446",
+          "usia_50_54": "116648",
+          "usia_55_59": "98420",
+          "usia_60_64": "80333",
+          "usia_65_69": "53366",
+          "usia_70_74": "33770",
+          "usia_75_tahun_ke_atas": "34882",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -371,25 +595,41 @@
       "kode_wilayah": "35.15",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "148101",
-        "usia_20_24": "155666",
-        "usia_5_9": "149040",
-        "usia_10_14": "159007",
-        "usia_0_4_thn": "116879",
-        "usia_25_29": "152988",
-        "usia_30_34": "137121",
-        "usia_35_39": "155860",
-        "usia_40_44": "156056",
-        "usia_45_49": "154797",
-        "usia_50_54": "147720",
-        "usia_55_59": "117195",
-        "usia_60_64": "86824",
-        "usia_65_69": "56333",
-        "usia_70_74": "27808",
-        "usia_75_tahun_ke_atas": "31170",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "989473",
+          "perempuan": "985563",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1982938",
+          "semester": "1",
+          "jumlah_penduduk_km2": "724.04",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "142642",
+          "usia_20_24": "162179",
+          "usia_5_9": "145513",
+          "usia_10_14": "157935",
+          "usia_0_4_thn": "104690",
+          "usia_25_29": "154100",
+          "usia_30_34": "144425",
+          "usia_35_39": "145041",
+          "usia_40_44": "162580",
+          "usia_45_49": "151171",
+          "usia_50_54": "154311",
+          "usia_55_59": "125687",
+          "usia_60_64": "96160",
+          "usia_65_69": "64984",
+          "usia_70_74": "35549",
+          "usia_75_tahun_ke_atas": "35971",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -397,25 +637,41 @@
       "kode_wilayah": "35.16",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "84484",
-        "usia_20_24": "85427",
-        "usia_5_9": "83726",
-        "usia_10_14": "88749",
-        "usia_0_4_thn": "74871",
-        "usia_25_29": "86139",
-        "usia_30_34": "79616",
-        "usia_35_39": "89631",
-        "usia_40_44": "84337",
-        "usia_45_49": "84071",
-        "usia_50_54": "81793",
-        "usia_55_59": "69608",
-        "usia_60_64": "52601",
-        "usia_65_69": "34732",
-        "usia_70_74": "20956",
-        "usia_75_tahun_ke_atas": "26907",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "571363",
+          "perempuan": "563550",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1139457",
+          "semester": "1",
+          "jumlah_penduduk_km2": "984.643",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "81527",
+          "usia_20_24": "87984",
+          "usia_5_9": "81778",
+          "usia_10_14": "89065",
+          "usia_0_4_thn": "67150",
+          "usia_25_29": "84401",
+          "usia_30_34": "82339",
+          "usia_35_39": "83114",
+          "usia_40_44": "89478",
+          "usia_45_49": "80363",
+          "usia_50_54": "85371",
+          "usia_55_59": "72332",
+          "usia_60_64": "58440",
+          "usia_65_69": "40116",
+          "usia_70_74": "24657",
+          "usia_75_tahun_ke_atas": "31342",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -423,25 +679,41 @@
       "kode_wilayah": "35.17",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "101268",
-        "usia_20_24": "103426",
-        "usia_5_9": "102174",
-        "usia_10_14": "109421",
-        "usia_0_4_thn": "83717",
-        "usia_25_29": "99926",
-        "usia_30_34": "95753",
-        "usia_35_39": "108960",
-        "usia_40_44": "104899",
-        "usia_45_49": "97720",
-        "usia_50_54": "94320",
-        "usia_55_59": "80858",
-        "usia_60_64": "63989",
-        "usia_65_69": "42634",
-        "usia_70_74": "25965",
-        "usia_75_tahun_ke_atas": "36390",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "684979",
+          "perempuan": "674353",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1364775",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1109.835",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "101645",
+          "usia_20_24": "105804",
+          "usia_5_9": "98629",
+          "usia_10_14": "109769",
+          "usia_0_4_thn": "74399",
+          "usia_25_29": "98768",
+          "usia_30_34": "96980",
+          "usia_35_39": "99524",
+          "usia_40_44": "111394",
+          "usia_45_49": "97092",
+          "usia_50_54": "96216",
+          "usia_55_59": "84010",
+          "usia_60_64": "70273",
+          "usia_65_69": "48504",
+          "usia_70_74": "30079",
+          "usia_75_tahun_ke_atas": "41689",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -449,25 +721,41 @@
       "kode_wilayah": "35.18",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "82710",
-        "usia_20_24": "85672",
-        "usia_5_9": "80093",
-        "usia_10_14": "87760",
-        "usia_0_4_thn": "65841",
-        "usia_25_29": "78735",
-        "usia_30_34": "75099",
-        "usia_35_39": "90325",
-        "usia_40_44": "88972",
-        "usia_45_49": "84862",
-        "usia_50_54": "78193",
-        "usia_55_59": "72207",
-        "usia_60_64": "57059",
-        "usia_65_69": "40464",
-        "usia_70_74": "27304",
-        "usia_75_tahun_ke_atas": "38613",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "570962",
+          "perempuan": "564113",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1139617",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1289.067",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "84487",
+          "usia_20_24": "85427",
+          "usia_5_9": "76784",
+          "usia_10_14": "86629",
+          "usia_0_4_thn": "58149",
+          "usia_25_29": "79390",
+          "usia_30_34": "74348",
+          "usia_35_39": "81084",
+          "usia_40_44": "91475",
+          "usia_45_49": "83137",
+          "usia_50_54": "82716",
+          "usia_55_59": "73435",
+          "usia_60_64": "61878",
+          "usia_65_69": "45771",
+          "usia_70_74": "30294",
+          "usia_75_tahun_ke_atas": "44613",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -475,25 +763,41 @@
       "kode_wilayah": "35.19",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "49997",
-        "usia_20_24": "51108",
-        "usia_5_9": "47640",
-        "usia_10_14": "51439",
-        "usia_0_4_thn": "39463",
-        "usia_25_29": "50041",
-        "usia_30_34": "47181",
-        "usia_35_39": "57338",
-        "usia_40_44": "58454",
-        "usia_45_49": "58877",
-        "usia_50_54": "57456",
-        "usia_55_59": "52253",
-        "usia_60_64": "45327",
-        "usia_65_69": "33577",
-        "usia_70_74": "22501",
-        "usia_75_tahun_ke_atas": "31804",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "374752",
+          "perempuan": "380981",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "758517",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1113.627",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "50211",
+          "usia_20_24": "51883",
+          "usia_5_9": "45366",
+          "usia_10_14": "51475",
+          "usia_0_4_thn": "34835",
+          "usia_25_29": "49633",
+          "usia_30_34": "47719",
+          "usia_35_39": "50726",
+          "usia_40_44": "60867",
+          "usia_45_49": "57074",
+          "usia_50_54": "59297",
+          "usia_55_59": "53279",
+          "usia_60_64": "47467",
+          "usia_65_69": "37578",
+          "usia_70_74": "25361",
+          "usia_75_tahun_ke_atas": "35746",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -501,25 +805,41 @@
       "kode_wilayah": "35.20",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "45982",
-        "usia_20_24": "46299",
-        "usia_5_9": "45247",
-        "usia_10_14": "47602",
-        "usia_0_4_thn": "38530",
-        "usia_25_29": "44796",
-        "usia_30_34": "42910",
-        "usia_35_39": "52106",
-        "usia_40_44": "52814",
-        "usia_45_49": "51121",
-        "usia_50_54": "48149",
-        "usia_55_59": "44359",
-        "usia_60_64": "41424",
-        "usia_65_69": "33277",
-        "usia_70_74": "22655",
-        "usia_75_tahun_ke_atas": "32270",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "339103",
+          "perempuan": "351142",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "691618",
+          "semester": "1",
+          "jumlah_penduduk_km2": "706.444",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "46550",
+          "usia_20_24": "46872",
+          "usia_5_9": "43633",
+          "usia_10_14": "48168",
+          "usia_0_4_thn": "33813",
+          "usia_25_29": "44288",
+          "usia_30_34": "43228",
+          "usia_35_39": "46817",
+          "usia_40_44": "54601",
+          "usia_45_49": "50816",
+          "usia_50_54": "49751",
+          "usia_55_59": "44662",
+          "usia_60_64": "42158",
+          "usia_65_69": "35548",
+          "usia_70_74": "24943",
+          "usia_75_tahun_ke_atas": "35770",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -527,25 +847,41 @@
       "kode_wilayah": "35.21",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "61016",
-        "usia_20_24": "64817",
-        "usia_5_9": "58163",
-        "usia_10_14": "63951",
-        "usia_0_4_thn": "49154",
-        "usia_25_29": "60747",
-        "usia_30_34": "57858",
-        "usia_35_39": "68354",
-        "usia_40_44": "66417",
-        "usia_45_49": "65535",
-        "usia_50_54": "64310",
-        "usia_55_59": "60493",
-        "usia_60_64": "54391",
-        "usia_65_69": "41443",
-        "usia_70_74": "27726",
-        "usia_75_tahun_ke_atas": "32588",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "446332",
+          "perempuan": "451998",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "901638",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1395.804",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "61011",
+          "usia_20_24": "63696",
+          "usia_5_9": "55778",
+          "usia_10_14": "63399",
+          "usia_0_4_thn": "44296",
+          "usia_25_29": "60792",
+          "usia_30_34": "56926",
+          "usia_35_39": "62118",
+          "usia_40_44": "69244",
+          "usia_45_49": "63356",
+          "usia_50_54": "65863",
+          "usia_55_59": "61957",
+          "usia_60_64": "56653",
+          "usia_65_69": "44986",
+          "usia_70_74": "32050",
+          "usia_75_tahun_ke_atas": "39513",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -553,25 +889,41 @@
       "kode_wilayah": "35.22",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "94627",
-        "usia_20_24": "99241",
-        "usia_5_9": "90818",
-        "usia_10_14": "96247",
-        "usia_0_4_thn": "78717",
-        "usia_25_29": "98276",
-        "usia_30_34": "89869",
-        "usia_35_39": "106014",
-        "usia_40_44": "104611",
-        "usia_45_49": "102220",
-        "usia_50_54": "96423",
-        "usia_55_59": "89337",
-        "usia_60_64": "73412",
-        "usia_65_69": "50120",
-        "usia_70_74": "32742",
-        "usia_75_tahun_ke_atas": "39760",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "677476",
+          "perempuan": "673174",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1356057",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2312.627",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "85442",
+          "usia_20_24": "97539",
+          "usia_5_9": "88886",
+          "usia_10_14": "95018",
+          "usia_0_4_thn": "70009",
+          "usia_25_29": "95968",
+          "usia_30_34": "91325",
+          "usia_35_39": "95859",
+          "usia_40_44": "104556",
+          "usia_45_49": "100285",
+          "usia_50_54": "98205",
+          "usia_55_59": "92778",
+          "usia_60_64": "80774",
+          "usia_65_69": "59862",
+          "usia_70_74": "42205",
+          "usia_75_tahun_ke_atas": "57346",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -579,25 +931,41 @@
       "kode_wilayah": "35.23",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "85262",
-        "usia_20_24": "90609",
-        "usia_5_9": "86576",
-        "usia_10_14": "90034",
-        "usia_0_4_thn": "66396",
-        "usia_25_29": "91244",
-        "usia_30_34": "85923",
-        "usia_35_39": "101728",
-        "usia_40_44": "96454",
-        "usia_45_49": "93332",
-        "usia_50_54": "86632",
-        "usia_55_59": "78573",
-        "usia_60_64": "65760",
-        "usia_65_69": "45001",
-        "usia_70_74": "27858",
-        "usia_75_tahun_ke_atas": "32036",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "622862",
+          "perempuan": "621774",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1249621",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1973.501",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "70934",
+          "usia_20_24": "89224",
+          "usia_5_9": "85032",
+          "usia_10_14": "90825",
+          "usia_0_4_thn": "60224",
+          "usia_25_29": "88805",
+          "usia_30_34": "87604",
+          "usia_35_39": "94001",
+          "usia_40_44": "98961",
+          "usia_45_49": "93144",
+          "usia_50_54": "90489",
+          "usia_55_59": "81933",
+          "usia_60_64": "73056",
+          "usia_65_69": "55682",
+          "usia_70_74": "38325",
+          "usia_75_tahun_ke_atas": "51382",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -605,25 +973,41 @@
       "kode_wilayah": "35.24",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "97955",
-        "usia_20_24": "105528",
-        "usia_5_9": "92736",
-        "usia_10_14": "96687",
-        "usia_0_4_thn": "81968",
-        "usia_25_29": "106388",
-        "usia_30_34": "94575",
-        "usia_35_39": "104728",
-        "usia_40_44": "101466",
-        "usia_45_49": "105682",
-        "usia_50_54": "99296",
-        "usia_55_59": "90832",
-        "usia_60_64": "75249",
-        "usia_65_69": "52763",
-        "usia_70_74": "33324",
-        "usia_75_tahun_ke_atas": "40968",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "692778",
+          "perempuan": "688636",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1383227",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1752.71",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "95375",
+          "usia_20_24": "104458",
+          "usia_5_9": "92240",
+          "usia_10_14": "96819",
+          "usia_0_4_thn": "72375",
+          "usia_25_29": "101826",
+          "usia_30_34": "97910",
+          "usia_35_39": "96184",
+          "usia_40_44": "103732",
+          "usia_45_49": "101918",
+          "usia_50_54": "103046",
+          "usia_55_59": "91412",
+          "usia_60_64": "80961",
+          "usia_65_69": "58814",
+          "usia_70_74": "39192",
+          "usia_75_tahun_ke_atas": "46965",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -631,25 +1015,41 @@
       "kode_wilayah": "35.25",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "102795",
-        "usia_20_24": "100125",
-        "usia_5_9": "98573",
-        "usia_10_14": "103490",
-        "usia_0_4_thn": "82405",
-        "usia_25_29": "99213",
-        "usia_30_34": "88522",
-        "usia_35_39": "103609",
-        "usia_40_44": "105430",
-        "usia_45_49": "99853",
-        "usia_50_54": "88860",
-        "usia_55_59": "72362",
-        "usia_60_64": "56526",
-        "usia_65_69": "37899",
-        "usia_70_74": "21003",
-        "usia_75_tahun_ke_atas": "23493",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "648861",
+          "perempuan": "642657",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1296688",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1256.364",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "94393",
+          "usia_20_24": "104572",
+          "usia_5_9": "98362",
+          "usia_10_14": "103626",
+          "usia_0_4_thn": "75914",
+          "usia_25_29": "99666",
+          "usia_30_34": "92272",
+          "usia_35_39": "94931",
+          "usia_40_44": "107359",
+          "usia_45_49": "101309",
+          "usia_50_54": "93989",
+          "usia_55_59": "75992",
+          "usia_60_64": "60364",
+          "usia_65_69": "42675",
+          "usia_70_74": "25054",
+          "usia_75_tahun_ke_atas": "26210",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -657,25 +1057,41 @@
       "kode_wilayah": "35.26",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "91713",
-        "usia_20_24": "98628",
-        "usia_5_9": "88377",
-        "usia_10_14": "90436",
-        "usia_0_4_thn": "64072",
-        "usia_25_29": "93560",
-        "usia_30_34": "87493",
-        "usia_35_39": "90778",
-        "usia_40_44": "76709",
-        "usia_45_49": "68691",
-        "usia_50_54": "60993",
-        "usia_55_59": "53181",
-        "usia_60_64": "43588",
-        "usia_65_69": "29948",
-        "usia_70_74": "19471",
-        "usia_75_tahun_ke_atas": "25554",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "511733",
+          "perempuan": "527555",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1042870",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1301.03",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "86022",
+          "usia_20_24": "95851",
+          "usia_5_9": "89399",
+          "usia_10_14": "88069",
+          "usia_0_4_thn": "62500",
+          "usia_25_29": "86720",
+          "usia_30_34": "81647",
+          "usia_35_39": "80952",
+          "usia_40_44": "74942",
+          "usia_45_49": "64626",
+          "usia_50_54": "58867",
+          "usia_55_59": "51607",
+          "usia_60_64": "45356",
+          "usia_65_69": "31188",
+          "usia_70_74": "21367",
+          "usia_75_tahun_ke_atas": "23757",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -683,25 +1099,41 @@
       "kode_wilayah": "35.27",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "54312",
-        "usia_20_24": "85713",
-        "usia_5_9": "88436",
-        "usia_10_14": "82077",
-        "usia_0_4_thn": "75674",
-        "usia_25_29": "83261",
-        "usia_30_34": "76712",
-        "usia_35_39": "75527",
-        "usia_40_44": "66812",
-        "usia_45_49": "56943",
-        "usia_50_54": "51686",
-        "usia_55_59": "41822",
-        "usia_60_64": "33612",
-        "usia_65_69": "22615",
-        "usia_70_74": "14505",
-        "usia_75_tahun_ke_atas": "17925",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "481675",
+          "perempuan": "491286",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "981488",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1228.252",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "52473",
+          "usia_20_24": "85118",
+          "usia_5_9": "94562",
+          "usia_10_14": "86350",
+          "usia_0_4_thn": "72513",
+          "usia_25_29": "85733",
+          "usia_30_34": "81461",
+          "usia_35_39": "79118",
+          "usia_40_44": "73351",
+          "usia_45_49": "62527",
+          "usia_50_54": "55500",
+          "usia_55_59": "46421",
+          "usia_60_64": "38946",
+          "usia_65_69": "26715",
+          "usia_70_74": "18052",
+          "usia_75_tahun_ke_atas": "22648",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -709,25 +1141,41 @@
       "kode_wilayah": "35.28",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "50643",
-        "usia_20_24": "70771",
-        "usia_5_9": "69671",
-        "usia_10_14": "66063",
-        "usia_0_4_thn": "66512",
-        "usia_25_29": "68022",
-        "usia_30_34": "61123",
-        "usia_35_39": "67915",
-        "usia_40_44": "67120",
-        "usia_45_49": "62273",
-        "usia_50_54": "53340",
-        "usia_55_59": "44909",
-        "usia_60_64": "34663",
-        "usia_65_69": "25378",
-        "usia_70_74": "15636",
-        "usia_75_tahun_ke_atas": "21071",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "425345",
+          "perempuan": "444366",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "876699",
+          "semester": "1",
+          "jumlah_penduduk_km2": "795.154",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "50148",
+          "usia_20_24": "69560",
+          "usia_5_9": "74157",
+          "usia_10_14": "67541",
+          "usia_0_4_thn": "63725",
+          "usia_25_29": "71281",
+          "usia_30_34": "62644",
+          "usia_35_39": "65562",
+          "usia_40_44": "67597",
+          "usia_45_49": "65140",
+          "usia_50_54": "56302",
+          "usia_55_59": "47818",
+          "usia_60_64": "40222",
+          "usia_65_69": "28508",
+          "usia_70_74": "20013",
+          "usia_75_tahun_ke_atas": "26481",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -735,25 +1183,41 @@
       "kode_wilayah": "35.29",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "79295",
-        "usia_20_24": "83972",
-        "usia_5_9": "77030",
-        "usia_10_14": "77494",
-        "usia_0_4_thn": "67675",
-        "usia_25_29": "79461",
-        "usia_30_34": "77093",
-        "usia_35_39": "86512",
-        "usia_40_44": "87760",
-        "usia_45_49": "90093",
-        "usia_50_54": "85041",
-        "usia_55_59": "70284",
-        "usia_60_64": "61167",
-        "usia_65_69": "42914",
-        "usia_70_74": "31175",
-        "usia_75_tahun_ke_atas": "37844",
-        "tahun": "2021"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "548471",
+          "perempuan": "587432",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1138942",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2084.023",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "76995",
+          "usia_20_24": "84313",
+          "usia_5_9": "80186",
+          "usia_10_14": "77024",
+          "usia_0_4_thn": "65481",
+          "usia_25_29": "78603",
+          "usia_30_34": "75282",
+          "usia_35_39": "81897",
+          "usia_40_44": "86204",
+          "usia_45_49": "87519",
+          "usia_50_54": "85433",
+          "usia_55_59": "73591",
+          "usia_60_64": "65223",
+          "usia_65_69": "46583",
+          "usia_70_74": "33512",
+          "usia_75_tahun_ke_atas": "41096",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -761,25 +1225,41 @@
       "kode_wilayah": "35.71",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "23536",
-        "usia_20_24": "20125",
-        "usia_5_9": "23820",
-        "usia_10_14": "24650",
-        "usia_0_4_thn": "21477",
-        "usia_25_29": "19516",
-        "usia_30_34": "20401",
-        "usia_35_39": "25146",
-        "usia_40_44": "22299",
-        "usia_45_49": "20658",
-        "usia_50_54": "19316",
-        "usia_55_59": "16689",
-        "usia_60_64": "13718",
-        "usia_65_69": "9034",
-        "usia_70_74": "5941",
-        "usia_75_tahun_ke_atas": "8624",
-        "tahun": "2019"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "147256",
+          "perempuan": "149536",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "296792",
+          "semester": "1",
+          "jumlah_penduduk_km2": "67.232",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "24714",
+          "usia_20_24": "22903",
+          "usia_5_9": "21803",
+          "usia_10_14": "24941",
+          "usia_0_4_thn": "17007",
+          "usia_25_29": "21561",
+          "usia_30_34": "19991",
+          "usia_35_39": "21492",
+          "usia_40_44": "25017",
+          "usia_45_49": "21608",
+          "usia_50_54": "19885",
+          "usia_55_59": "17507",
+          "usia_60_64": "14368",
+          "usia_65_69": "10644",
+          "usia_70_74": "6191",
+          "usia_75_tahun_ke_atas": "7160",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -787,25 +1267,41 @@
       "kode_wilayah": "35.72",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "12752",
-        "usia_20_24": "11721",
-        "usia_5_9": "12754",
-        "usia_10_14": "12793",
-        "usia_0_4_thn": "11549",
-        "usia_25_29": "11103",
-        "usia_30_34": "12078",
-        "usia_35_39": "14144",
-        "usia_40_44": "11852",
-        "usia_45_49": "11249",
-        "usia_50_54": "10056",
-        "usia_55_59": "8540",
-        "usia_60_64": "6439",
-        "usia_65_69": "4486",
-        "usia_70_74": "2767",
-        "usia_75_tahun_ke_atas": "3597",
-        "tahun": "2019"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "79434",
+          "perempuan": "79972",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "159406",
+          "semester": "1",
+          "jumlah_penduduk_km2": "33.203",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "12910",
+          "usia_20_24": "12622",
+          "usia_5_9": "11803",
+          "usia_10_14": "13040",
+          "usia_0_4_thn": "8671",
+          "usia_25_29": "11985",
+          "usia_30_34": "11166",
+          "usia_35_39": "12295",
+          "usia_40_44": "13721",
+          "usia_45_49": "11216",
+          "usia_50_54": "10659",
+          "usia_55_59": "9055",
+          "usia_60_64": "7563",
+          "usia_65_69": "5385",
+          "usia_70_74": "3360",
+          "usia_75_tahun_ke_atas": "3955",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -813,25 +1309,41 @@
       "kode_wilayah": "35.73",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "65862",
-        "usia_20_24": "63590",
-        "usia_5_9": "69512",
-        "usia_10_14": "67190",
-        "usia_0_4_thn": "55339",
-        "usia_25_29": "62377",
-        "usia_30_34": "66674",
-        "usia_35_39": "73757",
-        "usia_40_44": "64191",
-        "usia_45_49": "60956",
-        "usia_50_54": "54322",
-        "usia_55_59": "47781",
-        "usia_60_64": "37124",
-        "usia_65_69": "25054",
-        "usia_70_74": "15673",
-        "usia_75_tahun_ke_atas": "20516",
-        "tahun": "2018"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "434919",
+          "perempuan": "439741",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "874660",
+          "semester": "1",
+          "jumlah_penduduk_km2": "111.077",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "64658",
+          "usia_20_24": "66558",
+          "usia_5_9": "67454",
+          "usia_10_14": "70873",
+          "usia_0_4_thn": "47865",
+          "usia_25_29": "65878",
+          "usia_30_34": "64026",
+          "usia_35_39": "66474",
+          "usia_40_44": "72937",
+          "usia_45_49": "63000",
+          "usia_50_54": "58692",
+          "usia_55_59": "50731",
+          "usia_60_64": "42775",
+          "usia_65_69": "31312",
+          "usia_70_74": "19592",
+          "usia_75_tahun_ke_atas": "21835",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -839,25 +1351,41 @@
       "kode_wilayah": "35.74",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "20458",
-        "usia_20_24": "18916",
-        "usia_5_9": "20119",
-        "usia_10_14": "19383",
-        "usia_0_4_thn": "19489",
-        "usia_25_29": "17995",
-        "usia_30_34": "17670",
-        "usia_35_39": "19421",
-        "usia_40_44": "17966",
-        "usia_45_49": "17702",
-        "usia_50_54": "15489",
-        "usia_55_59": "12414",
-        "usia_60_64": "9328",
-        "usia_65_69": "6279",
-        "usia_70_74": "3556",
-        "usia_75_tahun_ke_atas": "4404",
-        "tahun": "2019"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "121194",
+          "perempuan": "122693",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "243887",
+          "semester": "1",
+          "jumlah_penduduk_km2": "54.676",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "19654",
+          "usia_20_24": "20165",
+          "usia_5_9": "19078",
+          "usia_10_14": "20184",
+          "usia_0_4_thn": "16305",
+          "usia_25_29": "18992",
+          "usia_30_34": "17589",
+          "usia_35_39": "17855",
+          "usia_40_44": "19039",
+          "usia_45_49": "17365",
+          "usia_50_54": "16722",
+          "usia_55_59": "13618",
+          "usia_60_64": "10610",
+          "usia_65_69": "7472",
+          "usia_70_74": "4671",
+          "usia_75_tahun_ke_atas": "4568",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -865,25 +1393,41 @@
       "kode_wilayah": "35.75",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "18177",
-        "usia_20_24": "16821",
-        "usia_5_9": "17983",
-        "usia_10_14": "17596",
-        "usia_0_4_thn": "17262",
-        "usia_25_29": "15868",
-        "usia_30_34": "15833",
-        "usia_35_39": "17679",
-        "usia_40_44": "15716",
-        "usia_45_49": "14365",
-        "usia_50_54": "12993",
-        "usia_55_59": "11047",
-        "usia_60_64": "8039",
-        "usia_65_69": "5207",
-        "usia_70_74": "2736",
-        "usia_75_tahun_ke_atas": "3686",
-        "tahun": "2019"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "106258",
+          "perempuan": "106145",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "212403",
+          "semester": "1",
+          "jumlah_penduduk_km2": "38.996",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "17436",
+          "usia_20_24": "17838",
+          "usia_5_9": "17308",
+          "usia_10_14": "18093",
+          "usia_0_4_thn": "14118",
+          "usia_25_29": "16822",
+          "usia_30_34": "15170",
+          "usia_35_39": "15662",
+          "usia_40_44": "17076",
+          "usia_45_49": "14854",
+          "usia_50_54": "13448",
+          "usia_55_59": "11600",
+          "usia_60_64": "9424",
+          "usia_65_69": "6469",
+          "usia_70_74": "3774",
+          "usia_75_tahun_ke_atas": "3311",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -891,25 +1435,41 @@
       "kode_wilayah": "35.76",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "11144",
-        "usia_20_24": "9943",
-        "usia_5_9": "11587",
-        "usia_10_14": "11517",
-        "usia_0_4_thn": "10795",
-        "usia_25_29": "10256",
-        "usia_30_34": "10547",
-        "usia_35_39": "11959",
-        "usia_40_44": "10496",
-        "usia_45_49": "9684",
-        "usia_50_54": "8680",
-        "usia_55_59": "7429",
-        "usia_60_64": "6029",
-        "usia_65_69": "3806",
-        "usia_70_74": "2125",
-        "usia_75_tahun_ke_atas": "2946",
-        "tahun": "2019"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "70273",
+          "perempuan": "71063",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "141336",
+          "semester": "1",
+          "jumlah_penduduk_km2": "20.217",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "11490",
+          "usia_20_24": "10995",
+          "usia_5_9": "10710",
+          "usia_10_14": "11814",
+          "usia_0_4_thn": "8301",
+          "usia_25_29": "10629",
+          "usia_30_34": "10278",
+          "usia_35_39": "10823",
+          "usia_40_44": "11618",
+          "usia_45_49": "10146",
+          "usia_50_54": "9277",
+          "usia_55_59": "7820",
+          "usia_60_64": "6548",
+          "usia_65_69": "4970",
+          "usia_70_74": "2861",
+          "usia_75_tahun_ke_atas": "3056",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -917,25 +1477,41 @@
       "kode_wilayah": "35.77",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "17133",
-        "usia_20_24": "15021",
-        "usia_5_9": "14070",
-        "usia_10_14": "15437",
-        "usia_0_4_thn": "11920",
-        "usia_25_29": "13885",
-        "usia_30_34": "14311",
-        "usia_35_39": "16924",
-        "usia_40_44": "16292",
-        "usia_45_49": "15454",
-        "usia_50_54": "13824",
-        "usia_55_59": "12265",
-        "usia_60_64": "10062",
-        "usia_65_69": "7234",
-        "usia_70_74": "4532",
-        "usia_75_tahun_ke_atas": "7797",
-        "tahun": "2018"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "99008",
+          "perempuan": "102984",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "201992",
+          "semester": "1",
+          "jumlah_penduduk_km2": "36.126",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "15581",
+          "usia_20_24": "15850",
+          "usia_5_9": "13266",
+          "usia_10_14": "14683",
+          "usia_0_4_thn": "10106",
+          "usia_25_29": "14743",
+          "usia_30_34": "13752",
+          "usia_35_39": "13857",
+          "usia_40_44": "16040",
+          "usia_45_49": "14908",
+          "usia_50_54": "14159",
+          "usia_55_59": "12438",
+          "usia_60_64": "10743",
+          "usia_65_69": "8399",
+          "usia_70_74": "5590",
+          "usia_75_tahun_ke_atas": "7877",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -943,25 +1519,41 @@
       "kode_wilayah": "35.78",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "243051",
-        "usia_20_24": "216031",
-        "usia_5_9": "246047",
-        "usia_10_14": "242967",
-        "usia_0_4_thn": "220476",
-        "usia_25_29": "212422",
-        "usia_30_34": "220665",
-        "usia_35_39": "258153",
-        "usia_40_44": "235362",
-        "usia_45_49": "220166",
-        "usia_50_54": "184824",
-        "usia_55_59": "152467",
-        "usia_60_64": "119787",
-        "usia_65_69": "81515",
-        "usia_70_74": "44828",
-        "usia_75_tahun_ke_atas": "51469",
-        "tahun": "2019"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "1485715",
+          "perempuan": "1514361",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "3000076",
+          "semester": "1",
+          "jumlah_penduduk_km2": "335.925",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "236468",
+          "usia_20_24": "237195",
+          "usia_5_9": "232767",
+          "usia_10_14": "248317",
+          "usia_0_4_thn": "175744",
+          "usia_25_29": "224595",
+          "usia_30_34": "215771",
+          "usia_35_39": "222914",
+          "usia_40_44": "250129",
+          "usia_45_49": "224284",
+          "usia_50_54": "205208",
+          "usia_55_59": "166691",
+          "usia_60_64": "132960",
+          "usia_65_69": "99679",
+          "usia_70_74": "61815",
+          "usia_75_tahun_ke_atas": "65539",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -969,25 +1561,41 @@
       "kode_wilayah": "35.79",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "35",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "16098",
-        "usia_20_24": "15761",
-        "usia_5_9": "16473",
-        "usia_10_14": "15855",
-        "usia_0_4_thn": "15528",
-        "usia_25_29": "15770",
-        "usia_30_34": "16018",
-        "usia_35_39": "18127",
-        "usia_40_44": "15600",
-        "usia_45_49": "15769",
-        "usia_50_54": "14519",
-        "usia_55_59": "12152",
-        "usia_60_64": "9315",
-        "usia_65_69": "6303",
-        "usia_70_74": "3710",
-        "usia_75_tahun_ke_atas": "5298",
-        "tahun": "2019"
+      "nama_provinsi": "JAWA TIMUR",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "110290",
+          "perempuan": "109250",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "219540",
+          "semester": "1",
+          "jumlah_penduduk_km2": "194.17",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "15700",
+          "usia_20_24": "17270",
+          "usia_5_9": "16381",
+          "usia_10_14": "17318",
+          "usia_0_4_thn": "12305",
+          "usia_25_29": "16961",
+          "usia_30_34": "16078",
+          "usia_35_39": "16514",
+          "usia_40_44": "18113",
+          "usia_45_49": "15361",
+          "usia_50_54": "15467",
+          "usia_55_59": "13450",
+          "usia_60_64": "11101",
+          "usia_65_69": "7733",
+          "usia_70_74": "4608",
+          "usia_75_tahun_ke_atas": "5180",
+          "tahun": "2023"
+        }
       }
     }
   ]

@@ -24,7 +24,7 @@ function createAPIResponse(dataArray) {
  * @param {string} groupByField - The field in each record to group by.
  */
 function splitJSONData(sourceFile, outFolder, groupByField) {
-  const inputPath = path.join(__dirname, '..', 'data', 'json', sourceFile);
+  const inputPath = path.join(__dirname, '..', '..', 'data', 'json', 'region', sourceFile);
   let data;
   try {
     const fileContent = fs.readFileSync(inputPath, 'utf-8');
@@ -45,7 +45,7 @@ function splitJSONData(sourceFile, outFolder, groupByField) {
   }, {});
 
   // Ensure that the target directory exists
-  const targetDir = path.join(__dirname, '..', 'api', outFolder);
+  const targetDir = path.join(__dirname, '..', '..', 'api', outFolder);
   if (!fs.existsSync(targetDir)) {
     fs.mkdirSync(targetDir, { recursive: true });
   }
@@ -66,7 +66,7 @@ function splitJSONData(sourceFile, outFolder, groupByField) {
  * @param {string} sourceFile - The JSON file name in the data folder.
  */
 function copyAndFormatJSONFile(sourceFile) {
-  const sourcePath = path.join(__dirname, '..', 'data', 'json', sourceFile);
+  const sourcePath = path.join(__dirname, '..', '..', 'data', 'json', 'region', sourceFile);
   let data;
   try {
     const fileContent = fs.readFileSync(sourcePath, 'utf-8');
@@ -80,7 +80,7 @@ function copyAndFormatJSONFile(sourceFile) {
   const apiResponse = createAPIResponse(data);
 
   // Ensure that the API folder exists
-  const targetDir = path.join(__dirname, '..', 'api');
+  const targetDir = path.join(__dirname, '..', '..', 'api');
   if (!fs.existsSync(targetDir)) {
     fs.mkdirSync(targetDir, { recursive: true });
   }
@@ -88,7 +88,7 @@ function copyAndFormatJSONFile(sourceFile) {
   const targetPath = path.join(targetDir, sourceFile);
   try {
     fs.writeFileSync(targetPath, JSON.stringify(apiResponse, null, 2));
-    console.log(`Created ${targetPath} with API response wrapper.`);
+    console.log(`Created ${targetPath} with ${data.length} record(s).`);
   } catch (error) {
     console.error(`Error wrapping and writing ${sourceFile}:`, error);
   }

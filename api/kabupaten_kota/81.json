@@ -7,25 +7,41 @@
       "kode_wilayah": "81.01",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "81",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "49882",
-        "usia_20_24": "43603",
-        "usia_5_9": "38531",
-        "usia_10_14": "44262",
-        "usia_0_4_thn": "22456",
-        "usia_25_29": "32478",
-        "usia_30_34": "31123",
-        "usia_35_39": "31307",
-        "usia_40_44": "27803",
-        "usia_45_49": "25076",
-        "usia_50_54": "20677",
-        "usia_55_59": "18730",
-        "usia_60_64": "14860",
-        "usia_65_69": "11058",
-        "usia_70_74": "7163",
-        "usia_75_tahun_ke_atas": "9395",
-        "tahun": "2021"
+      "nama_provinsi": "MALUKU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "215848",
+          "perempuan": "213081",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "429795",
+          "semester": "1",
+          "jumlah_penduduk_km2": "8253.929",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "47943",
+          "usia_20_24": "45738",
+          "usia_5_9": "37068",
+          "usia_10_14": "42535",
+          "usia_0_4_thn": "19635",
+          "usia_25_29": "33470",
+          "usia_30_34": "29592",
+          "usia_35_39": "30161",
+          "usia_40_44": "29537",
+          "usia_45_49": "25199",
+          "usia_50_54": "22396",
+          "usia_55_59": "18855",
+          "usia_60_64": "16282",
+          "usia_65_69": "12089",
+          "usia_70_74": "8323",
+          "usia_75_tahun_ke_atas": "10972",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -33,25 +49,41 @@
       "kode_wilayah": "81.02",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "81",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "14485",
-        "usia_20_24": "12256",
-        "usia_5_9": "11886",
-        "usia_10_14": "13541",
-        "usia_0_4_thn": "7547",
-        "usia_25_29": "11167",
-        "usia_30_34": "10205",
-        "usia_35_39": "9461",
-        "usia_40_44": "7245",
-        "usia_45_49": "6393",
-        "usia_50_54": "5561",
-        "usia_55_59": "5164",
-        "usia_60_64": "4445",
-        "usia_65_69": "3262",
-        "usia_70_74": "2173",
-        "usia_75_tahun_ke_atas": "3448",
-        "tahun": "2021"
+      "nama_provinsi": "MALUKU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "63831",
+          "perempuan": "64873",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "129034",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1016.924",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "14049",
+          "usia_20_24": "12829",
+          "usia_5_9": "11518",
+          "usia_10_14": "13290",
+          "usia_0_4_thn": "6733",
+          "usia_25_29": "11022",
+          "usia_30_34": "9940",
+          "usia_35_39": "9534",
+          "usia_40_44": "8154",
+          "usia_45_49": "6583",
+          "usia_50_54": "5655",
+          "usia_55_59": "5117",
+          "usia_60_64": "4819",
+          "usia_65_69": "3533",
+          "usia_70_74": "2477",
+          "usia_75_tahun_ke_atas": "3781",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -59,25 +91,41 @@
       "kode_wilayah": "81.03",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "81",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "15068",
-        "usia_20_24": "11925",
-        "usia_5_9": "13047",
-        "usia_10_14": "15178",
-        "usia_0_4_thn": "8746",
-        "usia_25_29": "9299",
-        "usia_30_34": "8600",
-        "usia_35_39": "8861",
-        "usia_40_44": "7864",
-        "usia_45_49": "7197",
-        "usia_50_54": "5362",
-        "usia_55_59": "4848",
-        "usia_60_64": "4560",
-        "usia_65_69": "3503",
-        "usia_70_74": "1846",
-        "usia_75_tahun_ke_atas": "2320",
-        "tahun": "2021"
+      "nama_provinsi": "MALUKU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "64778",
+          "perempuan": "63975",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "129481",
+          "semester": "1",
+          "jumlah_penduduk_km2": "4431.082",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "15339",
+          "usia_20_24": "12826",
+          "usia_5_9": "12598",
+          "usia_10_14": "14732",
+          "usia_0_4_thn": "7411",
+          "usia_25_29": "9763",
+          "usia_30_34": "8495",
+          "usia_35_39": "8695",
+          "usia_40_44": "8528",
+          "usia_45_49": "7190",
+          "usia_50_54": "6077",
+          "usia_55_59": "4595",
+          "usia_60_64": "4463",
+          "usia_65_69": "3698",
+          "usia_70_74": "2490",
+          "usia_75_tahun_ke_atas": "2581",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -85,25 +133,41 @@
       "kode_wilayah": "81.04",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "81",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "14688",
-        "usia_20_24": "14023",
-        "usia_5_9": "15076",
-        "usia_10_14": "14600",
-        "usia_0_4_thn": "9057",
-        "usia_25_29": "11058",
-        "usia_30_34": "9978",
-        "usia_35_39": "10928",
-        "usia_40_44": "9494",
-        "usia_45_49": "8094",
-        "usia_50_54": "6387",
-        "usia_55_59": "4592",
-        "usia_60_64": "3233",
-        "usia_65_69": "2297",
-        "usia_70_74": "1565",
-        "usia_75_tahun_ke_atas": "1930",
-        "tahun": "2021"
+      "nama_provinsi": "MALUKU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "69857",
+          "perempuan": "67713",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "138308",
+          "semester": "1",
+          "jumlah_penduduk_km2": "4915.566",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "14758",
+          "usia_20_24": "13188",
+          "usia_5_9": "14824",
+          "usia_10_14": "14977",
+          "usia_0_4_thn": "7819",
+          "usia_25_29": "11493",
+          "usia_30_34": "9973",
+          "usia_35_39": "10471",
+          "usia_40_44": "10625",
+          "usia_45_49": "8242",
+          "usia_50_54": "7062",
+          "usia_55_59": "4909",
+          "usia_60_64": "3602",
+          "usia_65_69": "2408",
+          "usia_70_74": "1803",
+          "usia_75_tahun_ke_atas": "2154",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -111,25 +175,41 @@
       "kode_wilayah": "81.05",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "81",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "16501",
-        "usia_20_24": "14142",
-        "usia_5_9": "15175",
-        "usia_10_14": "16475",
-        "usia_0_4_thn": "9866",
-        "usia_25_29": "10632",
-        "usia_30_34": "10110",
-        "usia_35_39": "10328",
-        "usia_40_44": "8318",
-        "usia_45_49": "7230",
-        "usia_50_54": "6061",
-        "usia_55_59": "4104",
-        "usia_60_64": "3061",
-        "usia_65_69": "2165",
-        "usia_70_74": "1335",
-        "usia_75_tahun_ke_atas": "1248",
-        "tahun": "2021"
+      "nama_provinsi": "MALUKU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "69565",
+          "perempuan": "67794",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "137804",
+          "semester": "1",
+          "jumlah_penduduk_km2": "5725.447",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "16767",
+          "usia_20_24": "14595",
+          "usia_5_9": "14549",
+          "usia_10_14": "15968",
+          "usia_0_4_thn": "8444",
+          "usia_25_29": "11547",
+          "usia_30_34": "9394",
+          "usia_35_39": "10136",
+          "usia_40_44": "9221",
+          "usia_45_49": "7589",
+          "usia_50_54": "6155",
+          "usia_55_59": "4353",
+          "usia_60_64": "3376",
+          "usia_65_69": "2431",
+          "usia_70_74": "1636",
+          "usia_75_tahun_ke_atas": "1643",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -137,25 +217,41 @@
       "kode_wilayah": "81.06",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "81",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "25348",
-        "usia_20_24": "22067",
-        "usia_5_9": "22520",
-        "usia_10_14": "23835",
-        "usia_0_4_thn": "15019",
-        "usia_25_29": "16927",
-        "usia_30_34": "14457",
-        "usia_35_39": "15552",
-        "usia_40_44": "13165",
-        "usia_45_49": "11454",
-        "usia_50_54": "9197",
-        "usia_55_59": "7841",
-        "usia_60_64": "5854",
-        "usia_65_69": "3893",
-        "usia_70_74": "2545",
-        "usia_75_tahun_ke_atas": "2821",
-        "tahun": "2021"
+      "nama_provinsi": "MALUKU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "107986",
+          "perempuan": "105129",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "213969",
+          "semester": "1",
+          "jumlah_penduduk_km2": "5017.138",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "24760",
+          "usia_20_24": "23071",
+          "usia_5_9": "22555",
+          "usia_10_14": "23538",
+          "usia_0_4_thn": "12677",
+          "usia_25_29": "17378",
+          "usia_30_34": "14309",
+          "usia_35_39": "15147",
+          "usia_40_44": "14502",
+          "usia_45_49": "11754",
+          "usia_50_54": "9927",
+          "usia_55_59": "7858",
+          "usia_60_64": "6392",
+          "usia_65_69": "4199",
+          "usia_70_74": "2665",
+          "usia_75_tahun_ke_atas": "3237",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -163,25 +259,41 @@
       "kode_wilayah": "81.07",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "81",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "10613",
-        "usia_20_24": "9762",
-        "usia_5_9": "12858",
-        "usia_10_14": "13236",
-        "usia_0_4_thn": "8607",
-        "usia_25_29": "8399",
-        "usia_30_34": "7654",
-        "usia_35_39": "7685",
-        "usia_40_44": "6487",
-        "usia_45_49": "6081",
-        "usia_50_54": "4478",
-        "usia_55_59": "3612",
-        "usia_60_64": "2674",
-        "usia_65_69": "1895",
-        "usia_70_74": "1211",
-        "usia_75_tahun_ke_atas": "1244",
-        "tahun": "2021"
+      "nama_provinsi": "MALUKU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "55577",
+          "perempuan": "52509",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "108834",
+          "semester": "1",
+          "jumlah_penduduk_km2": "8096.729",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "9657",
+          "usia_20_24": "9413",
+          "usia_5_9": "12810",
+          "usia_10_14": "13587",
+          "usia_0_4_thn": "7529",
+          "usia_25_29": "9195",
+          "usia_30_34": "7905",
+          "usia_35_39": "8047",
+          "usia_40_44": "7219",
+          "usia_45_49": "6315",
+          "usia_50_54": "5044",
+          "usia_55_59": "3966",
+          "usia_60_64": "3016",
+          "usia_65_69": "2098",
+          "usia_70_74": "1457",
+          "usia_75_tahun_ke_atas": "1576",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -189,25 +301,41 @@
       "kode_wilayah": "81.08",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "81",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "6523",
-        "usia_20_24": "7452",
-        "usia_5_9": "10018",
-        "usia_10_14": "9867",
-        "usia_0_4_thn": "6652",
-        "usia_25_29": "6696",
-        "usia_30_34": "6242",
-        "usia_35_39": "6475",
-        "usia_40_44": "5176",
-        "usia_45_49": "4522",
-        "usia_50_54": "3482",
-        "usia_55_59": "3208",
-        "usia_60_64": "2971",
-        "usia_65_69": "2408",
-        "usia_70_74": "1489",
-        "usia_75_tahun_ke_atas": "1721",
-        "tahun": "2021"
+      "nama_provinsi": "MALUKU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "46423",
+          "perempuan": "44326",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "91531",
+          "semester": "1",
+          "jumlah_penduduk_km2": "4551.676",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "7002",
+          "usia_20_24": "8396",
+          "usia_5_9": "10582",
+          "usia_10_14": "10848",
+          "usia_0_4_thn": "6488",
+          "usia_25_29": "7337",
+          "usia_30_34": "6631",
+          "usia_35_39": "6792",
+          "usia_40_44": "5877",
+          "usia_45_49": "4803",
+          "usia_50_54": "3829",
+          "usia_55_59": "3273",
+          "usia_60_64": "3023",
+          "usia_65_69": "2645",
+          "usia_70_74": "1856",
+          "usia_75_tahun_ke_atas": "2149",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -215,25 +343,41 @@
       "kode_wilayah": "81.09",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "81",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "9148",
-        "usia_20_24": "7808",
-        "usia_5_9": "9233",
-        "usia_10_14": "9256",
-        "usia_0_4_thn": "5790",
-        "usia_25_29": "6702",
-        "usia_30_34": "5942",
-        "usia_35_39": "5904",
-        "usia_40_44": "4527",
-        "usia_45_49": "3673",
-        "usia_50_54": "2819",
-        "usia_55_59": "2231",
-        "usia_60_64": "1514",
-        "usia_65_69": "1098",
-        "usia_70_74": "750",
-        "usia_75_tahun_ke_atas": "731",
-        "tahun": "2021"
+      "nama_provinsi": "MALUKU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "39387",
+          "perempuan": "38301",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "78099",
+          "semester": "1",
+          "jumlah_penduduk_km2": "3678.696",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "9467",
+          "usia_20_24": "7468",
+          "usia_5_9": "9432",
+          "usia_10_14": "9256",
+          "usia_0_4_thn": "5495",
+          "usia_25_29": "6755",
+          "usia_30_34": "5615",
+          "usia_35_39": "5821",
+          "usia_40_44": "5091",
+          "usia_45_49": "3785",
+          "usia_50_54": "3029",
+          "usia_55_59": "2364",
+          "usia_60_64": "1708",
+          "usia_65_69": "1115",
+          "usia_70_74": "877",
+          "usia_75_tahun_ke_atas": "821",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -241,25 +385,41 @@
       "kode_wilayah": "81.71",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "81",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "33904",
-        "usia_20_24": "33383",
-        "usia_5_9": "32011",
-        "usia_10_14": "32133",
-        "usia_0_4_thn": "22121",
-        "usia_25_29": "31674",
-        "usia_30_34": "29925",
-        "usia_35_39": "28334",
-        "usia_40_44": "24691",
-        "usia_45_49": "21249",
-        "usia_50_54": "18161",
-        "usia_55_59": "15262",
-        "usia_60_64": "11031",
-        "usia_65_69": "7247",
-        "usia_70_74": "4111",
-        "usia_75_tahun_ke_atas": "4434",
-        "tahun": "2019"
+      "nama_provinsi": "MALUKU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "175687",
+          "perempuan": "178365",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "354052",
+          "semester": "1",
+          "jumlah_penduduk_km2": "236.663",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "34413",
+          "usia_20_24": "33401",
+          "usia_5_9": "29682",
+          "usia_10_14": "33345",
+          "usia_0_4_thn": "17619",
+          "usia_25_29": "30981",
+          "usia_30_34": "28721",
+          "usia_35_39": "27770",
+          "usia_40_44": "26474",
+          "usia_45_49": "23041",
+          "usia_50_54": "19580",
+          "usia_55_59": "15942",
+          "usia_60_64": "12955",
+          "usia_65_69": "9130",
+          "usia_70_74": "5526",
+          "usia_75_tahun_ke_atas": "5472",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -267,25 +427,41 @@
       "kode_wilayah": "81.72",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "81",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "9573",
-        "usia_20_24": "8417",
-        "usia_5_9": "8205",
-        "usia_10_14": "9755",
-        "usia_0_4_thn": "5785",
-        "usia_25_29": "7999",
-        "usia_30_34": "8359",
-        "usia_35_39": "7070",
-        "usia_40_44": "5573",
-        "usia_45_49": "4546",
-        "usia_50_54": "3747",
-        "usia_55_59": "3078",
-        "usia_60_64": "2144",
-        "usia_65_69": "1496",
-        "usia_70_74": "1068",
-        "usia_75_tahun_ke_atas": "1820",
-        "tahun": "2019"
+      "nama_provinsi": "MALUKU",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "44782",
+          "perempuan": "45225",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "90007",
+          "semester": "1",
+          "jumlah_penduduk_km2": "234.417",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "9813",
+          "usia_20_24": "8729",
+          "usia_5_9": "7674",
+          "usia_10_14": "8432",
+          "usia_0_4_thn": "4397",
+          "usia_25_29": "7706",
+          "usia_30_34": "7553",
+          "usia_35_39": "7985",
+          "usia_40_44": "6776",
+          "usia_45_49": "5222",
+          "usia_50_54": "4306",
+          "usia_55_59": "3315",
+          "usia_60_64": "2769",
+          "usia_65_69": "1848",
+          "usia_70_74": "1226",
+          "usia_75_tahun_ke_atas": "2256",
+          "tahun": "2023"
+        }
       }
     }
   ]

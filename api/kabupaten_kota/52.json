@@ -7,25 +7,41 @@
       "kode_wilayah": "52.01",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "52",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "55491",
-        "usia_20_24": "57450",
-        "usia_5_9": "70377",
-        "usia_10_14": "66581",
-        "usia_0_4_thn": "55950",
-        "usia_25_29": "60943",
-        "usia_30_34": "63659",
-        "usia_35_39": "62942",
-        "usia_40_44": "58107",
-        "usia_45_49": "48069",
-        "usia_50_54": "41032",
-        "usia_55_59": "27186",
-        "usia_60_64": "22415",
-        "usia_65_69": "13270",
-        "usia_70_74": "10754",
-        "usia_75_tahun_ke_atas": "11229",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA BARAT",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "365145",
+          "perempuan": "366232",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "737647",
+          "semester": "1",
+          "jumlah_penduduk_km2": "923.058",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "48108",
+          "usia_20_24": "58502",
+          "usia_5_9": "70265",
+          "usia_10_14": "70850",
+          "usia_0_4_thn": "50562",
+          "usia_25_29": "57982",
+          "usia_30_34": "62873",
+          "usia_35_39": "63428",
+          "usia_40_44": "60326",
+          "usia_45_49": "52208",
+          "usia_50_54": "43754",
+          "usia_55_59": "32276",
+          "usia_60_64": "23438",
+          "usia_65_69": "16954",
+          "usia_70_74": "11241",
+          "usia_75_tahun_ke_atas": "14880",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -33,25 +49,41 @@
       "kode_wilayah": "52.02",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "52",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "68910",
-        "usia_20_24": "83252",
-        "usia_5_9": "105846",
-        "usia_10_14": "101516",
-        "usia_0_4_thn": "84185",
-        "usia_25_29": "82730",
-        "usia_30_34": "88034",
-        "usia_35_39": "92799",
-        "usia_40_44": "86729",
-        "usia_45_49": "70320",
-        "usia_50_54": "62961",
-        "usia_55_59": "41470",
-        "usia_60_64": "37319",
-        "usia_65_69": "20710",
-        "usia_70_74": "17360",
-        "usia_75_tahun_ke_atas": "15183",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA BARAT",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "537659",
+          "perempuan": "544914",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1091564",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1169.522",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "69174",
+          "usia_20_24": "84520",
+          "usia_5_9": "107950",
+          "usia_10_14": "107092",
+          "usia_0_4_thn": "72254",
+          "usia_25_29": "80891",
+          "usia_30_34": "87307",
+          "usia_35_39": "92522",
+          "usia_40_44": "90436",
+          "usia_45_49": "77663",
+          "usia_50_54": "65908",
+          "usia_55_59": "50424",
+          "usia_60_64": "38520",
+          "usia_65_69": "27781",
+          "usia_70_74": "18145",
+          "usia_75_tahun_ke_atas": "20977",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -59,25 +91,41 @@
       "kode_wilayah": "52.03",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "52",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "90742",
-        "usia_20_24": "107632",
-        "usia_5_9": "136861",
-        "usia_10_14": "130845",
-        "usia_0_4_thn": "124365",
-        "usia_25_29": "101124",
-        "usia_30_34": "110990",
-        "usia_35_39": "121545",
-        "usia_40_44": "105384",
-        "usia_45_49": "90482",
-        "usia_50_54": "71886",
-        "usia_55_59": "49660",
-        "usia_60_64": "42436",
-        "usia_65_69": "26208",
-        "usia_70_74": "20087",
-        "usia_75_tahun_ke_atas": "18400",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA BARAT",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "692308",
+          "perempuan": "699791",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "1404343",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1606.47",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "92486",
+          "usia_20_24": "115725",
+          "usia_5_9": "140119",
+          "usia_10_14": "135723",
+          "usia_0_4_thn": "110697",
+          "usia_25_29": "98001",
+          "usia_30_34": "111173",
+          "usia_35_39": "120689",
+          "usia_40_44": "115721",
+          "usia_45_49": "99228",
+          "usia_50_54": "80630",
+          "usia_55_59": "58700",
+          "usia_60_64": "46049",
+          "usia_65_69": "32289",
+          "usia_70_74": "22371",
+          "usia_75_tahun_ke_atas": "24742",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -85,25 +133,41 @@
       "kode_wilayah": "52.04",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "52",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "44023",
-        "usia_20_24": "42137",
-        "usia_5_9": "44412",
-        "usia_10_14": "45048",
-        "usia_0_4_thn": "33709",
-        "usia_25_29": "40471",
-        "usia_30_34": "40855",
-        "usia_35_39": "44341",
-        "usia_40_44": "40377",
-        "usia_45_49": "36395",
-        "usia_50_54": "30041",
-        "usia_55_59": "25260",
-        "usia_60_64": "19536",
-        "usia_65_69": "13204",
-        "usia_70_74": "8827",
-        "usia_75_tahun_ke_atas": "10639",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA BARAT",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "260112",
+          "perempuan": "259668",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "521861",
+          "semester": "1",
+          "jumlah_penduduk_km2": "6655.917",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "43523",
+          "usia_20_24": "43046",
+          "usia_5_9": "43468",
+          "usia_10_14": "46437",
+          "usia_0_4_thn": "29403",
+          "usia_25_29": "40191",
+          "usia_30_34": "39900",
+          "usia_35_39": "42724",
+          "usia_40_44": "42389",
+          "usia_45_49": "37493",
+          "usia_50_54": "32873",
+          "usia_55_59": "25827",
+          "usia_60_64": "20263",
+          "usia_65_69": "13827",
+          "usia_70_74": "9610",
+          "usia_75_tahun_ke_atas": "10887",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -111,25 +175,41 @@
       "kode_wilayah": "52.05",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "52",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "20217",
-        "usia_20_24": "22923",
-        "usia_5_9": "23673",
-        "usia_10_14": "24325",
-        "usia_0_4_thn": "17487",
-        "usia_25_29": "21956",
-        "usia_30_34": "20046",
-        "usia_35_39": "21324",
-        "usia_40_44": "17737",
-        "usia_45_49": "16023",
-        "usia_50_54": "13173",
-        "usia_55_59": "10042",
-        "usia_60_64": "8570",
-        "usia_65_69": "5192",
-        "usia_70_74": "3620",
-        "usia_75_tahun_ke_atas": "4527",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA BARAT",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "130505",
+          "perempuan": "130117",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "262933",
+          "semester": "1",
+          "jumlah_penduduk_km2": "2281.752",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "20136",
+          "usia_20_24": "24038",
+          "usia_5_9": "25632",
+          "usia_10_14": "25389",
+          "usia_0_4_thn": "15903",
+          "usia_25_29": "22726",
+          "usia_30_34": "20801",
+          "usia_35_39": "21000",
+          "usia_40_44": "19659",
+          "usia_45_49": "16828",
+          "usia_50_54": "14465",
+          "usia_55_59": "11349",
+          "usia_60_64": "8811",
+          "usia_65_69": "6501",
+          "usia_70_74": "4085",
+          "usia_75_tahun_ke_atas": "5610",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -137,25 +217,41 @@
       "kode_wilayah": "52.06",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "52",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "51078",
-        "usia_20_24": "49793",
-        "usia_5_9": "45001",
-        "usia_10_14": "47147",
-        "usia_0_4_thn": "37049",
-        "usia_25_29": "45534",
-        "usia_30_34": "42010",
-        "usia_35_39": "42951",
-        "usia_40_44": "35745",
-        "usia_45_49": "33964",
-        "usia_50_54": "27736",
-        "usia_55_59": "21934",
-        "usia_60_64": "19538",
-        "usia_65_69": "12866",
-        "usia_70_74": "9398",
-        "usia_75_tahun_ke_atas": "11205",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA BARAT",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "267577",
+          "perempuan": "265918",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "535631",
+          "semester": "1",
+          "jumlah_penduduk_km2": "4216.088",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "48976",
+          "usia_20_24": "49334",
+          "usia_5_9": "48265",
+          "usia_10_14": "46001",
+          "usia_0_4_thn": "32148",
+          "usia_25_29": "45700",
+          "usia_30_34": "41856",
+          "usia_35_39": "42855",
+          "usia_40_44": "38396",
+          "usia_45_49": "33721",
+          "usia_50_54": "29086",
+          "usia_55_59": "23029",
+          "usia_60_64": "18871",
+          "usia_65_69": "14399",
+          "usia_70_74": "10224",
+          "usia_75_tahun_ke_atas": "12770",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -163,25 +259,41 @@
       "kode_wilayah": "52.07",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "52",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "10488",
-        "usia_20_24": "10946",
-        "usia_5_9": "15119",
-        "usia_10_14": "14939",
-        "usia_0_4_thn": "11914",
-        "usia_25_29": "10137",
-        "usia_30_34": "10918",
-        "usia_35_39": "12069",
-        "usia_40_44": "11649",
-        "usia_45_49": "10557",
-        "usia_50_54": "7909",
-        "usia_55_59": "5817",
-        "usia_60_64": "4261",
-        "usia_65_69": "2813",
-        "usia_70_74": "1970",
-        "usia_75_tahun_ke_atas": "2349",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA BARAT",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "73481",
+          "perempuan": "73867",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "148585",
+          "semester": "1",
+          "jumlah_penduduk_km2": "1743.58",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "10851",
+          "usia_20_24": "12444",
+          "usia_5_9": "14573",
+          "usia_10_14": "15755",
+          "usia_0_4_thn": "10459",
+          "usia_25_29": "10370",
+          "usia_30_34": "10675",
+          "usia_35_39": "11557",
+          "usia_40_44": "12346",
+          "usia_45_49": "10923",
+          "usia_50_54": "9108",
+          "usia_55_59": "6562",
+          "usia_60_64": "4814",
+          "usia_65_69": "3152",
+          "usia_70_74": "2264",
+          "usia_75_tahun_ke_atas": "2732",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -189,25 +301,41 @@
       "kode_wilayah": "52.08",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "52",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "18655",
-        "usia_20_24": "20856",
-        "usia_5_9": "24367",
-        "usia_10_14": "22978",
-        "usia_0_4_thn": "22706",
-        "usia_25_29": "19965",
-        "usia_30_34": "22638",
-        "usia_35_39": "22325",
-        "usia_40_44": "19276",
-        "usia_45_49": "16655",
-        "usia_50_54": "14269",
-        "usia_55_59": "9546",
-        "usia_60_64": "8005",
-        "usia_65_69": "4414",
-        "usia_70_74": "3411",
-        "usia_75_tahun_ke_atas": "4186",
-        "tahun": "2021"
+      "nama_provinsi": "NUSA TENGGARA BARAT",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "130507",
+          "perempuan": "129672",
+          "semester": "2",
+          "tahun": "2022"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "262419",
+          "semester": "1",
+          "jumlah_penduduk_km2": "811.19",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "18678",
+          "usia_20_24": "21724",
+          "usia_5_9": "25137",
+          "usia_10_14": "23941",
+          "usia_0_4_thn": "20696",
+          "usia_25_29": "19818",
+          "usia_30_34": "21501",
+          "usia_35_39": "22810",
+          "usia_40_44": "20730",
+          "usia_45_49": "17041",
+          "usia_50_54": "15605",
+          "usia_55_59": "11400",
+          "usia_60_64": "8544",
+          "usia_65_69": "5710",
+          "usia_70_74": "3770",
+          "usia_75_tahun_ke_atas": "5314",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -215,25 +343,41 @@
       "kode_wilayah": "52.71",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "52",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "31941",
-        "usia_20_24": "35178",
-        "usia_5_9": "41601",
-        "usia_10_14": "38730",
-        "usia_0_4_thn": "38904",
-        "usia_25_29": "35782",
-        "usia_30_34": "36765",
-        "usia_35_39": "36605",
-        "usia_40_44": "32503",
-        "usia_45_49": "28728",
-        "usia_50_54": "23309",
-        "usia_55_59": "17905",
-        "usia_60_64": "12927",
-        "usia_65_69": "8684",
-        "usia_70_74": "5547",
-        "usia_75_tahun_ke_atas": "5619",
-        "tahun": "2019"
+      "nama_provinsi": "NUSA TENGGARA BARAT",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "225320",
+          "perempuan": "227492",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "452812",
+          "semester": "1",
+          "jumlah_penduduk_km2": "60.424",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "34613",
+          "usia_20_24": "36853",
+          "usia_5_9": "41116",
+          "usia_10_14": "41826",
+          "usia_0_4_thn": "31969",
+          "usia_25_29": "35608",
+          "usia_30_34": "35624",
+          "usia_35_39": "36529",
+          "usia_40_44": "35754",
+          "usia_45_49": "31365",
+          "usia_50_54": "27401",
+          "usia_55_59": "21491",
+          "usia_60_64": "16063",
+          "usia_65_69": "11259",
+          "usia_70_74": "7115",
+          "usia_75_tahun_ke_atas": "8226",
+          "tahun": "2023"
+        }
       }
     },
     {
@@ -241,25 +385,41 @@
       "kode_wilayah": "52.72",
       "level_wilayah": "kabupaten_kota",
       "kode_provinsi": "52",
-      "demografi": {
-        "semester": "2",
-        "usia_15_19": "10285",
-        "usia_20_24": "12076",
-        "usia_5_9": "14500",
-        "usia_10_14": "13869",
-        "usia_0_4_thn": "13339",
-        "usia_25_29": "12404",
-        "usia_30_34": "12914",
-        "usia_35_39": "12692",
-        "usia_40_44": "11136",
-        "usia_45_49": "9577",
-        "usia_50_54": "8034",
-        "usia_55_59": "6123",
-        "usia_60_64": "4707",
-        "usia_65_69": "3352",
-        "usia_70_74": "2106",
-        "usia_75_tahun_ke_atas": "2384",
-        "tahun": "2019"
+      "nama_provinsi": "NUSA TENGGARA BARAT",
+      "populasi": {
+        "jenis_kelamin": {
+          "laki_laki": "78932",
+          "perempuan": "80265",
+          "semester": "1",
+          "tahun": "2023"
+        },
+        "usia_produktif": {},
+        "penduduk": {
+          "jumlah_penduduk": "159197",
+          "semester": "1",
+          "jumlah_penduduk_km2": "207.888",
+          "tahun": "2023"
+        },
+        "demografi": {
+          "semester": "1",
+          "usia_15_19": "12311",
+          "usia_20_24": "12915",
+          "usia_5_9": "15030",
+          "usia_10_14": "14668",
+          "usia_0_4_thn": "11513",
+          "usia_25_29": "12501",
+          "usia_30_34": "12369",
+          "usia_35_39": "12781",
+          "usia_40_44": "12395",
+          "usia_45_49": "10811",
+          "usia_50_54": "9114",
+          "usia_55_59": "7381",
+          "usia_60_64": "5516",
+          "usia_65_69": "4027",
+          "usia_70_74": "2730",
+          "usia_75_tahun_ke_atas": "3135",
+          "tahun": "2023"
+        }
       }
     }
   ]
